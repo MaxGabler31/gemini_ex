@@ -1,0 +1,394 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+Overview
+ 
+We are a clinical stage biotechnology company advancing two innovative platform programs: a new class of oral therapeutic candidates for the treatment of hepatitis B virus (HBV) infection and a novel class of oral synthetic live biotherapeutic candidates, which are designed to treat disorders associated with the microbiome.
+ 
+Over 250 million people worldwide are chronically infected with HBV. Our HBV-cure program is pursuing multiple drug candidates that inhibit the HBV lifecycle and block the generation of covalently closed circular DNA (cccDNA), with the aim of increasing the current low cure rate for patients with HBV. We have discovered multiple novel Core protein Allosteric Modifiers (CpAMs), which are small molecules that directly target and allosterically modulate the HBV core (HBc) protein.
+ 
+Our Microbiome program consists of a fully integrated platform that includes a disease targeted strain identification and selection process, methods for strain isolation and growth under current Good Manufacturing Practice (cGMP) conditions, and a patent pending delivery system that we call GEMICEL®, which is designed to allow for targeted oral delivery of live biologic and conventional therapies to the lower gastrointestinal (GI) tract. Using our microbiome platform, we are developing product candidates for various disease indications, including ulcerative colitis, Crohn’s disease, irritable bowel syndrome, non-alcoholic steatohepatitis (NASH), immuno-oncology and Clostridium difficile infections (CDI), which we intend to develop either internally or in collaboration with partners.
+ 
+Business Strategy
+ 
+We are currently focused on enhancing the health and well-being of patients with hard-to-treat infectious diseases, such as chronic HBV and illnesses associated with a dysbiotic microbiome. This commitment drives our efforts to forge a new and differentiated path to treating these conditions, inspired by the needs of millions of affected patients. We are pursuing a portfolio of novel CpAMs with potential to substantially increase the cure rates of treated HBV patients and a novel class of oral synthetic live biotherapeutics designed to correct or repair a dysbiotic microbiome. Both of these conditions include substantial numbers of patients for whom current therapies may successfully suppress disease, but offer only low rates of cure. We intend to progress our HBV-cure and Microbiome programs using a variety of strategic arrangements, which may include collaborations, licenses, partnerships and other types of business arrangements. In January 2017, we entered into a Research, Development, Collaboration and License Agreement (the Collaboration Agreement) with Allergan Pharmaceuticals International Limited (Allergan) to develop and commercialize select microbiome gastrointestinal disease therapies. Pursuant to the terms of the Collaboration Agreement, in connection with the closing of the transaction on February 10, 2017, we received from Allergan an upfront payment of $50 million. Additionally, we are eligible to receive up to approximately $630 million in development milestone payments and up to approximately $2.15 billion in commercial milestone payments contingent upon the successful development and commercialization of licensed compounds for up to six different indications. We are also eligible to receive tiered royalties at rates ranging from the mid-single digits to the mid-teens based on net sales.
+ 
+HBV-Cure Program
+ 
+
+
+The goal of our HBV-cure program is to substantially increase clinical cure rates for those chronically infected with HBV, a pathogen that has infected over 250 million people worldwide and is associated with 887,000 deaths in 2015, according to the World Health Organization (WHO). Our HBV-cure research team is working on discovering and developing multiple CpAMs with the potential to inhibit the functional activities of the HBV core protein (HBc), at multiple points in the viral lifecycle.
+ 
+HBc is involved in several steps of the HBV lifecycle and is essential for HBV’s continued regeneration and prolonged survival. Modulation of HBc with our CpAMs has demonstrated preclinical proof of principle. In multiple cell-based models, CpAMs have been observed to selectively reduce viral load, which is the amount of infectious viral particles released from infected cells, and block the generation of closed circular covalent DNA (cccDNA), a special DNA moiety that resides in the cell nucleus of HBV-infected cells and is associated with viral persistence and chronic infection. The goal is to eradicate the infection with an orally-administered regimen. We believe that we are well positioned to execute on this strategy, with a scientific team that is highly experienced working on treatments for HBV.
+ 
+
+1
+-
+
+Background
+ 
+HBV is a chronic infectious disease of the liver. It is a leading global cause of chronic liver disease and liver transplants. The WHO estimates that over 250 million people worldwide are infected with HBV. According to the WHO, 887,000 people died in 2015 as a result of HBV, mostly from complications, including cirrhosis and hepatocellular carcinoma. The Centers for Disease Control and Prevention (CDC) estimates that between 850,000 and 2.2 million people in the United States have been infected with HBV, and the WHO has reported that an estimated 90 million people in China have chronic HBV. HBV is a global epidemic infecting more people than hepatitis C virus and HIV infections combined. A relatively small proportion of HBV patients currently receive treatment—according to the WHO, in 2015, of the over 250 million people living with HBV infection, the global treatment coverage only covered approximately 1.7 million. Further, less than 10% of treated patients exhibit a clinical cure, defined as loss of the viral surface antigen (HBsAg) with sustained response off therapy. Despite the low rates of treatment and clinical cure, the current worldwide market for HBV therapies is estimated to be $3.2 billion. If new therapies can improve cure rates, we believe the market could grow substantially due to an increase in the number of HBV patients expected to seek the new therapies. 
+Current Treatments
+ 
+Current therapeutic options for HBV include:
+ 
+
+• | Direct Acting Antiviral medications (Nucelos(t)ide analogs). Several antiviral medications—including lamivudine (Epivir®), adefovir (Hepsera®), telbivudine (Tyzeka®), tenofovir disoproxil fumarate and entecavir (Baraclude®)—effectively reduce circulating virus levels by inhibiting reverse transcription. Chronic therapy with these agents can result in reduced liver inflammation and fibrosis. Unfortunately, these are rarely curative, even after years of therapy, and viral replication resumes when therapy is stopped. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Pegylated Interferon alfa (PegIFN-). This synthetic version of a substance produced by the body to fight infection is used mainly for people infected with HBV who do not want to undergo long-term treatment (e.g., patients who might want to become pregnant within a few years). It is administered by injection. Cure rates are relatively low and side effects may be severe, including flu-like symptoms and depression. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our HBV Focus: Leveraging HBV Core Protein to Achieve a Clinical Cure using Core Protein Allosteric Modifiers (CpAMs)
+ 
+HBV is a DNA-virus that establishes a reservoir of cccDNA in the nucleus of infected cells that sustains infection in the liver. No current oral therapies target cccDNA activity directly, and thus molecules that can modulate cccDNA are highly sought in the HBV field. A key focus of our HBV-cure effort is targeting the HBc, a highly conserved viral structural protein that has no human homologue and is involved in numerous aspects of the HBV lifecycle, including the generation of the viral cccDNA. We have discovered multiple novel series of CpAMs, which are small molecules that directly target and allosterically modulate HBc functions. Our HBV pipeline therefore offers the potential for both first in class and best in class opportunities for developing agents that target critical steps involved in the cccDNA viral lifecycle. We believe that our approach of targeting viral cccDNA generation through inhibition of HBc functionality provides a promising foundation for substantially improving clinical cure rates for HBV.
+ 
+A well accepted benchmark for therapeutic agents aiming to decrease cccDNA levels is the use of several key viral antigens as surrogate biomarkers of active cccDNA. The same biomarkers can be used in both primary human hepatocyte cells and patients. On this basis, our CpAMs have shown preclinical proof of principle. In a variety of cell culture models, CpAMs have demonstrated the ability to reduce production of viral HBV DNA levels and known surrogate markers for cccDNA—HBV E antigen (HBeAg), HBV S antigen (HBsAg) and pre-genomic RNA (pgRNA). Sustained decreases in levels of HBsAg is considered a strong predictor of functional cure in patients and is a key biomarker for clinical development.
+ 
+Our clinical strategy encompasses testing CpAMs as a monotherapy, as required by regulatory agencies, to demonstrate their antiviral activity. Thereafter, all subsequent clinical trials in patients are anticipated to be in combination with other classes of HBV therapies. The lead product candidate from this program, ABI-H0731, was observed to be active in primary human hepatocytes and exhibited antiviral potency against all HBV genotypes tested (A, B, C and D) as well as nucleoside resistant mutants. ABI-H0731 has completed the Phase 1a portion of a Phase 1a/1b human clinical trial in New Zealand, and commenced the Phase 1b portion of the clinical trial in the second quarter of 2017 in New Zealand and other countries outside the United States. We expect to release topline interim data from the Phase 1b portion of the clinical trial and full results in the first half of 2018. Assuming a successful Phase 1b monotherapy clinical trial, we expect to initiate longer Phase 2 combination clinical trials in mid-2018 and potentially have initial data in the second half of 2018. Larger Phase 2b combination clinical trials are anticipated for 2019. We have also filed an Investigational New Drug (IND) application and have initiated an additional Phase 1a pharmacokinetic, safety and tolerability study of ABI-H0731 in the United States.
+ 
+
+2
+-
+
+ 
+
+In the Phase 1a dose ranging portion of our Phase 1a/1b clinical trial of ABI-H0731 in New Zealand, we assessed the safety, tolerability and pharmacokinetics of ABI-H0731 in 48 healthy volunteers. In this clinical trial, single ascending doses of 100-1,000 mg per day were evaluated in addition to 7-day repeat dosing with 800 mg once daily as well as 800 mg twice daily dosing. ABI-H0731 was reported to be well tolerated at all doses. No serious adverse events, no clinically significant adverse events, no withdrawals due to adverse events nor clinically significant changes in vital signs or electrocardiography findings were observed. Treatment emergent laboratory abnormalities were transient, minor and/or deemed not clinically significant. Treatment-related adverse events deemed by the clinical investigator to be possibly or probably related to the study drug included headaches and rashes, which were reported to be mild and transient and only observed at the highest doses. Pharmacokinetic data from the Phase 1a portion of the trial exhibited dose-dependent increases in plasma exposure levels, low subject-to-subject variability and a half-life supporting the potential for once daily dosing. ABI-H0731 was observed to be well absorbed and associated with plasma concentrations that we believe will be sufficient to suppress viral replication and cccDNA generation.
+ 
+The Phase 1b portion of the clinical trial commenced in the second quarter of 2017 at sites outside the United States. The Phase 1b trial is intended to assess the safety, tolerability and pharmacokinetics, as well as antiviral efficacy of ABI-H0731 in patients with chronic HBV infection. We expect to commence a separate Phase 2 combination clinical trial in mid-2018 in combination with other approved therapies that will treat patients for several months. This Phase 2 clinical trial will assess safety over a prolonged treatment period and monitor surrogate markers of cccDNA. We expect to commence a larger Phase 2b combination clinical trial in 2019 that is intended to be registrational in nature and monitor both surrogate biomarkers of cccDNA and sustained off-therapy antiviral responses in various patient populations.
+ 
+Our CpAM program provides opportunities to create a pipeline of antiviral drugs derived from diverse chemical scaffolds. In the fourth quarter of 2017, we announced the selection of our second product candidate from this program, ABI-H2158, which is currently undergoing IND-enabling studies. ABI-H2158 is an internally discovered and developed product candidate. In nonclinical studies, we observed enhanced potency of ABI-H2158 compared to ABI-H0731 while ABI-H2158 maintained a favorable pharmacokinetic profile. Pending the successful completion of IND-enabling studies, this product candidate is expected to begin a Phase 1a human clinical trial in the second half of 2018. We anticipate the selection of a third CpAM product candidate from this program by the end of the first half of 2018. 
+
+
+Our current intention is to focus our development and, if approved, commercialization efforts for our HBV-cure program in major markets throughout the world.
+ 
+License Agreement and Intellectual Property
+ 
+On September 3, 2013, we entered into an exclusive license agreement (the IURTC License Agreement) with Indiana University Research and Technology Corporation (IURTC) to acquire the rights to develop and commercialize products associated with multiple patents and patent applications covering aspects of our HBV program held by IURTC. The licensed intellectual property includes platform patent applications covering aspects of HBc, our novel mechanisms of action, formulation, methods of treatment and the novel drug development assays our team is creating. As part of this agreement, we are obligated to make milestone payments based upon the successful accomplishment of clinical and regulatory milestones. The aggregate amount of all performance milestone payments under the IURTC License Agreement, should all performance milestones through development be met, is $825,000. As of December 31, 2017, no performance milestone payments have been made. We anticipate that the first performance milestone payment will be made to IURTC in 2018. Under the IURTC License Agreement, we are also obligated to pay IURTC royalty payments based on net sales of the licensed technology ranging from 0.5% to 1.75%.
+ 
+In addition, the IURTC License Agreement requires an annual diligence maintenance fee as follows:
+ 
+
+2014 | $ | 25,000 
+--------------------------------------------------------------+---+--------
+2015 | $ | 50,000 
+2016 through the year in which first commercial sale occurs | $ | 75,000 
+Year following first commercial sale and all subsequent years | $ | 100,000
+
+ 
+Milestone payments received by IURTC are fully creditable against the diligence maintenance fee for the year in which they are received.
+ 
+Under the IURTC License Agreement, we also may grant sublicenses to third parties and receive revenues from these sublicenses, a portion of which will be paid to IURTC. Pursuant to this agreement, we must provide IURTC with a development plan, update this plan annually and achieve certain commercial goals. We have also agreed to indemnify IURTC against certain actions and claims in connection with the agreement or the use of any of the licensed patent rights.
+ 
+The IURTC License Agreement may be terminated by us, with or without cause, upon 90 days advance written notice, by IURTC upon our material breach with 60 days advance written notice or by IURTC, in certain cases, upon our insolvency or bankruptcy immediately upon written notice.
+ 
+We have one pending U.S. patent application, and related worldwide patent applications, and one pending PCT patent application, directed to ABI-H0731, all of which are co-owned with Indiana University and licensed to us. We also have a pending provisional application directed to formulations of ABI-H0731 which is owned by us. In addition, we have two pending PCT applications, co-owned with Indiana University, and four provisional patent applications, owned by us, directed to compounds related to ABI-H0731. We have one provisional patent application owned by us directed to ABI-H2158, which was developed outside of the IURTC License Agreement.
+ 
+
+3
+-
+
+   Microbiome Program Platform
+ 
+
+
+Background
+ 
+Our Microbiome program is based on the targeted delivery of novel microbiome-based therapies in a patent pending oral formulation, called GEMICEL ®, which applies our novel coating and encapsulation technology allowing for targeted delivery of complex agents to select regions of the gastrointestinal (GI) tract. Using this proprietary delivery platform, we aim to deliver selected combinations of monoculture strains of beneficial bacteria in novel “synthetic formats” to the GI tract. In September 2017, we elected not to initiate a Phase 1b clinical trial of our initial product candidate, ABI-M101, in patients with Clostridium difficile infections (CDI) who have relapsed after two or three standard antibiotic regimens. We will continue to assess development activities with respect to ABI-M101 over the next twelve months. The Microbiome program is prioritizing efforts on optimizing our lead product candidates, ABI-M201 (Ulcerative Colitis) and ABI-M301 (Crohn’s disease) in preparation for studies to support potential IND applications. Using our microbiome platform, we are exploring additional product candidates for other disease indications, including irritable bowel syndrome, non-alcoholic steatohepatitis (NASH), immuno-oncology and CDI, which indications we may pursue either internally or in collaboration with partners.
+ 
+In recent years, there has been increasing scientific evidence suggesting the therapeutic potential of the human microbiome—the billions of microbes living in and on people—to impact health and disease. Our approach builds upon experience reported in the literature of successfully treating various disease indications with fecal material transplants (FMT) and seeks to provide a potentially curative therapy using a “drug like” approach that delivers targeted and specific microbiome therapies in an oral capsule.
+ 
+Collaboration Agreement, License Agreement and Intellectual Property
+ 
+Allergan
+ 
+On January 6, 2017, we entered into the Collaboration Agreement with Allergan to develop and commercialize select microbiome gastrointestinal programs. Pursuant to the Collaboration Agreement, we granted Allergan an exclusive worldwide license for rights to preclinical compounds ABI-M201 and ABI-M301, targeting ulcerative colitis (UC) and Crohn's disease (CD), respectively, as well as two additional compounds to be identified by us for irritable bowel syndromes (IBS).
+ 
+Under the Collaboration Agreement, we and Allergan will collaborate on research and development activities with respect to the licensed compounds in accordance with a mutually agreed upon research and development plan.
+ 
+Pursuant to the terms of the Collaboration Agreement, in connection with the closing of the transaction on February 10, 2017, we received from Allergan an upfront payment of $50 million. Additionally, we are eligible to receive up to approximately $630 million in development milestone payments and up to approximately $2.15 billion in commercial milestone payments contingent upon the successful development and commercialization of licensed compounds for up to six different indications. We are also eligible to receive tiered royalties at rates ranging from the mid-single digits to the mid-teens based on net sales. We and Allergan have agreed to share development costs up to an aggregate of $75 million through proof-of-concept (POC) studies on a ⅓, ⅔ basis, respectively, and Allergan has agreed to assume all post-POC development costs. In the event any pre-POC development costs exceed $75 million in the aggregate, we may elect either (a) to fund ⅓ of such costs in excess of $75 million or (b) to allow Allergan to deduct from future development milestone payments ⅓ of the development costs funded by Allergan in excess of $75 million plus a premium of 25%. We have an option to co-promote the licensed programs in the United States and China, subject to certain conditions set forth in the Collaboration Agreement.
+ 
+Allergan may terminate the Collaboration Agreement for convenience at any time upon either 90 days’ (prior to the initiation of the first POC trial of a licensed product) or 120 days’ (after the initiation of the first POC trial of a licensed product), as applicable, advance written notice to us. The Collaboration Agreement also contains customary provisions for termination by either party, including in the event of breach of the Collaboration Agreement, subject to cure.
+ 
+
+4
+-
+
+Therabiome
+ 
+On November 8, 2013, we entered into a License and Collaboration Agreement with Therabiome, LLC (Therabiome) for all intellectual property and know-how owned or controlled by Therabiome relating to the oral delivery of pharmaceutical drugs to specific sites in the intestine, using a pH sensitive release platform technology. Under the agreement, Therabiome granted us the exclusive worldwide license, with rights to sublicense, to develop the intellectual property for commercialization (a) in the use of bacteria, viruses, proteins, and small molecules by oral delivery using the licensed intellectual property in (i) gastrointestinal dysbiosis, including but not limited to C. difficile associated diseases, irritable bowel syndrome-constipation, irritable bowel syndrome-diarrhea, inflammatory bowel disease, metabolic syndrome, type 2 diabetes, obesity and hypertension, (ii) auto-immune disorders and autism, including but not limited to as controlled by bacteria or virus, and (iii) orally delivered vaccines, including viral and bacterial, and (b) any oral delivery of small molecules using the licensed intellectual property.  We will be solely responsible for all research and development activities with respect to any product we develop under the license.
+ 
+For the license, we paid Therabiome an upfront non-refundable license fee of $300,000. In September 2014, we paid Therabiome $100,000 upon the occurrence of the first proof of principle for a bacteria strain. We will be required to pay an additional $100,000 upon the occurrence of the proof of principle for a virus. We must pay Therabiome clinical and regulatory milestones for each product or therapy advanced from the platform, for U.S. regulatory milestones, depending on whether the milestone occurs before the filing of the first new drug application (NDA) for a product or after the first, second or third NDA filings, as follows:
+ 
+
+Regulatory and Clinical Milestones | 
+------------------------------------------------------------------------------------------+------------------------
+Upon the filing of an IND with the FDA: | $100,000 - $130,000 
+First dose first patient - Phase I Clinical Trial | $250,000 - $325,000 
+First dose first patient - Phase II Clinical Trial | $500,000 - $650,000 
+First dose first patient - Phase III Clinical Trial | $750,000 - $975,000 
+Upon filing of an NDA or BLA with the FDA | $1,000,000 - $1,300,000
+Upon marketing approval by the FDA | $3,000,000 
+Upon approval of a supplemental NDA (sNDA) for a new Indication, in the United States | $1,000,000 
+
+ 
+We also must pay Therabiome lesser amounts for foreign regulatory milestones, which vary by country and region, and which depend on whether the milestone occurs before the filing of the first NDA filing or after the first, second or third NDA filings. These payments will be: one-third of the U.S. milestones paid upon a foreign equivalent of an IND and marketing approval for each product in the European Union or Japan; 10% of the U.S. milestones paid upon a foreign equivalent of an IND and marketing approval for each product in China; 10% of the U.S. milestone paid upon marketing approval for each product in India and Brazil; and 1% of the U.S. milestone paid upon marketing approval for each product in all other countries. We also must pay Therabiome royalties on annual net product sales in the low to mid-single digit percentages plus, once annual net sales exceed two specified thresholds, a one-time cash payment upon reaching each threshold. Pursuant to this agreement, we and Therabiome have agreed to indemnify one another against certain claims in connection with the agreement.
+ 
+This agreement may be terminated by us, with or without cause, upon 90 days prior written notice, by either party upon the other party’s material breach with 180 days prior written notice or by either party upon the other party’s challenge of the validity or enforceability or any issued patent within the licensed intellectual property with 90 days prior written notice. Additionally, either party may terminate the agreement upon an event of bankruptcy with respect to the other party.
+ 
+We have two pending U.S. patent application families and related foreign pending patent applications directed to the delivery mechanism licensed to us from Therabiome. We also own the GEMICEL® trademark covering the delivery mechanism we have licensed from Therabiome.
+ 
+Government Regulation
+ 
+Government authorities in the United States, at the federal, state and local level, and in other countries extensively regulate, among other things, the research, development, testing, manufacture, including any manufacturing changes, packaging, storage, recordkeeping, labeling, advertising, promotion, distribution, marketing, post-approval monitoring and reporting, import and export of pharmaceutical and biological products, such as those we are developing.
+
+5
+-
+
+ 
+
+U.S. drug approval process
+ 
+In the United States, the FDA regulates drugs under the Federal Food, Drug, and Cosmetic Act (FDCA) and implementing regulations, and biological products under both the FDCA and the Public Health Service Act (PHSA) and implementing regulations. The process of obtaining regulatory approvals and the subsequent compliance with appropriate federal, state, local and foreign statutes and regulations requires the expenditure of substantial time and financial resources. Failure to comply with the applicable U.S. requirements at any time during the product development process, approval process or after approval, may subject an applicant to a variety of administrative or judicial sanctions, such as the FDA’s refusal to approve pending applications, withdrawal of an approval, imposition of a clinical hold, issuance of warning letters and untitled letters, product recalls, product seizures, total or partial suspension of production or distribution injunctions, fines, refusals of government contracts, restitution, disgorgement of profits or civil or criminal penalties.
+ 
+The process required by the FDA before a drug or biological product may be marketed in the United States generally involves the following:
+ 
+
+• | completion of nonclinical laboratory tests and animal studies in compliance with the FDA’s good laboratory practice (GLP) regulations, as required;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | submission to the FDA of an IND which must become effective before human clinical trials may begin;
+--+----------------------------------------------------------------------------------------------------
+
+
+• | approval by an independent institutional review board (IRB) at each clinical site before each trial may be initiated;
+--+----------------------------------------------------------------------------------------------------------------------
+
+
+• | performance of adequate and well-controlled human clinical trials in accordance with good clinical practices (GCP) to establish the safety and efficacy of the proposed drug or biological product for each indication;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | submission to the FDA of a new drug application (NDA) or a biologics license application (BLA);
+--+------------------------------------------------------------------------------------------------
+
+
+• | satisfactory completion of an FDA inspection of the manufacturing facility or facilities at which the product is produced to assess compliance with current good manufacturing practices (cGMP) requirements and to assure that the facilities, methods and controls are adequate to preserve the product’s identity, strength, quality and purity; and
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | FDA review and approval of the NDA or BLA.
+--+-------------------------------------------
+
+  
+Nonclinical Studies and IND
+ 
+Nonclinical studies include laboratory evaluation of product chemistry and formulation, as well as in vitro and animal studies to assess the potential for adverse events and in some cases to establish a rationale for therapeutic use. The conduct of nonclinical studies is subject to federal regulations and requirements, including GLP regulations for safety/toxicology studies. An IND sponsor must submit the results of the nonclinical tests, together with manufacturing information, analytical data, any available clinical data or literature and plans for clinical trials, among other things, to the FDA as part of an IND. Some long-term nonclinical testing, such as animal tests of reproductive adverse events and carcinogenicity, may continue after the IND is submitted. For some products, the FDA may waive the need for certain nonclinical tests. An IND automatically becomes effective 30 days after receipt by the FDA, unless before that time the FDA raises concerns or questions related to one or more proposed clinical trials and places the trial on clinical hold. If an IND or clinical study is placed on clinical hold, the IND sponsor and the FDA must resolve any outstanding concerns before the clinical trial can begin. As a result, submission of an IND may not result in the FDA allowing clinical trials to commence.
+ 
+Clinical trials
+ 
+Clinical trials involve the administration of the investigational new drug or biological product to human subjects under the supervision of qualified investigators in accordance with GCP requirements, which include, among other things, the requirement that all research subjects provide their informed consent in writing before their participation in any clinical trial. Clinical trials are conducted under written study protocols detailing, among other things, the objectives of the study, the parameters to be used in monitoring safety, and the effectiveness criteria to be evaluated. A protocol for each clinical trial and any subsequent protocol amendments must be submitted to the FDA as part of the IND. In addition, an IRB at each institution participating in the clinical trial must review and approve the plan for any clinical trial before it commences at that institution, and the IRB must conduct continuing review. The IRB must review and approve, among other things, the study protocol and informed consent information to be provided to study subjects. An IRB must operate in compliance with FDA regulations. Information about certain clinical trials must be submitted within specific timeframes to the National Institutes of Health for public dissemination at www.clinicaltrials.gov.
+ 
+Human clinical trials are typically conducted in three sequential phases, which may overlap or be combined:
+ 
+
+• | Phase 1: The drug or biological product is initially introduced into healthy human subjects or patients with the target disease or condition and tested for safety, dosage tolerance, absorption, metabolism, distribution, excretion and, if possible, to gain an early indication of its effectiveness.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+6
+-
+
+
+• | Phase 2: The drug or biological product is administered to a limited patient population to identify possible adverse effects and safety risks, to preliminarily evaluate the efficacy of the product for specific targeted diseases and to determine dosage tolerance and optimal dosage.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Phase 3: The drug or biological product is administered to an expanded patient population in adequate and well-controlled clinical trials to generate sufficient da ta to statistically confirm the efficacy and safety of the product for approval, to establish the overall risk-benefit profile of the product and to provide adequate information for the labeling of the product.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Progress reports detailing the results of the clinical trials must be submitted at least annually to the FDA. Additionally, IND safety reports must be submitted for serious and unexpected suspected adverse reactions, findings from animal or in vitro testing or other studies that suggest a significant risk to humans, and any clinically important increase in the rate of a serious suspected adverse reaction over that listed in the protocol or investigator brochure. Phase 1, Phase 2 and Phase 3 clinical trials may not be completed successfully within any specified period, or at all. Furthermore, the FDA or the sponsor may suspend or terminate a clinical trial at any time on various grounds, including a finding that the research subjects are being exposed to an unacceptable health risk. Similarly, an IRB can suspend or terminate approval of a clinical trial at its institution if the clinical trial is not being conducted in accordance with the IRB’s requirements or if the drug or biological product has been associated with unexpected serious harm to patients.
+ 
+Marketing approval
+ 
+Assuming successful completion of the required clinical testing, the results of the nonclinical studies and clinical trials, together with detailed information relating to the product’s chemistry, manufacture, controls and proposed labeling, among other things, are submitted to the FDA as part of an NDA or BLA requesting approval to market the product for one or more indications. Under federal law, the submission of most NDAs and BLAs is additionally subject to a substantial application user fee, currently approximately $2.4 million and the sponsor of an approved NDA or BLA is also subject to an annual program fee currently set at approximately $304,000 for fiscal year 2018. These fees are typically adjusted annually.
+ 
+The FDA conducts a preliminary review of all NDAs and BLAs within the first 60 days after submission before accepting them for filing to determine whether they are sufficiently complete to permit substantive review. The FDA may request additional information rather than accept an NDA or BLA for filing. In this event, the application must be resubmitted with the additional information. The resubmitted application is also subject to review before the FDA accepts it for filing. Once the submission is accepted for filing, the FDA begins an in-depth substantive review. The FDA has agreed to specified performance goals in the review of NDAs and BLAs. Under these goals, the FDA has committed to review most original applications for non-priority products within ten months, and most original applications for priority review products, that is, drugs and biological products that the FDA determines represent a significant improvement over existing therapy, within six months. For NDAs for novel products and all BLAs, the ten and six-month time periods runs from the filing date; for all other original applications, the ten and six-month time periods run from the submission date. The review process may be extended by the FDA for three additional months to consider certain information or clarification regarding information already provided in the submission. Despite these review goals, it is not uncommon for FDA review of an NDA or BLA to extend beyond the goal date. The FDA may also refer applications for novel drugs or products that present difficult questions of safety or efficacy to an advisory committee, typically a panel that includes clinicians and other experts, for review, evaluation and a recommendation as to whether the application should be approved. The FDA is not bound by the recommendations of an advisory committee, but it considers such recommendations carefully when making decisions.
+ 
+Before approving an NDA or BLA, the FDA typically will inspect the facility or facilities where the product is manufactured. The FDA will not approve an application unless it determines that the manufacturing processes and facilities are in compliance with cGMP requirements and adequate to assure consistent production of the product within required specifications. In addition, before approving an NDA or BLA, the FDA will typically inspect one or more clinical sites to assure compliance with GCP and integrity of the clinical data submitted.
+ 
+The testing and approval process requires substantial time, effort and financial resources, and some trials may take many years to complete. Data obtained from clinical activities are not always conclusive and may be susceptible to varying interpretations, which could delay, limit or prevent regulatory approval. The FDA may not grant approval on a timely basis, or at all. We may encounter difficulties or unanticipated costs in our efforts to develop our product candidates and secure necessary governmental approvals, which could delay or preclude us from marketing our products.
+ 
+After the FDA’s evaluation of the NDA or BLA and inspection of the manufacturing facilities, the FDA may issue an approval letter or a complete response letter. An approval letter authorizes commercial marketing of the drug or biological product with specific prescribing information for specific indications. A complete response letter generally outlines the deficiencies in the submission and may require substantial additional testing or information in order for the FDA to reconsider the application. If and when those deficiencies have been addressed to the FDA’s satisfaction in a resubmission of the NDA or BLA, the FDA will issue an approval letter. The FDA has committed to reviewing such resubmissions in two or six months depending on the type of information included. Even with submission of this additional information, the FDA ultimately may decide that the application does not satisfy the regulatory criteria for approval and refuse to approve the NDA or BLA. Even if the FDA approves a product, it may limit the approved indications for use for the product, require that contraindications, warnings or precautions be included in the product labeling, require that post-approval studies, including Phase 4 clinical trials, be conducted to further assess a drug’s safety after approval, require testing and surveillance programs to monitor the product after commercialization, or impose other conditions, including distribution and use restrictions or other risk management mechanisms, including Risk Evaluation and Mitigation Strategies (REMs), which can materially affect the potential market and profitability of the product or impose new labeling, testing or distribution and use requirements. The FDA may prevent or limit further marketing of a product based on the results of post-market studies or surveillance programs. After approval, some types of changes to the approved product, such as adding new indications, manufacturing changes and additional labeling claims, are subject to further testing requirements and FDA review and approval.
+ 
+
+7
+-
+
+ 
+
+Fast track designation
+ 
+The FDA is required to facilitate and expedite the development and review of drugs and biological products that are intended for the treatment of a serious or life-threatening disease or condition for which there is no effective treatment and which demonstrate the potential to address unmet medical needs for the disease or condition. Under the fast track program, the sponsor of a new product candidate may request the FDA to designate the product for a specific indication as a fast track product concurrent with or after the filing of the IND for the product candidate. The FDA must determine if the product candidate qualifies for fast track designation within 60 calendar days after receipt of the sponsor’s request.
+ 
+In addition to other benefits, such as the ability to use surrogate endpoints and have greater interactions with the FDA, the FDA may initiate review of sections of a fast track product’s NDA or BLA before the application is complete. This rolling review is available if the applicant provides and the FDA approves a schedule for the submission of the remaining information and the applicant pays applicable user fees. However, the FDA’s time period goal for reviewing a fast track application does not begin until the last section of the NDA or BLA is submitted. In addition, the fast track designation may be withdrawn by the FDA if the FDA believes that the designation is no longer supported by data emerging in the clinical trial process.
+ 
+Priority review
+ 
+Under FDA policies, a product candidate may be eligible for priority review, a review generally within a six-month time frame from the time a complete application is received or filed. Products generally are eligible for priority review if they are intended for treatment of a serious or life-threatening disease or condition and provide a significant improvement in safety or effectiveness compared to marketed products in the treatment, diagnosis or prevention of a serious disease or condition. A fast track designated product candidate would ordinarily meet the FDA’s criteria for priority review.
+ 
+Accelerated approval
+ 
+Under the FDA’s accelerated approval regulations, the FDA may approve a drug or biological product for a serious or life-threatening illness that provides meaningful therapeutic benefit to patients over existing treatments based upon a surrogate endpoint that is reasonably likely to predict clinical benefit or on a clinical endpoint that can be measured earlier than irreversible morbidity or mortality (IMM). In clinical trials, a surrogate endpoint is a measurement of laboratory or clinical signs of a disease or condition that substitutes for a direct measurement of how a patient feels, functions or survives. Surrogate endpoints can often be measured more easily or more rapidly than clinical endpoints. A product candidate approved on this basis is subject to rigorous post-marketing compliance requirements, including the completion of Phase 4 or post-approval clinical trials to confirm the effect on the clinical endpoint. Failure to conduct required post-approval studies, or confirm a clinical benefit during post-marketing studies, would allow the FDA to withdraw the drug from the market on an expedited basis. All promotional materials for drug candidates approved under accelerated regulations are subject to prior review by the FDA.
+ 
+Breakthrough therapy designation
+ 
+Under the provisions of the new Food and Drug Administration Safety and Innovation Act (FDASIA), enacted in 2012, a sponsor can request designation of a product candidate as a “breakthrough therapy.” A breakthrough therapy is defined as a drug or biological product that is intended, alone or in combination with one or more other drugs, to treat a serious or life-threatening disease or condition, and preliminary clinical evidence indicates that the drug or biological product may demonstrate substantial improvement over existing therapies on one or more clinically significant endpoints, such as substantial treatment effects observed early in clinical development. Drugs and biological products designated as breakthrough therapies also may be eligible for priority review. The FDA must take certain actions, such as holding timely meetings and providing advice, intended to expedite the development and review of an application for approval of a breakthrough therapy. Even if a product qualifies for one or more of these programs, the FDA may later decide that the product no longer meets the conditions for qualification or decide that the time period for FDA review or approval will not be shortened.
+ 
+
+8
+-
+
+Qualified Infectious Disease Products
+ 
+Under the provisions of FDASIA, a sponsor can request designation of a product candidate as a qualified infectious disease product (QIDP). A QIDP is an antibacterial or antifungal drug for human use intended to treat serious or life threatening infections, including those caused by (i) an antibacterial or antifungal resistant pathogen, including novel or emerging infectious pathogens; or (ii) qualifying pathogens listed by the FDA. Examples include (a) resistant gram positive pathogens, including methicillin-resistant Staphylococcus aureus, vancomycin-resistant Staphylococcus aureus, and vancomycin-resistant enterococcus; (b) multi-drug resistant gram negative bacteria, including Acinetobacter, Klebsiella, Pseudomonas, and E. coli species; (c) multi-drug resistant tuberculosis; and (d) Clostridium difficile. A drug that receives QIDP designation is eligible under the statute for fast track designation and priority review and an additional five years of market exclusivity added to certain existing exclusivity periods. The FDA must determine if the product candidate qualifies as a QIDP within 60 calendar days after receipt of the sponsor’s request.
+ 
+Orphan drugs
+ 
+Under the Orphan Drug Act, the FDA may grant orphan drug designation to drugs or biological products intended to treat a rare disease or condition, which is generally defined as a disease or condition that affects fewer than 200,000 individuals in the United States. Orphan drug designation must be requested before submitting an NDA or BLA. After the FDA grants orphan drug designation, the identity of the product and its potential orphan use are disclosed publicly by the FDA. Orphan drug designation does not shorten the duration of the regulatory review and approval process. The first NDA or BLA applicant to receive FDA approval for a particular active moiety to treat a particular disease with FDA orphan drug designation is entitled to a seven-year exclusive marketing period in the United States for that product and indication. During the seven-year exclusivity period, the FDA may not approve any other applications to market the same drug or biological product for the same orphan indication, except in limited circumstances, such as a showing of clinical superiority to the product with orphan drug exclusivity. A drug or biological product will be considered clinically superior if it is shown to be safer, more effective or makes a major contribution to patient care. Orphan drug exclusivity does not prevent the FDA from approving a different drug or biological product for the same orphan disease or condition, or the same drug or biological product for a different disease or condition. Among the other benefits of orphan drug designation are tax credits for certain research and a waiver of the NDA/BLA application user fee.
+ 
+Pediatric information
+ 
+Under the Pediatric Research Equity Act of 2003, as amended, an NDA, BLA or supplement to an NDA or BLA for drug or biological products with certain novel features (e.g., new active ingredient new indication) must contain data that are adequate to assess the safety and effectiveness of the drug or biological product for the claimed indications in all relevant pediatric subpopulations, and to support dosing and administration for each pediatric subpopulation for which the product is safe and effective. The FDA may, on its own initiative or at the request of the applicant, grant deferrals for submission of some or all pediatric data until after approval of the product for use in adults, or full or partial waivers from the pediatric data requirements. A sponsor of a new drug or biological product subject to the above pediatric testing requirements also is required to submit to the FDA a pediatric study plan generally 60 days after an end-of-Phase 2 meeting with the agency. Unless otherwise required by regulation, the pediatric data requirements do not apply to products with orphan drug designation.
+ 
+Combination products
+ 
+The FDA regulates combinations of products that cross FDA centers, such as drug, biologic or medical device components that are physically, chemically or otherwise combined into a single entity, as a combination product. The FDA center with primary jurisdiction for the combination product will take the lead in the premarket review of the product, with the other center consulting or collaborating with the lead center.
+ 
+The FDA’s Office of Combination Products (OCP) determines which center will have primary jurisdiction for the combination product based on the combination product’s “primary mode of action.” A mode of action is the means by which a product achieves an intended therapeutic effect or action. The primary mode of action is the mode of action that provides the most important therapeutic action of the combination product, or the mode of action expected to make the greatest contribution to the overall intended therapeutic effects of the combination product.
+ 
+Often it is difficult for the OCP to determine with reasonable certainty the most important therapeutic action of the combination product. In those difficult cases, the OCP will consider consistency with other combination products raising similar types of safety and effectiveness questions, or which center has the most expertise to evaluate the most significant safety and effectiveness questions raised by the combination product.
+ 
+A sponsor may use a voluntary formal process, known as a Request for Designation, when the product classification is unclear or in dispute, to obtain a binding decision as to which center will regulate the combination product. If the sponsor objects to that decision, it may request that the agency reconsider that decision.
+ 
+Other regulatory requirements
+ 
+Any drug or biological product manufactured or distributed by us pursuant to FDA approvals will be subject to pervasive and continuing regulation by the FDA, including, among other things, requirements relating to recordkeeping, periodic reporting, product sampling and distribution, advertising and promotion and reporting of adverse experiences with the product. After approval, most changes to the approved product, such as adding new indications or other labeling claims, are subject to prior FDA review and approval.
+ 
+
+9
+-
+
+ 
+
+The FDA may impose a number of post-approval requirements, including REMs, as a condition of approval of an NDA or BLA. For example, the FDA may require post-marketing testing, including Phase 4 clinical trials, and surveillance to further assess and monitor the product’s safety and effectiveness after commercialization.
+ 
+In addition, drug manufacturers and other entities involved in the manufacture and distribution of approved drugs are required to register their establishments with the FDA and state agencies, and are subject to periodic unannounced inspections by the FDA and these state agencies for compliance with cGMP requirements. Changes to the manufacturing process are strictly regulated and often require prior FDA approval before being implemented. FDA regulations also require investigation and correction of any deviations from cGMP and impose reporting and documentation requirements upon us and any third-party manufacturers that we may decide to use. Accordingly, manufacturers must continue to expend time, money and effort in the areas of production and quality control to maintain cGMP compliance.
+ 
+Once an approval is granted, the FDA may withdraw the approval if compliance with regulatory requirements and standards is not maintained or if problems occur after the product reaches the market. Later discovery of previously unknown problems with a product, including adverse events of unanticipated severity or frequency, or with manufacturing processes, or failure to comply with regulatory requirements, may result in revisions to the approved labeling to add new safety information, imposition of post-market studies or clinical trials to assess new safety risks or imposition of distribution or other restrictions under a REM program. Other potential consequences include, among other things:
+ 
+
+• | restrictions on the marketing or manufacturing of the product, complete withdrawal of the product from the market or product recalls;
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | fines, warning letters or holds on post-approval clinical trials;
+--+------------------------------------------------------------------
+
+
+• | refusal of the FDA to approve pending applications or supplements to approved applications, or suspension or revocation of product approvals;
+--+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | product seizure or detention, or refusal to permit the import or export of products; or
+--+----------------------------------------------------------------------------------------
+
+
+• | consent decrees, injunctions or the imposition of civil or criminal penalties.
+--+-------------------------------------------------------------------------------
+
+ 
+The FDA strictly regulates marketing, labeling, advertising and promotion of products that are placed on the market. Drugs and biological products generally may be promoted only for the approved indications and in accordance with the provisions of the approved labeling. The FDA and other agencies actively enforce the laws and regulations prohibiting the promotion of off label uses, and a company that is found to have improperly promoted off label uses may be subject to significant liability.
+ 
+Additional provisions
+ 
+In addition to FDA restrictions on marketing of pharmaceutical products, several other types of state and federal laws have been applied to restrict certain marketing practices in the pharmaceutical industry in recent years. These laws include anti-kickback statutes and false claims statutes. The federal anti-kickback statute prohibits, among other things, knowingly and willfully offering, paying, soliciting or receiving remuneration to induce or in return for purchasing, leasing, ordering or arranging for the purchase, lease or order of any healthcare item or service reimbursable under Medicare, Medicaid or other federally financed healthcare programs. This statute has been interpreted to apply to arrangements between pharmaceutical manufacturers on the one hand and prescribers, purchasers and formulary managers on the other. Violations of the anti-kickback statute are punishable by imprisonment, criminal fines, civil monetary penalties and exclusion from participation in federal healthcare programs. Although there are a number of statutory exemptions and regulatory safe harbors protecting certain common activities from prosecution or other regulatory sanctions, the exemptions and safe harbors are drawn narrowly, and practices that involve remuneration intended to induce prescribing, purchases or recommendations may be subject to scrutiny if they do not qualify for an exemption or safe harbor.
+ 
+Federal false claims laws prohibit any person from knowingly presenting, or causing to be presented, a false claim for payment to the federal government, or knowingly making, or causing to be made, a false statement to have a false claim paid. Recently, several pharmaceutical and other healthcare companies have been prosecuted under these laws for allegedly inflating drug prices they report to pricing services, which in turn were used by the government to set Medicare and Medicaid reimbursement rates, and for allegedly providing free product to customers with the expectation that the customers would bill federal programs for the product. In addition, certain marketing practices, including off-label promotion, may also violate false claims laws. The majority of states also have statutes or regulations similar to the federal anti-kickback law and false claims laws, which apply to items and services reimbursed under Medicaid and other state programs, or, in several states, apply regardless of the payor.
+ 
+Physician Drug Samples
+ 
+As part of the sales and marketing process, pharmaceutical companies frequently provide samples of approved drugs to physicians. The Prescription Drug Marketing Act (PDMA) imposes requirements and limitations upon the provision of drug samples to physicians, as well as prohibits states from licensing distributors of prescription drugs unless the state licensing program meets certain federal guidelines that include minimum standards for storage, handling and record keeping. In addition, the PDMA sets forth civil and criminal penalties for violations.
+
+10
+--
+
+Foreign Regulation
+ 
+In order to market any product outside of the United States, we would need to comply with numerous and varying regulatory requirements of other countries regarding safety and efficacy and governing, among other things, clinical trials, marketing authorization, commercial sales and distribution of our products. Whether or not we obtain FDA approval for a product, we would need to obtain the necessary approvals by the comparable regulatory authorities of foreign countries before we can commence clinical trials or marketing of the product in those countries. The approval process varies from country to country and can involve additional product testing and additional administrative review periods. The time required to obtain approval in other countries might differ from and be longer than that required to obtain FDA approval. Regulatory approval in one country does not ensure regulatory approval in another, but a failure or delay in obtaining regulatory approval in one country may negatively impact the regulatory process in others.
+New Legislation and Regulations
+ 
+From time to time, legislation is drafted, introduced and passed in Congress that could significantly change the statutory provisions governing the testing, approval, manufacturing and marketing of products regulated by the FDA. In addition to new legislation, FDA regulations and policies are often revised or interpreted by the agency in ways that may significantly affect our business and our products. It is impossible to predict whether further legislative changes will be enacted or whether FDA regulations, guidance, policies or interpretations changed or what the effect of such changes, if any, may be.
+Pharmaceutical Coverage, Pricing and Reimbursement
+ 
+Significant uncertainty exists as to the coverage and reimbursement status of any drug products for which we may obtain regulatory approval. Sales of any of our product candidates, if approved, will depend, in part, on the extent to which the costs of the products will be covered by third-party payors, including government health programs such as Medicare and Medicaid, commercial health insurers and managed care organizations. The process for determining whether a payor will provide coverage for a drug product may be separate from the process for setting the price or reimbursement rate that the payor will pay for the drug product once coverage is approved. Third-party payors may limit coverage to specific drug products on an approved list, or formulary, which might not include all of the approved drugs for a particular indication.
+ 
+In order to secure coverage and reimbursement for any product that might be approved for sale, we may need to conduct expensive pharmacoeconomic studies in order to demonstrate the medical necessity and cost-effectiveness of the product, in addition to the trials required to obtain FDA or other comparable regulatory approvals. Our product candidates may not be considered medically necessary or cost-effective. A payor’s decision to provide coverage for a drug product does not imply that an adequate reimbursement rate will be approved. Third-party reimbursement may not be sufficient to enable us to maintain price levels high enough to realize an appropriate return on our investment in product development.
+ 
+The containment of healthcare costs has become a priority of federal, state and foreign governments, and the prices of drugs have been a focus in this effort. Third-party payors are increasingly challenging the prices charged for medical products and services and examining the medical necessity and cost-effectiveness of medical products and services, in addition to their safety and efficacy. If these third-party payors do not consider our products to be cost-effective compared to other available therapies, they may not cover our products after approval as a benefit under their plans or, if they do, the level of payment may not be sufficient to allow us to sell our products at a profit. The U.S. government, state legislatures and foreign governments have shown significant interest in implementing cost containment programs to limit the growth of government-paid health care costs, including price controls, restrictions on reimbursement and requirements for substitution of generic products for branded prescription drugs. Adoption of such controls and measures, and tightening of restrictive policies in jurisdictions with existing controls and measures, could limit payments for pharmaceuticals such as the drug candidates that we are developing and could adversely affect our net revenue and results.
+ 
+Pricing and reimbursement schemes vary widely from country to country. Some countries provide that drug products may be marketed only after a reimbursement price has been agreed. Some countries may require the completion of additional studies that compare the cost-effectiveness of a particular product candidate to currently available therapies. For example, the European Union provides options for its member states to restrict the range of drug products for which their national health insurance systems provide reimbursement and to control the prices of medicinal products for human use. European Union member states may approve a specific price for a drug product or may instead adopt a system of direct or indirect controls on the profitability of us placing the drug product on the market. Other member states allow companies to fix their own prices for drug products, but monitor and control company profits. The downward pressure on health care costs in general, particularly prescription drugs, has become very intense. As a result, increasingly high barriers are being erected to the entry of new products. In addition, in some countries, cross-border imports from low-priced markets exert competitive pressure that may reduce pricing within a country. There can be no assurance that any country that has price controls or reimbursement limitations for drug products will allow favorable reimbursement and pricing arrangements for any of our products.
+ 
+The marketability of any products for which we may receive regulatory approval for commercial sale may suffer if the government and third-party payors fail to provide adequate coverage and reimbursement. In addition, an increasing emphasis on managed care in the United States has increased and we expect will continue to increase the pressure on drug pricing. Coverage policies, third-party reimbursement rates and drug pricing regulation may change at any time. In particular, the Patient Protection and Affordable Care Act was enacted in the United States in March 2010 and contains provisions that may reduce the profitability of drug products, including, for example, increased rebates for drugs sold to Medicaid programs, extension of Medicaid rebates to Medicaid managed care plans, mandatory discounts for certain Medicare Part D beneficiaries and annual fees based on pharmaceutical companies’ share of sales to federal health care programs. Even if favorable coverage and reimbursement status is attained for one or more products for which we receive regulatory approval, less favorable coverage policies and reimbursement rates may be implemented in the future.
+ 
+
+11
+--
+
+Competition
+ 
+The pharmaceutical and biotechnology industry is very competitive and the development and commercialization of new drugs and biologics is influenced by rapid technological developments and innovation. We face competition from several companies developing and commercializing products that will be competitive with our drug candidates, including large pharmaceutical and smaller biotechnology companies. Additionally, new entrants may potentially enter the market. For our HBV-cure program, potential competitors include Johnson & Johnson, Roche, Merck & Co., GlaxoSmithKline PLC, Gilead Sciences Inc., Enanta Pharmaceuticals, Inc. and Arbutus Biopharma Corp., among others. Additionally, we may face competition from currently available treatments for HBV. For our Microbiome program, our competitors include Johnson & Johnson, Novartis International AG, Abbvie Inc., Takeda, Merck & Co., Bristol Myers Squibb Co., Pfizer Inc., Seres Therapeutics, Inc., Vedanta Biosciences, Inc., Finch Therapeutics, Inc., Enterome Bioscience S.A. and Second Genome, Inc. Some of the competitive development programs from these companies may be based on scientific approaches that are similar to our approach, and others may be based on entirely different approaches. Potential competitors also include academic institutions, government agencies and other public and private research organizations that conduct research, seek patent protection and establish collaborative arrangements for research, development, manufacturing and commercialization of products similar to ours or that otherwise target indications that we are pursuing.
+Manufacturing
+ 
+We do not currently own or operate any manufacturing facilities. We currently rely on third parties for the manufacture of our product candidates for non-clinical and clinical testing. We currently have no plans to establish any manufacturing facilities for products for our HBV-cure program. In our Microbiome program, we have the capability of performing small scale manufacturing to supply quantities of our microbiome drug substance and drug product for use in our planned nonclinical studies and early phase clinical trials and will use such capability in conjunction with third-party manufacturers to meet the needs of our planned nonclinical studies and early phase clinical trials. As we advance our Microbiome programs through clinical development and potential commercialization, we expect to expand our own manufacturing capabilities for drug substance and drug product for our Microbiome program.
+Financial Information
+ 
+We have not derived any revenue from product sales to date as we currently have no products approved for sale.
+
+Research and Development Expense
+ 
+Our research and development expenses, excluding stock-based compensation expense, were approximately $38.8 million for fiscal year 2017, of which $23.2 million was expended on the HBV-cure program and $15.6 million was expended on our Microbiome program.
+ 
+Our research and development expenses, excluding stock-based compensation expense, were approximately $30.1 million for fiscal year 2016, of which $20.0 million was expended on the HBV-cure program and $10.0 million was expended on our Microbiome program.
+ 
+Our research and development expenses, excluding stock-based compensation expense, were approximately $15.1 million for fiscal year 2015, of which $10.8 million was expended on the HBV-cure program and $4.3 million was expended on our Microbiome program, offset by $6,621 credit due to termination of the VEN 307 study in 2014.
+ 
+Employees
+ 
+As of December 31, 2017, we had 79 employees, nine temporary contractors and various consultants and multiple research contract research organizations with whom we have contracted.
+ 
+Corporate History
+ 
+We were incorporated in Delaware in October 2005 under the name South Island Biosciences, Inc. (which was changed to Ventrus Biosciences, Inc. in April 2007). On July 11, 2014, we acquired Assembly Pharmaceuticals, Inc., a private company, through a merger with our wholly owned subsidiary (the Merger). In connection with the Merger, we changed our name from Ventrus Biosciences, Inc. to Assembly Biosciences, Inc.
+Corporate Information
+ 
+Our principal executive office is at 11711 N. Meridian Street, Suite 310, Carmel, Indiana 46032. Our telephone number is (317) 210-9311.
+ 
+
+12
+--
+
+Available Information
+ 
+Our website address is www.assemblybio.com. We routinely post, or have posted, important information for investors on our website in the “Investor Relations” section. We use this website as a means of disclosing material information in compliance with our disclosure obligations under Regulation FD. Accordingly, investors should monitor the “Investor Relations” section of our website, in addition to following our press releases, SEC filings, presentations and webcasts. We make available free of charge through our website our press releases, Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and all amendments to those reports as soon as reasonably practicable after electronically filed with or furnished to the Securities and Exchange Commission.
+ 
+The information contained on our website is not a part of, and should not be construed as being incorporated by reference, into this report.
+ 
+The reports filed with the SEC by us and by our officers, directors and significant shareholders are available for review on the SEC’s website at www.sec.gov. You may also read and copy materials that we filed with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Washington, DC 20549. You may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330.
+ 
+Information about Segments and Geographic Areas
+ 
+In accordance with The Financial Accounting Standards Board (FASB) Accounting Standards Codification (ASC) Topic 280, Segment Reporting, we have determined that we operate as one operating segment. Decisions regarding our overall operating performance and allocation of our resources are assessed on a consolidated basis. Our operations and assets are predominantly located in the United States.

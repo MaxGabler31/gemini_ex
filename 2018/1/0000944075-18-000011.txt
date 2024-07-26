@@ -1,0 +1,116 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+ 
+The Company and its Products
+ 
+We are a leading producer of data capture products for mobile applications used in business mobility markets worldwide. Our products are incorporated into mobile applications used in point of sale (POS), enterprise mobility (field workers), asset tracking, manufacturing process and quality control, transportation and logistics (goods tracking and movement), event management (ticketing, entry, access control, and identification), medical and education. Our primary products are cordless data capture devices incorporating barcode scanning or RFID/Near Field Communications (NFC) technologies that connect over Bluetooth. All products work with applications running on smartphones, mobile computers and tablets using operating systems from Apple® (iOS), Google™ (Android™) and Microsoft® (Windows®). We offer an easy-to-use software developer kit (Capture SDK) to application developers to enable them to provide their users with our advanced barcode scanning features. Our products become an ingredient of the application solution. Our products are marketed by the application developer or the resellers of their applications as part of that solution. Our registered developer program for data capture applications has grown to several thousand registered developers and the mobile applications incorporating our products available on the Apple Store for downloading numbers more than 700.
+  
+1
+-
+
+
+
+Durable companion cordless barcode scanners. During 2016 and 2017, we introduced our DuraScan® line of durable cordless barcode scanners in 4 models: linear imager (D700), laser (D730) and 2D imagers (D740 and D750). The D740 is an entry level 2D model. Using the same ergonomic form factor, these stand-alone barcode scanners have an IP54 durability rating, improved usability features including light indicators for battery and Bluetooth connection status and longer battery life. Our durable barcode scanners replaced earlier models and come in industrial colors: construction orange, safety green and utility gray.
+ 
+Standard companion cordless barcode scanners. Our 7 Series standard barcode scanners are lightweight and ergonomically designed for easy handling as a stand-alone cordless barcode scanner. Our 7 Series come in 6 vivid colors: blue, gray, green, red, white and yellow. During 2017 we incorporated the improved features of our durable barcode scanners into a new SocketScan™ line of standard barcode scanners, linear imager (S700), laser (S730) and 2D imager (S740) that will replace current standard models during 2018.
+ 
+Attachable cordless barcode scanners. Our SocketScan Series of attachable cordless barcode scanners (S800 linear imager and S850 2D imager) are attachable to smartphones, tablets and other mobile devices for more integrated barcode scanning. They attach with an easily detachable clip or may be used stand-alone. During 2016, we introduced a “DuraCase” sleeve solution designed to keep an iPod or smartphone and an 800 Series barcode scanner together, enabling both devices to be used and charged simultaneously and be held and operated with a single hand.
+ 
+Contactless RFID/NFC reader writer. In 2017, Socket Mobile began offering a Contactless SmartTag Reader/Writer version of our durable handheld barcode scanner, (Model D600). The D600 can read and write many different types of electronic SmartTags or transfer data with other NFC enabled devices using Near Field Communications. SmartTags are used in many applications today, including applications for loyalty cards, identification cards, payment cards, coupons, event tickets and others which leverage the exchange of electronic “tokens”. These tokens can be exchanged via NFC enabled devices. Many smartphones support NFC communications and are expected to enable third party applications to transfer tokens utilizing NFC.
+ 
+Software Developer Kit (Capture SDK). Our Software Developer Kit (Capture SDK) supports all our data capture devices with a single installation, making it easy for a developer to integrate our data capture capabilities into their application. Installing our data capture software enables their customers to choose any of our products that work best for them. Socket Mobile’s Capture SDK enables the developer to modify captured data, control the placement of the barcoded or RFID data in their application, and control the feedback to the user that the transaction and transmission was successfully completed. Socket Mobile’s Capture SDK also supports the built-in camera in a customer’s smartphone or tablet to be used for occasional or lower volume data collection requirements. The Capture SDK is upgraded from time to time to use tools integrated with software build environments such as CocoaPods, Maven and NuGet, to add support for high level frameworks such as Xamarin, Cordova and Java, and to add other features to make it easier for developers to integrate our data capture software into their applications.
+  
+2
+-
+
+
+
+Cordless barcode scanning represented 96 percent of our revenue in 2017, up from 86 percent in 2016. Handheld computer and legacy product revenue represented 3 percent and 12 percent of our revenue in 2017 and 2016 respectively. Service revenue represented 1 percent of our revenue in 2017 and 2 percent of our revenue in 2016. In 2016, we discontinued sales of our handheld mobile computer which were introduced in 2007.
+ 
+Socket Mobile designs its own products and is responsible for all associated test equipment. Socket Mobile uses third party contract manufacturers to make many components. We perform final product assembly, test, package and distribute our products at and from our Newark, California facility. We offer our products worldwide through two-tier distribution enabling customers to purchase from large numbers of on-line resellers around the world including application developers who resell their own products along with our data capture products. We believe growth in mobile applications and the mobile workforce are resulting from technical advances in mobile technologies, cost reductions in mobile devices and the growing adoption by businesses of mobile applications for smartphones and tablets, building a growing demand for our products. Our data capture products address the need for speed and accuracy by today’s mobile workers and by the systems supporting those workers, thereby enhancing their productivity and allowing them to exploit time sensitive opportunities and improve customer satisfaction.
+ 
+Our Mission, Vision and Core Values
+ 
+Our mission is to supply innovative and cost-effective data capture tools for businesses that use mobile platforms to conduct business in mobile environments.
+ 
+Our vision is to manage the complexity of capturing and delivering data across a spectrum of data sources, network technologies and mobile systems so that our customers can concentrate on applications of the data. Our customers are application developers and their customers in need of data capture solutions.
+ 
+We have embraced the following core values:
+ 
+Accountability: We take ownership and responsibility for our actions and performance. We learn from our mistakes and celebrate our successes.
+ 
+Customer Focus: We live by and for our customers' success. We want to earn their top-of-mind choice, enhance their final customer experience, and create value through our relationship.
+ 
+Excellence: We take pride in what we make and do and value the creativity, talent, ambition, and drive of each employee to be his or her best and to achieve superior results.
+  
+3
+-
+
+
+Integrity: We are honest and ethical in all our dealings with each other, customers, business partners, suppliers, competitors and other stakeholders. We say what we mean and mean what we say.
+ 
+Mutual Respect: We value people's differences and diverse opinions and we treat each other fairly.
+ 
+General
+ 
+Total employee headcount at December 31, 2017 and 2016 was 56 and 53, respectively. We subcontract the manufacturing of all our product components to independent third-party contract manufacturers located in the United States, Mexico, Taiwan and Singapore that have the equipment, know-how and capacity to manufacture products to our specifications. We assemble, test and distribute our products from our facilities in Newark, California. Our products are sold through a worldwide network of distributors and on-line resellers, application developers, and value-added resellers.
+ 
+We were founded in March 1992 as Socket Communications, Inc. and reincorporated in Delaware in 1995 prior to our initial public offering in June 1995. We have financed our operations since inception primarily from the sale of equity capital or convertible debt, a receivables-based revolving line of credit and in February 2018, a term loan with our bank. We began doing business as Socket Mobile, Inc. in January 2007 to better reflect our market focus on the mobile business market and changed our legal name to Socket Mobile, Inc. in April 2008. Our common stock trades on the NASDAQ Capital Market under the symbol “SCKT”. Our principal executive offices are located at 39700 Eureka Drive, Newark, CA 94560, and our phone number is (510) 933-3000. Our Internet home page is located at http://www.socketmobile.com; however, the information on, or that can be accessed through, our home page is not part of this Annual Report. Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments to such reports are available free of charge on or through our Internet home page as soon as reasonably practical after we electronically file such material with, or furnish it to, the Securities and Exchange Commission.
+ 
+Marketing Dynamics
+ 
+Developer Relationships. We actively support software application developers to integrate our products into their applications through our registered developer program. We provide an easy to use software developer kit (Capture SDK) and training and technical support to our registered developers. We support the marketing activities of our registered developers in promoting the applications that include our products. Once our barcode scanning products are integrated into a developer’s application, our products become an ingredient of the application solution and part of the developer’s marketing program for that application. Socket Mobile provides regular Capture SDK updates including updates that support the latest operating system updates provided by Apple, Google and Microsoft. We spend extensive engineering time and resources to ensure that our cordless data capture products are compatible with a wide variety of the most popular smartphones, tablets and mobile computers running a variety of operating systems. We adhere to standards of standards setting bodies whose technologies are used in our products such as Bluetooth and NFC.
+
+4
+-
+
+
+
+Mobile Markets. Our cordless barcode scanner revenue growth in 2017 and 2016 was driven by sales of barcode scanners integrated into retail point of sale applications for use with Apple tablets and other mobile devices. Many point of sale application providers have been funded by venture capital organizations to develop software for smaller retailers using tablets as cash registers. Small retailers are an underserved market for point of sale applications, enabling rapid development and growth. Other mobile markets being addressed by registered developers include enterprise mobility (field workers), asset tracking, manufacturing process and quality control, transportation and logistics (goods tracking and movement), event management (ticketing, entry, access control, and identification), medical and education. We expect these markets to increase the availability and use of mobile applications and the demand for mobile barcode scanners.
+ 
+Expanded and improved product offerings. We offer a wide range of products that enable application developers and their customers to design their mobile systems to meet their specific requirements, and we encourage our distributors to support the full range of our products. The goal is for customers to view Socket Mobile as a primary source for their mobile data capture needs. Our products include stand-alone barcode scanners in both durable and standard cases, attachable barcode scanners and a cordless RFID/Near Field Communications reader/writer. We provide a software developer kit to registered developers to enable our advanced data capture software to be easily integrated into developer applications. See “Item 1 Business. The Company and its Products” for a more detailed description of our products.
+ 
+We design our products to comply with the regulations of the many worldwide agencies that regulate the safety, performance and use of electronic products.
+ 
+Competitive pricing. We have designed our products to be priced competitively although we are subject to changes in component pricing by our suppliers. We update our products from time to time and work with our vendors to achieve reductions in component pricing.
+ 
+Worldwide product availability. We distribute our products through a worldwide distribution network that places products into geographic regions to shorten purchasing times and provides a credit shield to us. Our largest distributors are Ingram Micro®, ScanSource® and Blue Star. They support a worldwide network of on-line resellers including Amazon®.com, CDW® and Barcodes, Inc.
+ 
+Strong Brand Name. We believe that our products make a difference in the daily work life of mobile workers and the people they serve. We are building a brand image focused on business mobility. This image closely associates us with business mobility solutions and to reflect this image, we began doing business as Socket Mobile, Inc. in January 2007 and changed our legal name to Socket Mobile, Inc. in April 2008. We stress with customers the design of our products for the markets they serve, emphasizing quality and standards-based connectivity. Mobility requires products that are compact and designed to be handled while mobile, with low power consumption to extend time between charges, and easy to use. We strive to offer high performance products in a wide range of competitive prices. Through our developer support program, we work closely with application developers who are developing productivity enhancing applications for the mobile workforce. Our overall company brand identity and positioning goal is to be a leading provider of easy-to-deploy business mobility data capture systems to the business mobility market.
+  
+5
+-
+
+Competition and Competitive Risks
+ 
+The overall market for mobile handheld data capture solutions is both complex and competitive. Our barcode scanning hardware products compete with similar hardware products in all our markets in the United States, Europe and Asia and we differentiate our products with our software developer kit and our underlying data capture software designed to work with smartphones, tablets and other mobile computers running the Apple, Android and Windows operating systems. Our longtime focus on creating innovative mobile solutions for the mobile workforce has resulted in good brand name recognition and reputation. We believe that our brand name identifies our products as durable, dependable, ergonomic, and easy to use, all features designed for a mobile worker while mobile, and the breadth of our product offerings, including the extensive advanced features of our software and software developer kit, will continue to differentiate us relative to our competitors.
+ 
+Cordless Barcode Scanning. We offer a full range of handheld cordless barcode scanners connecting to smartphones, tablets and other computing devices over Bluetooth. Our Software Developer Kit (Capture SDK) enables registered third party application developers to integrate the features of our Data Capture software into their applications and helps differentiate our products. Our Cordless Barcode Scanners face competition from similar products from Koamtec, Code Corporation and Opticon (Japan). Barcodes may also be scanned using the built-in camera in smartphones or tablets with applications from Scandit or Manatee Works. However, scanning using the built-in camera is typically slower and harder to aim, especially as the camera pixel count gets larger. Users may choose a barcode scanner that connects directly to an Apple tablet, iPhone or computer such as offered by Infinite Peripherals and Honeywell. Users also may choose more rugged barcode scanners as an alternative, some of which are integrated into computing devices from manufacturers such as Datalogic, Honeywell®, and Zebra Technologies. Many of these devices are not Apple certified. Many connect to Apple devices over Bluetooth in keyboard emulation mode and do not offer extensive tools for software developers such as our software developer kit (Capture SDK) to integrate features of our sophisticated data collection scanning software into data capture applications.
+ 
+Contactless RFID/NFC Reader/Writer. Socket Mobile developed and commenced sales in 2017 of a Contactless RFID/NFC Reader/Writer, D600 version of our durable handheld barcode scanner. The D600 can read and write many different types of electronic SmartTags, including NFC. SmartTags are used in many applications today, like digital wallet applications for loyalty cards, identification cards, payment cards, coupons, event tickets and others which leverage the exchange of electronic “tokens”. We are an early entrant into this market and do not face significant head to head competition from alternative reader/writer devices.
+ 
+Proprietary Technology and Intellectual Property
+ 
+We have been granted 34 U.S. patents and 10 design patents and have other patent applications under review. We have registered trademarks with the U.S. Patent and Trademark Office for the mark “Socket”, our logo, DuraScan, and SocketScan. We have a trademark application pending in China for the Socket logo.
+ 
+We have developed technological building blocks that enhance our ability to design new hardware and software products, to offer products which run on multiple software and hardware platforms, and to manufacture and package products efficiently.
+  
+6
+-
+
+
+
+We own and control the design of our barcode scanners, enabling us to modify its features or software to meet specific customer requirements.
+ 
+We have developed software programs that provide unique functions and features for our data collection products. For example, our data collection software enables our barcode scanning products to scan a variety of barcodes and to route the data to many different types of data files on operating systems used in Apple, Android and Windows mobile devices. We use Bluetooth technology to provide a completely functional Bluetooth solution enabling connections and data transfers between Bluetooth-enabled devices. We recently introduced companion applications to assist Apple iOS and Android users with the proper setup and use of our data capture products.
+ 
+We rely on a combination of patent, copyright, trademark and trade secret laws, and confidentiality procedures to protect our proprietary rights. As part of our confidentiality procedures, we generally enter into non-disclosure agreements with our employees, distributors and strategic partners, and limit access to our software, documentation and other proprietary information. Despite these precautions, it may be possible for a third-party to copy or otherwise obtain and use our products or technology without authorization, or to develop similar technology independently. In addition, we may not be able to effectively protect our intellectual property rights in certain foreign countries. From time to time we receive communications from third parties asserting that our products infringe, or may infringe, their proprietary rights. Litigation could be brought against us that could result in significant additional expense or compel us to discontinue or redesign some of our products.
+ 
+Personnel
+ 
+Our future success will depend in significant part upon the continued service of certain of our key technical and senior management personnel, and our continuing ability to attract, assimilate and retain highly qualified technical, managerial and sales and marketing personnel. Our total employee headcount as of December 31, 2017 and 2016 was 56 and 53, respectively. Our employees are not represented by a union, and we consider our employee relationships to be good. As of December 31, 2017, we had 16 persons in sales, marketing and customer service, 13 persons in development engineering, 8 persons in finance and administration, and 19 persons in operations.
+
+7
+-
+

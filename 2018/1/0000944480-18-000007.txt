@@ -1,0 +1,1397 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ ITEM 1. BUSINESS.
+ GSE Systems, Inc. (GSE Systems, GSE, the Company, we, us or our), a NYSE American company trading under the symbol GVP, is a world leader in real-time high-fidelity simulation and provides a wide range of simulation, consulting, training, and engineering solutions to the global power and process industries. We provide customers with simulation, engineering and plant services that help clients reduce risks associated with operating their plants, increase revenue through improved plant and employee performance, and lower costs through improved operational efficiency. In addition, we provide professional services that systematically help clients fill key vacancies in the organization on a short-term basis, primarily in procedures, engineering, technical support, and training focused on regulatory compliance and certification in the nuclear power industry. Our operations also include interactive computer-based tutorials and simulation software for the refining, chemical, and petrochemical industries, through our wholly-owned subsidiary GSE Performance Solutions, Inc.
+ We execute projects globally with approximately 388 employees operating from offices in the U.S. and China and at client sites. While the majority of revenue comes from the nuclear power market, we also serve the fossil, refining, chemical, and petrochemical markets.
+ GSE Systems was formed on March 30, 1994 to consolidate the simulation and related businesses of General Physics International Engineering & Simulation, S3 Technologies, and EuroSim. The Company completed its Initial Public Offering in 1995.
+ On November 14, 2014, we acquired Hyperspring, LLC. Hyperspring is a nuclear industry training and consulting firm that primarily provides highly skilled, high-value professionals to fill training and consulting positions on a contract basis for nuclear power plant operators. Hyperspring professionals provide training, operations and maintenance support including: generic fundamentals exams (GFES), accreditation training visit (ATV) preparation, senior reactor operator (SRO) certification, procedure development, work management, tagging/labeling, outage execution, planning/scheduling, corrective action, self-assessments and equipment reliability. Customers include TVA, Entergy, Southern Company, PSEG Nuclear LLC and NRG Energy Inc.
+ On September 20, 2017, we acquired Absolute Consulting, Inc. (Absolute). Absolute is a provider of technical consulting and staffing solutions to the global nuclear power industry and employs approximately 160 professionals with expertise in procedures writing, engineering, technical support, project management, training, project controls, and corrective actions. This acquisition brings a natural adjacency to GSE, fits well with our growth strategy, and benefits our customers from expanded capabilities and offerings.
+
+ 3
+ 
+Operating Segments
+ We operate through two reportable business segments: Performance Improvement Solutions and Nuclear Industry Training and Consulting. Each segment focuses on delivering solutions to customers within our targeted markets - primarily the power and process industries. Marketing and communications, accounting, finance, legal, human resources, information systems and other administrative services are organized at the corporate level. Business development and sales resources are generally aligned with each segment to support existing customer accounts and new customer development. The following is a description of our business segments:
+
+· | Performance Improvement Solutions (approximately 56% of revenue)
+--+-----------------------------------------------------------------
+
+
+Our Performance Improvement Solutions segment primarily encompasses our power plant high-fidelity simulation solutions and interactive computer based tutorials/simulation focused on the process industry. This segment includes various simulation products, engineering services, and operation training systems delivered across the industries we serve: primarily nuclear and fossil fuel power generation, as well as the process industries. Our simulation solutions include the following: (1) simulation software and services, including operator training systems, for the nuclear power industry, (2) simulation software and services, including operator training systems, for the fossil power industry, and (3) simulation software and services for the process industries used to teach fundamental industry processes and control systems to newly hired employees and for ongoing workforce development and training. GSE and its predecessors have been providing these services since 1976.
+  
+· | Nuclear Industry Training and Consulting (approximately 44% of revenue)
+--+------------------------------------------------------------------------
+
+
+Nuclear Industry Training and Consulting provides highly specialized and skilled nuclear operations instructors, procedure writers, technical engineers, and other consultants to the nuclear power industry. These employees work at our clients' facilities under client direction. Examples of these highly skilled positions are senior reactor operations instructors, procedure writers, project managers, work management specialists, planners and training material developers. This business is managed through Hyperspring and the newly acquired Absolute subsidiaries. The business model, management focus, margins and other factors clearly separate this business line from the rest of the Company's product and service portfolio. GSE and its predecessors have been providing these services since 1997.
+ Financial information is provided in Note 17 of the accompanying consolidated financial statements regarding our business segments and geographic operations and revenue.
+
+Business Strategy, Industry Trends, Products and Services
+ Business Strategy
+ Our objective is to provide a powerful technology-enabled engineering and training/consulting services platform focused primarily on the nuclear power industry. We offer our differentiated suite of products and services to adjacent markets such as fossil power and the process industries where our offerings are a natural fit with a clear and compelling value proposition for the market. Our primary growth strategy is twofold: (1) seek acquisitions to accelerate our overall growth in a manner that is complementary to our core business and (2) expand organically within our core markets by leveraging our market leadership position and drive increased usage and product adoption via new products and services. To accomplish this, we will pursue the following activities:
+ Pursue roll-up acquisition strategy. We intend to complement our organic growth strategy through selective acquisitions including, but not limited to, the following: technical engineering; training, staffing and consulting service businesses focused on the power industry particular nuclear; value added components for  nuclear power plants; and software utilized in the power industry, both domestic and international. We are focusing our efforts on acquisitions that would enhance our existing portfolio of products and services, strengthen our relationships with our existing customers, and potentially expand our footprint to include new customers in our core served industries. We have made several acquisitions since 2011 and believe the opportunity exists to acquire businesses that are complementary to ours, allowing us to accelerate our growth strategy.
+ 
+In January 2011, we acquired a software company called EnVision Systems Inc., which provided interactive multi-media tutorials and simulation models, primarily to the process industries. We have integrated the technology assets from this acquisition and expanded the firm's application to other industries, and we intend to repeat this successful process. In 2014, we acquired Hyperspring, which enabled GSE to offer highly skilled nuclear operations and consulting personnel with unique know-how to our client base which is nuclear power plants. This deepened our relationship with existing clients and won business for us at new client sites in the nuclear industry. This acquisition has proven to be synergistic, enabling cross selling domestically, and in 2015, the expansion of these offerings to international customers for the first time. In September 2017, we acquired Absolute, a provider of technical consulting and staffing solutions to the global nuclear power industry, located in Navarre, Florida. The acquisition of Absolute is expected to strengthen the Company's global leadership in nuclear training and consulting solutions. The acquisition adds new capabilities to the GSE solution offering, and brings new highly complementary customers to GSE while deepening GSE relationships with existing clients. The acquisition of Absolute is a significant proof point of the thesis that GSE is a compelling platform for consolidating a fragmented vendor ecosystem for nuclear power. The acquisition adds significant scale and focus to the business, while positioning GSE as a "go to" provider of consulting solutions to the power industry, in particular nuclear power.
+ Expand our total addressable market. Our focus on growth means introducing product capabilities or new product and service categories that create value for our customers and therefore expand our total addressable market. Currently we are working on initiatives to expand our solution offerings in both our business segments which may include, but not be limited to, the following: expanding our software product portfolio to the industries we serve with enhanced power and process simulation tools and systems that are complementary to our core offerings; delivering enhanced learning management systems/solutions; offering fully outsourced training solutions to our customers; adding work flow process improvement solutions; tailoring operational reporting and business intelligence solutions to address the unique need of our end user markets; and adding new services to broaden our market reach.
+ Initiatives such as these will broaden our scope and enable us to engage more deeply with the segments we serve. We have delivered a compelling solution, the GSE GPWRTM Generic Pressurized Water Reactor simulation technology, proving that our modeling technology can be sold via traditional license terms and conditions to the nuclear industry ecosystem. We have both upgraded and expanded the EnVision™ library of simulation and eLearning tutorials for the process industries with specific new products for training clients in the upstream segment of the oil and gas industry including launching a new cloud-based training platform, EnVision™ Learning On-Demand, that significantly extends the capabilities of its industry leading EnVision™ tutorials and simulations. We continue to provide cutting edge training systems by adapting our technology to systems to meet the specific needs of customers such as U.S. government laboratories.
+ Research and development (R&D). We invest in R&D to deliver unique solutions that add value to our end-user markets. We have delivered nuclear core and Balance-of-Plant modeling and visualization systems to the industry. To address the nuclear industry's need for more accurate simulation of both normal and accident scenarios, we provide our DesignEP® and RELAP5-HD® solutions. Our entire JADETM suite of simulation software, including industry leading JTOPMERET® and JElectricTM software, provides the most accurate simulation of Balance-of-Plant and electrical systems available to the nuclear and fossil plant simulation market. The significant enhancements we have made to our SimExec® and OpenSimTM platforms enables customers to be more efficient in the daily operation of their simulators. We are bringing SimExec® and OpenSimTM together into a next generation unified environment that will add new capabilities as requested by clients and driven by market need.
+ We intend to continue to make pragmatic and measured investments in R&D that first and foremost are driven by the market, and are complementary to advancing our growth strategy. Such investments in R&D may result in on-going enhancement of existing solutions as well as the creation of new solutions to serve our target markets, ensuring that we add greater value, in an easier to use fashion, at lower cost of ownership than any alternative available to customers. GSE has pioneered a number of industry standards over our lifetime and will continue to be one of the most innovative companies in our industry. During the years ended December 31, 2017 and 2016, we have made R&D investments totaling $1.6 million, respectively.
+ Strengthen and develop our talent. Our experienced employees and management team are our most valuable resources. Attracting, training, and retaining top talent is critical to our success. To achieve our talent goals, we intend to remain focused on providing our employees with entrepreneurial opportunities to increase client contact within their areas of expertise and to expand our business within our service offerings. We will also continue to provide our employees with training, personal and professional growth opportunities, performance-based incentives including opportunities for stock ownership, bonuses and competitive benefits as benchmarked to our industry and locations.
+ Continue to deliver industry-recognized high-quality services. We have developed a strong reputation for quality services based upon our industry-recognized depth of experience, ability to attract and retain quality professionals, and expertise across multiple service sectors. We have received industry certificates and awards including being recognized for outstanding work on projects by Bechtel's Nuclear, Security & Environmental global business unit (NS&E) at the Bechtel Supply Chain Recognition awards in April 2016. In addition, we have a recognized high-value brand as one of the most respected providers of software and services to the nuclear industry, as evidenced by our marquee client base and significant market wins over the past years. A recently conducted survey of clients with projects underway and/or just delivered validates our brand with a Net Promoter Score of +72, a compelling score for an industrial technology and services company.
+  4
+ 
+Expand international operations in selected markets. We believe there are additional opportunities for us to market our software and services to international customers, and to do so in a cost-effective manner. For example, we believe partnerships with Value Added Resellers (VAR) could significantly expand our sales pipeline for the EnVision™ software suite. In 2016, we entered into a reseller agreement with an entity in the Middle East that has an established track record of success selling simulation and workforce development solutions to the process industries throughout the region. Such VARs may yield positive results for our pursuit of international nuclear opportunities globally (see industry trends below). We may explore the creation of appropriate joint ventures to target nuclear new-build and maintenance programs in key regions.
+ Industry Trends
+ Industry need for building and sustaining a highly skilled workforce
+ We believe a critical ongoing challenge facing the industries we serve is access to, and continued development of, a highly trained and efficient workforce. This challenge manifests primarily in two ways: the increasing pace at which industry knowledge and experience are lost as a significant percentage of the existing experienced workforce reaches retirement age; and the fact that as new power plants come on-line, there is an increased demand for more workers to staff and operate those plants.
+ In the United States, the energy industry is expected to lose a large percentage of its workforce within the next few years as baby boomers retire on the traditional schedule. For example, Power Engineering reports the power sector will need more than 100,000 skilled workers by the end of 2018 to replace retiring baby boomers.  Electric, Light, and Power reports 72% of energy employers currently struggle to find quality candidates, and fill open positions.  The National Electrical Contractors Association reports 7,000 electricians join the field each year, while 10,000 retire. Finally, the Nuclear Energy Institute estimates that 39% of the nuclear workforce will be eligible to retire in 2018. As the nuclear industry expands its fleet and strains to maintain the high standards of training the existing workforce, existing plant simulator systems, which provide a critical environment for training services, are often operating 24 hours a day. With workers retiring and the need to backfill as well as expand the workforce for new units, certain operators are exploring the opportunity to de-bottleneck their existing simulator capabilities through the creation of dual reference simulators. Other workforce shortages and/or short term spike in demand for specialist skills that we offer similarly are positive development for our business.
+ According to the US Energy & Employment Report released in January 2017, the employment in the traditional energy and energy efficiency sectors increased by 55% in 2016, adding 300,000 net new jobs. The Nuclear Energy Institute projects 20,000 new position will be needed in the nuclear industry over the next 5 years.
+ Globally, as more people increase their standard of living, their demand for power will increase, which in turn will require the on-going construction of power plants to meet this surging demand. Developing a skilled labor force to operate these plants and keeping their skills current and their certifications in compliance with regulatory requirements is a key challenge facing the global power industry.
+ Growing global power demand and the increasing emphasis on nuclear power
+ On September 28, 2017, United States Secretary of Energy, Rick Perry, directed the nation's Federal Energy Regulatory Commission (FERC) to improve the resilience of the national electrical grid by creating rules recognizing the critical value generated by nuclear power plants, among other things. The Notice of Proposed Rulemaking stated that FERC must order grid operators to increase how they value "reliability and resilience attributes" in energy generation. All licensed nuclear power plants and a significant portion of existing coal plants can meet those requirements today.
+ While this request to FERC was unanimously rejected by the commissioners in January 2018, they did say they shared Secretary Perry's stated goals of grid resiliency, and directed regional transmission operators to provide information to help FERC examine the matter further. The operators have 60 days to submit new materials. At that time, the agency can issue another order.  While disappointing that the request by Secretary Perry was rejected, it is the first time in quite some time that there is federal recognition of the need for support of the nuclear fleet in the US.
+ At the time of Secretary Perry's request to FERC, he announced a separate action to support and accelerate the development of new nuclear plants with conditional commitments of up to $3.7 billion in loan guarantees to the owners of the Vogtle nuclear power plant in Georgia. Secretary Perry stated, "I believe the future of nuclear energy in the United States is bright and look forward to expanding American leadership in innovative nuclear technologies." "Advanced nuclear energy projects like Vogtle are the kind of important energy infrastructure projects that support a reliable and resilient grid, promote economic growth, and strengthen our energy and national security".
+ In December 2017, Georgia's Public Service Commission voted unanimously to allow continued construction of two nuclear reactors at Georgia Power's embattled Plant Vogtle. Commission chair Stan Wise said the decision came down to the importance of fuel diversity and the long term benefits the project would have on Georgians. Georgia utility regulators on Thursday conditioned their approval of the Vogtle nuclear project with the caveat that Congress approves roughly $800 million worth of tax credits.
+ A two-year budget deal signed by President Donald Trump on February 9, 2018, includes provisions that will benefit the development of nuclear power in the U.S. including the expansion of Plant Vogtle, which is located near Waynesboro, Ga. The Nuclear Energy Institute said that the legislation signed by Trump: (1) allows for new nuclear reactors placed in service after Dec. 31, 2020 to qualify for the nuclear PTC; (2) permits the Secretary of Energy to allocate credits up to a 6,000-megawatt capacity limit for the first "new nuclear" reactors placed in service after Dec. 31, 2020; and (3) allows public-entity project partners to transfer their credits to other project partners.
+ NEI said that the deadline change will ensure the two reactors being built at Vogtle will benefit from the PTC and that the 6,000-MW capacity limit indicates the PTC will also benefit NuScale Power LLC's and its partners' plans to build its first commercial power plant at the Idaho National Laboratory by 2026.
+ The U.S. Energy Information Administration's latest International Energy Outlook 2017 projects that world energy consumption will grow by 28% between 2015 and 2040. Most of this growth is expected to come from countries that are not in the Organization for Economic Cooperation and Development (OECD), and especially in countries where demand is driven by strong economic growth, particularly in Asia. Non-OECD Asia (which includes China and India) accounts for more than 60% of the world's total increase in energy consumption from 2015 through 2040. At the same time, countries globally are pledging to reduce greenhouse gas emissions despite this growth in demand for power. These trends are increasingly favorable to nuclear power. The United Kingdom illustrates this trend, with an energy policy that places a much greater reliance on nuclear power and relies on plans for a new nuclear fleet, while slashing subsidies for solar energy and seeking to phase out coal fired power plants. With plans to build at least three new nuclear plants, the UK plans to add 16GWe of new nuclear capacity operating by 2030 according to World Nuclear Association.
+ Today there are some 440 nuclear power reactors operating in 30 countries plus Taiwan, with a combined capacity of over 390 GWe. In 2014 these provided over 11% of the world's electricity.  There are currently 50 nuclear plants under construction in 13 countries, including 20 in China, seven in Russia, six in India and four in the United Arab Emirates according to the Nuclear Energy Institute. Two reactors are currently under construction in the U.S. at Southern Nuclear's Vogtle, Georgia site. Per the World Nuclear Association, there are 160 reactors in 23 countries in specific phases of planning that will be operating by 2030 and over 300 more are proposed. This pace of construction is surpassing the peak construction velocity of the 1970s and 1980s as countries around the world recognize the importance of lowering carbon emissions from power generation.
+ For the existing nuclear U.S. fleet, there is recognition that these plants are essential to meeting goals of reducing carbon emissions, even as renewable energy sources are introduced. This recognition of the importance of nuclear providing zero-carbon baseload is demonstrated by the state of New York's Clean Energy Standard that values the emission-free energy of New York's nuclear fleet and in so doing providing an emissions-free subsidy of 1.7¢/kWh. This subsidy helps ensure the state's existing nuclear plants remain economically viable in an era of low cost natural gas even with wind and solar receiving a subsidy of 4.5¢/kWh. In addition, the Illinois Legislature on December 2, 2016, passed the Future Energy Jobs Bill on December 2, 2016, a measure that ensures the continued operation of the Clinton and Quad Cities nuclear power plants in that state. In a statement, the Nuclear Energy Institute said the bill's passage was a "remarkable moment" for the state and the nuclear industry. Gov. Bruce Rauner signed the bill into law on December 7, 2016. The Future Energy Jobs Bill provides Exelon and Commonwealth Edison with a $235 million annual credit for the carbon-free energy produced by the Clinton and Quad Cities nuclear plants. At the end of October 2017, Connecticut passed a bill that may help it keep its Millstone nuclear plant open.  The bill permits state energy officials to change the rules for how Dominion Nuclear Connecticut sells electricity from Millstone.  Millstone could sell up to 75% of its output in competition with the other zero-carbon sources of electricity under the bill.  This is a significant recognition of the strategic value that nuclear power provides via zero-carbon baseload.  The actions of New York, Illinois and Connecticut starts a trend which may continue as states such as Ohio, Pennsylvania, and New Jersey consider legislation to recognize the value of zero carbon power produced by nuclear plants in those states. This would be similar to how the Renewable Portfolio Standard was rolled out across more than half the states in the US to recognize the benefits of zero carbon renewable power.
+ In regulated markets where the economy is growing, the nuclear fleet is profitable and expanding, with two reactors under construction in the southeast U.S.  Longer term, the trends for nuclear power have promise as small scale modular reactors (SMR's) advance in development and prototyping.  There is a project planned to build a NuScale Power SMR at Idaho National Labs. NuScale Power is a long-standing GSE customer.  Tennessee Valley Authority  submitted an application for an early site permit for two or more SMRs modules (up to 800 MWe, 2420 MWt) at the Clinch River Nuclear site on May 12, 2016.  In January 2017 the Nuclear Regulatory Commission has accepted and docketed the early site permit.  U.S. Department of Energy recently released a draft plan to double America's nuclear power capacity by 2050.  The plan, dubbed "Vision 2050", promotes expanding America's nuclear capacity through advanced reactor designs including small and medium-size reactors.
+ We believe GSE is well positioned to take full advantage of these strategic global and domestic trends by providing high fidelity simulation and training solutions to the global power and process industries.
+  5
+ 
+Products and Services
+ Performance Improvement Solutions
+ To assist our clients in creating world-class internal training and engineering improvement processes, we offer a set of integrated and scalable products and services which provide a structured program focused on continuous skills improvement for experienced employees to engineering services, which include plant design verification and validation. We provide the right solutions to solve our clients' most pressing needs.
+ For workforce development and training, students and instructors alike must have a high degree of confidence that their power plant simulator truly reflects plant behavior across the entire range of operations. To achieve this, GSE's simulation solution starts with the most robust engineering approach possible. Using state-of-the-art modeling tools combined with our leading nuclear power modeling expertise, GSE provides simulation solutions that achieve unparalleled fidelity and accuracy. The solutions that GSE provides are also known for ease of use, resulting in increased productivity by end-users. For these reasons, GSE has delivered more nuclear power plant simulators than any other company in the world.
+ For virtual commissioning, designers of first-of-a-kind plants or existing plants need a highly accurate dynamic simulation platform to model a wide variety of design assumptions and concepts from control strategies to plant behavior to human factors. Because new builds and upgrades to existing plants result in new technology being deployed, often involving the integration of disparate technologies for the first time, a high-fidelity simulator allows designers to see the interaction between systems for the very first time. With our combination of simulation technology and expert engineering, GSE was chosen to build first-of-a-kind simulators for the AP1000, PBMR, and small modular reactors such as those being built by NuScale.
+ Examples of the types of simulators we sell include, but are not limited to, the following:
+  
+● | Universal Training Simulators: These products complement the Self-Paced Training Tutorials by reinforcing what the student learned in the tutorial, putting it into practice on the Universal Simulator. The simulation models are high fidelity and engineering correct, but represent a typical plant or typical process, rather than the exact replication of a client's plant. We have delivered over 360 such simulation models to clients consisting of major oil companies and educational institutions.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Part-Task Training Simulators: Like the Universal Simulators, we provide other unique training solutions such as a generic nuclear plant simulator and VPanel® displays, which replicate control room hardware and simulator solutions specific to industry needs such as severe accident models to train on and aid in the understanding of events like the Fukushima Daiichi accident.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Plant-Specific Operator Training Simulators: These simulators provide an exact replication of the plant control room and plant operations. They provide the highest level of realism and training and allow users to practice their own plant-specific procedures. Clients can safely practice startup, shutdown, normal operations, as well as response to abnormal events we all hope they never have to experience in real life. Since our inception, we have delivered over 480 plant-specific simulators to clients in the nuclear power, fossil power and process industries worldwide.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Nuclear Industry Training and Consulting
+ As our customers' experienced staff retire, access to experts that can help operate and train existing and new employees in how to operate their plants is essential to ensure safe ongoing plant operations. In addition, operating and training needs change over time and sometimes our clients require fixed priced discrete projects or specialized courses in contrast to straight staff augmentation. The industry needs operating personnel, including procedure writers, engineers, operators and instructors who can step in and use as well as update the client's operating methods, procedures, training material and more. Finding technical professionals and instructors, who know the subject, can perform the work or teach it to others and can adapt to the client's culture, is critical. GSE provides both qualified professionals, instructors and turnkey projects/courses that work within the client's system and complement the operating or training methods they already have in place. Examples of our training program courses include senior reactor operator certification, generic fundamentals training, and simulation supervisor training. In addition, we also provide expert support through consulting or turnkey projects for procedure writing, technical engineers, project managers, training material upgrade and development, outage execution, planning and scheduling, corrective actions programs, and equipment reliability.
+ We bring together the collection of skills we have amassed over more than 40 years beginning with its traditional roots in custom high-fidelity simulation and training solutions for the power industries, extended through the acquisition of specialized engineering capabilities, enhanced by the entry and intermediate level training solutions of EnVision and the extensive nuclear industry training and consulting services of Absolute and Hyperspring.
+Customers and Locations
+ For more than 40 years, we have been developing next-generation, custom training simulation technologies. Since we built the first commercial full-scope nuclear power plant simulator in 1971, we have completed more than 1,100 installations in 50 countries. 
+In 2017, approximately 19% of our revenue was generated from end-users outside the United States. A small representative list of our customer base includes: ABB Inc., American Electric Power, Bechtel Hanford National Laboratory, Duke Energy, EDF Energy (United Kingdom), Emerson Process Management, Exelon, Korean Electric Power Company (Korea), PSEG Nuclear, Inc., Shangdong Nuclear Power Co. Ltd. (China), Siemens AG (Germany), Southern Nuclear Operating Company, Inc., State Nuclear Power Automation System Engineering Company (China), Savannah River Nuclear Solutions, LLC, Tennessee Valley Authority, US Department of Energy, and Westinghouse Electric Co.
+ Hydrocarbon and chemical process customers include numerous large oil refineries and chemical plants such as BP (worldwide), Statoil ASA (Norway), Chevron, Emerson Process Management, Shell Oil Company (worldwide), and Total (Belgium).
+Marketing and Sales
+ We market our products and services through a network of direct sales staff, agents and representatives, and strategic alliance partners. Market-oriented business and customer account teams define and implement specific campaigns to pursue opportunities.
+ We continue to have a proactive public relations program, issuing more non-financial press releases aimed at product development and delivery, as well as our role in numerous industry trade shows and technical conferences. We are active across numerous social media platforms to build a stronger presence across all media our clients use to find information about the Company, and providing useful information for each stage of the client's journey with the Company.
+ The Company's ability to support its multi-facility, international and/or multinational clients is facilitated by its network of offices and strategic partners in the U.S. and overseas. In addition to the office located in China, the Company's ability to conduct international business is enhanced by its multilingual and multicultural workforce. GSE has strategic relationships with system integrators and agents representing its interests in Bulgaria, Japan, Malaysia, Mexico, Singapore, South America, South Korea, Taiwan, Ukraine and various locations in the Gulf Coast Countries of the Middle East.
+  6
+ 
+Competition
+ In the nuclear simulation market, we compete directly with firms primarily from Canada, France and the U.S., such as L-3 MAPPS Inc., a subsidiary of L-3 Communications (Canada), CORYS T.E.S.S (France) and Western Services Corporation. In the fossil simulation market, the Company competes with smaller companies in the U.S. and overseas. In the process industry the main competition comes from large Digital Control System/Automation companies such as Honeywell and Schneider.
+ The Nuclear Industry Training and Consulting business services include technical professional and training-related and services as well as staff augmentation solutions. The competition for these services includes, but is not limited to the following: GP Strategies, The Westwind Group, Professional Training Technologies, and Western Technical Services. The competition for staff augmentation includes: Day & Zimmerman, Planet Forward, and The Westwind Group.
+ Competitive Advantages
+ While there is competition in various industry niches, few companies in our space can combine our engineering, simulation and training expertise, especially for the nuclear power industry. None of our competitors serve the broader performance improvement market and few work across the broader energy markets of nuclear and fossil power plus petrochemicals.
+ Proprietary Software Tools. We developed a library of proprietary software tools including auto-code generators and system models that substantially facilitate and expedite the design, production and integration, testing and modification of software and systems. These tools are used to automatically generate the computer code and systems models required for specific functions commonly used in simulation applications, thereby enabling the Company or its customers to develop high-fidelity, real-time software quickly, accurately and at lower costs. The Company also has an expertise in being able to integrate 3rd party engineering codes into the Company's simulation environment, thereby being able to offer some of the most sophisticated technical solutions in the market. The Company has a substantial library of Process-Specific Simulation models and eLearning Modules aimed at the oil and gas, refining and specialty chemicals market.
+ Industry Expertise. We are a leading innovator and developer of real-time software with more than 40 years of experience producing high-fidelity, real-time simulators. As a result, the Company has acquired substantial applications expertise in the energy and process industries. The Company employs a highly educated and experienced multinational workforce of approximately 430 employees, including approximately 84 engineers and scientists in fields such as chemical, mechanical and electrical engineering, applied mathematics and computer sciences, and approximately 226 instructors and plant operations staff specialists.
+ Unique Combination of Talent. Nobody in our market space brings together the sophistication of simulation technology with the engineering expertise, training expertise and visualization expertise to provide the holistic people and plant performance improvement solutions as well as we do.
+ Reputation for Customer Satisfaction. As part of its ISO-9000 Quality Program Certification, GSE measures customer satisfaction across numerous factors such as On-Time Delivery, Problem Solving, and Customer Communication. In each category measured we routinely exceed customer expectations.
+ Training Curricula. The Company has developed hundreds of detailed courses and simulator exercise material and specific industrial applications including oil and gas refining, gas-oil production, nuclear and combined cycle gas turbine power plant and desalination.
+ Our Nuclear Industry Training and Consulting business is mostly focused on training and operations support. Our trainers and consultants provide their services at the customer facilities which allow us to interface with our customers directly in the course of doing business versus having to periodically call on customers. Our proximity allows us a significant competitive advantage in that we can immediately offer solutions and therefore bypass lengthy bid processes.
+ Intellectual Property.
+ The Company depends upon its intellectual property rights in its proprietary technology and information. GSE maintains a portfolio of trademarks (both registered and unregistered), copyrights (both registered and unregistered), and licenses. While such trademarks, copyrights and licenses as a group are of material importance to the Company, it does not consider any one trademark, copyright, or license to be of such importance that the loss or expiration thereof would materially affect the Company. The Company relies upon a combination of trade secrets, copyright, and trademark law, contractual arrangements and technical means to protect its intellectual property rights. GSE distributes its software products under software license agreements that grant customers nonexclusive licenses for the use of its products, which are nontransferable. Use of the licensed software is restricted to designated computers at specified sites, unless the customer obtains a site license of its use of the software. Software and hardware security measures are also employed to prevent unauthorized use of the Company's software, and the licensed software is subject to terms and conditions prohibiting unauthorized reproduction of the software.
+ The Company does not own any patents. The Company believes that all of the Company's trademarks (especially those that use the phrase "GSE Systems") are valid and will have an unlimited duration as long as they are adequately protected and sufficiently used. The Company's licenses are perpetual in nature and will have an unlimited duration as long as they are adequately protected and the parties adhere to the material terms and conditions.
+ GSE has numerous registered U.S. trademarks: GSE Systems®, JTOPMERET®, RELAP5-HD®, TOTALVISION®, VPanel® and SimExec®. Some of these trademarks have also been registered in foreign countries. The Company also claims trademark rights to DesignEP™, Java Application and Development Environment (JADE)™, OpenSim™, PSA-HD™, RACS™, SimSuite Pro™, SmartTutor™, THOR™, and Xtreme I/S™.
+ In addition, the Company maintains federal statutory copyright protection with respect to its software programs and products, has registered copyrights for some of the documentation and manuals related to these programs, and maintains trade secret protection on its software products.
+ Despite these protections, the Company cannot be sure that it has protected or will be able to protect its intellectual property adequately, that the unauthorized disclosure or use of its intellectual property will be prevented, that others have not or will not develop similar technology independently, or, to the extent it owns any patents in the future, that others have not or will not be able to design around those patents. Furthermore, the laws of certain countries in which the Company's products are sold do not protect its products and intellectual property rights to the same extent as the laws of the United States.
+  7
+ 
+Government Regulations.
+ Our operations are directly and indirectly affected by political developments and both domestic and foreign governmental regulations. We cannot determine the extent to which changing political priorities, new legislation, new regulations or changes in existing laws or regulations may affect our future operations, positively or negatively.
+Industries Served.
+ The following chart illustrates the approximate percentage of the Company's 2017 and 2016 consolidated revenue by industries served:
+ 
+ | Years ended December 31,
+------------------+-------------------------
+ | 2017 | 2016
+Nuclear power | 83% | 73% 
+Fossil fuel power | 9% | 17% 
+Process | 6% | 6% 
+Other | 2% | 4% 
+Total | 100% | 100%
+
+Backlog.  As of December 31, 2017, we had approximately $71.4 million of total gross revenue backlog compared to $73.2 million as of December 31, 2016.  Most of our contract terms are less than 24 months. With respect to our backlog, it includes only those amounts that have been funded and authorized and does not reflect the full amounts we may receive over the term of such contracts.  Our backlog includes future expected revenue at contract rates, excluding contract renewals or extensions that are at the discretion of the client.  We calculate backlog without regard to possible project reductions or expansions or potential cancellations unless and until such changes may occur.
+ Backlog is expressed in terms of gross revenue and, therefore, may include significant estimated amounts of third-party or pass-through costs to subcontractors and other parties.  Because backlog is not a defined accounting term, our computation of backlog may not necessarily be comparable to that of our industry peers.
+ Employees.  As of December 31, 2017, we had approximately 430 employees, which include approximately 181 in our Performance Improvement segment and 249 in our Nuclear Industry Training and Consulting segment.  This also includes approximately 100 licensed engineers and other advanced degreed professionals.  Excluding our Nuclear Industry Training and Consulting business, which consists primarily of contracted instructors, our employee attrition rate for 2017 among all staff was approximately 10%.  To date, we have been able to locate and engage highly qualified employees as needed and we expect our growth efforts to be addressed through attracting top talent.
+ ITEM 1A. RISK FACTORS.
+ The following are some of the factors that we believe could cause our actual results to differ materially from historical results and from the results contemplated by the forward-looking statements contained in this report and other public statements made by us.  Additional risks and uncertainties not presently known to us, or that we currently see as immaterial, may also harm our business.  Most of these risks are generally beyond our control.  If any of the risks or uncertainties described below, or any such other or additional risks and uncertainties actually occurs, our business, results of operations and financial condition could be materially and adversely affected.  The following information should be read in conjunction with Item 7 - Management's Discussion and Analysis of Financial Condition and Results of Operations and the consolidated financial statements and related notes under Item 8 - Financial Statements and Supplementary Data.
+ Our business is largely dependent on sales to the nuclear power industry.  Any disruption in this industry would have a material adverse effect upon our revenue and profitability.
+ In 2017, 83% of our revenue was from customers in the nuclear power industry (73% in 2016). We expect to derive a significant portion of our revenue from customers in the nuclear power industry for the foreseeable future. Our ability to supply nuclear power plant simulators and related products and services is dependent on the continued operation of nuclear power plants and, to a lesser extent, on the construction of new nuclear power plants. A wide range of factors affect the continued operation and construction of nuclear power plants, including the political and regulatory environment, the availability and cost of alternative means of power generation, the occurrence of future nuclear incidents, such as the one which occurred at the Fukushima Daiichi nuclear plant in 2011, and general economic conditions.  In addition, demand for our products and services may be affected by changes in the legal and regulatory environment within which the global nuclear power industry operates. Regulatory changes could materially affect demand for our products, the profitability of our service deliveries to nuclear power industry customers, and the overall efficacy of our current business model.
+  8
+ 
+
+
+Our sales to foreign customers expose us to risks associated with operating internationally.
+ Sales of products and services to end users outside the United States accounted for approximately 19% of the Company's consolidated revenue in 2017 and 33% of consolidated revenue in 2016. Consequently, our businesses are subject to a variety of risks that are specific to international operations, including the following:
+  
+· | export laws and regulations that could erode our profit margins or restrict exports;
+--+-------------------------------------------------------------------------------------
+
+
+· | compliance with the U.S. Foreign Corrupt Practices Act and similar non-U.S. regulations such as the UK Bribery Act;
+--+--------------------------------------------------------------------------------------------------------------------
+
+
+· | the burden and cost of compliance with foreign laws, treaties and technical standards generally, as well as responding to changes in those regulations;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | contract award and funding delays;
+--+-----------------------------------
+
+
+· | potential restrictions on transfers of funds;
+--+----------------------------------------------
+
+
+· | potential difficulties in accounts receivable collection;
+--+----------------------------------------------------------
+
+
+· | currency fluctuations, including costs and potentially limited availability of viable hedging options;
+--+-------------------------------------------------------------------------------------------------------
+
+
+· | import and export duties and value added or other taxes;
+--+---------------------------------------------------------
+
+
+· | transportation and communication delays and interruptions;
+--+-----------------------------------------------------------
+
+
+· | difficulties involving strategic alliances and managing foreign sales agents or representatives;
+--+-------------------------------------------------------------------------------------------------
+
+
+· | uncertainties arising from foreign local business practices and cultural considerations; and
+--+---------------------------------------------------------------------------------------------
+
+
+· | potential military conflicts and political risks.
+--+--------------------------------------------------
+
+
+While we have and will continue to adopt measures to reduce the potential impact of losses resulting from the risks of our foreign business, we cannot ensure that such measures will be adequate.  During the years ended December 31, 2017 and 2016, we did not have revenues greater than 10% from any individual foreign country.
+ 
+
+ 9
+ 
+Nuclear Industry Training and Consulting revenue, results of operations, and cash flows may suffer upon the loss of a significant customer.
+ For the years ended December 31, 2017 and 2016, the following customers have provided more than 10% of this operating segment's revenues:
+ 
+ | Years ended December 31,
+------------------------------+-------------------------
+ | 2017 | 2016
+Entergy Corporation (Entergy) | 48% | 22% 
+Tennessee Valley Authority | 16% | 32% 
+PSEG Nuclear LLC | 8% | 14% 
+
+ 
+Entergy provided 20.8% and 10.2% of our consolidated revenue for the years ended December 31, 2017 and 2016, respectively.
+ Hyperspring and Absolute may lose a significant customer if any existing contract with such customer expires without being extended, renewed, renegotiated or is terminated by the customer prior to expiration, to the extent such early termination is permitted by the contract. A number of Hyperspring and Absolute's contracts are typically subject to expiration during each year, and they may lose any of these contracts if they are unable to extend, renew or renegotiate the contracts. The loss of any significant customer would adversely affect our Nuclear Industry Training and Consulting segment's revenue, results of operations, and cash flows.
+ Our expense levels are based upon our expectations as to future revenue, and we may be unable to adjust spending to compensate for a revenue shortfall. Accordingly, any revenue shortfall would likely have a disproportionate effect on our operating results.
+ Our revenue was $70.9 million and $53.1 million for the years ended December 31, 2017 and 2016, respectively.  We had operating income of $0.2 million and $1.6 million for the years ended December 31, 2017 and 2016, respectively. Our operating results have fluctuated in the past and may fluctuate significantly in the future as a result of a variety of factors, including purchasing patterns, timing of new products and enhancements by us and our competitors, and fluctuating global economic conditions. Since our expense levels are based in part on our expectations as to future revenue and includes certain fixed, pre-negotiated, and prepaid costs, we may be unable to adjust spending in a timely manner to compensate for any revenue shortfall and such revenue shortfalls would likely have a disproportionate adverse effect on our operating results.
+ Our backlog is subject to unexpected adjustments and cancellations and may not be a reliable indicator of future revenues or earnings.
+ Backlog represents products or services that our customers have committed by contract or purchase order to purchase from us which have not yet been delivered or recognized as revenue. Our backlog as of December 31, 2017 and 2016 was $71.4 million and $73.2 million, respectively. There can be no assurance that the revenues projected in our backlog will be realized or, if realized, will result in profits. Because of project cancellations or changes in project scope and schedule, we cannot predict with certainty when or if backlog will be performed.  In addition, even where a project proceeds as scheduled, it is possible that contracted parties may default and fail to pay amounts owed to us or poor project performance could increase the cost associated with a project. Delays, suspensions, cancellations, payment defaults, scope changes and poor project execution could materially reduce or eliminate the revenues and profits that we actually realize from projects in backlog.  Reductions in our backlog due to cancellation or modification by a customer or for other reasons may adversely affect, potentially to a material extent, the revenues and earnings we actually receive from contracts included in our backlog.  Many of the contracts in our backlog provide for cancellation fees in the event customers cancel projects. These cancellation fees usually provide for reimbursement of our out-of-pocket costs, revenues for work performed prior to cancellation and a varying percentage of the profits we would have realized had the contract been completed. However, we typically have no contractual right upon cancellation to the total revenues reflected in our backlog. Projects may remain in our backlog for extended periods of time. If we experience significant project terminations, suspensions or scope adjustments to contracts reflected in our backlog, our financial condition, results of operations and cash flows may be adversely impacted.
+  10
+ 
+We are currently a party to multiple fixed price contracts and will continue to enter into similar contracts in the future.  If we are not able to accurately estimate or control costs on such projects, the profitability of such projects could be reduced.
+ A significant portion of our revenue is attributable to contracts entered into on a fixed price basis, which allow us to benefit from cost savings, but we carry the burden of cost overruns. If our initial estimates are incorrect regarding our costs of performance under these contracts, or if unanticipated circumstances arise, we could experience cost overruns which would result in reduced profits or even result in net losses on these contracts. Our financial condition is dependent upon our ability to maximize our earnings from our contracts. Lower earnings or losses caused by cost overruns could have a negative impact on our financial results.
+ Under time and materials contracts, we are paid for labor at negotiated hourly billing rates and for certain expenses. Under cost-reimbursable contracts, which are subject to a contract ceiling amount, we are reimbursed for allowable costs and are paid a fee, which may be fixed or performance based.  However, if our costs exceed the contract ceiling or are not allowable under the provisions of the contract or applicable regulations, we may not be able to obtain reimbursement for all such costs even under a time and materials contract.
+ Our inability to successfully estimate and manage costs on each of these contract types may materially and adversely affect our financial condition.
+ Our simulation business is dependent on product innovation and research and development, which costs are incurred prior to realization of revenue for new products and improvements.
+ We believe that our success will depend in large part on our ability to maintain and enhance our current product line, develop new products, maintain technological competitiveness and meet an expanding range of customer needs. Our product development activities are aimed at the development and expansion of our library of software modeling tools, the improvement of our display systems and workstation technologies, and the advancement and upgrading of our simulation technology. The life cycles for software modeling tools, graphical user interfaces, and simulation technology are variable and largely determined by competitive pressures and the evolution of software and standards that may be controlled by third parties. Consequently, we will need to continue to make significant investments in research and development to enhance and expand our capabilities in these areas and to maintain our competitive advantage. We cannot control, and we may be unable to predict accurately, the development and evolution of these competitive pressures and external software and standards.
+  11
+ 
+We use derivative instruments in the normal course of our business which could result in financial losses and exposure to other risks that negatively impact our net income (loss) and business operational efficiency.
+ We periodically enter into forward foreign exchange contracts to manage market risks associated with the fluctuations in foreign currency exchange rates on foreign-denominated trade receivables. We could recognize financial losses as a result of volatility in the market values of these contracts or if a derivative instrument counterparty fails to perform. We attempt to minimize credit exposure by limiting counterparties to internationally recognized financial institutions, but even these counterparties are subject to default and contract risk and this risk is beyond our control. Additionally, we may need or wish to avail ourselves of other forms of hedging or derivative instruments in the future depending on our business needs, and these other types of derivative instruments may be subject to the same and other risk, and may not be available to us on a cost-effective or risk-controlled basis, if at all. The unavailability of viable and cost effective risk management, hedging, or similar instruments now or in the future could adversely impact our business operational efficiency or results.
+ We issue performance, advance payment, and bid bonds in the normal course of our business which could result in financial losses that negatively impact our net income (loss).
+ We may be required to issue performance, advance payment, and bid bonds to our customers and potential customers as a normal part of our business activities. Our customers may have the ability to draw upon these performance bonds in the event we fail to cure a material breach of the contract within 30 days of receiving notice from the customer regarding the nature of the breach. As of December 31, 2017, we had issued advance payment and performance bonds on three contracts totaling $0.9 million, all of which have been cash collateralized; the largest of these performance bonds was for $0.5 million. Although we expect no material breaches to occur on these contracts, if such a breach were to occur and we failed to cure such breach, we could incur a loss of up to $0.9 million.
+ We rely upon our intellectual property rights for the success of our business; however, the steps we have taken to protect our intellectual property may be inadequate.
+ Although we believe that factors such as the technological and creative skills of our personnel, new product developments, frequent product enhancements and reliable product maintenance are important to establishing and maintaining a technological leadership position, our business depends, in part, on the strength of our intellectual property rights in our proprietary technology and information. We rely upon a combination of trade secret, copyright, and trademark law, contractual arrangements and technical means to protect our intellectual property rights. We enter into confidentiality agreements with our employees, consultants, joint venture and alliance partners, customers and other third parties that are granted access to our proprietary information, and limit access to and distribution of our proprietary information. There can be no assurance, however, that we have protected or will be able to protect our proprietary technology and information adequately, that the unauthorized disclosure or use of our proprietary information will be prevented, that others have not or will not develop similar technology or information independently, or, to the extent we own any patents in the future, that others have not or will not be able to design around those future patents. Furthermore, the laws of certain countries in which our products are sold do not protect our products and intellectual property rights to the same extent as the laws of the United States. Our inability to protect our intellectual property rights from infringement, dilution, or loss could make it more difficult for us to generate revenue from the offer, licensure, and sale of our products and services and could enable third parties to compete with us more effectively.
+  12
+ 
+
+The industries in which we operate are highly competitive. This competition may prevent us from raising prices at the same pace at which our costs increase.
+ Our businesses operate in highly competitive environments with both domestic and foreign competitors, many of whom have substantially greater financial, marketing and other resources than we do. The principal factors affecting competition in our industries include price, technological proficiency, ease of system configuration, product reliability, applications expertise, engineering support, local presence and financial stability. We believe competition in the simulation fields may further intensify in the future as a result of advances in technology, consolidations and strategic alliances among competitors, increased costs required to develop new technology and the increasing importance of software content in systems and products. As our business has a significant international component, changes in the value of the dollar could adversely affect our ability to compete internationally and could reduce our profitability on international business opportunities that we do win.
+ We may encounter difficulties in effectively integrating acquired businesses.
+ As part of our business strategy, we have acquired, and intend to acquire, companies with compatible or related products. These acquisitions will be accompanied by the risks commonly encountered in acquisitions of companies, which include, among other things:
+  
+· | potential exposure to unknown liabilities of the acquired companies;
+--+---------------------------------------------------------------------
+
+
+· | higher than anticipated acquisition costs and expenses;
+--+--------------------------------------------------------
+
+
+· | difficulty and expense of assimilating the operations and personnel of the companies, especially if the acquired operations are geographically distant or culturally different;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | potential disruption of our ongoing business and diversion of management time and attention;
+--+---------------------------------------------------------------------------------------------
+
+
+· | failure to maximize our financial and strategic position by the successful incorporation of acquired technology;
+--+-----------------------------------------------------------------------------------------------------------------
+
+
+· | difficulties in adopting and maintaining uniform standards, controls, procedures and policies;
+--+-----------------------------------------------------------------------------------------------
+
+
+· | loss of key employees and customers as a result of changes in management; and
+--+------------------------------------------------------------------------------
+
+
+· | possible dilution to our shareholders.
+--+---------------------------------------
+
+
+
+We may not be successful in overcoming these risks or any other problems encountered in connection with any of our acquisitions, and if we are not successful, our financial results may be materially impacted.
+ We are dependent on our management team, and the loss of or the inability to attract and retain one or more key employees or groups could harm our business and prevent us from implementing our business plan in a timely manner.
+ Our future success is substantially dependent on the continued services and continuing contributions of our executive officers and other key personnel. Our Nuclear Industry Training and Consulting business segment is particularly dependent on key personnel and their key strategic relationships. The loss of the services of any of our executive officers or other key personnel could harm our business. Our future success also depends on our ability to continue to attract, retain, and motivate highly skilled employees.  If we are not able to attract and retain key skilled personnel, our business could be harmed.
+ A failure to attract and retain technical personnel could reduce our revenue and our operational effectiveness.
+ There is a continuing demand for qualified technical personnel in the industries within which we operate.  We believe that our future growth and success will depend upon our ability to attract, train and retain such personnel. Our design and development efforts depend on hiring and retaining qualified technical personnel. An inability to attract or maintain a sufficient number of technical personnel could have a material adverse effect on our contract performance or on our ability to capitalize on market opportunities.
+ The nuclear power industry, our largest customer group, is associated with a number of hazards which could create significant liabilities.
+ Our business could expose us to third party claims with respect to product, environmental and other similar liabilities. Although we have sought protection from these potential liabilities through a variety of legal and contractual provisions as well as through liability insurance, the effectiveness of such protections has not been fully tested. Certain of our products and services are used by the nuclear power industry primarily in operator training. Although our contracts for such products and services typically contain provisions designed to protect us from potential liabilities associated with such use, there can be no assurance that we would not be materially adversely affected by claims or actions which may potentially arise due to factors that may be outside of our direct control.
+ Cyber security incidents could disrupt business operations, result in the loss of critical and confidential information, and adversely impact our reputation and results of operations.
+ Global cyber security threats can range from uncoordinated individual attempts to gain unauthorized access to our information technology (IT) systems to sophisticated and targeted measures known as advanced persistent threats. While we employ comprehensive measures to prevent, detect, address and mitigate these threats (including access controls, data encryption, vulnerability assessments, continuous monitoring of our IT networks and systems and maintenance of backup and protective systems), cyber security incidents, depending on their nature and scope, could potentially result in the misappropriation, destruction, corruption or unavailability of critical data and confidential or proprietary information (our own or that of third parties) and the disruption of business operations. The potential consequences of a material cyber security incident include reputational damage, litigation with third parties, diminution in the value of our investment in research, development and engineering, loss of intellectual property, and increased cyber security protection and remediation costs, which in turn could adversely affect our competitiveness and results of operations.
+ Third-party claims that we allegedly infringe the intellectual property rights of others may be costly to defend or settle and could damage our business.
+ We cannot be certain that our software and services do not infringe issued patents, copyrights, trademarks or other intellectual property rights of third parties. We may be subject to legal proceedings and claims from time to time, including claims of alleged infringement of intellectual property rights of third parties by us or our licensees concerning their use of our software products and integration technologies and services. Third parties may bring claims of infringement against us. Because our software is integrated with our customers' networks and business processes, as well as other software applications, third parties may bring claims of infringement against us, as well as our customers and other software suppliers, if the cause of the alleged infringement cannot easily be determined.
+ Claims of alleged infringement may have a material adverse effect on our business and may discourage potential customers from doing business with us on acceptable terms, if at all, even if they are ultimately adjudicated to have no merit, dismissed, or settled. Defending against claims of infringement may be time-consuming and may result in substantial costs and diversion of resources, including our management's attention to our business. Furthermore, a party making an infringement claim could secure a judgment that requires us to pay substantial damages. A judgment could also include an injunction or other court order that could prevent us from selling our software or require that we re-engineer some or all of our products.  Claims of intellectual property infringement also might require us to enter costly royalty or license agreements. We may be unable to obtain royalty or license agreements on terms acceptable to us or at all. Our business, operating results and financial condition could be harmed significantly if any of these events were to occur, and the price of our common stock could be adversely affected.  In addition, we have agreed, and may agree in the future, to indemnify certain of our customers against claims that our software infringes upon the intellectual property rights of others. Although we carry general liability insurance, our current insurance coverage may not apply to, and likely would not protect us entirely or at all from, liability that may be imposed under any of the types of claims described above.
+ We are subject to a wide variety of laws and regulations.
+ Our businesses are subject to regulation by U.S. federal and state laws and foreign laws, regulations and policies. Changes to laws or regulations may require us to modify our business objectives if existing practices become more restricted, subject to escalating costs or prohibited outright. Particular risks include regulatory risks arising from federal laws, such as laws regarding export of sensitive technologies or technical information. Our business and the industries in which we operate are also at times being reviewed or investigated by regulators, which could lead to enforcement actions, fines and penalties or the assertion of private litigation claims and damages.
+  13
+ 
+Provisions in our corporate documents and Delaware law could delay or prevent a change in control of our company, even if that change may be considered beneficial by some stockholders.
+ The existence of some provisions of our certificate of incorporation and bylaws and Delaware law could discourage, delay or prevent a change in control of our company that a stockholder may consider favorable. These include provisions:
+  
+· | providing that our Board of Directors fixes the number of members of the board and fills all vacancies on the Board of Directors;
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+
+· | providing for the division of our Board of Directors into three classes with staggered terms;
+--+----------------------------------------------------------------------------------------------
+
+
+· | limiting who may call special meetings of stockholders;
+--+--------------------------------------------------------
+
+
+· | prohibiting stockholder action by written consent, thereby requiring stockholder action to be taken at a meeting of the stockholders;
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | establishing advance notice requirements for nominations of candidates for election to our Board of Directors or for proposing matters that can be acted on by stockholders at stockholder meetings;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | establishing supermajority vote requirements for certain amendments to our certificate of incorporation and bylaws;
+--+--------------------------------------------------------------------------------------------------------------------
+
+
+· | limiting the right of stockholders to remove directors; and
+--+------------------------------------------------------------
+
+
+· | authorizing the issuance of "blank check" preferred stock, which could be issued by our Board of Directors to increase the number of outstanding shares and thwart a takeover attempt.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+In addition, we are subject to Section 203 of the Delaware General Corporation Law, which may have an anti-takeover effect with respect to transactions not approved in advance by our Board of Directors, including discouraging takeover attempts that might result in a premium over the market price for shares of our common stock.
+ We believe these provisions protect our stockholders from coercive or otherwise unfair takeover tactics by requiring potential acquirers to negotiate with our Board of Directors and by providing our Board of Directors with more time to assess any acquisition proposal, and are not intended to make our company immune from takeovers. However, these provisions apply even if the offer may be considered beneficial by some stockholders and could delay or prevent an acquisition that our Board of Directors determines is not in the best interests of our company and our stockholders.
+ A sustained decline in the price of our common stock or weaker than forecasted operating results could result in write-downs of goodwill and other intangible assets and capitalized software development costs.
+ In conjunction with business acquisitions, we record goodwill and other intangible assets and review their fair value for impairment annually as of December 31, or on an interim basis if impairment indicators are present, such as a significant reduction in our market capitalization, significant declines in operating performance or disruptions to the business that could reduce our future cash flow. On November 14, 2014, we recorded $5.6 million of goodwill related to our acquisition of Hyperspring. On September 20, 2017, we recorded $2.8 million of goodwill related to our acquisition of Absolute. We tested our goodwill at the reporting unit level as of December 31, 2017 and 2016, and there was no indication of impairment. We can provide no assurance that we will not have an impairment charge in future periods as the result of changing conditions.  See Note 4 to our consolidated financial statements for information regarding our goodwill.
+ We capitalize certain computer software development costs and, accordingly, the capitalized costs are reported on our balance sheet.  Capitalization of computer software development costs begins upon the establishment of technological feasibility. Capitalization ceases and amortization of capitalized costs begins when the software product is commercially available for general release to customers.  Amortization of capitalized computer software development costs is included in cost of revenue and is determined using the straight-line method over the remaining estimated economic life of the product, typically three years.  On an annual basis, and more frequently as conditions indicate, we assess the status of our development programs and the recoverability of the unamortized software development costs by estimating the net undiscounted cash flows expected to be generated by the sale of the product.  If the undiscounted cash flows are not sufficient to recover the unamortized software costs we will write-down these costs to their estimated fair value based on the future undiscounted cash flows.  The excess of any unamortized computer software costs over the related net realizable value is written down and charged to operations.
+ Treatment of goodwill and capitalized software development costs in the current and future accounting periods may have an impact on the value of the company, results of operations, and price of our common stock.
+ Our ability to use our net operating loss (NOL) carryforward and certain other tax attributes may be limited.
+ Under Section 382 of the Internal Revenue Code of 1986, as amended, if a corporation undergoes an "ownership change," generally defined as a greater than 50% change (by value) in its equity ownership over a three-year period, the corporation's ability to use its pre-change NOL carryforwards, and other pre-change tax attributes (such as research tax credits) to offset its post-change income or tax liabilities may be limited. We may experience ownership changes in the future as a result of shifts in our stock ownership. As a result, if we earn net taxable income, our ability to use our pre-change NOL carryforwards to offset U.S. federal taxable income may be subject to limitations, which could potentially result in increased future tax liability to us.
+ 
+ 14
+ 
+Item 1.  Financial Statements
+GSE SYSTEMS, INC. AND SUBSIDIARIES
+ CONSOLIDATED BALANCE SHEETS
+ (in thousands, except share data)
+ 
+
+ | December 31,
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------
+ASSETS | 2017 | 2016 
+Current assets: | | | | 
+Cash and cash equivalents | $ | 19,111 | $ | 21,747 
+Restricted cash | | 960 | | 1,140 
+Contract receivables, net | | 13,997 | | 18,863 
+Prepaid expenses and other current assets | | 2,795 | | 2,052 
+Total current assets | | 36,863 | | 43,802 
+Equipment, software and leasehold improvements | | 4,782 | | 6,759 
+Accumulated depreciation | | (3,719) | | (5,527) 
+Equipment, software and leasehold improvements, net | | 1,063 | | 1,232 
+Software development costs, net | | 690 | | 982 
+Goodwill | | 8,431 | | 5,612 
+Intangible assets, net | | 2,604 | | 454 
+Deferred tax assets | | 7,167 | | - 
+Other assets | | 37 | | 1,574 
+Total assets | $ | 56,855 | $ | 53,656 
+LIABILITIES AND STOCKHOLDERS' EQUITY | | | 
+Current liabilities: | | | | 
+Accounts payable | $ | 1,251 | $ | 923 
+Accrued expenses | | 2,276 | | 2,437 
+Accrued compensation | | 2,866 | | 2,624 
+Billings in excess of revenue earned | | 14,543 | | 21,444 
+Accrued warranty | | 1,433 | | 1,137 
+Current contingent consideration | | 1,701 | | 2,105 
+Other current liabilities | | 1,182 | | 716 
+Total current liabilities | | 25,252 | | 31,386 
+Other liabilities | | 1,931 | | 1,149 
+Total liabilities | | 27,183 | | 32,535 
+Commitments and contingencies | | - | | - 
+Stockholders' equity: | | | | 
+Preferred stock $.01 par value, 2,000,000 shares authorized, no shares issued and outstanding | | - | | - 
+Common stock $.01 par value, 30,000,000 shares authorized, 21,024,395 and 20,433,608 shares issued and 19,425,484 and 18,834,697 shares outstanding in 2017 and 2016 | | 210 | | 204 
+Additional paid-in capital | | 76,802 | | 75,120 
+Accumulated deficit | | (42,870) | | (49,427)
+Accumulated other comprehensive loss | | (1,471) | | (1,777) 
+Treasury stock at cost, 1,598,911 shares | | (2,999) | | (2,999) 
+Total stockholders' equity | | 29,672 | | 21,121 
+Total liabilities and stockholders' equity | $ | 56,855 | $ | 53,656 
+
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+  29
+ 
+
+
+
+GSE SYSTEMS, INC. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF OPERATIONS
+ (in thousands, except per share data)
+ 
+
+ | Years ended December 31,
+-------------------------------------------------+-------------------------
+ | 2017 | | 2016
+Revenue | $ | 70,880 | | $ | 53,101
+Cost of revenue | | 52,336 | | | 36,843
+Gross profit | | 18,544 | | | 16,258
+Operating expenses | | | | | 
+Selling, general and administrative | | 15,469 | | | 12,260
+Research and development | | 1,391 | | | 1,261 
+Restructuring charges | | 778 | | | 490 
+Depreciation | | 342 | | | 383 
+Amortization of definite-lived intangible assets | | 335 | | | 289 
+Total operating expenses | | 18,315 | | | 14,683
+Operating income | | 229 | | | 1,575 
+Interest income, net | | 80 | | | 85 
+Gain (loss) on derivative instruments, net | | 99 | | | (18) 
+Other (expense) income, net | | (4) | | | 130 
+Income before income taxes | | 404 | | | 1,772 
+(Benefit) provision for income taxes | | (4,980) | | | 350 
+Net income | $ | 5,384 | | $ | 1,422 
+Basic earnings per common share | $ | 0.28 | | $ | 0.08 
+Diluted earnings per common share | $ | 0.27 | | $ | 0.08 
+
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+  30
+ 
+
+
+GSE SYSTEMS, INC. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+ (in thousands)
+ 
+
+ | Years ended December 31,
+----------------------------------------+-------------------------
+ | 2017 | | 2016
+Net income | $ | 5,384 | | $ | 1,422
+Foreign currency translation adjustment | | 306 | | | (317)
+Comprehensive income | $ | 5,690 | | $ | 1,105
+
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+  31
+ 
+
+
+
+GSE SYSTEMS, INC, AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+ (in thousands)
+ 
+
+ | Common Stock | Additional Paid-in | | Accumulated | | Accumulated Other Comprehensive | | Treasury Stock | 
+----------------------------------------------+--------------+--------------------+--------+-------------+---------+---------------------------------+---------+----------------+---------
+ | Shares | | Amount | | Capital | | Deficit | | Loss | Shares | | Amount | | Total
+Balance, January 1, 2016 | 19,511 | $ | 195 | | $ | 73,481 | | $ | (50,849) | $ | (1,460) | | (1,599) | | $ | (2,999) | $ | 18,368
+Stock-based compensation expense | - | | - | | | 1,399 | | | - | | - | | - | | | - | | 1,399 
+Common stock issued for options exercised | 458 | | 4 | | | 829 | | | - | | - | | - | | | - | | 833 
+Common stock issued for RSUs vested | 465 | | 5 | | | (5) | | | - | | - | | - | | | - | | - 
+Vested RSU shares withheld to pay taxes | - | | - | | | (584) | | | - | | - | | - | | | - | | (584) 
+Foreign currency translation adjustment | - | | - | | | - | | | - | | (317) | | - | | | - | | (317) 
+Net income | - | | - | | | - | | | 1,422 | | - | | - | | | - | | 1,422 
+Balance, December 31, 2016 | 20,434 | $ | 204 | | $ | 75,120 | | $ | (49,427) | $ | (1,777) | | (1,599) | | $ | (2,999) | $ | 21,121
+Cumulative effect of new accounting principle | - | | - | | | - | | | 1,173 | | - | | - | | | - | | 1,173 
+Stock-based compensation expense | - | | - | | | 2,398 | | | - | | - | | - | | | - | | 2,398 
+Common stock issued for options exercised | 182 | | 2 | | | 207 | | | - | | - | | - | | | - | | 209 
+Common stock issued for RSUs vested | 409 | | 4 | | | (4) | | | - | | - | | - | | | - | | - 
+Vested RSU shares withheld to pay taxes | - | | - | | | (919) | | | - | | - | | - | | | - | | (919) 
+Foreign currency translation adjustment | - | | - | | | - | | | - | | 306 | | - | | | - | | 306 
+Net income | - | | - | | | - | | | 5,384 | | - | | - | | | - | | 5,384 
+Balance, December 31, 2017 | 21,024 | $ | 210 | | $ | 76,802 | | $ | (42,870) | $ | (1,471) | | (1,599) | | $ | (2,999) | $ | 29,672
+
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+  32
+ 
+
+
+GSE SYSTEMS, INC. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+ (in thousands)
+ 
+
+ | Years ended December 31,
+----------------------------------------------------------------------------------+-------------------------
+ | 2017 | | 2016
+Cash flows from operating activities: | | | | | 
+Net income | $ | 5,384 | | $ | 1,422 
+Adjustments to reconcile net income to net cash provided by operating activities: | | | | | 
+Write-off of long-lived assets to be disposed of | | 222 | | | - 
+Accrued severance costs | | 465 | | | - 
+Depreciation | | 342 | | | 383 
+Amortization of definite-lived intangible assets | | 335 | | | 289 
+Amortization of capitalized software development costs | | 469 | | | 408 
+Change in fair value of contingent consideration | | 446 | | | (207) 
+Stock-based compensation expense | | 2,472 | | | 1,550 
+Bad debt expense | | 118 | | | - 
+(Gain) loss on derivative instruments, net | | (99) | | | 18 
+Deferred income taxes | | (5,505) | | | 123 
+Loss on sale of equipment, software, and leasehold improvements | | 2 | | | 3 
+Changes in assets and liabilities: | | | | | 
+Contract receivables, net | | 10,006 | | | (6,078)
+Prepaid expenses and other assets | | 1,020 | | | (1,249)
+Accounts payable, accrued compensation and accrued expenses | | (1,904) | | | 961 
+Billings in excess of revenue earned | | (6,897) | | | 12,257 
+Accrued warranty | | 462 | | | (465) 
+Other liabilities | | 370 | | | 737 
+Net cash provided by operating activities | | 7,708 | | | 10,152 
+Cash flows from investing activities: | | | | | 
+Capital expenditures | | (112) | | | (79) 
+Proceeds from sale of assets | | - | | | 30 
+Capitalized software development costs | | (177) | | | (245) 
+Acquisition of Absolute Consulting, Inc., net of cash acquired | | (9,066) | | | - 
+Releases of cash as collateral under letters of credit | | 180 | | | 2,408 
+Net cash (used in) provided by investing activities | | (9,175) | | | 2,114 
+Cash flows from financing activities: | | | | | 
+Proceeds from issuance of common stock on the exercise of stock options | | 209 | | | 833 
+RSUs withheld to pay taxes | | (919) | | | (584) 
+Contingent consideration payments to Hyperspring, LLC | | (850) | | | (1,421)
+Net cash used in financing activities | | (1,560) | | | (1,172)
+Effect of exchange rate changes on cash | | 391 | | | (431) 
+Net (decrease) increase in cash and cash equivalents | | (2,636) | | | 10,663 
+Cash and cash equivalents at beginning of year | | 21,747 | | | 11,084 
+Cash and cash equivalents at end of year | $ | 19,111 | | $ | 21,747 
+
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+  33
+ 
+
+GSE SYSTEMS, INC. AND SUBSIDIARIES
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ December 31, 2017 and 2016
+ 
+1.  Summary of Significant Accounting Policies
+ 
+Principles of consolidation
+ 
+The accompanying consolidated financial statements include the accounts of GSE Systems, Inc. and its wholly-owned subsidiaries (collectively, the Company). All intercompany balances and transactions have been eliminated in consolidation. Investments in partnerships, joint ventures, and less-than-majority owned subsidiaries in which the Company has significant influence are accounted for under the equity method.
+ Accounting estimates
+ 
+The preparation of the consolidated financial statements in conformity with generally accepted accounting principles in the United States of America (U.S. GAAP) requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenue and expenses during the reporting period. On an ongoing basis, the Company evaluates the estimates used, including but not limited to those related to revenue recognition on long-term contracts, allowance for doubtful accounts, product warranties, valuation of goodwill and intangible assets acquired, impairment of long-lived assets to be disposed of, valuation of contingent consideration issued in business acquisitions, valuation of stock based compensation awards, and the recoverability of deferred tax assets. Actual results could differ from these estimates.
+ 
+Business Combinations
+ Business combinations are accounted for in accordance with ASC 805, Business Combinations using the acquisition method. Under the acquisition method, the identifiable assets acquired, liabilities assumed and any non-controlling interest in the acquiree are recognized at fair value on the acquisition date, which is the date on which control is transferred to the Company. Any excess purchase price is recorded as goodwill. Transaction costs associated with business combinations are expensed as incurred.
+ Revenues and the results of operations of the acquired business are included in the accompanying consolidated statement of operations commencing on the date of acquisition.
+ Acquisitions may include contingent consideration payments based on future financial measures of an acquired company. Under Accounting Standards Codification (ASC) 805, contingent consideration is required to be recognized at fair value as of the acquisition date. We estimate the fair value of these liabilities based on financial projections of the acquired companies and estimated probabilities of achievement. At each reporting date, the contingent consideration obligation is revalued to estimated fair value, and changes in fair value subsequent to the acquisition are reflected in income or expense in the consolidated statements of operations, and could cause a material impact to our operating results. Changes in the fair value of contingent consideration obligations may result from changes in discount periods and rates, changes in the timing and amount of revenue and/or earnings estimates, and changes in probability assumptions with respect to the likelihood of achieving the various earn-out criteria.
+ 
+Revenue recognition
+ 
+The Company recognizes revenue through fixed price contracts for the sale of uniquely designed/customized systems containing hardware, software and other materials which generally apply to the Performance Improvement Solutions segment and time and material contracts for the Nuclear Industry Training and Consulting segment.
+ In accordance with ASC 605-35, Construction-Type and Production-Type Contracts (ASC 605), the Performance Improvement Solutions segment primarily accounts for revenue under fixed-price contracts using the percentage-of-completion method. This methodology recognizes revenue and earnings as work progresses on the contract and is based on costs incurred to date compared to total estimated cost to complete the project. Estimated contract earnings are reviewed and revised periodically as the work progresses, and the cumulative effect of any change in estimate is recognized in the period in which the change is identified. Estimated losses are charged against earnings in the period such losses are identified. The Company recognizes revenue arising from contract claims either as income or as an offset against a potential loss only when the amount of the claim can be estimated reliably and realization is probable and there is a legal basis of the claim.
+ Uncertainties inherent in the performance of contracts include labor availability and productivity, material costs, change order scope and pricing, software modification and customer acceptance issues. The reliability of these cost estimates is critical to the Company's revenue recognition as a significant change in the estimates can cause the Company's revenue and related margins to change significantly from the amounts estimated in the early stages of the project.
+ As the Company recognizes revenue under the percentage-of-completion method, it provides an accrual for estimated future warranty costs based on historical and projected claims experience. The Company's long-term contracts generally provide for a one to two year warranty on parts, labor and any bug fixes as it relates to customized software embedded in the systems.
+ Revenue from the sale of software licenses without other elements in the contract and which do not require significant modifications or customization for the Company's modeling tools are recognized when the license agreement is signed, the license fee is fixed and determinable, delivery has occurred, and collection is considered probable. We utilize written contracts to establish the terms and conditions by which product support and services are sold to customers. Delivery is considered to have occurred when title and risk of loss have been transferred to the customer, which generally occurs after a license key has been delivered electronically to the customer.
+ The Company also recognizes revenue from the sale of software licenses from contracts with multiple deliverables. These software license sales are evaluated under ASC 985-605, Software Revenue Recognition. Contracts with multiple element arrangements typically include, but are not limited to, components such as installation, training, licenses, and post contract support (PCS) listed in the contract. The Company concluded that vendor specific objective evidence (VSOE) does not exist for all elements of its software license sales. If a PCS or professional services element exists in the software license arrangement, revenue is recognized ratably over the longest service period.  If no PCS or professional services element exists in the arrangement, revenue is deferred until the last undelivered element is delivered.
+ The Company recognizes revenue under time and materials contracts primarily from the Nuclear Industry Training and Consulting segment and certain cost-reimbursable contracts. Revenue on time and material contracts is recognized as services are rendered and performed. Under a typical time-and-materials billing arrangement, customers are billed on a regularly scheduled basis, such as biweekly or monthly. Any unbilled amounts are typically billed the following month. Under cost-reimbursable contracts, which are subject to a contract ceiling amount, we are reimbursed for allowable costs and paid a fee, which may be fixed or performance based. However, if costs exceed the contract ceiling or are not allowable under the provisions of the contract or applicable regulations, we may not be able to obtain reimbursement for all such costs.
+ 
+ 34
+ 
+Cash and cash equivalents
+ 
+Cash and cash equivalents represent cash and highly liquid investments including money market accounts with maturities of three months or less at the date of purchase.
+ 
+Restricted cash
+ 
+Restricted cash consists of the cash collateralization of outstanding letters of credit used for various advance payment, bid, surety and performance bonds, and negative foreign exchange positions which have been segregated into restricted money market accounts with BB&T Bank. BB&T Bank has complete and unconditional control over the restricted money market accounts.
+ At December 31, 2017 and 2016, the Company had approximately $1.0 million and $1.1 million, respectively, of cash in escrow accounts with BB&T Bank. We have classified all of our restricted cash as current assets at December 31, 2017 and 2016, respectively. The Company recorded interest income of $2,000 and $6,000 from the escrow accounts for the years ended December 31, 2017 and 2016, respectively. The interest earned on these restricted funds is added to the restricted cash balance. The Company classifies the restriction and release of the cash collateralization of outstanding letters of credit as an investing activity within the consolidated statements of cash flows, as these deposits are not related to borrowings against our line of credit.
+ 
+Contract receivables, net
+ 
+Contract receivables include recoverable costs and accrued profit not billed which represents revenue recognized in excess of amounts billed. Billings in excess of costs and estimated earnings on uncompleted contracts in the accompanying consolidated balance sheets represent advanced billings to clients on contracts in advance of work performed. Generally, such amounts will be earned and recognized over the next twelve months.
+ Billed receivables are recorded at invoiced amounts. The allowance for doubtful accounts is based on historical trends of past due accounts, write-offs, and specific identification and review of customer accounts.
+ 
+Equipment, software and leasehold improvements, net
+ 
+Equipment and purchased software are recorded at cost and depreciated using the straight-line method with estimated useful lives ranging from three to ten years. Leasehold improvements are amortized over the life of the lease or the estimated useful life, whichever is shorter, using the straight-line method. Upon sale or retirement, the cost and related depreciation are eliminated from the respective accounts and any resulting gain or loss is included in operations. Maintenance and repairs are charged to expense as incurred.
+ 
+Software development costs
+ 
+Certain computer software development costs are capitalized in the accompanying consolidated balance sheets. Capitalization of computer software development costs begins upon the establishment of technological feasibility. Capitalization ceases and amortization of capitalized costs begins when the software product is commercially available for general release to customers. Amortization of capitalized computer software development costs is included in cost of revenue and is determined using the straight-line method over the remaining estimated economic life of the product, typically three years. On an annual basis, or more frequently as conditions indicate, the Company assesses the recovery of the unamortized software development costs by estimating the net undiscounted cash flows expected to be generated by the sale of the product. If the undiscounted cash flows are not sufficient to recover the unamortized software costs the Company will write-down the carrying amount of such asset to its estimated fair value based on the future discounted cash flows. The excess of any unamortized computer software costs over the related fair value is written down and charged to operations.
+ 
+Development expenditures
+ 
+Development expenditures incurred to meet customer specifications under contracts are charged to contract costs. Company sponsored development expenditures are either charged to operations as incurred and are included in research and development expenses or are capitalized as software development costs. See Note 9, Software development costs, net. The amounts incurred for Company sponsored development activities relating to the development of new products and services or the improvement of existing products and services, were approximately $1.6 million for the years ended December 31, 2017 and 2016, respectively. Of this amount, the Company capitalized approximately $0.2 million for the years ended December 31, 2017 and 2016, respectively.
+ 
+Impairment of long-lived assets
+ 
+Long-lived assets, such as equipment, purchased software, capitalized software development costs, and intangible assets subject to amortization, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. Recoverability of assets to be held and used is measured by a comparison of the carrying amount of an asset to estimated undiscounted future cash flows expected to be generated by the asset. If the carrying amount of an asset exceeds its estimated undiscounted future cash flows, an impairment charge is recognized at the amount by which the carrying amount of the asset exceeds its fair value. Assets to be disposed of would be separately presented in the consolidated balance sheets and reported at the lower of the carrying amount or fair value less costs to sell, and would no longer be depreciated.
+ 
+On December 27, 2017, the board of the Company approved an international restructuring plan to streamline and optimize the Company's global operations. As a result, the Company will be closing its offices in Nyköping, Sweden; Chennai, India; and Stockton-on-Tees, UK. The Company's management conducted an impairment review of the assets to be disposed of under the plan. Based upon this review, we recorded an impairment loss of $0.2 million representing the net book value of the equipment and intangible assets subject to amortization under the respective offices. See Note 3, Restructuring Expenses.
+ 
+Goodwill and intangible assets
+ 
+The Company's intangible assets include amounts recognized in connection with business acquisitions, including customer relationships, contract backlog and software. Intangible assets are initially valued at fair value using generally accepted valuation methods appropriate for the type of intangible asset. Amortization is recognized on a straight-line basis over the estimated useful life of the intangible assets, except for contract backlog and contractual customer relationships which are recognized in proportion to the related projected revenue streams. Intangible assets with definite lives are reviewed for impairment if indicators of impairment arise. The Company does not have any intangible assets with indefinite useful lives.
+ Goodwill represents the excess of costs over fair value of assets of businesses acquired. The Company reviews goodwill for impairment annually as of December 31 and whenever events or changes in circumstances indicate the carrying value of goodwill may not be recoverable in accordance with Accounting Standards Update (ASU) 2011-08, Intangibles - Goodwill and Other (Topic 350): Testing Goodwill for Impairment, and ASC 350, Intangibles — Goodwill and Other (ASC 350). The Company tests goodwill at the reporting unit level.
+ ASU 2011-08 permits an entity to first assess qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount as a basis for determining whether it is necessary to perform the two-step goodwill impairment test. Under ASU 2011-08, an entity is not required to perform step one of the goodwill impairment test for a reporting unit if it is more likely than not that its fair value is greater than its carrying amount.  For the annual goodwill impairment test as of December 31, 2017, the Company performed a quantitative step one goodwill impairment test and concluded that the fair values of each of the reporting units exceeded their respective carrying values. No goodwill impairment was recorded during 2017.
+  35
+ 
+Foreign currency translation
+ 
+The United States Dollar (USD) is the functional currency of GSE and our subsidiaries operating in the United States. Our subsidiaries' financial statements are maintained in their functional currencies. The functional currency of each of our foreign subsidiaries is the currency of the economic environment in which the subsidiary primarily does business. Our foreign subsidiaries' financial statements are translated into USD using the exchange rates applicable to the dates of the financial statements. Assets and liabilities are translated into USD using the period-end spot foreign exchange rates. Income and expenses are translated at the average exchange rate for the year. Equity accounts are translated at historical exchange rates. The effects of these translation adjustments are reported as a component of accumulated other comprehensive income (loss) included in the consolidated statements of changes in stockholders' equity. For any transaction that is in a currency different from the entity's functional currency, we record a gain or loss based on the difference between the exchange rate at the transaction date and the exchange rate at the transaction settlement date (or rate at period end, if unsettled) as foreign currency exchange gain (loss), net in the consolidated statements of operations.
+ 
+Accrued warranty
+ 
+For contracts that contain a warranty provision, the Company provides an accrual for estimated future warranty costs based on historical experience and projected claims. The Company's contracts may contain warranty provisions ranging from one to two years. The current portion of the accrued warranty is presented separately on the consolidated balance sheets within current liabilities whereas the noncurrent portion is included in other liabilities.
+ 
+The activity in the accrued warranty accounts is as follows:
+ 
+
+(in thousands) | As of and for the 
+-----------------------+-------------------------
+ | years ended December 31,
+ | 2017 | | 2016
+Beginning balance | $ | 1,478 | | $ | 1,614
+Current year provision | | 707 | | | 355 
+Current year claims | | (245) | | | (467)
+Currency adjustment | | 13 | | | (24) 
+Ending balance | $ | 1,953 | | $ | 1,478
+
+ 
+Income taxes
+ 
+Income taxes are provided under the asset and liability method. Under this method, deferred income taxes are determined based on the differences between the consolidated financial statements and tax bases of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse. Valuation allowances are established, when necessary, to reduce deferred tax assets to the amounts expected to be realized. A provision is made for the Company's current liability for federal, state and foreign income taxes and the change in the Company's deferred income tax assets and liabilities.
+ 
+We establish accruals for uncertain tax positions taken or expected to be taken in a tax return when it is not more likely than not (i.e., a likelihood of more than fifty percent) that the position would be sustained upon examination by tax authorities that have full knowledge of all relevant information. A recognized tax position is then measured at the largest amount of benefit that is greater than fifty percent likely of being realized upon ultimate settlement. Favorable or unfavorable adjustment of the accrual for any particular issue would be recognized as an increase or decrease to income tax expense in the period of a change in facts and circumstances. Interest and penalties related to income taxes are accounted for as income tax expense.
+ 
+Stock-based compensation
+ 
+Share-based compensation expense is based on the grant-date fair value estimated in accordance with the provisions of ASC 718, Compensation-Stock Compensation. Compensation expense related to share based awards is recognized on a pro rata straight-line basis based on the value of share awards that are scheduled to vest during the requisite service period.
+ 
+Earnings per share
+ 
+Basic earnings per share is based on the weighted average number of outstanding common shares for the period.  Diluted earnings per share adjusts the weighted average shares outstanding for the potential dilution that could occur if outstanding vested stock options were exercised. Basic and diluted earnings per share is based on the weighted average number of outstanding shares for the period.
+ 
+The number of common shares and common share equivalents used in the determination of basic and diluted earnings per share were as follows:
+ 
+
+(in thousands, except for per share data) | Years ended December 31,
+----------------------------------------------------------------------------------------------------+-------------------------
+ | 2017 | | 2016 | 
+Numerator: | | | | | 
+Net income | $ | 5,384 | | $ | 1,422 
+Denominator: | | | | | 
+Weighted-average shares outstanding for basic earnings per share | | 19,259,966 | | | 18,218,681
+Effect of dilutive securities: | | | | | 
+Stock options and restricted stock units | | 345,461 | | | 293,585 
+Adjusted weighted-average shares outstanding and assumed conversions for diluted earnings per share | | 19,605,427 | | | 18,512,266
+Shares related to dilutive securities excluded because inclusion would be anti-dilutive | | 374,833 | | | 677,964 
+
+ 
+Conversion of certain outstanding stock options was not assumed for the years ended December 31, 2017 and 2016 because the impact would have been anti-dilutive.
+ 
+ 36
+ 
+Significant customers and concentration of credit risk
+ 
+For the year ended December 31, 2017, we have a concentration of revenue from two individual customers, which accounted for approximately 39.0% of our consolidated revenue. For the year ended December 31, 2016, we have a concentration of revenue from an individual customer, which accounted for 10.2% of our consolidated revenue. No other individual customer accounted for more than 10% of our consolidated revenue in 2017 or 2016.
+ As of December 31, 2017, we have a one customer that accounted for 26.7% of the Company's consolidated contract receivables. As of December 31, 2016, the Company did not have any customers that accounted for more than 10% of the Company's consolidated contract receivables.
+ 
+Fair values of financial instruments
+ 
+The carrying amounts of current assets and current liabilities reported in the consolidated balance sheets approximate fair value due to their short term duration.
+ 
+Derivative instruments
+ 
+The Company utilizes forward foreign currency exchange contracts to manage market risks associated with the fluctuations in foreign currency exchange rates. It is the Company's policy to use such derivative financial instruments to protect against market risk arising in the normal course of business in order to reduce the impact of these exposures. The Company minimizes credit exposure by limiting counterparties to nationally recognized financial institutions.
+ 
+As of December 31, 2017, the Company had foreign exchange contracts outstanding of approximately 162.5 million Japanese Yen, 0.2 million Australian Dollars, and 24,000 Euro.  At December 31, 2016, the Company had foreign exchange contracts outstanding of approximately 281.4 million Japanese Yen, 0.6 million Australian Dollars, 0.5 million Canadian Dollars, and 0.1 million Euro at fixed rates. The contracts expire on various dates through December 2018. The Company had not designated the foreign exchange contracts as hedges and had recorded the estimated fair value of the contracts in the consolidated balance sheet as follows:
+ 
+
+ | December 31,
+------------------------------------------+-------------
+(in thousands) | 2017 | | 2016
+Asset derivatives | | | | | 
+Prepaid expenses and other current assets | $ | 201 | | $ | 57 
+Other assets | | - | | | 84 
+ | | 201 | | | 141 
+Liability derivatives | | | | | 
+Other current liabilities | | - | | | (20)
+ | | - | | | (20)
+Net fair value | $ | 201 | | $ | 121 
+
+ 
+The changes in the fair value of the foreign exchange contracts are included in gain (loss) on derivative instruments, net in the consolidated statements of operations.
+ The foreign currency denominated trade receivables, unbilled receivables, billings in excess of revenue earned and subcontractor accruals that are related to the outstanding foreign exchange contracts are remeasured at the end of each period into the functional currency using the current exchange rate at the end of the period.  The gain or loss resulting from such remeasurement is also included in gain (loss) on derivative instruments net in the consolidated statements of operations.
+ 
+For the years ended December 31, 2017 and 2016, the Company recognized a gain (loss) on its derivative instruments net as outlined below:
+ 
+
+ | Years ended December 31,
+---------------------------------------------------------------------------------------+-------------------------
+(in thousands) | 2017 | | 2016 | 
+Foreign exchange contracts- change in fair value | $ | 73 | | $ | 51 
+Remeasurement of related contract receivables and billings in excess of revenue earned | | 26 | | | (69)
+ | $ | 99 | | $ | (18)
+
+Reclassifications
+ 
+Certain prior year amounts have been reclassified to conform with the current year presentation. The Company reclassified the stock-based compensation related to management and administrative employees from cost of revenue and research and development expenses to selling, general and administrative expenses.
+ 
+ 37
+ 
+Accounting pronouncements recently adopted
+ 
+In July 2015, the Financial Accounting Standards Board (FASB) issued  ASU No. 2015-11, Simplifying the Measurement of Inventory (ASU 2015-11).  ASU 2015-11 requires that an entity measure inventory at the lower of cost and net realizable value.  This ASU does not apply to inventory measured using the last-in, first-out method.  ASU 2015-11 was effective for annual reporting periods beginning after December 15, 2016, including interim periods within that reporting period.  We adopted ASU 2015-11 effective January 1, 2017.  The adoption of this standard did not have a significant impact on our consolidated financial position, results of operations or cash flows.
+ In March 2016, the FASB issued ASU No. 2016-09, Compensation - Stock Compensation: Topic 718: Improvements to Employee Share Based Payment Accounting (ASU 2016-09).  The new guidance is intended to simplify the accounting for share based payment award transactions.  The amendments in the update include the following aspects for share based accounting: accounting for income taxes, classification of excess tax benefits on the statement of cash flows, forfeitures, minimum statutory tax withholding requirements, and classification of employee taxes paid on the statement of cash flows when an employer withholds shares for tax withholding purposes.  The adoption of ASU 2016-09 was required for fiscal reporting periods beginning after December 15, 2016, including interim reporting periods within those fiscal years.  We adopted ASU 2016-09 effective January 1, 2017. In the fourth quarter, the Company began providing forward forecasting beyond one year which was incorporated into the scheduling analysis to support realization of the deferred tax assets. The adoption of this standard resulted in a $1.2 million increase in the opening balance of retained earnings due to the release of windfall tax benefits.
+ Accounting pronouncements not yet adopted
+ 
+In May 2014, the FASB issued ASU No. 2014-09, Revenue from Contracts with Customers (ASU 2014-09), which provides guidance for revenue recognition. The standard's core principle is that a company will recognize revenue when it transfers promised goods or services to customers in an amount that reflects the consideration to which the company expects to be entitled in exchange for those goods or services. In doing so, companies will need to use more judgment and make more estimates than under today's guidance. These may include identifying performance obligations in the contract, estimating the amount of variable consideration to include in the transaction price and allocating the transaction price to each separate performance obligation. This guidance also requires enhanced disclosures regarding the nature, amount, timing and uncertainty of revenue and cash flows arising from an entity's contracts with customers. This guidance will be effective for the Company for the fiscal year ending December 31, 2018, and interim periods therein, using either of the following transition methods: (i) a full retrospective approach reflecting the application of the standard in each prior reporting period with the option to elect certain practical expedients, or (ii) a retrospective approach with the cumulative effect of initially adopting ASU 2014-09 recognized at the date of adoption (which includes additional footnote disclosures).
+ Subsequent to issuing ASU 2014-09, the FASB has issued a series of subsequent updates to the revenue recognition guidance in Topic 606, including ASU No. 2015-14, Revenue from Contracts with Customers (Topic 606): Deferral of the Effective Date, ASU No. 2016-08, Revenue from Contracts with Customers (Topic 606): Principal versus Agent Considerations (Reporting Revenue Gross versus Net), ASU No. 2016-10, Revenue from Contracts with Customers (Topic 606): Identifying Performance Obligations and Licensing, ASU No. 2016-12, Revenue from Contracts with Customers (Topic 606): Narrow-Scope Improvements and Practical Expedients, ASU No. 2016-20, Technical Corrections and Improvements to Topic 606, Revenue from Contracts with Customers, and ASU No. 2017-13, Revenue Recognition (Topic 605), Revenue from Contracts with Customers (Topic 606), Leases (Topic 840), and Leases (Topic 842): Amendments to SEC Paragraphs Pursuant to the Staff Announcement at the July 20, 2017 EITF Meeting and Rescission of Prior SEC Staff Announcements and Observer Comments. The aforementioned amendments are effective for public entities for annual reporting periods beginning after December 15, 2017, and for interim periods within that reporting period.
+ The Company has completed its evaluation of the new standard and has assessed the impacts of adoption on the consolidated financial statements and disclosures based on the evaluation of our current contracts and revenue streams, which are described below.
+ During the implementation of the new standard, we identified three broad revenue streams: 1) System Design and Build (SDB), 2) Software, and 3) Consulting and Training services.
+ The SDB contracts typically consist of initial design, engineering, assembly and installation of training simulators which include hardware, software, labor, and PCS on the software. We primarily account for revenue under fixed-price SDB contracts using the percentage-of-completion method (input method). This methodology recognizes revenue and earnings as work progresses on the contract and is based on costs incurred to date compared to total estimated cost to complete the project. Under the new accounting standard, we identify two main performance obligations for a typical SDB contract: a fully functioning training simulator (which includes hardware, software, and labor) and PCS. For a training simulator, we will continue to use the  percentage-of-completion method (input method) to account for revenue, and for PCS, we recognize revenue ratably over the term of the PCS.
+ For the standalone sales of software and which do not require significant modifications or customization, revenue recognition is mostly consistent under both the previous and new standard.
+ A software license sale contract with multiple deliverables typically includes the following elements: license, installation and training services and PCS. Under the current revenue recognition standard, due to the lack of VSOE, revenue is recognized ratably over the longest service period. Under the new revenue recognition standard, the total transaction price will be allocated to the identified performance obligations based on their relative standalone selling prices, and we will recognize the revenue as the performance obligations are satisfied. Specially, we will recognize license revenue when the software license is delivered to the customer; installation and training revenue will be recognized when the installation and training is completed without regard to a detailed evaluation of the point in time criteria due to the short-term nature of the installation and training services (1 to 2 days on average); and PCS revenue will be recognized ratably over the service period.
+ The contracts within the consulting and training services revenue stream are primarily time and materials based in which customers are billed on a regular basis, such as weekly, biweekly or monthly. Revenue on time and material contracts is recognized as services are rendered and performed. Any unbilled amounts are typically billed the following month. Under the new standard, we elect to apply the "right to invoice" practical expedient outlined in ASC 606-10-55-18. The invoice amount represents the number of hours of approved time worked by each temporary worker multiplied by the bill rate for the type of work. As such, the Company will recognize revenue in the amount for which it has the right to invoice. Therefore, revenue recognition is mostly consistent under both the previous and new standard.
+ We adopted the new standard effective January 1, 2018 to (i) all new contracts entered into after January 1, 2018 and (ii) all existing contracts for which all (or substantially all) of the revenue has not been recognized under legacy revenue guidance, using the modified retrospective transition method. The adoption of the new standard resulted in an increase of $0.9 million to the opening balance of accumulated deficit, primarily due to software contracts and the acceleration of software license revenue recognition. The Company is currently assessing the tax impact upon adoption of the new standard. Consolidated revenues presented in the comparative consolidated financial statements for periods prior to January 1, 2018 will not be revised.
+ The disclosures in our notes to the consolidated financial statements related to revenue recognition will be significantly expanded under the new standard, specifically around the quantitative and qualitative information about performance obligations, changes in contract assets and liabilities, and disaggregation of revenue.
+  38
+ 
+In February 2016, the FASB issued ASU No. 2016-02, Leases.  The new standard establishes a right-of-use (ROU) model that requires a lessee to record a ROU asset and a lease liability on the balance sheet for all leases with terms longer than 12 months. Leases will be classified as either finance or operating, with classification affecting the pattern of expense recognition in the income statement. The new standard is effective for fiscal years beginning after December 15, 2018, including interim periods within those fiscal years. A modified retrospective transition approach is required for lessees with capital and operating leases existing at, or entered into after, the beginning of the earliest comparative period presented in the consolidated financial statements, with certain practical expedients available.  We are still evaluating the impact of the pending adoption of the new standard on the consolidated financial statements, and we expect that, upon adoption, the recognition of ROU assets and lease liabilities could be material.
+ In June 2016, the FASB issued ASU 2016-13, Financial Instruments – Credit Losses, which introduces new guidance for credit losses on instruments within its scope. The new guidance introduces an approach based on expected losses to estimate credit losses on certain types of financial instruments, including, but not limited to, trade and other receivables, held-to-maturity debt securities, loans and net investments in leases. The new guidance also modifies the impairment model for available-for-sale debt securities and requires the entities to determine whether all or a portion of the unrealized loss on an available-for-sale debt security is a credit loss. The standard also indicates that entities may not use the length of time a security has been in an unrealized loss position as a factor in concluding whether a credit loss exists. The ASU is effective for public companies for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years. Early adoption is permitted for all entities for fiscal years beginning after December 15, 2018, including interim periods within those fiscal years. The Company is currently evaluating the effects, if any, that the adoption of this guidance will have on the Company's consolidated financial position, results of operations and cash flows.
+ In August 2016, the FASB issued ASU No. 2016-15, Classification of Certain Cash Receipts and Cash Payments (ASU 2016-15).  The new guidance addresses eight specific cash flow issues and applies to all entities that are required to present a statement of cash flows. Adoption of ASU 2016-15 is required for fiscal reporting periods beginning after December 15, 2017, including interim reporting periods within those fiscal years.  We are currently evaluating the potential impact of the adoption of ASU 2016-15 on our consolidated financial statements.
+ In November 2016, the FASB issued ASU No. 2016-18, Restricted Cash (ASU 2016-18).  The new guidance applies to all entities that have restricted cash or restricted cash equivalents and are required to present a statement of cash flows.  This update is intended to reduce diversity in cash flow presentation of restricted cash and restricted cash equivalents and requires entities to include all cash and cash equivalents, both restricted and unrestricted, in the beginning-of-period and end-of-period totals presented on the statement of cash flows.  Adoption of ASU 2016-18 is required for fiscal reporting periods beginning after December 15, 2017, including interim reporting periods within those fiscal years.  We are currently evaluating the potential impact of the adoption of ASU 2016-18 on our consolidated financial statements.
+ In January 2017, the FASB issued ASU No. 2017-01, Business Combinations: Clarifying the definition of a Business, which amends the current definition of a business. Under ASU 2017-01, to be considered a business, an acquisition would have to include an input and a substantive process that together significantly contributes to the ability to create outputs.  ASU 2017-01 further states that when substantially all of the fair value of gross assets acquitted is concentrated in a single asset (or a group of similar assets), the assets acquired would not represent a business.  The new guidance also narrows the definition of the term "outputs" to be consistent with how it is described in ASC 606, Revenue from Contracts with Customers.  The changes to the definition of a business will likely result in more acquisitions being accounted for as asset acquisitions. ASU 2017-01 is effective for acquisitions commencing on or after December 15, 2017, with early adoption permitted.  Adoption of this guidance will be applied prospectively on or after the effective date.
+ In January 2017, the FASB issued ASU No. 2017-04, Simplifying the Test for Goodwill Impairment (ASU 2017-04).  ASU 2017-04 simplifies the accounting for goodwill impairment by eliminating Step 2 of the current goodwill impairment test, which required a hypothetical purchase price allocation.  Goodwill impairment will now be the amount by which the reporting unit's carrying value exceeds its fair value, limited to the carrying value of the goodwill.  ASU 2017-04 is effective for financial statements issued for fiscal years, and interim periods beginning after December 15, 2019.  We are currently evaluating the potential impact of the adoption of ASU 2017-04 on our consolidated financial statements.
+ In May 2017, the FASB issued ASU No. 2017-09, Compensation – Stock Compensation (ASU 2017-09). The new guidance is intended to provide clarity and reduce both (1) diversity in practice and (2) cost and complexity when applying the guidance on ASC 718, Compensation – Stock Compensation. Entities are required to apply modification accounting for any change to an award, except for a change that is deemed to be purely administrative in nature. ASU 2017-09 provides guidance about which changes to the terms or conditions of a share-based award require an entity to apply modification accounting in ASC 718. The amendments in this update are effective for all entities and for annual periods, and interim periods within those annual periods, beginning after December 15, 2017. Early adoption is permitted. The amendments in this update should be applied prospectively to an award modified on or after the adoption date. We are currently evaluating the potential impact of the adoption of ASU 2017-09 on our consolidated financial statements.
+  39
+ 
+
+ 
+2. | Acquisition
+---+------------
+
+
+On September 20, 2017, GSE, through its wholly-owned subsidiary GSE Performance Solutions, Inc. (Performance Solutions), acquired 100% of the capital stock of Absolute Consulting, Inc. (Absolute) for $8.8 million pursuant to the Stock Purchase Agreement by and among Performance Solutions and the sellers of Absolute. The purchase price was subject to a customary working capital adjustment resulting in total consideration of $9.5 million. An indemnification escrow of $1.0 million was funded from the cash paid to the sellers and is available to GSE and Performance Solutions to satisfy indemnification claims until September 20, 2019. The acquisition of Absolute was completed on an all-cash transaction basis.
+ Absolute is a provider of technical consulting and staffing solutions to the global nuclear power industry. Located in Navarre, Florida, Absolute has established long-term relationships with blue-chip customers primarily in the nuclear power industry. The acquisition of Absolute is expected to strengthen the Company's global leadership in nuclear training and consulting solutions, add new capacities to our technical consulting and staffing solutions offerings and bring highly complementary customers, while deepening relationships with existing clients.
+ 
+The following table summarizes the consideration paid to acquire Absolute and the fair value of the assets acquired and liabilities assumed at the date of the transaction. The following amounts except for Cash are all reflected in the consolidated statement of cash flow within the "Acquisition of Absolute Consulting, Inc., net of cash acquired" line caption.
+ 
+
+ | Absolute
+----------------------------------------------------------+---------
+(in thousands) | | 
+Total purchase price | $ | 9,521 
+Purchase price allocation: | | 
+Cash | $ | 455 
+Contract receivables | | 5,121 
+Prepaid expenses and other current assets | | 68 
+Property, and equipment, net | | 184 
+Intangible assets | | 2,569 
+Accounts payable, accrued expenses, and other liabilities | | (78) 
+Accrued compensation | | (1,617)
+Total identifiable net assets | | 6,702 
+Goodwill | | 2,819 
+Net assets acquired | $ | 9,521 
+
+ 
+The goodwill is primarily attributable to the additional capacities to offer broader solutions to new and existing customers and the expected enhanced cost and growth synergies as a result of the acquisition. The total amount of goodwill that is expected to be tax deductible is $2.8 million. All of the $2.8 million of goodwill was assigned to our Nuclear Industry Training and Consulting segment.
+ The fair value of the assets acquired includes gross trade receivables of $5.1 million, of which the Company has collected in full subsequent to the acquisition. GSE did not acquire any other class of receivable as a result of the acquisition of Absolute.
+ 
+ The Company identified $2.6 million of other intangible assets, including customer relationships and trademarks/names with amortization periods of three to ten years. The following table summarizes the fair value of intangibles assets acquired at the date of acquisition and the related weighted average amortization period:
+ 
+
+Intangible Assets | Weighted average amortization period | | Fair Value 
+-----------------------+--------------------------------------+---+---------------
+ | (in years) | | (in thousands)
+Customer relationships | 10 | $ | 1,856 
+Trademarks/Names | 3 | | 713 
+Total | | $ | 2,569 
+
+Unaudited Pro Forma Financial Information
+ The acquired business contributed revenue of $8.7 million and earnings of $0.6 million to GSE for the period from September 20, 2017 to December 31, 2017. The following unaudited pro forma summary presents consolidated information of GSE as if the business combination had occurred on January 1, 2016. The unaudited pro forma financial information was prepared based on historical financial information.
+ These pro forma amounts have been calculated after applying GSE's accounting policies and adjusting the results of Absolute to reflect the additional depreciation and amortization that would have been charged assuming the fair value adjustments to fixed assets and intangible assets had been applied from January 1, 2016, with the consequential tax effects. In 2017, GSE and Absolute have incurred $0.5 million of acquisition-related costs. These expenses are included in general and administrative expense on GSE's consolidated statements of operations and are reflected in pro forma earnings for the year ended December 31, 2016, in the table below. The pro forma financial information is not intended to reflect the actual results of operations that would have occurred if the acquisition had been completed on January 1, 2016, nor is it intended to be an indication of future operating results.
+ 
+
+(in thousands) | (unaudited) 
+---------------+------------------------
+ | Year Ended December 31,
+ | 2017 | 2016 
+Revenue | $ | 99,484 | $ | 93,147
+Net income | | 5,735 | | 1,362 
+
+ 
+ 40
+ 
+
+ 
+3. | Restructuring expenses
+---+-----------------------
+
+
+On December 27, 2017, the board of GSE Systems, Inc. approved an international restructuring plan to streamline and optimize the Company's global operations. Beginning in December 2017, GSE will consolidate its engineering services and R&D activities to Maryland and cease an unprofitable non-core business in the U.K.  As a result, the Company will be closing its offices in Nyköping, Sweden; Chennai, India; and Stockton-on-Tees, UK. These actions are designed to improve Company productivity by eliminating duplicate employee functions and increasing GSE's focus on its core business, improving efficiency and maintaining the full range of engineering capabilities while reducing costs and organizational complexity.
+ 
+GSE will eliminate approximately 40 positions due to these changes, primarily in Europe and India, and will undertake other cost-savings measures. The restructuring plan is expected to be completed in 2018. As a result of these efforts, GSE expects to record a restructuring charge of approximately $1.7 million, primarily related to workforce reductions, contracts termination costs and asset write-offs due to the exit activities. We recorded a restructuring charge of $0.7 million for the year ended December 31, 2017, and we expect to record the remaining charges, primarily reflecting the office closure costs, in the first quarter of 2018. The following table summarize the restructuring costs. The amounts to be transferred from cumulative translation adjustments and included in determining net income for the period, in which the liquidation of these foreign entities are completed (2018), are not included in the table below.
+ 
+(in thousands) | Total Expected Costs | | Costs for the Year | | | Expected Costs Remaining
+------------------------------+----------------------+-------+--------------------+---+-----+-------------------------
+Employee termination benefits | $ | 499 | | $ | 465 | | $ | 34 
+Lease termination costs | | 665 | | | - | | | 665
+Assets write-offs | | 222 | | | 222 | | | - 
+Other restructuring costs | | 303 | | | 46 | | | 257
+Total | $ | 1,689 | | $ | 733 | | $ | 956
+
+ 
+The restructuring costs related to our Performance Improvement Solutions segment and were included in the consolidated statement of operations within the "Restructuring charges" line caption. The accrued employee termination benefits of $0.5 million were reflected in the "Accrued compensation" line in the consolidated balance sheet. No payment had been made as of December 31, 2017.
+ 
+4. Goodwill and Intangible Assets
+ 
+Goodwill
+ 
+The Company reviews goodwill for impairment annually as of December 31 and whenever events or changes in circumstances indicate the carrying value of an asset may not be recoverable. The Company tests goodwill at the reporting unit level. A reporting unit is an operating segment, or one level below an operating segment, as defined by U.S. GAAP. After the acquisition of Hyperspring on November 14, 2014, the Company determined that it had two reporting units, which are the same as our two operating segments: (i) Performance Improvement Solutions; and (ii) Nuclear Industry Training and Consulting (which includes Hyperspring and Absolute).  As of December 31, 2017 and 2016, goodwill of $8.4 million and $5.6 million, respectively, related to the Nuclear Industry Training and Consulting segment. The increase in the carrying amount of goodwill during the year ended December 31, 2017 was due to the acquisition of Absolute. No impairment of goodwill was recorded in 2017 or 2016.
+ 
+ 41
+ 
+Intangible Assets Subject to Amortization
+ 
+As discussed in Note 2, Acquisition, we recognized finite-lived intangible assets of $2.6 million upon acquisition of Absolute on September 20, 2017, including customer relationships and trademarks/names with amortization periods of five years. Amortization is recognized on a straight-line basis over the estimated useful life of the intangible assets.
+ As discussed in Note 3, Restructuring Expenses, on December 27, 2017, the board of the Company approved an international restructuring plan to streamline and optimize the Company's global operations. As a result, the Company will be closing its offices in Nyköping, Sweden; Chennai, India; and Stockton-on-Tees, UK, thus the Company's management conducted an impairment test of the assets to be disposed of under the plan.
+ The intangible assets under the plan mainly included contractual and non-contractual customer relationships at our UK location. As the intangible assets have no value for sale or value in use, we recognized an impairment loss of $0.1 million representing the net book value of the intangible assets as of December 31, 2017. The write-off of the intangible assets was included in the consolidated statement of operations within the "Restructuring charges" line caption.
+ The following table shows the gross carrying amount and accumulated amortization of definite-lived intangible assets:
+ 
+
+(in thousands) | As of December 31, 2017
+---------------------------------------+------------------------
+ | Gross Carrying Amount | | Accumulated Amortization | | Net 
+Amortized intangible assets: | | | | | | | 
+Customer relationships | $ | 3,074 | | $ | (1,218) | $ | 1,856
+Trade names | | 713 | | | (33) | | 680 
+Developed technology | | 471 | | | (412) | | 59 
+Non-contractual customer relationships | | 433 | | | (426) | | 7 
+Others | | 167 | | | (165) | | 2 
+Total | $ | 4,858 | | $ | (2,254) | $ | 2,604
+(in thousands) | As of December 31, 2016
+ | Gross Carrying Amount | | Accumulated Amortization | | Net 
+Amortized intangible assets: | | | | | | | 
+Customer relationships | $ | 1,425 | | $ | (1,235) | $ | 190 
+Non-contractual customer relationships | | 911 | | | (674) | | 237 
+Developed technology | | 471 | | | (353) | | 118 
+Others | | 217 | | | (211) | | 6 
+Foreign currency translation | | (145) | | | 48 | | (97) 
+Total | $ | 2,879 | | $ | (2,425) | $ | 454 
+
+ 
+Amortization expense related to definite-lived intangible assets totaled $335,000 and $289,000 for the years ended December 31, 2017 and 2016, respectively. The following table shows the estimated amortization expense of the definite-lived intangible assets for the next five years:
+ 
+
+(in thousands) | | 
+--------------------------+---+------
+Years ended December 31,: | | 
+2018 | $ | 734 
+2019 | | 578 
+2020 | | 472 
+2021 | | 229 
+2022 | | 168 
+Thereafter | | 423 
+ | $ | 2,604
+
+ 
+ 42
+ 
+5.  Contract Receivables
+ 
+Contract receivables represent balances due from a broad base of both domestic and international customers. All contract receivables are considered to be collectible within twelve months. Recoverable costs and accrued profit not billed represent costs incurred and associated profit accrued on contracts that will become billable upon future milestones or completion of contracts. The components of contract receivables are as follows:
+
+(in thousands) | December 31,
+----------------------------------------------------+-------------
+ | 2017 | | 2016
+Billed receivables | $ | 8,154 | | $ | 13,325
+Recoverable costs and accrued profit not yet billed | | 5,980 | | | 5,555 
+Allowance for doubtful accounts | | (137) | | | (17) 
+Total contract receivables, net | $ | 13,997 | | $ | 18,863
+
+ 
+During January 2018, the Company invoiced $4.7 million of the unbilled amounts related to the balance at December 31, 2017.
+ On March 29, 2017, Westinghouse, a customer of our Performance Improvement Solutions segment, filed for Chapter 11 bankruptcy protection in the United States Bankruptcy Court for the Southern District of New York, Case No. 17-10751. During the second quarter of 2017, Westinghouse assumed one of our contracts related to Southern Nuclear Company. Therefore, we have not recorded a reserve for outstanding receivables related to this contract. On July 31, 2017, South Carolina Electric and Gas Company announced that it will cease construction of new nuclear plants at the V.C. Summer Nuclear Station, one of the facilities for which the Company has an executory contract with Westinghouse for the provision of simulator software and equipment. Although there has been no formal rejection of the contract as part of the Westinghouse bankruptcy process, GSE now considers it likely that Westinghouse will reject the parties' contract pertaining to the V.C. Summer Nuclear Station. Therefore, at June 30, 2017, GSE reserved 100% of accounts receivable, unbilled receivables, and billings in excess related to the V.C. Summer Nuclear Station, resulting in a net bad debt charge of $118,000.
+ At December 31, 2017, in addition to the foregoing amounts associated with the V.C. Summer Nuclear Station, the Company had approximately $31,000 in net billed and unbilled pre-petition receivables attributable to Westinghouse, and it was fully collected in January 2018. Therefore, none of the remaining outstanding amounts have been reserved at December 31, 2017.
+ The activity in the allowance for doubtful accounts is as follows:
+ 
+
+(in thousands) | As of and for the 
+------------------------+-------------------------
+ | years ended December 31,
+ | 2017 | | 2016 | 
+Beginning balance | $ | 17 | | $ | 103 
+Current year provision | | 118 | | | - 
+Current year write-offs | | - | | | (86)
+Currency adjustment | | 2 | | | - 
+Ending balance | $ | 137 | | $ | 17 
+
+ 
+ 43
+ 
+6.  Prepaid Expenses and Other Current Assets
+ 
+Prepaid expenses and other current assets consist of the following:
+ 
+
+(in thousands) | December 31,
+----------------------+-------------
+ | 2017 | | 2016
+Inventory | $ | 755 | | $ | - 
+Income tax receivable | | 418 | | | 446 
+Prepaid expenses | | 549 | | | 422 
+Other current assets | | 1,073 | | | 1,184
+Total | $ | 2,795 | | $ | 2,052
+
+ 
+Inventory is being purchased to support the construction of three major nuclear simulation projects related to a significant contract that was executed during the first quarter of 2016. Inventory is recorded at the lower of cost or net realizable value in accordance with ASC 330, Inventory. Cost is determined using specific identification. At December 31, 2016, inventory related to the simulation projects was classified as a long-term asset within other assets on the consolidated balance sheets. The earliest completion date of these projects is expected to occur in the second quarter of 2018.
+ Other current assets primarily includes value-added tax receivables and cash deposited in a Swedish tax account.
+ 7.  Equipment, Software and Leasehold Improvements, net
+ 
+Equipment, software and leasehold improvements, net consist of the following:
+ 
+
+(in thousands) | December 31,
+----------------------------------------------------+-------------
+ | 2017 | | 2016
+Computer equipment | $ | 2,101 | | $ | 2,988 
+Software | | 1,598 | | | 1,511 
+Leasehold improvements | | 454 | | | 527 
+Furniture and fixtures | | 629 | | | 1,733 
+ | | 4,782 | | | 6,759 
+Accumulated depreciation | | (3,719) | | | (5,527)
+Equipment, software and leasehold improvements, net | $ | 1,063 | | $ | 1,232 
+
+ 
+Depreciation expense was $342,000 and $383,000 for the years ended December 31, 2017 and 2016, respectively.
+ As discussed in Note 3, Restructuring Expenses, on December 27, 2017, the board of the Company approved an international restructuring plan to streamline and optimize the Company's global operations. As a result, the Company will be closing its offices in Nyköping, Sweden; Chennai, India; and Stockton-on-Tees, UK, accordingly, the Company's management conducted an impairment test of the assets to be disposed of under the plan.
+ The fixed assets under the respective offices primarily included computers, office equipment and furniture, software and leasehold improvements. As a result of this test, the Company concluded that these assets were no longer recoverable. Accordingly, we recorded a  $0.1 million write-off of the fixed assets which represented the net book value of the respective assets.
+ 
+ 44
+ 
+8.  Other Assets
+ 
+Other assets consist of the following:
+ 
+
+(in thousands) | December 31,
+---------------+-------------
+ | 2017 | | 2016
+Inventory | $ | - | | $ | 1,443
+Other | | 37 | | | 131 
+Total | $ | 37 | | $ | 1,574
+
+ 
+As of December 31, 2016, other assets are comprised primarily of inventory that was being purchased to support the construction of three simulation projects related to a significant contract that was executed during the first quarter of fiscal year 2016. The inventories are to be relieved and charged to the project upon delivery and customer acceptance, which is expected during the second quarter of 2018 and beyond. As of December 31, 2017, inventory is classified as prepaid expenses and other current assets.
+ 
+9.  Software Development Costs, net
+ 
+Software development costs, net consist of the following:
+ 
+
+(in thousands) | December 31,
+------------------+-------------
+ | 2017 | | 2016
+Beginning balance | $ | 982 | | $ | 1,145
+Additions | | 177 | | | 245 
+Amortization | | (469) | | | (408)
+Ending balance | $ | 690 | | $ | 982 
+
+ 
+Software development costs capitalized were $0.2 million for the years ended December 31, 2017 and 2016, respectively.  Amortization of capitalized software development costs was $0.5 million and $0.4 million for the years ended December 31, 2017 and 2016, respectively, and was included in cost of revenue in the consolidated statements of operations.
+ 
+ 45
+ 
+10.  Fair Value of Financial Instruments
+ 
+ASC 820, Fair Value Measurement (ASC 820) defines fair value as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principle or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. ASC 820 also establishes a fair value hierarchy which requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value.
+ 
+The levels of the fair value hierarchy established by ASC 820 are:
+ 
+Level 1: inputs are quoted prices, unadjusted, in active markets for identical assets or liabilities that the reporting entity has the ability to access at the measurement date.
+ 
+Level 2: inputs are other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly. A Level 2 input must be observable for substantially the full term of the asset or liability.
+ 
+Level 3: inputs are unobservable and reflect the reporting entity's own assumptions about the assumptions that market participants would use in pricing the asset or liability.
+ 
+The Company considers the recorded value of certain of its financial assets and liabilities, which consist primarily of cash equivalents, accounts receivable and accounts payable, to approximate the fair value of the respective assets and liabilities at December 31, 2017 and 2016 based upon the short-term nature of the assets and liabilities.
+ 
+The Company had $2.3 million and $15.3 million deposited in unrestricted money market accounts on December 31, 2017 and 2016, respectively.
+ 
+As of December 31, 2017, the Company had three standby letters of credit totaling $0.9 million which represent performance bonds on three contracts. The Company has deposited the full value of the standby letters of credit into money market escrow accounts, which have been restricted in that the Company may not access these funds until the related letters of credit have expired. The cash has been recorded on the Company's consolidated balance sheet as restricted cash in current assets based on the expiration date of the underlying letters of credit.
+  46
+ 
+
+The following table presents assets and liabilities measured at fair value at December 31, 2017:
+ 
+
+ | Quoted Prices in Active Markets for Identical Assets | | Significant Other Observable Inputs | | Significant Unobservable Inputs | 
+-----------------------------------+------------------------------------------------------+-------+-------------------------------------+---+---------------------------------+------
+(in thousands) | (Level 1) | | (Level 2) | | (Level 3) | Total
+Money market funds | $ | 3,240 | | $ | - | $ | - | $ | 3,240 
+Foreign exchange contracts | | - | | | 201 | | - | | 201 
+Total assets | $ | 3,240 | | $ | 201 | $ | - | $ | 3,441 
+Contingent consideration liability | | - | | | - | | (1,701) | | (1,701)
+Total liabilities | $ | - | | $ | - | $ | (1,701) | $ | (1,701)
+
+ 
+The following table presents assets and liabilities measured at fair value at December 31, 2016:
+ 
+
+ | Quoted Prices in Active Markets for Identical Assets | | Significant Other Observable Inputs | | Significant Unobservable Inputs | 
+-----------------------------------+------------------------------------------------------+--------+-------------------------------------+---+---------------------------------+------
+(in thousands) | (Level 1) | | (Level 2) | | (Level 3) | Total
+Money market funds | $ | 16,435 | | $ | - | $ | - | $ | 16,435 
+Foreign exchange contracts | | - | | | 141 | | - | | 141 
+Total assets | $ | 16,435 | | $ | 141 | $ | - | $ | 16,576 
+Foreign exchange contracts | $ | - | | $ | (20) | $ | - | $ | (20) 
+Contingent consideration liability | | - | | | - | | (2,105) | | (2,105)
+Total liabilities | $ | - | | $ | (20) | $ | (2,105) | $ | (2,125)
+
+ 
+For the years ended December 31, 2017 and 2016, the Company did not have any transfers between fair value Level 1 and Level 2. The Company did not hold any non-financial assets or non-financial liabilities subject to fair value measurements on a recurring basis at December 31, 2017 or 2016.
+ 
+During the years ended December 31, 2017 and 2016, the Company did not have any transfers into or out of the Level 3 contingent consideration liability.
+ The following table provides a roll-forward of the fair value of the contingent consideration categorized as Level 3 for the year ended December 31, 2017:
+ (in thousands)
+ 
+Balance, January 1, 2017 | $ | 2,105
+----------------------------------------+---+------
+Payments made on contingent liabilities | | (850 
+Change in fair value | | 446 
+Balance, December 31, 2017 | $ | 1,701
+
+ 
+The Company made the last payment of the contingent consideration in January 2018.
+  47
+ 
+
+11.  Long-Term Debt
+ 
+At December 31, 2017 and 2016, the Company had no long-term debt.
+ 
+Line of Credit
+ 
+BB&T Bank
+ 
+We previously had a Master Loan and Security Agreement and Revolving Credit Note with BB&T that provided a $7.5 million revolving line of credit for the purpose of issuing stand-by letters of credit and providing working capital. Working capital advances accrued interest at a rate equal to the Wall Street Journal Prime Rate of Interest, floating with a floor of 4.5%.
+ 
+In connection with the Citizen's Bank credit facility noted below, this agreement was modified in December 2016 to terminate the revolving line of credit, but maintain the outstanding letters of credit.
+ 
+At December 31, 2017, the Company had three letters of credit with BB&T totaling $0.9 million, which have expired and are pending release by the bank and customer.
+ At December 31, 2017 and 2016, the cash collateral account totaled $1.0 million and $1.1 million, respectively, and was classified as restricted cash on the consolidated balance sheets.
+ 
+Citizen's Bank
+ 
+In December 2016, the Company entered into a three-year, $5.0 million revolving line of credit facility (RLOC) with Citizen's Bank on December 29, 2016, to fund general working capital needs, including acquisitions. Working capital advances bear interest of one-month LIBOR plus 2.25% per annum and letter of credit fees are 1.25% per annum. The Company is not required to maintain a restricted cash collateral account at Citizen's Bank for outstanding letters of credit and working capital advances. The credit facility agreement is subject to standard financial covenants and reporting requirements.
+ The maximum availability under the RLOC is subject to a borrowing base equal to 80% of eligible accounts receivable, and is reduced for any issued and outstanding letters of credit and working capital advances.  At December 31, 2017, there were no outstanding borrowings on the RLOC and three letters of credit totaling $0.8 million. The amount available at December 31, 2017, after consideration of the borrowing base, letters of credit and working capital advances was approximately $4.0 million.
+ The credit facility agreement is subject to standard financial covenants and reporting requirements. At December 31, 2017, the Company was in compliance with its financial covenants.
+ 
+ 48
+ 
+12.  Income Taxes
+ 
+The consolidated income before income taxes, by domestic and foreign sources, is as follows:
+ 
+
+(in thousands) | Years ended December 31,
+---------------+-------------------------
+ | 2017 | | 2016
+Domestic | $ | 1,580 | | $ | 2,873 
+Foreign | | (1,176) | | | (1,101)
+Total | $ | 404 | | $ | 1,772 
+
+ 
+The (benefit) provision for income taxes is as follows:
+ 
+
+(in thousands) | Years ended December 31,
+---------------+-------------------------
+ | 2017 | | 2016
+Current: | | | | | 
+Federal | $ | 459 | | $ | - 
+State | | 47 | | | 6 
+Foreign | | 19 | | | 221 
+Subtotal | | 525 | | | 227 
+Deferred: | | | | | 
+Federal | | (4,694) | | | 127 
+State | | (942) | | | 19 
+Foreign | | 131 | | | (23)
+Subtotal | | (5,505) | | | 123 
+Total | $ | (4,980) | | $ | 350 
+
+ 
+The effective income tax rate for the years ended December 31, 2017 and 2016 differed from the statutory federal income tax rate as presented below:
+ 
+
+ | Effective Tax Rate Percentage (%)
+-----------------------------------------------+----------------------------------
+ | Years ended December 31, 
+ | 2017 | 2016 
+Statutory federal income tax rate | 34.0% | 34.0% 
+State income taxes, net of federal tax benefit | (184.9)% | 1.3% 
+Effect of foreign operations | 55.6% | 8.6% 
+Change in valuation allowance | (2,045.3)% | (46.9)%
+Change in tax rate | 619.1% | 0.0% 
+Uncertain tax positions | 338.6% | 11.8% 
+Worthless stock deduction | (257.6%) | 0.0% 
+Stock-based compensation | (51.7)% | 0.2% 
+Transfer pricing adjustments | 117.5% | (0.4)% 
+162(m) limit on compensation | 52.3% | 4.1% 
+Change in APB 23 liability | 46.2% | 0.0% 
+Meals and entertainment | 37.8% | 7.7% 
+Other permanent differences | 5.7% | (0.6)% 
+Effective tax rate | (1,232.7)% | 19.8% 
+
+ 
+The difference between the effective rate and statutory rate in 2017 primarily resulted from the release of valuation allowance and change in the statutory tax rate from 34% to 21%, effective for tax years beginning after December 31, 2017 due to the Tax Cuts and Jobs Act.
+  49
+ 
+
+Deferred income taxes arise from temporary differences between the tax bases of assets and liabilities and their reported amounts in the consolidated financial statements. A summary of the tax effect of the significant components of the deferred income tax assets and liabilities is as follows:
+ 
+
+(in thousands) | As of December 31,
+--------------------------------------------------+-------------------
+ | 2017 | | 2016
+Deferred tax assets: | | | | | 
+Net operating loss carryforwards | $ | 5,009 | | $ | 7,868 
+Capital loss carryforwards | | 383 | | | 549 
+Accruals | | 487 | | | 183 
+Reserves | | 514 | | | 514 
+Alternative minimum tax credit carryforwards | | 299 | | | 203 
+Stock-based compensation expense | | 1,002 | | | 1,224 
+Intangibles | | 433 | | | 391 
+Undistributed earnings of foreign subsidiary | | - | | | 37 
+Other | | 135 | | | 71 
+Total deferred tax asset | | 8,262 | | | 11,040 
+Valuation allowance | | (1,095) | | | (10,477)
+Total deferred tax asset less valuation allowance | | 7,167 | | | 563 
+Deferred tax liabilities: | | | | | 
+Undistributed earnings of foreign subsidiary | | (149) | | | - 
+Software development costs | | (188) | | | (382) 
+Fixed Assets | | (91) | | | (161) 
+Indefinite-lived intangibles | | (337) | | | (316) 
+Other | | (45) | | | (27) 
+Total deferred tax liability | | (810) | | | (886) 
+Net deferred tax asset | $ | 6,357 | | $ | (323) 
+
+ 
+Deferred tax liabilities are included in "Other liabilities" on the consolidated balance sheet.
+ 
+In assessing the realizability of deferred tax assets, management considers whether it is more likely than not that some or all of the deferred tax assets will not be realized. The Company's ability to realize its deferred tax assets depends primarily upon the preponderance of positive evidence that could be demonstrated by three year cumulative positive earnings, reversal of existing deferred temporary differences; and generation of sufficient future taxable income to allow for the utilization of deductible temporary differences.
+ As of each reporting date, the Company's management considers new evidence, both positive and negative, that could impact management's view with regard to future realization of deferral tax assets to estimate if sufficient future taxable income will be generated to use the existing deferred tax assets. This analysis is performed on a jurisdiction by jurisdiction basis. In the fourth quarter, the Company began providing forward forecasting beyond one year which was incorporated into the scheduling analysis to support realization of the deferred tax assets.
+ Based on the assessment the Company's management performed as of December 31, 2017, we conclude that critical pieces of positive evidence supporting the realization of deferred tax assets exist including the strength of three year cumulative positive earnings, reversal of existing deferred temporary differences and future taxable income for the U.S. entities. As a result, the Company has determined that a portion of the historic valuation allowance should be released as realization of the associated asset is more likely than not. Accordingly, we reversed $9.4 million of valuation allowance against the deferred tax assets related to the U.S. entities. Because a portion of the deferred tax assets are capital in nature, the Company must assess the realizability of these assets separately from the deferred tax assets that are ordinary in nature. The Company determined that it would not be able to generate sources of capital income and, therefore, would need to continue to assess a valuation allowance in the amount of $0.4 million.
+ The Company currently does not have sufficient object evidence to substantiate the recovery of the deferred tax assets for U.K. Swedish and Chinese deferred tax assets at December 31, 2017, accordingly, a full valuation allowance of $0.7 million has been established on these deferred tax assets, predominantly comprised of net operating losses.
+ At December 31, 2017, the Company's largest deferred tax asset of $5.8 million primarily relates to a U.S. net operating loss carryforward of $5.0 million which expires in various amounts between 2020 and 2035, and and excludes the impact of uncertain tax positions. The amount of U.S. loss carryforward which can be used by the Company each year is limited due to changes in the Company's ownership which occurred in 2003. However, the Company does not anticipate that any of the loss carryforward will expire unutilized.
+ On December 22, 2017, the United States enacted tax reform legislation known as the H.R.1, commonly referred to as the "Tax Cuts and Jobs Act" (the Act), resulting in significant modifications to existing law.
+ The Company follows the guidance in SEC Staff Accounting Bulletin 118 (SAB 118), which provides additional clarification regarding the application of ASC 740 in situations where the Company does not have the necessary information available, prepared, or analyzed in reasonable detail to complete the accounting for certain income tax effects of the Act for the reporting period in which the Act was enacted. SAB 118 provides for a measurement period beginning in the reporting period that includes the Act's enactment date and ending when the Company has obtained, prepared, and analyzed the information needed in order to complete the accounting requirements but in no circumstances should the measurement period extend beyond one year from the enactment date.
+ The Company has completed the accounting for the effects of the Act. Our financial statements for the year ended December 31, 2017, reflect certain effects of the Act predominantly related to the reduction in the corporate tax rate from 34% to 21%. As a result of the changes to the tax laws and tax rates under the Act, the Company incurred incremental income tax expense of $2.5 million during the year ended December 31, 2017 which consisted of the remeasurement of its net deferred tax asset from 34% to 21%. The Company has not recorded a charge related to the one-time deemed repatriation transition tax on unrepatriated foreign earnings given an estimated net negative earnings and profits position.  The Company is evaluating available accounting policy alternatives to either record the U.S. income tax effect of future global intangible low-tax income (GILTI) inclusions in the period in which they arise or establish deferred taxes with respect to the expected future tax liabilities associated with future GILTI inclusions, but has not yet made a policy election.
+ As of December 31, 2017 and 2016, the Company's consolidated cash and cash equivalents totaled $19.1 million and $21.7 million, respectively, including cash and cash equivalents held at non-U.S. entities totaling $5.4 million and $4.2 million, respectively. The non-U.S. entities include operating subsidiaries located in China, United Kingdom, Sweden and India.  Of these, the Company does not assert permanent reinvestment in the UK, Sweden or India.  Accordingly, the Company analyzed the cumulative earnings and profits and determined no US deferred liability exists given aggregated accumulated deficits. A deferred tax liability in the amount of $149,000 has been recorded for India with respect to the undistributed earnings related to India's application of a Dividend Distributions Tax. Undistributed earnings in China are considered indefinitely reinvested as of December 31, 2017, to fund the Company's ongoing international operations. If China were to repatriate the funds it would not incur any tax due to an accumulated earnings and profits deficit.
+ The Company has made an entity classification (CTB) election to treat GSE UK as a disregarded entity effective January 1, 2018. GSE UK is deemed to distribute all its assets and liabilities to GSE in liquidation. The liquidation will be deemed to occur immediately before the close of December 31, 2017, the day before the election is effective. The provision includes a $3.0 million worthless stock deduction representing the Company's tax basis at the time of liquidation. See discussion regarding treatment of this item as an uncertain tax position.
+  50
+ 
+
+Uncertain Tax Positions
+ 
+Foreign Uncertain Tax Positions
+ 
+During 2017 and 2016, the Company recorded tax liabilities for certain foreign tax contingencies.  During 2016, the Company also determined that South Korea should be included in this inventory. The Company recorded these uncertain tax positions in other current liabilities on the consolidated balance sheets.
+ 
+During 2017, the Company recorded a tax liability for an uncertain tax position related to the worthless stock deduction on liquidation of GSE UK. The uncertain tax position is recorded as a component of current and deferred liability.
+ The following table outlines the Company's foreign uncertain tax liabilities, including accrued interest and penalties for each jurisdiction:
+ 
+
+ | China | | Ukraine | | South Korea | U.S. | | 
+---------------------------+-------+-----+------------------------+---+-------------+------------------------+-----+----
+(in thousands) | Tax | | Interest and Penalties | | Tax | Interest and Penalties | | Tax | | Interest and Penalties | Tax | | Total
+Balance, January 1, 2016 | $ | 225 | | $ | 152 | $ | 21 | | $ | 15 | $ | - | | $ | - | $ | - | $ | 413 
+Increases | | - | | | 57 | | 68 | | | 13 | | 129 | | | 8 | | - | | 275 
+Decreases | | 23 | | | - | | - | | | - | | - | | | - | | - | | 23 
+Balance, December 31, 2016 | $ | 202 | | $ | 209 | $ | 89 | | $ | 28 | $ | 129 | | $ | 8 | $ | - | $ | 665 
+Increases | | 14 | | | 53 | | 11 | | | - | | 212 | | | 37 | | 833 | | 1,160
+Decreases | | - | | | - | | - | | | - | | - | | | - | | - | | - 
+Balance, December 31, 2017 | $ | 216 | | $ | 262 | $ | 100 | | $ | 28 | $ | 341 | | $ | 45 | $ | 833 | $ | 1,825
+
+  51
+ 
+
+13.  Capital Stock
+ The Company's Board of Directors has authorized 32,000,000 total shares of capital stock, of which 30,000,000 are designated as common stock and 2,000,000 are designated as preferred stock. The Board of Directors has the authority to establish one or more classes of preferred stock and to determine, within any class of preferred stock, the preferences, rights and other terms of such class.
+ As of December 31, 2017, the Company has reserved 4,301,854 shares of common stock for issuance; 1,046,833 are reserved for shares upon exercise of outstanding stock options and 1,634,663 are reserved for shares upon vesting of restricted stock units.  The Company has 1,620,358 shares available for future grants under the Company's 1995 Long-Term Incentive Plan.
+ 14.  Stock-Based Compensation
+ 
+Long-term incentive plan
+ During 1995, the Company established the 1995 Long-Term Incentive Stock Option Plan (the Plan), which permits the granting of stock options (including incentive stock options and nonqualified stock options) stock appreciation rights, restricted or unrestricted stock awards, phantom stock, performance awards or any combination of these to employees, directors or consultants. The Plan expires on April 21, 2026; the total number of shares that could be issued under the Plan is 7,500,000. As of December 31, 2017, 3,198,146 shares have been issued under the Plan, 1,046,833 stock options and  1,634,663 restricted stock units (RSUs) were outstanding under the Plan, while 1,620,358 shares remain for future grants under the Plan.
+ 
+The Company recognizes compensation expense on a pro rata straight-line basis over the requisite service period for stock-based compensation awards with both graded and cliff vesting terms. The Company recognizes the cumulative effect of a change in the number of awards expected to vest in compensation expense in the period of change. The Company has not capitalized any portion of its stock-based compensation.
+ 
+During the years ended December 31, 2017 and 2016, the Company recognized $2,472,000 and $1,550,000, respectively, of stock-based compensation expense under the fair value method.  During the years ended December 31, 2017 and 2016, there were approximately $74,000 and $151,000 of stock-based compensation expense related to cash-settled RSUs.
+ 
+Stock options
+ 
+Options to purchase shares of the Company's common stock under the Plan expire in either seven or ten years from the date of grant and become exercisable in three, five, or seven installments with a certain percentage of options vesting on the first anniversary of the grant date and additional options vesting on each of the subsequent anniversaries of the grant date, subject to acceleration under certain circumstances.
+ 
+ 52
+ 
+Information with respect to stock option activity as of and for the year ended December 31, 2017 is as follows:
+ 
+
+ | Number of Shares | Weighted Average Exercise Price | | Aggregate Intrinsic Value (in thousands) | | Weighted Average Remaining Contractual Life (Years)
+-----------------------------------------+------------------+---------------------------------+------+------------------------------------------+---+----------------------------------------------------
+Options outstanding at January 1, 2017 | 1,556,833 | $ | 3.15 | | | | 
+Options granted | - | | - | | | | 
+Options exercised | (320,000) | | 2.05 | | | | 
+Options forfeited | (190,000) | | 4.01 | | | | 
+Options outstanding at December 31, 2017 | 1,046,833 | | 3.33 | | $ | 928 | 1.28
+Options expected to vest | 24,000 | | 1.90 | | $ | 33 | 4.72
+Options exercisable at December 31, 2017 | 1,022,833 | $ | 3.36 | | $ | 895 | 1.20
+
+ 
+Information with respect to stock option activity as of and for the year ended December 31, 2016 is as follows:
+ 
+
+ | Number of Shares | Weighted Average Exercise Price | | Aggregate Intrinsic Value (in thousands) | | Weighted Average Remaining Contractual Life (Years)
+-----------------------------------------+------------------+---------------------------------+------+------------------------------------------+---+----------------------------------------------------
+Options outstanding at January 1, 2016 | 2,222,333 | $ | 3.01 | | | | 
+Options granted | 40,000 | | 2.25 | | | | 
+Options exercised | (492,200) | | 1.86 | | | | 
+Options forfeited | (213,300) | | 4.77 | | | | 
+Options outstanding at December 31, 2016 | 1,556,833 | | 3.15 | | $ | 1,573 | 2.05
+Options expected to vest | 72,000 | | 1.87 | | $ | 117 | 5.45
+Options exercisable at December 31, 2016 | 1,484,833 | $ | 3.21 | | $ | 1,456 | 1.89
+
+ 
+ 53
+ 
+
+A summary of the status of the Company's nonvested options as of and for the year ended December 31, 2017 is presented below.
+ 
+
+ | Number of Shares | Weighted Average Fair Value
+---------------------------------------+------------------+----------------------------
+Nonvested options at January 1, 2017 | 72,000 | $ | 0.97
+Options granted | - | | - 
+Options forfeited | - | | - 
+Options vested during the period | (48,000) | | 0.97
+Nonvested options at December 31, 2017 | 24,000 | $ | 0.97
+
+ 
+A summary of the status of the Company's nonvested options as of and for the year ended December 31, 2016 is presented below.
+ 
+
+ | Number of Shares | Weighted Average Fair Value
+---------------------------------------+------------------+----------------------------
+Nonvested options at January 1, 2016 | 218,522 | $ | 0.89
+Options granted | 40,000 | | 1.15
+Options forfeited | (32,300) | | 0.91
+Options vested during the period | (154,222) | | 0.92
+Nonvested options at December 31, 2016 | 72,000 | $ | 0.97
+
+  54
+ 
+
+The Company uses a Black-Scholes valuation model to estimate the fair value of the options at grant date based on the assumptions noted in the following table. Volatility represents an average of market estimates for implied volatility of the Company's common stock. The expected life is estimated based on an analysis of options already exercised and any foreseeable trends or changes in recipients' behavior.  The risk-free interest rate is an interpolation of the relevant U.S. Treasury security maturities as of each applicable grant date:
+ 
+
+ | Years ended December 31,
+----------------------------+-------------------------
+ | 2017 | 2016 
+ | [1] | 
+Risk-free interest rates | - | 1.53% 
+Dividend yield | | 0% 
+Expected life | - | 7 years
+Volatility | - | 49.05% 
+Weighted average volatility | | 49.05% 
+
+ 
+[1] The Company did not grant stock options during the year ended December 31, 2017.
+ The Company received cash for the exercise price associated with stock options exercised of $209,000 and $833,000 during the years ended December 31, 2017 and 2016, respectively. The total intrinsic value realized by participants on stock options exercised was $364,974 and $407,566 during the years ended December 31, 2017 and 2016, respectively.
+  55
+ 
+
+Restricted Stock Units
+ 
+During the years ended December 31, 2017 and 2016, the Company issued RSUs to employees which vest upon the achievement of specific market-based or time-based measures.  The fair value for RSU's is calculated based on the stock price on the grant date and expensed ratably over the requisite service period, which ranges between one and five years.  The following table summarizes the information about vested and unvested restricted stock units for the years ended December 31, 2017 and 2016.
+
+ | Number of Shares | Weighted Average Fair Value
+------------------------------------+------------------+----------------------------
+Nonvested RSUs at January 1, 2017 | 1,688,480 | $ | 1.45
+RSUs granted | 644,677 | | 3.24
+RSUs forfeited | (5,500) | | 3.40
+RSUs vested | (692,994) | | 1.89
+Nonvested RSUs at December 31, 2017 | 1,634,663 | $ | 1.96
+Nonvested RSUs at January 1, 2016 | 1,367,500 | $ | 0.76
+RSUs granted | 1,537,399 | | 1.52
+RSUs forfeited | (505,000) | | 0.76
+RSUs vested | (711,419) | | 0.76
+Nonvested RSUs at December 31, 2016 | 1,688,480 | $ | 1.45
+
+ 
+As of December 31, 2017, the Company had $1.6 million of unrecognized compensation expense related to the RSUs expected to be recognized on a pro-rata straight line basis over a weighted average remaining service period of approximately 3.9 years.
+  56
+ 
+15.  Commitments and Contingencies
+ 
+Leases
+ 
+The Company is obligated under certain noncancelable operating leases for office facilities and equipment.  Future minimum lease payments under noncancelable operating leases as of December 31, 2017 are as follows:
+
+(in thousands) | Gross Future 
+---------------+--------------
+ | Minimum Lease
+ | Payments 
+2018 | $ | 1,506
+2019 | | 793 
+2020 | | 702 
+2021 | | 716 
+2022 | | 709 
+Thereafter | | 541 
+Total | $ | 4,967
+
+ 
+Total rent expense under operating leases for the years ended December 31, 2017 and 2016, was approximately $0.8 million, respectively.
+ 
+Standby letters of credit, bank guarantees, surety bonds and performance bonds
+ 
+As discussed in Note 11, Long-Term Debt, as of December 31, 2017, the Company had three letters of credit with BB&T bank, totaling $0.9 million and had three letters of credit with Citizen's Bank totaling $0.8 million. The Company was contingently liable for these letters of credit.
+ 
+Contingencies
+ 
+Various actions and proceedings are presently pending to which the Company is a party. In the opinion of management, the aggregate liabilities, if any, arising from such actions are not expected to have a material adverse effect on the financial position, results of operations or cash flows of the Company.
+16.  Employee Benefits
+ 
+The Company has a qualified defined contribution plan that covers all U.S. employees under Section 401(k) of the Internal Revenue Code. Under this plan, the Company's stipulated basic contribution matches a portion of the participants' contributions based upon a defined schedule for GSE Performance Improvement Solutions employees. The Company's contributions to the plan were approximately $305,000 and $207,000 for the years ended December 31, 2017 and 2016, respectively.
+  57
+ 
+17.  Segment Information
+ 
+The Company has two reportable business segments.  The Performance Improvement Solutions segment provides simulation, training and engineering products and services delivered across the breadth of industries we serve. Solutions include simulation for both training and engineering applications. Example training applications include turnkey and custom training services, while engineering services include plant design verification and validation. The Company provides these services across all market segments. Contract terms are typically less than two years.
+ The Nuclear Industry Training and Consulting segment provides specialized workforce solutions primarily to the nuclear industry, working at clients' facilities. This business is managed through our Hyperspring and newly acquired Absolute subsidiaries.  The business model, management focus, margins and other factors clearly separate this business line from the rest of the GSE product and service portfolio.
+ On September 20, 2017, the Company acquired Absolute Consulting, Inc., now a wholly-owned subsidiary of GSE Performance Solutions, Inc. Absolute is a provider of technical consulting and staffing solutions to the global nuclear power industry and employs approximately 160 professionals with expertise in procedures writing, engineering, technical support, project management, training, project controls, and corrective actions. This acquisition brings a natural adjacency to GSE, fits well with our growth strategy, and benefits our customers from expanded capabilities and offerings. For reporting purposes, Absolute was aggregated with Hyperspring into our Nuclear Industry Training and Consulting segment due to similarities in services provided including training and staff augmentation to the nuclear energy sector. In addition, both entities report to the same management team and share support staff such as sales, recruiting and business development.  As such, 100% of the goodwill acquired was allocated to the Nuclear Industry Training and Consulting segment.
+ 
+The following table sets forth the revenue and operating results attributable to each reportable segment and includes a reconciliation of segment revenue to consolidated revenue and operating results to consolidated (loss) income before income taxes.
+ 
+
+(in thousands) | Years ended December 31,
+------------------------------------------------------+-------------------------
+ | 2017 | | 2016
+Revenue: | | | | | 
+Performance Improvement Solutions | $ | 39,899 | | $ | 35,474
+Nuclear Industry Training and Consulting | | 30,981 | | | 17,627
+ | $ | 70,880 | | $ | 53,101
+Operating income | | | | | 
+Performance Improvement Solutions | $ | (2,745) | | $ | (856) 
+Nuclear Industry Training and Consulting | | 3,420 | | | 2,224 
+Change in fair value of contingent consideration, net | | (446) | | | 207 
+Operating income | $ | 229 | | $ | 1,575 
+Interest income, net | | 80 | | | 85 
+Gain (loss) on derivative instruments, net | | 99 | | | (18) 
+Other (expense) income, net | | (4) | | | 130 
+Income before income taxes | $ | 404 | | $ | 1,772 
+
+  58
+ 
+
+Additional information relating to segments is as follows:
+ 
+
+(in thousands) | December 31,
+-----------------------------------------+-------------
+ | 2017 | | 2016
+Performance Improvement Solutions | $ | 34,107 | | $ | 42,383
+Nuclear Industry Training and Consulting | | 22,748 | | | 11,249
+Intercompany receivable elimination | | - | | | 24 
+Total assets | $ | 56,855 | | $ | 53,656
+
+ 
+For the years ended December 31, 2017 and 2016, 83% and 73%, respectively, of the Company's consolidated revenue was from customers in the nuclear power industry. The Company designs, develops and delivers business and technology solutions to the energy industry worldwide.  Revenue, operating income (loss) and total assets for the Company's United States, European, and Asian subsidiaries as of and for the years ended December 31, 2017 and 2016 are as follows:
+ 
+
+(in thousands) | Year ended December 31, 2017
+---------------------------------------+-----------------------------
+ | United States | | Europe | | Asia | Eliminations | | Consolidated
+Revenue | $ | 66,249 | | $ | 3,196 | $ | 1,435 | | $ | - | $ | 70,880
+Transfers between geographic locations | | 1,953 | | | - | | 668 | | | (2,621) | | - 
+Total revenue | $ | 68,202 | | $ | 3,196 | $ | 2,103 | | $ | (2,621) | $ | 70,880
+Operating income (loss) | $ | 1,930 | | $ | (1,585) | $ | (116) | | $ | - | $ | 229 
+Total assets, at December 31 | $ | 149,390 | | $ | 5,057 | $ | 4,313 | | $ | (101,905) | $ | 56,855
+(in thousands) | Year ended December 31, 2016
+ | United States | | Europe | | Asia | Eliminations | | Consolidated
+Revenue | $ | 46,149 | | $ | 4,143 | $ | 2,809 | | $ | - | $ | 53,101
+Transfers between geographic locations | | 2,639 | | | 22 | | 1,139 | | | (3,800) | | - 
+Total revenue | $ | 48,788 | | $ | 4,165 | $ | 3,948 | | $ | (3,800) | $ | 53,101
+Operating loss | $ | 2,921 | | $ | (896) | $ | (450) | | $ | - | $ | 1,575 
+Total assets, at December 31 | $ | 121,728 | | $ | 4,859 | $ | 4,064 | | $ | (76,995) | $ | 53,656
+
+ 
+Revenues by geographic location above are attributed to the contracting entity.  Therefore, revenues from a foreign customer that contracted directly with our U.S. entity are included in revenues from the United States.  In Europe, total revenues attributable to our U.K. and Sweden subsidiaries were $1.6 million, respectively. All revenues in Asia were attributable to our Chinese subsidiary.
+ 
+Alternatively, revenues from customers domiciled in foreign countries were approximately 16% and 33%, of the Company's consolidated 2017 and 2016 revenue, respectively.  Revenues from foreign countries where our customers reside were all individually less than 10% of the Company's consolidated revenues during 2017 and 2016.
+ 
+18.  Supplemental Disclosure of Cash Flow Information
+ 
+
+(in thousands) | Year ended December 31,
+---------------+------------------------
+ | 2017 | | 2016 | 
+Cash paid: | | | | | 
+Interest | $ | - | | $ | 13 
+Income taxes | $ | 155 | | $ | 370
+
+ 
+ 59
+ 
+ 

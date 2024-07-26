@@ -1,0 +1,473 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+Our Company 
+ 
+Overview 
+ 
+Second Sight was founded in 1998 with a mission to develop, manufacture, and market prosthetic devices that are intended to create an artificial form of useful vision for blind individuals. Our principal offices are located in Sylmar, California, approximately 25 miles northwest of downtown Los Angeles. We also have an office in Lausanne, Switzerland, that manages our commercial and clinical operations in Europe, the Middle East and Asia.
+ 
+Our current product, the Argus® II System, treats outer retinal degenerations, such as retinitis pigmentosa, often referred to as RP. RP is a hereditary disease, affecting an estimated 1.5 million people worldwide including about 100,000 people in the United States. The disease causes a progressive degeneration of the light-sensitive cells of the retina, leading to significant visual impairment and ultimately blindness. The Argus II System is the only retinal prosthesis approved in the United States by the Food and Drug Administration (FDA), and was the first approved retinal prosthesis in the world. By creating an artificial form of useful vision in patients who otherwise have no usable sight, the Argus II System can provide benefits which include:
+ 
+
+● | restoring independence through a renewed ability to navigate independently in unfamiliar environments, 
+--+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | improving patients’ orientation and mobility, such as locating doors and windows, avoiding obstacles, and following the lines of a crosswalk 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | allowing patients to feel more connected with people in their surroundings, such as seeing when someone is approaching or moving away, 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | providing patients with enjoyment from being “visual” again, such as locating the moon, tracking groups of players as they move around a field, and watching the moving streams of lights from fireworks, 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | enabling some patients to re-enter the workforce through multiple vocations that become possible because of Argus II, and 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | improving patients’ well-being and ability to perform activities of daily living. 
+--+---------------------------------------------------------------------------------------------------------------------------
+
+ 
+The Argus II System provides an artificial form of vision that differs from the vision of people with normal sight. It does not restore normal vision and there is no clear evidence that it can slow or reverse the progression of the disease. The majority of patients receive a significant benefit from the Argus II, however results can vary and some patients report receiving little or no benefit.
+ 
+Our major corporate, clinical and regulatory milestones include:
+ 
+
+● | In 1998, Second Sight was founded. 
+--+----------------------------------------------------------------------------
+
+
+● | In 2002, we commenced clinical trials in the US for our prototype product, the Argus I retinal prosthesis. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | In 2007, we commenced clinical trials in the US for the Argus II System, which later became our first commercial product. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | In 2011, we received marketing approval in Europe (CE Mark) for the Argus II System. 
+--+------------------------------------------------------------------------------------------------------------------------------
+
+
+● | In 2013, we received marketing approval in the United States (FDA) for the Argus II System. 
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | In 2014, we launched the Argus II in the US, completed our initial public offering (“IPO”), and began trading on Nasdaq under the symbol “EYES.” 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | In November 2017, the FDA granted Expedited Access Pathway Designation for the Orion™ Cortical Visual Prosthesis System (Orion). 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3
+-
+
+
+● | In the first quarter of 2018, the first-in-human Orion was successfully implanted, activated and tested at UCLA. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We began selling the Argus II System in Europe at the end of 2011, Saudi Arabia in 2012, the United States and Canada in 2014, Turkey in 2015, Iran, Taiwan, South Korea and Russia in 2017, and Singapore in 2018. With the exception of Taiwan, Russia and Singapore, we have full regulatory approval to sell in these regions. In Taiwan, Russia and Singapore we have limited regulatory approval but we are working to obtain full regulatory approval in these countries. We sell primarily through our direct field support teams, but utilize and support distributors in certain countries.
+ 
+Currently, after more than 18 years of research and development, more than $200 million of investment and over $34 million of grants awarded in support of our technology development, we employ over 110 people in the development (research, engineering and clinical), manufacture, and commercialization of the Argus II System and future products.
+ 
+Our Technology 
+ 
+The Argus II System employs electrical stimulation to bypass degenerated photoreceptor cells and to stimulate remaining viable retinal cells thereby inducing visual perception in blind individuals. The Argus II System works by converting video images captured by a miniature camera housed in a patient’s glasses into a series of small electrical pulses that are transmitted wirelessly to an array of electrodes that are implanted on the surface of the retina. These pulses are intended to stimulate the retina’s remaining cells, resulting in a corresponding perception of patterns of light in the brain. Following the implant surgery, patients learn to interpret these visual patterns thereby regaining some useful vision, allowing them to detect shapes of people and objects in their surroundings.
+ 
+We believe the Argus II System (including its implantable components) possesses several unique technological advancements compared to other neurostimulation devices including a hermetic package with the smallest size and largest number of individually programmable electrodes, and a patented electrode material that allows high charge densities and small electrode size. Several other engineering challenges, including device reliability, extended lifetime, and a safe and effective bio-interface, were overcome during the development of the product and these solutions have been protected both by patents and by trade secrets. As of December 31, 2017, we have over 400 issued patents and approximately 80 pending patent applications worldwide. Additionally, from a competitive standpoint, the Argus II System possesses attractive technical and other features that include:
+ 
+
+● | a unique patented design that allows for a demonstrated lifetime and benefit of over 10.7 years, 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | surgical implantation that can be performed in three to four hours using standard vitreoretinal techniques, 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | a relatively large field of view (20 degrees), 
+--+----------------------------------------------------------------------------------------
+
+
+● | implanted patients can undergo MRI procedures, and 
+--+--------------------------------------------------------------------------------------------
+
+
+● | individually programmable electrodes on the prosthesis which can permit further optimization of the device after implantation. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We have demonstrated the ability to design products with long-term reliability. The Argus I retinal prosthesis, a proof of concept device that was a predecessor to the Argus II, was implanted in six patients in the United States. Argus I patients were implanted an average of almost six years, with one patient having used the device for over 10 years. The Argus II System has been implanted in over 300 patients. The average implant duration for these patients is nearly three years with several users continuing to use the system 10 years following implantation.
+ 
+By further developing our visual cortical prosthesis, the Orion visual prosthesis system, we believe we can further expand our market to include nearly all profoundly blind individuals. The only notable exceptions for potential use of the Orion are those who are blind due to otherwise currently treatable diseases (ex. RP or cataracts) or due to direct damage of the visual cortex, which is rare. However, of the estimated 39 million blind people worldwide, there are approximately 5.8 million people who are legally blind due to causes that are not otherwise treatable (including RP) or AMD. If approved for marketing, the FDA and other regulatory agencies will determine the subset of these patients who are eligible for the Orion based on our clinical trial and the associated results.
+ 
+
+4
+-
+
+ 
+
+Our objective in designing and developing the Orion visual prosthesis system is to bypass the optic nerve and directly stimulate the part of the brain responsible for human vision. In January 2018, the first human patient was implanted with an Orion in a feasibility study at the Ronald Reagan UCLA Medical Center (UCLA). In February 2018, this first Orion implant was successfully activated and the patient was able to perceive phosphenes on 56 of 60 electrodes. More recently, the patient has perceived phosphenes when stimulating all 60 electrodes. In the next few months, we plan to expand this feasibility study by implanting four more patients, at UCLA and/or at Baylor College of Medicine (Baylor) in Houston. After preliminary functionality testing is completed, we plan to introduce eyewear with a video camera to the system to produce the first in human test of a fully functional wireless visual cortical stimulator system intended to provide a useful level of vision. This initial study in a small number of subjects, if successful, should also form the basis for an expansion to a pivotal clinical trial in 2019. 
+ 
+In November 2017, the FDA granted Expedited Access Pathway designation for the Orion. This designation is given to a few select medical devices in order to provide more effective treatment of life-threatening or irreversibly debilitating diseases or conditions. This program is intended to help patients have more timely access to these medical devices by expediting their development, assessment, and review. The FDA has also released a draft guidance document for a Breakthrough Devices Program, which, when finalized, will supersede the Expedited Access Pathway. The FDA has indicated that all devices which have Expedited Access Pathway designation will gain Breakthrough Device designation when the guidance document is finalized. With this designation, we believe the Orion will have the following advantages during the FDA review process:
+ 
+
+● | Greater interactive review both for the Investigational Device Exemption and Premarket Approval application; 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Greater reliance on post-market vs. pre-market data collection and greater acceptance of uncertainty in the benefit-risk profile at the time of approval; 
+● | Priority review (i.e., review of the submission is placed at the top of the review queue and receives additional review resources); and, 
+● | Senior FDA management involvement and assignment of a cross-disciplinary case manager. 
+
+ 
+It is our belief that inclusion in the Expedited Access Pathway designation and, in the future, the Breakthrough Devices Program may shorten the timeline required to bring the Orion to market as a commercial product.
+ 
+Our Markets 
+ 
+Retinitis Pigmentosa (RP) 
+ 
+RP is a group of inherited disorders that affect the retina. The retina is a layer of nerve cells at the back of the eye. RP is a disease that gradually robs relatively young people of their vision over time. Onset of RP is often noted in the teen years or early twenties, typically as night blindness. This is followed by a period of peripheral vision loss, until the patient is left with a tunnel of vision and then no remaining sight. Although there are various genetic causes (over 100) and thus variability in the disease progression, many people with advanced RP have lost all functional vision by their 40s or 50s. The Argus II System works by bypassing rods and cones which are largely defunct in these patients, and sends electrical signals directly to the retina’s remaining healthy cells.
+ 
+Although there are reported trials for other treatments underway, to our knowledge the Argus II System remains the only approved therapeutic option for end-stage RP in the US, and to our knowledge it is the only treatment option generally available to commercial patients anywhere in the world.
+ 
+
+5
+-
+
+ 
+
+Worldwide, an estimated 1.5 million people suffer from RP1, which includes about 100,000 in the US2. Pan-European data is not readily available, but we believe it is reasonable to estimate that the average prevalence throughout Europe is similar to the average prevalence within the US, and so the ratio of populations could be used to estimate the number of Europeans affected as 167,000 in the 28 EU countries3,4.  Approximately 25% of people with RP in the US have vision that is 20/200 or worse (legally blind)5. Since the bare light perception or worse vision criterion (in both eyes) for the US indication is worse than 20/200, we estimate the subset of patients that can be treated by the Argus II System is less than 25,000 in the US. Reliable market data estimating the actual number of patients with bare light perception or worse vision is unavailable. We believe the majority of patients with vision 20/200 or worse have vision that is better than bare light perception and thus, are not currently candidates for Argus II. In Europe, the indicated vision loss for Argus II patients is severe to profound which, while better than bare light perception, remains somewhat worse than 20/200. An estimated 42,000 patients in Europe with RP have vision worse than 20/200 and we estimate the subset of RP patients that can be treated in Europe to be somewhat smaller than this number. As in the US, reliable market data estimating the actual number of patients with severe to profound vision loss or worse is unavailable. We believe that the majority of patients with vision 20/200 or worse in Europe have vision that is too good to be considered a candidate for Argus II with current clinical indications and physician practice. Worldwide, we estimate that 375,000 people are legally blind due to RP, and that a portion of these would be candidates for the Argus II System.
+ 
+As we improve the quality of vision that the Argus II can produce, we expect to be able to treat a higher percentage of the legally blind population by treating better sighted patients that still suffer from no real usable vision. 
+ 
+Age Related Macular Degeneration (AMD) 
+ 
+AMD is a relatively common eye condition and the leading cause of vision loss among people aged 65 and older6. The macula is a small spot near the center of the retina and its damage results in loss of central vision. AMD can start as a blurred area near the center of vision and over time it can grow larger until loss of central vision occurs. Central vision is extremely important for everyday tasks such as reading, writing, and face recognition.
+ 
+There are three stages of AMD defined in part by the size of drusen (yellow deposits) under the retina. Early and intermediate stage AMD has few symptoms or vision loss. These earlier stages of the disease are usually left untreated or dealt with using diet supplementation. People with advanced AMD have vision loss from damage to the macula. There are two types of late stage AMD:
+ 
+
+● | Dry AMD: There is a breakdown of light sensitive cells in the macula that send visual information to the brain, and the supporting tissue beneath the macula. This damage causes vision loss. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Wet AMD: Blood vessels grow underneath the retina. These vessels might leak blood which may lead to swelling and damage of the macula. This damage may be severe and can progress quickly. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    
+1 Weleber, R.G. and Gregory-Evans, K. (2001) ‘Retinitis Pigmentosa and allied disorders.’ In Ryan, S.J. (ed.), Retina. Mosby, St. Louis, pp, 362-470.
+ 2 Foundation Fighting Blindness estimates that about 100,000 Americans are affected by RP or similar diseases. (http://www.ffb.ca/documents/File/rp_guide/Guide_to_RP_and_Other_Related_Diseases.pdf)
+ 3 Eurostat. Retrieved 1 January 2013.
+ 4 Haim M. Epidemiology of Retinitis Pigmentosa in Denmark. Acta Ophthalmol Scand Suppl 2002; 1-34.
+ 5 Grover et al., ‘Visual Acuity Impairment in Patients with Retinitis Pigmentosa at Age 45 Years or Older’, Ophthalmology. 1999 Sept; 106(9):1780-5.
+ 6 The Eye Diseases Prevalence Research Group, 2004a; CDC, 2009.
+ 
+
+6
+-
+
+ 
+
+Worldwide, between 20 and 25 million people are estimated to suffer from vision loss due to AMD7, and of these about two million have vision that is considered legally blind, or worse8.  In the US, just over two million people experience vision loss due to AMD according to a 2010 study by the National Eye Institute. Of the 1.3 million legally blind Americans9, we estimate that 42.5% (or 552,500) are due to AMD10.  Applying this percent of legally blind due to AMD (42.5%) to the total number of legally blind people in Europe (2.55 million)11, we estimate the population of legally blind individuals from AMD to be about 1.08 million individuals in Europe. We believe the Argus II System may be able to help a subset of these legally blind AMD patients who have severe to profound vision loss. To date, though clinical testing has produced subjective improvements, we have not yet demonstrated objective benefits and no assurance can be given that we will be able to do so. The challenge in demonstrating objective benefits in these patients is that they maintain residual peripheral vision. Thus, we must demonstrate that the quality of the vision we produce is better than their residual vision, which is much more challenging than demonstrating benefit for the RP patients we are currently treating, who have completely lost all vision.
+ 
+Other diseases resulting in blindness that may be treated by Orion 
+ 
+Many diseases outside of RP and AMD can also cause blindness. Many of the largest causes of visual impairment (i.e. refractive error and cataracts) are avoidable or curable, and their prolonged or untreated impact on vision is largely observed in developing nations and are not part of our target market. Some other causes of blindness, such as brain trauma to the visual cortex, may also not be suitable for treatment by a cortical stimulator. However, the remaining causes of severe vision loss which include glaucoma, diabetic retinopathy, eye trauma, retinopathy of prematurity and many others can result in severe visual impairment that could potentially be treatable by an Orion visual prosthesis system.
+ 
+According to the World Health Organization (WHO)12, 285 million people suffer from vision loss worldwide. Of these, 39 million people are considered legally blind. The WHO further estimates that 80% of legal blindness is avoidable, leaving 7.8 million legally blind individuals, including those blind due to AMD and RP, or 5.8 million excluding AMD and RP. In the US, 1.3 million people are legally blind13, of whom we estimate 44%, or 575,900, are legally blind due to causes other than preventable/treatable conditions, RP or AMD14. Applying the same logic, we estimate 1.13 million individuals are legally blind in Europe due to causes other than currently treatable conditions (including RP) or AMD. We believe that, if approved by the FDA, the Orion will initially treat a subset of these legally blind individuals, likely starting with the ones who are completely blind. If this is the case, we anticipate that if we are further able to collect additional clinical data demonstrating the efficacy of the Orion for patients with better vision, we will be able to expand the approved indications and addressable market of the Orion to include a larger subset of these 5.8 million individuals for whom no effective treatment currently exists.
+ 
+Our Strategy 
+ 
+Second Sight’s strategy can be summarized as follows:
+ 
+
+● | Establish exclusive regional Centers of Excellence (COE), expand reimbursement coverage to cover all levels of care for all eligible patients, and establish highly effective post-surgical vision rehabilitation environment where our artificial sighted patients can thrive, 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Leverage proven Argus technology to restore useful vision with the Orion cortical stimulator and expand addressable market to include a portion of the almost 6 million patients who are blind from eye trauma, optic nerve disease, and other untreatable causes. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+7 Choptar, A., Chakravarthy, U., and Verma, D. ‘Age Related Macular Degeneration’. BJM 2003;326:485.
+
+8 Global Data on Visual Impairments 2010, World Health Organization. 
+ 9 National Eye Institute (http://www.nei.nih.gov/eyedata/blind.asp).
+
+10 Congdon N, O’Colmain B, Klaver CC, et al. Causes and prevalence of visual impairment among adults in the United States.  Arch Ophthalmol.  Apr 2004;122(4):477-485. This percent amount was derived from the rates of different causes of blindness by different races and racial demographic data from 2010 US Census data. 
+ 11 Global Data on Visual Impairments 2010, World Health Organization.
+
+12 WHO Fact Sheet number 282, updated October 2013.
+13 National Eye Institute (http://www.nei.nih.gov/eyedata/blind.asp).
+
+14 Congdon N, O’Colmain B, Klaver CC, et al. Causes and prevalence of visual impairment among adults in the United States. Arch Ophthalmol. Apr 2004;122(4):477-485. This percent amount was derived from the rates of different causes of blindness by different races and racial demographic data from 2010 US Census data.
+
+7
+-
+
+
+● | Improve Argus II performance and significantly expand use in the RP population by treating better-vision patients. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Establish Centers of Excellence (COE) and expand reimbursement coverage to reach a larger percentage of eligible patients 
+ 
+We launched the Argus II System in Italy and Germany at the end of 2011; in Saudi Arabia, France, the Netherlands and England in 2013; in Switzerland, Spain, the US and Canada in 2014; and Austria and Turkey in 2015, Taiwan, South Korea and Russia in 2017 and Singapore in 2018. We are employing a refined Centers of Excellence sales strategy, deploying the Argus II at prominent, reputable eye centers which are equipped to handle all aspects of an Argus II program including patient recruitment, surgery, fitting and vision rehabilitation. We believe this strategy represents an efficient use of our capital after giving consideration to the following factors:
+ 
+
+● | Size of the RP patient population that is currently treatable by Argus II, 
+--+--------------------------------------------------------------------------------------------
+● | Complexity of the technology, surgery, post-surgery programming and rehabilitation, and 
+● | Cost of selecting, qualifying, training and building qualified Centers of Excellence. 
+
+ 
+When selecting new sites, we focus on high quality health providers considering the following factors:
+ 
+
+● | Geographic location, 
+--+------------------------------------------------------------------------------------------------
+● | Facility, surgeon skill and reputation, 
+● | Site commitment to establish Argus as their core priority, 
+● | Desire and capability of institution to perform a significant number of surgeries annually, 
+● | Ability of site to perform post-surgery programming of Argus technology, and 
+● | Capability of site and/or local resources to direct artificial vision rehabilitation. 
+
+ 
+As of December 31, 2017, we have 19 qualified centers in the United States and Canada that are actively implanting the Argus II.  Ultimately, we anticipate serving the North American RP market with approximately 35 implanting centers across the US and Canada, with much of that expansion occurring in 2018. In Europe and the Middle East and Asia Pacific, we currently have 21 centers that are actively implanting the Argus II (eight in Germany, three in France, one in Saudi Arabia, four in Turkey, two in Spain, and three in Italy).  We believe that we will be able to serve the European and Middle East markets for RP by having approximately 50 centers across Europe, the Middle East and Asia Pacific. 
+ 
+To date, we have employed direct sales and clinical specialists to service our markets in the US and Canada.  The majority of our markets in Europe are also serviced by a direct sales and clinical specialist team. As of January 31, 2018, the sales/clinical specialist team for North America numbered nine persons and the sales team for Europe and the Middle East numbered seven persons.  In some cases, we believe that we can more efficiently expand our reach by securing distributors in key markets. To date, we have appointed distributors in Turkey, Saudi Arabia, South Korea, Taiwan, Iran, Russia, Singapore and Argentina. We expect that our distributors will commit to providing support services that include marketing, market access, sales, surgical support, post-surgery programming, rehabilitation coordination and service.
+ 
+The Company is evaluating potential new markets including countries in Latin America or Asia Pacific regions. We will selectively enter markets based on multiple factors including: the presence of RP patients, skilled surgeons, a facility with the necessary support infrastructure, a reliable source of funding or reimbursement along with the assurance that needed clinical, rehabilitation and surgical support can be provided.
+ 
+
+8
+-
+
+Centers of Excellence 
+ 
+Our COE strategy in the US market is designed to help our exclusive regional partners to more effectively manage Argus II patients and achieve inspiring patient outcomes. The COE strategy consists of four major initiatives: (1) financial, (2) patient recruitment, education and screening, (3) post-surgery programming, and (4) patient support and artificial vision rehabilitation.
+
+● | First, there are the financial considerations. As reported, the CMS hospital outpatient final rule assigned a payment rate of $122,500 for the Argus II and the associated surgical procedure beginning January 1, 2018. The rate for calendar 2017 was $150,000 and the rate for calendar 2016 was $95,000. Physician fees continue to be reimbursed separately. Our current pricing strategy should generally ensure full reimbursement coverage of hospital surgical procedure costs including the Argus II system. We are also pleased that effective July 1, 2017, CPT codes for post-surgery programming became available. These developments should ensure a favorable economic analysis for any center evaluating an Argus II program. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Second, regarding patient recruitment, education and screening, we focus extensive outreach efforts to identify those blind individuals that qualify for Argus II. When identified they are entered into a leading CRM database, supported by interactive marketing automation programs, providing a funnel of patients for each of our strategic sites as patient candidates decide to move forward. We separately clear patient candidates with a team of experienced healthcare professionals, providing our COEs with a streamlined path of higher probability patient candidates. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Third, in terms of the post-surgery programming, our recent and future product improvements are aimed at simplifying the programming procedure for the site and for the patient. In fact, we’ve recently reduced the expected time to program our system from two days down to a half day. As with the surgery, repetition will make the programming more routine for the institution. And, as mentioned above, we have secured CPT codes to allow sites to submit for reimbursement when they program an Argus system.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Fourth, patient support and artificial vision rehabilitation have become our most indispensable tool to managing consistent, positive outcomes across all treated patients. Beginning on day-one of initial activation, the brain works to make sense of the entirely new sensory input from Argus. Each individual patient needs guidance on the activities and tasks he or she can engage in, especially early on, that can best guide the brain to create these important new connections. As we have come to understand the important training curriculum of artificial vision rehabilitation, we are deploying today full-time vision rehabilitation specialists who are experts in all the ways Argus has enabled patients to: regain independence with the world around them; enhance social interactions with the people they associate with; enjoy the near endless aesthetic experiences that derive from visual interactivity; and in a growing number of cases, a form of vision that enables our patients to re-enter the workforce in many special roles. Our objective is to deliver outstanding patient outcomes, while building the know-how and infrastructure of vision rehabilitation for a substantially larger patient population in the near future. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+In summary, the aim of the COE program is to establish implanting centers and physician clinics that are more intimately knowledgeable, self-sufficient, and confident, enabling them to be able to treat a higher volume of patients. We believe the COE program is ultimately the important development work that is preparing the Company to serve expanded patient populations in the near future.
+ 
+Global Reimbursement 
+ 
+Obtaining reimbursement from governmental and private insurance companies is critical to our commercial success. Due to the cost of the Argus II System, our sales would be limited without the availability of third party reimbursement. In the US, coding, coverage, and payment are necessary for the surgical procedure and Argus II system to be reimbursed by payers. Coding has been established for the device and the surgical procedure. Coverage and payment vary by payer. The majority of Argus II patients are eligible for Medicare, and coverage is primarily provided through traditional Medicare, sometimes referred to as Medicare Fee-for-Service (FFS) or Medicare Advantage. A small percentage of patients are covered by commercial insurers.
+
+● | Medicare FFS patients – Coverage is determined by Medicare Administrative Contractors (MACs) that administer various geographic regions of the US. Positive coverage decisions for the Argus II are effective in eight of 12 MAC jurisdictions (comprising 31 states, two territories and the District of Columbia). Effective January 1, 2018, the Centers for Medicare and Medicaid Services (CMS) established a 2018 payment rate of $122,500 for both the procedure and the Argus II Retinal Prosthesis System. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+9
+-
+
+
+● | Medicare Advantage patients – Medicare Advantage plans are required to cover the same benefits as those covered by the MAC in that jurisdiction. For example, if a MAC in a jurisdiction has favorable coverage for the Argus II, then all Medicare Advantage plans in that MAC jurisdiction are required to offer the same coverage for the Argus II. Individual hospitals and ASCs may negotiate contracts specific to that individual facility, which may include additional separate payment for the Argus II implant system. In addition, procedural payment is variable and can be based on a percentage of billed charges, payment groupings or other individually negotiated payment methodologies. Medicare Advantage plans also allow providers to confirm coverage and payment for the Argus II procedure in advance of implantation. In 2015, 2016 and 2017 combined, a large majority of all Medicare Advantage pre-authorization requests for Argus II procedures were granted. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Commercial insurer patients – Commercial insurance plans make coverage and payment rate decisions independent of Medicare, and contracts are individually negotiated with facility and physician providers. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+During the year ended December 31, 2017, 38 individuals in the US and Canada were implanted with the Argus II technology. Of these patients, 31 were in US with most patients having a Medicare FFS coverage and a few having a Medicare Advantage or Veteran’s Administration or another commercial insurance plans and the remaining seven in Canada were treated with private funding.
+ 
+Second Sight employs dedicated employees and consultants with insurance reimbursement expertise engaged to expand and enhance coverage decisions. Currently, eight of 12 Medicare jurisdictions provide coverage of the Argus II in 31 states, two territories and the District of Columbia when medically necessary, including:
+ 
+● CGS (J15 -- Ohio and Kentucky), 
+ ● Palmetto GBA (JM -- Virginia, (excluding Part B for Arlington and Fairfax counties), West Virginia, North Carolina and South Carolina), 
+ ● Palmetto GBA (JJ – Alabama, Georgia and Tennessee), 
+ ● NGS (J6 -- Minnesota, Illinois and Wisconsin), 
+ ● NGS (JK -- Connecticut, New York, Maine, Massachusetts, New Hampshire, Rhode Island and Vermont), 
+ ● FCSO (JN -- Florida, Puerto Rico and the U.S. Virgin Islands), 
+ ● Novitas (JH-- Arkansas, Colorado, Louisiana, Mississippi, New Mexico, Oklahoma, and Texas) and 
+ ● Novitas (JL -- Delaware, District of Columbia, Maryland, New Jersey and Pennsylvania).
+ 
+We are actively engaged with the remaining four Medicare jurisdictions covered by two contractors and are committed to supporting their requests for additional information and clinical evidence. We expect that additional positive coverage decisions will be issued over time but cannot predict timing or ultimate success with each MAC. 
+ 
+Within Europe, we have obtained reimbursement approval or funding in Germany, France, one region of Italy, a Commissioning through Evaluation (CtE) in program England. We are seeking additional reimbursement approvals in other countries in Europe and international markets.
+ 
+In France, the Company was selected to receive the first “Forfait Innovation” (Innovation Bundle) from the Ministry of Health, which is a special funding program for breakthrough procedures to be introduced into clinical practice. As part of this program, the Company is conducting a post-market study in France which has enrolled a total of 18 subjects who are being followed up for two years.  The French program also funds implantation of up to 18 additional patients who are not part of the post-market study. After review of the study’s results, we expect Argus II therapy to be covered and funded through the standard payment system in France, however, we can provide no assurance that the French government will continue to fund the Argus II after the first 36 implants. 
+ 
+
+10
+--
+
+ 
+
+In December 2016, NHS England announced it would cover 10 Argus implantations as part of a CtE program. The CtE program is especially designed for treatments that show significant promise for the future, while new clinical and patient experience data are collected within a formal evaluation program. This program is similar to the Forfait Innovation program in France. NHS England is known to be under significant financial pressure and also highly selective in adopting innovative technologies – which must demonstrate sufficient value for the cost expended.  
+ 
+To date, our marketing activities have focused on raising awareness of the Argus II System with potential patients, implanting physicians, and referring physicians. Our marketing activities include exhibiting, sponsoring symposia, and securing podium presence at professional and trade shows, securing journalist coverage in popular and trade media, attending patient meetings focused on educating patients about existing and future treatments, and sponsoring information sessions for the Argus II System. In the United States, our efforts will focus on media advertisements dedicated to RP patients and their families. These advertisements are placed in geographic areas where we have Centers of Excellence committed to Argus II.
+ 
+Improve Argus II performance and significantly expand use in the RP population by treating better-vision patients 
+ 
+The Argus II System is currently approved for RP patients with bare or no light perception in the US, and in Europe for severe to profound vision loss due to outer retinal degeneration, such as from retinitis pigmentosa, choroideremia, and other similar conditions. The number of people who are legally blind due to RP is estimated to be about 25,000 in the US, 42,000 in Europe, and about 375,000 total worldwide. As discussed above, a subset of these patients would be eligible for the Argus II System since the approved baseline vision for the Argus II System is worse than legally blind (20/200). Scarce epidemiological data on visual acuity below legal blindness make it difficult to determine a precise estimate of the potential patient population for this device, but resulting from our commercial efforts thus far we believe most legally blind patients have vision that is too good for Argus II’s current clinical indications.
+ 
+The Company believes an opportunity exists to expand the use of its technology to better vision individuals with RP who are currently not being treated. In order to achieve this market expansion, the Company plans to start collecting clinical data in 2018 and is undertaking multiple development efforts to improve the technology’s performance. Our clinical and R&D plans for this market segment can be summarized as follows:
+ 
+
+● | Clinical trials with better-vision individuals – The Company intends to start collecting clinical data at multiple sites in Germany during 2018 to determine if the Argus II provides sufficient clinical benefit to these better-sighted patients. If successful, the Company would proceed with the various required steps to obtain regulatory approval and reimbursement coverage for treatment of this expanded patient group. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Retinal stimulation protocols – We believe that we can achieve improved resolution by adjusting retinal stimulation techniques. An example is the use of current steering to cause perception of pixels between electrodes. By producing these ‘virtual’ pixels, we may be able to increase the effective resolution of the Argus II beyond the physical number of electrodes (which today total 60). We expect to continue the patient testing in 2018 with commercial implementation of these revised retinal stimulation protocols in early 2019. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | External hardware – We plan to submit our new external system to the FDA in mid-2018. The new externals will include redesigns of the head mounted telemetry system (glasses), camera and video processing unit (VPU). The new VPU will possess processing power many times greater than the current Argus II system, which will enable enhanced image processing and support for the commercial implementation of the new retina stimulation protocols discussed above. We anticipate that the new external system will be commercially available in late 2018. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Other longer-term R&D efforts – We are developing more advanced software to improve the quality and usefulness of the Argus II vision delivered to patients. If successful, we expect that these software packages will run on the new external system described above. The development of advanced software packages is in the early phases and no assurance can be made that our efforts will be successful nor can we predict commercialization dates. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+11
+--
+
+ 
+
+Leverage proven Argus technology to restore some vision with cortical stimulation and expand addressable market to include a portion of the almost 6 million patients who are blind from eye trauma, optic nerve disease, and other untreatable causes 
+ 
+We believe we can further expand our market to include nearly all profoundly blind individuals, other than those who are blind due to currently treatable diseases or due to direct brain damage of the visual cortex, by developing a visual cortical prosthesis. We refer to this product as the Orion visual prosthesis system. We estimate that there are approximately 5.8 million people worldwide who are legally blind due to causes other than currently treatable conditions (including RP) or AMD. If approved for marketing, the FDA and other regulatory agencies will determine the subset of these patients who are eligible for the Orion.
+ 
+Our objective in designing and developing the Orion visual prosthesis system is to bypass the optic nerve and directly stimulate the part of the brain responsible for vision. The Orion visual prosthesis system is based on technology that we utilize in our Argus II system, thereby reducing engineering investment costs and risks, and leveraging the reliability of the Argus II platform.
+ 
+In November 2017, we received full FDA approval to begin the first human clinical feasibility study of the Orion visual prosthesis system. In January 2018, surgeons at the UCLA implanted the first human with an Orion, and in February 2018, working with UCLA, we activated this first implanted Orion device and began clinical testing. To date, clinical results have been positive, with the first patient being able to perceive phosphenes, or spots of light, when electrodes are turned on. Over the next several months, we plan to implant four more patients at UCLA and Baylor College of Medicine, and to begin cortical stimulation with our external video camera, which we believe may provide these patients with some form of usable vision. If successful, this study should also form the basis for an expansion to a pivotal clinical trial beginning in 2019.
+ 
+Our Competition 
+ 
+The US life sciences industry is highly competitive and well-positioned for future growth. The treatment of blindness is a significant clinically unmet need and others continue to make progress. There are several approaches to treating blindness including:
+
+● | Retinal Prostheses (including the Argus II): aimed at giving more visual ability to a blind patient via implanting a device in the eye to stimulate remaining retina cells. Electrical neurostimulation technology has seen growing use in recent years for numerous applications– such as chronic pain, Parkinson’s disease, essential tremor, epilepsy, and others. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Transplants: transplanting retinal tissue to stimulate remaining retina cells. 
+--+-----------------------------------------------------------------------------------
+
+
+● | Stem Cells: generally involves implanting immature retinal support cells aimed at slowing retinal degeneration. A single patient with wet AMD was implanted in London in 2015 with an embryonic stem cell line in a study sponsored by Pfizer. This study has been suspended. Patients with dry AMD are also being recruited in Los Angeles for a similar study. No data is yet available as to safety or efficacy of these implantations. A Patient in Japan with AMD was implanted with induced pluripotent stem (ips) cells. These are mature cells reprogramed to be stem cells. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Genetics and Gene Therapy: involves identifying a specific gene that is causing retinal problems (there are over 120 for retinitis pigmentosa alone) resulting in visual impairments and blindness; and inserting healthy genes into an individual’s cells using a virus to treat the diseases. A company completed a phase 3 study in 21 patients with a median age of 11 for a gene that affects a very small percentage of retinitis pigmentosa patients, RPE65. That company applied for and received FDA approval in 2018. We believe that there is virtually no overlap with our current market since our patients generally are older (Argus II is indicated for an age minimum of 25 in the US). The other company also injects better sighted patients since its treatment is aimed at improving residual vision. In contrast, Argus II seeks to create artificial vision where vision is completely lost. Pricing for these injections is reported to be approximatly $850,000 for both eyes. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+12
+--
+
+
+● | Optogenetics Therapy: aimed at slowing down, reversing, and/or eliminating the process by which photoreceptors in the eye are compromised. This therapy also requires infecting the patient’s cells with a virus. However, instead of fixing a gene defect, this approach would cause cells within the eye to become light sensitive. Animal work has shown that these cells are not sensitive enough to respond to ambient light, so this approach currently also requires a light amplifier outside the body to increase light delivered to the retina. The regulatory body in the UK, MHRA, has recently cleared optogenetic clinical trials to begin. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Nutritional Therapy: involves diets or supplements that are thought to prevent or slow the progress of vision loss. 
+--+------------------------------------------------------------------------------------------------------------------------
+
+
+● | Implantable Telescope: VisionCare, Ophthalmic Technologies, Inc. offers an FDA approved implantable miniature telescope for AMD, a magnifying device that is implanted in the eye. The VisionCare telescope is approved for use in patients with severe to profound vision impairment (best corrected visual acuity of 20/160 to 20/800) due to dry AMD. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Wicab’s The BrainPort® V100 includes a video camera mounted on a pair of sunglasses, a hand-held controller, and tongue array. The tongue array contains 400 electrodes and is connected to the glasses via a flexible cable. White pixels from the camera are felt on the tongue as strong stimulation, black pixels as no stimulation, and gray levels as medium levels of stimulation. This device is indicated for the profoundly blind. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | There are currently no known treatments for AMD after the disease has caused severe to profound vision loss nor are there any established treatments that delay or reverse the progression of Dry AMD other than supplements. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Therapies exist for Wet AMD that delay the progression of visual impairment or slightly improve the vision, rather than completely curing or reversing its course. These therapies are approved in many regions throughout the world, including the US and EU. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Commercial efforts to develop retinal implants by others include:
+ 
+
+● | Retina Implant AG: A privately held German company that is developing the Alpha IMS/Alpha AMS, a wireless sub-retinal implant. Although this company obtained a CE Mark in 2013 and was expected to begin commercialization during 2015 in the EU, to our knowledge this product is still not generally available to commercial patients. Publications from the company reported frequent device failures of the Alpha IMS in patients. The company has reportedly improved the design and rebranded its system as the Alpha AMS. Two clinical trial patients are reported to have been implanted in the UK during 2015 and/or 2016. Other reports of implants are unconfirmed. To our knowledge, Retina Implant has not obtained FDA approval to begin a clinical trial in the US but has announced that it plans to advance commercialization efforts that include obtaining reimbursement and opening new implanting centers. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Pixium Vision S.A.: A publicly held French company that is developing the IRIS (Intelligent Retinal Implant System) which is surgically placed into the eye and attached to the surface of the retina. Similar to our Argus II technology, its system uses a camera and a wireless transmitter. Pixium received a CE Mark in 2016 for IRIS. In 2017, Pixium halted commercial implants of IRIS II due to shorter than expected implant life. In 2017, Pixium announced approval for two feasibility studies of PRIMA (sub-retinal implant) in Dry-AMD patients. One study is in Paris with five patients. A second study is being conducted in Pittsburgh, Pennsylvania with five patients. To date Pixium has announced the successful implantation and activation of three devices in Paris, but to our knowledge no performance data has yet been reported beyond the perception of light. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | NanoRetina Inc., a company based in Israel, and several other early stage companies are reported to have developed intellectual property or technology that may improve retinal prostheses in the future, but to our knowledge none of these efforts has resulted in a completed system that has been tested clinically in patients. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Academic entities are also working on vision restoring implants. These include Bionic Vision Australia (an early prototype device has been developed and to our knowledge implanted in three human subjects), Boston Retinal Implant project (preclinical phase), Monash Vision Group (preclinical phase), and the Illinois Institute of Technology (preclinical phase). Of these projects, we believe most have not yet demonstrated a working implant, only one has reportedly begun long-term clinical work in humans, and to our knowledge none has received FDA approval to begin clinical trials in the US. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+13
+--
+
+ 
+
+To our knowledge, no other retinal prosthesis has been successful in long-term human trials, with the Argus II System currently the sole implant generally available to commercial patients for treating RP in the US, Canada, EU, and elsewhere. We anticipate that our competitors are unlikely to obtain significant commercial traction in EU until they have developed in depth clinical data showing the reliability and functionality of their products.
+ 
+Warranty
+ 
+We generally provide a standard limited warranty for the Argus II System covering replacement over the following periods after implant:
+ 
+
+● | three years on implanted epiretinal prosthesis, 
+--+----------------------------------------------------------------------------
+● | two years on external components other than batteries and chargers, and 
+● | three months on batteries and chargers. 
+
+ 
+Based on our experience to date, the Argus II System has proven to be a reliable device generally performing as intended. We have accrued warranty expense of $1.5 million as of December 31, 2017, which we believe to be adequate.
+ 
+Our Manufacturing and Quality Assurance 
+ 
+We have a single manufacturing facility, located at our principal office in Sylmar, California. The manufacturing areas at this location are housed in a single building, and include approximately 10,000 square feet of controlled environment rooms (CERs) suitable for implant manufacturing. We currently utilize less than half of this space for Argus II implant production. At the same site we maintain spaces for assembling the external (non-implantable) components of our system and for the labeling, receiving and shipping, and stockroom functions. Finished goods are held at this location and at our contracted logistics partner in Europe.
+ 
+We rely on many suppliers to provide materials and services necessary to produce and test our products. Many of these materials or services are currently provided by sole source suppliers. In a number of instances we maintain sole source suppliers because our current purchasing volumes do not warrant developing more than one supplier. We expect to secure additional providers as our production volumes increase. If we experience a loss of a sole supplier before confirming an alternative, we risk possible disruptions in our operations. We attempt to mitigate the sole source risk, by among other things, increasing parts inventory as a partial hedge against interruptions in parts supply and by actively seeking to develop alternative suppler sources before experiencing any such disruptions.
+ 
+Our manufacturing department currently employs 20 persons and the quality assurance department has an additional eight members. We operate a day shift and smaller swing shift, and at this staffing level we can manufacture approximately 10 devices per month. Due to the reduction in sales of the Argus II during 2016, we reduced manufacturing output beginning in the second quarter of 2016. We believe that the space available at the current facility when fully utilized and operating at two full shifts will prove sufficient to build and assemble a combined total of approximately 100 Argus II or Orion devices per month.
+ 
+Employees 
+ 
+As of December 31, 2017, we had 112 employees, including approximately 28 in operations; 24 in selling, marketing and distribution; 42 in clinical, regulatory and research and development; and 18 in administration. Of these persons, we employed 95 in the United States and 17 in Europe. We believe that the continued success of our business will depend, in part, on our ability to attract and retain qualified personnel, and we are committed to developing our people and providing them with opportunities to contribute to our growth and success. None of these employees is covered by a collective bargaining agreement, and we believe our relationship with our employees is good to excellent.
+
+14
+--
+
+Properties 
+ 
+Our principal office and facilities are located at 12744 San Fernando Road, Suite 400, Sylmar, California 91342, and consists of approximately 45,351 rentable square feet at a current base rent of about $36,600 per month. Our lease expires in February 2022 and grants us an option to extend the lease term for an additional 60 months. We originally rented these premises from Mann Biomedical Park LLC, an entity affiliated with our former Chairman of the Board, Alfred E. Mann. We believe that the terms of this lease are at least as favorable as those that may have been obtained from a non-affiliated third party. We believe that these premises are adequate for our foreseeable needs. In November 2014, the industrial center in which these premises are located was sold to an independent third party.
+ 
+Our European office is located on the Innovation Park at Ecole Polytechnique Federal de Lausanne (EPFL), Rue Jean Daniel Colladon, CH 1015 Lausanne, Switzerland. These premises consist of 180 square meters at a base rent of about 8,200 CHF per month, or currently about $8,700 per month. We rent these premises on a month-to-month basis subject to a six month notice required for termination, from the Foundation for the Innovation Park at EPFL.
+ 
+Legal Proceedings 
+ 
+We are not a party to any pending legal proceedings other than those involving Pixium Vision described in “Risk Factors—Risks Related to Intellectual Property and Other Legal Matters.”
+Available Information
+ 
+Our website address is www.secondsight.com. We make available free of charge through a link provided at such website our Forms 10-K, 10-Q and 8-K as well as any amendments thereto. Such reports are available as soon as reasonably practicable after they are filed with the Securities and Exchange Commission.

@@ -1,0 +1,257 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1 | BUSINESS
+-------+---------
+
+Overview 
+ 
+XBiotech Inc. (“XBiotech” or the “Company) is a pre-market biopharmaceutical company engaged in discovering and developing True Human™ monoclonal antibodies for treating a variety of diseases. True Human™ monoclonal antibodies are those which occur naturally in human beings—as opposed to being derived from animal immunization or otherwise engineered. We believe that naturally occurring monoclonal antibodies have the potential to be safer and more effective than their non-naturally occurring counterparts. XBiotech is focused on developing its True Human™ pipeline and manufacturing system.
+ 
+The majority of our efforts to date have been concentrated on developing our lead product candidate, MABp1 (also known as Xilonix™, CA-18C3, CV-18C3, RA-18C3, and T2-18C3), a therapeutic antibody which specifically neutralizes interleukin-1 alpha (IL-1 a). IL-1a is a pro-inflammatory protein produced by leukocytes and other cells, where it plays a key role in inflammation. When unchecked, inflammation can contribute to the development and progression of a variety of different diseases, such as cancer, vascular disease, inflammatory skin disease, and diabetes. Our clinical studies have shown that blocking IL-1a with our lead product candidate may have a beneficial effect on several diseases.
+ 
+In June of 2017, the Company announced discontinuation of its global phase III study for treatment of advanced colorectal cancer (CRC) patients under U.S. FDA regulatory guidance after an Independent Data Monitoring Committee (IDMC) performed the second prospectively planned, unblinded analysis and recommended the early termination of the study since the findings were not sufficient to meet efficacy or the threshold for continuation, which involved a prospectively defined acceptance boundary for the interim analysis. XBiotech completed a Phase III study in Europe under European Medicine Agency (EMA) regulatory guidance for the treatment of symptomatic CRC in which the study’s primary endpoint was met. XBiotech submitted a Marketing Authorization Application (MAA) to the EMA in March 2016. In May 2017, the Company announced that it received a negative opinion from the EMA’s Committee for Medicinal Products for Human Use (“CHMP”) for the MAA in Europe. XBiotech subsequently pursued the EMA’s re-examination procedure in which new Rapporteurs were assigned to reevaluate the initial opinion after receiving the Company’s grounds for re-examination. In September 2017, the CHMP issued its opinion on the re-examination of the Company’s MAA and maintained its initial negative opinion issued in May 2017. No further EMA procedures are available to us for the present application. Although all statutory procedures available to the Company as provided by the EMA are exhausted in the application process, the Company continues to pursue clinical development of its oncology program.
+ 
+An investigator sponsored study was launched in September 2017 at Cedars Sinai Medical Center located in Los Angeles, California for MABp1 to be used in combination with OnivydeⓇ (Irinotecan liposome injection) and 5-fluorouracil/folinic acid for treatment of advanced pancreatic adenocarcinoma. Andrew Hendifar, M.D., Principal Investigator of the study, Medical Oncology lead for the Gastrointestinal Disease Research Group at Cedars-Sinai and Co-Director of Pancreas Oncology, will be leading the study which is planned to enroll a total of 16 patients at the Cedars-Sinai Medical Center. The Phase I study will determine a maximum tolerated dose as well as assess efficacy. Other studies with MABp1 in oncology are also being considered and these will be announced if and when further progress is made in these directions. 
+ 
+We have also investigated our lead product candidate in clinical trials for other inflammatory conditions, including vascular disease (which led to fast track designation from the FDA to develop MABp1 as a therapy to reduce the need for re-intervention after treatment of peripheral vascular disease with angioplasty or other endovascular methods of treatment), type II diabetes, acne, psoriasis, pyoderma gangrenosum (PG) and hidradenitis suppurativa (HS). Data from each of these trials have been published in journals, with the exception of PG. A listing of these publications is included in the Summary of Clinical Findings to Date section of this document.
+ 
+The most recent publication comes from a completed phase II, double-blinded, placebo-controlled investigator-sponsored study evaluating MABp1 for the treatment of hidradenitis suppurativa (HS), an inflammatory skin disease of such severity that it is often treated through surgical removal of lesions. In October 2017, data from this study was published in the Journal of Investigative Dermatology, which highlights results of twenty patients enrolled in the study with moderate to severe hidradenitis that had progressed on standard therapies. Patients received MABp1 for 12 weeks and were then followed an additional 12 weeks to observe durability of treatment. Efficacy measures include assessment of Hidradenitis Suppurativa Clinical Response (HiSCR) scores, a validated method for evaluating efficacy in HS patients, as well as quality of life assessment (as measured by the Dermatology Life Quality Index, (DLQI). Study results demonstrated a response rate in patients treated with MABp1 versus placebo of 60% vs 10%, respectively (p=0.035).
+ 
+
+5
+-
+
+ 
+The Company has completed its Phase I/II study evaluating dosing, safety and efficacy of its novel antibody, 514G3. 514G3 was developed from a healthy human donor with natural antibodies effective at neutralizing Methicillin-resistant Staphylococcus aureus (MRSA) and non-MRSA forms of Staphylococcus aureus (S. aureus). 514G3 works to eliminate the principle immune evasion mechanism of the bacteria, allowing white blood cells to detect and destroy the bacteria. 514G3 has potential to treat all strains of MRSA and can be used without consideration for strain-specific resistance to various antibiotics. As a True Human monoclonal antibody, 514G3 is expected to be well tolerated without the side effects or risks of antibiotics, including the lack of risk of antibiotic resistance. This proprietary antibody received Fast Track Designation by the FDA for the treatment of all forms of S. aureus infections, including Methicillin-resistant S. aureus (MRSA). Top line results from the Phase I/II study were announced in April 2017 and reported a reduction in adverse events and shorter hospitalization associated with the 514G3 therapy, even with 514G3-treated subjects tending to be sicker than those receiving placebo. Research involving 514G3 was published in January 2018 in the journal PLOS ONE in a manuscript titled, “A Natural Human Monoclonal Antibody Targeting Staphylococcus Protein A Protects Against Staphylococcus aureus (S. aureus) Bacteremia.”
+ 
+The Company is also developing other infectious disease therapies in its pipeline. XBiotech is using its True Human™ antibody technology to develop a first-in-class oral monoclonal antibody against clostridium difficile (C. diff). C. diff is a bacterium that can cause severe infections in the gastrointestinal tract. The infection is greatest for individuals who are being treated with antibiotics, those that are hospitalized or the elderly, particularly those in care facilities. Additionally, about 1 in 5 patients that become infected with C. diff experience a relapse and need to be re-treated. Recent outbreaks and increased virulence of C. diff suggest the urgent need to identify novel approaches to treat the disease. The Company has now shortlisted fourteen anti-C. diff antibody candidates against three different bacterial surface proteins, which are now being tested in vitro and in-vivo efficacy studies in C. diff infection models. The Company has shortlisted eight therapeutic antibody candidates against herpes zoster that are being tested in vitro for efficacy. In parallel, the Company is also working on generating cell lines for large scale manufacturing of these therapeutics, and working on formulating the same. The isolation of candidate True HumanTM therapeutic antibodies against influenza are ongoing, and the Company already has shortlisted a set of antibodies to be tested in vitro.
+ 
+In November 2017, data was presented at the American Heart Association’s Scientific Sessions which provided the first evidence that IL-1a is associated with Neutrophil Extracellular Traps (NETs) and plays a key role in endothelial activation and thrombogenesis. The data stems from a Material Transfer Agreement (MTA) signed in 2016 with Brigham and Women’s Hospital and Massachusetts General Hospital in which Dr. Peter Libby, a renowned Cardiovascular medicine specialist at Brigham and Women’s Hospital (BWH) and the Mallinckrodt Professor of Medicine at Harvard Medical School, was named principal investigator of the research. The study probed the influence of NETs on the endothelial cell (EC) functions related to erosion-associated thrombosis. The data shows that exposure of human saphenous veins ECs (HSVECs) to NETs cause an increase in expression of cell surface adhesions such as VCAM-1 and ICAM-1, which may participate in atherogenesis. In addition, pre-treatment of NETs with MABp1or IL-1R antagonist, but not with an anti-IL-1β-neutralizing antibody, blocked the initiation of VCAM-1, ICAM-1, and TF expression, each of which have been linked to coronary thrombosis. In conclusion, it was found that NETs act to increase thrombogenicity in vitro through a response mediated by IL-1⍺. These data suggest a potentially important role for MABp1 therapy in heart disease. It also expands treatment opportunities for other inflammatory diseases in which NETs play a deleterious role, such as cancer as well as pulmonary, autoimmune and gastrointestinal diseases. The Company is currently conducting internal research to identify the presence of IL-1alpha in proteins extracted from NET preparations by mass sepectrometry.
+ 
+Our True Human™ antibody therapeutics are developed in-house using our proprietary discovery platform. Identifying True Human™ antibodies useful for therapeutics may involve screening thousands of blood donors. To distinguish the clinically relevant antibodies from irrelevant background antibody molecules in donor bloods, we use our Super High Stringency Antibody Mining (SHSAM™) technology. After we identify donors, we undertake the complex process of identifying the unique genes for producing the native antibody. Once the nucleic acid sequence is isolated, we are able to introduce these sequences into engineered production cells to manufacture large quantities of product candidate for use in humans. All patents and other intellectual property relating to both the composition of matter and methods of use of our True Human™ antibodies were developed internally by us. We manufacture these antibodies using a proprietary expression system licensed from Lonza Sales AG. The manufacturing process we have developed incorporates both proprietary and non-proprietary technology.
+ 
+A key aspect of our manufacturing system involves the use of simple disposable bioreactor technology. Our manufacturing operations are currently located within our 86,000 ft2 operations in Austin, Texas. Part of this includes a nearly 40,000 ft2 commercial manufacturing facility that the Company opened in August 2016. This new facility is located on XBiotech’s own 48-acre location just 15 minutes from the Texas capital in Austin. The building will provide a significant increase in the Company’s manufacturing and quality operations in anticipation of commercialization of the Company’s product pipeline. The new facility will increase about ten-fold the Company’s current production capacity. Completion of this building is the first phase in the Company’s plan to develop the 48-acre property to house additional production facilities, laboratories and administrative operations, creating a headquarter campus as the center of its global operations.
+ 
+
+6
+-
+
+A Background on Therapeutic Antibodies 
+ 
+A century ago scientists and physicians envisioned being able to custom design therapeutic agents that were highly specific for a single biological target. By selectively attacking disease while sparing healthy tissue, these “magic bullets” were thought to be ideal therapeutic agents. It was not until the early 1970’s, however, that this vision was realized when Kohler and Milstein developed a ground-breaking method for making target-specific monoclonal antibodies—a Nobel prize-winning endeavor. Using this new approach, numerous monoclonal antibody-based research, diagnostic, and therapeutic products have been developed.
+ 
+Kohler and Milstein’s discovery was based on their knowledge that the immune system of higher animals produces antibodies as a method of protecting them from various, potentially damaging, agents, such as viruses, bacteria, and diseased cells. White blood cells, known as B cells, produce billions of different types of antibodies, each with a unique potential to selectively attach to and neutralize different disease targets. The vast array of possible treatments based on antibodies led to the development of what is now a major industry around the use of therapeutic antibodies.
+ 
+True Human™ Antibodies 
+ 
+White blood cells in the human body secrete billions of different antibodies that circulate through the blood to react and protect us from toxins, infectious agents or even other unwanted substances produced by our body. True Human™ antibodies, as the name implies, are simply those that are derived from a natural antibody identified from the blood of an individual. To develop a True Human™ antibody therapy, donors are screened to find an individual that has a specific antibody that matches the desired characteristics needed to obtain the intended medical benefit. White blood cells from that individual are obtained, the unique gene that produced the antibody is cloned, and the genetic information is used to produce an exact replica of the antibody sequence. A True Human™ antibody is, therefore, not to be confused with other marketed antibodies, such as so-called fully human antibodies—where antibody reactivity is developed through gene sequence engineering in the laboratory.
+
+7
+-
+
+Fundamental Science of True Human™ Antibodies 
+ 
+To appreciate the background safety and tolerability of True Human™ antibodies, it is important to consider the fundamental biology of natural antibody production.
+ 
+Billions of different white blood cells secrete billions of unique antibodies every day into circulation. The vast number of different antibodies (and cells that produce them), are essential to enable adequate molecular diversity to ward off all potential infectious or toxic threats. In other words, since antibodies act to bind and thereby neutralize unwanted agents, any given circulating antibody must be able to react with a potentially limitless number of existing or evolving disease entities.
+ 
+The staggering number of different antibodies needed to achieve this level of preparedness, however, is a daunting concept from a genetics point of view. If an individual antibody gene was needed to encode each of a billion different antibodies, there would be 20,000 times as many genes needed just for antibodies as there would be needed to encode the rest of the entire human genome. Individual cells would need to be gigantic, and monumental resources would be required to make, copy and maintain all of the DNA. Clearly, the system of antibodies could not have evolved to protect us, had not an elegant solution emerged to deal with this genetic conundrum.
+ 
+Thus, a hallmark of the immune physiology of all vertebrates (all have antibodies) is the ability to recombine and selectively mutate a relatively small number of gene segments to create a phenomenal and effectively unlimited number of antibody genes. By rearranging, recombining and mutating the genetic code, specialized white blood cells, or B lymphocytes, are able to create an unlimited array of antibody genes. The consequence of this genetic engineering, however, is that each antibody gene is unique to the individual B lymphocyte that created it—and no copy of the gene exists in the human germline. The only place to find a unique antibody gene is in the individual cells that created it.
+ 
+The extraordinary process of gene rearrangement and mutation results in a multitude of unique B lymphocytes and consequently an incredibly diverse repertoire of antibodies in any given individual.
+ 
+Elucidating the mechanisms behind the production of unique antibody genes must be considered one of the major achievements of medical research in the 20th century. Yet unfolding this mystery created another problem to solve: If antibodies were not produced from genes encoded in the human genome and the products of these genes were new to the body, why were these antibody molecules not recognized by the immune system as foreign substances—like any other foreign substance that they were intended to eradicate? How could the body distinguish the apparently “foreign” antibody molecules from the bona fide infectious intruders?
+ 
+Unraveling the genetics of antibody production led to another major advance in medicine: the discovery of how an endless array of antibody proteins could be made in a way that individual molecules were always tolerated by the body.
+ 
+In the early 1990s, research began to demonstrate that the production of antibodies was not an unregulated process. Rather, it was learned that the antibodies produced by each and every B lymphocyte were subject to intense scrutiny. Studies showed that B lymphocytes which produced acceptable antibodies were stimulated to grow while those that produced “autoreactive” antibodies were not. B lymphocytes that produced “good” antibodies were stimulated to proliferate, and enabled to produce copious amounts of antibody in the event it was needed to ward off a harmful agent. B lymphocytes that rearranged genes to produce antibodies that were ineffective or were autoreactive were given signals that instructed them to engage in a process of programmed cell death. Thus B lymphocytes producing harmful or useless antibodies are simply killed off. This mechanism for creating antibody diversity on the one hand, while protecting the individual from a mass of unwanted or intolerable antibody molecules on the other, was as elegant as it was fundamental to the success of vertebrate immune physiology.
+ 
+This process of “selection” has been elucidated in great detail. There can be no more important feature of immune physiology than the process of selection. Selection is a fundamental step to enable the body to produce an extremely diverse set of antibody molecules without, in the process, producing an array of novel molecules that cause harm.
+ 
+
+8
+-
+
+Industry Context 
+ 
+Until now each and every therapeutic antibody on the market has been derived from animals and/or through gene sequence modification in the laboratory to produce a desired antibody reactivity. Marketed antibodies to date, described as “fully human”, are not derived from human gene sequences that have undergone the crucial process of selection in a human.
+ 
+Without exception, all marketed products to date that are described as “fully human”, are in fact engineered and are not selected based on natural tolerance in the human body. The use of the term “fully human” to describe these products has thus created considerable confusion. To our knowledge, there are at present no True Human™ antibodies manufactured, using recombinant protein technology, currently marketed. If successful in clinical development, our lead product candidate is expected to be the first True Human™ therapeutic antibody to be commercialized.
+ 
+Platform Technology 
+ 
+There are significant technical challenges in identifying and cloning genes for True Human™ antibodies. A key problem to overcome can be to first identify individuals with the desired antibody reactivity. This can involve screening hundreds of donors to enable the identification of a single, clinically relevant antibody—discovered from literally trillions of irrelevant background antibody molecules in the blood of donors. We screen human donors to find an individual who has in his or her blood a specific antibody that we believe will be protective against a certain disease. White blood cells from that individual can then be isolated, and the unique gene that produced the antibody obtained. We currently obtain blood donor samples through a Research and Collaboration Agreement with the South Texas Blood & Tissue Center, a Texas 501(c)(3) non-profit corporation. See "Intellectual Property- Other Commercial Licenses."
+ 
+Novel cloning technologies developed at XBiotech have enabled us to clone the crucial antibody gene sequences from these donors in order to reproduce a True Human™ antibody for use in clinical therapy. A True Human™ monoclonal antibody should therefore not be confused with other marketed therapeutic monoclonal antibodies, such as those currently referred to as “fully human” antibodies.
+ 
+Market Opportunity 
+ 
+We have a number of indications in various stages of clinical or pre-clinical development with significant market opportunities. These include oncology, dermatology, diabetes, and other inflammatory conditions, as well as infectious disease indications. The potential market opportunities in these various indications are vast and we believe our research and manufacturing technologies, designed to more rapidly, cost-effectively and flexibly produce new therapies, will be advantageous in each market space.
+Our Strategy 
+ 
+Our objective is to fundamentally change the way drugs are developed and commercialized, and become a leading biopharmaceutical company focused on the discovery, development and commercialization of therapeutic True Human™ antibodies. The key goals of our business strategy are to:
+
+• | Obtain regulatory approval to market and sell our lead product candidate and/or our other product candidates in the United States, Europe and other markets, and begin commercial sale;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Continue our research and clinical work on infectious diseases, including S. aureus;
+--+-------------------------------------------------------------------------------------
+
+
+• | Advance our pipeline of therapeutic antibodies and other possible clinical programs in strategic therapeutic areas;
+--+--------------------------------------------------------------------------------------------------------------------
+
+
+• | Discover other True Human™ antibody therapies using our proprietary platform; and
+--+----------------------------------------------------------------------------------
+
+
+• | Leverage our manufacturing technology.
+--+---------------------------------------
+
+
+9
+-
+
+Product Pipeline 
+ 
+Our product development status for the fourth quarter of 2017 was as follows:
+ 
+
+Competition 
+ 
+The therapeutic antibody space is dynamic as there continues to be a highly active commercial pipeline of therapeutic antibodies globally, involving a complex array of development cycles as products reach the end of their patent life and as new candidate products proceed into pivotal studies and approach registration. There are numerous independent reviews on the subject in both trade journals and academic press (one such example being Reichert JM, Antibodies to watch in 2018 MAbs. 2018 Jan 4:1-21).
+ 
+We believe True Human™ therapeutic antibodies have important differentiating factors from other monoclonal antibodies currently marketed. The unique activity of our lead anti-cancer therapeutic has the potential ability to both improve well-being and extend life. We feel our product candidates will be highly differentiated in the market place for therapeutics in various indications including but not limited to cancer and dermatology. However, regardless of the potential advantages or uniqueness of our lead product candidate in the market, we do expect these products to compete head-to-head with the numerous existing candidate antibody products in development, including emerging biosimilar therapeutic antibodies.
+ 
+Current Clinical and/or Regulatory Activity 
+ 
+European Registration Study Oncology 
+ 
+
+10
+--
+
+ 
+XBiotech has completed a Phase III study in Europe for treatment of symptomatic CRC. XBiotech proceeded with the submission of a Marketing Authorization Application (MAA) to the European Medicines Agency (EMA) in March 2016. In May 2017, the Company announced that it received a negative opinion from the EMA’s Committee for Medicinal Products for Human Use (“CHMP”) for the MAA in Europe. XBiotech subsequently pursued the EMA’s re-examination procedure in which new Rapporteurs were assigned to reevaluate the initial opinion after receiving the Company’s grounds for re-examination. In September 2017, the CHMP issued its opinion on the re-examination of the Company’s MAA and maintained its initial negative opinion issued in May 2017. No further EMA procedures are available to us for the present application. 
+ 
+In the double-blind placebo-controlled Phase III study, 309 patients were randomized (2:1) to receive Xilonix™ plus best supportive care (BSC) versus placebo plus BSC. Study participants had failed all available chemotherapy and had metastatic disease with one or more symptoms of metabolic dysfunction and functional impairment (i.e., elevated systemic inflammation, unintentional weight loss, pain, fatigue, anorexia). Patients were required to have an Eastern Cooperative Oncology Group (ECOG) function status of only 1 or 2. Elderly patients (>70 years of age) were eligible as well, in contrast to many studies of anti-cancer therapies in advanced disease. The primary endpoint in the study was a composite measure of stable or increased lean body mass (as measured by dual energy X-ray absorptiometry (DEXA)) and stability or improvement of two of three symptom measures of the EORTC QLQ-C30 (pain, fatigue, or anorexia) at week 8 compared with baseline measurements. Secondary endpoints evaluated paraneoplastic thrombocytosis and systemic inflammation. The results of this study were published in The Lancet Oncology in January 2017 in an article titled, “MABp1 as a Novel Antibody Treatment for Advanced Colorectal Cancer: A Randomised, Double-Blind, Placebo-Controlled, Phase 3 Study.”
+ 
+US Registration Study Oncology 
+ 
+Enrollment was recently completed in the global randomized, double-blind, placebo-controlled Phase III study evaluating the Company’s lead product candidate as a treatment for advanced CRC. The Phase III study is being conducted under Fast Track designation from the FDA and involves over 600 advanced cancer patients from various countries worldwide.
+ 
+In February 2017, the Company announced an affirmative outcome in the first interim analysis of this study, prospectively planned to occur at 50% of events. The Independent Data Monitoring Committee (IDMC) performed the unblinded analysis and reported the study had no safety concerns and that indications of efficacy thus far were sufficient to recommend proceeding with the study without modification. Per the DMC charter, this was the first of two interim efficacy analyses planned prior to the final analysis for overall survival. In June 2017, the Company announced discontinuation of the study after the IDMC performed the second prospectively planned, unblinded analysis at 75% of events and recommended the early termination of the study since the findings were not sufficient to meet efficacy or the threshold for continuation, which involved a prospectively defined acceptance boundary for the interim analysis (≤ p=0.08).
+ 
+The double-blind, placebo-controlled Phase III study was randomized 2:1 with patients receiving Xilonix™ or placebo plus best supportive care. Patients were required to have metastatic CRC, and were required to have failed regimens that include flouropyrimidines, oxaliplatin, irinotecan, and Cetuximab or Panitumumab for patients with V-Ki-ras2Kirsten rat sarcoma (KRAS) mutation. Patients continued on the study until there was evidence of radiographic progression. The primary endpoint of this study was overall survival, with secondary endpoints including objective response rate, progression free survival, change in lean body mass as measured by DEXA, and patient reported quality of life using the validated European Organization for Research and Treatment of Cancer Quality of Life in cancer Questionnaire (EORTC QLQ C30 questionnaire).
+ 
+
+11
+--
+
+Phase I Pancreatic Cancer Combination Study 
+ 
+In September 2017, an investigator sponsored study was launched at Cedars Sinai Medical Center located in Los Angeles, California for MABp1 to be used in combination with OnivydeⓇ (Irinotecan liposome injection) and 5-fluorouracil/folinic acid for treatment of advanced pancreatic adenocarcinoma. Andrew Hendifar, M.D., Principal Investigator of the study, Medical Oncology lead for the Gastrointestinal Disease Research Group at Cedars-Sinai and Co-Director of Pancreas Oncology, will be leading the study which is planned to enroll a total of 16 patients at the Cedars-Sinai Medical Center. The Phase I study will determine a maximum tolerated dose as well as assess efficacy.
+ 
+Phase I/II Study for Staphylococcus aureus 
+ 
+In December 2016, the Company completed enrollment in its randomized, placebo-controlled Phase I/II study evaluating dosing, safety and efficacy of the Company’s novel antibody therapy, 514G3. This proprietary antibody therapy has received Fast Track Designation by the FDA for the treatment of all forms of Staphylococcus aureus infections, including Methicillin-resistant S. aureus (MRSA). Top line results from this study were announced in April 2017 and reported a reduction in adverse events and shorter hospitalization associated with the 514G3 therapy, even with 514G3-treated subjects tending to be sicker than those receiving placebo.
+ 
+In the study, hospitalized adult patients with confirmed blood infections were randomized 3:1 (514G3 vs placebo) during a dose escalation phase to establish a phase II dose. The phase II portion was randomized 2:1 at the established phase II dose of 40mg/kg. A total of 52 patients were enrolled: 36 received 514G3 and 16 received placebo. Thirty of the 36 patients that were given 514G3 received the established phase II dose (40mg/kg).
+ 
+
+12
+--
+
+ 
+Phase II Study for Hidradenitis Suppurativa (HS)
+ 
+The Company completed enrollment in a double-blinded, placebo-controlled investigator-sponsored study for HS, an inflammatory skin disease of such severity that is often treated through surgical removal of lesions. Twenty patients with moderate to severe HS that had progressed on standard therapies were enrolled in this study. Patients received MABp1 for 12 weeks and were then followed for an additional 12 weeks to observe durability of treatment. Efficacy measures include assessment of Hidradenitis Suppurativa Clinical Response (HiSCR) scores, a validated method for evaluating efficacy in HS patients, as well as quality of life assessment (as measured by DLQI. The Company announced topline results from this study in February 2017, reporting a response rate in patients treated with MABp1 versus placebo of 60% vs 10%, respectively (p=0.035). Results from this study were published in the peer-reviewed, Journal of Investigative Dermatology in November 2017 in an article titled, “MABp1 Targeting IL-1α for Moderate to Severe Hidradenitis Suppurativa Not Eligible for Adalimumab: a Randomized Study.”
+ 
+Summary of Clinical Findings to Date
+ 
+Safety 
+ 
+Our lead product under development is derived from a natural human immune response. We expected that this would facilitate better tolerability when used as a therapeutic compared to humanized or “fully human” monoclonal antibodies. Antibody therapies are known to be associated with significant risk for infusion reactions, including serious anaphylactic reactions. We believe that these reactions are the result of using antibodies that were not derived from natural human immunity but rather had engineered specificities. Based on scientific principles of antibody physiology, a fundamentally important premise was that our True HumanTM antibody therapy should be safer and result in less infusion-related complications than engineered human antibodies when used in clinical studies.
+ 
+Therapeutic monoclonal antibodies, even those so-called “fully human,” have been associated with infusion reactions. Comparably administration of our lead product candidate is associated with a reduced number of infusion related reactions.
+ 
+To date the Company has published data from 7 of its clinical studies. The table below outlines each of these publications.
+ 
+
+Indication | Journal | Title 
+-------------------------+-------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Oncology | The Lancet Oncology | MABp1 as a novel antibody treatment for advanced colorectal cancer: a randomised, double-blind, placebo-controlled, phase 3 study 
+Oncology | The Lancet Oncology | MABp1, a first-in-class true human antibody targeting interleukin-1α in refractory cancers: an open-label, phase 1 dose-escalation and expansion study 
+Oncology | Investigational New Drugs | Xilonix, a novel true human antibody targeting the inflammatory cytokine interleukin-1 alpha, in non-small cell lung cancer 
+Psoriasis | JAMA Dermatology | Open-label trial of MABp1, a true human monoclonal antibody targeting interleukin 1α, for the treatment of psoriasis 
+Acne | Journal of Drugs in Dermatology | An open label, phase 2 study of MABp1 monotherapy for the treatment of acne vulgaris and psychiatric comorbidity 
+Cardiovascular | Journal of Vascular Surgery | A randomized phase II study of Xilonix, a targeted therapy against interleukin 1α, for the prevention of superficial femoral artery restenosis after percutaneous revascularization
+Diabetes | Journal of Diabetes and Its Complications | Safety, pharmacokinetics, and preliminary efficacy of a specific anti-IL-1alpha therapeutic antibody (MABp1) in patients with type 2 diabetes mellitus 
+Hidradenitis Suppurativa | Journal of Investigative Dermatology | MABp1 Targeting Interleukin-1Alpha for Moderate to Severe Hidradenitis Suppurativa not Eligible for Adalimumab: A Randomized Study 
+
+
+13
+--
+
+Intellectual Property
+ 
+XBiotech has developed a large international intellectual property (IP) portfolio to protect important aspects of its technology, services and products, including patents, trademarks and trade secrets. As of December 31, 2017, XBiotech’s patent portfolio consisted of 18 patent families, and included 97 issued patents or allowed patent applications, and 111 (not including allowed) pending patent applications in various countries around the world. XBiotech’s IP portfolio is designed to protect XBiotech’s drug products, therapies and to some extent, its discovery technology. It includes patents and applications that protect MABp1 as a composition of matter and methods of using anti-IL-1a antibodies for the treatment of various diseases including cancer, vascular disorders, inflammatory skin diseases, diabetes, and arthritis. XBiotech’s IP portfolio also includes patents and applications directed to some aspects of our proprietary antibody discovery platform, as well as treating and preventing S. aureus infections.
+ 
+XBiotech owns or licenses the rights to the patent families described in more detail below.
+ 
+A. Interleukin-1 Alpha Antibodies and Methods of Use. This patent family relates to the development of IL-1a-specific True HumanTM monoclonal antibodies, including MABp1. As of December 31, 2017, XBiotech has been granted 31 patents in this family; including nine in the U.S., and others in Australia, Chile, China, Europe, Hong Kong, Indonesia, Israel, Japan, South Korea, Malaysia, Mexico, New Zealand, the Philippines, Russia, Singapore, and South Africa. Unless extended, patents in this family expire in 2029.
+ 
+B. Treatment of Cancer with Anti- IL-1α Antibodies. This patent family relates to the use of anti- IL-1α antibodies to inhibit the metastatic potential of tumors by interrupting the role that tumor-derived IL-1α plays in tumor metastasis. As of December 31, 2017, XBiotech has been granted four patents for this family; including one in Australia, one in Canada, one in Japan, and one in Europe. Unless extended, patents in this family expire in 2027.
+C. Treatment of Neoplastic Diseases. This patent family relates to the administration of anti- IL-1α antibodies to treat various tumor-associated diseases and the administration of a monoclonal antibody that specifically binds IL-1α to reduce the size of tumors in human patients suffering from cancer.  As of December 31, 2017, XBiotech has been granted nine patents for this family including two in Australia, one in Europe, one in Japan, one in Mexico, one in New Zealand, one in the Philippines, one in Singapore, and one in South Africa.
+ 
+D. Diagnosis, Treatment, and Prevention of Vascular Disorders. This patent family relates to methods of diagnosing, treating and preventing a variety of vascular disorder using IL-1a autoantibody. As of December 31, 2017, Xbiotech has been granted seven patents in this family, including two in the U.S., one in Australia, one in Europe and two in Japan. Unless extended, patents in this family expire in 2026.
+ 
+E. IL-1 Alpha Immunization Induces Autoantibodies Protective Against Atherosclerosis. This patent family relates to the use of IL-1α in a vaccine to generate anti-IL-1a antibodies to protect against atherosclerosis. As of December 31, 2017, XBiotech has been granted patents for this family in Australia and Europe. Unless extended, patents in this family expire in 2027.
+ 
+F. Targeting Pathogenic Monocytes. This patent family relates to the discovery that IL-1α is expressed on the proinflammatory, disease-associated CD14+CD16+ monocyte subset in humans, and describes targeting IL-1α to deplete these pathogenic cells or to modulate their function. As of December 31, 2017, XBiotech has been granted four patents in this family; including two in the U.S., one in Australia, and one in Japan. Unless extended, patents in this family expire in 2029.
+G. Arthritis Treatment. This patent family relates to the administration of anti- IL-1α antibodies to treat conditions associated with arthritis. As of December 31, 2017, XBiotech has been granted three patents in this family, including two in Australia and one in Israel,. Unless extended, patents in this family expire in 2031.
+H. Cachexia Treatment. This patent family relates to the administration of anti- IL-1α antibodies to treat cachexia. As of December 31, 2017, XBiotech has been granted four patents in this family, including one in the U.S., one in Japan, one in Russia, and one in South Africa. A further patent application has been allowed in Australia. Unless extended, patents in this family expire in 2032.
+
+14
+--
+
+I. Treatment of Diabetes. This patent family relates to the administration of anti- IL-1α antibodies to treat diabetes. As of December 31, 2017, XBiotech has been granted one U.S. patent. Unless extended, patents in this family expire in 2033.
+J. Treating Vascular Disease and Complications Thereof. This patent family relates to the administration of IL-1α targeting agents to reduce the chance or severity of a major adverse clinical event occurring in a patient who has received or is expected to receive surgical treatment for a stenosed blood vessel. As of December 31, 2017, XBiotech has been granted one patent in South Africa. Applications in this family were pending in the U.S., Australia, Canada, China, Europe, Israel, Japan, Mexico, New Zealand, Russia, South Korea, and Hong Kong. Unless extended, patents in this family expire in 2033.
+K. Treatment of Inflammatory Skin Disease and Psychiatric Conditions.  This patent family relates to the administration of anti- IL-1α antibodies to treat inflammatory skin diseases such as acne and psoriasis, as well as to treat psychiatric conditions such as anxiety. As of December 31, 2017, XBiotech has been granted three patents in this family, including one in the U.S., one in Australia, and one in Japan. A further application was allowed in the U.S. Other applications were pending in the U.S., Australia, Canada, China, Europe, Japan, Hong Kong, and South Korea. Unless extended, patents in this family expire in 2033.
+ 
+L. Methods, compositions, and kits for reducing anti-antibody responses. This patent family relates to methods and compositions for reducing immune system-mediated reactions to allotypic determinants on administered antibody products. As of December 31, 2017, XBiotech has been granted one Australian patent in this family. Unless extended, patents in this family expire in 2030.
+ 
+M. Identifying Affinity-Matured Human Antibodies. This patent family relates to methods and compositions for identifying affinity-matured True HumanTM monoclonal antibodies from donors. As of December 31, 2017, XBiotech has been granted eight patents in this family (four in the U.S., one in Australia, one in China, one in Russia, and one in Hong Kong)), and applications were pending in Australia, Canada, China, Europe, India, Israel, Japan, Mexico, Russia, and South Korea. Unless extended, patents in this family expire in 2032.
+ 
+N. Compositions and Methods for Treating S. Aureus Infections. This patent family relates to antibodies for preventing and treating S. aureus infections. As of December 31, 2017, XBiotech has been granted eight patents, in this family, including three in the U.S, one in Colombia, one in Japan, one in Russia, one in Singapore, and one in South Korea. Two further applications were allowed in China and Mexico. Applications were pending in the U.S., Australia, Brazil, Canada, Chile, China, Europe, India, Indonesia, Israel, Japan, Malaysia, Mexico, New Zealand, the Philippines, Russia, Singapore, South Korea, and South Africa. Unless extended, patents in this family expire in 2035.
+ 
+O. Antibacterial antibodies and Methods of Use. This patent family relates to antibodies for preventing and treating S. aureus infections. XBiotech acquired the use of patents within this family pursuant to its exclusive license agreement with STROX Biopharmaceuticals, LLC. As of December 31, 2017, this patent family includes three patents in the U.S., each expiring in 2019, unless extended.
+ 
+P. Staphylococcus Aureus-Specific Antibody Preparations. This patent family relates to antibodies for preventing and treating S. aureus infections. XBiotech acquired use of patents within this family pursuant to its exclusive license agreement with STROX Biopharmaceuticals, LLC. As of December 31, 2017, this patent family includes one Australian and one Israeli patent. Unless extended, patents in this family expire in through 2029.
+ 
+Q. Treatment of Hidradenitis Suppurativa. This invention relates to the use of antibodies (Abs) which specifically bind interleukin-1α (IL-1α) to treat Hidradenitis suppurativa. As of December 31, 2017, XBiotech has one pending U.S. application.
+ 
+R. Treatment of S. Aureus Infections. This invention relates to the use of antibodies (Abs) which specifically bind interleukin-1α (IL-1α) for treating S. aureus infections. As of December 31, 2017, XBiotech has one pending U.S. application.
+ 
+Because the patent positions of pharmaceutical, biotechnology, and diagnostics companies are highly uncertain and involve complex legal and factual questions, the patents owned and licensed by us, or any future patents, may not prevent other companies from developing similar or therapeutically equivalent products or ensure that others will not be issued patents that may prevent the sale of our products or require licensing and the payment of significant fees or royalties. Furthermore, to the extent that any of our future products or methods are not patentable, that such products or methods infringe upon the patents of third parties, or that our patents or future patents fail to give us an exclusive position in the subject matter claimed by those patents, we will be adversely affected. We may be unable to avoid infringement of third party patents and may have to obtain a license, defend an infringement action, or challenge the validity of the patents in court. A license may be unavailable on terms and conditions acceptable to us, if at all. Patent litigation is costly and time consuming, and we may be unable to prevail in any such patent litigation or devote sufficient resources to even pursue such litigation.
+
+15
+--
+
+Employees
+ 
+At December 31, 2017, we had 51 employees, 8 of whom hold a Ph.D. or M.D. (or equivalent) degree. None of our employees are represented by a labor union or covered by a collective bargaining agreement, nor have we experienced work stoppages. We believe that relations with our employees are good.
+Corporate Information
+ 
+XBiotech Inc. was incorporated in Canada on March 22, 2005. XBiotech USA Inc., a wholly-owned subsidiary of the Company, was incorporated in Delaware, United States in November 2007. XBiotech Switzerland AG, a wholly-owned subsidiary of the Company, was incorporated in Zug, Switzerland in August 2010. XBiotech Japan KK, a wholly-owned subsidiary of the Company, was incorporated in Tokyo, Japan in March 2013. XBiotech Germany GmbH, a wholly-owned subsidiary of the Company, was incorporated in Germany in January 2014. The Company’s headquarters are located in Austin, Texas.
+Investor Information
+ 
+We maintain an Internet website at http://www.xbiotech.com. The information on our website is not incorporated by reference into this annual report on Form 10-K and should not be considered to be a part of this annual report on Form 10-K. Our reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, our quarterly reports on Form 10-Q and our current reports on Form 8-K, and amendments to those reports, are accessible through our website, free of charge, as soon as reasonably practicable after these reports are filed electronically with, or otherwise furnished to, the SEC. We also make available on our website the charters of our audit committee, compensation committee, nominating and corporate governance committee, as well as our corporate governance guidelines and our code of business conduct and ethics. In addition, we intend to disclose on our web site any amendments to, or waivers from, our code of business conduct and ethics that are required to be disclosed pursuant to the SEC rules.
+
+16
+--
+

@@ -1,0 +1,310 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESSOverview
+ 
+The Company is a technology company whose strategy is based on the development of applications that can be utilized to accurately take measurements of a variety of items via a smartphone. By downloading the application to a smartphone, the user is then able to run the smartphone over the surface of an item the user wishes to measure. The information is then automatically sent to a cloud-based server where the dimensions are calculated through the Company’s proprietary algorithms, and the accurate measurements (+ or - 2 centimeters) are then sent back to the users smartphone. We believe that the commercial applications for this technology are significant in many areas.
+ 
+Currently, we are focusing on the following market segments:
+ 
+
+● | E-commerce apparel industry – our main target-market;
+--+------------------------------------------------------
+
+
+● | Courier services;
+--+------------------
+
+
+● | Do it yourself (“DIY”) uses; and
+--+---------------------------------
+
+
+● | Usage as a tape measure.
+--+-------------------------
+
+ 
+While we are currently devoting much of our focus on the applications for the apparel business, management believes that all of the above mentioned applications will be useful to users, retailers and vendors alike.
+ 
+The Market
+ 
+The mass adoption of mobile technologies such as tablets and smartphones have led to a surge of online consumer activity. Tasks that were once primarily brick-and-mortar such as shopping for clothes, shipping a package or purchasing supplies for a DIY home renovation project have now shifted to being a digital task as consumers seek convenient ways of shopping anytime, anywhere. Due to the foregoing, there has been an increase in retailers who offer shoppers a simple customer experience through desktop or mobile devices. The U.S. Census Bureau estimated that total e-commerce sales for 2017 were $453.5 billion, an increase of 16% from the year prior. While many sectors have found ways to increase revenue through e-commerce, there are several issues that are cutting into profits and negatively impacting the bottom line, such as returned products due to improper fit.
+ 
+The Company has developed innovative applications that address shortcomings in multiple verticals, including apparel, e-commerce, DIY, and shipping/parcel delivery industries. Utilizing its proprietary algorithms, the Company’s technologies can calculate and record measurements in a variety of novel ways thereby decreasing costs that negatively impact the bottom line.
+ 
+Fashion/Apparel
+ 
+The fashion and apparel market is one of the fastest growing sectors of online retail. According to Statista, what was an approximately $72.13 billion apparel and accessories market in 2016 is projected to increase to approximately $116.3 billion U.S. dollars by 2021 (https://www.statista.com/statistics/278890/us-apparel-and-accessories-retail-e-commerce-revenue). However, conveniences of online shopping, including search filters, not having to try on clothes and free returns, have led consumers to a more free-wheeling buying style that is costing retailers major dollars. According to Business 2 Community, at least 30% of all products ordered online are returned, compared to approximately 9% of products purchased from brick-and-mortar shops which is decreasing revenues for retailers.
+ 
+
+1
+-
+
+
+
+One of the leading factors for product returns is sizing issues because the lack of a universal sizing system leaves consumers to guess their size or order multiple sizes and return the ones that do not fit. According to Euromonitor International, 80% of online apparel returns are due to improper sizing.
+ 
+The Company addresses the sizing issue for retailers with its MySizeID mobile technology. MySizeID enables shoppers to accurately measure their body to find proper fitting clothes and shoes all through the use of their mobile phones. MySizeID syncs the user’s measurement data to a sizing chart integrated through a retailer’s mobile app, and only shows items that match the measurements to ensure a correct fit each and every time.
+ 
+Shipping/Parcel
+ 
+According to Accenture, the parcel post market is expected to grow by 9% per year and reach over $343 billion by 2020. The dimensions of a package are critical. Consumers are not just measuring a box, they are purchasing the amount of space that will be required on the carrier to transport the package. Far too often retailers use packaging unfit for their items, costing them extra in materials and shipping fees.
+ 
+The Company addresses this issue for retailers with its BoxSizeID mobile technology. BoxSizeID enables customers to quickly and easily measure the size of a parcel to accurately calculate shipping fees. It also offers shipping companies a variety of precise logistical data to more efficiently manage the shipping process by providing them with an accurate way to compare the physical package with the contents of such package. BoxSizeID is available for license for apps both on iOS and Android operating systems.
+ 
+DIY
+ 
+Similar to issues in the apparel and fashion market, big box, hardware, furniture, and DIY stores are plagued by returns due to incorrect fit and measurements. In an industry where precise measurement for projects is an absolute necessity, e-commerce has not grown as quickly as other verticals. Consumers continue to be unable to properly measure and purchase the correct amount of materials online that are required for a particular project.
+ 
+The Company addresses this issue for retailers with its SizeUp mobile technology. SizeUp is a digital tape measure that allows users to measure the length, width and height of a surface by moving their smartphone from one point of an object to another point of an object. SizeUp is a value-add tool for DIY and home improvement retailers whose customers struggle to find appropriate sized items, such as blinds and curtains for their homes, due to inaccurate measurements. SizeUp replaces rulers, tape measures and other measuring tools used for DIY projects. 
+
+
+MySizeID
+ 
+We are currently in development of MySizeID, an application which assists the consumer to accurately take the measurements of his or her own body using a smartphone in order to fit clothing in the best way possible without the need to try the clothes on. The purpose of our application is to simplify the process of clothing acquisition through the internet and to significantly reduce the rate of returns of ill-fitting clothing which are acquired through the internet.
+ 
+The application is the result of a research and development effort that combines:
+ 
+
+● | Anthropometric research – analyses of information pertaining to body measurements derived from a survey and the subsequent determination of correlations between body parts;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Body measurement algorithm research – an algorithm created by the Company to measure body parts; and
+--+-----------------------------------------------------------------------------------------------------
+
+
+● | Retailers size chart analyses – adopting a deep understanding of the size charts of retailers and the corresponding “body to garment size.”
+--+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2
+-
+
+
+
+MySizeID will operate based on the use of existing sensors in smart phones which enable, through a specific purpose application, the measurement of the body of any consumer independently by moving the cellular phone along his or her body. The measurements can then be saved on the Company’s cloud database, enabling the user to search for clothes in various retailer websites without worrying about size. When a search is made, the retailer will connect to the Company’s cloud database and then provide results based on the user’s measurements and other parameters as he or she may have defined. This data is also be saved for use when a customer enters a brick and mortar store to help serve the customer more efficiently and to provide a better shopping experience.
+ 
+As soon as the item is found and the acquisition is completed, the retailer will be charged a certain percentage of the acquisition price. The rate to be charged by My Size for the acquisition has not yet been fixed, and will be determined following negotiations with fashion companies, in a more advanced stage of the development.
+ 
+How MySizeID Can be Utilized by the Apparel Industry
+ 
+The MySizeID application will allow consumers to create a secure, online profile of their personal measurements, which can then be utilized with partnered online retailers to ensure that no matter the manufacturer or size chart, they will get the right fit. The MySizeID application will utilize a patent-pending measurement technology that does not rely on user photographs or any additional hardware; all a user needs to do is scan their body with their smartphone and the app records their measurements.
+ 
+The application is being designed to use a person’s body measurements to help determine correct apparel sizes when shopping on-line. The app measures the hip breadth and uses algorithms to recommend the most appropriate sized trousers.
+ 
+The first beta version of the MySizeID app was revealed and demonstrated at the 2018 Consumer Electronics Show, or CES, held in Las Vegas, Nevada in January 2018.
+
+ 
+
+3
+-
+
+
+
+The first beta version of the app includes the ability of users to take their own measurement using their smartphone and obtain the recommended size for retailers according the measurements taken which provides a more personalized shopping experience. 
+ 
+
+
+True Size
+ 
+In November 2016, the Company introduced a new product called TrueSize.
+ 
+TrueSize is a customizable, white-label, mobile application that empowers retailers to improve the online shopping experience of their customers by perfectly matching their true measurements with the retailer’s offerings. The level of accuracy and ease of use integrated into the retailer’s website ensures that the customers will select the right size apparel every time, and we believe this will significantly reduce the amount of returns.
+How Does TrueSize Work?
+ 
+TrueSize has two components: a white label application and a small application located on each page of the retailer’s website. First, the customer downloads the TrueSize app, branded to a specific retailer’s website, and signs in, using the same credentials used for the online store. The application will then guide the customer through the process.
+ 
+Using the TrueSize app, the customer next takes accurate measurements of an item of clothing from their wardrobe by placing the smartphone first on one end of the item and then on the other end. The app will then prompt the user to take several different measurements to get a complete reading. The information pertaining to each item is then saved, and can be updated at any time. Measurements are next stored in the cloud and a recommended size for the user is calculated. The user may continue shopping directly from the app by clicking the “Go Shopping” button, which will direct them to the retailer’s mobile website.
+ 
+
+4
+-
+
+
+
+The chart below illustrates how consumers can interact with the prompts from the TrueSize application.
+ 
+
+Shopping with TrueSize
+ 
+A “TrueSize” widget in the form of a button is located in proximity to the size selection feature on each product page of the retailer’s website. If the customer has signed in to the website and has already downloaded the TrueSize app and taken measurements, a recommended size will automatically appear in the widget. Users then have the option to manually update their size parameters – height, weight, and an item’s parameters – at any time by simply clicking on the widget. If the customer has not yet signed into the website, a prompt will appear requesting the customer to do so.
+ 
+TRUCCO – RealSize
+ 
+RealSize is a white label measurement application developed based on the Company’s TrueSize technology. The first customer to use the TrueSize technology is IN SITU S.A., the owner of the rights to the fashion brand-name TRUCCO. TRUCCO is a women’s clothing brand and has over 240 points of sale in more than 20 countries all over the world including, but not limited to, Andorra, Chile, China, Costa Rica, Czech Republic, Dominican Republic, France, Guatemala, Israel, Kuwait, Libya, Malaysia, Mexico, Panama, Paraguay, Peru, Portugal, Qatar, Russia, Singapore, Slovakia, Spain, Taiwan and Thailand.
+ 
+The Market - Courier Services
+ 
+When an individual wishes to ship boxes from place to place, they often call a courier service and request a pick up. The individual is then usually asked about the dimensions of the package to be shipped. Unfortunately, the response given to the courier can be rather vague (big, medium, small, etc.). This is often the cause of much confusion between the shipper and the courier. This confusion can lead to the courier sending out the wrong vehicle for the pick-up and/or a large price differential from what was originally quoted by the courier causing customer dissatisfaction.
+How My Size Can be Utilized for Courier Services
+ 
+My Size operates based on the use of existing sensors in smart phones which enable, through a specific purpose application, measurement of the dimensions of packages by moving the cellular phone along packages (length, height and width) to be sent via courier. The measurements are then be saved on the Company’s cloud database and shared with the courier. This allows for:
+
+● | Courier services to provide accurate pricing to their consumers with little to no confusion; and
+--+-------------------------------------------------------------------------------------------------
+
+
+● | Courier services to send the proper sized vehicle to pick up packages.
+--+-----------------------------------------------------------------------
+
+
+5
+-
+
+Agreement with Katz Delivery Services, LTD
+ 
+On November 20, 2015, My Size entered into an agreement (the “Katz Agreement”) with Katz Deliveries, LTD (“Katz”), one of the largest courier services in Israel. Katz delivers approximately five million parcels per year, the most in Israel. Katz has more than 250 vehicles. Pursuant to the Katz Agreement, the parties have agreed to mutually work together to develop and integrate My Size technology with the technology of Katz to accurately monitor the volume of all parcels delivered to it for shipment by its clients. The goal is for Katz to use our technology to help with planning its distribution lines, thus reducing operational costs by adjusting the distribution vehicles to the volume of the shipments.
+ 
+KatzID was developed for Katz and is to be used to measure packages, boxes and pallets at Katz’ logistics center. The app allows users to scan the barcode of a package and measure the package dimensions using My Size’s SizeIT technology and then subsequently upload the information directly to Katz’s back office. The technology is being used to control package volumes and charge Katz’ customers accordingly.
+ 
+BoxSizeID
+ 
+BoxSizeID is an intuitive parcel measurement app that can provide real-time logistic data on package volumes and transportation, resulting in improved operational efficiency and reduced operating expenses. In addition, BoxSizeID allows customers of package delivery companies to easily measure the size of their parcel with their smartphone, calculate shipping costs and arrange for a convenient pick-up time for the package.
+ 
+
+
+OneShot
+ 
+The Company is currently developing OneShot, an algorithm that will make package measurement even faster as it will only require a single movement to measure the height, width and depth of a package rather than three separate measurements.
+ 
+
+6
+-
+
+
+
+SizeUp
+ 
+My Size is working on additional consumer applications. One of these applications is in the category of DIY. This application is a smart tape measure for the business to consumer market which allows users to utilize their smartphone as a tape measure. The application provides measurements with an accuracy of plus or minus 2 centimeters. Through the use of this application users will be able to visualize how an object or a piece of furniture will fit in an existing room in their home or office. As many people have difficulty with spatial recognition, the Company hopes this will help alleviate the problem.
+ 
+In the third quarter of 2015, My Size launched the SizeUp application for the iOS operating system. In the first quarter of 2016, a second version of SizeUp for the iOS operating system was released. This release included the ability to measure both horizontal and vertical measurements. In January 2017, a third version of SizeUp for the iOS operating system was released. This release included an innovative air measurement algorithm which allows the user to measure over the air without the need to slide the phone over the surface during the measurement.
+ 
+The first version of the SizeUp app for Android was released in March 2016 and included vertical measurement. An update to the app was released in June 2017 which update includes a one-time calibration process for ensuring high accuracy.
+ 
+As of March 19, 2018, there have been over 750,000 downloads of the SizeUp app. Currently the SizeUp app for Android and iOS are available for free for the first 30 days, after which a user will be required to pay a one-time fee of $1.99 to continue using the application. To date, the Company has accumulated immaterial revenues from the mentioned fee.
+ 
+SizeIT
+ 
+The Company has developed SizeIT, a smart measuring tape standard development kit (“SDK”) for both Android and iOS platforms. SizeIT provides users with the ability to instantly and accurately measure objects with a quick movement of their smartphone. SizeIT, the core technology behind the Company’s TrueSize, SizeUp, and BoxSizeID applications, can be embedded into any company’s existing or white label mobile app in a short period of time, offering an efficient solution to the escalating costs associated with product sizing issues and returns. SizeIT enables users to measure smooth or rigid surfaced objects by moving their smartphone from one side of an object to another side of the object. The Company’s algorithm utilizes a smartphone’s motion sensors to calculate the travelled distance.
+ 
+Research and Development
+ 
+The Company incurred research and development expenses of $845,000 in 2017 and $727,000 in 2016, relating to the development of its applications and technologies.
+ 
+Income Sources - Projected Income
+ 
+The Company’s business model currently contemplates five methods of producing revenue through the use of its products:
+ 
+1. Fees - The Company intends to charge sellers a fee for every garment and clothing item purchased using its products. Fees are currently anticipated to be in the range of 1% to 3% of royalties on product sales, depending on volume, resulting from the use of the MySizeID platform.
+ 
+2. Advertisements - the Company may generate revenue by using specialized ads using its database to identify the user’s exact needs.
+ 
+3. “Offline Shopping” - the Company may offer its services to clothing and fashion stores, for real-time use by their customers. The service may allow the store to immediately offer the customer a fitting garment suitable for his or her size.
+ 
+4. Pay Per application programming interface (“API”) call – every time a user is looking onto an item in the retailers website and clicks the “what’s My Size” button to find out his size the retailer will be charged a fixed amount based on the SDK pricing matrix.
+ 
+5. SizeUp – SizeUp is the first business to consumer app that MySize has released in the Apple App Store and on Google Play. The Company charges a one-time fee of $1.99 for every download of the app from either store.
+
+
+
+7
+-
+
+Competition
+ 
+Management of the Company believes that its technology and applications are a win-win solution for consumers, retailers, couriers and individuals. The Company’s technology is protected by three issued patents, one in each of Russia, Japan and the U.S., one patent-pending submission and an additional patent application which is in process. My Size’s products are designed to allow users to measure themselves simply by sliding a smartphone over their body, and the measurements are recorded by the My Size application.
+ 
+Unlike other products claiming similar capabilities, there is no need for additional accessories (no webcam, photos, measuring tape, etc.). Users of the My Size apps will have their information protected and a unique identification number is provided that matches personal sizes with retailer size charts. When consumers get the right sized products, there are fewer returns of such products.
+ 
+My Size’s advantage is in its easy to use application in recording body measurements. Using special algorithmic equations, the software is able to determine which sizes will best fit the customer. The collection of this data, and tracking shoppers’ preferences, allows for a unique shopping experience both online and in brick and mortar stores where the technology can instantly match clothes the customer likes in sizes that will fit them.
+ 
+Despite our competitive advantage, we face competition from other companies which also help retailers increase conversation rate and reduce shipping costs.
+ 
+Competitive Landscape
+ 
+The following chart lists some, but not all, of our competitors:
+ 
+
+Name | Technology | User Action | Product / Service
+----------------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+------------------
+True Fit | Algorithm driven engine matches manufacturer specs and data points with customer profile | Answer questions to create profile | ● | Based on statistics; doesn’t reflect real measurement 
+Rakuten Fits.me | Software solution based on a personal avatar; Algorithm driven engine matches manufacturer specs and data points with customer profile | Answer questions to create profile | ● ● | Virtual fitting room size Recommendations based on statistics 
+Virtusize | Compares a reference item the silhouette of the garment they are looking to buy | Reference items: a previous purchase or a favorite item. Measure it manually and enter results to the app | ● | Garment-to-garment comparison with tape measure (manually) 
+EasyMeasure | Uses camera and motion sensors | User needs to photograph according to the instructions and conditions of the app. (i.e. certain lighting conditions) | ● | Allows the user to measure large objects and from far away (i.e. a building). Low accuracy requires optimal lighting conditions
+ | | | ● | Only on iOS platform 
+ | | | ● | Very intuitive 
+AR MeasureKit | AR kit and motion sensors | Allows the user to measure objects from a distance with the camera | ● | Requires bright light, and a contrast between the object and the background 
+ | | | ● | When measuring small objects it can be difficult to “mark” them 
+ | | | ● | Only on iOS platform 
+Smart Measure | Camera and motion sensors | Allows the user to measure objects from a distance | ● ● | Easy to use Requires the user to know the height of the device 
+ | | | ● | Requires optimal lighting conditions 
+ | | | ● | Only on Android platform 
+
+ 
+Some of our competitors have significantly greater financial, marketing, personnel and other resources than we do, and many of our competitors are well established in markets in which we have existing retailers or intend to locate new retailers. We may also need to evolve our concepts in order to compete with popular new retail formats or concepts that develop from time to time, and we cannot offer any assurance that we will be successful in doing so or that modifications to our concepts will not reduce our profitability.
+ 
+
+8
+-
+
+Employees and Independent Contractors
+ 
+We currently have 12 employees and 8 independent contractors.
+ 
+Company Information
+ 
+The Company was incorporated in the State of Delaware and commenced operations in September 1999 under the name Topspin Medical, Inc. In December 2013, the Company changed its name to Knowledgetree Ventures Inc. Subsequently, in February 2014, the Company changed its name to My Size, Inc. Our principal executive offices are located at 3 Arava St., pob 1026, Airport City, Israel 7010000, and our telephone number is +972-3-600-9030. Our website address is www.mysizeid.com.  Any information contained on, or that can be accessed through, our website is not incorporated by reference into, nor is it in any way a part of, this Annual Report on Form 10-K.
+Background
+ 
+The Company (under the name Topspin Medical, Inc.) was a privately held company that was engaged, through 2012, in research and development of a medical magnetic resonance imaging (“MRI”) technology for interventional cardiology and in the development of MRI technology for use in the diagnosis and treatment of prostate cancer.
+ 
+On September 1, 2005, the Company issued securities to the public in Israel according to a prospectus and became publicly traded on the Tel Aviv Stock Exchange (“TASE”). In 2007, and until August 2012, the Company registered some of its securities with the U.S. Securities and Exchange Commission (“SEC”).
+ 
+In January 2012, after having received the approval at the general meeting of shareholders of the Company, the Company consummated a transaction whereby it acquired Metamorefix Ltd. (“Metamorefix”). Pursuant to such transaction, Metamorefix became wholly-owned by the Company. Metamorefix was incorporated in 2007, and was engaged in the development of innovative solutions for the rehabilitation of tissues, particularly skin tissues.
+ 
+On August 21, 2012, the Company’s board of directors (the “Board” or “Board of Directors”) approved the suspension of the Company’s reporting obligations under Section 13(a) and 15(d) of the Securities Exchange Act of 1934 (the “De-Registration”). The Company thereafter filed a Form 15 with the SEC on September 5, 2012 to effect the De-Registration. Upon the filing of the Form 15, the Company’s obligation to file periodic and current reports with the SEC, including Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on form 8-K, was immediately suspended.
+ 
+By the end of 2012, in view of the Company’s cash flow, the Company ceased its above operations and shortly thereafter the Company’s employees were laid off. In January 2013, the Company sold its entire ownership interest in Metamorefix.
+ 
+Change in Control Transaction
+ 
+In September 2013, Ronen Luzon, the Company’s current Chief Executive Officer, purchased control of the Company from Mr. Asher Shmuelevitch (the “Transaction”). Mr. Luzon purchased 1,755,950 shares of common stock from Mr. Shmuelevitch, which shares represented approximately 40% of the issued and outstanding capital stock of the Company at such time, and thus Mr. Luzon became a controlling shareholder of the Company.
+ 
+Within the framework of the Transaction, Mr. Luzon reached a settlement with the Company’s creditors pursuant to which the main creditor, Mr. Asher Shmuelevitch, was paid a total sum of New Israeli Shekel (“NIS”) 0.5 million (approximately $140,000) in consideration for a full and final waiver of any and all his claims that he may have relating to any monetary indebtedness of the Company to the creditors.
+ 
+As a result of the various investment rounds in the Company, Mr. Luzon’s beneficial ownership in the Company has been diluted and currently represent approximately 6.98% of the issued and outstanding shares of common stock of the Company on a fully diluted basis.
+ 
+In January, 2014, the Board approved a transaction with Shoshana Zigdon, a related party, with respect to a technology venture through a new subsidiary, as discussed below.
+ 
+
+9
+-
+
+February 2014 Purchase Agreement
+ 
+In February 2014, the Company entered into a Purchase Agreement (the “Purchase Agreement’) with Shoshana Zigdon (“Seller”), with respect to the acquisition of certain rights in a venture for the accumulation of physical data of human beings by portable electronic devices (including smart phones, tablets and other portable devices) for the purpose of locating, based on the accumulated data, articles of clothing in internet apparel stores, which will fit the person whose measurements were so accumulated (the “Venture”). Prior to entering into the Purchase Agreement, in January 2014, the Purchase Agreement was approved by shareholders of the Company as the Seller was also a beneficial owner of over 20% of the outstanding capital of the Company.
+ 
+Pursuant to the Purchase Agreement, the Company purchased the all of Seller’s rights, title and interest in and to the Venture, including, but not limited to, the method (the “Method”) and the certain patent application that had been filed by Seller (PCT/IL2013/050056) (the “Patent”, and collectively with the Method, the “Assets”).
+ 
+In consideration for the sale of the Assets, the Company agreed to pay to Seller, 18% of the Company’s operating profit, directly or indirectly connected with the Venture and/or the Method and/or the commercialization of the Patent together with value-added tax (“VAT”) in accordance with the law (the “Consideration”) for a period of seven years from the end of the development period of the Venture. The parties further agreed that Seller’s right to receive the Consideration will apply even in the event the Patent is revoked/rejected/expires and/or the non-receipt of the Patent for any reason. Down payments on account of the Consideration are to be paid to the Seller quarterly, within 14 days from the approval of the reviewed financial reports of the Company, with the exception of the fourth quarter which will be paid after the approval of the audited financial reports of the Company. Payment will be made against a duly issued tax invoice as prescribed by law.
+ 
+The Agreement may be terminated by either party in the event of a breach of the obligations of the other party and the failure to cure a default within a specified period of time. The Agreement further provides that Seller is entitled to repurchase the Assets from the Company upon the occurrence of one or more of the following events: (a) if an application for liquidation of the Company and/or an application for appointment of a receiver for the Company and/or for a significant part of its assets has been filed, and/or an attachment has been imposed on a significant part of the Company’s assets, and the application or attachment – as the case may be – has not been not canceled within 60 days from the date on which they are filed; or (b) if upon the date that is seven years from the date of execution of the Agreement, the amount of Company’s income, directly and/or indirectly accumulated from the Venture and/or the Method and/or the commercialization of the Patent is less than NIS 3.6 million (approximately $1 million) (a “Repurchase Event”).
+ 
+If a Repurchase Event occurs, Seller shall have a 90 day right, subject to delivery of written notice to the Company of Seller’s intention to exercise such right, to repurchase the Assets from the Company. The repurchase price will be based upon a market price to be determined by an external and independent valuer, who shall be chosen by agreement by the parties, and the Audit Committee shall conduct the negotiations on behalf of the Company to determine the identity of the valuer. In the absence of agreement on the identity of the valuer, the valuer shall be appointed by the President of the Institute of Certified Public Accountants in Israel. If one of the parties appeals against the valuation, with the Company’s decision to appeal being made by the Audit Committee of the Company, the parties shall approach another agreed valuer from one of the four large accounting firms in Israel (and in the absence of agreement he shall be chosen by the President of the Institute of Certified Public Accountants) and an average shall be taken of the two valuations which are received. The parties shall bear the valuers’ fees and all the expenses of the valuation in equal shares. Unless Seller gives the Company written notice of the retraction of Seller’s intention to repurchase the Assets, the Seller shall be obligated to repurchase the Assets within 60 days from the date of receipt of the valuation. Seller shall have the right to retract its intention to repurchase the Assets, provided Seller gives written notice to the Company within 30 days of receiving the valuation and subject to Seller refunding the Company the expenses borne by the Company in respect of the valuation (provided that the Company gives Seller details of the expenses borne by it).
+ 
+In addition to the foregoing, the Agreement provides that all developments, improvements knowledge and know-how developed and/or accumulated by the Company after the execution of the Agreement will be owned by the Company. Further, the Seller agreed not to compete, directly or indirectly, with the Company in any matter relating to the Assets and/or the Venture and/or the Method for a period of seven years from the end of the development period of the Venture.
+ 
+On July 25, 2016, the Company’s common stock began publicly trading on The Nasdaq Capital Market under the symbol “MYSZ”.
+ 
+Recent Developments
+ 
+December 2017 Public Offering
+ 
+On December 22, 2017, we completed a public offering of 3,832,500 shares of our common stock and five-year warrants to purchase an aggregate of 2,874,375 shares of common stock at an exercise price of $0.851 per share. The gross proceeds to us were approximately $2.5 million, before deducting placement agent fees and other offering expenses.
+
+10
+--
+
+February 2018 Public Offering
+ 
+On February 2, 2018, we completed a public offering of 3,000,000 shares of our common stock and five-year warrants to purchase an aggregate of 1,500,000 shares of common stock at an exercise price of $2.65 per share. The gross proceeds to us were approximately $6.0 million, before deducting placement agent fees and other offering expenses.

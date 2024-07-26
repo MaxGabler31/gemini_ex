@@ -1,0 +1,402 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1.         BUSINESS
+Overview
+ 
+We design, develop and sell exoskeleton technology that currently has applications in healthcare and industrial markets. Our wearable exoskeletons are worn over clothing and are mechanically controlled by a trained operator to augment human strength, endurance and mobility.
+ 
+Our exoskeleton technology serves multiple markets and can be used both by able-bodied users as well as by persons with physical disabilities. We have sold, rented or leased devices that (a) enable individuals with neurological conditions affecting gait (stroke and spinal cord injury) to rehabilitate and to walk again and (b) allow industrial workers to perform heavy duty work for extended periods.
+ 
+We believe the commercial opportunity for exoskeleton technology adoption is accelerating as a result of recent advancements in material technologies, electronic and electrical engineering, control technologies, and sensor and software development. Taken individually, many of these advancements have become ubiquitous in peoples’ everyday lives. We believe we have learned how to integrate these existing technologies and wrap the result around a human being efficiently, elegantly and safely, supported by an industry leading intellectual property portfolio. We further believe we can do so across a broad spectrum of applications, from persons with lower limb paralysis to able-bodied users.
+ 
+While we believe advancements in technology will continue driving commercial interest in and further development of exoskeleton systems, we also recognize that we are in the early stages of development of exoskeleton capabilities. In order to advance the commercialization of our exoskeleton technology, we intend to focus our efforts in 2018 on the following key initiatives:
+ 
+
+· | Drive robotic exoskeleton rehabilitation to become the standard of care for both in-patient and out-patient rehabilitation for patients with some form of lower limb paralysis or weakness.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Expand our presence to select countries in Asia.
+--+-------------------------------------------------
+
+
+· | Continue to introduce new features in rehabilitation for our Ekso GT, which could expand access to care to more patients, and for our EksoPulse Analytics, which aids in providing more personalized care in rehabilitation sessions.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Continue patient enrollment in our company-sponsored randomized controlled trial Walking Improvement for SCI with Exoskeletons (“WISE”) Study and further add to the growing body of clinical evidence to support the use of Ekso GT for rehabilitation.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Continue leveraging our commercial experience with the Ekso GT and our exoskeleton development work to develop an appropriate go-to-market strategy for our next generation medical devices for use outside of a rehabilitation setting. We are striving to bring to market devices that will be cost-effective, with the appropriate functionality and levels of independence for their use outside of a rehabilitation setting.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Build upon our momentum in industrial markets, expanding on the commercial rollout of EksoZeroG for aerial work platforms and scaffolding to include the commercial rollout of EksoVest, an upper body exoskeleton that elevates and supports a worker's arms to assist them with tasks ranging from chest height to overhead while enabling freedom of motion.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Rehabilitation Robotics
+ 
+Today, our focus is on rehabilitation robotics. We are leveraging our patented exoskeleton technology to develop and market products intended to enable patients with some form of lower limb paralysis to rehabilitate earlier and with better outcomes than the current standard of care.
+
+4
+-
+
+
+
+Ekso GT
+ 
+Our current product, the Ekso GT, is a wearable bionic suit that allows our hospital and rehabilitation customers to provide in-patients and out-patients with spinal cord injury (“SCI”) and hemiplegia due to stroke the ability to stand and walk over ground with a full weight-bearing, reciprocal gait using a cane, crutches or a walker under the supervision of a physical therapist. Walking is achieved by a user shifting their body to activate sensors in the device which in turn initiate steps. Battery-powered motors drive the legs, detecting the deficient neuromuscular function and providing that level of assistance necessary for a user to complete their step. Users can expect to walk with aid from the device the first time they put on the Ekso GT exoskeleton (after passing an assessment). Physical therapists can transfer patients to or from their wheelchair and don or remove the Ekso GT in less than five minutes.
+ 
+The Ekso GT incorporates SmartAssist, our proprietary, adaptive or “smart” software that detects a user’s level of motor loss and dynamically provides 0-100% power to either side of the body. SmartAssist can promote a greater number of high-quality steps in a short time period and support the early re-learning of correct step patterns and weight shifts, potentially mitigating compensatory behaviors. SmartAssist also has allowed our customers to significantly expand the spectrum of patients that can potentially benefit from robotic rehabilitation.
+ 
+In addition, SmartAssist can aid in promoting early mobility by training patients (PreGait) to walk in an exoskeleton, which should expand access to care to more patients. SmartAssist also includes next generation Variable Assist technology that provides more freedom for healthcare providers to allow patients to power themselves (FreeGait) in the most appropriate ways possible. Lastly, SmartAssist includes QuickFit, a more rehabilitation friendly user-interface that should reduce potential data input / output errors.
+ 
+In December of 2017 we also launched in Europe the Ekso GT Functional Electrical Stimulation (FES) interface capability through a partnership with Hasomed GmbH, a developer of innovative products for neurological rehabilitation. FES is a technique that uses low energy electrical pulses to artificially generate body movements in individuals who have been paralyzed due to injury to the central nervous system. We believe the combination of exoskeleton technology with SmartAssist and FES gives clinicians the synergistic benefits of earlier mobility and muscle stimulations to provide rehabilitation to a broader spectrum of patients.
+ 
+Another important feature of our Ekso GT is its Ekso Pulse Analytics, a real-time data capture program. Ekso Pulse gathers and transmits statistics and device information during Ekso GT walking sessions. This information can be used to track patient progression and to monitor device utilization. The Ekso GT records data such as steps, speed, step size, and other settings along with all error logs and operating parameters. Data is sent securely to our servers where it is available for customers to view, filter, and export through a secure web portal. This feature enables more thorough patient care while reducing manual data entry. It also enables us to provide a higher level of service through early identification and thorough reporting of device errors, saving customers the time and expense of unnecessary on-site visits.
+ 
+The Ekso GT is used by customers in both in-patient and out-patient settings. Our customers believe that for patients with some motor ability intact (for example, after a stroke or an incomplete SCI), the Ekso GT exoskeleton offers unique benefits to help therapists teach proper step patterns and weight shifts, allowing patients potentially to mobilize earlier and ultimately to walk again. By allowing individuals to stand and walk in a full weight-bearing setting, early clinical evidence is also beginning to show that the Ekso exoskeleton may offer potential healthcare benefits (including for patients with complete SCI) such as reducing post-injury medical costs through reduction in secondary complications such as pressure sores, urinary tract infections, bowel problems, pneumonia and other respiratory issues, bone loss/osteoporosis, cardiovascular disease and psychological disorders.
+ 
+As of February 1, 2018, the Company had shipped over 275 Ekso GT units to close to 200 rehabilitation facilities or customers worldwide. The number of units utilized at a center varies from one to six, and is driven by the number of beds and rehabilitation sessions a hospital can offer and that hospital’s adoption of robotics within its rehabilitation protocols.
+ 
+
+5
+-
+
+Market Overview
+ 
+The primary market for our Ekso GT is rehabilitation clinics with significant stroke and SCI populations. In the U.S. there are about 5.9 million stroke and SCI rehabilitation sessions conducted annually on about 680,000 stroke and SCI patients at approximately 16,900 facilities. Global estimates for stroke and SCI populations are more than double those in the U.S.
+ 
+Due to the chronic nature of the conditions resulting in lower limb impairment, we believe these diagnoses have an enormous clinical and economic impact on both people with the conditions and the healthcare system. According to the American Heart Association, in the U.S. there are approximately 795,000 strokes per year with approximately 7 million people living who have suffered from a stroke. Direct and indirect costs associated with those who have suffered a stroke total approximately $60 billion annually. Similarly, according to the National Spinal Cord Injury Statistical Center, in the U.S. there are approximately 12,500 incidences of SCI per year with approximately 275,000 people living with SCI. Direct and indirect costs associated with those who have suffered SCI total approximately $18.5 billion annually.
+ 
+While the market opportunity for robotic exoskeleton rehabilitation may be large, we also recognize that the path for medical devices to become standard of care is long and challenging. We believe our ability to accelerate adoption will also be based, in part, on our ability to build on our and our partners’ early efforts: (i) to expand clinical evidence and (ii) to drive toward standard of care. We are already seeing customers appreciate that one way for stroke patients at in-patient facilities to receive the recommended amount of rehabilitation per guidelines is by using an Ekso GT, the only device currently in the market that has the versatility to provide an over-ground gait training intervention that is task-specific, high intensity and allows for a margin of error, across the continuum of care.
+ 
+Clinical Evidence and Reimbursement
+ 
+Many of our early clinical customers have undertaken research to evaluate the use in rehabilitation of exoskeletons in general and our Ekso robotic exoskeleton in particular. Although these studies primarily have focused on feasibility and safety and have relied on small sample sizes, initial study findings have been favorable. In 2017, we learned of results for eleven clinical studies for SCI and four for stroke. One completed SCI study included nine Pan-European sites with 52 participants. One other study included 23 sub-acute and chronic stroke participants. Also, we have now enrolled ten sites for our company sponsored WISE (Walking Improvement for SCI with Exoskeletons) study. These sites, in turn, have enrolled over 20 patients. The primary endpoint of the WISE study seeks to demonstrate that a 12-week robotic gait training regimen can lead to a clinically meaningful improvement in independent walking speed. Secondary endpoints from the trial are examining economic factors such as number of physical therapists and staff required during training, the physical burden on physical therapists assisting and supervising during training, and the influence of factors that may modify the gait recovery.
+
+
+We intend to continue our work with rehabilitation centers and clinicians studying the benefits of robotic exoskeleton rehabilitation using the Ekso. We have also increased the number of centers of excellence to four, with the first European Center of Robotic Excellence established in northern Italy at Villa Beretta Centro di Riabilitazione coming on board. We believe that additional clinical evidence will help treating physicians to better understand the benefits of rehabilitation with the Ekso GT and will support our efforts with more industry collaboration toward achieving reimbursement for exoskeletons.
+ 
+We believe that reimbursement by the Centers for Medicare/Medicaid Services (“CMS”) and third-party insurers will play an important role in the long-term success of our efforts to drive commercial adoption of our Ekso GT and to make the Ekso GT a standard of care for rehabilitation for patients with some form of lower limb paralysis or weakness. In order to establish an appropriate robotic exoskeleton coding mechanism as well as gain coverage and payment by payers, the Company and its competitors must generate both clinical and economic evidence demonstrating the benefits of robotic exoskeletons. We believe that the investments we are making in clinical trials will assist in generating this evidence. Generally, reimbursement for professional services performed at the hospital in the out-patient rehabilitation setting is reported under separate billing codes issued by the American Medical Association (“AMA”) known as Current Procedural Terminology (“CPT”) codes. While existing Physical Therapy CPT codes provide modest reimbursement for the use of our technology in the out-patient rehabilitation setting, we are aware of no CPT code that specifically describes robotic exoskeletons. We may determine to pursue an application for a new CPT code. We have engaged the services of expert consultants with extensive experience in CPT coding, coverage and payment to assist us in our reimbursement strategy.
+ 
+
+6
+-
+
+
+
+The European Union also requires a two-track approach to market penetration and subsequent coverage, requiring separate claims for purchasing the device and for requests for reimbursement. We are well represented in clinics run by German and Austrian accident insurers, with four out of 13 rehabilitation sites in Germany and three out of four rehabilitation sites in Austria. We also have a growing number of patients in Europe, who get reimbursement on a case-by-case decision covered by public and private health insurers for in-patient and out-patient treatment. The first paid out-patient trial with an accident insurer in collaboration with an out-patient rehabilitation center, where a patient trains twice a week, has also started in late 2017. This is a model we want to build upon in 2018. We will use these examples to integrate exoskeletal therapy in existing care pathways. In the United Kingdom, the National Institute for Health and Care Excellence (NICE), has selected us as the first exoskeleton company to produce a Medtech Innovation Briefing (MIB), which are designed to support National Health Services (NHS) and social care commissioners and staff who are considering using new medical devices and other medical or diagnostic technologies. The MIB highlighted the innovative aspect of our proprietary SmartAssist software, which differentiates the Ekso GT from other available exoskeletons.
+ 
+
+Current Sales and Marketing Efforts
+ 
+Our key marketing goal today is to achieve broad-based commercial adoption of our Ekso GT in the rehabilitation setting. We are focusing our go-to-market protocols and collateral on our three target audiences: medical administrators, medical directors/therapists and patients. Working closely with thought leaders, we will continue to build upon our early user-group exchanges, develop clinical education programs, and grow our medical advisory council. With the receipt of our clearance from the U.S. Food and Drug Administration (“FDA”) in April 2016, we introduced new strategies and tactics to increase awareness in our target audiences, including leveraging social media, public relations, tradeshows, marketing automation, and market development activities which will continue throughout 2018.
+ 
+There continues to be high market interest in expanding neurosciences service lines. As such, in 2018, our sales priorities are to effectively educate both clinical and executive stakeholders on the economic/clinical value of starting an Ekso GT Robotics Stroke and SCI Rehabilitation Program. In tandem, we will leverage our Ekso GT customer base to educate and mentor target strategic centers that specialize in Stroke and SCI rehabilitation. Geographically, the priorities have been North America (Canada, the U.S., and Mexico) and Europe, the Middle East, and Africa (“EMEA”). Beginning late 2017, we expanded our focus to include Asia-Pacific and initiated an effort to seek a strategic partnership for the sales and manufacture of the Company’s products in China. Currently, we utilize a direct sales force for the U.S., Canada, the United Kingdom, Spain and the German-speaking countries of Europe. We also have an expanding distributor network in EMEA and Central and South America.
+ 
+The sales and marketing team is principally based in the U.S. and Germany and is structured as follows:
+ 
+
+· | One commercial leader for the Americas and one EMEA-based manager for our distributors;
+--+----------------------------------------------------------------------------------------
+
+
+· | U.S. and EMEA sales professionals that pursue new prospects and organizes demonstrations;
+--+------------------------------------------------------------------------------------------
+
+
+· | Clinical professionals/physical therapists that provide peer-to-peer demonstrations and trainings;
+--+---------------------------------------------------------------------------------------------------
+
+
+· | Marketing professionals, graphic designers, and consultants to build awareness and generate demand;
+--+----------------------------------------------------------------------------------------------------
+
+
+· | Ambassadors with spinal cord injury that provide demonstrations and personal experiences.
+--+------------------------------------------------------------------------------------------
+
+ 
+The sales cycle for the Ekso GT averages approximately eight to 12 months for a first device and two to four months for subsequent devices. Our typical sale is the Ekso GT complete package, which includes the device and all relevant components, two sets of batteries for continuous run-time, training through two levels of certification, and SmartAssist software. Customers also typically purchase Ekso Care, which is our one- to four-year after sales service package.
+ 
+After Sales Service
+ 
+We provide service for the Ekso GT at our facility in Richmond, California or in Germany for our European customers. When maintenance or service is required, a customer schedules service by contacting us and we then arrange for the appropriate service, depending on the level of Ekso Care for which a customer has contracted. In some cases we may decide it’s appropriate to have an Ekso field technician fly to the customer site to service the device. The Ekso GT is designed with Ekso Pulse, which allows us to diagnose many customer service issues remotely.
+
+7
+-
+
+Manufacturing and Supply Chain
+ 
+We produce the Ekso GT at our facilities in Richmond, California. We currently run one line for one shift per day and believe we have the capacity to eventually run up to four lines for two shifts per day should we deem it appropriate. The Ekso GT uses over 700 purchased parts, which we source globally from over 70 suppliers. Whenever possible, we seek to secure dual source suppliers for our components.
+ 
+Our commitment to the philosophy of continuous improvement has continued to increase product performance and reliability over the past year. As a result, we expect our cost of field service will continue to decline over the next 12 months.
+ 
+Home Mobility 
+ 
+The dynamics and product requirements of the home mobility market are different from those of the clinic. While we believe the home mobility market opportunity is sizable, it will only be served once next generation technology is brought to market that is cost effective for individuals because reimbursement is available and has a level of functionality that enables independent mobilization. Home mobility exoskeletons should be fitted to a specific patient and designed for all-day use. In addition, we believe they must be easily transportable, and have improved dynamic stability, user interfaces, and terrain navigation to allow the home users to confidently walk through their daily life with little or no assistance. As we continue to develop our commercial experience with a medical exoskeleton in the rehabilitation setting, coupled with recent research and development advancements in exoskeleton and related technologies, we are now investing resources to design such a commercial product and to develop our go-to-market approach for mass adoption of home mobility devices. We are also collaborating with world-class academic and commercial institutions to refine our technology and to apply the latest technological breakthroughs to the advancement of human ambulation.
+ 
+In addition to implementing the technological changes necessary in an exoskeleton designed for the home mobility market, we are in parallel working with payers and ensuring our (and where possible, our partners’) trials are and will be generating clinical and economic evidence on the benefits of exoskeletons for home mobility use. Lastly, the go-to-market strategy will likely be quite different than our current sales and marketing approach for the rehabilitation markets. Critical to our success will be implementing such a strategy, possibly with partner(s), which is sustainable to address the potential size of the market.
+ 
+Able-Bodied Industrial Applications (EksoWorks)
+ 
+In December 2014, we introduced our first prototype of an unpowered exoskeleton intended for industrial applications. During 2015, we began investing resources to support requests for prototype demonstrations and in-depth field-testing in real world conditions with advanced prototypes.
+ 
+Our feedback indicates a growing imperative among construction and manufacturing companies to drive adoption of improved safety and health practices. Furthermore, based on initial customer field-testing and market research, we believe industrial exoskeletons have the potential to help prevent workforce injuries, improve productivity and over time reduce workmen’s compensation and related costs. According to a Bureau of Labor Statistics Report (2012), direct costs related to injuries associated with overexertion in the workplace total over $21.1 billion per year.
+ 
+In addition, human augmentation technology is being viewed by senior managers of companies that have participated in field-testing as an opportunity to extend the careers of experienced and skilled workers while also changing the work environment to attract future workers to these careers.
+ 
+In 2016, we introduced a new product innovation for aerial work platforms (AWP) and scaffolding, the EksoZeroG, which is intended to significantly improve workforce productivity while dramatically reducing workplace related injuries in order to keep workers healthy, strong, and safe. EksoZeroG is a mobile arm mount that makes heavy tools feel weightless and enables workers to be more productive and safer. In 2017, we introduced a second commercial product for industrial applications, the EksoVest, an upper body exoskeleton that elevates and supports a worker's arms to assist them with tasks ranging from chest height to overhead. It is lightweight and low profile, making it comfortable to wear in all conditions while enabling freedom of motion. The goal is for workplaces with the EksoVest to experience fewer on-site injuries while tasks are completed faster and with higher quality results, for workers to stay healthier and experience increased stamina, and for companies to gain greater productivity in factories and on construction sites.
+ 
+
+8
+-
+
+
+
+We believe there is additional mid-to-long-term potential in the industrial markets, and accordingly, we will continue our development efforts to expand our EksoWorks product offerings.
+ 
+Ekso Labs
+ 
+Ekso Labs, our engineering services division, has historically been focused on technology development and future applications. It is an exoskeleton laboratory that integrates emerging technologies into new product applications and expands on it for our partners. To date, the majority of our Ekso Labs revenue has been in the form of research grants from government organizations including United States Special Operations Command, the Defense Advanced Research Projects Agency, the National Institute of Health and the National Science Foundation. These projects fund research and development on new exoskeleton systems, providing us with new intellectual property and exoskeleton designs that have the potential for commercialization.
+ 
+In addition to furthering exoskeleton technology for our current medical applications, Ekso Labs’ research and development work may have potential use in future, able-bodied models of the Ekso human exoskeleton. Many of the research projects funded by grants are focused on researching future medical applications and capabilities not yet ready for commercial development. Other projects, often funded by commercial partners or the U.S. military, focus on able-bodied human exoskeleton applications.
+ 
+In early 2016 we made the strategic decision to shift our engineering resources away from the billable engineering services of Ekso Labs and to our internal development efforts both for our next generation home/wellness device and for able-bodied industrial offerings. As a consequence, in the near term we expect Ekso Labs to play a lesser role than historically.
+ 
+Financial Information About Segments and Geographic Areas
+ 
+We have three reportable segments: Medical Devices, Industrial Sales, and Engineering Services. The segment and geographic information required herein is contained in Note 17 in the notes to our consolidated financial statements, which appear under Item 8 in this Annual Report on Form 10-K, under the caption Segment Disclosures.
+ 
+Intellectual Property
+ 
+The Company has established an extensive intellectual property portfolio that includes various U.S. patents and patent applications. The table below provides a summary of U.S. patents by issuing status and ownership status.
+
+ | Issuing Status | 
+-------------------------------------------------------------------------------------------+----------------+---
+License Status | Issued Patents | | Pending Applications | | Provisional Applications
+Licensed to the Company | | 13 | | 2 | | -
+Exclusively licensed to the Company | | 6 | | - | | -
+Co-owned with Regents of the University of California, exclusively licensed to the Company | | 4 | | - | | -
+Co-owned with the Regents of the University of California | | 3 | | - | | -
+Sole ownership by the Company | | 7 | | 30 | | 2
+Total: 67 | | 33 | | 32 | | 2
+
+
+9
+-
+
+
+
+Pending applications mean a complete application has been filed with the applicable patent authority and additional action is pending. Provisional applications mean that we have filed a short form application to establish an early filing date in anticipation of completion and submission of a complete application in the future.
+ 
+Many of these applications have also been filed internationally as appropriate for their respective subject matter. As of January 4, 2018, 127 applications have issued or have been allowed as patents internationally. All told, our patent portfolio contains 263 cases that have issued or are in prosecution in 23 countries.
+ 
+Our patent portfolio includes product and method type claims, since the devices that we produce and the processes performed by those devices are patentable. Our patents encompass technologies relevant to our devices, including medical exoskeletons, commercial exoskeletons, actuators, and strength-enhancing exoskeletons. The earliest priority date of the portfolio reaches back to 2003, and new applications continue to be filed.
+ 
+Licensors include the Regents of the University of California (“RUC”) and Garrett Brown (as a result of our acquisition of technology of Equipois).
+ 
+The license with RUC consists of two agreements and one amendment covering ten patent cases exclusively licensed to the Company, nine of which have issued and one of which remains in prosecution (the “RUC License Agreements”). Inventions covered by a further three patent applications are co-owned by the Company and RUC, with no license agreement between the Company and RUC. As a result, RUC may license its rights in these patents to a third party. With respect to two of these co-owned patent applications, RUC has licensed their rights in the U.S. to an unrelated third party. The third patent application will need to be fully prosecuted before it can be determined which claims are exclusive to us (through a previous license) and which claims RUC may license to other entities.
+ 
+Pursuant to the RUC License Agreements, we initially paid RUC consideration consisting of $5,000 in cash and 310,400 common shares of Ekso Bionics, and are also committed to pay a 1% royalty on sales, including sales generated by sublicenses. In addition, the RUC License Agreements call for minimum annual payments of $50,000. We do not pay royalties to RUC on products sold or to be resold to the U.S. government.
+ 
+In some cases, as a result of government funding we receive, the patents have a government use license, granting the U.S. government a non-exclusive, non-transferable, irrevocable, paid-up license for use of the inventions for or on behalf of the U.S. government, as is typical in the case of government sponsored research.
+ 
+In connection with our acquisition of assets of Equipois, we assumed the rights and obligations of Equipois under a license agreement with Garrett Brown, the developer of certain intellectual property related to mechanical balance and support arm technologies, which grants us an exclusive license with respect to the technology and patent rights for certain fields of use. Pursuant to the terms of the license agreement, we will be required to pay Mr. Brown a single-digit royalty on net receipts, subject to a $50,000 annual minimum royalty requirement.
+ 
+Intellectual Property Out-Licensing
+ 
+We believe that the breadth of the coverage across various bionic systems and technologies, together with our freedom to grant sub-licenses under the RUC License Agreements gives us the potential to generate licensing revenue in fields outside our present areas of commercialization. Since 2009, we have generated approximately $1.6 million in such licensing revenue from our two licensees: Lockheed Martin Corporation (“Lockheed”) and OttoBock Healthcare Product GmbH (“OttoBock”).
+ 
+The Company receives revenue pursuant to a Government Field Cross License Agreement dated as of July 1, 2013 between Ekso Bionics, Inc. and Lockheed and a Cross License Agreement dated as of July 1, 2013 between Ekso Bionics, Inc. and Lockheed, and previously pursuant to a License Agreement dated January 8, 2009, which was terminated effective as of July 1, 2013. Pursuant to these agreements, the Company has licensed to Lockheed certain rights with respect to its anthropomorphic exoskeleton technology for which Lockheed is obligated to pay Ekso Bionics, Inc. a royalty on sales of products incorporating such technology. Royalty fees from Lockheed were either de minimus or nil for the years ended December 31, 2017, 2016, and 2015, respectively.
+ 
+
+10
+--
+
+
+
+With respect to OttoBock, the Company received exclusivity payments pursuant to the License and Services Agreement dated October 27, 2014. The License and Services Agreement grants OttoBock exclusive rights in order to develop a semi-active prosthetic knee prototype for use in medical prosthetics and provides that OttoBock will pay the Company a royalty based on sales by OttoBock of products incorporating the licensed technology. Royalty fees from OttoBock were $150,000, $100,000 and $100,000 for the years ended December 31, 2017, 2016, and 2015, respectively.
+ 
+Competition 
+ 
+The medical technology and industrial robotics industries are characterized by intense competition and rapid technological change. We believe a number of other companies are developing competitive technology and devices for both the able-bodied and medical fields of use and many of these competitors have significantly more financial and other resources than we possess.
+ 
+In the medical field, we face competition from companies that are focused on technology for rehabilitation of patients suffering from stroke and related neurological disabilities as well as from companies that are focused on SCI. In stroke, Cyberdyne has developed ambulatory exoskeletons with a current commercial focus in Japan and Germany, while Hocoma, AlterG, Aretech and Reha Technology are selling treadmill-based gait therapies. In SCI, ReWalk Robotics and Parker Hannafin sell ambulatory exoskeletons. Other companies who have announced plans to commercialize robotic exoskeletons include: Bionik Laboratories and SuitX.
+ 
+Technologies developed by competitors in the areas of stroke rehabilitation and SCI represent therapeutic interventions with utility at varying points of the continuum of care. Clinically, the Ekso GT is unique in its broad ability to mobilize pre- or even non-ambulatory patients using a full weight bearing, over ground, task-based platform. From a practice management perspective, the Ekso GT is less expensive than many other systems, has a smaller footprint, the ability to move around the hospital, and uses standard power requirements that make it easy to integrate into existing infrastructure. Other over-ground exoskeletons were initially designed for an individual to achieve ambulation reliant on the device. By contrast, the Ekso GT’s design accommodates patients with complete paraplegia and additionally includes features that are optimized to assist therapists in helping patients with some motor ability learn to walk again in a clinical setting, treating several patients and indications in a single day.
+ 
+Notwithstanding the foregoing, the most pressing challenges we face are not necessarily competitive technologies, but rather achieving rapid market awareness and adoption of this emerging technology while acclimating prospects to a fundamentally new paradigm in neuro-rehabilitation and mobility. In addition, it may be difficult for the rehabilitation department of a hospital or clinic to secure the funds for acquisition of an Ekso device in an environment where capital expenditures of this magnitude are not commonly incurred by those rehabilitation departments.
+ 
+In the able-bodied field, Lockheed Martin, Raytheon, BAE Systems, Panasonic, Honda, Daewoo, Noonee, Revision Military and Cyberdyne – among others - are each developing some form of exoskeleton for military and/or industrial applications.
+ 
+The field of robotic exoskeleton technology remains in its infancy. As this field develops, we believe we will face increased competition on the basis of product features, clinical outcomes, price, services and other factors. Our competitive position will depend on multiple, complex factors, including our ability to achieve market acceptance for our products, develop new products, implement production and marketing plans, secure regulatory approvals for products under development and protect our intellectual property. In some instances, competitors may also offer, or may attempt to develop, alternative therapies for disease states that may be delivered without a medical device.
+ 
+Research and Development
+ 
+The Company engages in research and development activities in an effort to enhance the effectiveness, ease of use, safety and reliability of our commercial exoskeletons and to expand their applications. The Company’s research and development expenditures were $9.5 million, $8.9 million and $6.5 million in 2017, 2016 and 2015, respectively.
+ 
+As part of our engineering services (also known as Ekso Labs), we benefited from additional research and development expenditures of $0.6 million and $3.6 million in 2016 and 2015, respectively, and a de minimus amount in 2017. These are expenditures funded by grants, collaboration partners, or engineering services customers for whom we perform research and development work on human exoskeletons and related technologies. Funding has come from such third parties as Lockheed (approximately $6 million since 2008 for the development of the Human Universal Load Carrier (“HULC”)), the U.S. National Science Foundation, the National Institute of Health, the U.S. Defense Advanced Research Projects Agency (“DARPA”), U.S. Special Operations Command (“SOCOM”) and the U.S. Department of Defense.
+ 
+
+11
+--
+
+Governmental Regulation and Product Approval 
+ 
+U.S. Regulation
+ 
+The U.S. government regulates the medical device industry through various agencies, including but not limited to, the FDA, which administers the Federal Food, Drug and Cosmetic Act (“FDCA”). The design, testing, manufacturing, storage, labeling, distribution, advertising, and marketing of medical devices are subject to extensive regulation by federal, state, and local governmental authorities in the United States, including the FDA, and by similar agencies in other countries. Any medical device product that we develop must receive all requisite regulatory approvals or clearances, as the case may be, before it may be marketed in a particular country.
+Device Development, Marketing Clearance and Approval. The FDA classifies medical devices into one of three classes (Class I, II or III) based on the degree of risk the FDA determines to be associated with a device and the extent of control deemed necessary to ensure the device’s safety and effectiveness. Devices requiring fewer controls because they are deemed to pose lower risk are placed in Class I or II. Class I devices are deemed to pose the least risk and are subject only to general controls applicable to all devices, such as requirements for device labeling, premarket notification, and adherence to the FDA’s current good manufacturing practice requirements, as reflected in its Quality System Regulation (“QSR”). Class II devices are intermediate risk devices that are subject to general controls and may also be subject to special controls such as performance standards, product-specific guidance documents, special labeling requirements, patient registries or post-market surveillance. Class III devices are those for which insufficient information exists to assure safety and effectiveness solely through general or special controls, and include life-sustaining, life-supporting, or implantable devices, and devices not “substantially equivalent” to a device that is already legally marketed. Most Class I devices, and some Class II devices are exempted by regulation from the 510(k) clearance requirement and can be marketed without prior authorization from FDA. Class I and Class II devices that have not been so exempted are eligible for marketing through the 510(k) clearance pathway. By contrast, devices placed in Class III generally require premarket approval, or PMA, prior to commercial marketing.
+ 
+To obtain 510(k) clearance for a medical device, an applicant must submit a premarket notification application to the FDA demonstrating that the device is “substantially equivalent” to a predicate device, which is typically a Class II device that is legally marketed in the United States. A device is substantially equivalent to a predicate device if it has the same intended use and (i) the same technological characteristics, or (ii) has different technological characteristics and the information submitted demonstrates that the device is as safe and effective as a legally marketed device and does not raise different questions of safety or effectiveness. A showing of substantial equivalence sometimes, but not always, requires clinical data. Generally, the 510(k) clearance process can exceed 90 days and may extend to a year or more. After a device has received 510(k) clearance for a specific intended use, any modification that could significantly affect its safety or effectiveness, such as a significant change in the design, materials, method of manufacture or intended use, will require a new 510(k) clearance or (if the device as modified is not substantially equivalent to a legally marketed predicate device) PMA. While the determination as to whether new authorization is needed is initially left to the manufacturer, the FDA may review this determination and evaluate the regulatory status of the modified product at any time and may request the manufacturer to cease marketing and recall the modified device until 510(k) clearance or PMA is obtained. The manufacturer may also be subject to significant regulatory fines or penalties.
+ 
+The second, more comprehensive, approval process applies to a new device that is not substantially equivalent to a predicate device or that is to be used in supporting or sustaining life or preventing impairment. These devices are normally Class III devices requiring PMA. The FDA will approve the PMA application if it finds there is reasonable assurance that the device is safe and effective for its intended use. The PMA process takes substantially longer than the 510(k) process, approximately one to two years or more.
+ 
+
+12
+--
+
+
+
+In some instances the FDA may find that a device is new and not substantially equivalent to a predicate device but is also not a high risk device as is generally the case with Class III PMA devices. In these instances, the FDA may allow a device to be reclassified from Class III to Class I or II. The de novo reclassification option is an alternate pathway to classify novel devices of low to moderate risk that had automatically been placed in Class III after receiving a “not substantially equivalent” (NSE) determination in response to a 510(k) notification. The FDCA has also been amended to allow a sponsor to submit a de novo reclassification request to the FDA for novel low to moderate risk devices without first being required to submit a 510(k) application. These types of applications are referred to as “Evaluation of Automatic Class III Designation” or “de novo.” In instances where a device is deemed not substantially equivalent to a Class II predicate device, the candidate device may be filed as a de novo application which may lead to delays in regulatory decisions by the FDA. FDA review of a de novo application may lead the FDA to identify the device as either a Class I or II device and subject to or exempt from 510(k) premarket notification.
+ 
+Clinical trials are generally required to support a PMA or de novo reclassification application and are sometimes required for 510(k) clearance. Clinical trials generally require an investigational device exemption application, or IDE, approved in advance by the FDA for a specified number of patients and study sites, unless the product is deemed a non-significant risk device eligible for more abbreviated IDE requirements. Clinical trials are subject to extensive monitoring, recordkeeping and reporting requirements. Clinical trials must be conducted under the oversight of an institutional review board (IRB), for the relevant clinical trial sites and must comply with FDA regulations, including but not limited to those relating to good clinical practices. To conduct a clinical trial, we also are required to obtain the patients' informed consent in form and substance that complies with both FDA requirements and state and federal privacy and human subject protection regulations. We, the FDA or the IRB could suspend a clinical trial at any time for various reasons, including a belief that the risks to study subjects outweigh the anticipated benefits. Even if a trial is completed, the results of clinical testing may not adequately demonstrate the safety and efficacy of the device or may otherwise not be sufficient to obtain FDA approval to market the product in the U.S. To date, the Ekso device has been the subject of several clinical studies, some sponsored by the Company, as well as non-Ekso-sponsored independent studies conducted by rehabilitation institutions. In addition, we are currently conducting several studies to investigate additional indications for use for the Ekso device, as well as to evaluate clinical and non-clinical outcomes of using the Ekso device.
+ 
+We believe that the Company’s robotic exoskeleton has been appropriately marketed as a Class I 510(k) exempt Powered Exercise Equipment device since it was first sold in the United States in February 2012. On June 26, 2014, the FDA announced the creation of a new product classification for Powered Exoskeleton devices. On October 21, 2014, the FDA published the summary for the new Powered Exoskeleton classification and designated it as being Class II, which requires the clearance of a 510(k) notice.
+ 
+On October 21, 2014, concurrent with the FDA’s publication of the reclassification of Powered Exoskeleton devices, the FDA issued the Company an “Untitled Letter” which informed the Company in writing of the agency’s belief that this new product classification applied to our Ekso GT device. On December 24, 2014, the Company filed a 510(k) notice for the Ekso robotic exoskeleton, which was accepted by the FDA for substantive review on July 29, 2015.
+ 
+On April 4, 2016, we received clearance from the FDA to market our Ekso GT robotic exoskeleton for use in the treatment of individuals with hemiplegia due to stroke, individuals with spinal cord injuries at levels T4 to L5, and individuals with spinal cord injuries at levels of T3 to C7 (ASIA D), in accordance with the device’s labeling. On July 19, 2016, we received clearance from the FDA to expand/clarify the indications and labeling to expressly include individuals with hemiplegia due to stroke who have upper extremity function of at least 4/5 in only one arm. Our prior cleared indications for use statement required that individuals with hemiplegia due to stroke have upper extremity function of at least 4/5 in both arms.
+ 
+Pervasive and continuing regulation. After a device is placed on the market, numerous regulatory requirements apply. These include:
+ 
+
+13
+--
+
+
+· | product listing and establishment registration, which helps facilitate FDA inspections and other regulatory action;
+--+--------------------------------------------------------------------------------------------------------------------
+
+
+· | Quality System Regulation, or QSR, which requires manufacturers, including third-party manufacturers, to follow stringent design, testing, control, documentation and other quality assurance procedures during all aspects of the manufacturing process;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | labeling regulations and FDA prohibitions against the promotion of products for un-cleared, unapproved or off-label use or indication;
+--+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | 510(k) clearance of product modifications that could significantly affect safety or efficacy or that would constitute a major change in intended use of one of our cleared devices;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | medical device reporting regulations, which require that manufacturers comply with FDA requirements to report if their device may have caused or contributed to a death or serious injury, or has malfunctioned in a way that would likely cause or contribute to a death or serious injury if the malfunction of the device or a similar device were to recur;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | post-approval restrictions or conditions, including post-approval study commitments;
+--+-------------------------------------------------------------------------------------
+
+
+· | post-market surveillance regulations, which apply when necessary to protect the public health or to provide additional safety and effectiveness data for the device;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | the FDA's recall authority, whereby it can ask, or under certain conditions order, device manufacturers to recall from the market a product that is in violation of governing laws and regulations;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | regulations pertaining to voluntary recalls; and
+--+-------------------------------------------------
+
+
+· | notices provision regarding corrections or removals.
+--+-----------------------------------------------------
+
+ 
+Advertising and promotion of medical devices, in addition to being regulated by the FDA, are also regulated by the Federal Trade Commission and by state regulatory and enforcement authorities. Recently, promotional activities for FDA-regulated products of other companies have been the subject of enforcement action brought under healthcare reimbursement laws and consumer protection statutes. In addition, under the federal Lanham Act and similar state laws, competitors and others can initiate litigation relating to advertising claims. If the FDA determines that our promotional materials or training constitutes promotion of an un-cleared or unapproved use, it could request that we modify our training or promotional materials or subject us to regulatory or enforcement actions. It is also possible that other federal, state or foreign enforcement authorities might take action if they consider our promotional or training materials to constitute promotion of an unapproved use, which could result in significant fines or penalties under other statutory authorities, such as laws prohibiting false claims for reimbursement. In that event, our reputation could be damaged and adoption of the products would be impaired. 
+ 
+The FDA has broad post-market and regulatory enforcement powers. We are subject to unannounced inspections by the FDA to determine our compliance with the QSR and other regulations.
+ 
+From September 2, 2015 to September 11, 2015, the Division of Bioresearch Monitoring of the FDA’s Office of Compliance conducted an inspection of the Company’s facility in Richmond, California. At the conclusion of the inspection, the FDA issued a Form FDA 483 with observations pertaining to informed consent requirements, reporting of events to FDA, and records maintenance. These observations are inspectional and do not represent a final FDA determination of non-compliance. On October 2, 2015, we responded to the FDA describing the corrective and preventive actions that we have implemented and continue to implement to address the FDA’s observations. Due to the nature of the findings, we do not expect that the Form FDA 483 will result in a warning letter or other action that could interfere with our operations. On March 30, 2016, the FDA accepted our corrective actions for the Form 483 observations that were generated during the FDA inspection.
+ 
+Since January 1, 2017, we have been informed of two adverse events with respect to our Ekso GT devices that are reportable pursuant to the FDA’s medical device reporting, or MDR, regulations. In the first report, it was determined that the device did not cause or contribute to the injury. An evaluation of the second event determined that the device did not malfunction and the patient injury was due to an incorrect setting by the physical therapist. In each case we have filed the required adverse event reports with the FDA.  
+ 
+Failure to comply with applicable regulatory requirements can result in enforcement action by the FDA or other regulatory authorities, which may result in sanctions including, but not limited to:
+ 
+
+
+14
+--
+
+
+· | untitled letters, warning letters, fines, injunctions, consent decrees and civil penalties;
+--+--------------------------------------------------------------------------------------------
+
+
+· | unanticipated expenditures to address or defend such actions
+--+-------------------------------------------------------------
+
+
+· | customer notifications for repair, replacement, refunds;
+--+---------------------------------------------------------
+
+
+· | recall, detention or seizure of our products;
+--+----------------------------------------------
+
+
+· | operating restrictions or partial suspension or total shutdown of production;
+--+------------------------------------------------------------------------------
+
+
+· | refusing or delaying our requests for 510(k) clearance or premarket approval of new products or modified products;
+--+-------------------------------------------------------------------------------------------------------------------
+
+
+· | operating restrictions;
+--+------------------------
+
+
+· | withdrawing 510(k) clearances that have already been granted;
+--+--------------------------------------------------------------
+
+
+· | refusal to grant export approval for our products; or
+--+------------------------------------------------------
+
+
+· | criminal prosecution.
+--+----------------------
+
+Foreign Regulation
+ 
+In addition to regulations in the U.S., we will be subject to a variety of foreign regulations governing clinical trials and commercial sales and distribution of our products in foreign countries. Whether or not the Company obtains FDA approval for a product, we must obtain approval of a product by the comparable regulatory authorities of foreign countries before the Company can commence clinical trials or marketing of the product in those countries. The approval process varies from country to country, and the time may be longer or shorter than that required for FDA approval. The requirements governing the conduct of clinical trials, product licensing, pricing and reimbursement vary greatly from country to country.
+ 
+The policies of the FDA and foreign regulatory authorities may change and additional government regulations may be enacted which could prevent or delay regulatory approval of our products and could also increase the cost of regulatory compliance. We cannot predict the likelihood, nature or extent of adverse governmental regulation that might arise from future legislative or administrative action, either in the U.S. or abroad.
+ 
+Employees
+ 
+As of December 31, 2017, we had 92 employees, including 89 full time employees and three part-time employees. Nine employees reside in Europe. None of our employees are covered by a collective bargaining agreement and we consider our relationship with our employees to be good.
+Corporate Information
+ 
+We were incorporated as PN Med Group Inc. in Nevada on January 30, 2012. Prior to the Merger and Split-Off (each as defined below), our business was to distribute medical supplies and equipment in Chile.
+ 
+On January 15, 2014, our wholly-owned subsidiary, Ekso Acquisition Corp., a corporation formed in the State of Delaware on January 3, 2014 merged with and into Ekso Bionics, Inc., a corporation incorporated in the State of Delaware on January 19, 2005. Ekso Bionics was the surviving corporation in the Merger and became our wholly-owned subsidiary. All of the outstanding Ekso Bionics stock was converted into shares of our common stock.
+ 
+In connection with the Merger and pursuant to a split-off agreement and general release, we transferred our pre-Merger assets and liabilities to our pre-Merger majority stockholders, in exchange for the surrender by them and cancellation of 2,497,586 shares of our common stock (the “Split-Off”), after adjusting to give effect to the 1-for-7 reverse stock split, discussed in Note 13 in the notes to our consolidated financial statements, which appear under Item 8 in this Annual Report on Form 10-K, under the caption Capitalization and Equity Structure – Reverse Stock Split.
+ 
+As a result of the Merger and Split-Off, we discontinued our pre-Merger business and acquired the business of Ekso Bionics, and have continued the existing business operations of Ekso Bionics as a publicly-traded company under the name Ekso Bionics Holdings, Inc.
+ 
+Our principal executive office is located at 1414 Harbour Way South, Suite 1201, Richmond, California, and our telephone number is (510) 984-1761.
+ 
+We make available free of charge on or through our website our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and all amendments to those reports as soon as reasonably practicable after they are electronically filed with, or furnished to, the SEC. Our internet address is www.eksobionics.com. This website address is intended to be an inactive, textual reference only; none of the material on this website is part of this Report. Copies of our annual reports on Form 10-K will be furnished without charge to any person who submits a written request directed to the attention of our Secretary, at our offices located at 1414 Harbour Way South, Suite 1201, Richmond, California, 94804. The SEC maintains an internet site (http://www.sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC.
+ 
+
+15
+--
+
