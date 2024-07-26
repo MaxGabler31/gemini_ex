@@ -1,0 +1,482 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Overview
+ 
+We are a medical technology company focused on the development of products for the treatment of neurological symptoms caused by disease or trauma. We seek to develop, license or acquire unique and noninvasive platform technologies that amplify the brain’s ability to heal itself. 
+ 
+Many patients with brain injury or brain-related disease have disrupted neural networks that result in their brains being unable to correctly or efficiently carry neural impulses, which are responsible for directing bodily functions like movement control or sensory perception. Our first product in development, known as the portable neuromodulation stimulator or PoNS®, device, is designed to enhance the brain’s ability to compensate for this damage. The PoNS Treatment is a combination of our PoNS device and functional, targeted physical or cognitive therapy, and is currently being developed for the treatment of movement, gait and balance disorders in patients with traumatic brain injury, or TBI, and other chronic neurological diseases.
+
+We recently completed our registrational clinical trial of the PoNS Treatment for mild- to moderate TBI, in which we observed statistically and clinically significant increases in composite sensory observation test scores. Based on the safety and efficacy results from this clinical trial, we intend to submit a request for FDA marketing authorization for the treatment of chronic balance deficit due to mild- to moderate-TBI via the FDA’s de novo classification process in the first half of 2018.  In addition, we intend to submit applications for marketing authorizations in Canada, the European Union and Australia during the first half of 2018.
+ 
+The PoNS Treatment
+ The PoNS Treatment consists of an investigational medical device that is comprised of two major components, an electric pulse generator and a replaceable mouthpiece combined with physical or cognitive therapy. The PoNS device delivers specially-patterned electrical stimulation developed to mirror nerve impulses to the brain through 143 gold-plated electrodes on the mouthpiece which is placed on the tongue. For 20 minutes the electrical stimulation, called translingual neurostimulation, is coupled with physical or cognitive therapy, which consists of condition specific physical, relaxation and cognitive exercises, based on the patient's functional deficits. Clinical research has shown that electrical stimulation of the tongue activates two major cranial nerves – the lingual nerve, a part of the trigeminal nerve, and the chorda tympani, a part of the facial nerve. Electrical stimulation of the cranial nerves creates a flow of neural impulses that are then delivered directly into the brain stem and cerebellum – the main control centers for multiple life functions including sensory perception and movement. From the brain stem, these impulses travel throughout the brain and activate or reactivate neurons and structures involved in human function such as the cortex, spinal cord and potentially the entire central nervous system. Researchers believe that sustained stimulation initiates a sequential cascade of changes in the actual interconnected nuclei, or neuronal network, the fundamental connections between the anatomical components of the brain.  The PoNS device is also a smart device with built in technology to allow tracking of the patient use, including time and intensity of treatments.
+Design
+ The PoNS device is ergonomically designed for patient comfort, is relatively light, contains a replaceable hygienic mouthpiece, and a rechargeable battery with built-in technology that allows for technical data logging and communications. See Figure 1.
+Figure 1
+ The portable neuromodulation stimulator, PoNS device
+ 4
+
+The mouthpiece of the PoNS device is held lightly in place by the lips and teeth around the neck of the tab that goes into the mouth and rests on the anterior and superior part of the tongue. See Figure 2.
+Figure 2
+ A rechargeable lithium polymer battery with built-in charge safety circuitry provides power. While the voltage and pulse timing to each electrode are programmed into the device and cannot be altered, the stimulus intensity can be adjusted by the user. The sensation produced by the array is similar to the feeling of drinking a carbonated beverage. The patented waveform is specifically designed to minimize the potential for tissue irritation.
+Concurrent Use with Physical or Cognitive Rehabilitation
+ We have designed the PoNS Treatment whereby the PoNS device is used in conjunction with physical or cognitive rehabilitation, typically delivered for two weeks in the clinic followed by use by the patient at home.  The PoNS device has a design feature that stops delivering treatment every 14 weeks, thus requiring the patient to return to their physician or physical therapy center, or PTC, for assessment of their progress, reestablishment of challenging physical therapy to achieve higher goals and download of utilization data, which we believe will be helpful for reimbursement and future research. We currently expect the PoNS device to be inspected visually by the physical therapist, reset for another 14 weeks of treatment if necessary, and the mouthpiece replaced with a new one to reduce the likelihood of degradation of the electrodes. We expect this business model feature to ensure proper support for patients in the early phase of their treatment.
+ We expect physicians will be informed to prescribe the PoNS Treatment, which includes both the PoNS device and a prescription to work with PTCs who are trained and PoNS-certified. We anticipate supporting the launch of the PoNS Treatment with the development and implementation of a hub services center with online and offline elements to help facilitate the healthcare transaction.
+ Upon completion of the in-clinic portion of the PoNS Treatment, which is normally two weeks, patients are expected to be monitored in their home treatment through the PTCs. At the end of their prescribed treatment, we expect patients to be directed back to their physician for assessment and then return to the PTC for additional treatment as necessary including replacement of the mouthpiece if continued treatment is deemed necessary.
+ PoNS Trials in TBI
+ During the third quarter of 2017, we completed our re
+gistrational clinical trial in mild- to moderate- TBI, which was a double-blind randomized, controlled study of the safety and effectiveness of the PoNS Treatment for translingual noninvasive neuromodulation stimulation training in subjects with chronic balance deficit due to mild- to moderate- TBI. 
+ The study, which was launched in the third quarter of 2015 in conjunction with the U.S. Army Medical Research and Materiel Command, was conducted at seven sites in the United States and Canada. The trial evaluated a total of 122 randomized subjects, with ages between 18 and 65 years. Each subject received five weeks of treatment, two weeks in-clinic and three weeks at home with the treatment consisting of physical therapy with either a high-frequency pulse (25.7 million pulses per 20-minute treatment), or HFP, PoNS device or a low-frequency pulse (13,728 pulses per 20-minute treatment), or LFP, PoNS device.  While the intensity of the pulses between the HFP and the LFP were identical, the frequency of the pulses was different between the two devices.
+ 5
+
+All subjects for the trial were at least one-year post injury to ensure spontaneous recovery was unlikely. To be considered for the study, all subjects had to have participated in a focused physical rehabilitation program for the TBI-related balance disorder and been deemed by the treating clinician to have reached a plateau and yet continued to have significant balance issues as they entered the trial. 
+ An objective balance assessment is performed using the Composite Score from the NeuroCom Sensory Organization Test, or SOT, which measures balance using computerized sensors that measures participants’ ability to maintain balance under six different conditions. This was used as the efficacy endpoint for the trial. The SOT is a widely used measurement tool for balance disorder associated with TBI.  A responder was defined as a subject with an improvement of at least 15 points on the composite SOT score at five weeks of PoNS Treatment when compared to their baseline score.  According to published, independent third-party data, patients receiving physical therapy alone to treat balance disorders related to TBI improve by 8-10 points on the composite SOT, and patients tend to drift back to their baseline disability when physical therapy is discontinued.  It would be expected that if the PoNS Treatment was not effective that the improvement in SOT score in our patient population would be greater than 8-10 points compared with the patient score at the start of the trial.
+ The statistical analysis plan contemplated how to analyze the efficacy data based on the results of the comparison between the HFP and LFP PoNS device groups.  There were three possible scenarios: 
+  
+• | The two devices would produce a response that was not statistically different from each other and neither device was effective at producing a 15-point SOT response (failed study).
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | One device would be statistically superior to the other and produce a 15-point response in the SOT (positive study).
+--+---------------------------------------------------------------------------------------------------------------------
+
+
+• | The two devices would produce a response that was not statistically different from each other and both produced a significant response greater than 15 points (positive study). This third scenario is what happened in out trial. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Since scenario three was the outcome of the primary endpoint of the study, the statistical analysis plan prospectively dictated that the secondary endpoint would be calculated by combining the two groups and comparing the response to baseline at week two and week five.  
+ Secondary effectiveness endpoints demonstrated statistically and clinically significant increases (at least 8 points) in composite SOT scores:
+  
+o | The mean improvement at two weeks for combined-arms was 18.3 points, p<0.0005.
+--+-------------------------------------------------------------------------------
+
+
+o | The mean improvement at five weeks for combined-arms was 24.6 points, p<0.0005.
+--+--------------------------------------------------------------------------------
+
+ The primary safety endpoint was an improvement in the frequency of falls, as determined by daily event recording on the subject data case report form during the in-clinic phase of the study. The secondary safety endpoint was the frequency and severity of headaches, as measure by the Headache Disability Index at baseline and at the end of treatment, which was at week five.
+  
+• | We successfully met the primary and secondary safety endpoints as measured by a decrease in falls and headaches, in both treatment groups.
+--+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | There were no serious device related adverse events.
+--+-----------------------------------------------------
+
+ PoNS Long-Term Treatment Study
+ This study was performed to understand the durability of treatment response. This double-blind randomized controlled study in patients with mild- to moderate- TBI was completed in May 2017 at the Tactile Communication Neurorehabilitation Laboratory at University of Wisconsin-Madison and was sponsored by the U.S. Army. The study was conducted with 22 patients using the HFP PoNS device and 21 patients using the LFP PoNS device with 14 weeks of active treatment followed by a 12-week washout period after which final SOT scores were captured.
+ Highlights of the study results were as follows:
+  
+• | There was no statistical difference between the HFP and LFP PoNS device groups in the trial supporting the results of the registrational clinical trial.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | On average, participants entered the study with an SOT score of approximately 40, which is a score that indicates profound disability due to impaired balance.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | At the end of 14 weeks of active treatment with the HFP PoNS device group, patients showed improvements on average of 29.7 points on the SOT score, which put the participants within the normal range of SOT score after 14 weeks of treatment.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Participants then discontinued treatment and were told to resume normal lifestyle for another12 weeks and were monitored on a weekly basis. The participants, on average, maintained the benefit of the treatment throughout the 12-week withdrawal period.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 6
+
+ Conclusion:
+  
+• | The study demonstrated that the PoNS Treatment with the HFP PoNS device could, on average, make patients who were profoundly disabled at entry into the study, achieve a SOT score in the normal range from a balance perspective in 14 weeks and maintain that benefit after a 12-week washout period, supporting the durability of the response to the treatment and the potential restoration of the balance system.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ With the completion of our registrational clinical trial, we expect to complete the verification and validation for device design and manufacturing to meet the requirements of the applications for commercial distribution, and submit applications for marketing authorizations for the treatment of balance disorder in mild- to moderate-TBI, with the FDA, Health Canada, CE Mark in Europe and the Therapeutic Goods Administration in Australia during 2018.
+ Planned Studies
+ Multiple Sclerosis
+ According to the National Multiple Sclerosis Society, there are approximately one million individuals in the United States living with MS, for an annual economic cost of MS in the United States of approximately $28 billion, many of whom experience balance problems. Studies from several countries estimate that 50% to 70% of MS patients had reported falls within the past two to six months.
+ The FDA has determined that we must obtain an investigational device exemption, or IDE, prior to commencing any clinical trial of the PoNS Treatment in MS patients in the United States.  We intend to commence a registrational clinical trial of the PoNS Treatment in MS patients with balance and gait deficit in the second half of 2018, contingent on the availability of funding and the timing of our submission and approval of our IDE by the FDA. 
+ Stroke
+ Stroke is the third leading cause of death in the United States, with approximately 795,000 annual episodes, resulting in approximately 140,000 deaths. The term “stroke” or “brain attack” implies brain tissue has been destroyed – because one of the vessels that provide oxygen and nutrients to the brain has ruptured or become blocked by atheromatous plaque or a blood clot traveling from elsewhere in the body, often due to an irregularly beating heart. Whichever mechanism leads to a stroke, the end result is the same; death of brain tissue and variable disability depending on what parts of the brain have been affected.  This might be the inability to feel or move a part of the body, to speak, think, or many other symptoms. Acute treatment consists of maneuvers including drugs, interventional radiology or surgery to stop bleeding or remove blockages. Thereafter, therapy is focused on trying to help the patient recover use of disabled anatomy with physical therapy or learn to overcome disability with occupational therapy. We are determining next steps for our studies of the PoNS Treatment for stroke patients, which are subject to the availability of funding.
+Cognition
+ In December 2016, we announced, based on preliminary, encouraging results, the expansion of our comprehensive study in healthy adults to measure the benefit of investigational PoNS Treatment on physiological improvements associated with cognition. The study was conducted at HealthTech Connex Inc, or HTC, in Surrey, BC. HTC also collaborated with us to explore whether a single, twenty-minute session of two PoNS stimulation waveforms - high frequency, or HF, and low frequency, or LF - impacted objective measures of brain activity recorded by high density 64-channel electroencephalography, or EEG, and whether there were differences between the two PoNS stimulation waveforms. The study in neurologically intact volunteers showed that:
+
+• | EEG results showed that translingual neurostimulation delivered through the PoNS device generated significant differences in brain activity.
+--+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Statistically significant increases in alpha and theta frequency power were observed in the post-stimulation rest period for HF group, suggesting a lasting exposure effect.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Statistically significant increases in alpha waveform power pre- to post-stimulation were present when both HF and LF groups were evaluated together.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Significant increases in attentional microstate activity were seen in the HF group. The effects began during PoNS stimulation and continued to increase to the level of significantly greater than baseline following stimulation.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ These findings confirmed several important assumptions about the PoNS technology, most importantly, being that a single PoNS stimulation session has an impact on brain activity, and the results also provide insights on the differences between PoNS waveforms and potential opportunities for research that will continue to drive improved and more effective patient experiences and results.
+ 7
+
+Further Studies
+ Given the likely mechanism of action of PoNS Treatment, we are exploring a range of other clinical applications including Parkinson’s Disease, cognitive disorders, the treatment of addiction, xerostomia and other neurological conditions. We will require additional funding, in the form of grants and partnerships with collaborators, to expand our clinical development.
+ Our Partnership with the U.S. Army
+ In July 2015, we entered into a sole source cost sharing agreement, or the U.S. Army Agreement, with the U.S. Army for the commercial development of the PoNS Treatment for chronic balance deficits related to mild- to moderate-TBI. Pursuant to the U.S. Army Agreement, the laboratories of the U.S. Army Medical Material Agency, or USAMMA, and the U.S. Army Medical Research and Material Command, or USAMRMC, the “Army Laboratories,” agreed to cooperate with NHC, our wholly-owned subsidiary, on clinical studies and regulatory responsibilities necessary to obtain FDA marketing authorization for this indication.  Under the U.S. Army Agreement, NHC is the sole regulatory sponsor and will oversee and execute all required clinical studies. Further, the U.S. Army will reimburse NHC for the initially budgeted costs related to the registrational clinical trial of the safety and effectiveness of the PoNS Treatment for chronic balance deficits related to mild to moderate TBI, up to a maximum amount of $3.0 million. The U.S. Army Agreement terminates on December 31, 2018 unless the parties agree to extend the term.
+ We previously entered into a collaborative relationship with the U.S. Army, pursuant to a February 2013 cooperative research and development agreement as amended, or the CRADA, to determine if the PoNS Treatment could be developed for commercial use in the treatment of soldiers and others with a variety of military-relevant neurological manifestations of TBI, including tinnitus, post-traumatic stress disorder, pain and any subsequent indications identified by the parties. Under the CRADA, NHC is the sole regulatory sponsor of the PoNS Treatment, and the Army Laboratories provide support for the execution of clinical studies for FDA marketing authorization. 
+ Based on our research and development work performed under the CRADA, we intend to initially seek FDA marketing authorization only for treatment of patients with chronic balance deficits due to mild- to moderate-TBI. Should we obtain FDA marketing authorization for this indication, we plan to develop the PoNS Treatment to treat other indications caused by neurological disorders. We would sponsor the regulatory process for these additional indications, but the Army Laboratories has agreed to support the execution of required studies. The amount of such support, if any, and the terms of such responsibility to support such studies are not yet negotiated, and we have no assurance that we can ultimately reach agreement with the Army Laboratories on such amount or terms of support. There can be no assurance that the Army Laboratories will not otherwise attempt to renegotiate its responsibilities under the U.S. Army Agreement or the CRADA.
+ The CRADA may be terminated by NHC or the Army Laboratories unilaterally at any time by providing the other party written notice at least 30 days prior to the desired termination date. The CRADA is subject to a four-year automatic extension as required for both FDA marketing authorization in the event that a pre-market approval application with the FDA is required, as well as for commercialization of the PoNS Treatment. The CRADA terminates on December 31, 2018 unless the parties agree to extend the term. We are required to commercialize the PoNS Treatment by December 31, 2021.
+ As of December 31, 2017, we have received a total of approximately $3.0 million with respect to reimbursements for expenses owed to the us for completion of development milestones, of which $0.2 million of the total received has been recorded as an advance against the fifth and final milestone. All reimbursement amounts received are credited directly to research and development expenses. 
+ Manufacturing
+ We presently have relationships with three vendor partners on the design, development and manufacturing of the PoNS device: Cambridge Consulting, LLC, or Cambridge, Ximedica, LLC, or Ximedica and Key Tronic Corporation, or Key Tronic.  Ximedica was our original design and development and clinic unit manufacturing partner. In January 2017, we entered into an agreement with Cambridge, pursuant to which Cambridge assumed responsibilities for the design and development, performance of the engineering and design verification testing of the PoNS device and documentation support for the FDA submission, and to assist in the identification of, and transition to, our commercial-scale manufacturer.  
+ On December 29, 2017, we selected Key Tronic as our contract manufacturing partner for the PoNS device after a competitive selection process. The commercial design of the PoNS device will be manufactured and assembled at Key Tronic’s facilities located in Oakdale, Minnesota. Key Tronic will manufacture devices for engineering and design verification testing as well as build launch inventory.  Key Tronic has multiple locations across the United States, Mexico and China with back-up manufacturing capabilities to help mitigate the risk of a single source provider. We remain ultimately responsible for the compliance of our submissions and products, and activities performed on our behalf.
+ We place an emphasis on protecting our patented technology, trade secrets and know-how and only share confidential information on an as needed basis. Ximedica and Key Tronic are registered as medical device manufacturers in good standing with the FDA and along with Cambridge are certified in accordance with International Organization for Standardization, or ISO, 13485, a comprehensive quality 
+ 8
+
+management system for the design and manufacture of medical devices.  In addition, on November 30, 2016, NHC received our ISO 13485 certification.
+ Commercialization
+ We believe that, due to the lack of non-invasive devices currently on the market, if commercialized, the PoNS Treatment will be the first and only treatment that addresses the high unmet needs of brain injury patients with balance disorders.
+ PoNS in Civilian Population
+ In the United States, there are approximately five million patients suffering from chronic symptoms due to TBI, of which approximately 40% have balance and gait disorder as their primary complaint. By definition all TBIs are the result of an accident, with the patient’s workers’ compensation responsible for the medical and income replacement costs for those injured at work. 
+ Our commercialization strategy is premised on leveraging workers’ compensation, or WC, payers to drive early reimbursements and entice disability, Medicaid/Medicare and other commercial payers to study the experience in the WC market to help accelerate support for coverage under Medicaid/Medicare. As the PoNS Treatment has been deemed a non-significant risk device study for TBI, under Institutional Review Board, or IRB, supervision we intend to launch clinical experience programs for TBI patients to develop and test our commercialization strategy prior to FDA clearance and launch.  Specifically, we intend to undertake the following:
+  
+• | Engage with target WC payers to demonstrate the health economic benefit of a 14-week PoNS Treatment.
+--+-----------------------------------------------------------------------------------------------------
+
+
+• | Engage high visibility neurorehabilitation clinics to participate in clinical experience programs to accelerate commercial infrastructure at launch.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Leverage new patients in hospital/clinic systems to build clinic revenues by providing other non-PoNS related services such as MRIs, sleep therapy or other complimentary services. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ In addition, we intend to leverage high demand and hospital/clinic system savings to drive premium pricing for the PoNS Treatment, as well as target our marketing activity at physical therapy clinic systems to drive demand into their system, by negotiating exclusivity for a given territory and time-period. Further, we intend to leverage the clinic system equity to target physical therapy clinic referral base for an efficient deployment of our sales representatives.
+ Our clinical experience program contemplates identifying “clinical centers of excellence” around the country and conducting training with these centers in the use of the PoNS device along with the specific therapeutic protocol, with participants selected based on an established criterion. This would also be reinforced with patient, clinician and claim staff outreach and education.
+ PoNS in the U.S. Army
+ The U.S. Army’s interest in the PoNS Treatment stems from the high incidence of TBI in soldiers and the fact that there are few proven, effective treatments available for those soldiers who suffer from chronic TBI symptoms. While the number of cases of TBI among active duty personnel may vary based on troop levels maintained by the federal government, our primary target market will be the large number of retired soldiers within the Veteran’s Administration, or VA, system who suffer from chronic TBI symptoms as this population is less subject to material, year-to-year fluctuation. Based on the U.S. Army’s indication of interest, we estimate that there is a sufficient potential market of active duty and retired soldiers who could potentially benefit from the PoNS treatment due to their chronic TBI symptoms. However, the U.S. Army is not under any obligation to purchase our product under the U.S. Army Agreement, the CRADA or any other agreement with us, and there is no assurance that the U.S. Army will ultimately purchase our product, even if we do demonstrate effectiveness and obtain FDA marketing authorization.
+ If it ultimately decides to purchase the PoNS Treatment from us, we expect that the U.S. Army would deploy the treatment to active duty personnel through their rehabilitation centers under orders from the central medical command. All personnel are expected to be certified PoNS therapists supported by live, paper and video-based training materials developed through this project by the U.S. Army. We also intend to pursue other military organizations in relevant countries based on need and size of potential deployment.
+ As part of our clinical experience program we intend to also focus on the nation’s defense and veterans brain injury centers which is comprised of a network of eighteen centers, operating out of thirteen military treatment facilities and five Department of Veterans Affairs medical centers. We intend to establish pre-launch clinical experience programs in certain select centers.
+ PoNS Outside the United States
+ We intend to commercialize the PoNS device outside the United States, subject to approval by foreign regulatory authorities.  We will evaluate the benefits of commercialization in certain territories either independently or with collaboration partners.  For example, we intend to enter into a definitive exclusive license agreement with A&B (HK) Company Limited to commercialize the PoNS device in certain Asian countries.
+ 
+9
+
+Competition
+ The neurostimulation market is predominately comprised of invasive technologies that are growing but are not directly competitive with our technology. Our competitors in the industry are predominantly large, publicly-traded companies that have a history in the market, have significantly easier access to capital and other resources and have an established product pipeline. The combined clinical research and product development done by the industry, including by us and all of our competitors, is uncovering the secrets of neuro-modulation which now establishes neurostimulation as a legitimate and scientifically validated approach to the treatment of neurological conditions, and accordingly, we expect for competition in the non-invasive space to grow in the future. However, we believe that we will have the first-mover advantage in the non-invasive neurostimulation space.
+ We believe that the PoNS Treatment introduces an innovative target and method of stimulation because targeting the tongue for neurostimulation provides several clear advantages that competitively distinguish the PoNS Treatment, which are discussed below. 
+ Advantages of the PoNS Treatment
+ We believe that the PoNS Treatment offers the following benefits over existing neuro-stimulation technologies:
+  
+• | The PoNS Treatment stimulates the trigeminal nerve which developing science has implicated to be beneficial in some neurological disorder models. The PoNS Treatment stimulates the lingual part of the nerve through the tongue, while other technologies stimulate other branches of the trigeminal nerve. It is the largest branch, having the highest amount of nerve fibers of the three branches. We believe this will be an advantage in therapy.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Stimulating the tongue also allows for the simultaneous stimulation of a second cranial nerve found in the tongue, the facial nerve. The ability to stimulate more than one nerve alone differentiates us from our competition. However, it has not been scientifically proven that stimulating additional nerves adds to the efficacy or safety of the treatment.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The tongue has an anatomically unique surface with a high density of receptors, a consistently moist and conductive environment, constant pH, constant temperature and a direct connection to the brain through at least two cranial nerves.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | We believe that the trigeminal and facial cranial nerves offer a high-bandwidth pathway for impulses to directly affect the central nervous system. The trigeminal and facial nerves project directly onto several areas of the brain, primarily the brainstem (trigeminal and solitary nuclei), cerebellum, cochlear nuclei and spinal cord. Secondary targets include the limbic system, basal ganglia and thalamus. We believe that this range of projections allows impulses be sent through sites regulating dozens of functions.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Unlike deep brain stimulation devices, implantable vagal nerve devices and other invasive forms of electrical stimulation, the tongue allows for neurostimulation to be delivered non-invasively and portably. This opens the door for integration of neurostimulation with a wide range of therapies previously unexplored for neurological rehabilitation.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Reimbursement
+ With the completion of our registrational clinical trials and should we obtain FDA marketing authorization for the treatment of balance disorder in mild- to moderate-TBI, and ultimately receive customer orders for the PoNS Treatment, we plan to submit applications for appropriate reimbursement codes so that insurers, including WC payers, disability payers, commercial payers, Medicare and Medicaid, are able to pay for the treatment. We plan to seek coverage and reimbursement of the PoNS Treatment as a whole, applying for reimbursement codes for the combination of stimulations and the associated physical or cognitive therapy. There are complex laws, regulations and guidance that set forth Medicare coverage and reimbursement policies. To help us navigate the regulatory complexities, we have engaged consultants to assist us with our reimbursement strategy.
+ From time to time, Congress enacts laws that impact Medicare coverage and reimbursement policy. In addition, the Centers for Medicare & Medicaid Services, or CMS, regularly engage in rulemaking activities and issues instructions and guidance that may affect Medicare coverage and reimbursement policy. Similarly, the federal and state governments may enact future laws or issue regulations or guidance that may impact Medicaid coverage and reimbursement policies, or the coverage and reimbursement policies of private insurers. We must ensure that we are in full compliance with all applicable requirements, and that we remain abreast of potential legislative or regulatory developments that could impact our business. For all payers, the PoNS Treatment must fit within an identifiable coverage category and fully meet the requirements of such category.
+ We initially intend to leverage what we learn from our clinical experience programs and seek coverage for the PoNS Treatment through workers’ compensation and disability insurance, for those injured through work or leisure. We intend to contract with WC payers and third-party administrators for a 14-week PoNS Treatment unit and at the same time contract with some of the large rehabilitation centers in the United States who will provide the physical therapy.  We believe that the WC case managers have the ability to identify potential patients for the treatment and refer those patients to physicians for a prescription to be generated and a PoNS certified physical therapy center identified.  At the end of the 14-week treatment, patients will return to their physician for evaluation of their progress and future 
+ 10
+
+needs. It is also possible that in some states the physical therapist would undertake the evaluation. We believe that this process should enable us to get reimbursement faster than the time experienced by other medical devices.
+ We understand that the process for obtaining coverage from commercial and public payers could be up to a 24-month process from the time a medical device receives marketing authorization.  We intend to begin pursuing such coverage upon clearance and will be guided by our experiences in working through the WC process as there are many pathways to consider. As part of the coverage process, we may have to submit an application request to CMS, to revise the Healthcare Common Procedure Coding System, or HCPCS, level II national code set so that the PoNS Treatment becomes eligible to be covered and reimbursed, not only by Medicare, but by other public and private payers.  The HCPCS Level II Code Set is a standardized coding set used for claims submitted to public and private payers that identifies products, supplies and services. At present, we do not believe that the PoNS Treatment would fit easily within an existing HCPCS code as the PoNS Treatment requires the combination of stimulation and targeted physical therapy. Thus, we are considering submitting a request to CMS for a new HCPCS code and are evaluating our options with our consultants. An applicant can request that (i) a new permanent code be added to the HCPCS level II national code set; (ii) the language used to describe an existing code be modified; or (iii) an existing code be deleted.  However, prior to submitting the coding request application, we must satisfy several criteria, including but not limited to receiving documentation of the FDA’s marketing authorization of the device and have sufficient claims activity or volume in the United States (evidenced by 3 months of marketing activity).  The national codes are updated annually.  Coding requests must be received by January 3 of the current year to be considered for the January update of the following year.
+ At launch, we will support our customers with hub services to aid in submitting the expense to private insurers as well as the communication between the patient, physician and physical therapist.  The PoNS device is a smart-device with built in technology to allow tracking of patient use including time and intensity of treatments.  We have also created a device management application which allows the physical therapist to gather the information from the device on the patient’s usage to guide further treatment option discussions with the patient’s physician.  This data can also be used to support reimbursement and coverage decisions by insurance carriers.
+ In addition, Medicare and other insurers must find that the PoNS Treatment is medically reasonable and necessary for the treatment of patients’ illness or injuries.  If Medicare and other insurers find that the PoNS Treatment does not meet their medical necessity criteria, it will not be reimbursed.  Medicare and commercial insurers must also develop a payment amount for the PoNS Treatment.  If that amount is inadequate to cover the costs of the PoNS Treatment, healthcare providers will be unlikely to use this therapy.
+ 11
+
+Intellectual Property
+ Licensed Intellectual Property
+ Pursuant to the Second Amended and Restated Patent Sub-License agreement dated June 6, 2014 entered into between Advanced NeuroRehabilitation LLC, or ANR, and NHC, ANR has granted NHC a worldwide, exclusive license to make, have made, use, lease and sell devices utilizing certain patent applications, which are collectively referred to as the “Patent Pending Rights.” The Patent Pending Rights relate to the PoNS device and include the following patents and patent applications, which cover a device that noninvasively delivers neurostimulation through the skin or intra- orally to the brain stem via various nerves including the trigeminal and facial nerves: 
+
+U.S. Patent Application No. | Application Filing Date | Status | U.S. Patent No. | | Issue Date | | Subject Matter 
+----------------------------+-------------------------+---------+-----------------+-----------+------------+-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12/348,301 | 1/4/2009 | Issued | | 8,849,407 | | 9/30/2014 | | non-invasive neurostimulation of the skin combined with simultaneous physical therapy to provide neurorehabilitation of a patient to treat various maladies including, e.g., TBI, stroke and Alzheimer’s disease 
+14/340,144 | 7/24/2014 | Issued | | 8,909,345 | | 12/9/2014 | | non-invasive neurostimulation within a patient’s mouth combined with physical therapy to provide neurorehabilitation of a patient to treat various maladies including, e.g., TBI, stroke, and Alzheimer’s disease 
+14/341,141 | 7/25/2014 | Issued | | 9,020,612 | | 4/28/2015 | | non-invasive neurostimulation within a patient’s mouth combined with cognitive therapy to provide neurorehabilitation of a patient resulting in improved reading comprehension and increased attention span as well as the treatment various maladies including, but not limited to, TBI, stroke, and Alzheimer’s disease
+14/615,766 | 2/6/2015 | Issued | | 9,656,078 | | 5/23/2017 | | non-invasive neurostimulation within a patient’s mouth combined with stimulation of the patient’s vision, hearing, vestibular systems, or somatosensory systems for the treatment of tinnitus 
+14/689,462 | 4/17/2015 | Issued | 9.597,501 | | 3/21/2017 | | non-invasive neurostimulation of a patient’s skin combined with cognitive therapy to provide neurorehabilitation of a patient resulting in improved reading comprehension and increased attention span as well as the treatment various maladies including, e.g., TBI, stroke, and Alzheimer’s disease
+14/815,171 | 7/31/2015 | Issued | | 9,597,504 | | 3/21/2017 | | non-invasive neurostimulation of a patient’s mouth combined with therapy to provide neurorehabilitation of a patient, with a focus on features of a neurostimulation device 
+15/207,029 | 7/11/2016 | Issued | | 9,656,069 | | 5/23/2017 | | Utility patent covering non-invasive neurostimulation of a subject’s oral cavity while the subject engages in an exercise in order to enhance a subject’s proficiency in the exercise 
+61/019,061 (Provisional) | 1/4/2008 | Expired | N/A | | N/A | | N/A 
+61/020,265 (Provisional) | 1/10/2008 | Expired | N/A | | N/A | | N/A 
+
+ 
+U.S. Patent Nos. 8,909,345; 9,020,612; 9,656,078; 9,597,501; 9,597,504; and 9,656,069 claim priority to U.S. Patent No. 8,849,407.
+ A U.S. provisional patent application provides the means to establish an early effective filing date for a later filed nonprovisional patent application. Therefore, though the two provisional applications have expired, they establish a priority date for U.S. Patent Nos. 8,849,407; 8,909,345; 9,020,612; 9,656,078; 9,597,501; 9,597,504; and 9,656,069, and any future filings that claim priority. We intend to file additional continuation applications in the United States Patent and Trademark Office, or USPTO, claiming priority to U.S. Patent No. 8,849,407 to protect other aspects of the PoNS device and related non-invasive neurostimulation techniques.
+ ANR holds an interest in the Patent Pending Rights pursuant to an exclusive license from the inventors. U.S. Patent Nos. 8,909,345; 9,020,612; 9,656,078; 9,597,501; 9,597,504; and 9,656,069 are included in the exclusive license as the exclusive license agreement 
+ 12
+
+covers (i) U.S. Patent Application No. 12/348,301 (now U.S. Patent No. 8,849,407) and Provisional Application No. 61/019,061, (ii) any patents issuing therefrom and (iii) any patents claiming priority to U.S. Patent Application No. 12/348,301 or Provisional Application No. 61/019,061, which U.S. Patent Nos. 8,909,345; 9,020,612; 9,656,078; 9,597,501; 9,597,504; and 9,656,069 claim priority through such provisional application as well as through Provisional Application 61/020,265.
+ In addition, ANR has agreed that ownership of any improvements, enhancements or derivative works of the Patent Pending Rights that are developed by NHC or ANR shall be owned by NHC, provided that if NHC decides not to patent such improvements, ANR may choose to pursue patent rights independently. Pursuant to the Sublicense Agreement, NHC has agreed to pay ANR royalties equal to 4% of NHC’s revenues collected from the sale of devices covered by the Patent Pending Rights and services related to the therapy or use of devices covered by the Patent Pending Rights in therapy services. The Sublicense Agreement provides that the sublicense granted by ANR to NHC, if in good standing, shall not be cancelled, limited or impaired in any way should there be a termination of the master license granted by the inventors to ANR, which was acknowledged by the inventors in the Sublicense Agreement. On June 6, 2014, NHC and ANR entered into a second amended and restated sublicense agreement, or the Second Sublicense Agreement, which acknowledges the Reverse Merger (see “Our Corporate History - Acquisition of NeuroHabilitation Corporation and Concurrent Financing” below) and adds us as a party to the agreement.
+ The license of the Patent Pending Rights is subject to the right of the government of the United States, which funded certain research relating to the development of the PoNS device, to a nonexclusive, non-transferable, irrevocable, paid- up license to use the Patent Pending Rights for governmental purposes. In addition, NHC has granted a perpetual, royalty-free license to the Patent Pending Rights back to ANR for non-profit research and development activities which do not compete with NHC’s business and to produce and derive revenues from devices and services in connection with investigational uses of the PoNS device and related technology.
+ The license of the Patent Pending Rights is also subject to the terms of the CRADA. In the event that we are not willing or unable to commercialize the PoNS technology within four years from the expiration of the CRADA, the Company is required to transfer possession, ownership and sponsorship/holdership of the regulation application, regulatory correspondence and supporting regulatory information related technology to USAMRMC and grant the U.S. Government a non-exclusive, irrevocable license to any patent, copyright, data rights, proprietary information or regulatory information for the U.S. Government to commercialize the technology.
+ On April 17, 2017, we announced that the USPTO had issued two medical method patents (U.S. Patent Nos. 9,597,501 and 9,597,504) that together further protect the intellectual property rights for our core asset, the PoNS device therapeutic techniques. These patents bolster the current family of PoNS patents protecting various forms of physical and cognitive therapy combinations with both skin and oral cavity stimulation using the PoNS  device or any equivalent neurostimulation device.
+ Company Owned Intellectual Property
+ On May 23, 2017, we announced that the USPTO had issued its first method patent (US Patent No. 9,656,069) that features claims directed to the use of the PoNS device for human performance improvement rather than rehabilitation therapy. This patent is the first member of the existing family of patents we have received for our PoNS device. We have filed 29 U. S. patent applications related to various technical and ornamental aspects of the PoNS device. We have also filed 13 non-provisional patent applications that describe various technical features in the current version device and 16 design patent applications describing various ornamental designs. We are the sole assignee for these 29 U.S. patent filings. Prior to issuance, once the USPTO determines that a patent application meets all of the statutory requirements for patentability it provides a notice of allowance. In addition to the first issued patent (U.S. Patent No. 
+ 13
+
+9,072,889), the USPTO has issued nine utility patents, 16 design patents and provided notices of allowance for utility applications as summarized in the table below:
+ 
+ 
+U.S. Patent Application No. | Application Filing Date | Status | U.S. Patent No. | | Issue Date | | Subject Matter 
+----------------------------+-------------------------+---------+-----------------+-----------+------------+------------+------------------------------------------------------------------------------------------------------------------
+14/558,768 | 12/3/2014 | Issued | | 9,072,889 | | 7/7/2015 | | Utility patent covering overall system design, including controller and mouthpiece 
+14/559,123 | 12/3/2014 | Issued | | 9,272,133 | | 3/1/2016 | | Utility patent covering strain relief mechanisms for the connection between the mouthpiece and the controller
+14/558,787 | 12/3/2014 | Issued | | 9,227,051 | | 1/5/2016 | | Utility patent covering shape of the mouthpiece 
+14/558,789 | 12/3/2014 | Issued | | 9,283,377 | | 3/15/2016 | | Utility patent covering center of gravity of the mouthpiece 
+14/559,080 | 12/3/2014 | Issued | | 9,415,209 | | 8/16/2016 | | Utility patent covering structural support of the mouthpiece 
+14/559,105 | 12/3/2014 | Issued | | 9,415,210 | | 8/16/2016 | | Utility patent covering glue wells of the mouthpiece 
+14/727,100 | 6/1/2015 | Issued | | 9,616,222 | | 4/11/2017 | | Utility patent covering overall system design, including controller and mechanical details of the mouthpiece 
+14/558,775 | 12/3/2014 | Allowed | N/A | | N/A | | Utility patent covering aspects of the controller 
+14/558,784 | 12/3/2014 | Issued | | 9,789,306 | | 10/17/2017 | | Utility patent covering authentication techniques 
+14/559,045 | 12/3/2014 | Pending | N/A | | N/A | | Utility patent covering the locators of the mouthpiece 
+14/559,118 | 12/3/2014 | Issued | | 9,656,060 | | 5/23/2017 | | Utility patent covering methods of manufacturing the mouthpiece 
+15/484,077 | 4/21/2017 | Pending | N/A | | N/A | | Utility application covering overall system design, including controller and mechanical details of the mouthpiece
+15/602,055 | 9/5/2017 | Pending | N/A | | N/A | | Utility application covering methods of manufacturing the mouthpiece 
+29/510,741 | 12/3/2014 | Issued | D750264 | | 2/23/2016 | | Design patent covering an alternative version of the current PoNS device (over-ear double boom design) 
+29/510,742 | 12/3/2014 | Issued | D749746 | | 2/16/2016 | | Design patent covering an alternative version of the current PoNS device (overhead minimal interference design) 
+29/510,743 | 12/3/2014 | Issued | D752236 | | 3/22/2016 | | Design patent covering system design used in the current PoNS device 
+29/510,745 | 12/3/2014 | Issued | D750265 | | 2/23/2016 | | Design patent covering an alternative mouthpiece not used in the current PoNS device 
+
+ 14
+
+
+ 
+U.S. Patent Application No. | Application Filing Date | Status | U.S. Patent No. | Issue Date | Subject Matter 
+----------------------------+-------------------------+--------+-----------------+------------+-------------------------------------------------------------------------------------
+29/510,754 | 12/3/2014 | Issued | D750794 | 3/1/2016 | Design patent covering the controller used in the PoNS device 
+29/510,755 | 12/3/2014 | Issued | D751215 | 3/8/2016 | Design patent covering an alternative controller not used in the current PoNS device
+29/510,746 | 12/3/2014 | Issued | D750266 | 2/23/2016 | Design patent covering an alternative mouthpiece not used in the current PoNS device
+29/510,749 | 12/3/2014 | Issued | D750268 | 2/23/2016 | Design patent covering an alternative mouthpiece not used in the current PoNS device
+29/510,747 | 12/3/2014 | Issued | D751213 | 3/8/2016 | Design patent covering an alternative mouthpiece not used in the current PoNS device
+29/510,748 | 12/3/2014 | Issued | D750267 | 2/23/2016 | Design patent covering an alternative mouthpiece not used in the current PoNS device
+29/510,750 | 12/3/2014 | Issued | D753315 | 4/5/2016 | Design patent covering mouthpiece used in the current PoNS device 
+29/510,751 | 12/3/2014 | Issued | D751722 | 3/15/2016 | Design patent covering an alternative controller not used in the current PoNS device
+29/510,752 | 12/3/2014 | Issued | D752766 | 3/29/2016 | Design patent covering an alternative controller not used in the current PoNS device
+29/510,753 | 12/3/2014 | Issued | D753316 | 4/5/2016 | Design patent covering an alternative controller not used in the current PoNS device
+29/510,744 | 12/3/2014 | Issued | D760397 | 6/28/2016 | Design patent covering alternative system design used in the current PoNS device 
+29/510,756 | 12/3/2014 | Issued | D759830 | 6/21/2016 | Design patent covering alternative system design used in the current PoNS device 
+
+ 
+In addition to its U.S. patents, We have been granted four foreign utility patents (three in Australia and one in Eurasia), and 11 foreign design patents (seven in Canada, three in Russia, and one community design in Europe), as detailed in the tables below. 
+ 
+ 
+Foreign Utility Patents | | | | 
+---------------------------+-------------------------+--------+-----------------------+-----------
+Australian Application No. | Application Filing Date | Status | Australian Patent No. | Issue Date | Subject Matter 
+2015355211 | 6/4/2017 | Issued | 2015355211 | 11/16/2017 | Utility patent covering overall system design, including controller and mechanical details of the mouthpiece 
+2015355212 | 6/4/2017 | Issued | 2015355212 | 12/21/2017 | Utility patent covering center of gravity of the mouthpiece 
+2017218934 | 8/19/2017 | Issued | 2017218934 | 1/3/2018 | Utility patent covering overall system design, including controller and mechanical details of the mouthpiece 
+Eurasian Application No. | Application Filing Date | Status | Eurasian Patent No. | Issue Date | Subject Matter 
+201790009 | 1/10/2017 | Issued | 28551 | 11/30/2017 | Utility patent covering methods for non-invasively aiding neurorehabilitation using intraoral stimulation in combination with an exercise regimen
+
+
+Russian Design Application No. | Application Filing Date | Status | Russian Patent No. | Issue Date | Subject Matter 
+-------------------------------+-------------------------+--------+--------------------+------------+-------------------------------------------------------------------------------
+2015501883 | 6/3/2015 | Issued | 98981 | 7/16/2016 | Design patent covering the system design currently used in the PoNS device 
+2015501882 | 6/3/2015 | Issued | 99240 | 8/16/2016 | Design patent covering the mouthpiece design currently used in the PoNS device
+2015501881 | 6/3/2015 | Issued | 98947 | 7/16/2016 | Design patent covering the controller design currently used in the PoNS device
+
+ 15
+
+
+ 
+Canadian Design Application No. | Application Filing Date | Status | Canadian Patent No. | Issue Date | Subject Matter 
+--------------------------------+-------------------------+--------+---------------------+------------+-------------------------------------------------------------------------------------
+162676 | 6/2/2015 | Issued | 162676 | 2/29/2016 | Design patent covering system design used in the current PoNS device 
+162672 | 6/2/2015 | Issued | 162672 | 2/29/2016 | Design patent covering an alternative mouthpiece not used in the current PoNS device
+162671 | 6/2/2015 | Issued | 162671 | 2/29/2016 | Design patent covering an alternative mouthpiece not used in the current PoNS device
+162674 | 6/2/2015 | Issued | 162674 | 2/29/2016 | Design patent covering mouthpiece used in the current PoNS device 
+162675 | 6/2/2015 | Issued | 162675 | 2/29/2016 | Design patent covering an alternative controller not used in the current PoNS device
+162670 | 6/2/2015 | Issued | 162670 | 2/29/2016 | Design patent covering the controller used in the PoNS device 
+162673 | 6/2/2015 | Issued | 162673 | 2/29/2016 | Design patent covering system design used in the current PoNS device 
+
+
+EU Community Design Application No. | Application Filing Date | Status | EU Community Design Reg. No. | Issue Date | Subject Matter 
+------------------------------------+-------------------------+--------+------------------------------+------------+----------------------------------------------------------------------------------------------
+002712026 | 6/3/2015 | Issued | 002712026 | 9/4/2015 | Design patent covering several aspects of the system design currently used in the PoNS device
+
+ 
+16
+
+Further, we have filed nine foreign utility patent applications that are currently pending: one application in Australia, and two applications in each of Canada, Europe, Israel, and Russia: 
+ 
+ 
+Australian Application No. | | Application Filing Date | | Status | | Australian Patent No. | | Issue Date | | Subject Matter 
+----------------------------+-----------+-------------------------+----------+---------+---------+-----------------------+-----+------------+-----+----------------------------------------------------------------------------------------------------------------------
+2017228517 | | 9/11/2017 | | Pending | | N/A | | N/A | | Utility application covering the shape of the mouthpiece 
+Canadian Application No. | | Application Filing Date | | Status | | Canadian Patent No. | | Issue Date | | Subject Matter 
+ | 2,969,729 | | 6/2/2017 | | Pending | | N/A | | N/A | | Utility application covering overall system design, including controller and mouthpiece, and authentication techniques
+ | 2,969,731 | | 6/2/2017 | | Pending | | N/A | | N/A | | Utility application covering various aspects of the mouthpiece such as shape, center of gravity, and the locators 
+European Application No. | | Application Filing Date | | Status | | European Patent No. | | Issue Date | | Subject Matter 
+15813638.2 | | 7/3/2017 | | Pending | | N/A | | N/A | | Utility application covering overall system design, including controller and mouthpiece, and authentication technique
+15812899.1 | | 7/3/2017 | | Pending | | N/A | | N/A | | Utility application covering various aspects of the mouthpiece such as shape, center of gravity, and the locators 
+Israeli Application No. | | Application Filing Date | | Status | | Israeli Patent No. | | Issue Date | | Subject Matter 
+252648 | | 6/4/2017 | | Pending | | N/A | | N/A | | Utility application covering overall system design, including controller and mouthpiece 
+252649 | | 6/4/2017 | | Pending | | N/A | | N/A | | Utility application covering center of gravity of the mouthpiece 
+Russian Application No. | | Application Filing Date | | Status | | Russian Patent No. | | Issue Date | | Subject Matter 
+2017123125 | | 6/29/2017 | | Pending | | N/A | | N/A | | Utility application covering overall system design, including controller and mouthpiece 
+2017123041 | | 6/29/2017 | | Pending | | N/A | | N/A | | Utility application covering center of gravity of the mouthpiece 
+
+ 
+Currently, we use four trademarks in connection with the operation of our business: PoNS, NeuroHabilitation, NHC and Helius Medical Technologies. We own the rights to the PoNS mark by virtue of an assignment agreement having an effective date of October 27, 2014 and entered into with ANR and the inventors of the PoNS technology. We are the sole owner of the rights in the NeuroHabilitation and NHC trademarks, and we are the owner of the rights in the Helius Medical Technologies mark. On October 31, 2014, we filed trademark applications in the USPTO for these four trademarks.
+ On January 7, 2015, we filed trademark applications with the Canada Intellectual Property Office, claiming priority to the corresponding U.S. applications filed on October 31, 2014. We are the owner of the rights in the NeuroHabilitation, NHC, and PoNS marks in Canada, and we are the owner of the rights in the Helius Medical Technologies mark in Canada. We have also applied for the PoNS trademark in Canada, Europe, Russia and China.
+ Government Regulation  
+ Our products under development and our operations are subject to significant government regulation. In the United States, our products are regulated as medical devices by the FDA and other federal, state, and local regulatory authorities. The following is a general description of the review and marketing authorization process of the FDA for medical devices.
+ 17
+
+FDA Regulation of Medical Devices
+ The FDA and other U.S. and foreign governmental agencies regulate, among other things, the following activities with respect to medical devices:
+  
+• | design, development and manufacturing;
+--+---------------------------------------
+
+
+• | testing, labeling, content and language of instructions for use and storage;
+--+-----------------------------------------------------------------------------
+
+
+• | clinical trials;
+--+-----------------
+
+
+• | product storage and safety;
+--+----------------------------
+
+
+• | marketing, sales and distribution;
+--+-----------------------------------
+
+
+• | pre-market clearance and approval;
+--+-----------------------------------
+
+
+• | record keeping procedures;
+--+---------------------------
+
+
+• | advertising and promotion;
+--+---------------------------
+
+
+• | recalls and field safety corrective actions;
+--+---------------------------------------------
+
+
+• | post-market surveillance, including reporting of deaths or serious injuries and malfunctions that, if they were to recur, could lead to death or serious injury;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | post-market approval studies; and
+--+----------------------------------
+
+
+• | product import and export.
+--+---------------------------
+
+ In the United States, numerous laws and regulations govern all the processes by which medical devices are brought to market and marketed. These include the Food, Drug and Cosmetic, or FD&C, Act and the FDA’s implementing regulations, among others.
+ The FDA Review, Clearance and Approval Processes
+ Each medical device we seek to commercially distribute in the United States must first receive either clearance under Section 510(k) of the FD&C Act, receive de novo down-classification and 510(k) clearance, or pre-market approval application, or PMA, from the FDA, unless specifically exempted by the FDA. FDA review and approval is required for each intended use of a device, regardless of whether the device has been approved for other indications for use. The FDA classifies all medical devices into one of three classes. Devices deemed to pose the lower risk are categorized as either Class I or II, which requires the manufacturer to submit to the FDA a 510(k) pre-market notification application requesting clearance of the device for commercial distribution in the United States, unless the device is exempted from this requirement. Devices deemed by the FDA to pose the greatest risk, such as life sustaining, life-supporting or implantable devices, or devices deemed not substantially equivalent to a previously 510(k) cleared device are categorized as Class III and require submission and approval of a PMA.
+ In the 510(k) clearance process, the FDA must determine that a proposed device is “substantially equivalent” to a device legally on the market, known as a “predicate” device, with respect to intended use, technology and safety and effectiveness, in order to clear the proposed device for marketing. Clinical data may be required to support a determination of substantial equivalence. The PMA pathway requires an applicant to demonstrate the safety and effectiveness of the device based, in part, on extensive data, including, but not limited to, technical, preclinical, clinical trial, manufacturing and labeling data. The PMA process is typically required for devices that are deemed to pose the greatest risk, such as life-sustaining, life-supporting or implantable devices. However, some devices are automatically assigned to Class III regardless of the level of risk they pose, because they have not previously been classified into a lower risk class by the FDA. Manufacturers of these devices may request that the FDA review such devices in accordance with the de novo classification procedure, which allows a manufacturer whose novel device would otherwise require the submission and approval of a PMA prior to marketing to request down-classification of the device on the basis that the device presents low or moderate risk. If the FDA agrees with the down-classification, the applicant will then receive clearance of a 510(k) to market the device. This cleared device can then be used as a predicate device for future 510(k) submissions by the manufacturer or a competitor.
+ We intend to utilize the de novo classification procedures to seek marketing authorization for the PoNS device, because there is currently no predicate cleared or approved by the FDA for commercial distribution and no existing classification decision by the FDA for such a device. The process of obtaining regulatory clearances or approvals, or completing the de novo classification process, to market a medical device can be costly and time consuming, and we may not be able to successfully obtain pre-market reviews on a timely basis, if at all.
+ If the FDA requires us to go through a lengthier, more rigorous examination for the PoNS device, introducing the product could be delayed or canceled, which could cause our launch to be delayed. In addition, the FDA may determine that the PoNS device requires the more costly, lengthy and uncertain PMA process. For example, if the FDA disagrees with our determination that the de novo classification procedures are the appropriate path to obtain marketing authorizations for the PoNS device, the FDA may require us to 
+ 18
+
+submit a PMA application, which is generally more costly and uncertain and can take from one to three years, or longer, from the time the application is submitted to the FDA until an approval is obtained. Further, even with respect to those future products where a PMA may not be required, we cannot be certain that we will be able to obtain 510(k) clearances with respect to those products.
+ 510(k) Clearance Process
+ To obtain 510(k) clearance, we must submit a pre-market notification to the FDA demonstrating that the proposed device is substantially equivalent to a previously-cleared 510(k) device or is a device that was in commercial distribution before May 28, 1976 for which the FDA has not yet called for the submission of a PMA application. The FDA’s 510(k) clearance process usually takes from three to 12 months from the date the application is submitted and filed with the FDA but may take significantly longer and clearance is never assured. Although many 510(k) pre-market notifications are cleared without clinical data, in some cases, the FDA requires clinical data to support substantial equivalence. In reviewing a pre-market notification submission, the FDA may request additional information, which may significantly prolong the review process.
+ After a device receives 510(k) clearance, any subsequent modification of the device that could significantly affect its safety or effectiveness, or that would constitute a major change in its intended use, will require a new 510(k) clearance or could require a PMA. The FDA requires each manufacturer to make this determination initially, but the FDA may review any such decision and may disagree with a manufacturer’s determination. If the FDA disagrees with a manufacturer’s determination, the FDA may require the manufacturer to cease marketing and/or recall the modified device until 510(k) clearance or PMA approval is obtained. Under these circumstances, the FDA may also subject a manufacturer to significant regulatory fines or other penalties. In addition, the FDA is currently evaluating the 510(k) process and may make substantial changes to industry requirements, including which devices are eligible for 510(k) clearance, the ability to rescind previously granted 510(k)s and additional requirements that may significantly impact the process.
+ De novo Classification Process
+ If a previously unclassified new medical device does not qualify for the 510(k) pre-market notification process because no predicate device to which it is substantially equivalent can be identified, the device is automatically classified into Class III. The Food and Drug Administration Modernization Act of 1997 established a new route to market for low to moderate risk medical devices that are automatically placed into Class III due to the absence of a predicate device, called the “Request for Evaluation of Automatic Class III Designation,” or the de novo classification procedure. This procedure allows a manufacturer whose novel device is automatically classified into Class III to request down-classification of its medical device into Class I or Class II on the basis that the device presents low or moderate risk, rather than requiring the submission and approval of a PMA. Prior to the enactment of the Food and Drug Administration Safety and Innovation Act, or FDASIA, in July 2012, a medical device could only be eligible for de novo classification if the manufacturer first submitted a 510(k) pre-market notification and received a determination from the FDA that the device was not substantially equivalent. FDASIA streamlined the de novo classification pathway by permitting manufacturers to request de novo classification directly without first submitting a 510(k) pre-market notification to the FDA and receiving a not substantially equivalent determination. Under FDASIA, the FDA is required to classify the device within 120 days following receipt of the de novo application. If the manufacturer seeks reclassification into Class II, the manufacturer must include a draft proposal for special controls that are necessary to provide a reasonable assurance of the safety and effectiveness of the medical device. The FDA may reject the reclassification petition if it identifies a legally marketed predicate device that would be appropriate for a 510(k) or determines that the device is not low to moderate risk or that general controls would be inadequate to control the risks and special controls cannot be developed.
+ As previously discussed, we plan on utilizing the de novo classification process to obtain marketing authorization for the PoNS device for balance disorder in mild- to moderate- TBI, and we plan to seek Class II classification. In order to be placed in Class II, the FDA would need reasonable assurance of safety and effectiveness of the PoNS device. Under Class II, general controls (e.g., premarket notification) and special controls (e.g., specific performance testing) would be applicable. We are currently working to complete our device verification testing with our goal for submission of the de novo application and a 510(k) in the middle of 2018. To the extent the FDA completes its review in accordance with the goal of the medical device users fee amendments of 90 days, we anticipate marketing authorization in the second half of 2018.
+ Obtaining FDA marketing authorization, de novo down-classification, or approval for medical devices can be expensive and uncertain, generally takes several years, and generally requires detailed and comprehensive scientific and clinical data. Notwithstanding the expense, these efforts may never result in FDA authorization for commercial distribution. Even if we were to obtain regulatory authorization, it may not be for the uses we believe are important or commercially attractive, in which case we would not be permitted to market our product for those uses.
+ Pre-market Approval Process
+ A PMA must be submitted if the medical device is in Class III (although the FDA has the discretion to continue to allow certain pre-amendment Class III devices to use the 510(k) process) or cannot be cleared through the 510(k) process. A PMA must be supported by, 
+ 19
+
+among other things, extensive technical, preclinical, clinical trial, manufacturing and labeling data to demonstrate to the FDA’s satisfaction the safety and effectiveness of the device for its intended use.
+ After a PMA is submitted and filed, the FDA begins an in-depth review of the submitted information, which typically takes between one and three years, but may take significantly longer. During this review period, the FDA may request additional information or clarification of information already provided. Also, during the review period, an advisory panel of experts from outside the FDA may be convened to review and evaluate the application and provide recommendations to the FDA as to the approvability of the device. In addition, the FDA will conduct a pre-approval inspection of the manufacturing facility to ensure compliance with Quality System Regulations, or QSR, which may impose elaborate design development, testing, control, documentation and other quality assurance procedures in the design and manufacturing process. The FDA may approve a PMA with post-approval conditions intended to ensure the safety and effectiveness of the device including, among other things, restrictions on labeling, promotion, sale and distribution and collection of long-term follow-up data from patients in the clinical study that supported approval. Failure to comply with the conditions of approval can result in materially adverse enforcement action, including the loss or withdrawal of the approval. New PMAs or supplements are required for significant modifications to the manufacturing process, labeling of the product and design of a device that is approved through the PMA process. PMA supplements often require submission of the same type of information as an original pre-market approval application, except that the supplement is limited to information needed to support any changes from the device covered by the original PMA and may not require extensive clinical data or the convening of an advisory panel.
+ Clinical Trials
+ A clinical trial is typically required to support a PMA and is sometimes required for a 510(k) pre-market notification. FDA’s regulations require submission and approval of an Investigational Device Exemption, or IDE, for all clinical investigations of significant risk medical devices to determine safety and effectiveness.  Abbreviated requirements apply for non-significant risk device studies.  After a clinical trial begins, the FDA may place it on hold or terminate it if, among other reasons, it concludes that the clinical subjects are exposed to an unacceptable health risk. Any clinical trials we conduct must be conducted in accordance with FDA regulations as well as other federal regulations and state laws concerning human subject protection and privacy. Moreover, the results of a clinical trial may not be sufficient to obtain clearance or approval of the product, and separate clinical trials may be necessary to obtain clearance for multiple uses of one device.
+Pervasive and Continuing U.S. Food and Drug Administration Regulation
+ After a medical device is placed on the market, numerous FDA regulatory requirements apply, including, but not limited to the following:
+  
+• | the QSR, which requires manufacturers to follow design, testing, control, documentation and other quality assurance procedures during the manufacturing process;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | establishment registration, which requires establishments involved in the production and distribution of medical devices, intended for commercial distribution in the United States, to register with the FDA;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | medical device listing, which requires manufacturers to list the devices they have in commercial distribution with the FDA;
+--+----------------------------------------------------------------------------------------------------------------------------
+
+
+• | correction and removal reporting regulations which require that manufacturers report to the FDA field corrections and product recalls or removals undertaken to reduce a risk to health posed by the device or remedy a violation of the FD&C Act that may present a risk to health;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | labeling regulations, which prohibit “misbranded” devices from entering the market, as well as prohibit the promotion of products for unapproved or “off-label” uses and impose other restrictions on labeling;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | clearance or approval of product modifications that could significantly affect safety or efficacy or that would constitute a major change in intended use;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | post-market surveillance including Medical Device Reporting, which requires manufacturers report to the FDA if their device may have caused or contributed to a death or serious injury, or malfunctioned in a way that would likely cause or contribute to a death or serious injury if it were to recur; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | other post-approval restrictions or conditions.
+--+------------------------------------------------
+
+Our Corporate History Highlights
+ Formation and Arrangement with Boomerang Oil, Inc.
+ We were originally incorporated on March 13, 2014 under the British Columbia Business Corporations Act, or the BCBCA, as “0996445 B.C. Ltd.” On March 25, 2014, and amended on April 8, 2014, we entered into an arrangement agreement with Boomerang Oil, Inc. (formerly known as 0922327 B.C. Ltd.) and 0995162 B.C. Ltd. to reorganize the business structure of such three entities in such a manner which would allow Boomerang Oil, Inc. to spin us out to become an independent entity that is a reporting issuer in Canada and for us to complete a reverse take-over of 0995162 B.C. Ltd. As a result of the arrangement agreement, we became a reporting issuer in 
+ 20
+
+the provinces of British Columbia and Alberta. In addition, the arrangement resulted in 0995162 B.C. Ltd. becoming our wholly-owned subsidiary. The assets of 0995162 B.C. Ltd. consisted of cash and 0995162 B.C. Ltd.’s interest in a letter agreement pursuant to which it had agreed to acquire all of the outstanding shares of NHC, a Delaware corporation, and to seek a listing on a recognized stock exchange.
+ Reincorporation in Wyoming
+ On May 23, 2014, we changed our name to “Helius Medical Technologies, Inc.” and filed articles of continuation with the Wyoming Secretary of State office to reincorporate from being a corporation governed by the BCBCA to a corporation governed by the Wyoming Business Corporation Act, or WBCA.
+ Acquisition of NeuroHabilitation Corporation and Concurrent Financing
+ On June 13, 2014, we completed the acquisition of NHC by way of an agreement and plan of merger. We refer to this transaction as the Reverse Merger. Pursuant to the agreement and plan of merger, HMT Mergersub, Inc., our wholly-owned subsidiary, merged with and into NHC with NHC as the surviving corporation. In connection with the Reverse Merger, we issued an aggregate of 7,060,016 shares of our Class A common stock, or our common stock, to the former shareholders of NHC. The Reverse Merger was deemed to be a capital transaction in substance and recorded as a reverse recapitalization of NHC whereby NHC is deemed to be the continuing, surviving entity for accounting purposes, but through reorganization, has deemed to have adopted the capital structure of Helius.
+ In connection with the Reverse Merger, we completed a non-brokered private placement financing of $7.02 million (CAD$7.62 million) by issuing 3,048,000 subscription receipts. Pursuant to its terms, each subscription receipt automatically converted into one unit upon satisfaction of certain escrow release conditions, which had been satisfied. Each unit consisted of one share of our common stock and one-half of one share purchase warrant with each whole warrant being exercisable at CAD$5.00 per share for a period of two years. 
+ Listing of our Common Stock on the CSE, TSX and OTCQB
+ Following our Reverse Merger, we obtained approval of the listing of our common stock on the Canadian Securities Exchange, or CSE. On April 18, 2016, our common stock was listed on the Toronto Stock Exchange, or TSX, under the symbol “HSM.” At the same time, we delisted our common stock from the CSE. Our Warrants were also approved for listing on the TSX on April 18, 2016. The Company’s common stock also began trading on the OTC Markets, or OTCQB, under the ticker symbol “HSDT” on February 10, 2015.
+ Reverse Stock Split
+ Effective after the close of business on January 22, 2018, we completed a 1-for-5 reverse stock split of our Class A Common Stock. Since January 23, 2018, our Class A common stock has traded on a post-split basis on the OTCQB and Toronto Stock Exchange.  All share and per share amounts in this Annual Report have been reflected on a post-split basis.
+ 
+Corporate Information
+ 
+Our principal executive offices are located at 642 Newtown Yardley Road, Suite 100 Newtown, PA 18940 and our telephone number is 215-944-6100. We maintain a corporate website at www.heliusmedical.com. We make available free of charge through our Internet website our annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K, and any amendments to these reports, as soon as its reasonably practicable after we electronically file such material with, or furnish such material to the SEC. We are not including the information on our website as a part of, nor incorporating it by reference into this report. You may read and/or copy any materials we file at the SEC’s Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549. Please call the SEC at 1-800-SEC-0330 for information on the Public Reference Room. Additionally, the SEC maintains a website that contains annual, quarterly, and current reports, proxy statements, and other information that issuers (including us) file electronically with the SEC. The SEC’s website address is http://www.sec.gov.
+ Employees
+ As of December 31, 2017, we had ten full time employees and 40 full-time equivalent independent contractors.  With the completion of our registrational clinical trial, we continue to work on completing certain activities required as part of our marketing application that we submit to FDA for clearance of the PoNS device.  We intend to invest in our scale manufacturing capabilities, internal infrastructure for core functionality, as well as full commercialization resources.
+Business Uncertainties and Going Concern Risk
+ To date we have not generated any revenue from the sales of products or services. There are a number of conditions that we must satisfy before we will be able to generate revenue, including but not limited to obtaining FDA, Health Canada, CE Mark in Europe and the TGA, in Australia, clearance of the PoNS Treatment for balance disorder associated with TBI, manufacturing of a commercially viable 
+ 21
+
+version of the PoNS device, demonstration of safety and effectiveness sufficient to generate commercial orders by customers for our product and the creation of a national framework of PoNS-certified therapists. To date, we have not achieved many of these conditions, and the successful achievement of such conditions will require significant expenditures. Because we have not generated any revenues, we are dependent entirely on funding from outside investors. There is no guarantee that such funding will be available at all or in sufficient amounts to satisfy our required expenditures. Furthermore, even if we were able to raise sufficient capital to successfully design and manufacture a commercially viable version of the PoNS device and to receive FDA, CE Mark, Health Canada or TGA clearance, we do not currently have any contract or other arrangement to sell the PoNS Treatment. Accordingly, we cannot know for certain that we will ever be able to generate any revenue from the sales of products or services.
+ Additionally, based on management’s assessment there is substantial doubt about the Company’s ability to continue as a going concern. This means that there is substantial doubt that we can continue as an on-going business for the next twelve months. While we had $5.6 million of cash as of December 31, 2017, we do not currently have sufficient resources to accomplish all of the above conditions necessary for us to generate revenue. In reviewing this filing, you should carefully consider the risks described in the section entitled “Risk Factors” and other risks described throughout this Annual Report.
+22
+
+ 

@@ -1,0 +1,182 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+     ITEM 1.    BUSINESS 
+        Exela Technologies, Inc. ("Exela") is a global business process automation leader combining industry-specific and industry-agnostic enterprise software and solutions (deployed on premise or on the cloud) with decades of experience. We enable our customers' organizations to more efficiently and effectively execute transactions, make decisions, drive revenue and profitability, and communicate critical information to their employees, customers, partners, and vendors. We serve over 60% of the Fortune® 100 and our solutions are deployed in banking, healthcare, insurance and other industries to support mission-critical environments. With the increased scale resulting from our Business Combination in July 2017, we are poised to expand relationships with existing customers and realize substantial synergies. 
+         As part of the broader business process outsourcing ("BPO") industry, our technology-enabled solutions allow global organizations to address the challenges resulting from the massive amounts of data obtained and created through their daily operations. That data, and the supporting technology architecture, have become increasingly complex to manage as the volume, velocity, and variety continue to increase, requiring aggregation and integration across disparate parts of our customers' organizations. To effectively execute transactions and manage mission-critical processes, decisions need to be executed accurately, with rapid turn-around time, and often subject to various regulatory and compliance requirements. We believe our process expertise, information technology capabilities and operational insights enable our customers' organizations to more efficiently and effectively execute transactions, make decisions, drive revenue and profitability, and communicate critical information to their employees, customers, partners, and vendors. With solutions focused on enhancing the user experience, quality, and efficiency of our customers' most critical processes, we believe our value proposition positions us to be a core operations and technology partner to our customers. 
+         We have approximately 22,000 employees as of December 31, 2017 that provide solutions and services to over 3,500 customers worldwide. For the fiscal year ended December 31, 2017, we generated $1,152.3 million of revenue of which approximately 90% is recurring in nature and supported by long-term customer contracts. 
+         Our solutions address the life cycle of transaction processing and enterprise information management, from enabling multi-channel payment gateways and digital mailrooms with data exchanges across siloed systems, to matching inputs against contracts and handling exceptions, to ultimately depositing payments and distributing communications. As a leader in complex information processing, we specialize in transactions that require multiple layers of validation, supporting documentation processing, and reconciliation. Our suite of offerings combines platform modules across information management, payments, finance & accounting, legal & loss prevention, and unified communication services to provide both industry specific solutions, and solutions which span across multiple industries. 
+         At the foundation of our industry-specific solution offerings, we use a combination of data-driven processes, technology, and human capital, delivered through integrated enterprise information management ("EIM") and transaction processing solutions ("TPS") platforms:
+ 
+
+ our proprietary EIM platforms facilitate the exchange, consolidation, organization, and analysis of large amounts of structured and
+unstructured data that are crucial to an enterprise's ability to effectively manage decisions, and enable the presentment of critical information through our unified communication solutions. These
+platforms can be hosted on customer premises, within our data centers, and/or in a cloud hosting and computing environment. 
+ our TPS offerings then use the structured data output from our EIM platforms and apply industry and customer specific rules-based data
+validation, management of exceptions, business 
+
+ 5
+
+   
+
+automation,
+and outcome resolutions to complete transactions, customer interactions, and other operational processes. 
+
+
+ our model is to provide integrated EIM and TPS platforms as industry-specific solutions, with reliable information workflows through data
+aggregation, seamless connectivity, and automated processes that significantly reduce cycle times and improve quality. As a result, we believe we can execute a wide range of business processes, across
+multiple industries that are deeply embedded in, and essential to, our customers' most critical organizational workflows. 
+
+ 
+        We seek to develop long-term relationships with organizations that are information-intensive and require specialized processing or subject matter expertise. We offer solutions to highly regulated and information sensitive industries such as healthcare, banking and financial services, insurance, public, legal, and commercial sectors. 
+         We believe that our global presence benefits our customers with a balance of proximity, solutions, and cost to meet their needs. We use a global delivery model to serve multi-national customers in over 50 countries, where we provide solutions from a network of over 1,100 onsite customer facilities and approximately 150 delivery centers, strategically located throughout the Americas, Europe, and Asia. We believe our global delivery model uniquely positions us to offer multi-lingual capabilities, optimize logistical requirements, access a large employee pool, and provide a flexible "right-shoring" solution for our customers. 
+   Overview of Revenues 
+         Our business consists of the following three reportable segments: 
+  Information and Transaction Processing Solutions ("ITPS").    The ITPS segment is our largest segment, with $827.1 million of revenues for the fiscal year ended December 31, 2017, representing 72% of our revenues. ITPS provides industry-specific solutions for banking and financial services, including lending solutions for mortgages and auto loans, and banking solutions for clearing, anti-money laundering, sanctions, and cross-border settlement; property and casualty insurance solutions for enrollments, claims processing, and communications; public sector solutions for income tax processing, benefits administration, and records management; industry-agnostic solutions for payment 
+ 6
+
+   processing and reconciliation, integrated receivable and payables management, document logistics and location services, records management, and electronic storage of data/documents; and software, hardware, and maintenance related to information and transaction processing automation, among others. We generate ITPS revenues primarily from a transaction-based pricing model for the various types of volumes processed, licensing and maintenance fees for technology sales, and a mix of fixed management fee and transactional revenue for document logistics and location services. 
+  Healthcare Solutions ("HS").    The HS segment generated $233.6 million of revenues for the fiscal year ended December 31, 2017, representing 20% of our revenues. Our HS offerings include revenue cycle solutions, integrated accounts payable and accounts receivable, and information management for both the healthcare payer and provider markets. Our payer service offerings include claims processing, claims adjudication and auditing services, enrollment processing and policy management, and scheduling and prescription management. Our provider service offerings include medical coding and insurance claim generation, underpayment audit and recovery, and medical records management. As a leader in complex claims processing, we specialize in transactions that require multiple layers of validation, supporting documentation processing, reconciliation, and management of exceptions. We generate HS revenues primarily from a transaction-based pricing model for the various types of volumes processed for healthcare payers and providers. 
+         Legal & Loss Prevention Services ("LLPS").    The LLPS segment generated $91.6 million of revenues for the fiscal year ended December 31, 2017, representing 8% of our revenues. Our LLPS solutions include processing of legal claims for class action and mass action settlement administrations, involving project management support, notification, and outreach to claimants; and collection, analysis, and distribution of settlement funds. Additionally, we provide data and analytical services in the context of litigation consulting, economic and statistical analysis, expert witness services, and revenue recovery services for delinquent accounts receivable. We generate LLPS revenues primarily based on time and materials pricing as well as through transactional services priced on a per item basis. 
+         Additional financial information for our three business segments is included in Note 17 within our consolidated financial statements. 
+         We provide services to our customers on a global basis. In 2017, our revenues by geography were as follows: $1,001.8 million in the United States (86.9% of total revenues), $135.6 million in Europe (11.8% of total revenues), and $15.0 million from the rest of the world (1.3% of total revenues). We present additional geographical financial information in Note 17 within our consolidated financial statements. 
+         Our revenues can be affected by various factors such as our customers' demand pattern for our services. These factors have historically resulted in higher revenues and profits in the fourth quarter. Backlog is not a metric that we use to measure our business. 
+ 
+
+
+History and Development of Our Company 
+
+         Exela is a Delaware corporation that was formed through the strategic combination of SourceHOV Holdings, Inc. ("SourceHOV") a leading global transaction processing company, and Novitex Holding, Inc. ("Novitex"), a cloud-based document outsourcing company, pursuant to a business combination agreement dated February 21, 2017. Formerly known as Quinpario Acquisition Corp. 2 ("Quinpario"), Exela was originally formed as a blank check company on July 15, 2014 and completed its initial public offering on January 22, 2015. In conjunction with the completion of the Business Combination in July 2017, Quinpario was renamed "Exela Technologies, Inc." Exela began trading under the ticker "XELA" on the Nasdaq stock market on July 13, 2017. 
+         The Business Combination was accounted for as a reverse merger for which SourceHOV was determined to be the accounting acquirer. The acquisition of Novitex was accounted for using the acquisition method. As a result, the financial information presented in this Annual Report on 
+ 7
+
+   Form 10-K is not pro forma (unless labeled as such); it includes the financial information and activities for SourceHOV for the entire year ending December 31, 2017, but only reflects the financial information and activities of Novitex for the period following the Business Combination from July 13, 2017 to December 31, 2017. 
+ 
+
+
+Key Business Strategies 
+
+         The key elements of our growth strategy are described below: 
+  Pursue meaningful revenue synergy opportunities.    We believe we have a number of meaningful revenue synergy opportunities, including expanding the scope of our existing customer relationships, pursuing new customer opportunities, and utilizing our combined platform to develop new process capabilities and industry expertise. 
+ 
+
+ Leverage BPA suite across on-site services.
+  Approximately 6,000 of our employees currently work at customers in an on-site capacity. We believe this on-site presence is a competitive differentiator and a valuable asset as we
+pursue future growth opportunities. We aim to deploy our BPA software across these customer locations, and we believe that by offering our customers enhanced productivity and quality through our
+onsite employees, we will create additional opportunities to expand our footprint and wallet share across the organization. For example, in customers where we provide underwriting support and claims
+processing, we can enable our onsite employees to accelerate the aggregation and analysis of datasets while also increasing accuracy and automatically flagging deficiencies. By enhancing the
+productivity and quality of our onsite employees, we believe we will increase the demand from our customers to replicate our processes across the organization, bolstering our cross-sell/up-sell
+initiatives. By having our BPA suite already approved and deployed within existing onsite engagements, we believe our ability to expand into new lines of business will be streamlined and accelerated. 
+ Expand relationships with existing customers.
+  We intend to aggressively pursue cross-sell and up-sell opportunities within our existing customer base. With an installed base of over 3,500 customers, we believe we have meaningful
+opportunities to offer a bundled suite of services and be a "one-stop-shop" for our customers' information and transaction processing needs. Our sales force will continue to be organized on an
+industry basis and will be re-deployed to remove duplication, and utilize solutions and relationships to better serve our customers across all levels of their organizations. Our sales force will be
+incentivized to drive additional revenue opportunities across our bases while also driving higher-margin bundled solutions. As an example, we now offer a full suite of healthcare-focused solutions by
+bundling enrollments, policy and plan management, claims processing, audit and recovery services, payment solutions, integrated accounts payable and receivable, medical records management, and unified
+communication services for payers and providers. 
+ Pursue new customer opportunities.  We plan to
+continue to develop new long-term, strategic customer relationships, especially where we have an opportunity to deliver a wide range of our capabilities and can have a meaningful impact on our
+customers' business outcomes. For example, we plan to dedicate resources within the legal industry in order to pursue opportunities in e-discovery and contract management services. 
+ Develop additional process capabilities and industry
+expertise.  We will focus on developing additional process capabilities and market expertise for our core industries. We will
+continue to invest in technology and innovation that will accelerate the build-out of our portfolio of next-generation solutions, such as platform-based descriptive and predictive analytics services
+for processing flows of "Big Data" to help customers gain better insight into their processes and businesses. As an example, on behalf of our customers, we are deploying Big Data automation platforms
+to analyze individual consumer behavior and interaction patterns to identify 
+
+ 8
+
+   
+
+opportunities
+for revenue enhancement and loss prevention, and configure optimal outreach campaigns to drive sales, loyalty, and profitability. 
+
+
+  Pursue meaningful cost synergy opportunities and accelerate long-term profitability.    We have identified significant cost synergies that may result from the closing of the Business Combination. Due to similar operating infrastructures between SourceHOV and Novitex, we continue to believe we have opportunities across information technology, operations, facilities, and corporate functions to achieve cost savings executable over the course of 2 years from the closing of the Business Combination. We believe these cost savings are in the following categories: 
+ 
+
+ Information Technology.  We have opportunities
+for consolidation of Information Technology ("IT") management, insourcing of third-party vendors, and savings related to consolidation of IT services and software license replacement with in-house
+platforms. 
+ Operations.  We have opportunities for data
+entry offshoring, regional management rationalization, and broader implementation and adoption of our own technology across our organization to replace vendor spend. 
+ Facilities.  We have opportunities for lease
+and headcount savings resulting from facilities consolidation. 
+ Corporate and Shared Services.  We have
+opportunities for cost savings primarily across shared services, including the finance, accounting, legal, and human resources departments, in addition to vendor savings from consolidation of costs
+such as audit and tax, insurance, and enterprise resource planning. 
+
+         Additionally, we intend to further improve our margins through increased focus on operational best practices and cost efficiency through further process standardization, increasing use of automation, and increased focus on quality. Our strategy is that over time this will result in margin expansion and enhanced productivity. 
+  Capitalize on our enhanced scale and operating capacity.    We intend to utilize our increased global scale and brand recognition to strengthen our ability to bid on new opportunities. We plan to dedicate more resources to pursue whitespace coverage to expand our range of service offerings and pursue additional cross-selling opportunities. We will also look to use our increased scale and operations expertise to improve utilization of our assets. As an example, we will pursue a strategy of consolidating smaller regional document processing centers to our two Tier-III document processing and outsourcing centers in Windsor, Connecticut, and Austin, Texas that we call "MegaCenters," which will increase efficiency through economies of scale. By driving utilization up from the current levels of the MegaCenters, we will benefit from high flow through margins from increased revenues with minimal incremental investment. 
+ 
+
+
+Customers 
+
+         We serve over 3,500 customers across a variety of industries, including over 60% of the Fortune® 100. We believe our customers are among the leading players in their respective industries, and many of them are recurring customers that have maintained long-term relationships with us and our predecessor companies. 
+         We have successfully leveraged our relationships with customers to offer extended value chain services, creating stickier customer relationships and increasing overall margins. Customers are increasingly turning to us due to a demonstrated ability to work on large-scale projects, past performance and record of delivery, and deep domain expertise accumulated from years of experience in key verticals. As a result, our stable base of customers and sticky, long-term relationships lead to highly predictable revenues. 
+ 9
+
+     Customer and Industry Highlights 
+ 
+        We maintain a strong mix of diversified customers with low customer concentration. No customer accounts for more than 10% of 2017 revenue. The diversity of our customer base has contributed to the stability and predictability of our revenue streams and cash flows. We have been able to effectively balance our customer mix and reduce dependency on any single customer or vertical by penetrating a diverse set of end markets. 
+
+
+
+Research and Development 
+
+         Our ability to continue to compete successfully depends heavily upon our ability to ensure a timely flow of competitive products, services and technologies to the marketplace while also leveraging our domain expertise to demonstrate our understanding in implementing solutions across the industries we serve. Through regular and sustained investment, licensing of intellectual property and acquisition of third-party businesses and technology, we continue to develop new knowledge platforms, applications and supporting service bundles that enhance and expand our existing suite of services. Additional financial information regarding our R&D expense is included in Note 2 within our consolidated financial statements. 
+ 
+
+
+Intellectual Property 
+
+         We deploy a combination of internally-developed proprietary knowledge platforms, applications and generally available third-party licensed software as part of our scalable and flexible solutions and services. Our intellectual property is our competitive strength. 
+         Our platforms aim to enhance information management and workflow processes through automation and process optimization to minimize labor requirements or improve labor performance. Our decisioning engines have been built with years of deep domain expertise, incorporating hundreds of thousands of customer and industry specific rules which enable the most efficient and lowest cost preparation and decisioning of transactions. Our business processes and implementation methodologies are confidential and proprietary and include trade secrets that are important to our business. We own a variety of trademarks and patents, which are registered or in the application process. 
+         We regularly enter into nondisclosure agreements with customers, business partners, employees, and contractors that require confidential treatment of our information to establish, maintain and enforce our intellectual property rights. Our licensed intellectual properties are generally governed by written agreements of varying durations, including some with fixed terms that are subject to renewal based on mutual agreement. Generally, each agreement may be further extended and we have historically been able to renew existing agreements before they expire. We expect these and other similar agreements to be extended so long as it is mutually advantageous to both parties at the time of renewal. 
+ 
+
+
+Competition 
+
+         We believe that the principal competitive factors in providing our solutions include proprietary platforms, industry specific knowledge, quality, reliability and security of service, and price. We are differentiated competitively given our scale of operations, reputation as a trusted partner with deep 
+ 10
+
+   domain expertise, innovative solutions, and highly integrated technology platforms that provide customers with end-to-end services addressing many aspects of their mission-critical operational processes. We continue to integrate best practice delivery processes into our service-delivery capabilities to improve its quality and service levels and to increase operational efficiencies. The markets in which we serve are competitive with both large and small businesses, as well as global companies:
+ 
+
+ Multi-national companies that provide EIM and TPS services, such as Fiserv, Jack Henry, First Data, FIS, Black Knight Financial, Open Text,
+Broadridge Financial Solutions, Computershare, DST Systems and Iron Mountain; 
+ Multi-shore BPO companies, such as Genpact, Capita, Cognizant, Exlservice, Conduent, Wipro, and WNS; and 
+ Smaller, niche service providers in specific verticals or geographic markets. 
+
+
+
+
+Regulation and Compliance 
+
+         We handle, directly or indirectly through customer contracts and business associate agreements, a significant amount of information, including personal and health-related information, which results in our being subject to federal, state and local privacy laws, including the Gramm-Leach-Bliley Act, HIPAA and the HITECH Act of 2009. Further, we are subject to the local rules and regulations in the other countries in which we operate, including those relating to the handling of information. In addition, services in our LLPS segment, though not directly regulated, must be provided in a manner consistent with the relevant legal framework. For example, our bankruptcy claims administration services must be provided in accordance with the requirements and deadlines of the United States Bankruptcy Code and Federal Rules of Civil Procedure. In addition, some of our customers are subject to regulatory oversight, which may result in our being reviewed from time to time by such oversight bodies. Further, as a government contractor, we are subject to associated regulations and requirements. 
+         Other laws apply to our processing of individually identifiable information. These laws have been subject to frequent changes, and new legislation in this area may be enacted at any time. Changes to existing laws, introduction of new laws in this area, or failure to comply with existing laws that are applicable to us may subject us to, among other things, additional costs or changes to our business practices, liability for monetary damages, fines and/or criminal prosecution, unfavorable publicity, restrictions on our ability to obtain and process information and allegations by our customers and customers that we have not performed our contractual obligations, any of which may have a material adverse effect on profitability and cash flow. 
+   Privacy and Information Security Regulations 
+         The processing and transfer of personal information is required to provide certain of our services. Data privacy laws and regulations in the U.S. and foreign countries apply to the access, collection, transfer, use, storage, and destruction of personal information. In the U.S., our financial institution customers are required to comply with privacy regulations imposed under the Gramm-Leach-Bliley Act, in addition to other regulations. As a processor of personal information in our role as a provider of services to financial institutions, we are required to comply with privacy regulations and are bound by similar limitations on disclosure of the information received from our customers as apply to the financial institutions themselves. We also perform services for healthcare companies and are, therefore, subject to compliance with laws and regulations regarding healthcare information, including in the U.S., HIPAA. We also perform credit-related services and agree to comply with payment card standards, including the PCIDSS. In addition, federal and state privacy and information security laws, and consumer protection laws, which apply to businesses that collect or process personal information, also apply to our businesses. 
+ 11
+
+           Privacy laws and regulations may require notification to affected individuals, federal and state regulators, and consumer reporting agencies in the event of a security breach that results in unauthorized access to, or disclosure of, certain personal information. Privacy laws outside the U.S. may be more restrictive and may require different compliance requirements than U.S. laws and regulations, and may impose additional duties on us in the performance of our services. 
+         There has been increased public attention regarding the use of personal information and data transfer, accompanied by legislation and regulations intended to strengthen data protection, information security and consumer and personal privacy. The law in these areas continues to develop and the changing nature of privacy laws in the U.S., the European Union and elsewhere could impact our processing of personal information of our employees and on behalf of our customers. The European Union adopted a comprehensive General Data Privacy Regulation (the "GDPR") in May 2016 that will replace the current EU Data Protection Directive and related country-specific legislation. The GDPR will become fully effective in May 2018. While we believe that we are compliant with its regulatory responsibilities, information security threats continue to evolve resulting in increased risk and exposure. In addition, legislation, regulation, litigation, court rulings, or other events could expose us to increased costs, liability, and possible damage to our reputation. 
+ 
+
+
+Employees 
+
+         The continued success of our business is driven by our people. Our senior leadership team has extensive experience within the larger BPO as well as the BPA industry. As we were formed through a series of acquisitions, we have retained an experienced and cohesive leadership team. The combination of our employees with our technology is the backbone of our ability to provide customers with holistic solutions designed to meet the rapidly evolving needs of our customers. 
+         As of December 31, 2017, we had approximately 22,000 total employees, which included approximately 20,700 full-time and 1,300 part-time employees. We have a global workforce with a majority of our employees located in the United States, and the remainder located in Europe, India, the Philippines, Mexico, and China. Our employee count fluctuates from time to time based upon the timing and duration of our engagements. We consider our relationship with our employees to be good. 
+         We locate our operation centers in areas where the value proposition it offers is attractive to the employees in the area relative to other local opportunities, resulting in an engaged workforce that is able to make a meaningful global contribution from their local marketplace. To supplement the skills available in certain markets, we offer our employees a focused set of training programs to increase their skills and leadership capabilities with the goal of creating a long-term funnel of talent to support the Company's continued growth. Additionally, our proprietary platforms enable rapid learning and facilitate knowledge transfer among employees, reducing training time. 
+ 
+
+
+Available Information 
+
+         Our website address is www.exelatech.com. We are not including the information provided on our website as a part of, or incorporating it by reference into, this Annual Report on Form 10-K. We make available free of charge (other than an investor's own internet access charges) through our website our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to these reports, as soon as reasonably practicable after we electronically file such material with, or furnish such material to, the Securities and Exchange Commission (the "SEC"). In addition, we make available our code of ethics entitled "Global Code of Ethics and Business Conduct" free of charge through our website. We intend to post on our website all disclosures that are required by law or Nasdaq listing standards concerning any amendments to, or waivers from, any provision of our code of ethics. 
+         The public may read and copy any materials filed by us with the SEC at the SEC's Public Reference Room at 100 F Street, NE, Room 1580, Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an internet site that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC at www.sec.gov. The information contained on the websites referenced in this Form 10-K is not incorporated by reference into this filing. 
+ 12
+
+
+

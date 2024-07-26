@@ -1,0 +1,286 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business 
+Overview 
+ We have developed a technology called WattUp® that consists of proprietary semiconductor chipsets, software, hardware designs and antennas that enables radio frequency (RF) based charging for electronic devices, providing wire-free charging solutions for contact-based charging and at-a-distance charging, ultimately enabling charging with mobility under software control. Pursuant to our Strategic Alliance Agreement with Dialog Semiconductor plc (Dialog), Dialog manufactures and distributes integrated circuit (IC) products incorporating our RF-based wire-free charging technology. Dialog is our exclusive supplier of these ICs for the general market. We believe our proprietary technology can be utilized in a variety of devices, including wearables, hearing aids, earbuds, Bluetooth headsets, Internet of Things (IoT) devices, smartphones, tablets, e-book readers, keyboards, mice, remote controls, rechargeable lights, cylindrical batteries, medical devices and any other device with similar charging requirements that would otherwise need a battery or a connection to a power outlet. 
+ We believe our technology is novel in its approach, in that we are developing a solution that charges electronic devices by surrounding them with a focused, radio frequency energy pocket (RF energy pocket). We are engineering solutions that we expect to enable the wire-free transmission of energy for contact-based applications as well as far field applications of up to 15 feet. We are also developing our Far Field transmitter 
+ 
+1 
+
+
+Index to Financial Statements
+   technology to seamlessly mesh (like a network of Wi-Fi routers) to form a wire-free charging network that will allow users to charge their devices as they move from room-to-room or throughout a large space. To date, we have developed multiple transmitter prototypes in various form factors and power capabilities. We have also developed multiple receiver prototypes, including smartphone battery cases, toys, fitness trackers, Bluetooth headsets and tracking devices, as well as stand-alone receivers. We are also in the pre-production stage leading to mass production with early adopters of the WattUp technology to bring the first contact-based transmitters and compatible receivers to market. 
+ When the company was founded, we recognized the need to build and design an enterprise-class network management and control software (NMS) system that was integral to the architecture and development of our wire-free charging technology. Our NMS system can be scaled up to control an enterprise consisting of thousands of devices or scaled down to work in a home or IoT environment. 
+ The power, distance and mobility capabilities of the WattUp technology were validated by an internationally recognized independent testing lab in October 2015. 
+ Our technology solution consists principally of transmitter and receiver ICs and novel antenna designs driven through innovative algorithms and software applications. We submitted our first IC design for wafer fabrication in November 2013 and have since been developing multiple generations of transmitter and receiver ICs, multiple antenna designs, as well as algorithms and software designs that we believe, in the aggregate, will optimize our technology by reducing size and cost, while increasing performance to a level that will enable our technology to be integrated into a broad spectrum of devices. We have developed a building block approach which allows us to scale our product implementations by combining multiple transmitter building blocks and/or multiple receiver building blocks to provide the power, distance, size and cost performance necessary to meet application requirements. While the technology is very scalable, in order to provide the necessary strategic focus to grow the company effectively, we have defined our market as devices that require 10 watts or less of power to charge. We intend to continue to invest in IC development as well as in the other components of the WattUp system to improve product performance, efficiency, cost-performance and miniaturization as required to grow the business and expand the ecosystem, while also distancing us from any potential competitors. 
+ We believe that if our development, regulatory and commercialization efforts are successful, our transmitter and receiver technology will support a broad spectrum of charging solutions ranging from contact-based charging or charging at distances of a few millimeters (near field) to charging at distances of up to 15 feet (far field). 
+ In February 2015, we signed a Development and License Agreement with one of the top consumer electronic companies in the world based on total worldwide revenues. The agreement is milestone-based and while there are no guarantees that the WattUp® technology will ever be integrated into our strategic partners consumer devices, we continue to progress the relationship as evidenced by our 2017 revenues from engineering services resulting from the achievement of certain milestones under the agreement. We anticipate continued progress with the relationship, which we expect will result in additional engineering services revenue and ultimately, if our technology is incorporated into one or more products by our strategic partner, potentially significant revenues based on the WattUp® technology being integrated into products shipped to consumers. 
+ In February 2016, we began delivering evaluation kits to potential licensees to allow their respective engineering and product management departments to test and evaluate our technology. We expect that the testing and evaluations currently taking place will lead to products beginning to be shipped to consumers in 2018. 
+ In November 2016, we entered into a Strategic Alliance Agreement with Dialog, pursuant to which Dialog manufactures and distributes IC products incorporating our wire-free charging technology. Dialog is our exclusive supplier of these products for the general market. Our WattUp technology will often use Dialogs SmartBond® Bluetooth low energy solution as the out-of-band communications channel between the wireless transmitter and receiver. In most cases, Dialogs power management technology will then be used to distribute 
+ 
+2 
+
+
+Index to Financial Statements
+   power from the WattUp receiver IC to the rest of the device while Dialogs AC/DC Rapid Charge power conversion technology delivers power to the wireless transmitter. 
+ Our intellectual property strategy includes pursuing patent protection for new innovations. As of March 2, 2018, we had more than 170 pending patent and provisional patent applications. As of that date, the U.S. Patent and Trademark Office and international patent offices had issued 77 patents and had notified us of the allowance of 50 additional patents. In addition to the inventions covered by these patents and patent applications, we have also identified specific inventions that we believe are novel and patentable. We intend to file for patent protection for the most valuable of these, and for other inventions that we expect to develop. Our strategy is to continually monitor the costs and benefits of each patent application and pursue those that we expect will best protect our business and expand the core value of the Company. 
+ We have recruited and hired a seasoned management team with both private and public company experience and relevant industry experience to develop and execute our operating plan. In addition, we have identified and hired key engineering resources in the areas of IC development, antenna development, hardware, software and firmware engineering as well as integration and testing which will allow us to continue to expand our technology and intellectual property as well as meet the support requirements of our licensees. 
+ Our common stock is quoted on The Nasdaq Stock Market under the symbol WATT. As of March 2, 2018, we had 68 full-time employees, 60 of which were engineers. We were incorporated in Delaware in October 2012. Our corporate headquarters is located at 3590 North First Street, Suite 210, San Jose, CA 95134. Our website can be accessed at www.energous.com. The information contained on, or that may be obtained from our website, is not, and shall not be deemed to be, part of this Annual Report on Form 10-K.
+
+3 
+
+
+Index to Financial Statements
+  Our Technology 
+ The wire-free charging solution we are developing employs transmitter technology that creates a targeted RF energy pocket around a receiving device (mobile or fixed).
+ Figure 1 below shows a basic diagram of our solution. Today this solution is able to send RF energy from the transmitter to single or multiple devices. 
+Figure 1: Our Wire-Free Charging Solution 
+ 
+
+First, our proprietary transmitter locates the receiver(s) in space via technology we have developed using standard Bluetooth® communications. Next, the transmitter, through software control, generates a controlled and focused RF-waveform to create an RF energy pocket around the receiver(s). Receiver(s) equipped with our antennas and ICs, and controlled by our software, are able to harvest power from this focused RF energy pocket. We believe that these receivers will be incorporated into various devices such as smartphones, wearables, fitness trackers, keyboards and mice, cameras, tablets, toys, IoT devices, sensors, remote controls, medical devices and other small electronics which contain embedded batteries.
+ Our transmitter uses proprietary software algorithms to dynamically direct, focus and control our RF waveform as it transmits energy to a moving object (such as a user holding their mobile device as they walk around a room). 
+ Our initial demonstration system was able to transmit energy to multiple devices within a radius of 15 feet. We believe our current generation ICs and those in development will also allow us to significantly reduce the size and cost of both our transmitters and our receivers, and to increase delivered power and efficiency and faster synchronization. 
+ 
+4 
+
+
+Index to Financial Statements
+  In January 2016, we announced a new Miniature WattUp Near Field Transmitter (now called WattUp Near Field Transmitter Technology) and a small form factor receiver, both of which were developed as a direct result of our efforts to reduce cost and size. The WattUp Near Field Transmitter Technology offers contact-based charging, for which we have received FCC approval, that allows for low power charging at up to five millimeter distances. Due to its low cost and small size, the miniature transmitter is anticipated to be bundled in-box with WattUp receiver enabled devices, replacing alternative charging solutions like power adapters and charging cables. The ability to provide a low cost, portable charging solution for receiver devices established portability for the WattUp solution, and we expect it to accelerate the adoption of our technology. In 2017, we announced the High-Power version of the WattUp nearfield transmitter that will have the ability to change on contact at levels of up to 10 watts. 
+Our Competition 
+ There are many existing and commercially available methods for charging battery-powered devices, including wall plug-in charging, inductive charging, magnetic resonance charging, charging stations and more. To our knowledge, almost all consumer electronic devices equipped with a rechargeable battery come bundled with a method to charge the device (for example, a power cord). Studies indicate that the consumer has grown tired and frustrated with tethered charging solutions and that the market is poised and will be receptive to untethered wire-free power solutions like our WattUp technology. We believe that the positive market response and interest in the WattUp technology we have seen suggests that consumer electronic companies that develop products incorporating our technology will generate incremental sales and realize highly differentiated competitive advantages. 
+ We believe our WattUp technology has a number of advantages compared to traditional charging technologies in terms of product spectrum, distance, size, cost, mobility, foreign object detection and portability. Further, our technology allows us to target a device and track that device if it moves, or is moving, and transmit focused energy to the targeted device to charge the device without having to remove the battery or plug in the device. 
+ A variety of wireless charging technologies are on the market or under development today. These competitive technologies fall into the following categories: 
+ Magnetic Induction. Magnetic induction uses a magnetic coil to create resonance, which can transmit energy over very short distances. Power is delivered as a function of coil size (the larger the coil, the more power), and coils must be directly paired (one receiver coil to one transmitter coil = directly coupled pair) within a typical distance of less than one inch. Products utilizing magnetic induction have been available for 10+ years in products such as rechargeable electronic toothbrushes. 
+ Magnetic Resonance. Magnetic resonance is similar to magnetic induction, as it uses magnetic coils to transmit energy. This technology uses coils that range in size depending on the power levels being transmitted. It has the ability to transmit power at distances up to ~11 inches (30cm) which can be increased with the use of resonance repeaters. 
+ Conductive. Conductive charging uses conductive power transfer to eliminate wires between the charger (often a charging mat) and the charging device. It requires the use of a charging board as the power transmitter to deliver the power, and a charging device, with a built-in receiver, to receive the power. This technology requires direct metal contact between the charging board and the receiver. Once the charging board recognizes the receiver, the charging begins. 
+ RF Harvesting. Harvesting RF energy is at the core of our WattUp technology. RF harvesting typically utilizes directional antennas to target and deliver energy. To our knowledge, there are two other companies attempting to utilize a directional pocket of energy similar to that being developed by us. 
+ 
+5 
+
+
+Index to Financial Statements
+  Laser. Laser charging technology uses very short wavelengths of light to create a collimated beam that maintains its size over distance, using what is described as distributed resonance to deliver power to an optical receiver. 
+ Ultrasound. Ultrasound charging technology converts electric energy into acoustic energy in the form of ultrasound waves. It then reconverts those waves through an energy-harvesting receiver. 
+ Our Business Strategy 
+ Pursuant to our Strategic Alliance Agreement with Dialog, Dialog manufactures and distributes IC products incorporating our wire-free charging technology. Dialog is our exclusive supplier of these products for the general market. We believe there are several vertical markets with large volumes of potential annual sales that would benefit from our technology, and as a result, we may purchase our proprietary components through the Strategic Alliance Agreement. Our strategy is to support the development and proliferation of our WattUp® technology to form a ubiquitous wire-free charging ecosystem. 
+ We believe that our greatest market opportunity lies in wire-free charging at a distance, which we anticipate may develop in much the same way as the Wi-Fi ecosystem has developed. The goal is to ensure interoperability between transmitters and receivers that are based on our technology, regardless of who made them, installed them into finished goods, or marketed them. The implementation of previous ubiquitous solutions, such as Wi-Fi and Bluetooth, illustrates our goal. For example, Wi-Fi routers, regardless of their designer or manufacturer, work with Wi-Fi receivers installed in consumer electronic devices, regardless of the manufacturer. Accordingly, we are following the same rollout strategy as Wi-Fi in that we endeavor to: 
+ 
+
+ | Carefully select initial target markets;
+--+-----------------------------------------
+
+
+ | Build multiple silicon-based chips to advance the technology;
+--+--------------------------------------------------------------
+
+
+ | Partner with leading product companies;
+--+----------------------------------------
+
+
+ | Develop reference designs to reduce early adopter risks and foster adoption;
+--+-----------------------------------------------------------------------------
+
+
+ | Provide game-changing benefits to the consumer in terms of utility and convenience;
+--+------------------------------------------------------------------------------------
+
+
+ | Design initial iterations of the technology to be small but scalable implementations that are compatible on both a local and enterprise scale;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Invest in ease of use;
+--+-----------------------
+
+
+ | Develop a strategy to build out the ecosystem starting with the consumer and expanding to enterprise, industrial and military;
+--+-------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Implement a plan to initially sell ICs migrating to a combination of selling ICs and integrating our device libraries into third-party silicon such as Bluetooth Low Energy and Power Management Chips;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Develop and execute on a strategy to gain global regulatory approval for both contact and distance based charging; and
+--+-----------------------------------------------------------------------------------------------------------------------
+
+
+ | Support a consortium like the AirFuel Alliance (AFA) that is expected to lead to a qualification process to ensure compatibility of our WattUp technology across vendors and develop a common user experience at the application level.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ In order for our technology to become a ubiquitous solution for charging at a distance, we intend to pursue an ecosystem strategy for our technology, engaging not only potential licensees for our transmitter and receiver technologies, but also their upstream and downstream value chain partners. We intend to capitalize on our first-to-market advantage and prioritize protection of our intellectual property portfolio, as we believe this strategy will make it less likely that a competing platform will be able to gain a solid foothold in the RF-based wireless charging-at-a-distance market and compete with our technology in a meaningful way. 
+ 
+6 
+
+
+Index to Financial Statements
+  We believe our strategic relationship with Dialog will enable us to reap the benefits of our technology much faster and with greater penetration than by manufacturing and distributing products ourselves. We believe this strategic relationship allows us to solve the supply chain problem for major consumer electronic and IoT companies as well as leverage their highly regarded and experienced sales force while we concentrate our efforts and resources on engineering, development and commercialization projects to accelerate the introduction and adoption of the WattUp solution. 
+ In order to engage with potential licensees of the WattUp technology, we have developed evaluation kits consisting of a transmitter and a receiver along with the enabling software to allow potential strategic partners to test the technology in their labs. The kits form a base building block component that is scalable to meet the needs of specific applications. We are developing processes and support capabilities to assist potential customers as they evaluate the technology and develop specific designs to incorporate it. 
+ In selecting initial customers, we are employing a three-pronged strategy. First, we are engaging with smaller, more nimble early adopters who have short product cycles to ship fully integrated WattUp enabled devices to the consumer as quickly as possible. These customers are important from a technology validation standpoint. Simultaneously, we are engaging with larger, top tier customers who have the ability to ship WattUp enabled consumer and IoT devices in mass quantities beginning in the end of 2018. Finally, we continue to expand our customer based while we focus large opportunities with longer product cycles that should come to fruition in 2019 where we expect to see a significant increase in our revenues on the path to profitability. 
+ Since we are developing a new electronic device charging paradigm for consumers, we expect the operational details of our strategy to continue to evolve as our technology matures and our engagements with strategic partners solidify. As a result, we expect to make operational course corrections as we steer the company towards our goal of a ubiquitous wire-free charging solution. 
+ Our Target Markets 
+ We believe that our technology will be compelling to many vertical markets, each of which may have several potential customers. To focus our activities and see WattUp-enabled products in the hands of consumers as quickly as possible, we have selected initial target markets and customers based on market potential and time-to-market capabilities. As we continue to develop our technology, we intend to add more markets and partners. 
+ We identify our early target markets in two categories, transmitter target markets and receiver target markets. 
+ Transmitter Target Markets 
+ Transmitters are devices that broadcast RF energy pockets that can be accessed by Watt-Up enabled receivers in consumer electronic devices. We believe our transmitter technology will be developed and released in three basic categories: 
+ 
+
+ | Stand-alone transmitters that are either sold independently or bundled as part of a pairing with a WattUp-enabled receiver device;
+--+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Transmitters that are integrated into third party devices like televisions, computer monitors, sound bars, refrigerator doors, etc.; and
+--+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Transmitters that are integrated with Wi-Fi routers to form a single device that provides both connectivity and wire-free power for a particular area.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+7 
+
+
+Index to Financial Statements
+  Stand-Alone Transmitters: 
+ We currently plan to release stand-alone transmitters in three categories: 
+ Near Field WattUp Transmitters: 
+ Because of the distinct advantages compared to other existing forms of contact-based wireless charging including ease of manufacturing and relative ease of regulatory approval, we expect that products using our Near Field transmitter technology will be the first WattUp enabled products on the market. Our Near Field transmitters are ideally suited for a broad spectrum of devices such as wearables, IoT devices and other small electronics that require a small form factor receiver and a low-cost charging solution as well as larger, more power-hungry devices like smartphones, smart watches and tablets. These solutions will initially be one-to-one (one transmitter to one receiver) with follow-on versions being one transmitter to multiple receivers. 
+ Mid Field WattUp Transmitters: 
+ We expect that our Mid Field WattUp transmitters will be geared to desktop and automotive markets and will likely have a range of a few centimeters to one meter. We also intend for the Mid Field transmitters to have tracking ability to support mobile applications and multiple receiving devices. Midsized WattUp transmitters may include small desktop and nightstand transmitters designed to send power at distances for consumer electronic and IoT devices. The same technology may also be integrated into third party devices such as computer monitors, nightstand consumer electronics, accessories such as low voltage portable battery chargers and integrated automotive applications. 
+Far Field WattUp Transmitters: 
+ Far Field WattUp transmitters are full featured transmitters with the power to charge multiple devices within a radius of up to 15 feet. We also expect that Far Field WattUp transmitters will have the ability to pair with other Far Field WattUp transmitters, allowing the user to create a large charging envelope encompassing many different rooms or large spaces while seamlessly providing charging to mobile devices that are moving through the coverage space. Far Field WattUp transmitters may also play a significant role in the powering of IoT devices that are fixed  such as security cameras and sensors. These may also be charged from a WattUp-enabled Wi-Fi router, which adds RF-based charging-at-a-distance functionality. 
+ Transmitters Integrated into Third Party Devices:
+ The building block core architecture developed for the WattUp technology is ideally suited to a broad spectrum of third party devices like televisions and refrigerator doors. The flexibility of the architecture in terms of size, power, distance, and cost affords Energous licensees the opportunity to match our technology with specific requirements and limitations typically found with complex integrations. For example, the WattUp technology could be integrated into the door of a small refrigerator typically found in college dorm rooms providing charging capabilities to mobile devices anywhere in the room. Further, the pairing capabilities of the transmitter technology could enable licensees to develop venue-specific consumer electronics products like integrated televisions that are paired with integrated picture frames to provide mobile charging across a large room such as an airport lounge. 
+ Wi-Fi Routers 
+ We see the combination of the wire-free power router and the Wi-Fi router as a natural integration point and a synergistic application of both technologies. The WattUp wire-free power router shares a number of technical characteristics with Wi-Fi routers in that both devices operate in the airwaves in the unlicensed industrial, scientific and medical bands, both devices owe their success to the utility and convenience they bring to the 
+ 
+8 
+
+
+Index to Financial Statements
+   consumer, both devices rely on antenna structures to send power and data, and both devices pair or provide hand off capabilities which allow for large enabled sites similar to a mesh network. We also believe that our technology may enhance the data signal of a Wi-Fi router, which we believe will provide an even stronger value proposition to wireless data router manufacturers. 
+ The Wi-Fi router market has two segments: commercial and residential. The key differentiator between these segments is that commercial routers tend to have much more robust security features, including virtual private networks and advanced content filtering. We believe that our technology is applicable to both the commercial and residential Wi-Fi router markets based on the building block capabilities mentioned earlier that will enable the WattUp technology to effectively serve and support both markets. 
+ In addition, the Wi-Fi router market has other key players. These include consumer electronics supply chain firms, including original equipment manufacturers (OEMs), original design manufacturers (ODMs), component manufacturers and branded consumer electronics firms. We believe that each of these categories of players can help to integrate our technology into a commercially available Wi-Fi router. 
+ As part of our go-to-market strategy under the Strategic Alliance Agreement with Dialog, we are currently working with customers offering consumer and commercial applications of our technology. 
+ Receiver Target Markets 
+ We believe there are a wide variety of potential uses for our receiver technology, including: 
+ 
+
+ | Smartphones
+--+------------
+
+
+ | Hearing aids
+--+-------------
+
+
+ | IOT devices
+--+------------
+
+
+ | Wearables
+--+----------
+
+
+ | Tablets
+--+--------
+
+
+ | Mice
+--+-----
+
+
+ | Gaming consoles and controllers
+--+--------------------------------
+
+
+ | Keyboards
+--+----------
+
+
+ | e-book readers
+--+---------------
+
+
+ | Remote controls
+--+----------------
+
+
+ | Sensors (such as thermostats)
+--+------------------------------
+
+
+ | Toys
+--+-----
+
+
+ | Rechargeable batteries
+--+-----------------------
+
+
+ | Rechargeable lights
+--+--------------------
+
+
+ | Automotive accessories
+--+-----------------------
+
+
+ | Personal care products (such as toothbrushes or shavers)
+--+---------------------------------------------------------
+
+
+ | Retail inventory management (such as RFID tags)
+--+------------------------------------------------
+
+
+ | Hand-held industrial devices (such as scanners or keypads)
+--+-----------------------------------------------------------
+
+
+ | Medical devices
+--+----------------
+
+ 
+9 
+
+
+Index to Financial Statements
+  This list is meant for illustrative purposes only; we cannot guarantee that we will address any of these markets, and we may decide to address a market that is not on the above list. We intend to continuously evaluate our target markets and choose new markets based on factors including (but not limited to) time-to-market, market size and growth, and the strength of our value proposition for a specific application. 
+ Key Strategic Partnership 
+ In January 2015, we signed a Development and License Agreement with a tier-one consumer electronics company to embed WattUp wire-free charging receiver technology in various products, including mobile consumer electronics and related accessories. 
+ This Development and License Agreement, as amended, contains invention and development milestones requirements that we will need to achieve through fiscal 2018 and potentially beyond. We are entitled to receive development payments under the agreement, based on achievement of specified milestones. 
+ During the development phase until one year after the first customer shipment of any WattUp enabled product within the partners portfolio of products, we will afford this customer a time to market advantage in the licensed product categories. 
+ This agreement was last amended in December 2017 to allow us to market certain products that were previously restricted by the exclusivity terms of the agreement. 
+ WattUp uses small form factor antennas that are formed using the existing devices printed circuit board, removing the need for larger, more expensive coils. This enables broader adoption of wireless charging in a larger range of battery-powered devices, such as smartphones, tablets, IoT devices, small form factor wearables, gaming and Virtual Reality (VR)/Augmented Reality (AR) devices. 
+ We believe this agreement, or one like it with another top tier consumer electronics company, presents an opportunity to accelerate critical mass adoption for WattUp® wire-free power. We also believe that partners are the key to adoption and critical mass by the broad distribution of embedded or stand-alone transmitters into other consumer electronics devices. Finally, having this wide adoption on both the transmitter and the receiver side should create demand for broad adoption of our technology from circles outside of our key strategic partners. 
+ In November 2016, we entered into a Strategic Alliance Agreement with Dialog for the manufacture and distribution of IC products incorporating our wire-free charging technology. Dialog is our exclusive supplier of these products for specified fields of use. Our WattUp chipsets are ordered through and manufactured by Dialog, carry the Dialog brand and are shipped and supported by Dialog. Dialog agreed to not distribute, sell or work with any third party to develop any competing products without our approval. Energous and Dialog agreed on a revenue sharing arrangement and will collaborate on the commercialization of licensed products based on a mutually-agreed upon plan. 
+ Our WattUp technology uses Dialogs SmartBond® Bluetooth low energy solution as the out-of-band communications channel between the wireless transmitter and receiver. Dialogs power management technology is used to distribute power from the WattUp receiver IC to the rest of the device while Dialogs AC/DC Rapid Charge power conversion technology delivers power to the wireless transmitter. 
+ Research and Development 
+ Research and development costs accounted for approximately 66%, 69% and 63% of our total operating expenses for 2017, 2016 and 2015, respectively. Our total research and development expenses were $33.2 million, $32.8 million, and $18.8 million for the 2017, 2016, and 2015, respectively. Research and development expenses are expected to increase in the future as we concentrate our efforts and resources on the commercialization of our technology. 
+ 
+10 
+
+
+Index to Financial Statements
+  Our Intellectual Property 
+ As a company primarily focused on licensing, we expect that our most valuable asset will be our intellectual property. This includes U.S. and foreign patents, patent applications and know-how. We have implemented an aggressive intellectual property strategy and are continuing to pursue patent protection for new innovations. As of March 2, 2018, we had more than 170 pending patent applications in the U.S. and abroad. Additionally, the U.S. Patent and Trademark Office and international patent offices have issued 77 patents and notified us of the allowance of 50 additional patents applications. In addition to the inventions covered by these patents and patent applications, we have identified a significant number of additional specific inventions we believe are novel and patentable. We intend to file for patent protection for the most valuable of these, as well as for other new inventions that we expect to develop. Our strategy is to continually monitor the costs and benefits of each patent application and pursue those that will best protect our business and expand the core value of the Company. 
+Government Regulation 
+ Our wire-free charging technology involves the transmission of power using RF energy waves, which is subject to regulation by the Federal Communications Commission (FCC), and may be subject to regulation by other federal, state, local and international agencies. We believe our technology is safe, and we continue to consult with the FCC and other regulatory bodies to establish a process by which devices incorporating WattUp® technology can secure required approvals. 
+ As part of the regulatory approval process, devices incorporating the WattUp® technology will need to obtain approvals under both FCC Part 15 and FCC Part 18, depending on specific application. Energous has received Part 15 and Part 18 FCC grants for WattUp enabled products and anticipates future domestic and international approvals for new and updated designs. 
+ 
+
+Current FCC Approvals:
+FCC ID | Description | Grant Date
+2ADNG-MS300A | WPT Client Device with BLE 913 MHz | 01/05/2018
+2ADNG-NF130 | RF Wireless Charger and Receiver 5.8 GHz | 05/02/2017
+2ADNG-MS300A | Digital Transmission System WPT Client Device with BLE 2.4 GHz | 01/05/2018
+2ADNG-MT100 | Close Coupled 5.8 GHz Charger Pad | 05/24/2016
+2ADNG-MS300 | Wireless Charger 913 MHz | 12/26/2017
+2ADNG-MLA1599 | Digital Transmission System Bluetooth Accessory 2.4GHz | 12/30/2014
+2ADNG-NF130 | Digital Transmission System RF Wireless Charger and Receiver 2.4 GHz | 05/02/2017
+2ADNG-MS300 | Wireless Charger 2.4 GHz | 12/26/2017
+
+Employees 
+ As of March 2, 2018, we had 68 full-time employees. None of these employees are covered by a collective bargaining agreement, and we believe our relationship with our employees is good. We also employ consultants, including technical advisors, on an as-needed basis to supplement existing staff. Consultants and technical advisors provide us with expertise in electrical engineering, software development and other specialized areas of engineering and science. 

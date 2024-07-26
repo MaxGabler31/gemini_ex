@@ -1,0 +1,155 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | DESCRIPTION OF BUSINESS
+--------+------------------------
+
+Company Background and Corporate Structure 
+ American Electric Technologies, Inc. (the “Company”, “AETI”, “our”, “us” or “we”) was incorporated on October 21, 1996 as a Florida corporation. On May 15, 2007, we completed a business combination (the “M&I Merger”) with M&I Electric Industries, Inc. (“M&I” or “M&I Electric”), a Texas corporation, and changed our name to American Electric Technologies, Inc. Our principal executive offices are located at 1250 Wood Branch Park Drive, Suite 600, Houston Texas 77079 and our telephone number is 713-644-8182. 
+ Our corporate structure currently consists of American Electric Technologies, Inc., which owns 100% of M&I Electric Industries, Inc., including its wholly-owned subsidiary, South Coast Electric Systems, LLC (“SCES”) and M&I Electric Brazil Sistemas e Servicios em Energia LTDA (“M&I Brazil”). The manufacturing operations of SCES were sold on June 24, 2016. AETI has retained the entity along with the existing service organization. We also have an interest in a joint venture which operates in China and an inactive joint venture in Singapore.
+Products and Services 
+  We have provided custom-designed power distribution, power conversion, and automation and control systems for our customers since 1946. Our products are used to safely distribute and control the flow of electricity from a power generation source (e.g. a diesel generator, turbine or the utility grid) to whatever mechanical device utilizes the power (drilling machinery, motors, other process equipment, the utility grid, etc.) at low and medium voltages. 
+ Our power distribution products include low and medium voltage switchgear that provides power distribution and protection for electrical systems from electrical faults. Our products include traditional low voltage and medium voltage switchgear, and our IntelliSafe™ medium voltage arc-resistant switchgear designed to increase end-user safety in case of an arc-flash explosion. IntelliSafe™ is designed for the downstream oil & gas sector, process industries and the power generation market, and was designed to be the safest arc-resistant product on the market. IntelliSafe™ meets key industry specifications and certifications. Our products are suitable for both American National Standards Institute (“ANSI”) and International Electrotechnical Commission (“IEC”) markets. Other power distribution products in our solution set include low voltage and medium voltage motor control centers, bus ducts, fuse and switch products, and other related power distribution equipment. We also purchase and integrate third party products into turnkey solutions per our customer specifications including items such as battery backup power systems and transformers.
+ Our power conversion solutions include alternating current variable frequency drive (“AC VFD”) systems, analog systems and digital silicon controlled rectifier (“SCR”) products , that are used to adjust the speed and torque of an electric motor to match various user applications, primarily in the land and offshore drilling and marine vessel markets. 
+ Our power distribution and control products are generally custom-designed to our customers’ specific requirements, and we do not maintain an inventory of such products. 
+ We have the technical expertise to provide our solutions in compliance with a number of applicable industry standards such as National Electrical Manufacturers Association (“NEMA”) and ANSI or IEC equipment to meet American Bureau of Shipping (“ABS”), United States Coast Guard (“USCG”), Lloyd’s Register, a provider of marine certification services, and Det Norske Veritas (a leading certification body/registrar for management systems certification services) standards. 
+ Our automation and control solutions are designed for the management and control of power in a customer’s application. The DrillAssist™ is a control system that enables the management of a land and offshore drilling rig’s operations. DrillAssist™ includes auto-drill capabilities and a driller’s chair and cabin where the drilling rig operator manages the rig. The Company’s Vessel Management system is a packaged control platform for management of vessel operations.
+ Our Power Distribution Centers (“PDC”) are used to house our power distribution and power conversion products. Our PDCs can be manufactured over 100 ft. long and 40 ft. wide. The Company also manufactures VFD and SCR houses for land drilling and driller’s cabins for land and offshore deployment.
+ We provide a variety of electrical services including the commissioning and maintenance of our customers’ full electrical power infrastructure. We provide low and medium voltage start-up/commissioning, preventative maintenance, emergency call out services, and breaker and switchgear refurbishment services. 
+ We offer a full range of electrical and instrumentation construction and installation services to our markets. These services include new construction as well as electrical and instrumentation turnarounds, maintenance and renovation projects. Applications include installation of switchgear, AC and DC motors, drives, motor controls, lighting systems and high voltage cable. 
+ 3
+
+The principal markets that we serve include: 
+  
+• | Oil and gas – the Company provides “turn-key” power delivery solutions for the upstream, midstream and downstream oil and natural gas sectors.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Upstream oil and gas refers to the exploration and production of oil and natural gas. The Company serves customers in the land drilling, offshore drilling, land-based production, and offshore production segments of the market.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Midstream oil and gas is primarily related to oil and gas transportation, including oil and gas pipelines and compression and pumping stations. The Company also has a customer base in natural gas fractionation (separation), cryo, natural gas to liquids, and other natural gas related plants.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Downstream oil and gas includes oil refining and petrochemical plants, as well as Liquefied Natural Gas (LNG) plants, export facilities, and storage facilities.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Power generation and distribution – the Company provides “turn-key” power delivery solutions for the power generation and distribution market sectors.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The Company works with engine-generator manufacturers and dealers, turbine manufacturers, Engineering, Procurement and Construction (“EPC”) firms, and other electrical engineering service companies to provide electric power delivery products and solutions. The Company also provides products and services for renewable power generation including biomass, geothermal and other renewable energy projects.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The Company designs, manufactures, commissions and maintains our equipment for implementation in base-load, peaking power, cogeneration, and substation transmission facilities worldwide.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Marine and industrial
+--+----------------------
+
+
+• | Marine applications includes blue water vessels such as platform supply vessels (PSV), offshore supply vessels (OSV), tankers and other various work boats, typically up to 300 ft. in length. The Company also provides solutions to brown water vessels such as barges, dredges and other river and inland water vessels.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Industrial, including non-oil & gas industrial markets such as steel, paper, heavy commercial, and other non-oil & gas applications.
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+Foreign Joint Ventures 
+ We use foreign joint ventures to accommodate business in China and South East Asia. We believe our foreign joint ventures provide a prudent way to diversify and reduce the risk of international expansion, capitalize on the strengths and the relationships of our foreign joint venture partners with potential customers, and achieve competitive advantages. Our interests in foreign joint ventures are accounted for under the equity method of accounting. Sales made to the foreign joint ventures are made with terms and conditions similar to those of our other customers. 
+ China. In March 2006, M&I Electric entered into a joint venture agreement with Baoji Oilfield Machinery Co., Ltd., (“BOMCO”), a wholly-owned subsidiary of the China National Petroleum Corporation, and AA Energies, Inc. of Houston, Texas, which markets oilfield equipment, to form BOMAY Electric Industries Co., Ltd. (“BOMAY”), as an equity joint venture limited liability company organized in China. M&I is a 40% interest owner in BOMAY with 51% being owned by BOMCO and the remaining 9% owned by AA Energies, Inc. BOMAY manufactures power and control systems for land drilling rigs. M&I has invested 16 million Yuan (approximately $2 million) in this joint venture in which M&I provides technology and services to BOMAY. Each of the BOMAY investors may be required to guarantee the bank loans of BOMAY in proportion to their investment. No guarantees have been provided by AETI at this time. The joint venture has an initial 12 year term, and will expire in 2018. The term of the joint venture may be extended upon agreement of all parties. In such case, the joint venture shall apply for the extension to the relevant Chinese authority six months before expiry of the venture. In March 2018, an agreement was approved by the BOMAY Board of Directors, extending the joint venture agreement beyond the 2018 expiration date pending approval by the Chinese government. 
+ Singapore. In 1994, the Company formed a joint venture in Singapore to provide sales, engineering, manufacturing and technical support for our products in Southeast Asia called M & I Electric Far East PTE Ltd. (“MIEFE”). The Company currently owns 41% of the joint venture with our joint venture partner, Sonepar, owning 51% and MIEFE’s general manager owning the remaining 8%. In 2016, due to market conditions, the business suspended current operations and the investment in MIEFE was written down to zero excluding foreign currency translation.
+ 4
+
+The following is selected financial information of the Company’s investment in foreign joint ventures as of and for the years ended December 31, 2017 and 2016: 
+  
+ | Year Ended December 31, 2017 | | | Year Ended December 31, 2016 | 
+--------------------------------------------+------------------------------+--------+-------+------------------------------+----
+ | BOMAY | | MIEFE | | | BOMAY | | MIEFE | 
+Investment as of end of year | $ | 10,737 | | $ | 210 | | | $ | 10,450 | | $ | 213 | 
+Equity income (loss)* | | 434 | | | - | | | | 804 | | | (3 | )
+Distributions received from joint ventures* | | 780 | | | - | | | | 589 | | | - | 
+Foreign currency translation* | | 633 | | | (3 | ) | | | (661 | ) | | 8 | 
+AETI sales to joint ventures | 12 | | | - | | | 105 | | 2 | 
+Accounts receivable due from joint ventures | | - | | | - | | | 36 | | | - | 
+
+
+* | Numbers are reflected in the investment balance as of end of year.
+--+-------------------------------------------------------------------
+
+ During 2017 and 2016, the Company recognized approximately $0.25 million, for employee joint venture related expenses which are included in Foreign Joint Ventures Operation’s Related Expenses in the accompanying consolidated statements of operations.
+ International Sales 
+ During 2017, approximately 20% of the Company’s consolidated revenue was derived from services provided and systems sold or shipped into international markets. Sales from the United States are generally made in United States Dollars and settled prior to shipment or are collateralized by irrevocable letters of credit. M&I Brazil’s sales are generally made in Brazilian Reals.
+Marketing  
+ We market our products and services in the United States through direct contact with potential customers by our internal sales organization, consisting of full-time sales and sales support employees. We have several sales agreements with agents and distributors in the United States and several foreign countries. We also exhibit at a variety of industry trade shows each year. M&I Brazil markets in Brazil and certain other South American countries. 
+ Our business is generally obtained through a competitive bid process where the lowest bid from pre-qualified suppliers is awarded the project. Depending on the market segment, we either sell directly to the end user or owner, a shipyard or rig builder, or, sell to an EPC firm representing the end project owner. 
+ Manufacturing 
+ Manufacturing processes at our facilities include machining, fabrication, wiring, subassembly, system assembly and final testing. We have invested in automated and semi-automated equipment for the fabrication and machining of parts and assemblies that we incorporate into our products. Our quality assurance program includes quality control measures from inspection of raw material, purchased parts and assemblies through on-line inspection. We perform system design, assembly and testing in-house. The Company’s primary manufacturing facility is located in Beaumont, Texas and is ISO 9001:2015 certified. 
+Raw Materials and Suppliers 
+ The principal raw materials for our products are copper, steel, aluminum and manufactured electrical components. We obtain these products from a number of domestic and foreign suppliers. The market for most of the raw materials and parts we use is comprised of numerous suppliers and we believe that we can obtain each of the raw materials we require from more than one supplier. We do not have any long-term contractual arrangements with the suppliers of our raw materials. 
+Competition 
+ Our products and services are sold in highly competitive markets. We compete in all of our markets and regions with a number of companies, some of which have financial and other resources comparable to or greater than us. Due to the demanding operating conditions in the energy sector and the high costs associated with project delays and equipment failure, we believe customers in this industry prefer suppliers with a track record of proven, reliable performance in their specific energy related project type. We seek to build strong long-term relationships with our customers by providing high-quality, efficient and reliable products and services, developing new products and services and responding promptly to our customers’ needs. 
+ The principal competitive factors in our markets are product and service quality, reliability, lead time, price, technical expertise and reputation. 
+ We believe our principal competitive strengths include the following: 
+ Our power delivery, control and drive systems are custom-designed and are built to meet our customers’ specific requirements. We specialize in projects that are complex, require industry certification, have short lead times or other non-standard elements, such as systems that must be deployed in harsh environments or need to meet tight space or weight requirements. Our ability to provide custom-designed technical products, PDCs, electrical and instrumentation construction services, and electrical startup and 
+ 5
+
+preventative maintenance services enables us to provide customers total system responsibility for their electrical power control and distribution needs and is unusual in this industry.
+ Our commitment to providing quality products and services, fair pricing, innovation and customer service is the foundation to the long-standing customer relationships that we enjoy with an attractive customer base. Since 1946, we have provided over 10,000 power delivery systems to many of the leading companies involved in oil and gas exploration, drilling, production, pipelines, shipbuilding, oil refineries, petrochemicals, power generation, and steel industries in the United States. 
+ We are led by an experienced management team with a proven track record. We believe the experience of our management team provides us with an in-depth understanding of our customers’ needs and enhances our ability to deliver customer-driven solutions. We believe our management has fostered a culture of loyalty, resulting in high employee retention rates for our professional and technical employees. 
+ The Company has multiple competitive advantages for our products:
+  
+• | Custom design;
+--+---------------
+
+
+• | Market leading technologies such as our patent-pending IntelliSafe™ medium voltage arc-resistant switchgear and our DrillAssist™ drilling automation and control solutions;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Turn-key solutions, including in-house manufacturing of PDC’s;
+--+---------------------------------------------------------------
+
+
+• | Quick delivery time;
+--+---------------------
+
+
+• | Able to use best of breed components and mix and match subsystems from a variety of vendors versus a single supplier solution; and
+--+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Able to provide integrated solution by self-performing our technical products and electrical & instrumentation construction work.
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+ We have identified our largest competitors, by product line as follows: 
+  
+• | Power distribution/switchgear systems—Powell Industries, Siemens, Eaton, GE, ABB and Volta.
+--+--------------------------------------------------------------------------------------------
+
+
+• | Power conversion/drive systems—Omron/ Schlumberger, National Oilwell Varco (NOV), ABB, and Siemens.
+--+----------------------------------------------------------------------------------------------------
+
+Backlog 
+ Backlog represents the dollar amount of net sales that we expect to realize in the future as a result of performing work under multi-month contracts. Backlog is not a measure defined by generally accepted accounting principles, and our methodology for determining backlog may not be comparable to the methodology used by other companies in determining their backlog. Backlog may not be indicative of future operating results. Not all of our potential net sales are recorded in backlog for a variety of reasons, including the fact that some contracts begin and end within a short-term period. Many contracts are subject to modification or termination by the customer. The termination or modification of any one or more sizeable contracts or the addition of other contracts may have a substantial and immediate effect on backlog. Our backlog does not include any backlog in place at our foreign joint ventures’ operations. 
+ We generally include total expected net sales in backlog when a contract for a definitive amount of work is entered into. We generally expect our backlog to become net sales within a year from the signing of a contract. Backlog as of December 31, 2017 and 2016 totaled $18.9 million and $13.5 million, respectively. 
+ Intellectual Property 
+ We have a number of trademarks and trade names utilized with our products and services. While proprietary intellectual property is important to the Company, management believes the loss or expiration of any intellectual property right would not materially impact the Company. The Company has recently filed for several patents relating to its new IntelliSafe™ medium voltage arc-resistant switchgear product line.
+Environmental Laws 
+ We are subject to various federal, state and local laws enacted for the protection of the environment. We believe we are in compliance with such laws. Our compliance has, to date, had no material effect on our capital expenditures, earnings, or competitive position. 
+Research and Development Costs 
+ Total expenditures for research and development were $0.28 million and $0.96 million for the fiscal years ended December 31, 2017 and 2016, respectively. Research and development cost were incurred to develop new products for our energy-related markets including new power distribution, power conversion and automation and control products. 
+ 6
+
+Employees 
+ As of December 31, 2017, we had 246 employees. No employees are covered by a collective bargaining agreement, and we consider our relations with our employees to be satisfactory. 
+
+7
+
+ 

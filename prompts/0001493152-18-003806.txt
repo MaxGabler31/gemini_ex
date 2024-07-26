@@ -1,0 +1,246 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+Company Overview
+ 
+Lixte Biotechnology Holdings, Inc., a Delaware corporation, including its wholly-owned Delaware subsidiary, Lixte Biotechnology, Inc. (collectively, the “Company”), is a drug discovery company that uses biomarker technology to identify enzyme targets associated with serious common diseases and then designs novel compounds to attack those targets. The Company’s product pipeline encompasses two major categories of compounds at various stages of pre-clinical and clinical development that the Company believes have broad therapeutic potential not only for cancer but also for other debilitating and life-threatening diseases.
+ 
+The Company’s activities are subject to significant risks and uncertainties, including the need for additional capital, as described below. The Company has not yet commenced any revenue-generating operations, does not have positive cash flows from operations, and is dependent on periodic infusions of equity capital to fund its operating requirements.
+ 
+Description of Business
+ 
+The Company’s primary focus is developing new treatments for human cancers for which better therapies are urgently needed. The scope of potential applications of the Company’s products has expanded to other common non-malignant diseases, including vascular diseases (heart attacks and stroke, diabetes, genetic diseases, such as Gaucher’s disease), and recently to depression and potentially post-traumatic stress syndrome. This has occurred because the targets selected by the Company have multiple functions in the cell, which, when altered, result in different disorders that may benefit by treatment from the Company’s products.
+ 
+The Company’s drug discovery process is based on discerning clues to potential new targets for disease treatments reported in the increasingly large body of literature identifying the molecular variants which characterize human cancers and other non-cancer disorders. The Company designs drugs for which there are existing data suggesting that they may affect the altered pathways of the cancer cell and may be given safely to humans. The Company seeks to rapidly arrive at patentable structures through analysis of the literature rather than screening of thousands of structures for activity against a particular biochemical pathway.
+ 
+This approach has led to the development of two classes of drugs for the treatment of cancer, consisting of protein phosphatase inhibitors (PTase-i), designated by the Company as the LB-100 series of compounds, and histone deacetylase inhibitors (HDACi), designated by the Company as the LB-200 series of compounds. Compounds of both types also have potential use in the prevention and treatment of neurodegenerative diseases.
+ 
+The LB-100 series consists of novel structures which have the potential to be first in their class, and may be useful in the treatment of not only several types of cancer but also vascular and metabolic diseases. The LB-200 series contains compounds which have the potential to be the most effective in its class and may be useful for the treatment of chronic hereditary diseases, such as Gaucher’s disease, in addition to cancer and neurodegenerative diseases.
+ 
+The Company has demonstrated that lead compounds of both the LB-100 series and the LB-200 are active against a broad spectrum of human cancers in cell culture and against several types of human cancers in animal models. The research on these compounds was initiated in 2006 under a Cooperative Research and Development Agreement (“CRADA”) with the National Institute of Neurologic Disorders and Stroke (“NINDS”) of the National Institutes of Health (“NIH”) dated March 22, 2006 that was subsequently extended through a series of amendments until it terminated on April 1, 2013.
+ 
+
+4
+-
+
+ 
+
+Effective treatment of brain tumors depends upon the ability of compounds to penetrate a physiological barrier known as the “blood-brain barrier” which protects the brain from exposure to potentially toxic substances in the blood. Because there is no certainty that the Company’s compounds will be active against tumors confined to the brain, the LB-100 compounds have been studied against a variety of common and rare cancer types and have been shown to potentiate the activity of standard anti-cancer drugs in animal models of breast and pancreatic cancer, melanoma, pheochromcytomas and sarcomas. Because the LB-100 compounds appear to exert their ability to improve the effectiveness of different forms of chemotherapy and radiation therapy by inhibiting a process upon which most, if not all, cancer cell types depend on to survive treatment, the Company believes the LB-100 series of compounds may be useful against most, if not all, cancer types.
+ 
+The second class of drugs under development by the Company, the LB-200 series, is the histone deacetylase inhibitors. Many pharmaceutical companies are also developing drugs of this type, and at least two companies have HDACi approved for clinical use, in both cases for the treatment of a type of lymphoma. Despite this significant competition, the Company has demonstrated that its HDACi have broad activity against many cancer types, have neuroprotective activity, and have anti-fungal activity. In addition, these compounds have low toxicity, making them attractive candidates for development. It appears that one type of molecule has diverse effects, affecting biochemical processes that are fundamental to the life of the cell, whether they are cancer cells, nerve cells, or even fungal cells. The neuroprotective activity of the Company’s HDACi has been demonstrated in the test tube in model systems that mimic injury to brain cells such as occurs in stroke and Alzheimer’s disease. Potentially, this type of protective activity may have application to a broad spectrum of other chronic neurodegenerative diseases, including Parkinson’s Disease and Amytrophic Lateral Sclerosis (ALS, or Lou Gehrig’s Disease).
+ 
+The Company’s primary objective has been to bring one lead compound of the LB-100 series to clinical trial. In 2012, the Company completed the pre-clinical studies needed to prepare an Investigation New Drug (“IND”) application to the United States Food and Drug Administration (“FDA”) to conduct a Phase 1 clinical trial of LB-100, and engaged Theradex Systems, Inc. (“Theradex”), an international contract research organization (“CRO”) that provides professional services for the clinical research and development of pharmaceutical compounds, to be responsible for the clinical development of the Company’s lead compound, LB-100 and to prepare an IND application for filing with the FDA.
+ 
+The Company filed an IND application with the FDA on April 30, 2012, and on July 24, 2012, the FDA notified the Company that it would allow initiation of a Phase 1 clinical trial of LB-100. The purpose of this clinical trial was to demonstrate that LB-100 can be administered safely to human beings at a dose and at a frequency that achieves the desired pharmacologic effect; in this case, inhibition of a specific enzyme, without being associated with toxicities considered unacceptable.
+ 
+The Phase 1 clinical trial of LB-100 began in April 2013 with the entry of patients into the clinical trial initiated at the City of Hope National Medical Center in Duarte, California, and was extended in December 2013 to include the Mayo Clinic in Rochester, Minnesota, both of which are Comprehensive Cancer Centers designated by the National Cancer Institute. As the accrual of patients was slower than anticipated, in October 2014, the Company entered into a Clinical Research Agreement (“CRA”) with US Oncology Research, LLC, a large community-based research network based in Texas, to increase the rate of entry of patients into the clinical trial by adding four more active clinical oncologic research sites.
+ 
+Patient entry into the Phase 1 clinical trial was completed in May 2016. The cost of the clinical trial was higher than originally estimated, in part because patients were able to tolerate higher doses of LB-100 than originally expected, thus requiring more dose escalation steps to determine the maximum tolerable dose (“MTD”) of LB-100 given alone. In addition, patients achieved stabilization without any dose-limiting toxicity (“DLT”), remaining on treatment with LB-100 for longer periods of time than is usual in a Phase 1 clinical trial of a new drug in patients failing all previous treatments. The Company’s interpretation of the clinical trial results to date is that LB-100 as a single agent has activity against several types of cancer, as evidenced by stabilization of progressive disease in the absence of DLT.
+ 
+The costs of the Phase 1 clinical trial of LB-100 were paid to or through Theradex, the CRO responsible for the clinical development of LB-100. Total costs charged to operations from 2013 through December 31, 2017 for services paid to or through Theradex pursuant to this arrangement aggregated $2,233,248, of which $105,698 and $427,429 were incurred during the years ended December 31, 2017 and 2016, respectively, or approximately 23% and 49% of research and development costs for the years ended December 31, 2017 and 2016, respectively.
+ 
+
+5
+-
+
+ 
+
+The Company’s immediate goals are to demonstrate significant therapeutic benefit of LB-100 against one or more specific human cancers in Phase 2 clinical trials. The Company has several attractive targets for new therapies incorporating LB-100. Resources permitting, the Company’s current plans are to conduct the following clinical studies:
+ 
+(1) A Phase 1b/2 clinical trial of LB-100 as a single agent in the treatment of patients with del(5q) myelodysplastic syndrome (del5qMDS) failing first line therapy.
+ 
+(2) A Phase 1b/2 randomized trial in previously untreated patients with small cell lung cancer (SCLC) comparing the standard regimen, carboplatin/etoposide, with and without LB-100.
+ 
+(3) A Phase 1b/2 randomized trial in patients with hepatocellular cancer (HCC) failing their initial treatment with the current standard drug sorafinib, comparing a standard second line drug for this disease, doxorubicin, with and without LB-100, or, depending on the results of ongoing trials of others, in which a PD-1 immune checkpoint blocker may prove minimally more active than sorafinib, an alternative trial by the Company of a PD-1 inhibitor with and without LB-100.
+ 
+The Phase 1b/2 studies described above will require additional capital or partnering opportunities with other pharmaceutical companies to undertake and complete. There is no assurance that the Company will be able to obtain one or more financing or partnering relationships, or what the terms may be. The Company’s longer-term objective is to secure one or more strategic partnerships with pharmaceutical companies with major programs in cancer.
+ 
+Publications
+ 
+The following publications have included articles discussing the Company’s compounds:
+ 
+An article in the December 12, 2011 edition of the Proceedings of the National Academy of Sciences in the United States reported that the Company’s investigational drug, LB-205 was shown to have therapeutic potential in a laboratory model of the genetic illness Gaucher’s disease. The Company has patent applications pending on the use of LB-205 for this purpose.
+ 
+On June 18, 2013, an article was published in Clinical Cancer Research showing that LB-100 is a radiotherapy sensitizing agent that increases the effectiveness of x-ray treatment against human pancreatic cancer cells in an animal model, as the Company has shown for two other types of human cancers. These results are in keeping with the ability of LB-100 to enhance the effectiveness of existing cytotoxic treatments, both chemotherapy and radiotherapy, against different types of cancers. Because LB-100 itself does not readily enter the brain in animal models, the Company has developed new related compounds which have been shown to penetrate the blood brain barrier (entering the brain after systemic injection) in mice, and is evaluating the effectiveness of these compounds in the treatment of brain tumors in animal models.
+ 
+The June 25, 2013 issue of the Proceedings of the National Academy of Sciences reported that scientists at the National Institutes of Health had determined that one of the Company’s 200 series compounds significantly reduced the extent of structural damage in the brain and lessened neurological functional impairment in a rat model of traumatic brain injury (TBI). Given the need for methods to reduce injury to the brain after acute injuries caused by explosive devices, sports injuries and accidental falls, the Company is seeking partners in the private and governmental sectors to assist in developing these compounds for clinical evaluation.
+ 
+In May 2014 an article was published in Molecular Cancer Therapeutics reporting that LB-100 enhanced the therapeutic effectiveness of chemotherapeutic drugs (doxorubicin and cisplatin) without significantly enhancing toxicity against HCC in animal models. HCC is the most common cancer in Asia and one of the leading causes of death from cancer worldwide.
+ 
+In October 2014, investigators reported in Cancer Letters that LB-100 enhanced the therapeutic effectiveness of chemotherapy in animal models of pancreatic cancer can without significantly enhancing toxicity.
+ 
+
+6
+-
+
+ 
+
+In November 2014, investigators from the National Institutes of Health reported in Molecular Cancer Therapeutics that LB-100 overcomes the resistance of cisplatin-resistant human ovarian cancer cells in the peritoneal cavity of animals. This finding is of particular interest as platinum-based chemotherapy drugs are the first-line treatment for women with unresectable ovarian cancer and patients so treated eventually relapse because of development of platinum-resistant disease.
+ 
+In December 2014, scientists from the Terry Fox Cancer Center, Vancouver, British Columbia, reported at the Annual Society of Hematology Meeting that LB-100 is active alone and potentiates the activity of Imatinib (Gleevec) against human cell lines of chronic myelogenous leukemia (CML), both imatinib-naïve CML cells and Imatinib-resistant CML cells. Although virtually all patients with CML worldwide receive Imatinib as initial therapy and most patients have an excellent response, almost every patient relapses because of development of Imatinib–resistance.
+ 
+On November 6, 2015, it was reported at the AACR-NCI-EORTC International Conference on Molecular Targets and Cancer Therapeutics, Boston, Massachusetts, that in an ongoing Phase 1 clinical trial, LB-100 was associated with stabilization of a variety of advanced cancers that had been progressing despite extensive prior treatment without dose-limiting toxicity. The authors reporting this development were Vincent Chung, City of Hope, Duarte, California; Donald Richard, Texas Oncology, Tyler, Texas; Fadi Braiteh, Comprehensive Cancer Centers of Nevada, Las Vegas, Nevada; John S. Kovach, Lixte Biotechnology Holdings, Inc. East Setauket, New York; and Aaron Scott Mansfield, May Clinic, Rochester, Minnesota
+ 
+On January 25, 2016, in the journal Nature Medicine, neuroscientists at the French Institute of Health and Medical Research (Inserm) using a mouse model of depression identified protein phosphatase 2A (PP2A) as a potential pharmacological target for therapy. Administration of LB-100, the Company’s proprietary inhibitor of PP2A, rapidly reduced depressive-like symptoms in these conditioned animals.
+ 
+On January 4, 2017, the Company issued a news release to announce the publication online of Phase 1 results of the Company’s novel anti-cancer compound in Clinical Cancer Research, entitled “Safety, tolerability, and preliminary activity of LB-100, an inhibitor of protein phosphatase 2A, in patients with relapsed solid tumors”. Ten (46.7%) of twenty-one patients receiving at least 2 cycles of LB-100, a small molecule inhibitor of protein phosphatase (PP2A), achieved stable disease without limiting toxicity for up to 15 cycles of therapy, including one patient with pancreatic cancer who had a partial regression. PP2A has long been recognized as a potentially important cancer treatment target, but its inhibition was thought to be too toxic for clinical use. This Phase 1 clinical trial demonstrated the safety and tolerability of PP2A inhibition in patients with refractory solid tumors. In numerous animal models of cancer, inhibition of PP2A by LB-100 enhanced the anti-tumor activity of standard chemotherapy drugs and radiation without significantly enhancing their toxicity by altering cell cycle regulation and the DNA-damage repair response pathways. The mechanism by which LB-100 used alone apparently inhibited the growth of a variety of cancers in patients in the recently completed Phase 1 clinical trial is not clear, but PP2A activity is reduced by mutation directly or indirectly in many cancer types, rendering them vulnerable to pharmacologic inhibition of PP2A. The Company believes that the results reported in Clinical Cancer Research support further development of LB-100 alone and in combination with standard cytotoxic regimens for a broad spectrum of tumors.
+ 
+On April 17, 2017, the Company issued a news release to announce the presentation of a late-breaking abstract entitled “Protein phosphatase 2A inhibition with a novel small molecule inhibitor, LB-100, achieves durable immune-mediated antitumor activity when combined with PD-1 blockage in a preclinical model” as a poster (abstract number LB-193) at the American Association for Cancer Research (AACR) Annual Meeting 2017 in Washington, D.C. on April 4, 2017. This research was done in collaboration with scientists at the National Institute of Neurological Disorders and Stroke (NINDS) of the National Institutes of Health (NIH).The study showed that in an animal model, the Company lead clinical compound, LB-100, has a synergistic potential in conjunction with immune checkpoint blockade supporting investigation of its ability to enhance immunotherapy in the clinic. Based on a number of published pre-clinical studies, the Company had expected that LB-100 would be therapeutically useful primarily as a potentiator of cytotoxic anti-cancer drugs and x-ray. However, this study raises the possibility that LB-100 may also have a role in enhancing the efficacy of so-called ‘immune checkpoint blockers’ –agents that allow the patients’ own immune system to attack their own cancers.
+ 
+
+7
+-
+
+ 
+
+On February 9, 2018, the Company issued a news release to announce that investigators at the Terry Fox Laboratory, British Columbia Cancer Agency, Vancouver, British Columbia, Canada, reported on February 7,2018 (Lai et al., Sci. Transl. Med. 10, eaan8735 (2018)) that in animal models the Company’s protein phosphatase 2A (PP2A) inhibitors overcome resistance of chronic myelogenous leukemia (CML) cells to standard treatment. The vast majority of CML cells are killed by drugs called tyrosine kinase inhibitors (TKI), the prototype of which is imatinib (Gleevec), considered the first truly targeted form of chemotherapy. Imatinib and subsequent variants were a great advance in turning CML from a fatal to a controllable illness. However, almost without exception, from the onset of the disease some CML cells are resistant to TKI treatment so that continuous therapy is required and in some patients the number of TKI resistant cells accelerates out of control. The persistence and progression of CML despite TKI treatment is believed to arise from a niche of intrinsically resistant leukemia stem cells. The Terry Fox Laboratory investigators found inhibition of PP2A with LB-100 or LB-102 preferentially sensitizes these resistant CML cells to killing by TKI compared to normal bone marrow stem cells. If these results can be replicated in the clinic, LB-100 and analogs may further improve the effectiveness of CML therapy.
+ 
+Intellectual Property
+ 
+The Company’s products will ultimately derive directly from its intellectual property and are expected to include the property covered by its patents. These patents now cover sole rights to the composition and synthesis of the LB-100 and LB-200 series of drugs. Joint patent applications with the NIH have been filed for the treatment of glioblastoma multiforme, medulloblastoma, and neuroblastoma. The Company has also filed claims for the use of certain homologs of both series of drugs for the potential treatment of neurodegenerative diseases such as Alzheimer’s Disease and Parkinson’s Disease, Amyotrophic Lateral Sclerosis (ALS, or Lou Gehrig’s Disease), stroke, and traumatic brain injury, and of homologs of the LB-200 series for treatment of serious systemic fungal infections and for the treatment of common fungal infections of the skin and nails.
+ 
+Patents for the LB-100 series (oxabicycloheptanes and heptenes) and the LB-200 series (histone deacetylase inhibitors; HDACi) have been filed in the United States and internationally under the Patent Cooperation Treaty. Patents for composition of matter and for several uses of both the LB-100 series and the LB-200 series have been issued in the United States, Mexico, Australia Japan, China, the European Patent Office and Eurasian Patent Office.
+ 
+The Company’s portfolio of 40 domestic and international patents issued is summarized below. The Company has additional domestic and international patents pending.
+ 
+LB-100 Series of Compounds - Phosphatase Inhibitors – Composition and Use in Cancer Treatment
+
+Oxabicycloheptanes and Oxabicycloheptenes, Their Preparation and Use
+ 
+
+Patent | Priority Date or International Filing Date (non-U.S. applications) | Issue/Grant Date | Expiration Date 
+--------------+------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+--------------------
+AM 023804 | 2/6/2008 | 7/29/2016 | 2/6/2028 
+AU 2008214299 | 2/6/2008 | 4/24/2014 | 2/6/2028 
+AZ 023804 | 2/6/2008 | 7/29/2016 | 2/6/2028 
+BY 023804 | 2/6/2008 | 7/29/2016 | 2/6/2028 
+CN 101662939 | 2/6/2008 | 11/25/2015 | 2/6/2028 
+CN 103788108 | 2/6/2008 | 4/12/2017 | 2/6/2028 
+EP 2124550 | 2/6/2008 | 4/19/2017 | 2/6/2028 
+EA 023804 | 2/6/2008 | 7/29/2016 | 2/6/2028 
+JP 5693850 | 2/6/2008 | 2/13/2015 | 2/6/2028 
+KG 023804 | 2/6/2008 | 7/29/2016 | 2/6/2028 
+KZ 023804 | 2/6/2008 | 7/29/2016 | 2/6/2028 
+MD 023804 | 2/6/2008 | 7/29/2016 | 2/6/2028 
+MX 309985 | 2/6/2008 | 5/28/2013 | 2/6/2028 
+RU 023804 | 2/6/2008 | 7/29/2016 | 2/6/2028 
+TJ 023804 | 2/6/2008 | 7/29/2016 | 2/6/2028 
+TM 023804 | 2/6/2008 | 7/29/2016 | 2/6/2028 
+US 7,998,957 | 2/6/2007 | 8/16/2011 | 2/20/2030 
+US 8,822,461 | 6/30/2011 | 9/2/2014 | 6/30/2031 
+US 8,426,444 | 2/6/2008 | 4/23/2013 | 2/6/2028 
+US 9,079,917 | 4/19/2013 | 7/14/2015 | 4/19/2033 
+US 8,227,473 | 8/1/2008 | 7/24/2012 | 3/11/2030 
+US 8,541,458 | 7/17/2009 | 9/24/2013 | 7/17/2029 
+
+
+8
+-
+
+ 
+
+LB-100 Series of Compounds – LB-100 in Combination with Anti-Cancer Agents
+
+Methods for Regulating Cell Mitosis by Inhibiting Serine/Threonine Phosphatase
+ 
+
+Patent | Priority Date or International Filing Date (non-U.S. applications) | Issue/Grant Date | Expiration Date 
+-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+--------------------
+US 9,526,915 | 2/17/2012 | 12/27/2016 | 3/31/2032 
+
+ 
+LB-100 and LB-200 Series of Compounds – Use in Treatment of Multiple CNS Diseases
+ 
+Neuroprotective Agents for the Prevention and Treatment of Neurodegenerative Diseases
+ 
+
+Patent | Priority Date or International Filing Date (non-U.S. applications) | Issue/Grant Date | Expiration Date 
+--------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+--------------------
+AU 2009277086 | 7/29/2009 | 3/23/2016 | 7/29/2029 
+EP 2318005 | 7/29/2009 | 11/1/2017 | 7/29/2029 
+US 8,058,268 | 8/1/2008 | 11/15/2011 | 12/31/2029 
+US 8,329,719 | 7/29/2009 | 12/11/2012 | 7/29/2029 
+
+ 
+Oxabicycloheptanes and Oxabicycloheptenes for the Treatment of Reperfusion Injury
+ 
+
+Patent | Priority Date or International Filing Date (non-U.S. applications) | Issue/Grant Date | Expiration Date 
+-------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+--------------------
+CN ZL 201380035527.1 | 6/28/2013 | 9/22/2017 | 6/28/2033 
+
+ 
+Oxabicycloheptanes and Oxabicycloheptenes for the Treatment of Depressive and Stress Disorders
+ 
+
+Patent | Priority Date or International Filing Date (non-U.S. applications) | Issue/Grant Date | Expiration Date 
+-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+--------------------
+US 9,833,450 | 2/19/2015 | 12/5/2017 | 2/19/2036 
+
+
+9
+-
+
+The Market
+ 
+Anti-Cancer Drugs
+ 
+The Company has developed two series of pharmacologically active drugs, the LB-100 series and the LB-200 series. The Company believes that the mechanism by which compounds of the LB-100 series affect cancer cell growth is different from cancer agents currently approved for clinical use. Lead compounds from each series have activity against a broad spectrum of common and rarer human cancers in cell culture systems. In addition, compounds from both series have anti-cancer activity in animal models of glioblastoma multiforme, neuroblastoma, and medulloblastoma, all cancers of neural tissue. Lead compounds of the LB-100 series also have activity against melanoma, breast cancer and sarcoma in animal models and enhance the effectiveness of commonly used anti-cancer drugs in these model systems. The enhancement of anti-cancer activity of these anti-cancer drugs occurs at doses of LB-100 that do not significantly increase toxicity in animals. It is therefore hoped that when combined with standard anti-cancer regimens against many tumor types, the Company’s compounds will improve therapeutic benefit without enhancing toxicity in humans.
+Marketing Plan
+ 
+The primary goal of the Company to date has been to take LB-100 through Phase 1 clinical trials. Because of the novelty and spectrum of activity of LB-100, the Company believes it is reasonably likely it will find a partner in the pharmaceutical industry with interest in this compound at some stage of its clinical development. However, the Company would prefer to delay the partnering/licensing decision until the potential value of its products is augmented by demonstrating there is no impediment to clinical evaluation and a therapeutic dose level is determined in clinical trials. Demonstration of clinical usefulness would be expected to substantially increase the value of the Company’s product.
+Research and Development
+ 
+Further development of lead compounds from each of the LB-100 and LB-200 series requires pharmacokinetic/pharmacodynamic characterization (i.e., how long a drug persists in the blood and how long the drug is active at the intended target) and large animal toxicologic evaluation under conditions meeting FDA requirements. Most anti-cancer drugs fail in development because of unacceptable toxicity. However, by analogy with mechanistically related compounds, there is good reason to believe that lead compounds of both series of drugs will be able to be given to humans safely by routes and at doses resulting in concentration of drug producing anti-cancer activity in animal model systems. The Company has demonstrated that lead compounds of both types affect their intended targets at doses that produce anti-cancer activity without discernable toxicity in animal models.
+ 
+One of the Company’s most valuable resources is its scientific team, a coalition of various experts brought together through contracts and other collaborative arrangements. The team has expertise in cancer biology, proteomics (cancer biomarkers), medicinal and synthetic chemistry, pharmacology, clinical oncology and drug evaluation. In a relatively short period of time and at low cost, this group has developed lead compounds of two different classes of drugs that are positioned for development as new treatments for several types of cancer.
+ 
+
+10
+--
+
+Product Development
+ 
+The Company is subject to FDA regulations as it conducts clinical trials. Additionally, any product for which the Company obtains marketing approval, along with the manufacturing processes, post-approval clinical data and promotional activities for such product, will be subject to continual review and periodic inspections by the FDA and other regulatory bodies. Even if regulatory approval of a product is granted, the approval may be subject to limitations on the indicated uses for which the product may be marketed or contain requirements for costly post-marketing testing and surveillance to monitor the safety or efficacy of the product. Later discovery of previously unknown problems with the Company’s products, including unanticipated adverse events or adverse events of unanticipated severity or frequency, manufacturer or manufacturing processes, or failure to comply with regulatory requirements, may result in restrictions on such products or manufacturing processes, withdrawal of the products from the market, voluntary or mandatory recall, fines, suspension of regulatory approvals, product seizures, injunctions or the imposition of civil or criminal penalties.
+Competition
+ 
+The life sciences industry is highly competitive and subject to rapid and profound technological change. The Company’s present and potential competitors include major pharmaceutical companies, as well as specialized biotechnology and life sciences firms in the United States and in other countries. Most of these companies have considerably greater financial, technical and marketing resources than the Company does. Additionally, mergers and acquisitions in the pharmaceutical and biotechnology industries may result in even more resources being concentrated in the Company’s competitors. The Company’s existing or prospective competitors may develop processes or products that are more effective than the Company’s or be more effective at implementing their technologies to develop commercial products faster. The Company’s competitors may succeed in obtaining patent protection and/or receiving regulatory approval for commercializing products before the Company does. Developments by the Company’s competitors may render the Company’s product candidates obsolete or non-competitive.
+ 
+The Company also experiences competition from universities and other research institutions, and the Company is likely to compete with others in acquiring technology from those sources. There can be no assurance that other organizations will not develop technologies with significant advantages over those that the Company is seeking to develop. Any such development could harm the Company’s business.
+ 
+The Company competes with universities and other research institutions engaged in research in these areas. Many of the Company’s competitors have greater technical and financial resources than the Company does.
+ 
+The Company’s ability to compete successfully is based on numerous factors, including:
+ 
+
+● | the cost-effectiveness of any product that the Company ultimately commercializes relative to competing products; 
+--+----------------------------------------------------------------------------------------------------------------------------------------
+● | the ease of use and ready availability of any product that the Company brings to market; and 
+● | the relative speed with which the Company is able to bring any product resulting from its research to market in its target markets. 
+
+ 
+If the Company is unable to distinguish its products from competing products, or if competing products reach the market first, the Company may be unable to compete successfully with current or future competitors.
+ 
+Employees
+ 
+As of December 31, 2017, the Company had no full-time employees. During the year ended December 31, 2016, Dr. Kovach was a Professor (part-time) in the Department of Preventive Medicine at the State University of New York at Stony Brook (“SUNY – Stony Brook”) in Stony Brook, New York. Dr. Kovach devoted approximately 50% of his efforts to the Company, including research planning and management functions. Dr. Kovach’s contributions to the Company were made outside of his academic responsibilities at SUNY – Stony Brook. He directs, coordinates and manages the scientific and business development of the Company with the advice of the Company’s Board of Directors, the Scientific Advisory Committee, and, from time to time, various consultants with specific expertise.
+
+11
+--
+
+ 
+
+Effective February 23, 2017, Dr. Kovach retired from his part-time (50%) academic position at SUNY – Stony Brook, as a result of which he is now devoting 100% of his time to the Company’s business activities from that date forward.
+ 
+Government Regulation
+ 
+Studies done under the CRADA were carried out in compliance with applicable Statutes, Executive Capital Orders, HHS regulations and all FDA, CDC, and NIH policies as specified in Article 13, 13.1 and 13.2, of the PHS CRADA.
+ 
+The Company’s business is subject to the regulations of the FDA as it conducts clinical trials. Clinical trials are research studies to answer specific questions about new therapies or new ways of using known treatments. Clinical trials determine whether new drugs or treatments are both safe and effective and the FDA has determined that carefully conducted clinical trials are the fastest and safest way to find treatments that work in people.
+ 
+The FDA also requires that an independent review body consider the benefits and risks of a clinical trial and grant approval for the proposed study including selecting of initial doses, plans for escalation of dose, plans for modification of dose if toxicity is encountered, plans for monitoring the wellbeing of individuals participating in the study, and for defining and measuring, to the extent possible, any untoward effects related to drug administration. Serious adverse effects, such as life-threatening toxicities and death, are immediately reportable to the review body and to the FDA. To minimize risk when studying a new drug, the initial dose is well below that expected to cause any toxicity. No more than three patients are entered at a given dose. In general, a dose is not escalated within an individual patient. Once safety is established by the absence of toxicity or low toxicity in a group of three patients, a planned higher dose is then evaluated in a subsequent group of three individuals and so on until dose-limiting toxicity is encountered. The dose level producing definite but acceptable toxicity is then selected as the dose level to be evaluated in Phase 2 trials. Thus, the goal of Phase 1 studies is to determine the appropriate dose level for evaluation of drug efficacy in patients with the same type of tumor at comparable stages of progression for which no beneficial treatment is established.
+ 
+In addition to regulations imposed by the FDA, depending on the Company’s future activities, the Company may become subject to regulation under various federal and state statutes and regulations, such as the Occupational Safety and Health Act, the Environmental Protection Act, the Toxic Substances Control Act, the Research Conservation and Recovery Act, national restrictions on technology transfer, and import, export and customs regulations. From time to time, other federal agencies and congressional committees have indicated an interest in implementing further regulation of biotechnology applications. The Company is not able to predict whether any such regulations will be adopted or whether, if adopted, such regulations will apply to the Company’s business, or whether the Company or its collaborators would be able to comply with any applicable regulations.
+ 
+In addition, as the Company intends to market its products in international markets, the Company may be required to obtain separate regulatory approvals from the European Union and many other foreign jurisdictions. Approval by the FDA does not ensure approval by regulatory authorities in other countries, and approval by one foreign regulatory authority does not ensure approval by regulatory authorities in other foreign countries or by the FDA. The Company may not be able to file for regulatory approvals and may not receive necessary approvals to commercialize its products in any market.
+ 
