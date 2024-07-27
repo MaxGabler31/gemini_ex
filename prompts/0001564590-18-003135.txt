@@ -1,0 +1,462 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business.
+ SMLP is a Delaware limited partnership that completed its IPO in October 2012. References to "we" or "our" refer collectively to SMLP and its subsidiaries. For additional information, see Note 1 to the consolidated financial statements.
+ Item 1. Business is divided into the following sections:
+
+• | Overview
+--+---------
+
+
+• | Business Strategies
+--+--------------------
+
+
+• | Competitive Strengths
+--+----------------------
+
+
+• | Our Midstream Assets
+--+---------------------
+
+
+• | Regulation of the Natural Gas and Crude Oil Industries
+--+-------------------------------------------------------
+
+
+• | Environmental Matters
+--+----------------------
+
+
+• | Other Information
+--+------------------
+
+ Overview
+ We are a growth-oriented limited partnership focused on developing, owning and operating midstream energy infrastructure assets that are strategically located in the core producing areas of unconventional resource basins, primarily shale formations, in the continental United States. Our systems gather natural gas from pad sites, wells and central receipt points connected to our systems. Gathered natural gas volumes are then compressed, dehydrated, treated and/or processed for delivery to downstream pipelines serving processing plants and/or end users. We also contract with producers to gather crude oil and produced water from wells connected to our systems for delivery to downstream pipelines and third-party rail terminals in the case of crude oil and to third-party disposal wells in the case of produced water. We generally refer to all of the services our systems provide as gathering services.
+ We are the owner-operator of, or have significant ownership interests in, the following gathering systems:
+  
+• | Summit Utica, a natural gas gathering system operating in the Appalachian Basin, which includes the Utica and Point Pleasant shale formations in southeastern Ohio;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Ohio Gathering, a natural gas gathering system and a condensate stabilization facility operating in the Appalachian Basin, which includes the Utica and Point Pleasant shale formations in southeastern Ohio;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Polar and Divide, crude oil and produced water gathering systems and transmission pipelines located in the Williston Basin, which includes the Bakken and Three Forks shale formations in northwestern North Dakota;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Tioga Midstream, crude oil, produced water and associated natural gas gathering systems operating in the Williston Basin, which includes the Bakken and Three Forks shale formations in northwestern North Dakota;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Bison Midstream, an associated natural gas gathering system operating in the Williston Basin, which includes the Bakken and Three Forks shale formations in northwestern North Dakota;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Grand River, a natural gas gathering and processing system located in the Piceance Basin, which includes the Mesaverde formation and the Mancos and Niobrara shale formations in western Colorado and eastern Utah;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Niobrara G&P, an associated natural gas gathering and processing system operating in the DJ Basin, which includes the Niobrara and Codell shale formations in northeastern Colorado;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | DFW Midstream, a natural gas gathering system operating in the Fort Worth Basin, which includes the Barnett Shale formation in north-central Texas;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 7
+
+
+ 
+• | Mountaineer Midstream, a natural gas gathering system operating in the Appalachian Basin, which includes the Marcellus Shale formation in northern West Virginia; and
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Summit Permian, an associated natural gas gathering and processing system under development in the northern Delaware Basin in southeastern New Mexico.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ The systems that we operate and/or have a significant ownership interests in have a diverse group of customers and counterparties comprising affiliates and/or subsidiaries of some of the largest natural gas and crude oil producers in North America. Key customers are as follows:
+  
+• | XTO Energy Inc. ("XTO") and Ascent, the key customers for Summit Utica;
+--+------------------------------------------------------------------------
+
+
+• | Gulfport Energy Corporation ("Gulfport") and Ascent Resources - Utica, LLC ("Ascent"), the key customers for Ohio Gathering;
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+
+• | Whiting Petroleum Corp. ("Whiting") and SM Energy Company ("SM Energy"), the key customers for Polar and Divide;
+--+-----------------------------------------------------------------------------------------------------------------
+
+
+• | Hess Corp. ("Hess"), the key customer for Tioga Midstream;
+--+-----------------------------------------------------------
+
+
+• | Oasis Petroleum, Inc. ("Oasis") and a large U.S. independent crude oil and natural gas company, the key customers for Bison Midstream;
+--+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Caerus Oil & Gas LLC ("Caerus") and Terra Energy Partners LLC ("Terra"), the key customers for Grand River;
+--+------------------------------------------------------------------------------------------------------------
+
+
+• | Fifth Creek Energy Operating Company, LLC ("Fifth Creek") and a large U.S. independent crude oil and natural gas company, the key customers for Niobrara G&P;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Total Gas & Power North America, Inc. ("Total"), the key customer for DFW Midstream;
+--+-------------------------------------------------------------------------------------
+
+
+• | Antero Resources Corp. ("Antero"), the key customer for Mountaineer Midstream; and
+--+-----------------------------------------------------------------------------------
+
+
+• | XTO, the key customer of Summit Permian, which is currently under development.
+--+-------------------------------------------------------------------------------
+
+ We believe that the systems we operate and/or have significant ownership interests in are positioned for growth through increased utilization and further development. We intend to continue expanding our operations and diversifying our geographic footprint through asset acquisitions from third parties. We also intend to grow our business through the execution of new, and the expansion of existing, strategic partnerships with large producers to provide midstream services for their upstream exploration and production projects. In addition, we may participate in asset acquisitions with Summit Investments, although (i) Summit Investments has no current direct ownership interest in any operating assets, (ii) Summit Investments has no obligation to us to offer any assets that it may acquire or participate in any asset acquisitions that we may make and (iii) we have no obligation to acquire any assets offered.
+ Our financial results are primarily driven by volume throughput across our gathering systems and expense management. During 2017, aggregate natural gas volume throughput averaged 1,748 MMcf/d and crude oil and produced water volume throughput averaged 75.2 Mbbl/d. A substantial majority of the volumes that we gather, treat and/or process have a fixed-fee rate structure thereby enhancing the stability of our cash flows by providing a revenue stream that is not directly subject to commodity price risk. Activities that expose us to direct commodity price risk include (i) the sale of physical natural gas and/or NGLs purchased under percentage-of-proceeds arrangements with certain of our customers on the Bison Midstream and Grand River systems, (ii) natural gas and crude oil marketing services in and around our gathering systems, (iii) the sale of natural gas we retain from certain DFW Midstream system customers and (iv) the sale of condensate we retain from our gathering services at Grand River. During the year ended December 31, 2017, less than 14% of our revenues were exposed to direct commodity price risk.
+ In addition, the vast majority of our gathering and/or processing agreements include AMIs. Our AMIs cover approximately 3.3 million acres in the aggregate, which includes more than 0.8 million acres in Ohio Gathering. Certain of our gathering and processing agreements also include MVCs. To the extent the customer does not meet its MVC, it must make an MVC shortfall payment to cover the shortfall of required volume throughput not shipped or 
+ 8
+
+
+processed, either on a monthly, quarterly or annual basis. We have designed our MVC provisions to ensure that we will generate a certain amount of revenue from each customer over the life of the associated gathering or processing agreement, whether by collecting gathering or processing fees on actual throughput or from cash payments to cover any MVC shortfall. As of December 31, 2017, we had remaining MVCs totaling 2.6 Tcfe. Our MVCs have a weighted-average remaining life of 7.4 years (assuming minimum throughput volume for the remainder of the term) and average approximately 1.0 Bcfe/d through 2022. 
+ We use a variety of financial and operational metrics to analyze our performance, including among others, throughput volume, revenues, operation and maintenance expenses and segment adjusted EBITDA. We view each of these operational and/or GAAP metrics as important factors in evaluating our profitability and determining the amounts of cash distributions we pay to our unitholders.
+ For additional information on our results of operations, see Item 6. Selected Financial Data and the "Results of Operations" section included in the Item 7. MD&A.
+ Financial Information About Segments.  As of December 31, 2017, our reportable segments and their respective gathering systems were:
+  
+• | the Utica Shale, which is served by Summit Utica;
+--+--------------------------------------------------
+
+
+• | Ohio Gathering, which includes our ownership interest in OGC and OCC;
+--+----------------------------------------------------------------------
+
+
+• | the Williston Basin, which includes Polar and Divide, Tioga Midstream and Bison Midstream;
+--+-------------------------------------------------------------------------------------------
+
+
+• | the Piceance/DJ Basins, which includes Grand River and Niobrara G&P;
+--+---------------------------------------------------------------------
+
+
+• | the Barnett Shale, which includes DFW Midstream; and
+--+-----------------------------------------------------
+
+
+• | the Marcellus Shale, which includes Mountaineer Midstream;
+--+-----------------------------------------------------------
+
+ Our reportable segments reflect the way in which (i) we manage our operations and (ii) management uses the reported financial information to make decisions and allocate resources in connection therewith. The primary assets of our reportable segments consist of gathering systems and the related property, plant and equipment and intangible assets with the exception of the Ohio Gathering reportable segment, which holds our ownership interest in OGC and OCC.
+  
+ | Year ended December 31, | 
+-----------------------------------+-------------------------+----------
+ | 2017 | | 2016 | | | 2015
+ | (In thousands) | 
+Property, plant and equipment, net | $ | 1,795,129 | | $ | 1,853,671 | | $ | 1,812,783
+Intangible assets, net | | 301,345 | | | 421,452 | | | 461,310 
+
+ For additional information on our reportable segments, see the "Results of Operations—Segment Overview for the Years Ended December 31, 2017, 2016 and 2015" section included in the Item 7. MD&A and Note 3 to the consolidated financial statements. For additional information on revenue and accounts receivable concentrations, see the "Liquidity and Capital Resources—Credit and Counterparty Concentration Risks" section included in Item 7. MD&A and Notes 3 and 10 to the consolidated financial statements. For additional information on long-lived assets, see Notes 4 and 5 to the consolidated financial statements.
+ Our Sponsor and Summit Investments.  Energy Capital Partners, together with its affiliated funds, is a private equity firm with over $13.0 billion in capital commitments that is focused on investing in North America's energy infrastructure. Energy Capital Partners has significant energy and financial expertise to complement its investment in us, including investments in the power generation, midstream oil and gas, electric transmission, energy equipment and services, environmental infrastructure and other energy-related sectors.
+ Summit Investments, which was formed in 2009 by members of our management team and our Sponsor, is the ultimate owner of our General Partner. We are managed and operated by the Board of Directors and executive officers of our General Partner, which is managed and operated by Summit Investments. As a result, due to its 
+ 9
+
+
+ownership interest in Summit Investments and its representation on Summit Investments' board of managers, Energy Capital Partners controls our General Partner and its activities, thereby controlling SMLP.
+ In December 2015, Energy Capital Partners approved a unit purchase program of up to $100.0 million of SMLP common units (the "Purchase Program"). A wholly owned subsidiary of Summit Investments acquired 151,160 common units and Energy Capital Partners acquired 5,915,827 common units under the Purchase Program. The Purchase Program concluded in June 2016.
+ 
+Business Strategies
+ Our principal business strategy is to increase the amount of cash distributions we make to our unitholders over time. Our plan for continuing to execute this strategy includes the following key components:
+
+• | Maintaining our focus on fee-based revenue with minimal direct commodity price exposure. As we expand our business, we intend to maintain our focus on providing midstream energy services under fee-based arrangements. Our midstream services are provided under primarily long-term and fee-based contracts with original terms of up to 25 years. We believe that our focus on fee-based revenues with minimal direct commodity price exposure is essential to maintaining stable cash flows. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Capitalizing on organic growth opportunities to maximize throughput on our existing systems. We intend to continue to leverage our management team's expertise in constructing, developing and optimizing our midstream assets to grow our business through organic development projects. We believe that our broad and geographically diverse operating footprint provides us with a competitive advantage to pursue organic development projects that are designed to extend our geographic reach, diversify our customer base, expand our midstream service offerings, increase the number of our hydrocarbon receipt points and maximize volume throughput. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Diversifying our asset base by expanding our midstream service offerings to new geographic areas. Our gathering operations in the Utica, Bakken, Barnett and Marcellus shale plays and the Piceance and DJ basins currently represent our core business. We intend to pursue opportunities to diversify our operations into other geographic regions through both greenfield development projects and acquisitions from third parties. For example, in the third quarter of 2017, we began developing Summit Permian, an associated natural gas gathering and processing system, in the northern Delaware Basin in southeastern New Mexico. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Partnering with producers to provide midstream services for their development projects in high-growth, unconventional resource plays. We seek to promote commercial relationships with established and well-capitalized producers that are willing to serve as key customers and commit to long-term MVCs and/or AMIs. We will continue to pursue partnership opportunities with established producers to develop new midstream energy infrastructure in unconventional resource basins that we believe will complement our existing assets and/or enhance our overall business by facilitating our entry into new basins. These opportunities generally consist of a strategic acreage position in an unconventional resource play that is well-positioned for accelerated production but has limited existing midstream energy infrastructure to support such growth. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Competitive Strengths
+ We believe that we will be able to execute the components of our principal business strategy successfully because of the following competitive strengths:
+  
+• | Strategically located assets in core areas of prolific unconventional resource basins supported by partnerships with large producers. We believe our assets are strategically positioned within the core areas of six established unconventional resource basins including Summit Permian currently under development. The geologic formations in the basins served by our assets have either relatively low drilling 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 10
+
+
+ 
+and completion costs, highly economic production profiles, or a combination of both, which incentivize producers to develop more actively than in more marginal areas.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Fee-based revenues underpinned by long-term contracts with AMIs and MVCs. A substantial majority of our revenues for the year ended December 31, 2017 was generated under long-term and fee-based gathering and processing agreements. We believe that long-term, fee-based gathering and processing agreements enhance the stability of our cash flows by limiting our direct commodity price exposure. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Capital structure and financial flexibility. At December 31, 2017, we had $1.06 billion of total indebtedness outstanding (see Notes 1, 2 and 9 to the consolidated financial statements), and the unused portion of our $1.25 billion Revolving Credit Facility totaled $989.0 million. Under the terms of our Revolving Credit Facility, our total leverage ratio (total net indebtedness to consolidated trailing 12-month EBITDA, as defined in the credit agreement) was 3.62 to 1.0 at December 31, 2017, which compares with the total leverage ratio upper limit of not more than 5.5 to 1.0 (as defined in the credit agreement). 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Relationship with a large and committed financial sponsor. Our Sponsor is an experienced energy investor with a proven track record of making substantial, long-term investments in high-quality energy assets. In addition to its direct investment in Summit Investments, Energy Capital Partners purchased our common units in open market transactions commencing in December 2015 and concluding in June 2016. We believe that the relationship with and support of our Sponsor is a competitive advantage as it brings not only significant financial and management experience, but also numerous relationships throughout the energy industry that we believe will continue to benefit us as we seek to grow our business. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Experienced management team with a proven record of asset acquisition, construction, development, operations and integration expertise. Our board members and senior leadership team have extensive energy experience (see Item 10. Directors, Executive Officers and Corporate Governance—Directors and Executive Officers) and a proven track record of identifying, consummating, financing and integrating significant acquisitions in addition to partnering with major producers to construct and develop midstream energy infrastructure. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Midstream Assets
+ Our midstream assets, including assets in which we have a significant ownership interest, currently operate in the following unconventional resource plays:
+  
+• | the Utica Shale, which is Summit Utica;
+--+----------------------------------------
+
+
+• | Ohio Gathering, which includes our ownership interest in OGC and OCC;
+--+----------------------------------------------------------------------
+
+
+• | the Williston Basin, which is served by Polar and Divide, Tioga Midstream and Bison Midstream;
+--+-----------------------------------------------------------------------------------------------
+
+
+• | the Piceance/DJ Basins, which is served by Grand River and Niobrara G&P;
+--+-------------------------------------------------------------------------
+
+
+• | the Barnett Shale, which is served by DFW Midstream;
+--+-----------------------------------------------------
+
+
+• | the Marcellus Shale, which is served by Mountaineer Midstream; and
+--+-------------------------------------------------------------------
+
+
+• | the Delaware Basin, which is currently under development and will be served by Summit Permian.
+--+-----------------------------------------------------------------------------------------------
+
+ We compete with other midstream companies, producers and intrastate and interstate pipelines. Competition for volumes is primarily based on reputation, commercial terms, service levels, access to end-use markets, geographic proximity of existing assets to a producer's acreage and available capacity. We may also face competition to gather production outside of our AMIs and attract producer volumes to our gathering systems. Additionally, we could face incremental competition to the extent we make acquisitions.
+ We earn revenue by providing gathering, treating and/or processing services pursuant to primarily long-term and fee-based gathering and processing agreements with some of the largest and most active producers in North 
+ 11
+
+
+America. The fee-based nature of these agreements enhances the stability of our cash flows by limiting our direct commodity price exposure.
+ The significant features of our gathering and processing agreements and the gathering systems to which they relate are discussed in more detail below. For additional operating and financial performance information, on a consolidated basis and by reportable segment, see the "Results of Operations" section in Item 7. MD&A.
+ Areas of Mutual Interest.  The vast majority of our gathering and processing agreements contain AMIs, some of which extend through 2036. The AMIs generally require that any production by our customers within the AMIs will be shipped on and/or processed by our systems. In general, our customers have not leased acreage that cover our entire AMIs but, to the extent that they lease additional acreage within our AMIs in the future, any production from wells drilled by them within that AMI will be dedicated to our systems.
+ Under certain of our gathering agreements, we have agreed to construct pipeline laterals to connect our gathering systems to pad sites located within the AMI. However, we may choose not to participate in a pad connection opportunity presented by a customer if we believe that the project would not meet our internal return expectations. Under this scenario, the customer may, in certain circumstances, construct the infrastructure itself and sell it to us at a price equal to their cost plus an applicable margin, or, in some cases, we may release the relevant acreage dedication from the AMI.
+ Minimum Volume Commitments.  Certain of our gathering and/or processing agreements contain MVCs, which, like AMIs, benefit the development and ongoing operation of a gathering system because they provide a contracted monthly, quarterly or annual minimum revenue stream. As of December 31, 2017, we had remaining MVCs totaling 2.6 Tcfe. Our MVCs, had a weighted-average remaining life of 7.4 years (assuming minimum throughput volume for the remainder of the term) and average approximately 1.0 Bcfe/d through 2022. In addition, certain of our customers have an aggregate MVC, which is a total amount of volume throughput that the customer has agreed to ship and/or process on our systems (or an equivalent monetary amount) over the MVC term. In these cases, once a customer achieves its aggregate MVC, any remaining future MVCs will terminate and the customer will then simply pay the applicable gathering or processing rate multiplied by the actual throughput volumes shipped or processed. As a result of this mechanism, the weighted-average remaining period for which our MVCs apply is less than the weighted-average of the original stated contract terms of our MVCs.
+ For additional information on our MVCs, see the "Critical Accounting Estimates" section in MD&A and Notes 2 and 8 to the consolidated financial statements.
+ Utica Shale
+ Summit Utica.  In March 2016, we acquired certain natural gas gathering pipeline and dehydration assets in the Utica Shale from a subsidiary of Summit Investments. We refer to these assets as the Summit Utica system. The Summit Utica system is a natural gas gathering system located in the Appalachian Basin in Belmont and Monroe counties in southeastern Ohio and serves producers targeting the dry gas window of the Utica and Point Pleasant shale formations. The system, which includes XTO and Ascent as its key customers, is currently in service and under development and had throughput capacity of 600 MMcf/d as of December 31, 2017. The Summit Utica system gathers and delivers natural gas, primarily under long-term, fee-based gathering agreements which include acreage dedications. The system interconnects with Energy Transfer Partners, L.P.’s ("Energy Transfer Partners") Utica Ohio River Pipeline, which delivers to the Clarington Hub in Clarington, Ohio. The Summit Utica system currently provides natural gas midstream services for the Utica Shale reportable segment.
+Ohio Gathering
+ Ohio Gathering.  In March 2016, we acquired substantially all of a 40% ownership interest in Ohio Gathering from a subsidiary of Summit Investments. Non-affiliated owners have a 60% ownership interest in Ohio Gathering. Ohio Gathering comprises a natural gas gathering system and condensate stabilization facility located in the core of the Utica Shale in southeastern Ohio. The gathering system spans the condensate, liquids-rich and dry gas windows of the Utica Shale for multiple producers that are targeting natural gas, condensate and NGLs production from the Utica and Point Pleasant shale formations across Harrison, Guernsey, Belmont, Noble and Monroe counties in 
+ 12
+
+
+southeastern Ohio. Gulfport and Ascent are Ohio Gathering's key customers. Condensate and liquids-rich gas production is gathered, compressed, dehydrated and delivered to the Cadiz and Seneca processing complexes, which are owned by a joint venture between MPLX LP (“MPLX”) and The Energy and Minerals Group (“EMG”). Dry gas production is gathered, compressed, dehydrated and delivered to a downstream interconnect with Texas Eastern Transmission, or TETCO, and another third-party pipeline, which provides access to other third-party pipelines serving the northeast and mid-west markets. Substantially all gathering services on the Ohio Gathering system are provided pursuant to long-term, fee-based gathering agreements.
+ The condensate stabilization facility commenced operations in February 2015. Condensate stabilization allows for producers to capture the NGLs that would otherwise flash from condensate in atmospheric conditions. As one of the largest stabilization facilities in the Utica Shale, this facility serves as the origination point for MPLX’s Cornerstone Pipeline which delivers condensate to Marathon Petroleum’s refinery in Canton, Ohio.
+ For additional information, see Note 7 to the consolidated financial statements.
+ Williston Basin
+ The following table provides operating information regarding our Williston Basin reportable segment as of December 31, 2017.
+  
+ | Aggregate throughput capacity - liquids (Mbbl/d) | | Aggregate throughput capacity - natural gas (MMcf/d) | | Average daily MVCs through 2022 (MMcfe/d) (1) | Remaining MVCs (Bcfe) (1) | Weighted-average remaining contract life (Years) (1)(2) | 
+----------------+--------------------------------------------------+-----+------------------------------------------------------+----+-----------------------------------------------+---------------------------+---------------------------------------------------------+----
+Williston Basin | | 300 | | 46 | | 99 | | 181 | 4.0
+
+ __________
+ (1) Contract terms related to MVCs are presented for liquids and natural gas on a combined basis.
+ (2) Weighted average based on total remaining MVC (total remaining MVCs multiplied by average rate).
+ AMIs for the Williston Basin reportable segment total approximately 1.3 million acres in the aggregate. 
+ Polar and Divide.  In May 2015, we acquired certain crude oil and produced water gathering systems in the Williston Basin from a subsidiary of Summit Investments. Subsequent to this acquisition, we have developed and commissioned additional gathering and transmission pipelines. In connection with the 2016 Drop Down, we also acquired crude oil and produced water gathering pipelines. We refer to these assets, which commenced operations in the second quarter of 2013, as the Polar and Divide system. The Polar and Divide system, which is located primarily in Williams and Divide counties in northwestern North Dakota, owns, operates and is currently developing crude oil and produced water gathering systems and transmission pipelines serving the Bakken and Three Forks shale formations.
+ The Polar and Divide system is underpinned by two long-term, fee-based gathering agreements with Whiting and SM Energy. In addition to Whiting and SM Energy, the Polar and Divide system is also supported by other long-term, fee-based gathering agreements.
+ Crude oil that is gathered by the Polar and Divide system is primarily delivered to The Dakota Access Pipeline and produced water is delivered to third-party disposal facilities. The Polar and Divide system also has interconnects into Crestwood Equity Partners LP's COLT Hub rail facility in Epping, North Dakota, Enbridge’s North Dakota Pipeline System in Williams County, North Dakota and Global Partners LP's Basin Transload rail terminal in Columbus, North Dakota. The Polar and Divide system currently provides crude oil and produced water midstream services for the Williston Basin reportable segment.
+ Tioga Midstream.  In March 2016, we acquired certain associated natural gas, crude oil and produced water gathering systems in the Williston Basin from a subsidiary of Summit Investments. We refer to these assets, which commenced natural gas operations in the fourth quarter of 2014 and liquids operations in the third quarter of 2015, as the Tioga Midstream system. The Tioga Midstream system is located in Williams County, North Dakota. All gathering services on the Tioga Midstream system are provided pursuant to long-term, fee-based gathering agreements with Hess, which is primarily targeting crude oil production from the Bakken and Three Forks shale formations. The 
+ 13
+
+
+gathering agreements include an annual rate redetermination mechanism which effectively serves to protect future cash flows by resetting the gathering rate upward from pre-established base gathering rates in the event that Hess under performs from certain pre-established minimum production thresholds. The annual rate redeterminations can also reset the gathering rate lower in the event that Hess exceeds the minimum production threshold. All crude oil, produced water and natural gas gathered on the Tioga Midstream system is delivered to downstream pipelines and disposal wells (for produced water) that are owned and operated by Hess Midstream Partners LP. The Tioga Midstream system currently provides associated natural gas, crude oil and produced water midstream services for the Williston Basin reportable segment.
+ Bison Midstream.  In June 2013, we acquired certain associated natural gas gathering pipeline, dehydration and compression assets in the Williston Basin from a subsidiary of Summit Investments. We refer to these assets as the Bison Midstream system. The Bison Midstream system is located in Mountrail and Burke counties in northwestern North Dakota. Bison Midstream gathers, compresses and treats associated natural gas that exists in the crude oil stream produced from the Bakken and Three Forks shale formations. These formations are primarily targeted for crude oil production. As such, producer drilling and completion activity decisions, and consequently Bison Midstream's volume throughput, are based largely on the prevailing price of crude oil.
+ Our gathering agreements for the Bison Midstream system include long-term, fee-based or percent-of-proceeds contracts. Volume throughput on the Bison Midstream system is underpinned by MVCs from its key customers. In addition to its percent-of-proceeds gathering agreement with Oasis and its fee-based gathering agreement with a large U.S. independent crude oil and natural gas company, the Bison Midstream system is also supported by other fee-based gathering agreements. Natural gas gathered on the Bison Midstream system is delivered to Aux Sable Midstream LLC's (“Aux Sable”) Palermo Conditioning Plant in Palermo, North Dakota and then delivered to downstream pipelines serving Aux Sable’s 2.1 Bcf/d natural gas processing plant in Channahon, Illinois. The Bison Midstream system currently provides associated natural gas midstream services for the Williston Basin reportable segment.
+ Piceance/DJ Basins
+ The following table provides operating information regarding our Piceance/DJ Basins reportable segment as of December 31, 2017.
+  
+ | Aggregate throughput capacity (MMcf/d) | | Average daily MVCs through 2022 (MMcf/d) | | Remaining MVCs (Bcf) | Weighted-average remaining contract life (Years) (1)
+-------------------+----------------------------------------+-------+------------------------------------------+-----+----------------------+-----------------------------------------------------
+Piceance/DJ Basins | | 1,282 | | 561 | | 1,345 | 7.5
+
+ __________
+ (1) Weighted average based on total remaining MVC (total remaining MVCs multiplied by average rate).
+ AMIs for the Piceance/DJ Basins reportable segment total approximately 840,000 acres in the aggregate.
+ Grand River.  In 2011, we acquired certain natural gas gathering pipeline, dehydration and compression assets in the Piceance Basin from a third party. We refer to these assets as the Grand River system. The Grand River system is primarily located in Garfield County, one of the largest natural gas producing counties in Colorado. It gathers natural gas produced from the Mesaverde formation and the Mancos and Niobrara shale formations located within the Piceance Basin.
+ In March 2014, we acquired certain natural gas gathering pipeline, dehydration, compression and processing assets in the Piceance Basin from a subsidiary of Summit Investments. We refer to these assets as the Red Rock Gathering system, or Red Rock Gathering. Red Rock Gathering gathers and processes natural gas from the Mesaverde formation and the Mancos and Niobrara shale formations located in western Colorado and eastern Utah. Red Rock Gathering is primarily located in Garfield, Rio Blanco and Mesa counties in Colorado and Uintah and Grand counties in Utah. The Grand River and Red Rock Gathering systems have been connected and are managed as a single system, which we collectively refer to as the Grand River system.
+ 14
+
+
+The Grand River system is primarily a low-pressure gathering system that was originally designed to gather natural gas produced from directional wells targeting the liquids-rich Mesaverde formation. The Mesaverde is a shallow, tight sands geologic formation that producers have targeted with directional drilling for several decades. We also gather natural gas from our customers' wells targeting the Mancos and Niobrara shale formations, which underlie the Mesaverde formation, via a medium-pressure gathering system.
+ Natural gas gathered and/or processed on the Grand River system is compressed, dehydrated, processed and/or discharged to downstream pipelines serving (i) Enterprise Product Partners' 1.8 Bcf/d processing facility located in Meeker, Colorado, (ii) Williams Partners L.P.'s Northwest Pipeline and (iii) Kinder Morgan, Inc.'s TransColorado Pipeline system. Processed NGLs from Grand River are injected into Enterprise's Mid-America Pipeline system or delivered to local markets. In addition, certain of our gathering agreements with our Grand River customers permit us to retain condensate volumes that naturally discharge from the liquids-rich natural gas as it moves across our system.
+ The Grand River system has multiple long-term, fee-based gathering agreements with Caerus as well as fee-based agreements with Terra, Black Hills Exploration and Production, Inc. ("Black Hills") and Ursa Resources Group II LLC (“Ursa”) which include long-term acreage dedications and MVCs. Certain of the Grand River system's other gathering and processing agreements include MVCs and AMIs.
+ In 2015, we executed an expansion agreement with a wholly owned subsidiary of Ursa to provide additional throughput capacity in exchange for new MVCs. In connection with the Black Hills gathering agreement, in March 2014 we commissioned a 20 MMcf/d cryogenic processing plant and related gas gathering infrastructure in the DeBeque, Colorado area to support Black Hills' development of its acreage targeting the liquids-rich Mancos and Niobrara formations. In connection with the Terra gathering agreement, we agreed to expand our gathering and compression services by constructing gas gathering infrastructure in the Rifle, Colorado area.
+ We anticipate that the majority of our near-term throughput on the Grand River system will continue to originate from the Mesaverde formation. We expect to continue to pursue additional volumes on the low-pressure system to more fully utilize the system's existing throughput capacity. In addition, we believe that the Grand River system is optimally located for expansion to gather future production from the Mancos and Niobrara shale formations. The Grand River system currently provides midstream services for the Piceance/DJ Basins reportable segment.
+ Niobrara G&P.  In March 2016, we acquired certain associated natural gas gathering pipeline, compression and processing assets in the DJ Basin from a subsidiary of Summit Investments. We refer to these assets as the Niobrara G&P system. The system, which is located in Weld County, Colorado, comprises a low-pressure and high-pressure associated natural gas gathering pipeline and cryogenic natural gas processing plant with processing capacity of 20 MMcf/d pursuant to a long-term, fee-based gathering and processing agreement with Fifth Creek and a large U.S. independent crude oil and natural gas company. In December 2017, Fifth Creek announced a merger with Bill Barrett which is expected to close in the first quarter of 2018. In November 2017, we announced the expansion of our existing 20 MMcf/d gathering and processing complex with the addition of a new 60 MMcf/d processing plant. We expect the new 60 MMcf/d processing plant to become operational in the fourth quarter of 2018. Residue gas is delivered to the Colorado Interstate Gas pipeline and processed NGLs are delivered to the Overland Pass Pipeline. The Niobrara G&P system currently provides midstream services for the Piceance/DJ Basins reportable segment.
+ Barnett Shale
+ The following table provides operating information regarding our Barnett Shale reportable segment as of December 31, 2017.
+  
+ | Throughput capacity (MMcf/d) | | Average daily MVCs through 2022 (MMcf/d) | | Remaining MVCs (Bcf) | Weighted-average remaining contract life (Years) (1)
+--------------+------------------------------+-----+------------------------------------------+---+----------------------+-----------------------------------------------------
+Barnett Shale | | 480 | | 2 | | 3 | 0.8
+
+ __________
+ (1) Weighted average based on total remaining MVC (total remaining MVCs multiplied by average rate).
+ AMIs for the Barnett Shale reportable segment total more than 120,000 acres.
+ 15
+
+
+DFW Midstream.  In 2009 and 2014, we acquired certain natural gas gathering pipeline and compression assets in the Barnett Shale from third parties. We refer to these assets as the DFW Midstream system. The DFW Midstream system is primarily located in southeastern Tarrant County, in north-central Texas. As the largest natural gas-producing county in Texas, we consider this area to be the core of the core of the Barnett Shale because of the quality of the geology and the high production profile of the wells drilled to date. Based on peak month average daily production rates sourced from the Railroad Commission of Texas as of December 2017, this area contains the most prolific wells in the Barnett Shale. For example, the two largest and five of the 10 largest wells drilled in the Barnett Shale are connected to the DFW Midstream system.
+ The DFW Midstream system includes gathering pipelines located under both private and public property and is partially located along existing electric transmission corridors. Compression on the system is powered by electricity. To offset the costs we incur to operate the system's electric-drive compressors, we either retain a fixed percentage of the natural gas that we gather or pass through a portion of the power expense to our customers. The DFW Midstream system currently has six primary interconnections with third-party, primarily intrastate pipelines. These interconnections enable us to connect our customers, directly or indirectly, with the major natural gas market hubs in Texas and Louisiana.
+ The DFW Midstream system is underpinned by a long-term, fee-based gathering agreement with Total and by other long-term, fee-based gathering agreements. The DFW Midstream system is designed to benefit from incremental volumes arising from high-density, infill drilling on existing pad sites that are already connected to the gathering system and, as such, would not require significant additional capital expenditures. Development of the DFW Midstream system has enabled our customers to efficiently produce natural gas by utilizing horizontal drilling techniques from pad sites already connected in our AMIs. Given the urban nature of southeastern Tarrant County, we expect that the majority of future natural gas drilling in this area will occur from existing pad site locations. The DFW Midstream system currently provides midstream services for the Barnett Shale reportable segment.
+ Marcellus Shale
+ The following table provides operating information regarding our Marcellus Shale reportable segment as of December 31, 2017.
+  
+ | Throughput capacity (MMcf/d) | 
+--------------------+------------------------------+------
+Marcellus Shale (1) | | 1,050
+
+ __________
+ (1) Contract terms related to AMIs and MVCs are excluded for confidentiality purposes.
+ Mountaineer Midstream.  In June 2013, we acquired certain high-pressure natural gas gathering pipelines and compression assets located in the liquids-rich window of the Marcellus Shale Play from an affiliate of MarkWest Energy Partners, L.P. (“MarkWest,” which was acquired by MPLX). We refer to these assets as the Mountaineer Midstream system. This system, which operates in the Appalachian Basin, benefits from its location in Doddridge and Harrison counties in West Virginia where it gathers natural gas under a long-term, fee-based contract with Antero. The Mountaineer Midstream system consists of high-pressure natural gas gathering pipelines and two compressor stations. This liquids-rich natural gas gathering and compression system serves as a critical inlet to MPLX's Sherwood Processing Complex, a primary destination for liquids-rich natural gas in northern West Virginia, which provides downstream access to Midwest, mid-Atlantic and northeast regions of the United States.
+ In November 2013, we amended our original fee-based natural gas gathering agreement with Antero whereby we agreed to construct approximately nine miles of high-pressure pipeline on the Mountaineer Midstream system (the "Zinnia Loop"). The Zinnia Loop, which was commissioned in 2014, is underpinned by a minimum revenue commitment from Antero and increased throughput capacity to 1,050 MMcf/d to support Antero's drilling activities. The Mountaineer Midstream system currently provides midstream services for the Marcellus Shale reportable segment.
+ 16
+
+
+Delaware Basin
+ Summit Permian.  In July 2017, we executed an agreement with XTO to develop, own and operate a new associated natural gas gathering and processing system servicing acreage located in the northern Delaware Basin in Eddy and Lea counties in New Mexico. We are in the process of constructing a gathering and processing system with high and low pressure gathering and discharge pipelines, two compressor stations and a cryogenic processing plant with 60 MMcf/d of processing capacity. Our processing complex will have the ability to be expanded to over 600 MMcf/d of processing capacity, as warranted, to meet customer needs. We expect to process production from XTO and other nearby producers. The initial phase of the project is expected to be operational on or before June 1, 2018. 
+For additional information relating to our business and gathering systems, see the "Trends and Outlook" and "Results of Operations" sections in Item 7. MD&A.
+ 
+Regulation of the Natural Gas and Crude Oil Industries
+ General.  Sales by producers of natural gas, crude oil, condensate and NGLs are currently made at market prices. However, gathering and transportation services are subject to various types of regulation, which may affect certain aspects of our business and the market for our services. FERC regulates the transportation of natural gas in interstate commerce and the interstate transportation of crude oil, petroleum products and NGLs. FERC regulation includes reviewing and accepting or approving rates and other terms and conditions for such transportation services. FERC is also authorized to prevent and sanction market manipulation in natural gas markets while the FTC is authorized to prevent and sanction market manipulation in petroleum markets. State and municipal regulations may apply to the production and gathering of natural gas, the construction and operation of natural gas and crude oil facilities and the rates and practices of gathering systems and intrastate pipelines.
+ Regulation of Crude Oil and Natural Gas Exploration, Production and Sales.  Sales of crude oil and NGLs are not currently regulated and are transacted at market prices. In 1989, the U.S. Congress enacted the Natural Gas Wellhead Decontrol Act, which removed all remaining price and non-price controls affecting wellhead sales of natural gas. FERC, which has the authority under the NGA to regulate the prices and other terms and conditions of the sale of natural gas for resale in interstate commerce, has issued blanket authorizations for all gas resellers subject to its regulation, except interstate pipelines, to resell natural gas at market prices. Either Congress or FERC (with respect to the resale of gas in interstate commerce), however, could re-impose price controls in the future.
+ Exploration and production operations are subject to various types of federal, state and local regulation, including, but not limited to, permitting, well location, methods of drilling, well operations and conservation of resources. While these regulations do not directly apply to our business, they may affect our customers' ability to produce natural gas.
+ Regulation of the Gathering and Transportation of Natural Gas and Crude Oil.  We believe that the majority of our natural gas pipeline facilities qualify as gathering facilities that are exempt from the jurisdiction of FERC. On February 1, 2016, Epping's FERC tariff for interstate movements of crude oil on its Epping Pipeline in North Dakota became effective. That tariff is subject to FERC jurisdiction and oversight pursuant to FERC's authority under the ICA. We are also generally subject to FERC's anti-market manipulation regulations. The distinction between federally unregulated natural gas and crude oil pipelines and FERC-regulated natural gas and crude oil pipelines has been the subject of extensive litigation and changes in the policies and interpretations of laws and regulations. In addition, the status of any individual pipeline system may be determined by FERC on a case-by-case basis, although FERC has made no such determinations as to the status of our facilities. Consequently, the classification and regulation of pipeline systems (including some of our pipelines) could change based on future determinations by FERC or the courts.
+ Under FERC’s ICA jurisdiction, rates for interstate movements of liquids by pipeline are currently regulated primarily through an annual indexing methodology, under which pipelines increase or decrease their existing rates in accordance with a FERC-specified adjustment. This adjustment is subject to review every five years. For the five-year period beginning on July 1, 2016, FERC established an annual index adjustment equal to the change in the producer 
+ 17
+
+
+price index for finished goods plus 1.23%. FERC is currently considering a policy change that would deny proposed index increases for pipelines under certain circumstances where revenues exceed cost-of-service by a certain percentage or where the proposed index increases exceed certain annual cost changes reported to FERC, although it has not yet made any determinations regarding these proposals.
+ Under current FERC regulations, liquids pipelines can request a rate increase that exceeds the rate obtained through the indexing methodology by using a cost-of-service approach, but a pipeline must establish that a substantial divergence exists between its actual costs and the rates resulting from the indexing methodology. The rates charged by Epping may also be affected by an ongoing proceeding before FERC that seeks to address whether FERC’s existing policy of allowing partnership-owned pipelines to claim an income-tax allowance for partners’ tax liability results in an impermissible double-recovery, or whether justification exists to continue the current approach. The potential outcome of this proceeding is currently uncertain.
+ The ICA permits interested persons to challenge proposed new or changed rates and authorizes FERC to suspend the effectiveness of such rates for up to seven months and investigate such rates. If, upon completion of an investigation, FERC finds that the new or changed rate is unlawful, it is authorized to require the pipeline to refund revenues collected in excess of the just and reasonable rate during the term of the investigation. FERC may also investigate, upon complaint or on its own motion, rates that are already in effect and may order a carrier to change its rates prospectively. Under certain circumstances, FERC could limit Epping’s ability to set rates based on costs or could order reduced rates and reparations to complaining shippers for up to two years prior to the date of a complaint. FERC also has the authority to change terms and conditions of service if it determines that they are unjust and unreasonable or unduly discriminatory or preferential.
+ Intrastate pipelines, which may include some pipelines that perform gathering functions, may be subject to safety regulation by the DOT, although typically state regulatory authorities (operating under a federal certification) perform this function. State regulatory authorities also have jurisdiction over the rates and practices of intrastate pipelines and gathering systems, including requirements for ratable takes or non-discriminatory access to pipeline services. The basis for state regulation and the degree of regulatory oversight of gathering systems and intrastate pipelines varies from state to state. In Texas, we are regulated as a gas utility and have filed tariffs with the Railroad Commission of Texas to establish rates and terms of service for our DFW Midstream system assets. We have not been required to file tariffs in the other states in which we operate, although we are required to submit shape files and other information regarding the location and construction of underground gathering pipelines in North Dakota. The states in which we operate have adopted complaint-based regulation that allows natural gas producers and shippers to file complaints with state regulators in an effort to resolve access issues and rate grievances, among other matters. State authorities in the states in which we operate generally have not initiated investigations of the rates or practices of gathering systems or intrastate pipelines in the absence of a complaint. State regulation of intrastate pipelines continues to evolve and may become more stringent in the future. For example, the North Dakota Industrial Commission recently adopted rule changes that resulted in additional construction and monitoring requirements for all pipelines, including, but not limited to, those that transport produced water, and has recently adopted reclamation bonding requirements for certain underground gathering pipelines in North Dakota.
+ Natural gas, crude oil and produced water production, gathering and transportation, including the construction of new gathering facilities and expansion of existing gathering facilities may also be subject to local regulation, such as approval and permit requirements.
+ Anti-Market Manipulation Rules.  We are subject to the anti-market manipulation provisions in the NGA and the NGPA, as amended by the Energy Policy Act of 2005, which authorize FERC to impose fines of up to $1,238,271 per day per violation of the NGA, the NGPA, or their implementing regulations, subject to future adjustments for inflation. In addition, the FTC holds statutory authority under the Energy Independence and Security Act of 2007 to prevent market manipulation in petroleum markets, including the authority to request that a court impose fines of up to $1,180,566 per violation, subject to future adjustment for inflation. These agencies have promulgated broad rules and regulations prohibiting fraud and manipulation in oil and gas markets. The CFTC is directed under the CEA to prevent price manipulations in the commodity and futures markets, including the energy futures markets. Pursuant to statutory authority, the CFTC has adopted anti-market manipulation regulations that prohibit fraud and price manipulation in the 
+ 18
+
+
+commodity and futures markets. The CFTC also has statutory authority to seek civil penalties of up to the greater of $1,098,190 per day per violation, subject to future adjustment for inflation, or triple the monetary gain to the violator for violations of the anti-market manipulation sections of the CEA. We are also subject to various reporting requirements that are designed to facilitate transparency and prevent market manipulation.
+ Safety and Maintenance.  We are subject to regulation by the DOT, which establishes federal safety standards for the design, construction, operation and maintenance of natural gas and crude oil pipeline facilities. In the Pipeline Safety Act of 1992, Congress expanded the DOT's regulatory authority to include regulated gathering lines that had previously been exempt from federal jurisdiction. The Pipeline Safety Improvement Act of 2002 and the Pipeline Inspection, Protection, Enforcement and Safety Act of 2006 established mandatory inspections for certain U.S. oil and natural gas transmission pipelines in high consequence areas. The Pipeline Safety, Regulatory Certainty and Job Creation Act of 2011 (“2011 Act”) reauthorized funding for federal pipeline safety programs through 2015, increased penalties for safety violations, established additional safety requirements for newly constructed pipelines and required studies of certain safety issues that could result in the adoption of new regulatory requirements for existing pipelines. In 2016, the Protecting Our Infrastructure of Pipelines and Enhancing Safety Act reauthorized pipeline safety programs through 2019 and provided limited new authority, including the ability to issue emergency orders, while increasing transparency into the status of remaining actions required by the 2011 Act.
+ The DOT has delegated the implementation of pipeline safety requirements to PHMSA, which has adopted and enforces safety standards and procedures applicable to a limited number of our pipelines. In addition, many states, including the states in which we operate, have adopted regulations that are identical to or more restrictive than existing PHMSA regulations for intrastate pipelines. Among the regulations applicable to us, PHMSA requires pipeline operators to develop integrity management programs for certain pipelines located in high consequence areas, which include high-population areas such as the Dallas-Fort Worth greater metropolitan area where our DFW Midstream system is located. While the majority of our pipelines meet the DOT definition of gathering lines and are thus currently exempt from the integrity management requirements of PHMSA, we also operate a limited number of pipelines that are subject to the integrity management requirements. Those regulations require operators, including us, to:
+  
+• | perform ongoing assessments of pipeline integrity;
+--+---------------------------------------------------
+
+
+• | identify and characterize applicable threats to pipeline segments that could impact a high consequence area;
+--+-------------------------------------------------------------------------------------------------------------
+
+
+• | maintain processes for data collection, integration and analysis;
+--+------------------------------------------------------------------
+
+
+• | repair and remediate pipelines as necessary;
+--+---------------------------------------------
+
+
+• | adopt and maintain procedures, standards and training programs for control room operations; and
+--+------------------------------------------------------------------------------------------------
+
+
+• | implement preventive and mitigating actions.
+--+---------------------------------------------
+
+ In April 2016, PHMSA proposed changes to gas pipeline safety regulations that would impose expanded assessment requirements, expand assessment and repair requirements to pipelines in areas with medium population densities (so-called “Moderate Consequence Areas”), and extend pipeline safety regulation to certain previously unregulated gas gathering pipelines. PHMSA has yet to finalize this rulemaking, however, and the timing and content of any final rule are uncertain. In 2015, PHMSA adopted regulations that impose pipeline incident prevention and response measures on pipeline operators and in 2012, PHMSA issued an Advisory Bulletin providing guidance on verification of records related to pipeline maximum allowable operating pressure. Pipelines that do not meet PHMSA’s record verification standards may be required to perform additional testing or reduce their operating pressures.
+ In January 2017, PHMSA issued a final rule amending its pipeline safety regulations for the design, construction, testing, operation, and maintenance of pipelines transporting hazardous liquids. Among other things, the final rule extends certain safety-related condition reporting requirements to all hazardous liquid gathering lines and requires periodic assessments of certain hazardous liquid transmission lines in non-high consequence areas. The status of this rulemaking is currently uncertain due to a regulatory freeze implemented by the Trump administration on January 20, 2017, pursuant to which all regulations that had been sent to the Office of the Federal Register, but not yet 
+ 19
+
+
+published, were withdrawn for further review. Accordingly, the anticipated January 2017 rulemaking was never published in the Federal Register, and the rule is not currently effective. 
+ Gathering systems like ours are also subject to a number of federal and state laws and regulations, including the Federal Occupational Safety and Health Act and comparable state statutes, the purposes of which are to protect the health and safety of workers, both generally and within the pipeline industry. In addition, the Occupational Safety and Health Administration hazard communication standard, EPA community right-to-know regulations under Title III of the federal Superfund Amendment and Reauthorization Act and comparable state statutes require that information be maintained concerning hazardous materials used or produced in our operations and that such information be provided to employees, state and local government authorities and the public.
+ Environmental Matters
+ General.  Our operation of pipelines and other assets for the gathering, treating and/or processing of natural gas and the gathering of crude oil and produced water is subject to stringent and complex federal, state and local laws and regulations relating to the protection of the environment. As an owner or operator of these assets, we must comply with these laws and regulations at the federal, state and local levels. These laws and regulations can restrict or impact our business activities in many ways, such as:
+
+• | requiring the installation of pollution-control equipment or otherwise restricting the way we operate;
+--+-------------------------------------------------------------------------------------------------------
+
+
+• | limiting or prohibiting construction activities in sensitive areas, such as wetlands, coastal regions or areas inhabited by endangered or threatened species;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | delaying system modification or upgrades during permit reviews;
+--+----------------------------------------------------------------
+
+
+• | requiring investigatory and remedial actions to mitigate pollution conditions caused by our operations or attributable to former operations; and
+--+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | enjoining the operations of facilities deemed to be in non-compliance with permits or permit requirements issued pursuant to or imposed by such environmental laws and regulations.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Failure to comply with these laws and regulations may trigger administrative, civil and criminal enforcement measures, including the assessment of monetary penalties. Certain environmental statutes impose strict joint and several liability for costs required to clean up and restore sites where substances, hydrocarbons or wastes have been disposed or otherwise released. Moreover, it is not uncommon for neighboring landowners and other third parties to file claims for personal injury and property damage allegedly caused by the release of hazardous substances, hydrocarbons or other waste products into the environment.
+ The trend in environmental regulation is to place more stringent requirements, resulting in more restrictions and limitations, on activities that may affect the environment. Thus, there can be no assurance as to the amount or timing
+ of future expenditures for environmental compliance or remediation and actual future expenditures may be different from the amounts we currently anticipate. We try to anticipate future regulatory requirements that might be imposed and plan accordingly to remain in compliance with changing environmental laws and regulations and to minimize the costs of such compliance. We also actively participate in industry groups that help formulate recommendations for addressing existing and future regulations.
+ The following is a discussion of the material environmental laws and regulations that relate to our business.
+ Hazardous Substances and Waste.  Our operations are subject to environmental laws and regulations relating to the management and release of solid and hazardous wastes and other substances, including hydrocarbons. These laws generally regulate the generation, storage, treatment, transportation and disposal of solid and hazardous waste and may impose strict joint and several liability for the investigation and remediation of affected areas where hazardous substances may have been released or disposed. Furthermore, the Toxic Substances Control Act and analogous state laws, impose requirements on the use, storage and disposal of various chemicals and chemical substances at our facilities. CERCLA and comparable state laws impose liability, without regard to fault or the legality of the original conduct, on certain classes of persons that contributed to the release of a hazardous substance into the 
+ 20
+
+
+environment. We may handle hazardous substances within the meaning of CERCLA, or similar state statutes, in the course of our ordinary operations and, as a result, may be jointly and severally liable under CERCLA for all or part of the costs required to clean up sites at which these hazardous substances have been released into the environment.
+ We also generate industrial wastes that are subject to the requirements of the RCRA and comparable state statutes. While the RCRA regulates both solid and hazardous wastes, it imposes strict requirements on the generation, storage, treatment, transportation and disposal of hazardous wastes. Although we generate minimal hazardous waste, it is possible that non-hazardous wastes, which could include wastes currently generated during our operations, will in the future be designated as hazardous wastes and, therefore, be subject to more rigorous and costly disposal requirements. Moreover, from time to time, the EPA and state regulatory agencies have considered the adoption of stricter disposal standards for non-hazardous wastes, including natural gas wastes.
+ We currently own or lease properties where hydrocarbons are being or have been handled for many years. Although we believe that the previous operators utilized operating and disposal practices that were standard in the industry at the time, hydrocarbons or other wastes may have been disposed of or released on or under the properties owned or leased by us or on or under the other locations where these hydrocarbons and wastes have been transported for treatment or disposal, without our knowledge. These properties and the wastes disposed thereon may be subject to CERCLA, the RCRA and analogous state laws. Under these laws, we could be required to remove or remediate previously disposed wastes (including wastes disposed of or released by prior owners or operators), to clean up contaminated property (including contaminated groundwater) or to perform remedial operations to prevent future contamination. We are not currently aware of any facts, events or conditions relating to such requirements that could materially impact our operations or financial condition.
+ Air Emissions.  Our operations are subject to the federal CAA and comparable state and local laws and regulations. These laws and regulations regulate emissions of air pollutants from various industrial sources, including our facilities, and also impose various monitoring, control and reporting requirements. Such laws and regulations may require that we obtain pre-approval for the construction or modification of certain projects or facilities expected to produce or significantly increase air emissions, obtain and strictly comply with air permits containing various emissions and operational limitations and utilize specific emission control technologies to limit emissions. Our failure to comply with these requirements could subject us to monetary penalties, injunctions, conditions or restrictions on operations and criminal enforcement actions. Furthermore, we may be required to incur certain capital expenditures in the future to obtain and maintain operating permits and approvals for air pollutant emitting sources.
+ In October 2015, the EPA issued a new lower NAAQS for ozone. The previous ozone standard was set at 75 parts per billion ("ppb"). The revised standard has been lowered to 70 ppb. The lowered ozone NAAQS could result in a significant expansion of ozone nonattainment areas across the United States, including areas in which we operate, which could subject us to increased regulatory burdens in the form of more stringent emission controls, emission offset requirements and increased permitting delays and costs. Impacts from the new standard have not yet been determined, as states are still in the process of incorporating the new standard into their respective state implementation plans. We will continue to monitor developments to determine if any adverse effects on our operations can be expected.
+ On June 3, 2016, the EPA finalized revisions to its 2012 New Source Performance Standard ("NSPS") OOOO for the oil and gas industry, to reduce emissions of greenhouse gases - most notably methane - along with smog-forming VOCs. The revisions, which are published in the Federal Register under Subpart OOOOa, included the addition of methane to the pollutants covered by the rule, along with requirements for detecting and repairing leaks at gathering and boosting stations. The revised rule applies to sources that have been modified, constructed, or reconstructed after September 18, 2015. EPA is currently reconsidering NSPS OOOOa and has proposed to stay its requirements. However, the rule currently remains in effect. While we do not expect this rule to significantly impact our existing operations, future modifications or new construction may be adversely affected by the revised rule.
+ On November 16, 2016 the Bureau of Land Management ("BLM") issued a final rule to reduce venting and flaring of natural gas on public and Indian lands. The final rule mirrors many of the requirements found in NSPS OOOOa, with additional natural gas royalty requirements for flared volumes at sites already connected to gas capture infrastructure. 
+ 21
+
+
+In December 2017, the BLM issued a final rule that temporarily suspends or delays these requirements until January 2019, while BLM considers revising or rescinding these requirements. While the rule is expected to have little or no direct impact on our operations, our customers that are primarily upstream wellhead operators may be impacted by the requirements in this rule.
+ Water Discharges.  The CWA and analogous state laws impose restrictions and strict controls regarding the discharge of pollutants into regulated waters, which impacts our ability to conduct construction activities in waters and wetlands. Certain state regulations and the general permits issued under the Federal National Pollutant Discharge Elimination System program prohibit the discharge of pollutants and chemicals. In addition, the Clean Water Act and analogous state laws require individual permits or coverage under general permits for discharges of storm water runoff from certain types of facilities. These permits require us to control storm water runoff from some of our facilities. Some states also maintain groundwater protection programs that require permits for discharges or operations that may impact groundwater conditions. Federal and state regulatory agencies can impose administrative, civil and criminal penalties for non-compliance with discharge permits or other requirements of the Clean Water Act and analogous state laws and regulations. Except as otherwise disclosed in this annual report, we believe that we are in substantial compliance with all applicable requirements of the CWA and analogous state laws and regulations relating to water discharges.
+ Oil Pollution Act.  The OPA requires the preparation of an SPCC plan for facilities engaged in drilling, producing, gathering, storing, processing, refining, transferring, distributing, using, or consuming oil and oil products, and which due to their location, could reasonably be expected to discharge oil in harmful quantities into or upon the navigable waters of the United States. The owner or operator of an SPCC-regulated facility is required to prepare a written, site-specific spill prevention plan, which details how a facility's operations comply with the requirements. To be in compliance, the facility's SPCC plan must satisfy all of the applicable requirements for drainage, bulk storage tanks, tank car and truck loading and unloading, transfer operations (intrafacility piping), inspections and records, security and training. Certain of our facilities are classified as SPCC-regulated facilities. We believe that they are in substantial compliance with all applicable requirements of OPA.
+ Hydraulic Fracturing.  Hydraulic fracturing is an important and increasingly common practice that is used to stimulate production of natural gas and/or crude oil from dense subsurface rock formations and is primarily presently regulated by state agencies. However, Congress has in the past and may in the future consider legislation to regulate hydraulic fracturing by federal agencies. Many states have already adopted laws and/or regulations that require disclosure of the chemicals used in hydraulic fracturing and are considering legal requirements that could impose more stringent permitting, disclosure and well construction requirements on oil and/or natural gas drilling activities. The EPA has also moved forward with various related regulatory actions, including approving new regulations requiring green completions of hydraulically-fractured wells and corresponding reporting requirements that went into effect in 2015. Revisions to the green completion regulations were finalized in June 2016 and include additional requirements to reduce methane and VOCs. The EPA announced in April 2017 that it would review these regulations and has proposed to stay their requirements. However, the regulations currently remain in effect. We do not believe these new regulations will have a direct effect on our operations, but because natural gas and/or crude oil production using hydraulic fracturing is growing rapidly in the United States, if new or more stringent federal, state or local legal restrictions relating to such drilling activities or to the hydraulic fracturing process are adopted, this could result in a reduction in the supply of natural gas and/or crude oil.
+ Endangered Species Act.  The Endangered Species Act restricts activities that may affect endangered or threatened species or their habitats. Some of our pipelines may be located in areas that are designated as habitats for endangered or threatened species.
+ National Environmental Policy Act.  The NEPA establishes a national environmental policy and goals for the protection, maintenance and enhancement of the environment and provides a process for implementing these goals within federal agencies. Major projects having the potential to significantly impact the environment require review under NEPA. Many of our activities are covered under categorical exclusions which results in an expedited NEPA review process. Large upstream and downstream projects with significant cumulative impacts may be subject to 
+ 22
+
+
+longer NEPA review processes, which could impact the timing of those projects and our services associated with them.
+ Climate Change.  The EPA has adopted regulations under the CAA that, among other things, establish GHG emission limits from motor vehicles as well as establish PSD construction and Title V operating permit reviews for certain large stationary sources that are potential major sources of GHG emissions. Facilities required to obtain PSD permits for their GHG emissions also will be required to meet “best available control technology” standards that will be established by the states or, in some cases, by the EPA on a case-by-case basis.
+ EPA rules also require the reporting of GHG emissions from specified large GHG-emitting sources in the United States, including onshore and offshore oil and natural gas systems. We are required to report under these rules for our assets that have GHG emissions above the reporting thresholds. In October 2015, the EPA issued revisions to Subpart W of the GHG reporting rule to include reporting requirements for gathering and booster stations, onshore natural gas transmission pipelines, and completions and workovers of oil wells with hydraulic fracturing. This development resulted in increased monitoring and reporting for our operations and for upstream producers for whom we provide midstream services.
+ In addition, almost half of the states, either individually or through multi-state regional initiatives, have begun to address GHG emissions, primarily through the planned development of emission inventories or regional GHG cap and trade programs. Most of these cap and trade programs work by requiring either major sources of emissions, such as electric power plants, or major producers of fuels, such as refineries and gas processing plants, to acquire and surrender emission allowances. In general, the number of allowances available for purchase is reduced each year until the overall GHG emission reduction goal is achieved. Depending on the scope of a particular program, we could be required to purchase and surrender allowances for GHG emissions resulting from our operations (e.g., at compressor stations). Although most of the state-level initiatives have to date been focused on large sources of GHG emissions, such as electric power plants, it is possible that certain components of our operations, such as our gas-fired compressors, could become subject to state-level GHG-related regulation.
+ Further, in December 2015, over 190 countries, including the United States, reached an agreement to reduce global GHG emissions. The agreement entered into force in November 2016, after over 70 countries, including the United States, ratified or otherwise consented to be bound by the agreement. In August 2017, the United States formally documented to the United Nations its intent to withdraw from the agreement. The earliest possible effective withdrawal date from the agreement is November 2020.
+ Legislation or regulations that may be adopted to address climate change could also affect the markets for our products by making our products more or less desirable than competing sources of energy. To the extent that our products are competing with higher GHG-emitting energy sources, our products would become more desirable in the market with more stringent limitations on GHG emissions. Conversely, to the extent that our products are competing with lower GHG-emitting energy sources such as solar and wind, our products would become less desirable in the market with more stringent limitations on GHG emissions.
+ 
+Other Information
+ Employees.  SMLP does not have any employees. All of the employees required to conduct and support its operations are employed by Summit Investments, but these individuals are sometimes referred to as our employees. The officers of our General Partner manage our operations and activities. As of December 31, 2017, Summit Investments employed 347 people who provide direct, full-time support to our operations. None of our employees are covered by collective bargaining agreements, and we have never experienced any business interruption as a result of any labor disputes.
+ Availability of Reports.  We make certain filings with the SEC, including, among other filings, our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and all amendments and exhibits to those reports, available free of charge through our website, www.summitmidstream.com, as soon as reasonably practicable 
+ 23
+
+
+after the date they are filed with, or furnished to, the SEC. The filings are also available at the SEC’s Public Reference Room at 100 F Street, NE, Washington, D.C. 20549 or by calling 1-800-SEC-0330. These filings are also available through the SEC's website, www.sec.gov. Our press releases and recent investor presentations are also available on our website.
+ 

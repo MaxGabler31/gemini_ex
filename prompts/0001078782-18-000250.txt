@@ -1,0 +1,184 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1.
+BUSINESS
+
+Overview 
+ 
+VolitionRX is a multi-national life sciences company developing simple, easy to use, cost effective blood tests to help diagnose a range of cancers. We hope that through earlier diagnosis we can help save and improve the quality of many people’s lives throughout the world.
+Our Solution/ Science
+ 
+Our tests are based on the science of Nucleosomics®, which is the practice of identifying and measuring nucleosomes in the bloodstream or other bodily fluid - an indication that disease is present. 
+ 
+The principle behind what we are doing relies on bringing together two main lines of research and is, in concept, very simple: the chromosomes of cancer cells differ from those of healthy cells – both in terms of DNA sequence (due to genetic cancer mutations) and in protein structure - due to epigenetic changes. There are chromosome fragments from dead cancer cells circulating in the blood as nucleosomes. Each such circulating nucleosome contains a small (approx. 140bp) fragment of tumor DNA.
+ 
+Our Nucleosomics technology exploits the different compositions of circulating nucleosome structures present in the serum of cancer patients to detect and identify cancer diseases.
+ 
+We have developed a novel suite of blood assays for epigenetically altered circulating nucleosomes as biomarkers in cancer. Nu.QTM products are simple, low-cost, ELISA platform tests and can incorporate other off-patent, low-cost ELISA tests in our panels (e.g. CEA, PSA, CA125) for higher accuracy.
+ 
+Many companies and medical schools are developing circulating tumor DNA, or ctDNA, tests based on sequencing the DNA attached to these nucleosomes.
+ 
+Our diagnostic target in the blood is the same tumor chromosome fragment, but our approach is to test for chromosome protein and nucleic acid changes in intact chromosome fragments by ELISA, rather than chemically extracting, amplifying, and sequencing the ctDNA and discarding the rest of the nucleosome. ELISA is possible because the targets of our tests occur globally across all nucleosomes within a tumor cell, whereas individual ctDNA changes must be identified within the three billion base-pair genomes. This means that the targets of our tests are exponentially more prevalent in circulating blood, and detectable using simple laboratory methods.
+ 
+How is Nu.Q different from ctDNA?
+ 
+
+
+When a cancer cell dies the nuclear components are metabolized into 20 million individual DNA-Nu complexes and released into circulation. A cancer mutation will occur in one of the DNA-Nu complexes. 
+ 
+
+ctDNA sequencing methods (in development) must target that one-in-20 million DNA-Nu complexes. 
+ 
+
+Nu.QTM targets all 20 million circulating DNA-Nu complexes because nucleosome modifications occur globally. 
+ 
+
+Nu.Q is a simple low-cost ELISA and can incorporate other ELISA tests in our panels. 
+ 
+Using our Nucleosomics technology, we have developed 39 epigenetic Nu.Q assays, which are designed to detect the level and structure of nucleosomes in blood. Epigenetics is the science of how genes are switched “on” or “off” in the body’s cells. A major factor controlling the switching “on” and “off” is the structuring of DNA. The DNA in human cells is packaged as protein complexes in a “beads on a string” structure. Each individual protein/DNA “bead” is called a nucleosome. These nucleosomes then form additional structures with increasingly dense packing, culminating in chromosomes containing hundreds of thousands of nucleosomes as depicted in Figure 1 below.
+
+2
+
+
+Figure 1 – A nucleosome
+ 
+Cancer is characterized by uncontrolled and often rapid cell growth which exceeds the corresponding rate of cell death. When cells die, the DNA fragments into individual nucleosomes which are released into the blood as illustrated in Figure 2 below. The cell debris in the bloodstream is eventually recycled back into the body. When a cancer is present, the number of dying cells can overwhelm the recycling process, leaving the excess fragments, including the nucleosomes, in the blood. Importantly, the structure of nucleosomes is not uniform but subject to immense variety, and nucleosomes in cancer cells have differences in structure from those in healthy cells.
+ 
+
+Figure 2 – Release of nucleosomes into blood
+ 
+Blood nucleosome levels can be raised in conditions other than cancer including in auto-immune disease, inflammatory disease, endometriosis, sepsis, and in the immediate aftermath of major trauma (for example following a heart attack, surgery or car accident). Our primary focus is on cancer diagnosis, but we also intend to pursue diagnostic opportunities in other disease areas.
+ 
+Research and Development 
+ 
+We are developing blood-based tests for the most prevalent cancers, beginning with colorectal cancer, or CRC. Following CRC, we anticipate focusing on lung cancer, prostate and pancreatic cancer, using our Nucleosomics biomarker discovery platform. Our development pipeline includes assays to be used for symptomatic patients or asymptomatic (screening) populations. The platform employs a range of simple Nu.Q immunoassays on an industry standard ELISA format, which allows rapid quantification of epigenetic changes in biofluids (whole blood, plasma, serum, sputum, urine etc.) compared to other approaches such as bisulfite conversion and polymerase chain reaction, or PCR. 
+ 
+We have developed 39 blood-based Nu.Q immunoassays to date to detect specific biomarkers that can be used individually or in combination to generate a profile which forms the basis of a product for a particular cancer or disease.
+ 
+Research and development expenses increased to $8.9 million for the year ended December 31, 2017 from $7.9 million for the year ended December 31, 2016. This increase in overall research and development expenditures was primarily related to additional costs of $0.5 million due our participation in the 13,500 patient trial with the National Cancer Institute’s Early Detection Research Network in collaboration with the University of Michigan. 
+
+3
+
+Clinical Studies 
+ 
+Listed below are the major studies we have underway in colorectal cancer, pancreatic cancer and a study involving 27 cancers. Further studies in colorectal cancer in Taiwan are planned to commence in the second half of 2018.
+
+Institution | Condition | Sample Collection | Cohort | Timing 
+------------------------------------------------------------------------------+---------------------------+----------------------------------------+---------------------------------------------------------+-----------------------------------------------------
+Early Detection Research Network of the U.S. National Cancer Institute (EDRN) | Colorectal Cancer | 9,000 Prospective, 4,600 Retrospective | 13,500 + Screening Population | Collection Ongoing to 2020 
+Hvidovre Hospital, University of Copenhagen | Colorectal Cancer | Prospective | 14,000 Screening Population | Collection completed. Results expected in 2018 
+Hvidovre Hospital, University of Copenhagen | Colorectal Cancer | Prospective, Longitudinal | 30,000 Screening Population (to provide 3 samples each) | Ongoing to 2022 
+Hvidovre Hospital, University of Copenhagen | Colorectal Cancer | Retrospective | 4,800 Symptomatic Patients | Collection completed. Final Results expected in 2018
+University of Bonn | 27 most prevalent cancers | Prospective | 4,500 Subjects | Collection completed. Results expected in 2018 
+German Cancer Research Center (DKFZ) | Pancreatic Cancer | Retrospective | 750 Subjects | Collection completed. Results expected in 2018/19 
+
+Commercialization Strategy 
+ 
+We are transitioning from a purely clinical stage company to a commercial company. We will continue to research and develop additional assays and products across a range of cancers as we continue to develop our commercial operations. We plan to develop multiple products across the whole range of cancers falling into the categories listed below:
+
+Frontline General Population Screening Tests for asymptomatic subjects for the most prevalent cancers For example, lung, colorectal, gastric and breast cancers. | High Risk Screening “Triage” Tests to work in conjunction with existing tests to improve sensitivity and/or specificity For example, with FIT for colorectal cancer. | Frontline Diagnostic / Adjunct Diagnostic Tests to aid the diagnosis of disease in symptomatic patients and/or high- risk patients For example, with low dose CT scans for lung cancer or Type II diabetes patients for pancreatic cancer. | Disease Monitoring Tests to help monitor and/or identify the recurrence of a disease For example, prostate cancer. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------
+
+ 
+We believe that given the global prevalence of cancer and the low cost, accessible routine nature of our tests, Nu.Q will eventually be used throughout the world. Our launch sequence is determined to a large extent by regulatory hurdles - consequently, we aim to launch first in Europe, then in Asia, and subsequently in the United States. We plan to work with partners and/or distributors to commercialize Nu.Q worldwide. 
+ 
+If we do not have enough funds to fully implement our business plan, we will be forced to scale back our plan of operations and our business activities, increase our anticipated timeframes to complete each milestone or seek additional funding. In the event that additional financing is delayed, we will prioritize the maintenance of our research and development personnel and facilities, primarily in Belgium.
+
+4
+
+The Market Opportunity
+    Cancer is one of the leading causes of death worldwide, accounting for around 8.2 million annual deaths globally. There are over 14 million new cases of cancer diagnosed each year and given the aging population this is expected to grow rapidly to over 21.5 million new cases annually by 2030. By way of example as of today, in the United States there are more than three new cases of cancer diagnosed and one person dies of a cancer-related death every minute. 
+ 
+Statistically, the chances of surviving cancer are greatly improved by early detection and treatment. However, there are currently very few blood tests for diagnosis of cancer in common clinical use. The only blood test commonly used for screening any cancer is the Prostate-Specific Antigen, or PSA, test for prostate cancer. We consider the PSA test to have relatively poor diagnostic accuracy (detecting approximately 70% of prostate cancers and misdiagnoses of about 30% of healthy men as positive for cancer) but it is widely used because it is the best product currently available. The PSA test is intended to be used to monitor patients after definitive diagnosis or treatment. The American Cancer Society recommends that prostate cancer screening should not occur without an informed decision-making process regarding risks. In 2012, the U.S. Preventative Services Task Force recommended against PSA- based screening for healthy men because of a “moderate or high probability” that the service has no benefit or that the harms outweigh the benefits. There are few currently commonly used approved blood tests for screening for cancer.
+ 
+Our initial and current focus is colorectal cancer, or CRC, which is the third leading cause of cancer deaths worldwide accounting for almost 700,000 lives lost annually. In the United States, CRC is the second leading cause of cancer deaths and the leading cause of cancer deaths in the United States among non-smokers. Each year in the United States there are over 140,000 new cases of CRC and approximately 51,000 deaths from CRC.
+ 
+The Journal of the National Cancer Institute claims that, while CRC is the most preventable cancer, it remains the least prevented form of cancer. Current methods of CRC diagnosis are either invasive, not cost-effective, have low acceptance or cannot provide accurate results. The inadequacy of existing diagnostic products means that most cancers are only diagnosed once the patient experiences symptoms and the cancer is well established. By this stage, it will often have spread beyond the primary tumor (metastatic cancers), making it substantially more difficult to treat. For example, while the overall 5-year survival rate for cancer patients is 65%, the survival rate differs significantly depending upon the stage of diagnosis. Only 14% of patients diagnosed at Stage IV survive 5 or more years whereas 90% of those diagnosed at Stage I survive five or more years; once more underlining the importance of early detection. We believe that early, non-invasive, accurate cancer diagnosis remains a significant unmet medical need and a significant commercial opportunity. For these reasons, cancer diagnostics is an active field of research and development both academically and commercially.
+ 
+The global in vitro diagnostic medical device, or IVD, market is forecasted to reach $65 billion in 2018; driven by the increasing health care demands of an aging population. In the United States, the IVD market is primarily comprised of:
+ 
+
+
+Immunochemistry of tissue samples (expected to grow 6.8% per annum from 2011-2018, with an expected value of $25.5 billion by 2018). These tests are mostly used to confirm cancer diagnosis post-surgery and to determine cancer sub-type; 
+ 
+
+Immunoassay (chemical tests used to detect a substance in blood or body fluid), is expected to be the second largest market with a value of more than $19.1 billion by 2018. These tests are mostly used to monitor for disease progress and relapse. This market segment includes our future Nucleosomics products, which will be blood-based immunoassay tests for modified nucleosomes for the diagnosis of cancer. 
+ 
+We anticipate that because of their ease of use and cost efficiency, our tests have the potential to become the first method of choice for cancer diagnostics, allowing detection of a range of cancers at an earlier stage than typically occurs currently, and testing of individuals who, for reasons such as time, cost or aversion to current methods, are not currently being tested. We believe our frontline blood test for CRC has the potential to have significantly higher compliance from patients compared to current fecal immunochemical tests, or FIT, and colonoscopies which are invasive and/or unpleasant. Our frontline blood test, currently in development, could be of significant benefit to screen relevant individuals (aged 50 to 74 years old).
+
+5
+
+Competition
+ 
+We believe that Epigenomics AG, or Epigenomics, is our main competitor in the blood-based diagnostic market. Epigenomics’ methylated DNA-based PCR test in colon cancer (Epi proColon®) is available in the United States, Europe, China and select other countries and its lung cancer test (Epi proLung®) has been CE-Marked in Europe. CellMax Life is another cancer diagnostics company offering non-invasive tests for early cancer detection and management, however, currently, its tests have limited clinical data and are available only in Taiwan. In colon cancer, our main target market, we also face potential competition from alternative procedures including flexible sigmoidoscopy, colonoscopy and virtual colonoscopy as well as traditional tests such as the stool guaiac and FIT. Exact Sciences Corporation has FDA and reimbursement approval for its stool-based DNA screening test, Cologuard®. We anticipate facing competition primarily from healthcare, pharmaceutical and diagnostic companies such as Epigenomics, Exact Sciences Corporation, Abbott Laboratories Inc., Cepheid Inc., Philips, GE Healthcare, Siemens, Gen-Probe Incorporated, MDxHealth SA, and Roche Diagnostics. There may also be other companies developing products competitive with ours of which we are unaware.
+ 
+We hope that our future products will have a competitive edge compared to those offered by competitors on the basis that our tests are being developed to be accurate, cost-effective and attractive from a government reimbursement perspective, easy to use, non-invasive, technologically advanced, and compatible with ELISA systems, based on strong intellectual property and to be used for mass screenings.
+ 
+Many of our anticipated competitors have substantially greater financial, technical, and other resources and larger, more established marketing, sales and distribution systems than we have. Many of our competitors also offer broad product lines outside of the diagnostic testing market and have brand recognition. Moreover, our competitors may make rapid technological developments that may result in our intended technologies and products becoming obsolete before we are able to enter the market, recover the expenses incurred to develop them or generate significant revenue. Our success will depend, in part, on our ability to develop our intended products in a timely manner, keep our future products current with advancing technologies, achieve market acceptance of our future products, gain name recognition and a positive reputation in the healthcare industry, and establish successful marketing, sales and distribution efforts.
+ 
+Government Regulations 
+ 
+The health care industry, and thus our business, is subject to extensive federal, state, local and foreign regulation. Some of the pertinent laws have not been definitively interpreted by the regulatory authorities or the courts, and their provisions are open to a variety of subjective interpretations. In addition, these laws and their interpretations are subject to change. 
+ 
+Both United States federal and state governmental agencies continue to subject the health care industry to intense regulatory scrutiny, including heightened civil and criminal enforcement efforts. As indicated by work plans and reports issued by these agencies, the federal government will continue to scrutinize, among other things, the marketing, labeling, promotion, manufacturing and export of diagnostic health care products. Our diagnostic products fall within the IVD medical device category and are subject to FDA clearance or approval in the United States. 
+ 
+The federal government also has increased funding in recent years to fight health care fraud, and various agencies, such as the United States Department of Justice, the Office of Inspector General of the Department of Health and Human Services, or OIG, and state Medicaid fraud control units, are coordinating their enforcement efforts.
+ 
+In Europe, medical devices are regulated by self-certification through the CE Mark system. Under the system, developers and manufacturers must operate a Quality System and validate medical devices in a limited clinical trial to demonstrate the manufacturer has met analytical and clinical performance criteria. We have implemented an International Organization for Standardization standard - ISO 13485 - quality management system for the design and manufacture of medical devices. ISO 13485 addresses managerial awareness of regulatory requirements, control systems, inspection and traceability, device design, risk and performance criteria as well as verification for corrective and preventative measures for device failure. Medical device companies such as ours are subject to pre-market compliance assessments from Notified Bodies, a certification organization which the national authority (the competent authority) of a European Union member state designates to carry out one or more of the conformity assessment procedures. ISO 13485 certification establishes conformity to specific European Union directives related to medical devices and allows CE Marking and sale of the device. 
+
+ 
+The new European In Vitro Diagnostic Regulation (IVDR - 2017/746), or the IVDR, became effective as of May 25, 2017, marking the start of a transition period for manufacturers selling IVD devices into Europe. The IVDR, which replaces IVD Directive (98/79/EC), or the Directive, has a transition period of five years, after which the IVDR will apply in full, and no new applications pursuant to the Directive will be accepted. Manufacturers have the duration of the five-year transition period to update their technical documentation and processes to meet the new, more stringent EU regulatory requirements. We believe that the most challenging areas under the IVDR will be regarding the classification of products, which will bring almost all IVDs under the direct control of Notified Bodies, and the performance evaluation of IVDs, which will not only include the classic clinical performance and analytical performance but also scientific validity, the role and responsibilities of the economic actors of the supply chain, the traceability and the transparency of the devices with, in particular, the introduction of the UDI-system and an expanded EUDAMED database.
+
+6
+
+Notified Bodies can begin auditing to the IVDR once they have been designated as a Notified Body under the IVDR by their Competent Authority. For now, we expect the first Notified Bodies to be notified according the IVDR by the end of 2019 and we anticipate that TÜV SÜD will be one of these. In practice, it will not be possible to CE mark a product according to the IVDR beforehand. For Class C devices (Belgian Volition’s devices should be Class C), the conformity assessment procedure will be a combination of the Quality Management System audits and Technical Documentation assessments. The assumed assessment time needed for a Technical Documentation assessment of a Class C device is expected to last from about 2 months to 6 months. Belgian Volition has already begun discussions with the TÜV SÜD in order to ensure compliance with the IVDR as soon as possible. 
+ 
+We will also be required to comply with numerous other federal, state, and local laws relating to matters such as safe working conditions, industrial safety, and labor laws. We may incur significant costs to comply with such laws and regulations in the future, and lack of compliance could have material adverse effects on our operations. 
+ 
+We believe that we have structured our business operations to comply with applicable legal requirements. However, it is possible that governmental entities or other third parties could interpret these laws differently and assert otherwise, which could have a material adverse impact on our business.
+ 
+Regulatory Approach
+ 
+Commercialization of our future products in the 
+
+clinical
+IVD market (e.g. for patient diagnosis in hospitals, clinics, etc.)
+ requires government approval (CE Marking in Europe, 
+FDA approval in the United States, and Chinese Food and Drug Administration, or CFDA, approval in China).
+ 
+In the United States, we anticipate that our tests will have to be cleared through the FDA’s premarket notification or 510(k), process or its premarket approval, or PMA, process. The determination of whether a 510(k) or a PMA is necessary will depend in part on the proposed indications for use and the FDA’s assessment of the risk associated with the use of the IVD for a particular indication. A similar system operates in China through the CFDA. In the European Union, our tests can be marketed after a declaration and marking that the test conforms to the essential requirements of the relevant European health, safety and environmental protection legislation, or CE Marking. The CE Mark is also recognized in certain Asian territories, including India, for the private payer market.
+ 
+We obtained our first CE Mark in September 2015, for a single biomarker for CRC, and two further CE Marks in April 2016, for two biomarkers for CRC and pancreatic cancer. In December 2016, we achieved a CE Mark for the Nu.Q Colorectal Cancer Screening Triage Test.
+ 
+We are currently working on different products such as a frontline screening test and a symptomatic test for CRC. We expect that we will be required to perform additional clinical trials in the United States to obtain FDA clearance or approval for these CRC tests. We are committed to obtaining FDA clearance or approval to allow patient access to our tests in the United States as soon as practicable.
+ 
+We also expect that we will be required to do trials in China to achieve CFDA approval for our various tests, provided we can ensure adequate protection of our intellectual property in China. Local validation studies will be required to support sales of our CE-Marked CRC test in many Asian markets for the private payer market.
+ 
+Intellectual Property 
+ 
+We have 17 patent families related to our diagnostic tests, with five patents granted in the United States and four patents granted in the European Union. Additionally, we have 12 patent applications in the name of our subsidiaries pending in the United States and the 13 patent applications in the European Union.
+ 
+We intend to continue our development of the Nucleosomics technologies and will continue to apply for patents for future product developments. Our strategy is to protect the technologies and gain market exclusivity with patents in Europe and the United States and in other strategic countries. The patents on the technologies underlying our products should provide broad coverage for each product, including protection through at least 2031 for products developed using the Nu.Q-X, Nu.Q-V and Nu.Q-A technologies.
+
+7
+
+Employees
+ 
+As of December 31, 2017, we (including our subsidiaries) had 37 full-time equivalents compared to 28 as of December 31, 2016.
+ 
+Corporate History
+ 
+The Company was incorporated on September 24, 1998 in the State of Delaware under the name “Standard Capital Corporation”. On September 22, 2011, the Company filed a Certificate for Renewal and Revival of Charter with the Secretary of State of Delaware. Pursuant to Section 312 of Delaware General Corporation Law, the Company was revived under the new name of “VolitionRX Limited”. The Company acquired its wholly-owned operating subsidiary, Singapore Volition Pte. Limited, a Singapore registered company, or Singapore Volition, on October 6, 2011. Singapore Volition has two subsidiaries, Belgian Volition SPRL, a Belgium private limited liability company, or Belgian Volition, which it acquired on September 22, 2010, and Hypergenomics Pte. Limited, a Singapore registered company, or Hypergenomics, which it formed on March 7, 2011. Belgian Volition has two subsidiaries, Volition Diagnostics UK Limited, which it formed on November 13, 2015, and Volition America, Inc., which it formed on February 3, 2017.
+ 
+Our principal executive office is located at 1 Scotts Road, #24-05 Shaw Centre, Singapore 228208. Our telephone number is +1 (646) 650-1351. Our website is located at www.volitionrx.com. The information that can be accessed through our website is not incorporated by reference into this report and should not be considered to be a part hereof.
+ 
+Financial Information
+ 
+See our consolidated financial statements included in this Form 10-K and accompanying notes to the consolidated financial statements.
+ 
+WHERE YOU CAN GET ADDITIONAL INFORMATION
+ 
+We file Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K pursuant to Section 13(a) or 15(d) of the Exchange Act electronically with the SEC. You may read and copy our reports or other filings made with the SEC at the SEC’s Public Reference Room, located at 100 F Street, N.E., Washington, DC 20549 on official business days during the hours of 10:00 a.m. and 3:00 p.m. You can obtain information on the operations of the Public Reference Room by calling the SEC at 1-800-SEC-0330. You can also access these reports and other filings electronically on the SEC’s web site, www.sec.gov.
+
+8
+

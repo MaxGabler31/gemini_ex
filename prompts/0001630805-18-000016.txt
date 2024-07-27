@@ -1,0 +1,242 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ | | PAGE
+ | PART I | 
+Item 1. | Business | 1 
+ | Overview | 1 
+ | Going concern considerations | 2 
+ | Business Segments | 2 
+ | Joint Ventures | 5 
+ | Contracts | 5 
+ | Bookings and Backlog | 6 
+ | Foreign Operations | 7 
+ | Customers | 7 
+ | Competition | 7 
+ | Raw Materials and Suppliers | 8 
+ | Employees | 8 
+ | Patents and Licenses | 8 
+ | Research and Development Activities | 8 
+ | Permits and Licenses | 9 
+ | Environmental | 9 
+ | Executive Officers of Registrant | 9 
+ | Cautionary Statement Concerning Forward-Looking Information | 9 
+ | Available Information | 10 
+Item 1A. | Risk Factors | 10 
+ | Risks Relating to Our Industry and Our Business | 10 
+ | Risks relating to Our 2015 Spin-Off From Our Former Parent | 22 
+ | Risks Relating to Ownership of Our Common Stock | 25 
+Item 1B. | Unresolved Staff Comments | 26 
+Item 2. | Properties | 27 
+Item 3. | Legal Proceedings | 27 
+ | PART II | 
+Item 5. | Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities | 28 
+Item 6. | Selected Financial Data | 30 
+Item 7. | Management's Discussion and Analysis of Financial Condition and Results of Operations | 31 
+ | Overview | 31 
+ | Results of Operations - Years Ended December 31, 2017, 2016 and 2015 | 34 
+ | Liquidity and Capital Resources | 44 
+ | Effects of Inflation and Changing Prices | 50 
+ | Critical Accounting Policies and Estimates | 51 
+
+i
+
+ITEM 1. Business
+In this annual report on Form 10-K, unless the context otherwise indicates, "B&W," "we," "us," the "Company" and "our" mean Babcock & Wilcox Enterprises, Inc. and its consolidated subsidiaries.
+B&W is a leading technology-based provider of advanced fossil and renewable power generation and environmental equipment that includes a broad suite of boiler products, environmental systems, and services for power and industrial uses. We specialize in technology and engineering for power generation and various other industries, including the procurement, erection and specialty manufacturing of related equipment, and services, including: 
+
+• | high-pressure equipment for energy conversion, such as boilers fueled by coal, oil, bitumen, natural gas, and renewables including municipal solid waste and biomass fuels;
+
+
+• | environmental control systems for both power generation and industrial applications to incinerate, filter, capture, recover and/or purify air, liquid and vapor-phase effluents from a variety of power generation and specialty manufacturing processes;
+
+
+• | aftermarket support for the global installed base of operating plants with a wide variety of products and technical services including replacement parts, retrofit and upgrade capabilities, field engineering, construction, inspection, operations and maintenance, condition assessment and other technical support;
+
+
+• | custom-engineered comprehensive dry and wet cooling solutions;
+
+
+• | gas turbine inlet and exhaust systems, custom silencers, filters and custom enclosures; and
+
+
+• | engineered-to-order services, products and systems for energy conversion worldwide and related auxiliary equipment, such as burners, pulverizers, soot blowers and ash and material handling systems.
+
+Our overall activity depends significantly on the capital expenditures and operations and maintenance expenditures of global electric power generating companies, other steam-using industries and industrial facilities with environmental compliance and noise abatement needs. Several factors influence these expenditures, including: 
+
+• | prices for electricity, along with the cost of production and distribution including the cost of fuel within the United States or internationally;
+
+
+• | demand for electricity and other end products of steam-generating facilities;
+
+
+• | requirements for environmental and noise abatement improvements;
+
+
+• | expectation of future requirements to further limit or reduce greenhouse gas and other emissions in the United States and internationally;
+
+
+• | environmental policies which include waste-to-energy or biomass as options to meet legislative requirements and clean energy portfolio standards;
+
+
+• | level of capacity utilization at operating power plants and other industrial uses of steam production;
+
+
+• | requirements for maintenance and upkeep at operating power plants to combat the accumulated effects of usage;
+
+
+• | overall strength of the industrial industry; and
+
+
+• | ability of electric power generating companies and other steam users to raise capital.
+
+1
+
+Customer demand is heavily affected by the variations in our customers' business cycles and by the overall economies and energy, environmental and noise abatement needs of the countries in which they operate. 
+On June 8, 2015, the board of directors of The Babcock & Wilcox Company (now known as BWX Technologies, Inc.) ("BWC" or the "former Parent") approved the spin-off of B&W through the distribution of shares of B&W common stock to holders of BWC common stock. The distribution of B&W common stock was made on June 30, 2015, and consisted of one share of B&W common stock for every two shares of BWC common stock to holders of BWC common stock as of 5:00 p.m. New York City time on the record date, June 18, 2015. Cash was paid in lieu of any fractional shares of B&W common stock. On June 30, 2015, B&W became a separate publicly traded company, and BWC did not retain any ownership interest in B&W. We filed our Form 10 describing the spin-off with the Securities and Exchange Commission, which was declared effective on June 16, 2015. The spin-off is further described in Note 1 to the consolidated financial statements included in Item 8.
+Going Concern Considerations
+As a result of additional losses we recognized in the fourth quarter of 2017 related to an increase in structural steel repair costs on one of our European renewable energy contracts, we were not in compliance with certain financial covenants under our United States Revolving Credit Facility (“Revolver”) and our Second Lien Term Loan Facility agreement (“Second Lien”) as of December 31, 2017. On March 1, 2018, we obtained an agreement (the “March 1, 2018 Amendment”) to amend our Revolver. The March 1, 2018 Amendment temporarily waived the financial covenant defaults that existed at December 31, 2017 under the Revolver, consented to our planned Rights Offering (as discussed below), permitted up to $35 million of borrowings to be used in conjunction with the proceeds of the Rights Offering (described below) to be used to repay the principal portion of the Second Lien, and made certain other modifications. We face liquidity challenges, primarily related to our non-compliance with the financial covenants under our Second Lien as of December 31, 2017, which may be difficult to resolve in a timely manner. The Second Lien contains a 180 day standstill period beginning on March 1, 2018 to resolve the event of default or repay the loan. The March 1, 2018 Amendment and the Second Lien are further described in Note 19 and Note 20, respectively, to the consolidated financial statements included in Item 8. 
+On March 1, 2018, we entered into an equity commitment agreement (“Equity Commitment Agreement”) with a group of our existing stockholders to fully backstop our planned Rights Offering (“Rights Offering”) for the purpose of providing at least $182 million of new capital. We are proposing to undertake a rights offering pursuant to which all of our stockholders will have the ability, on a pro rata basis, to purchase up to at least $182 million of the Company’s common stock. The Equity Commitment Agreement provides for a backstop commitment from a group of our existing stockholders to purchase any unsold portion of the Rights Offering. We plan to use the net proceeds from the sale of the Company’s common stock in the Rights Offering and the permitted borrowing capacity provided by our Revolver to extinguish the outstanding balance of our Second Lien and terminate the associated borrowing agreement. Our plan is designed to provide us with adequate liquidity to meet our obligations for at least the twelve month period following March 1, 2018; however, our remediation plan includes raising additional capital through the Rights Offering and other sources before the end of the standstill period, which will depend on conditions in the capital markets and, with respect to the Rights Offering, an amendment to our existing shelf registration statement that we plan to file in early March 2018 being declared effective by the Securities and Exchange Commission (“SEC”), which are matters that are outside of our control. Accordingly, we cannot be certain of our ability to raise additional capital on terms acceptable to us which raises substantial doubt about our ability to continue as a going concern. Additionally, our ability to meet the amended covenants associated with our Revolver is dependent on our future financial operating results. While we believe that the actions summarized above and in Note 1 to our consolidated financial statements included in Item 8 are more likely than not to address the substantial doubt about the Company’s ability to continue as a going concern, we cannot assert that it is probable that our plans will fully mitigate the conditions identified. If we cannot continue as a going concern, material adjustments to the carrying values and classifications of our assets and liabilities and the reported amounts of income and expense could be required.
+Business Segments
+Our operations are assessed based on three reportable segments, which are summarized as follows:
+2
+
+Power segment
+Our Power segment focuses on the supply of, and aftermarket services for, steam-generating, environmental, and auxiliary equipment for power generation and other industrial applications. The segment provides a comprehensive mix of aftermarket products and services to support peak efficiency and availability of steam generating and associated environmental and auxiliary equipment, serving large steam generating utility and industrial customers globally. Our products and services include replacement parts, field technical services, retrofit and upgrades, fuel switching and repowering contracts, construction and maintenance services, start-up and commissioning, training programs and plant operations and maintenance for our full complement of boiler, environmental and auxiliary equipment. Our auxiliary equipment includes boiler cleaning equipment and material handling equipment.
+Our worldwide new build boiler and environmental products businesses serve large steam generating and industrial customers. The segment provides a full suite of product and service offerings including engineering, procurement, specialty manufacturing, construction and commissioning. The segment's product suite includes utility boilers and industrial boilers fired with coal and natural gas. Our boiler products include advanced supercritical boilers, subcritical boilers, fluidized bed boilers, chemical recovery boilers, industrial power boilers, package boilers, heat recovery steam generators and waste heat boilers.
+Our environmental systems offerings include air pollution control products and related equipment for the treatment of nitrogen oxides, sulfur dioxide, fine particulate, mercury, acid gases and other hazardous air emissions. These include wet and dry flue gas desulfurization systems, catalytic and non-catalytic nitrogen oxides reduction systems, low nitrogen oxides burners and overfire air systems, fabric filter baghouses, wet and dry electrostatic precipitators, mercury control systems and dry sorbent injection for acid gas mitigation.
+The segment also receives license fees and royalty payments through licensing agreements of our proprietary technologies.
+While opportunities to increase revenues in the segment are limited, we are striving to grow margins by:
+
+• | maintaining our strong service presence in support of our installed fleet of steam generation equipment and expanding support of other OEM equipment;
+
+
+• | selectively bidding contracts in emerging international markets needing state-of-the-art technology for fossil power generation and environmental systems;
+
+
+• | growing sales of industrial steam generation products in the petrochemical and pulp & paper markets, such as heat recovery, natural gas and oil fired package boilers, due in part to lower fuel prices; and
+
+
+• | reducing costs through a focus on operational efficiencies.
+
+Our Power segment generated revenues of $821.1 million, $982.0 million and $1.23 billion in 2017, 2016 and 2015, respectively, which was 52.7%, 62.2% and 70.3% of our total revenues in those years, respectively.
+Renewable segment
+Our Renewable segment provides steam-generating systems, environmental and auxiliary equipment for the waste-to-energy and biomass power generation industries, and plant operations and maintenance services for our full complement of systems and equipment. We deliver these products and services to a large base of customers primarily in Europe through our extensive network of technical support personnel and global sourcing capabilities. Our customers consist of traditional, renewable and carbon neutral power utility companies that require steam generation and environmental control technologies to enable beneficial use of municipal waste and biomass. This segment's activity is dependent on the demand for electricity and reduced landfill use, and ultimately the capacity utilization and associated operations and maintenance expenditures of waste-to-energy power generating companies and other industries that use steam to generate energy.
+In 2017, we redefined our approach to bidding on and executing renewable energy contracts. Under our new model, we are focusing on engineering and supplying our core waste-to-energy and renewable energy technologies - steam generation, combustion grate, environmental equipment, material handling, and cooling condensers - while partnering with other firms to execute the balance of plant and civil construction scope on contracts we pursue. We believe the new market approach is better aligned with our core competencies and risk-profile as a supplier of engineered equipment and technologies and aftermarket services.
+3
+
+Globally, efforts to reduce the environmental impact of burning fossil fuels may create opportunities for us as existing generating capacity is replaced with cleaner technologies. We expect backlog growth in the future, primarily from renewable waste-to-energy contracts, as we continue to see numerous opportunities around the globe, although the rate of this growth is dependent on many external factors. 
+Our Renewable segment generated revenues of $347.2 million, $349.2 million and $338.6 million in 2017, 2016 and 2015, respectively, which was 22.3%, 22.1% and 19.3% of our total revenues in those years, respectively.
+Industrial segment
+At December 31, 2017, our Industrial segment was comprised of our MEGTEC, Universal and SPIG businesses, each as described below. The segment is focused on custom-engineered cooling, environmental, noise abatement and industrial equipment along with related aftermarket services. 
+Through MEGTEC, we provide environmental products and services to numerous industrial end markets. MEGTEC designs, engineers and manufactures products including oxidizers, solvent recovery and distillation systems, wet electrostatic precipitators, scrubbers and heat recovery systems. MEGTEC also provides specialized industrial process systems, coating lines and equipment. To this product mix, B&W recently added (synergy) technologies including dry electrostatic precipitators, pulse jet fabric filters, selective catalytic reduction systems, and dry and wet scrubbers. These complementary technologies enhance MEGTEC’s ability to offer a full line of environmental products and allow MEGTEC to strategically grow its business by selling solutions (comprehensive equipment trains) to new and existing customers and markets. MEGTEC serves a diverse set of industrial end markets globally with a current emphasis on the chemical, pharmaceutical, energy storage, metals and mining, and engineered wood panel board markets. MEGTEC's activity is dependent primarily on the capacity utilization of operating industrial plants and an increased emphasis on environmental emissions globally across a broad range of industries and markets.
+We acquired SPIG S.p.A. ("SPIG") on July 1, 2016. SPIG provides custom-engineered cooling systems, services and aftermarket products. SPIG’s product offerings include air-cooled (dry) cooling systems, mechanical draft wet cooling towers and natural draft wet cooling hyperbolic towers. SPIG also provides end-to-end aftermarket services, including spare parts, upgrades and revamping of existing installations and remote monitoring. SPIG's comprehensive dry and wet cooling solutions and aftermarket products and services are primarily provided to the power generation industry, including natural gas-fired and renewable energy power plants, and downstream oil and gas, petrochemical and other industrial end markets in the Europe, the Middle East and the Americas. SPIG's activity is dependent primarily on global energy demand from utilities and other industrial plants, regulatory requirements, water scarcity and energy efficiency needs.
+We acquired Universal Acoustic & Emissions Technology, Inc. ("Universal") on January 11, 2017. Universal provides custom-engineered acoustic, emission and filtration solutions to the natural gas power generation, mid-stream natural gas pipeline, locomotive and general industrial end-markets. Universal’s product offering includes gas turbine inlet and exhaust systems, custom silencers, filters and custom enclosures. Historically, almost all of Universal's activity has been in the United States. With the integration of Universal with the Industrial segment, we expect its business will grow globally with the benefit of B&W's global network of current and future customers and the evolving needs of noise abatement controls in the industrial market. 
+We see opportunities for growth in revenues in the Industrial segment relating to a variety of factors. Our new equipment customers make purchases as part of major capacity expansions, to replace existing equipment, or in response to regulatory initiatives. Additionally, our significant installed base provides a consistent and recurring aftermarket stream of parts, retrofits and services. Major investments in global industrial markets have strengthened demand for our industrial equipment, while tightening global environmental and noise abatement regulations are creating new opportunities. We foresee long-term trends toward increased environmental and noise abatement controls for industrial manufacturers around the world. Together, the companies that comprise the Industrial segment are well-positioned to capitalize on opportunities in these markets.
+To enhance our financial flexibility, in November 2017 we also announced that we are evaluating strategic alternatives for our MEGTEC and Universal businesses. Though our outlook remains favorable for these businesses, we believe it is prudent to explore alternatives for these parts of our company, providing greater optionality if needed.
+Our Industrial segment generated revenues of $397.8 million, $253.6 million and $183.7 million in 2017, 2016 and 2015, respectively, which was 25.5%, 16.1% and 10.4% of our total revenues in those years, respectively.
+4
+
+Joint Ventures
+We participate in the ownership of a variety of entities with third parties, primarily through corporations, limited liability companies and partnerships, which we refer to as "joint ventures." We enter into joint ventures primarily for specific market access and to enhance our manufacturing, design and global production operations as well as reduce operating and financial risk profiles. We generally account for our investments in joint ventures under the equity method of accounting. Our unconsolidated joint ventures are described below. 
+
+• | Babcock & Wilcox Beijing Company, Ltd. ("BWBC") Through December 31, 2017, we owned equal interests in this entity with Beijing Jingcheng Machinery Electric Holding Company, Ltd. BWBC was formed in 1986 and is located in Beijing, China. Its main activities include the design, manufacture, production and sale of various power plant steam generators including supercritical and ultra supercritical boilers and aftermarket services that include boiler upgrades and environmental equipment. BWBC also provides engineering services and manufacturing to support B&W's new power boiler business globally. In early 2018, we sold all of our joint venture interest in BWBC for approximately $21 million, resulting in a gain of approximately $4 million, which will be recognized in the first quarter of 2018. Although we will no longer have an equity interest in this joint venture, we will continue a relationship with BWBC through an expanded technology license.
+
+
+• | Thermax Babcock & Wilcox Energy Solutions Private Limited ("TBWES") In June 2010, one of our subsidiaries and Thermax Ltd., a boiler manufacturer based in India, formed a joint venture to build subcritical and highly efficient supercritical boilers and pulverizers for the Indian utility boiler market. We have licensed to TBWES our technology for subcritical boilers 300 MW and larger, highly efficient supercritical boilers and coal pulverizers. In 2013, TBWES finalized construction of a facility in India designed to produce parts for up to 3,000 MW of utility boiler capacity per year. During the second quarter of 2017, both we and our joint venture partner decided to make a strategic change in the Indian joint venture due to the decline in forecasted market opportunities in India, which reduced the recoverable value of our investment in the joint venture. As a result of this strategic change, we recognized an $18.2 million other-than-temporary-impairment of our investment in TBWES in the second quarter of 2017. At December 31, 2017, our remaining investment in TBWES was $26.0 million.
+
+
+• | Other Project Related Ventures From time to time, we partner with other companies to better meet the needs of our customers, which can result in project-related joint venture entities. Examples of this include BWL Energy Ltd., which was formed to complete the construction of a waste wood fired boiler contract in the United Kingdom. This joint venture combines our expertise in the waste-to-energy power plant design, engineering, procurement and construction with our partner's civil construction capability to provide a full turnkey product to our customer.
+
+Contracts
+We execute our contracts through a variety of methods, including fixed-price, cost-plus, target price cost incentive, cost-reimbursable or some combination of these methods. Contracts are usually awarded through a competitive bid process. Factors that customers may consider include price, technical capabilities of equipment and personnel, plant or equipment availability, efficiency, safety record and reputation.
+Fixed-price contracts are for a fixed amount to cover all costs and any profit element for a defined scope of work. Fixed-price contracts entail more risk to us because they require us to predetermine both the quantities of work to be performed and the costs associated with executing the work. For further specification see "Risk Factors Related to Our Business – We are subject to risks associated with contractual pricing in our industry, including the risk that, if our actual costs exceed the costs we estimate on our fixed-price contracts, our profitability will decline, and we may suffer losses" as detailed in Item 1A of this report.
+We have contracts that extend beyond one year. Most of our long-term contracts have provisions for progress payments. We attempt to cover anticipated increases in labor, material and service costs of our long-term contracts either through an estimate of such changes, which is reflected in the original price, or through risk-sharing mechanisms, such as escalation or price adjustments for items such as labor and commodity prices.
+We generally recognize our contract revenues and related costs on a percentage-of-completion basis. Accordingly, we review contract price and cost estimates regularly as the work progresses and reflect adjustments in profit proportionate to the percentage of completion in the period when we revise those estimates. To the extent that these adjustments result in a 
+5
+
+reduction or an elimination of previously reported profits with respect to a contract, we would recognize a charge against current earnings, which could be material. 
+Our arrangements with customers frequently require us to provide letters of credit, bid and performance bonds or guarantees to secure bids or performance under contracts, which may involve significant amounts for contract security.
+In the event of a contract deferral or cancellation, we generally would be entitled to recover costs incurred, settlement expenses and profit on work completed prior to deferral or termination. Significant or numerous cancellations could adversely affect our business, financial condition, results of operations and cash flows.
+Other sales, such as parts and certain aftermarket service activities, are not in the form of long-term contracts, and we recognize revenues as goods are delivered and work is performed.
+Bookings and Backlog
+Bookings and backlog represents the dollar amount of revenue we expect to recognize in the future from contracts awarded and in progress. Not all of our expected revenue from a contract award is recorded in backlog for a variety of reasons, including that some contracts are awarded and completed within the same fiscal period. 
+Bookings and backlog are not measures defined by generally accepted accounting principles. It is possible that our methodology for determining bookings and backlog may not be comparable to methods used by other companies. Backlog may not be indicative of future operating results, and contracts in our backlog may be canceled, modified or otherwise altered by customers. Additionally, because we operate globally, our backlog is also affected by changes in foreign currencies. 
+We generally include expected revenue from contracts in our backlog when we receive written confirmation from our customers authorizing the performance of work and committing the customer to payment for work performed. Accordingly, we exclude from backlog orders or arrangements that have been awarded but that we have not been authorized to begin performance. 
+Bookings represent additions to our backlog. We believe comparing bookings on a quarterly basis or for periods less than one year is less meaningful than for longer periods, and that shorter term changes in bookings may not necessarily indicate a material trend.
+We do not include the value of our unconsolidated joint venture contracts in backlog. See Note 7 to the consolidated financial statements included in Item 8 of this annual report for financial information on our equity method investments. 
+Our bookings during the years ended December 31, 2017 and 2016 were as follows:
+
+(In millions) | 2017 | 2016 
+Power | $ | 656 | | $ | 790 
+Renewable | 115 | | 135 | 
+Industrial | 416 | | 222 | 
+Other/eliminations | (48 | ) | (6 | )
+Bookings | $ | 1,139 | | $ | 1,141
+
+6
+
+Our backlog at the end of the prior two years was as follows: 
+
+(in approximate millions) | December 31, 2017 | December 31, 2016
+Power segment | $ | 453 | | $ | 618 
+Renewable segment | 1,008 | | 1,241 | 
+Industrial segment | 258 | | 216 | 
+Other/eliminations | (43 | ) | (3 | )
+Backlog | $ | 1,676 | | $ | 2,072
+
+Of the December 31, 2017 backlog, we expect to recognize approximate revenues as follows:
+
+(in approximate millions) | 2018 | 2019 | Thereafter | Total
+Power segment | $ | 335 | | $ | 81 | | $ | 37 | $ | 453 
+Renewable segment | 293 | | 111 | | 604 | | 1,008 | 
+Industrial segment | 258 | | — | | — | | 258 | 
+Other/eliminations | (3 | ) | — | | (40 | ) | (43 | ) 
+Backlog | $ | 883 | | $ | 192 | | $ | 601 | $ | 1,676
+
+Foreign Operations
+Our operations in Denmark provide comprehensive services to companies in the waste-to-energy and biomass energy sector of the power generation market, primarily in Europe. Our operations in Italy provide custom-engineered comprehensive dry and wet cooling solutions and aftermarket parts and services to the power generation industry including natural gas-fired and renewable energy power plants, as well as downstream oil and gas, petrochemical and other industrial end markets. Our operations in Scotland provide boiler cleaning technologies and systems (such as sootblowers). Our operations in Germany provide a variety of ash and material handling solutions, from completely dry bottom ash handling to fly ash and petroleum coke processing. Our Canadian operations serve the Canadian industrial power, oil production and electric utility markets. We also have manufacturing facilities in Mexico to serve global markets. 
+Historically, our joint ventures in China and India served the power generation needs of their local domestic and other utility markets, and both joint ventures participated as manufacturing partners on certain of our foreign contracts. 
+The functional currency of our foreign operating entities is not the United States dollar, and as a result, we are subject to exchange rate fluctuations that impact our financial position, results of operations and cash flows. 
+For additional information on the geographic distribution of our revenues, see Note 4 to our consolidated financial statements included in Item 8 of this annual report.
+Customers
+We provide our products and services to a diverse customer base that includes utilities and other power producers located around the world. We have no customers that individually accounted for more than 10% of our consolidated revenues in the years ended December 31, 2017, 2016 or 2015.
+Competition
+With 150 years of experience, we have supplied highly engineered energy and environmental equipment in over 90 countries. We have a competitive advantage in our experience and technical capability to reliably convert a wide range of fuels to steam. Our strong, installed base around the globe also yields competitive advantages, although our markets are highly competitive and price sensitive. We compete with a number of domestic and foreign companies specializing in power generation, environmental, and cooling systems and services. Each segment's primary competitors are summarized as follows:
+7
+
+
+Power segment | Renewable segment | Industrial segment 
+GE | CNIM Group | B&W MEGTEC primary competitors 
+Doosan | Hitachi Zosen | Durr, Dustex, CECO, Eisenmann 
+Babcock Power | Martin | B&W Universal primary competitors 
+Cleaver-Brooks | Keppel Seghers | CECO, Innova, Miratech, American Air Filter 
+Sumitomo SHI-FW | Valmet | B&W SPIG primary competitors 
+MH Power Systems | Andritz | Hamon, Enexio, Kelvion, Paharpur, Evapco, SPX Corporation
+
+Across each of our segments, we also compete with a variety of engineering and construction companies related to installation of steam generating systems and environmental control equipment; specialized industrial equipment; and other suppliers of replacement parts, repair and alteration services and other services required to retrofit and maintain existing steam generating systems. The primary bases of competition are price, technical capabilities, quality, timeliness of performance, breadth of products and services and willingness to accept contract risks.
+Raw Materials and Suppliers
+Our operations use raw materials such as carbon and alloy steels in various forms and components and accessories for assembly, which are available from numerous sources. We generally purchase these raw materials and components as needed for individual contracts. We do not depend on a single source of supply for any significant raw materials. Although shortages of some raw materials have existed from time to time, no serious shortage exists at the present time. 
+Employees
+At December 31, 2017, we had approximately 4,800 employees worldwide, not including 2,200 joint venture employees. Of our hourly employees, approximately 1,300 are union-affiliated, covered by ten union agreements related to active facilities in Canada, China, Denmark, Great Britain, Mexico, and United States. Most of our union agreements expire in 2018 or 2019, and we are actively negotiating new agreements. We consider our relationships with our employees and unions to be in good standing. 
+Patents and Licenses
+We currently hold a large number of United States and foreign patents and have patent applications pending. We have acquired patents and technology licenses and granted technology licenses to others when we have considered it advantageous for us to do so. Although in the aggregate our patents and licenses are important to us, we do not regard any single patent or license or group of related patents or licenses as critical or essential to our business as a whole. In general, we depend on our technological capabilities and the application of know-how, rather than patents and licenses, in the conduct of our various businesses. 
+Research and Development Activities
+Our research and development activities are related to the development and improvement of new and existing products and equipment, as well as conceptual and engineering evaluation for translation into practical applications. Historically, we focused our research dollars on improving our products for the markets we serve through: (i) cost reductions resulting in more competitive products in a highly competitive global market and margin improvement; (ii) reduced performance risk assuring our products meet our and our customers' expectations; and (iii) standards development and updates, which results in lower engineering hours consumed on projects and enable us to sublet engineering to low cost engineering centers of excellence. In the future, our research and development activities will be focused primarily on improvements in the reliability and efficiency of our products to meet our customers' needs and enhance our market opportunities and profitability. Research and development costs unrelated to specific contracts are expensed as incurred. Research and development expenses totaled $9.4 million, $10.4 million and $16.5 million in the years ended December 31, 2017, 2016 and 2015, respectively. 
+8
+
+Permits and Licenses
+We are required by various governmental and quasi-governmental agencies to obtain certain permits, licenses and certificates with respect to our operations. The kinds of permits, licenses and certificates required in our operations depend upon a number of factors. We are not aware of any material noncompliance and believe our operations and certifications are currently in compliance with all relevant permits, licenses and certifications. 
+Environmental
+We have been identified as a potentially responsible party at various cleanup sites under the Comprehensive Environmental Response, Compensation and Liability Act of 1980, as amended ("CERCLA"). CERCLA and other environmental laws can impose liability for the entire cost of cleanup on any of the potentially responsible parties, regardless of fault or the lawfulness of the original conduct. Generally, however, where there are multiple responsible parties, a final allocation of costs is made based on the amount and type of wastes disposed of by each party and the number of financially viable parties, although this may not be the case with respect to any particular site. We have not been determined to be a major contributor of wastes to any of these sites. On the basis of our relative contribution of waste to each site, we expect our share of the ultimate liability for the various sites will not have a material adverse effect on our consolidated financial condition, results of operations or cash flows in any given year.
+Executive Officers of Registrant
+For a listing of our executive officers, see Part III, Item 10 of this annual report, which information is incorporated herein by reference.
+***** Cautionary Statement Concerning Forward-Looking Information *****
+This annual report, including Management's Discussion and Analysis of Financial Condition and Results of Operations, contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. You should not place undue reliance on these statements. Statements that include the words "expect," "intend," "plan," "believe," "project," "forecast," "estimate," "may," "should," "anticipate" and similar statements of a future or forward-looking nature identify forward-looking statements. 
+These forward-looking statements address matters that involve risks and uncertainties and include statements that reflect the current views of our senior management with respect to our financial performance and future events with respect to our business and industry in general. There are or will be important factors that could cause our actual results to differ materially from those indicated in these statements. If one or more events related to these or other risks or uncertainties materialize, or if our underlying assumptions prove to be incorrect, actual results may differ materially from what we anticipate. Differences between actual results and any future performance suggested in our forward-looking statements could result from a variety of factors, including the following: our ability to continue as a going concern; our ability to obtain and maintain sufficient financing to provide liquidity to meet our business objectives, surety bonds, letters of credit and similar financing, and to refinance our Second Lien through the Rights Offering, or otherwise; the highly competitive nature of our businesses; general economic and business conditions, including changes in interest rates and currency exchange rates; general developments in the industries in which we are involved; cancellations of and adjustments to backlog and the resulting impact from using backlog as an indicator of future earnings; our ability to perform contracts on time and on budget, in accordance with the schedules and terms established by the applicable contracts with customers; failure by third-party subcontractors or suppliers to perform their obligations on time and as specified; our ability to realize anticipated savings and operational benefits from our restructuring plans, and other cost-savings initiatives; our ability to successfully integrate and realize the expected synergies from acquisitions; our ability to successfully address productivity and schedule issues in our Renewable segment; willingness of customers to waive liquidated damages or agree to bonus opportunities; our ability to successfully partner with third parties to win and execute renewable projects; changes in our effective tax rate and tax positions; our ability to maintain operational support for our information systems against service outages and data corruption, as well as protection against cyber-based network security breaches and theft of data; our ability to protect our intellectual property and renew licenses to use intellectual property of third parties; our use of the percentage-of-completion method of accounting; the risks associated with integrating businesses we acquire; our ability to successfully manage research and development projects and costs, including our efforts to successfully develop and commercialize new technologies and products; the operating risks normally incident to our lines of business, including professional liability, product liability, warranty and other claims against us; 
+9
+
+changes in, or our failure or inability to comply with, laws and government regulations; difficulties we may encounter in obtaining regulatory or other necessary permits or approvals; changes in, and liabilities relating to, existing or future environmental regulatory matters; our limited ability to influence and direct the operations of our joint ventures; potential violations of the Foreign Corrupt Practices Act; our ability to successfully compete with current and future competitors; the loss of key personnel and the continued availability of qualified personnel; our ability to negotiate and maintain good relationships with labor unions; changes in pension and medical expenses associated with our retirement benefit programs; social, political, competitive and economic situations in foreign countries where we do business or seek new business; the possibilities of war, other armed conflicts or terrorist attacks; our ability to successfully consummate strategic alternatives for our MEGTEC and Universal businesses if we determine to pursue them; and the other risks set forth under Part I, Item 1A "Risk Factors" in this annual report.
+These factors are not necessarily all the factors that could affect us. We assume no obligation to revise or update any forward-looking statement included in this annual report for any reason, except as required by law. 
+Available Information
+Our website address is www.babcock.com. We make available through the Investor Relations section of this website under "SEC Filings," free of charge, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, our proxy statement, statements of beneficial ownership of securities on Forms 3, 4 and 5 and amendments to those reports as soon as reasonably practicable after we electronically file those materials with, or furnish those materials to, the Securities and Exchange Commission (the "SEC"). You may read and copy any materials we file with the SEC at the SEC's Public Reference Room at 100 F Street, NE, Washington, DC 20549. You may obtain information regarding the Public Reference Room by calling the SEC at 1-800-SEC-0330. In addition, the SEC maintains a website at www.sec.gov that contains reports, proxy and annual reports, and other information regarding issuers that file electronically with the SEC. We have also posted on our website our: Corporate Governance Principles; Code of Business Conduct; Code of Ethics for our Chief Executive Officer and Senior Financial Officers; Board of Directors Conflicts of Interest Policies and Procedures; Management, Board Members and Independent Director Contact Information; Amended and Restated By-laws; charters for the Audit & Finance, Governance, Compensation and Safety & Security Committees of our Board; and Modern Slavery Transparency Statement.

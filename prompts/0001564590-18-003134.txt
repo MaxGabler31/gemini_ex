@@ -1,0 +1,174 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Overview
+ Nanometrics Incorporated and its subsidiaries (“Nanometrics”, the “Company”, or “we”) is a leading provider of advanced, high-performance process control metrology and inspection systems used primarily in the fabrication of semiconductors and other solid-state devices, including sensors, optoelectronic devices, high-brightness LEDs, discretes, and data storages components. Our automated and integrated metrology systems measure critical dimensions, device structures, topography and various thin film properties, including three-dimensional features and film thickness, as well as optical, electrical and material properties. Our process control solutions are deployed throughout the fabrication process, from front-end-of-line substrate manufacturing, to high-volume production of semiconductors and other devices, to advanced three-dimensional wafer-level packaging applications. Our systems enable advanced process control for device manufacturers, providing improved device yield at reduced manufacturing cycle time, supporting the accelerated product life cycles in the semiconductor and other device markets.
+ We were incorporated in California in 1975, and reincorporated in Delaware in 2006. We have been publicly traded since 1984 (Nasdaq: NANO). We have an extensive installed base of thousands of systems in the majority of advanced semiconductor device production factories worldwide. Our major customers include Samsung Electronics Co. Ltd., SK Hynix Semiconductor, Inc., Micron Technology, Inc., Intel Corporation, Toshiba Corporation and Taiwan Semiconductor Manufacturing Company Limited.
+ Additional information about us is available on our website at http://www.nanometrics.com. The information that can be accessed through our website, however, is not part of this Annual Report. The investor relations section of our website is located at http://www.nanometrics.com/investor.html. Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and any amendments to those reports are available on the investor relations section of our website free of charge as soon as reasonably practicable after we electronically file or furnish such materials to the United States Securities and Exchange Commission (“SEC”). In addition, the reports and materials that we file with the SEC are available at the SEC's website (http://www.sec.gov) and at the SEC's Public Reference Room at 100 F Street, NE, Washington DC 20549. Interested parties may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330.
+ Industry Background
+ We participate in the sale, design, manufacture, marketing and support of process control systems for optical critical dimension metrology, thin film metrology, wafer defect inspection, and advanced analytics used for semiconductor manufacturing. Semiconductors, primarily packaged as integrated circuits within electronic devices, include consumer electronics, server and enterprise systems, mobile computing (including smart phones and tablets), data storage devices, and embedded automotive and control systems. Integrated circuits are made up of semiconductor material layers integrating millions or billions of transistors and other electronic components, connected through a complex wiring scheme of small copper wires, ultimately packaged into thin form factors to be mounted on circuit boards or other substrates. Our core focus is the measurement and control of the structure, composition, and geometry of the devices from the transistor layer through advanced wafer-level packaging to improve device performance and manufacturing yields. Our end customers manufacture many types of integrated circuits for a multitude of applications, each having unique manufacturing challenges. This includes integrated circuits to enable information processing and management (logic integrated circuits), memory storage (NAND, 3D-NAND, NOR, and DRAM), analog devices (e.g., Wi-Fi and 4G radio integrated circuits, power devices) MEMS sensor devices (accelerometers, pressure sensors, microphones), image sensors, thin film head components for hard disk drives and alternative energy devices such as LEDs, power inverters and solar cells.
+ Demand for our products continues to be driven by our customers' desire for higher overall chip performance, including improvements in power efficiency, logic processing capability, data storage volume and manufacturing yield. To achieve these goals, our customers have increased their use of more complex materials and processing methods in their manufacturing flow. The majority of our chip customers manufacture devices in production runs defined by the smallest printed feature and the associated circuit manufacturing methods, known as a technology node, which are measured in nanometers ("nm"), or one-billionth of a meter. Current volume production is running from 28nm down to the 10nm nodes across foundry and logic devices, transitioning from 20nm to 1Xnm for DRAM memory (where X is IDM dependent and may be as low as 17nm), and third generation 3D-NAND with up to 64 layers of storage transistors. Our customers continue to develop next generation devices such as 7nm and 5nm devices in logic and foundry, shrink DRAM below the 17nm node, and scale 3D-NAND devices to 96 layers and beyond. In some cases, our customers are implementing new materials and methods in high volume manufacturing, including materials and device architectures to reduce power consumption, stacked memory devices including 3D-NAND, and advanced interconnect wiring schemes. To shrink features, new methods, including multiple patterning lithography and extreme ultra-violet lithography (EUV), have been developed. Additional innovation continues in Data Storage, Power Devices, MEMS, and Image Sensors. We believe the use of these new materials and manufacturing methods has increased demand for our products.
+ 4
+
+
+Our Business
+ We offer a diverse line of process control products and technologies to address the manufacturing requirements of the semiconductor (and other solid-state device) manufacturing industry. Our metrology systems measure and characterize the physical dimensions, material composition, optical and electrical characteristics and other critical parameters of solid state devices, from initial wafer substrate manufacturing through final packaging.
+ We are continually working to strengthen our competitive position by developing innovative technologies and products in our market segment. We have expanded our product offerings to address growing applications within the semiconductor manufacturing and adjacent industries. In pursuit of our goals, we have:
+  
+• | Introduced new products, applications, and upgrades in every core product line and primary market served;
+--+----------------------------------------------------------------------------------------------------------
+
+
+• | Diversified our product line and strengthened our position with our top customers securing tool of record positions of one or more products in each of the top six customers (as defined by capital expenditures for wafer fab equipment), who combined represent more than 80% of all wafer fab equipment expenditures; and
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Continued development of new measurement and inspection technologies for advanced fabrication processes.
+--+---------------------------------------------------------------------------------------------------------
+
+Nanometrics Products
+ We offer a diverse line of systems to address the broad range of process control requirements of the semiconductor manufacturing industry. In addition, we believe that our product development and engineering expertise and strategic acquisitions will enable us to develop and offer advanced process control solutions that, in the future, should address industry advancement and trends.
+Automated Systems
+ Our automated systems primarily consist of fully automated metrology systems that are employed in semiconductor production environments. The Atlas® III, Atlas II+, and Atlas XP+ represent our line of high-performance metrology systems providing optical critical dimension (“OCD”®), thin film metrology and wafer stress for transistor and interconnect metrology applications. The thin film and OCD technology is supported by our suite of solutions including our NanoDiffract® software SpectraProbe™ software and NanoGen™ scalable computing engine that enables visualization, modeling, and analysis of complex structures. The UniFire™ system measures multiple parameters at any given process step in the advanced packaging process flow for critical dimension, overlay, and topography applications and has recently added inspection capabilities for both front-end of line patterned wafer and advanced packaging related applications.
+Integrated Systems
+ Our integrated metrology (“IM”) systems are installed directly onto wafer processing equipment to provide near real-time measurements for improved process control and maximum throughput. Our IM systems are sold directly to end user customers. The IMPULSE®+ and IMPULSE represent our latest metrology platform for OCD, and thin film metrology, and have been successfully qualified on numerous independent Wafer Fabrication Equipment Suppliers’ platforms. Our NanoCD suite of solutions is sold in conjunction with our IMPULSE systems. Our Trajectory® system provides in-line measurement of layers in thin film thickness and composition in semiconductor applications and is qualified in production with major device makers.
+ 5
+
+
+Software
+ NanoDiffract® is a modeling, visualization and analysis software that takes signals from the automated and integrated metrology systems providing critical dimension, thickness, and optical properties from in line measurements. The software has an intuitive three-dimensional modeling interface to provide visualization of today’s advanced and complex semiconductor devices. There are proprietary fitting algorithms in NanoDiffract that enable very accurate and very fast calculations for signal processing for high fidelity model based measurements.
+ SpectraProbe™ is a model-less fitting engine that enables fast time to solution for in-line excursion detection and control. SpectraProbe complements the high-fidelity modeling of NanoDiffract with a simple machine learning interface for rapid recipe deployment. SpectraProbe expands the types of structures that can be used for metrology and control including in-die and on-device areas. Both analysis packages are supported by the automated and integrated systems, can be deployed in run-time environments and support off-line processing as part of a factory control solution when deployed on NanoCentral and NanoGen servers.
+ NanoGen is an enterprise scale computing hardware system that is deployed to run the computing intensive analysis software. NanoGen leverages commercial server chips and networking architecture and is optimized to support the workload of NanoDiffract analysis. NanoCentral is a fab based networking and server system providing connectivity and compute support to SpectraProbe and connected measurement systems including Atlas and Impulse products
+ Materials Characterization
+ Our materials characterization products include systems that are used to monitor the physical, optical, electrical and material characteristics of discrete electronic industry, opto-electronic, HB-LED (high brightness LEDs), solar PV (solar photovoltaics), compound semiconductor, strained silicon and silicon-on-insulator (“SOI”) devices, including composition, crystal structure, layer thickness, dopant concentration, contamination and electron mobility.
+ The RPMBlue™ is our photoluminescence mapping system designed specifically for the HB-LED market, and is complemented by the RPMBlue-FS, enabling a breadth of research and development configurability. We sell Fourier-Transform Infrared (“FTIR”) automated and manual systems in the QS2200/3300 and QS1200 respectively for substitute quality and epitaxial thickness metrology. The NanoSpec® line, including the NanoSpec II, supports thin film measurement across all applications in both low volume production and research applications.
+ Our process control systems can be categorized as follows:
+ 
+ 
+System | Market | Applications 
+----------------------------------------+-------------------------+-----------------------------------------------------------------------------
+Automated Systems | | 
+Atlas III, Atlas II+/Atlas XP+ | Semiconductor | Film Thickness, Film Stress, CD 
+UniFire | Semiconductor | Film Thickness, Overlay, CD, and Advanced Packaging Applications, Inspection
+Integrated Systems | | 
+IMPULSE/IMPULSE+ | Semiconductor | Film Thickness, CD 
+Trajectory | Semiconductor, Solar PV | Film Thickness, Composition 
+Analysis Software and Computing Systems | | 
+NanoDiffract | Semiconductor | OCD 
+SpectraProbe | Semiconductor | Excursion Control Film Thickness & OCD 
+NanoGen/NanoCentral | Semiconductor | Compute Hardware for NanoDiffract & SpectraProbe 
+
+ 6
+
+
+ 
+Materials Characterization Systems | | 
+-----------------------------------+------------------------------------------+----------------------------------------------------------------
+ECVPro | Compound Semiconductor, Solar PV, HB-LED | Electrical Properties 
+HL5500 | Compound Semiconductor, Solar PV, HB-LED | Electrical Properties 
+QS1200 | Substrate Semiconductor, Solar PV | Substrate Properties, Film Composition and Thickness 
+QS2200/3300 | Substrate Semiconductor | Substrate Properties, Film Composition 
+NanoSpec® II | Semiconductor | Film Thickness (Tabletop) 
+RPMBlueTM | HB-LED | Epitaxial Layer Properties 
+Stratus | Semiconductor | Substrate Properties, Film Composition and Thickness (Tabletop)
+
+ See Note 14 of our consolidated financial statements in Item 8, "Financial Statements and Supplementary Data," for revenues by product type, which information is incorporated by reference here.
+ Customers
+ We sell our metrology and inspection systems worldwide to semiconductor manufacturers, and producers of solid state devices. The majority of our systems are sold to customers located in Asia and the United States.
+ The following customers accounted for 10% or more of our total net revenues:
+ 
+
+ 
+ | Years Ended | 
+---------------------------------------------------+-------------------+----
+ | December 30, 2017 | | December 31, 2016 | | | December 26, 2015
+Samsung Electronics Co. Ltd. | | 26% | | *** | | | 13% | 
+SK Hynix | | 13% | | | 15% | | | 11%
+Micron Technology, Inc. | | 12% | | | 20% | | | 16%
+Intel Corporation | | 11% | | | 18% | | *** | 
+Toshiba Corporation | | 11% | | *** | | | 10% | 
+Taiwan Semiconductor Manufacturing Company Limited | *** | | | 10% | | | 19% | 
+
+
+*** | The customer accounted for less than 10% of total net revenues during the period.
+----+----------------------------------------------------------------------------------
+
+Sales and Marketing
+ We believe that the capability for direct sales and support is beneficial for developing and maintaining close customer relationships and for rapidly responding to changing customer requirements. We provide local direct sales, service and application support through our worldwide offices located in the United States, South Korea, Japan, Taiwan, China, Singapore and France, and work with selected dealers and sales representatives in Asia, in the United States and other countries. Our applications team is composed of technically experienced sales engineers who are knowledgeable in the use of metrology systems generally and the unique features and advantages of our specific products. Supported by our technical applications team, our sales and support teams work closely with our customers to offer cost-effective solutions to complex measurement and process problems.
+ Net revenues from customers located in the United States and in foreign countries, as a percentage of total net revenues were as follows:
+ 
+ 
+ | 2017 | 2016 | 2015
+--------------------+------+------+-----
+United States | 13% | 14% | 20% 
+China | 12% | 20% | 9% 
+South Korea | 36% | 20% | 16% 
+Singapore | 8% | 17% | 9% 
+Japan | 16% | 12% | 17% 
+Taiwan | 8% | 12% | 25% 
+All other countries | 7% | 5% | 4% 
+
+ 
+7
+
+
+See Note 14 of our consolidated financial statements in Item 8, "Financial Statements and Supplementary Data," for segment and geographical financial information, including revenues and long-lived assets by geographic region, and our consolidated financial statements for net revenue information, which is incorporated by reference here.
+ Customer Service and Support
+ We believe that customer service and technical support for our systems are crucial factors that distinguish us from our competitors and are essential to building and maintaining close, long-term relationships with our customers. We provide a standard one-year warranty on parts and labor for most of our products. We provide system support to our customers through factory technical support and globally deployed field service personnel. The factory technical support operations provide customers with telephonic technical support access, direct training programs, operating manuals and other technical support information to enable effective use of our metrology and measurement instruments and systems. We have field service operations based in various locations throughout the United States, South Korea, Taiwan, China, Japan, Singapore, Israel, France, Italy, and Germany. 
+ Service revenues, including sales of replacement parts, represented 17%, 16%, and 22% of total net revenues in 2017, 2016 and 2015, respectively.
+ Backlog
+ As of December 30, 2017, and December 31, 2016, our backlog was $34.0 million and $28.5 million, respectively. Backlog includes orders received and booked, both shipped and not yet recognized as revenue, and not shipped, for products, services and upgrades where written customer requests have been received and we expect to ship and/or recognize revenue within 12 months. Orders are subject to cancellation or delay by the customer subject to possible penalties. However, historically, order cancellations have not been significant. Because orders presently in backlog could be cancelled or rescheduled and some orders can be received and shipped within the same quarter, we do not believe that current backlog is an accurate indication of our future revenues or financial performance. 
+ With the adoption of the new revenue guidance, ASC Topic 606, Revenue From Contracts With Customers in the first quarter of fiscal 2018, we expect backlog will be reduced as discussed in Note 2 to the Consolidated Financial Statements in Item 8.
+ Competition
+ We offer various products for various semiconductor manufacturing process steps, and several of our products extend across the same process flow. However, for process control of each of these process steps, we have multiple competitors. In every market in which we participate, the global semiconductor equipment industry is intensely competitive, and driven by rapid technological adoption cycles. Our ability to effectively compete depends upon our ability to continually improve our products, applications and services, and our ability to develop new products, applications and services that meet constantly evolving customer requirements.
+ We believe that our competitive position in each of our markets is based on the ability of our products and services to address customer requirements related to numerous competitive factors. Competitive selections are based on many factors involving technological innovation, productivity, total cost of ownership of the system, including impact on end of line yield, price, product performance and throughput capability, quality, reliability and customer support.
+ In automated systems for the semiconductor industry, our principal competitors are KLA-Tencor Corporation (“KLA-Tencor”) and Nova Measuring Instruments Ltd. ("Nova") for thin film and critical dimension OCD metrology, and other suppliers for advanced packaging. Our primary competitor in integrated systems is Nova. The opto-electronics and discrete device markets are addressed primarily by our material characterization systems, served by numerous competitors and no single competitor or group of competitors has established a majority position.
+ Manufacturing
+ Our manufacturing operations are in Milpitas, California and at various contract manufacturers around the world. It is our strategy to outsource all assemblies that do not contain elements that we believe lead to a direct competitive advantage. The majority of our automated and integrated products are currently manufactured at our Milpitas facility. We also use contract manufacturers in other locations in the United States, China, Israel and Japan. We currently do not expect our manufacturing operations to require additional major investments in capital equipment.
+ 8
+
+
+We produce key parts and components and make reasonable efforts to ensure that any externally purchased parts or raw materials are available from multiple suppliers, but this is not always possible. Certain components, subassemblies and services necessary for the manufacture of our systems are obtained either from a sole supplier or limited group of suppliers. We also have an established long-term supply agreement for supply of our spectroscopic ellipsometers and interferometers for use in our products. Although we seek to reduce our dependence on sole and limited source suppliers, partial or complete loss of these sources could disrupt production, delay scheduled deliveries to customers and have a material adverse effect on our revenues and results of operations.
+ Research and Development
+ We continue to invest in research and development (“R&D”) to provide our customers with products that add value to their manufacturing processes and that provide a better and differentiated solution than our competitors so that our products stay in the forefront of current and future market demands. Whether it is for an advancement of current technology, yield and manufacturing improvement, enabling new end device technology, or the development of a new application in our core or emerging markets, we are committed to product excellence and longevity.
+ In our automated markets, our R&D efforts resulted in the successful product launch of the Atlas III product in the marketplace, our flagship product for OCD. The Atlas III product provides enhanced OCD capability with a significantly lower cost of ownership model. In our integrated markets, the IMPULSE system has been further developed for inline lithography track configuration to extend our tool of record position for lithography OCD. The IMPULSE+ system, which incorporates performance and productivity enhancements to the IMPULSE was introduced in 2015 and has been qualified across numerous OEM platforms.
+ Modeling and analysis software including NanoDiffract and systems software has a regular refresh and release cadence.  NanoDiffract 4.0 was released in 2017.  NanoDiffract 4.0 includes improvements in the user interface, compute engine, and analysis leading to an overall faster time to solution while enabling more complex measurements. SpectraProbe, launched in 2016, is gaining rapid acceptance by our OCD and films metrology customers as it expands the types of structures and applications that can be measured, while reducing time to solution in the factory. SpectraProbe has enabled new process tool monitoring strategies that extend our process control capabilities to process tool and chamber control. The model-less approach reduces the applications time and effort to develop a monitoring recipe, while providing rapid insight into shifting and changing factory conditions.
+ The Materials Characterization suite of products including the FTIR, Photoluminescence (RPM and Imperia), and NanoSpec families have had significant refresh and customization for customer needs.  The RPM Blue FS, Imperia, and NanoSpec family have all had improvements released in 2017 to improve productivity and measurement performance.
+ Our research and development expenses for fiscal 2017, 2016 and 2015 were $36.7 million, $31.4 million and $32.7 million, respectively. 
+ Patents and Intellectual Property
+ Our success depends in large part on the technical innovation of our products and protecting such innovations through a variety of methods. We actively pursue a program of filing patent applications to seek protection of technologically sensitive features of our metrology and inspection systems. 
+ As of December 30, 2017, we had 192 patents, including foreign patents, with expiration dates ranging from 2018-2036. We believe that our success will depend to a great degree upon innovation, technological expertise and our ability to adapt our products to new technology. While we attempt to establish our intellectual property rights through patents and trademarks and protect intellectual property rights through non-disclosure agreements, we may not be able to fully protect our technology, and competitors may be able to develop similar technology independently. Others may obtain patents and assert them against us. In addition, the laws of certain foreign countries may not protect our intellectual property to the same extent as do the laws of the United States. From time to time we receive communications from third parties asserting that our metrology systems may contain design features that the third parties claim may infringe upon their proprietary rights.
+ Employees
+ At December 30, 2017, we employed 592 persons worldwide with sales, applications and service support in key geographic areas aligned with our customer locations. None of our employees are represented by a union and we have never experienced a work stoppage as a result of union actions. We consider our employee relations to be good. Many of our employees have specialized skills that are of value to us. Our future success will depend in large part upon our ability to attract, retain and motivate highly skilled scientific, technical and managerial personnel, who are in great demand in our industry.
+ 9
+
+
+Environmental Matters
+ Our operations are subject to various federal, state and local environmental protection regulations governing the use, storage, handling and disposal of hazardous materials, chemicals, and certain waste products. We believe that compliance with federal, state and local environmental protection regulations will not have a material adverse effect on our capital expenditures, earnings and competitive and financial position.
+ In the event that we fail to comply with such laws and regulations, we could be liable for damages, penalties and fines. We further discuss the impact of environmental regulation under “Risk Factors- We are subject to various environmental laws and regulations that could impose substantial costs upon us and may harm our business, operating results and financial condition.” in Item 1A.
+ Executive Officers of the Registrant
+ The names of our executive officers and their ages, titles and biographies as of February 20, 2018, are set forth below:
+ 
+ 
+Name | Age | | Position
+----------------------------+-----+----+---------
+Dr. Pierre-Yves Lesaicherre | | 54 | | President, Chief Executive Officer and Director 
+Greg Swyt | | 57 | | Vice President, Finance (Principal Financial Officer) 
+Rollin Kocher | | 52 | | Sr. Vice President, Commercial Operations 
+Kevin Heidrich | | 47 | | Sr. Vice President, Strategic Marketing and Business Development
+Janet Taylor | | 60 | | General Counsel 
+
+ 
+Dr. Pierre-Yves Lesaicherre joined Nanometrics as President and Chief Executive Officer in November 2017. From January 2012 to February 2017, Dr. Lesaicherre was Chief Executive Officer of Lumileds, an integrated manufacturer of LED components and Automotive Lighting Lamps, where he was responsible for all aspects of the company’s business. Prior to being named Chief Executive Officer, Dr. Lesaicherre also held other management positions at Lumileds from 2006 to 2012. Before Lumileds, Dr. Lesaicherre was Senior Vice President and general manager of the business lines Microcontrollers & Logic at NXP Semiconductors, formerly Philips Semiconductors. He holds an MBA with a focus on international business and strategy from INSEAD, and has MS and Ph.D. degrees in Material Science from the National Polytechnic Institute of Grenoble. 
+ Greg Swyt assumed the role of principal financial officer of Nanometrics in November 2017. Mr. Swyt has served as the Vice President, Finance of Nanometrics from August 2016. Prior to joining Nanometrics, Mr. Swyt was Managing Director, Finance, at Intevac Corporation, a company delivering thin film solutions, from May 2008 to July 2016, where he managed the Global Financial Planning and Analysis Organization, which also included Manufacturing Finance, Government Finance and Regional Finance. Mr. Swyt received a MBA and a BS in Finance from San Jose State University.
+ Rollin Kocher joined Nanometrics in March 2013 as Vice President of Worldwide Sales and Service. In September 2016, Mr. Kocher was promoted to Senior Vice President, Commercial Operations. Prior to joining Nanometrics, Mr. Kocher held several senior management positions over 17 years at KLA-Tencor, including Global Sales for Films and Scatterometry, Sales for Taiwan, North America and Europe, and Sr. Director of Sales for the Samsung Business Unit. His last position at KLA-Tencor was General Manager of the Samsung Business Unit, and in that capacity, was responsible for Sales, Marketing, Applications, and Service. Mr. Kocher holds a B.S. degree in Electrical Engineering Technology from the University of North Texas.
+ Kevin Heidrich, Sr. Vice President, Strategic Marketing and Business Development, joined Nanometrics in 2006. Mr. Heidrich has participated in many functions, expanding his scope to include new product development, corporate marketing, product marketing and business development. Mr. Heidrich is now responsible for both corporate strategy and marketing, as Nanometrics expands its overall solution space within process control metrology. Prior to Nanometrics, Mr. Heidrich spent a decade at Intel Corporation in a variety of roles including process research and development at Intel’s Technology Development facility. Mr. Heidrich received B.S. and M.S. degrees from the Colorado School of Mines in Chemical Engineering.
+ Janet Taylor joined Nanometrics as General Counsel in July 2015. Ms. Taylor served as Senior Vice President, General Counsel and Company Secretary of STATS ChipPAC Ltd., from June 2005 to June 2015, where she was responsible for all legal matters, including corporate governance, intellectual property, litigation and securities compliance. Prior to joining STATS ChipPAC Ltd, Ms. Taylor was engaged in transactional practices at international law firms in New York, Singapore and London. Ms. Taylor was admitted to the Bar in New York in 1990 and in Singapore in 2010. Ms. Taylor holds a J.D. from the Harvard Law School and a B.A. in History from the University of Texas at Austin.
+ 
+10
+
+
+ 

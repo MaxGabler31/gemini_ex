@@ -1,0 +1,199 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+Recent Developments
+ 
+On May 26, 2017, we completed the acquisition of Ultratech, Inc. (Ultratech). Ultratech develops, manufactures, sells, and supports lithography, laser annealing, and inspection equipment for manufacturers of semiconductor devices, including front-end semiconductor manufacturing and advanced packaging. Ultratech also develops, manufactures, sells, and supports atomic layer deposition (ALD) equipment for scientific and industrial applications. Ultratechs customers are primarily located throughout the United States, Europe, China, Japan, Taiwan, Singapore, and Korea. With the addition of Ultratech, we establish ourselves as a leading equipment supplier in the advanced packaging market, forming a strong technology portfolio to address critical advanced packaging applications, as well as greatly increasing our critical mass in the front-end semiconductor market. The results of Ultratechs operations have been included in the consolidated financial statements since the date of acquisition.
+Business Description and Overview
+ 
+Headquartered in Plainview, New York, we were organized as a Delaware corporation in 1989. We develop, manufacture, sell, and support semiconductor process equipment to meet the demands of key global trends such as enhancing mobility, increasing connectivity, and improving energy efficiency. Our primary technologies include metal organic chemical vapor deposition, advanced packaging lithography, wet etch and clean, laser annealing, ion beam, molecular beam epitaxy, wafer inspection, and atomic layer deposition systems. These technologies play an integral role in producing Light Emitting Diodes (LEDs) for solid-state lighting and displays, and in the fabrication and packaging of advanced semiconductor devices. We have sales and service operations across the Asia-Pacific region, Europe, and North America to address our customers needs.
+ 
+We are focused on:
+ 
+·                              Providing differentiated semiconductor process equipment to address customers current production requirements and next generation product development roadmaps;
+ 
+·                              Investing to win through focused research and development in markets that we believe provide significant growth opportunities or are at an inflection point in semiconductor process equipment requirements, including LED, power electronics, photonics, front-end semiconductor, and advanced packaging technologies;
+ 
+·                              Leveraging our sales channel and local process applications support teams to build strong strategic relationships with technology leaders;
+ 
+3
+
+
+
+
+·                              Expanding our services portfolio to improve the performance of our systems, including spare parts, upgrades, and consumables to drive growth, reduce our customers cost of ownership, and improve customer satisfaction;
+ 
+·                              Cross-selling our product portfolio across our broad customer base and end markets to both maximize sales opportunities and diversify our business;
+ 
+·                              Utilizing a combination of outsourced and internal manufacturing strategies to flex manufacturing capacity through industry investment cycles without compromising quality or performance; and
+ 
+·                              Pursuing partnerships and acquisitions to expand our product portfolio into new and adjacent markets to drive sales growth.
+ 
+Our products are sold to semiconductor and advanced packaging device manufacturers in the following four markets: Advanced Packaging, MEMS & RF Filters; LED Lighting, Display & Compound Semiconductor; Front-End Semiconductor; and Scientific & Industrial.
+ 
+Markets
+ 
+Our systems are used in the creation of a broad range of microelectronic components, including LEDs, micro-electro mechanical systems (MEMS), radio frequency (RF) filters, power electronics, thin film magnetic heads (TFMHs), laser diodes, 3D NAND logic, and other semiconductor devices. In addition to the creation of microelectronic components, our systems are used in the advanced packaging of such components in applications such as flip chip, Fan out Wafer Level Packaging (FOWLP), and other wafer level packaging approaches. Our customers who manufacture these devices invest in our systems to develop next generation products and deliver more efficient, cost effective, and advanced technological solutions. We operate in a cyclical business environment, and our customers buying patterns are dependent upon industry trends. Our products are sold into multiple markets, and the following discussion focuses on the trends that most influence our business within each of those markets.
+ 
+Advanced Packaging, MEMS & RF Filters
+ 
+Advanced Packaging includes a portfolio of wafer-level assembly technologies that enable the miniaturization and performance improvement of electronic products, such as smartphones, smartwatches, and other mobile applications.
+ 
+Demand for higher performance, increased functionality, smaller form factors, and lower power consumption in mobile devices, consumer electronics, and high performance computing is driving the adoption of advanced packaging technologies. Semiconductor Foundries (Foundries), Independent Device Manufacturers (IDMs) and Outsourced Semiconductor Assembly and Test (OSAT) companies are implementing multiple advanced packaging approaches including FOWLP, recently deployed in high-volume manufacturing, and Through Silicon Via (TSV) to enable stacked memory, 2.5D, and 3D packaging devices. This increasing demand trend in Advanced Packaging is encouraging as our Lithography and Precision Surface Processing (PSP) products enable the process steps for Advanced Packaging.
+ 
+MEMS devices are used for an increasing number of applications, including accelerometers for automobile airbags, pressure sensors for medical uses, and gyroscopes for a variety of consumer products, such as gaming consoles and mobile devices.
+ 
+One of the fastest growing MEMS applications has been RF filters for mobile devices, driven by increasingly complex wireless standards, the exponential growth of mobile data, and carrier aggregation. In order to address these growing demands, the number of discrete RF filters in an average smartphone is expected to double from 50 to 100 by 2020. These trends are positive for us, particularly for our PSP products, where our technology is enabling some of the most challenging process steps, as well as our Ion Beam Etch (IBE) and Molecular Beam Epitaxy (MBE) products, which are used to create Bulk Acoustic Wave (BAW) and Surface Acoustic Wave (SAW) RF filters.
+ 
+LED Lighting, Display & Compound Semiconductor
+ 
+LED Lighting technology has existed for more than 50 years; however, commercial adoption of LEDs was limited to niche applications until the most recent decade. In the early 1990s, researchers developed a process utilizing Gallium Nitride (GaN) that created a low cost blue LED to produce white light. With that breakthrough, the LED industry started, and the number of applications for LEDs began to expand.
+ 
+Since that time, the LED industry has experienced multiple growth cycles brought on by the adoption of LED technology for consumer and commercial applications. The first wave of LED growth was driven by mobile phones, which implemented the use of LED technology for display backlighting. The LED industry experienced its second period of rapid growth as LEDs were adopted for TV display backlighting. The adoption of LEDs for solid state, general lighting gave rise to a third wave of demand. There is a broader fourth wave of compound semiconductor growth including LEDs, driven by ROY LED applications, optical communication and industrial applications requiring laser diodes, 3D sensing vertical-cavity surface emitting lasers (VCSELs), micro-LED displays, 5G RF infrastructure adoption, and power electronics.
+ 
+Our metal organic chemical vapor deposition (MOCVD) technology is at the core of the manufacturing process for GaN-based LEDs. We have benefited with each growth cycle, as LED producers invest in MOCVD process equipment to capture share in these markets. Demand for our equipment has historically been cyclical in nature, influenced by multiple factors, including: macroeconomic conditions; prices for LED chips; supply and demand dynamics; and our customers manufacturing plans. However, we expect the ongoing adoption of LED lighting to be a major driver in the need for additional MOCVD capacity over the next several years.
+ 
+MOCVD technology is equally important in the manufacturing of red, orange, and yellow (ROY) LEDs, which are used increasingly for fine-pitch digital signage and automotive lighting applications. For these applications, our MOCVD technology is used to deposit highly uniform Arsenic Phosphide (AsP) films which create amber and red hues. AsP MOCVD technology is also used to produce multiple other devices in the photonics market such as infrared LEDs and VCSELs used for optical data communication and 3D sensing. In addition to film deposition, photonics manufacturers also employ cleaning and etching process steps. Our PSP wet etch and clean technologies provide such cleaning and processing capabilities to photonics customers.
+ 
+The Display market refers to LEDs or micro LEDs used directly for displays. Additionally, organic light emitting diode (OLED) displays are part of the Display market and are used in applications such as digital signage, smartphones,
+ 
+4
+
+
+
+
+wearable and tablet displays, and TVs. Our MOCVD systems and MBE source technology is ideally suited for the display market.
+ 
+The Compound Semiconductor market refers to GaN-on-Silicon based power electronic devices and radio frequency devices. Our MOCVD and PSP technologies are crucial in the manufacturing of GaN-on-Silicon based power electronic devices. Global demand is increasing for advanced power electronics with greater energy efficiency, smaller footprints, higher operating temperatures, faster switching capabilities, and greater reliability. These devices support many needs, including more efficient IT servers, electrical motors, electric vehicles, wind turbines, and photovoltaic power inverters. While silicon-based transistors are widely used in power electronic devices today, GaN-on-Silicon based power electronics developed on MOCVD tools can potentially deliver higher performance (e.g., smaller power supply form factors, higher efficiency, and faster switching speeds). In addition to depositing the critical GaN layer with our MOCVD products, our PSP products address multiple etch and clean steps required to manufacture these advanced power electronics devices. In recent years, global industry leaders in power electronics have focused on research and development programs to commercialize this new technology. Device manufacturers will likely begin to transition from development to production of these devices over the next couple of years; we can benefit from this transition as our customers invest in process equipment to support this production ramp-up.
+ 
+The Radio Frequency device portion of the Compound Semiconductor market is driven by demand for RF power amplifiers in mobile devices. Our PSP products are used for process steps such as metal lift off and photo resist strip for RF devices such as heterojunction bipolar transistors (HBTs) used in smartphones.
+ 
+Front-End Semiconductor
+ 
+Front-End Semiconductor refers to early process steps where transistors are formed directly on silicon. There are many different process steps in forming integrated circuits, such as Deposition, Etching, Masking, and Doping, where the microchips are created but still remain on the silicon wafer. Our Laser Spike Anneal products are well suited to assist our customers in the doping process. Our IBE for front-end semiconductor applications has been demonstrated in Spin Torque Transfer Magnetic Random Access Memory (STT-MRAM) applications. MRAM has many benefits over traditional random access memory such as its non-volatility, speed, endurance, and power consumption. Our Ion Beam Deposition (IBD) products are well suited for the manufacture of Extreme Ultraviolet (EUV) mask blanks. Our ability to precisely deposit high quality films with extremely low particulate levels make our IBD technology ideal for manufacturing defect-free EUV photomask blanks. The front-end semiconductor industry is expected to adopt EUV lithography to meet future device requirements. Future growth will depend on overall adoption of EUV technology. And lastly, our 3D inspection products are used for shape inspection of 3D topographies in memory and logic applications, which helps our customers improve their lithography and deposition processes.
+ 
+Scientific & Industrial
+ 
+The Scientific and Industrial markets include advanced materials research and a broad range of manufacturing applications including high-power fiber lasers, infrared detectors, thin film magnetic heads on HDDs, and optical coatings.
+ 
+Our MBE systems are used by scientific research organizations and universities to drive new discoveries in the areas of materials science. MBE enables precise epitaxial crystal growth for a wide variety of materials, which supports the development of new performance materials used for emerging technologies. MBE technology is also used in the
+ 
+5
+
+
+
+
+manufacturing of products such as high-power lasers and infrared sensors. Our tools create highly uniform Gallium-Arsenide (GaAs) or Indium-Phosphide (InP) film layers, which are critical to the performance of these devices. Our PSP products are also used in the manufacture of infrared sensors.
+ 
+Our Ion Beam Deposition, Ion Beam Etch, Physical Vapor Deposition (PVD), and lapping and dicing tools are used in data storage applications, including HDDs that will continue to provide significant value for mass storage and will remain an important part of large capacity storage applications. This is especially true for data center applications where large volumes of data storage are required to serve an increasingly mobile population. In addition, our IBD tools are used to produce high quality optical films for multiple applications including laser mirrors, optical filters, and anti-reflective coatings. Our tools deposit thin layers of advanced materials on various substrates to alter how light is reflected and transmitted.
+ 
+Our ALD tools are sold into a variety of Scientific & Industrial market applications such as optical, semi/nano-electronics, MEMS, nanostructures, and biomedical.
+ 
+System products
+ 
+Metal Organic Chemical Vapor Deposition Systems
+ 
+We are the worlds leading supplier of MOCVD systems. MOCVD production systems are used to make GaN-based devices (such as blue and green LEDs) and AsP-based devices (such as ROY LEDs), which are used in television and computer display backlighting, general illumination, large area signage, specialty illumination, power electronics, and many other applications. Our TurboDisc® EPIK® line of MOCVD systems enables cost per wafer savings for our customers with a combined advantage of best operating uptime, low maintenance costs, and best-in-class wafer uniformity and yield. In 2016, we introduced the TurboDisc K475i AsP MOCVD system, which offers best-in-class productivity and yields for ROY LEDs, infra-red LEDs, and high-efficiency triple junction photovoltaic solar cell applications. Our Propel PowerGaN MOCVD System (Propel) enables the development of highly-efficient GaN-based power electronic devices that have the potential to accelerate the industrys transition from research and development to high volume production. The Propel system offers 200mm technology and incorporates single-wafer reactor technology for outstanding film uniformity, yield, and device performance.
+Advanced Packaging Lithography
+ 
+We have a leading position in the Advanced Packaging lithography equipment market. The Advanced Packaging market is driven by the need for improved performance, reduced power consumption, and smaller geometries for mobile and automotive applications. In turn, these applications continue to demand increasingly complex packaging techniques from IDMs, Foundries, and OSATs. Our Advanced Packaging tools are designed to optimize productivity for leading-edge 200mm and 300mm Advanced Packaging applications by enabling extremely reliable, cost-effective, high-volume manufacturing solutions. Our best-in-class yield coupled with outstanding resolution and depth of focus addresses all leading edge requirements for Advanced Packaging applications such as redistribution layers (RDLs), Copper Pillar, Micro-Bump, FOWLP, interposers, and TSVs to provide the lowest cost of ownership in the industry.
+Precision Surface Processing Systems (Wet Etch and Clean)
+ 
+Our PSP systems offer single wafer wet etch, clean, and surface preparation solutions which target high growth segments in advanced packaging, MEMS, LEDs, and compound semiconductor markets. The WaferStorm platform is based on PSPs unique ImmJET technology, which provides improved performance at a lower cost of ownership than conventional wet bench-only or spray-only approaches. This highly flexible platform targets solvent based cleaning applications that require a significant level of process control and flexibility. The WaferEtch® platform provides highly uniform, selective etching with onboard end point detection for improved process control and yield in bumping applications. In addition, PSP has developed a state-of-the-art solution with the WaferEtch platform to address the
+ 
+6
+
+
+
+
+requirements of TSV reveal, in which the backside of a wafer is thinned to reveal the copper interconnects. PSPs TSV technology offers a significant cost of ownership reduction compared with dry etch processing by replacing up to four separate process steps.
+ 
+Laser Annealing Systems
+ 
+The progression of Moores law has led semiconductor manufacturers to implement a variety of material and process changes to overcome the technical hurdles related to shrinking of feature sizes in integrated circuits. Along with new materials and smaller dimensions have come new process challenges. One such challenge has been new constraints on thermal annealing processes. One example is the thermal annealing of dopants for activation, in order to form the transistor junction, critical to the function and performance of a complementary metal-oxide semiconductor (CMOS) logic integrated circuit. In this and other thermal process steps, traditional lamp-based annealing techniques have challenges meeting the thermal budget (time/temperature regime) required by new materials and designs. Our Laser Spike Anneal (LSA) systems meet the industry demand for millisecond time-scale annealing, heating the wafer up to temperatures just below the Silicon melting point over a range of ultra-short timeframes (microseconds to milliseconds), enabling thermal annealing solutions at the 65nm technology node and below. This advanced annealing technology provides solutions to the difficult challenge of fabricating ultra-shallow junctions and highly activated source/drain contacts at these advanced logic nodes. In addition, our proprietary hardware design enables outstanding temperature uniformity across the wafer and die, by minimizing the pattern-density effect, thus reducing absorption variations.
+ 
+We have also developed a next generation melt anneal technology targeted for annealing advanced logic devices at 7nm and below. As FinFET devices scale below the 10nm node, achieving the performance targets has become a challenge. To continue the roadmap, the industry is looking at new materials and the use of thermal processes that require nanosecond time-scale thermal annealing with temperatures exceeding the melting point. To help address this concern we have developed a unique (and patented) approach to nanosecond-scale thermal annealing. Our design utilizes two lasers; a millisecond laser as a low thermal budget localized preheat and a nanosecond laser on top of the millisecond laser to
+ 
+7
+
+
+
+
+raise the peak temperature to the melt temperature of the material being processed beyond silicon melt. Similar to LSA, the melt system architecture is targeted to reduce pattern effects and increase the process window. It is believed that nanosecond annealing will be required to meet the device targets at 7nm and below; the initial application being explored by customers is contact annealing aimed to improve reduce source/drain contact resistance, which has become a performance bottleneck at the most advanced FinFET nodes, and as devices continue to scale, we see the application space for our melt product expanding.
+ 
+Ion Beam Etch and Deposition Systems
+ 
+Our NEXUS® IBD systems utilize ion beam technology to deposit precise layers of thin films. IBD systems deposit high purity thin film layers and provide excellent uniformity and repeatability. Our NEXUS IBE systems utilize a charged particle beam consisting of ions to etch precise, complex features. The NEXUS systems may be included on our cluster system platform to allow either parallel or sequential deposition/etch processes. These systems are used primarily by data storage, semiconductor, and telecommunications device manufacturers in the fabrication of discrete and integrated microelectronic devices.
+ 
+Our SPECTOR® Ion Beam Sputtering system was developed for high precision coatings and offers manufacturers state of the art optical thickness monitoring, improved productivity, and target material utilization, for cutting-edge optical interference coating applications. We also provide a broad array of ion beam sources. These technologies are applicable in the HDD industry as well as for optical coatings and other end markets.
+ 
+Molecular Beam Epitaxy Systems
+ 
+Molecular beam epitaxy is the process of precisely depositing epitaxially-aligned atomically-thin crystalline layers, or epilayers, of elemental materials onto a substrate in an ultra-high vacuum environment. We are the leading supplier of MBE systems worldwide.
+ 
+Our MBE systems, sources, and components are used to develop and manufacture compound semiconductor devices in a wide variety of applications such as high-power fiber lasers, infrared detectors, mobile phones, radar systems, high efficiency solar cells, and basic materials science research. For many compound semiconductors, MBE is the critical step of the fabrication process, ultimately determining device functionality and overall performance. We offer a full complement of MBE systems customized for the specific end application depositing on single 3 substrates up to fully automated production systems that can deposit on seven 6 substrates simultaneously. The GENxplor® MBE system creates high quality epitaxial layers and is ideal for cutting-edge research on a wide variety of materials including gallium arsenide, antimonides, nitrides, and oxides. The GENxcel® MBE system extends the same performance of the GENxplor to 4 diameter substrates.
+ 
+3D Wafer Inspection Systems
+ 
+As the semiconductor industry continues its pursuit of increased productivity and performance by shrinking device dimensions along Moores law, manufacturers are running into bottlenecks limited by fundamental materials properties and lithographic resolution. The industry has opted for 3D integration schemes to circumvent these limitations (e.g. Vertical NAND, HAR DRAM, Logic FinFET). The high volume manufacturing ramp of these 3D schemes requires low cost, high performance 3D wafer inspection systems. The Superfast 3D Wafer Inspection System is a Coherent Gradient Sensing (CGS) based 3D wafer inspection system that enables the wafer fab to inspect the patterned wafer at key processing steps, enabling statistical process control as well as advanced process control (APC) for topography, displacement, and stress.
+Atomic Layer Deposition and Other Deposition Systems
+ 
+ALD is a thin-film deposition method in which a film is deposited on a substrate uniformly with precise control down to the atomic scale. Veeco offers a full suite of ALD systems for non-semiconductor front-end production applications across a wide range of markets and applications such as energy, optical, electronics, MEMS, nanostructures, and biomedical.
+Other deposition systems including Physical Vapor Deposition, Diamond-Like Carbon Deposition, and Chemical Vapor Deposition Systems. In addition, our Optium® products generally are used in back-end applications in data storage fabrication facilities where TFMHs or sliders are fabricated. This equipment includes lapping tools, which enable precise material removal within three nanometers, which is necessary for advanced TFMHs. We also manufacture dicing tools that cut wafers into row bars and TFMHs.
+Sales and Service
+ 
+We sell our products and services worldwide primarily through various strategically located facilities in the United States, Europe, and the Asia-Pacific region. We believe that our customer service organization is a significant factor in our success. We provide service and support on a warranty, service contract, and an individual service-call basis. We believe that offering timely support creates stronger relationships with customers and provides us with a significant competitive advantage. Revenue from the sales of parts, upgrades, service, and support represented approximately 27%, 28%, and 22% of our net sales for the years ended December 31, 2017, 2016, and 2015, respectively. Parts and upgrade sales represented approximately 22%, 22%, and 18% of our net sales for those years, respectively, and service and support sales were 5%, 6%, and 4% respectively.
+ 
+8
+
+
+
+
+Customers
+ 
+We sell our products to many of the worlds LED, MEMS, OSAT, HDD, and semiconductor manufacturers, as well as research centers and universities. We rely on certain principal customers for a significant portion of our sales. Sales to OSRAM Opto Semiconductors accounted for more than 10% of our total net sales for both 2017 and 2016; sales to Sanan Optoelectronics Co. and KAISTAR Lighting (Xiamen) Co. each accounted for more than 10% of our total net sales in 2015. If any principal customer discontinues its relationship with us or suffers economic difficulties, our business prospects, financial condition, and operating results could be materially and adversely affected.
+Research and Development
+ 
+Our research and development functions are focused on the timely creation of new products and enhancements to existing products, both of which are necessary to maintain our competitive position. We collaborate with our customers to align our technology and product roadmaps to customer requirements. Our research and development activities take place at our facilities in San Jose, California; Waltham, Massachusetts; St. Paul, Minnesota; Somerset, New Jersey; Plainview, New York; Horsham, Pennsylvania; and Singapore.
+ 
+Our research and development expenses were approximately $82.0 million, $81.0 million, and $78.5 million, or approximately 17%, 24%, and 16% of net sales for the years ended December 31, 2017, 2016, and 2015, respectively. These expenses consisted primarily of salaries, project materials, and other product development and enhancement costs.
+ 
+Suppliers
+ 
+We outsource certain functions to third parties, including the manufacturing of some of our MOCVD and Ultratech systems. While we primarily rely on one supplier for the manufacturing of these systems, we maintain a minimum level of internal manufacturing capability for these systems. Refer to Item 1A, Risk Factors, for a description of risks associated with our reliance on suppliers and outsourcing partners.
+Backlog
+ 
+Our backlog consists of orders for which we received a firm purchase order, a customer-confirmed shipment date within twelve months, and a deposit when required. Our backlog increased to $334.3 million at December 31, 2017 from $209.2 million at December 31, 2016. During the year ended December 31, 2017, we increased backlog by approximately $41.6 million relating to backlog acquired from Ultratech, while adjusting for a decrease in backlog of approximately $2.0 million relating to orders that no longer met our booking criteria.
+Competition
+ 
+In each of the markets that we serve, we face substantial competition from established competitors, some of which have greater financial, engineering, and marketing resources than we do, as well as from smaller competitors. In addition, many of our products face competition from alternative technologies, some of which are more established than those used in our products. Significant factors for customer selection of our tools include system performance, accuracy, repeatability, ease of use, reliability, cost of ownership, and technical service and support. None of our competitors compete with us across all of our product lines.
+Our principal competitors include: Advanced Micro-Fabrication Equipment (AMEC); Aixtron; Canon Anelva; Grand Plastics Technology Corporation; Leybold Optics; Mattson Technology; Riber; Rudolph Technologies; Scientech; Screen Semiconductor Solutions; and Shanghai Micro Electronics Equipment.
+ 
+Intellectual Property
+ 
+Our success depends in part on our proprietary technology, and we have over 800 patents in the United States and other countries and have additional applications pending for new inventions.
+ 
+9
+
+
+
+
+We have patents and exclusive and non-exclusive licenses to patents owned by others covering certain of our products, which we believe provide us with a competitive advantage. We have a policy of seeking patents on inventions concerning new products and improvements as part of our ongoing research, development, and manufacturing activities. We believe that there is no single patent or exclusive or non-exclusive license to patents owned by others that is critical to our operations, as the success of our business depends primarily on the technical expertise, innovation, customer satisfaction, and experience of our employees.
+ 
+Refer to Item 1A, Risk Factors, for a description of risks associated with intellectual property.
+ 
+Employees
+ 
+At December 31, 2017 we had 1,014 employees, of which there were 280 in manufacturing and testing, 99 in sales and marketing, 214 in service and product support, 260 in engineering and research and development, and 161 in information technology, general administration, and finance. The success of our future operations depends on our ability to recruit and retain engineers, technicians, and other highly skilled professionals who are in considerable demand. We feel that we have adequate programs in place to attract, motivate, and retain our employees. We monitor industry practices to make sure that our compensation and employee benefits remain competitive. We believe that our employee relations are good. Refer to Item 1A, Risk Factors, for a description of risks associated with employee retention and recruitment.
+ 
+10
+
+
+
+
+Financial Information about Segments and Geographic Areas
+ 
+We operate as a single reportable segment and report our financial results in four geographic regions: the United States; China; Europe, Middle East, and Africa (EMEA); and Rest of World (ROW). Refer to Note 18, Segment Reporting and Geographic Information, in the Notes to the Consolidated Financial Statements for financial data pertaining to our geographic operations. Refer to Item 1A, Risk Factors, for a description of risks relating to our geographic operations.
+Available Information
+ 
+Our corporate website address is www.veeco.com. All filings we make with the Securities and Exchange Commission (SEC), including our Annual Report on Form 10-K, our Quarterly Reports on Form 10-Q, our Current Reports on Form 8-K, our proxy statements and any amendments thereto filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, are available for free in the Investor Relations section of our website as soon as reasonably practicable after they are filed with or furnished to the SEC. Our SEC filings are available to be read or copied at the SECs Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549. Information about the operation of the Public Reference Room can be obtained by calling the SEC at 1-800-SEC-0330. Our filings can also be obtained for free on the SECs website at www.sec.gov. The reference to our website address does not constitute inclusion or incorporation by reference of the information contained on our website in this Form 10-K or other filings with the SEC, and the information contained on our website is not part of this document.

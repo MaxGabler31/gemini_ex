@@ -1,0 +1,435 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1.   Business
+ ﻿
+ Frontier Communications Corporation (Frontier) is a provider of communications services in the United States, with approximately 4.9 million customers, 3.9 million broadband subscribers and 22,700 employees, operating in 29 states. In recent years, Frontier has completed multiple acquisitions. On April 1, 2016, we acquired the wireline operations of Verizon Communications, Inc. in California, Texas and Florida for a purchase price of $10,540 million in cash and assumed debt. 
+ ﻿
+ Frontier’s Service Territories 
+ ﻿
+
+ How We Serve Our Customers
+ ﻿
+ We conduct business with both consumer and commercial customers.
+ ﻿
+ Consumer. We provide broadband, video, voice and other services and products to our consumer customers. We deliver these services generally over a combination of fiber and copper-based networks.
+ ﻿
+ Commercial (small, medium and large enterprise business (SME) as well as wholesale customers).    
+ ﻿
+ Commercial.  We provide a broad range of services to our SME customers, including broadband service, Ethernet service, traditional circuit-based services (TDM services) and voice services. We also offer advanced hardware and network solutions and services.   
+ ﻿
+
+o | Larger Enterprise: Fortune 1000, multi-location companies, large government entities, large educational institutions, and non-profits. 
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+o | Medium Business: Single or multi-location companies and mid-sized government entities, educational institutions and non-profits. 
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+o | Small Business: Mostly single-location businesses, the smaller of which have purchase patterns similar to consumer customers. 
+--+-------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+ 
+2
+
+
+ 
+ FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+
+
+o | Wholesale: Wholesale customers are often referred to as carriers or service providers and include national operators such as AT&T and Verizon; Local Exchange Companies that need to access locations within Frontier’s footprint to offer local services; and wireless carriers and integrated carriers that offer a variety of services across all of these categories. Wholesale customers buy both voice and data services to supplement their own network infrastructure. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+ Services and Products
+ ﻿
+ We offer a broad portfolio of communications services for consumer and commercial customers. These services are offered on either a standalone basis or in a bundled package, depending on each customer’s needs.  
+ ﻿
+ Data and Internet services. We offer a comprehensive range of broadband and networking services. The principal consumer service we provide is broadband internet service. Commercial services include a complete portfolio of Ethernet services, dedicated internet, software defined wide area network (SDWAN), multiprotocol label switching (MPLS), time division multiplexing (TDM) data transport services and optical transport services. These services are all supported by 24/7 technical support and an advanced network operations center. We also offer wireless broadband services (using unlicensed spectrum) in select markets utilizing networks that we own or operate.  
+ ﻿
+ Video services. We offer video services under FiOS® brand in portions of California, Texas, Florida, Indiana, Oregon and Washington, and the VantageTM brand in portions of Connecticut, North Carolina, South Carolina, Minnesota, Illinois, New York, and Ohio. We also offer satellite TV video service to our customers under an agency relationship with DISH® in all of our markets. 
+ ﻿
+ Voice services. We provide voice services, including data-based VoIP, long-distance and voice messaging services, to consumer and commercial customers in all of our markets. These services are billed monthly in advance. Long-distance service to and from points outside our operating properties are provided by interconnection with the facilities of interexchange carriers. Our long-distance services are billed in advance for unlimited use service, and billed in arrears for services on a per minute-of-use basis.
+ ﻿
+ We also offer packages of communications services. These packages permit customers to bundle their products and services, including voice service, video and Internet services, and other product offerings.
+ Access services. We offer a range of access services. Our switched access services allow other carriers to use our facilities to originate and terminate their local and long-distance voice traffic. These services are generally offered on a month-to-month basis and the service is billed primarily on a minutes-of-use basis. Switched access charges are based on access rates filed with the Federal Communications Commission (FCC) for interstate services and with the respective state regulatory agency for intrastate services. See “Regulatory Environment” below.
+ Advanced Hardware and Network Solutions.  We offer our SME customers various hardware and network solutions utilizing cloud functionality and Customer Premise Equipment (CPE). We offer third-party communications equipment tailored to their specific business needs by partnering with Mitel, Cisco, Ingram Micro, Airbus, Avaya, Hewlett Packard, Adtran and other equipment manufacturers. CPE is typically sold in conjunction with voice, data and Internet services, and may also be sold on a standalone basis.    ﻿
+ Frontier Operating Strategies
+ ﻿
+ Consumer Business
+ ﻿
+ Improve Customer Experience and Retention. We provide multiple service and product options to our consumer customers. Our strategy is to foster relationships and loyalty throughout the customer lifecycle in order to improve experiences, reduce churn and grow revenue. Our plan to retain customers includes providing easier access to account services and trouble-shooting options through online portals and user interfaces. We incorporate and utilize customer feedback to improve our product offerings with the goal of improving the overall customer experience for our subscribers. We focus and refine our marketing strategy for sales and retention to drive further improvement in the business.
+ ﻿
+ New Customer Acquisition. We focus on broadband as the core growth component of our service offerings, either bundled with our voice and/or video services, or on a standalone basis. We seek to attract and retain a greater number of customers and increase average revenue per customer (ARPC). We are committed to 
+
+ 
+3
+
+
+ 
+ FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+
+growing our customer base through providing higher broadband speeds and capacity that will enable us to reach new markets, target new customers, and grow the business while maximizing our full footprint.
+ ﻿
+ Improve Revenue Trends.  As we expand the range of services we offer customers, increase the capabilities of our networks, and increase the penetration of our services, we increase our revenue opportunity and are better positioned to increase the average amount of revenue we can receive from a customer.    ﻿
+ Commercial Business
+ ﻿
+ Improve Revenue Trends.  Our strategy is to achieve revenue growth in our Commercial business through the acquisition of new customers, increasing the penetration of services with existing customers, and improved retention of existing customers.
+ ﻿
+ Offer a Competitive Product Portfolio.  We offer both traditional services as well as an expanding range of advanced, packet-based services, such as Ethernet, SDWAN, Unified Communication as a Service (UCaaS) cloud-based connectivity for our large enterprise customers, and more cost-effective integrated voice and data services for our medium and small business customers.
+ ﻿
+ New Customer Acquisition. We have increased our sales force with an emphasis on adding new customers and increasing penetration of existing customers, particularly in areas where we have a robust fiber network.
+ ﻿
+ Improve Customer Experience and Retention. We plan to grow our revenues in the commercial sector through increased retention and deepening of existing customer relationships. The proper alignment of our sales force, service personnel, and resources will enable us to provide excellent service to our existing enterprise, medium and small business customers, while obtaining the greatest opportunities for revenue growth and expansion. 
+ ﻿
+ Company-Wide    ﻿
+ Invest in our Network through Capital Expenditures. Our investment focus is the enhancement of our existing network and the expansion of fiber-based infrastructure in our network. We continue to upgrade network hardware, expand transport capacity of our middle-mile and data backbone, and enhance our video capabilities. Similarly, we are focused on enhancing our premium Ethernet service offerings across our network for our commercial customers.
+ ﻿
+ Improve Productivity and Operational Efficiency. We continuously engage in productivity initiatives with a focus on simplifying our processes, eliminating redundancies and further reducing our cost structure while improving our customer service capabilities. We continue to migrate our network and systems to common operating platforms in order to increase efficiency and we have been migrating traffic to a common architecture to eliminate duplication.
+ ﻿
+ Network Architecture and Technology
+ ﻿
+ Our local exchange carrier networks consist of host central office and remote sites, primarily equipped with digital and Internet Protocol switches. The outside plant consists of transport and distribution delivery networks connecting our host central office with remote central offices and ultimately with our customers. We own fiber optic and copper cable, which have been deployed in our networks and are the primary transport technologies between our host and remote central offices and interconnection points with other incumbent carriers. 
+ ﻿
+ We have expanded and enhanced our fiber optic and copper transport systems to support increasing demand for high bandwidth transport services. We routinely enhance our network and upgrade with the latest Internet Protocol Transport and routing equipment, Reconfigurable Optical Add/Drop Multiplexers (ROADM) transport systems, Very High Bit-Rate Digital Subscriber Line (VDSL) broadband equipment, and VoIP switches. These systems support advanced services such as Ethernet, Dedicated Internet, Multiprotocol Label Switching (MPLS) transport, VoIP, and SDWAN. The network is designed with redundancy and auto-failover capability on our major circuits.
+ ﻿
+ We connect to households and business locations in our service territory using a combination of fiber optic and copper technologies. In some cases we provide direct fiber into a residence or a business premises. In other cases a location is served with a hybrid combination of fiber and copper. Residences in our service territory are served by fiber-to-the-home (FTTH) and by fiber-to-the-node (FTTN), meaning fiber carries the traffic to an intermediate location where the 
+
+ 
+4
+
+
+ 
+ FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+
+signals are converted to copper wire for the final delivery to the household.  We provide data, video, and voice services to customers over both of these architectures. Additionally, fixed wireless broadband (FWB) will play an important part of our future broadband strategy and could be deployed for some business Ethernet services. FWB is delivered by the use of an antenna on a Frontier base location and another antenna at the customer location. 
+ ﻿
+ Rapid and significant changes in technology are occurring in the communications industry.  Our success will depend, in part, on our ability to anticipate and adapt to technological changes. We believe that our next generation network architecture strategy will enable us to respond to these ongoing technological changes efficiently. In addition, we anticipate reducing costs through the sharing of best practices across operations, centralization or standardization of functions and processes, and deployment of technologies and systems that provide for greater efficiencies and profitability. We will continue to make strategic enhancements to our network, with a focus on higher return investments.
+ ﻿
+ Competitive Positioning
+ ﻿
+ Competition for consumer customers comes from cable operators, wireless carriers and online video providers, among others.  
+ ﻿
+
+- | Cable operators: In a majority of our markets, cable operators offer high speed Internet, video and voice services similar to ours, and compete with us aggressively on speed and price by marketing their offerings with significant promotional period pricing.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+- | Wireless carriers: Wireless operators primarily compete with us for broadband, video, and voice services in our markets by offering increasingly larger data packages to mobile customers. The percentage of homes with a landline telephone has been declining, a trend we expect will continue. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+- | Online video providers: Many consumers are opting for internet-delivered video services (Over the Top, or OTT) through online service providers rather than traditional, multi-channel video. In response, we have made investments in our network to deliver OTT video content to consumers who might not opt for traditional video services. The percentage of homes with a video product has been declining, a trend we expect will continue.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+ Many consumer customers prefer to bundle their voice, data, Internet and video services with a single provider. In areas where we do not directly offer a network-based video service, we offer satellite TV video service through DISH. This can positively impact acquisition of new customers and retention of existing customers, representing a critical factor for the attachment of video, broadband and voice products. As of December 31, 2017, 50% of our consumer customers subscribed to at least two service offerings, and 17% subscribed to at least three service offerings. 
+ ﻿
+ Competition for commercial customers comes from telecommunications providers, cable operators, Competitive Local Exchange Companies and other enterprises, some of which are substantially larger than us. As compared to our consumer customers, these customers often require more sophisticated and more data-centered solutions (e.g., IP PBX, E911 networks, Ethernet and SIP trunking).
+ ﻿
+ In order to remain competitive, we continue to evolve our product offerings to stay current with the changing needs of the market, to provide strong customer service and support, to invest in our network so we maintain adequate capacity and can deliver new capabilities as needed, and to package our offerings to make them attractive to customers. 
+
+
+ 
+5
+
+
+ 
+ FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+
+
+ ﻿
+ Regulatory Environment    ﻿
+ Some of our operations are subject to regulation by the FCC and various state regulatory agencies, often called public service or utility commissions. We expect federal and state lawmakers, the FCC and the state regulatory agencies to continue to revise the statutes and regulations governing communications services.
+ Regulation of our business 
+ We are subject to federal, state and local regulation and we have various regulatory authorizations for our regulated service offerings. At the federal level, the FCC generally exercises jurisdiction over information services, interstate or international telecommunications services and over facilities to the extent they are used to provide, originate or terminate interstate or international services. State regulatory commissions generally exercise jurisdiction over intrastate telecommunications services and the facilities used to provide, originate or terminate those services. Most of our local exchange companies operate as incumbent carriers in the states in which they operate and are certified in those states to provide local telecommunications services. Certain federal and state agencies, including attorneys general, monitor and exercise oversight related to consumer protection issues. In addition, local governments often regulate the public rights-of-way necessary to install and operate networks and may require service providers to obtain licenses or franchises regulating their use of public rights-of-way. Municipalities and other local government agencies also may regulate other limited aspects of our business, by requiring us to obtain cable franchises and construction permits and to abide by applicable building codes.
+ Some states’ regulatory agencies have substantial oversight over incumbent telephone companies, and their interconnection with competitive providers and provision of non-discriminatory network access to certain network elements to them. Under the Federal Telecommunications Act of 1996, state regulatory commissions have jurisdiction to arbitrate and review interconnection disputes and agreements between incumbent telephone companies and competitive local exchange carriers, in accordance with rules set by the FCC. The FCC and some state regulatory commissions also impose fees on providers of telecommunications services to support state universal service programs. Many of the states in which we operate require prior approvals or notifications for certain acquisitions and transfers of assets, customers, or ownership of regulated entities.
+ ﻿
+ Additionally, in some states we are subject to operating restrictions and minimum service quality standards. Failure to meet such restrictions may result in penalties. We also are required to report certain financial information. At the federal level and in a number of the states in which we operate, we are subject to price cap or incentive regulation plans under which prices for regulated services are capped. Some of these plans have limited terms and, as they expire, we may need to renegotiate with various states. These negotiations could impact rates, service quality and/or infrastructure requirements, which could also impact our earnings and capital expenditures. In other states in which we operate, we are subject to rate of return regulation that limits levels of earnings and returns on investments. Approximately 19% of our total access lines at December 31, 2017 are in state jurisdictions under the rate of return regulatory model. We continue to advocate for no or reduced regulation with various regulatory agencies in those states. In some of the states we operate in we have already been successful in reducing or eliminating price regulation on end-user services.
+ ﻿
+ Federal Regulatory Environment
+ ﻿
+ Frontier, along with all telecommunications providers, is subject to FCC rules governing privacy of specified customer information. Among other things, these rules obligate carriers to implement procedures to: protect specified customer information from inappropriate disclosure; obtain customer permission to use specified information in marketing; authenticate customers before disclosing account information; and annually certify compliance with the FCC’s rules. Although most of these regulations are generally consistent with our business plans, they may restrict our flexibility in operating our business.
+ ﻿
+ Some regulations are, or could in the future be, the subject of judicial proceedings, legislative hearings and administrative proposals or challenges that could change the manner in which the entire industry operates. Neither the outcome of any of these developments, nor their potential impact on us, can be predicted at this time. Regulation can change rapidly in the communications industry, and such changes may have an adverse effect on us.
+ ﻿
+ The current status of material regulatory initiatives is as follows:
+ ﻿
+
+
+ 
+6
+
+
+ 
+ FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+
+Federal High-Cost Subsidies: The FCC has adopted rules changing the eligibility requirements for federal subsidies offered to wireline carriers providing service to high-cost, low-density markets, as well as the amounts of such subsidies, as follows:
+ ﻿
+ Connect America Fund (CAF): On November 18, 2011, the FCC adopted the Universal Service Fund (USF)/Intercarrier Compensation (ICC) Report and Order (the 2011 Order), which changed how federal subsidies are calculated and disbursed, and began the transition of the high-cost component of the Federal USF, which supported voice services in high-cost areas, to the CAF, which supports broadband deployment in high-cost areas. Frontier received $133 million from 2012 through 2014 across two rounds of CAF Phase I funding to make broadband available to approximately 194,600 previously unserved or underserved locations. We completed deployment of broadband service to the first round of CAF Phase I households in 2015 and to the second round of CAF Phase I locations in March 2017 as required by the FCC rules.
+ ﻿
+ On April 29, 2015, the FCC released offers of support to price cap carriers under the CAF Phase II program. The intent of these offers is to provide long-term support for carriers for establishing and providing broadband service with at least 10 Mbps downstream/1 Mbps upstream speeds in high cost areas unserved by a competitor. Frontier accepted the CAF Phase II offer in 29 states, including our CTF properties, which provides for $332 million in annual support through 2020, and a commitment to make broadband available to approximately 774,000 households. CAF Phase II support is a successor to the approximately $156 million in annual USF frozen high cost support that Frontier had been receiving prior to the CTF acquisition, and the $42 million in annual transitional USF frozen high cost support that Verizon had been receiving in California and Texas. In addition to the annual support levels, these amounts also include frozen support phasedown amounts in states where the annual CAF II funding is less than the prior annual frozen high cost support funding. The frozen support phasedown support was $17 million in 2017 and is expected to be $9 million in 2018.
+ ﻿
+ In 2017, the FCC adopted a competitive bidding process to distribute approximately $200 million per year in CAF Phase II funding in those high-cost areas where price cap carriers declined the FCC’s offer of support, possibly presenting a new support and deployment opportunity. The FCC released the eligible areas in December 2017 but the competitive bidding process has not yet been fully finalized. Therefore, Frontier is unable to determine whether it will participate in any competitive bid process at this time.
+ ﻿
+ Intercarrier Compensation: In the 2011 Order, the FCC also reformed Intercarrier Compensation, which is the payment framework that governs how carriers compensate each other for the exchange of interstate switched traffic, and began a multi-year transition to the new rates. The 2011 Order provided for the gradual elimination of effectively all terminating traffic charges by July 2017. Frontier’s switched access revenue declined sequentially in the third quarter of 2017, reflecting the rate reductions mandated by the 2011 Order, and we anticipate that we have experienced nearly all of the rate decline related to the 2011 Order. Frontier has been able to recover a significant portion of those lost revenues through end user rates and other replacement support mechanisms, a trend we expect will continue. There are no longer any active Intercarrier Compensation-related challenges to the 2011 Order. However, the 2011 Order did not resolve all questions on originating access rates. The FCC continues to consider the possibility of a transition of originating access rates, although the impact on Frontier, if any, is unknown at this time. Our total revenue for Intercarrier Compensation was $7 million for the year ended December 31, 2017.    ﻿
+ Special Access: In April 2016, the FCC released a Notice of Proposed Rulemaking on special access or “business data” services. It sought comment on proposed changes to the way the FCC regulates traditional special access services based on market competition, and on a proposal to adopt pricing rules for Ethernet services in markets that are found to be “noncompetitive.” In August 2017, the FCC’s decision in this proceeding, which deregulates the market for end user special access services where the market is determined to be competitive and deregulates the transport market nationwide, became effective. This decision is generally favorable in that it gives Frontier more flexibility to operate its business in a deregulated fashion like its competitors in the market. Frontier is in the process of implementing various aspects of this decision and otherwise adjusting its rates on select business data service elements in response to market conditions.  Some aspects of the decision are under appeal by stakeholders, including Frontier. Whether the appeals will be successful on any grounds is unknown.
+ ﻿
+ Intrastate Services: Some state regulatory commissions regulate some of the rates ILECs charge for intrastate services, including originating switched access rates for intrastate access services paid by providers of intrastate long-distance services. Some states also have their own open proceedings to address reform to originating intrastate access charges and other intercarrier compensation and state universal service funds. Although the FCC has pre-empted state jurisdiction on most access charges, some states could consider moving forward with their proceedings. 
+
+ 
+7
+
+
+ 
+ FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+
+We cannot predict when or how these matters will be decided or the effect on our subsidy or switched access revenues. Our total revenue for Intrastate switched access services was $53 million for the year ended December 31, 2017, spread across all the states we serve.
+ ﻿
+
+Current and Potential Internet Regulatory Obligations and Privacy: In December 2017 the FCC voted to overturn the FCC’s 2015 decision in which it had asserted jurisdiction over broadband service, declared broadband a “Title II” telecommunications service, and imposed rules to “preserve a Free and Open Internet” (i.e., net neutrality). Specifically, the FCC voted to eliminate explicit bans on blocking, throttling and paid prioritization in favor of requiring Internet service providers (ISPs) to be fully transparent about their practices. Both the FCC and Federal Trade Commission (FTC) will now have a role in ensuring that the ISPs are managing their network in the manner in which they publicly state they are. 
+ ﻿
+ The December 2017 decision also puts ISPs on an equal footing with other online web companies with respect to privacy rules, with the FTC being the lead agency on privacy enforcement.  This decision follows Congress’s March 2017 action under the Congressional Review Act to vacate the 2015 rules that created a separate and more onerous privacy regime for ISPs than other online web companies.  Frontier’s Internet service will now be subject to the same privacy rules as online web companies, including disclosure of its practices to consumers, which is Frontier’s current practice.  
+ ﻿
+ The December 2017 ruling is not yet effective and will likely be appealed in court. Meanwhile, the 2015 ruling is still under appeal, though it now appears moot. Frontier continues to comply with the existing regulatory requirements, and it is unclear whether the pending or future appeals will have any impact on the regulatory structure.
+ ﻿
+ Video programming
+ ﻿
+ Federal, state and local governments extensively regulate the video services industry. Our FiOS and Vantage video services are subject to, among other things: subscriber privacy regulations; requirements that we carry a local broadcast station or obtain consent to carry a local or distant broadcast station; rules for franchise renewals and transfers; the manner in which program packages are marketed to subscribers; and program access requirements.
+ ﻿
+ We provide video programming in some of our markets in California, Connecticut, Florida, Illinois, Indiana, Minnesota, New York, North Carolina, Ohio, Oregon, South Carolina, Texas and Washington pursuant to franchises, permits and similar authorizations issued by state and local franchising authorities. Most franchises are subject to termination proceedings in the event of a material breach. In addition, most franchises require payment of a franchise fee as a requirement to the granting of authority.
+ ﻿
+ Many franchises establish comprehensive facilities and service requirements, as well as specific customer service standards and monetary penalties for non-compliance. In many cases, franchises are terminable if the franchisee fails to comply with material provisions set forth in the franchise agreement governing system operations. We believe that we are in compliance and meeting all material standards and requirements. Franchises are generally granted for fixed terms of at least ten years and must be periodically renewed. Local franchising authorities may resist granting a renewal if either past performance or the prospective operating proposal is considered inadequate.
+ ﻿
+ Environmental regulation
+ ﻿
+ The local exchange carrier subsidiaries we operate are subject to federal, state and local laws and regulations governing the use, storage, disposal of, and exposure to hazardous materials, the release of pollutants into the environment and the remediation of contamination. As an owner and former owner of property, we are subject to environmental laws that could impose liability for the entire cost of cleanup at contaminated sites, including sites formerly owned by us, regardless of fault or the lawfulness of the activity that resulted in contamination. We believe that our operations are in substantial compliance with applicable environmental laws and regulations.    ﻿
+ Segment Information
+ ﻿
+ We currently operate in one reportable segment.
+ ﻿
+ Financial Information about Foreign and Domestic Operations and Export Sales
+ ﻿
+ We have no foreign operations.
+ ﻿
+
+
+ 
+8
+
+
+ 
+ FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+
+General
+ ﻿
+ The dollar amount of our order backlog is not a significant consideration in our business and is not a meaningful metric for us. We have no material contracts or subcontracts that may be subject to renegotiation of profits or termination at the election of the federal government.
+ ﻿
+ Intellectual Property
+ ﻿
+ We believe that we have the trademarks, trade names and intellectual property licenses that are necessary for the operation of our business.
+ ﻿
+ We own or have the rights to use various trademarks, service marks and trade names referred to in this report. Solely for convenience, we refer to trademarks, service marks and trade names in this prospectus without the ™, SM and ® symbols. Such references are not intended to indicate, in any way, that we will not assert, to the fullest extent permitted by law, our rights to our trademarks, service marks and trade names. Other trademarks, trade names or service marks appearing in this report are the property of their respective owners.
+ ﻿
+ Employees
+ ﻿
+ As of December 31, 2017, we had approximately 22,700 employees, as compared to approximately 28,300 employees as of December 31, 2016. During 2017, reduction in workforce activities resulted in the severance of approximately 1,300 employees. Approximately 16,000 of our total employees are represented by unions as of December 31, 2017. The number of employees covered by a collective bargaining agreement that expired in 2017, but have been extended and are still effective for 2018, is approximately 1,400. The number of employees covered by collective bargaining agreements that expire in 2018 is approximately 4,300. We consider our relations with our employees to be good.
+ ﻿
+ Available Information
+ ﻿
+ We are subject to the informational requirements of the Securities Exchange Act of 1934 (the Exchange Act). Accordingly, we file periodic reports, proxy statements and other information with the Securities and Exchange Commission (SEC). These reports, proxy statements and other information may be obtained by visiting the Public Reference Room of the SEC at 100 F Street, NE, Washington, D.C. 20549 or by calling the SEC at 1-800-SEC-0330. In addition, the SEC maintains an Internet site (www.sec.gov) that contains reports, proxy and information statements and other information regarding Frontier and other issuers that file electronically.
+ ﻿
+ We make available, free of charge on our website, our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to these reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, as soon as practicable after we electronically file these documents with, or furnish them to, the SEC. These documents may be accessed through our website at www.frontier.com under “Investor Relations.” The information posted or linked on our website is not part of, or incorporated by reference into, this report. We also make our Annual Report available in printed form upon request at no charge.
+ ﻿
+ We also make available on our website, as noted above, or in printed form upon request, free of charge, our Corporate Governance Guidelines, Code of Business Conduct and Ethics, Specific Code of Business Conduct and Ethics Provisions for Certain Officers, and the charters for the Audit, Compensation, and Nominating and Corporate Governance committees of the Board of Directors. Stockholders may request printed copies of these materials by writing to: 401 Merritt 7, Norwalk, Connecticut 06851 Attention: Corporate Secretary.
+ ﻿
+
+
+ 
+9
+
+
+ 
+ FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+
+﻿
+ Forward-Looking Statements    ﻿
+ This Annual Report on Form 10-K contains "forward-looking statements," related to future events. Forward-looking statements address our expected future business and financial performance and financial condition, and contain words such as "expect," "anticipate," "intend," "plan," "believe," "seek," "see," "may," “will,” "would," or "target." Forward-looking statements by their nature address matters that are, to different degrees, uncertain. For us, particular uncertainties that could cause our actual results to be materially different than those expressed in our forward-looking statements include:
+ ﻿
+
+· | competition from cable, wireless and wireline carriers, satellite, and OTT companies, and the risk that we will not respond on a timely or profitable basis; 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | our ability to successfully adjust to changes in the communications industry, including the effects of technological changes and competition on our capital expenditures, products and service offerings;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | our ability to implement organizational structure changes successfully;
+--+------------------------------------------------------------------------
+
+  ﻿
+
+· | risks related to the operation of our properties, including our ability to retain or obtain customers in our Legacy markets and those acquired from Verizon;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | our ability to realize anticipated cost savings and our ability to meet commitments made in connection with the Verizon acquisition;
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | reductions in revenue from our voice customers that we cannot offset with increases in revenue from broadband and video subscribers and sales of other products and services;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | our ability to maintain relationships with customers, employees or suppliers;
+--+------------------------------------------------------------------------------
+
+  ﻿
+
+· | the effects of governmental legislation and regulation on our business, such as the repeal of net neutrality, including costs, disruptions, possible limitations on operating flexibility and changes to the competitive landscape resulting from such legislation or regulation;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | the impact of regulatory, investigative and legal proceedings and legal compliance risks;
+--+------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | government infrastructure projects (such as highway construction) that impact our capital expenditures;
+--+--------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | continued reductions in switched access revenues as a result of regulation, competition or technology substitutions;
+--+---------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | the effects of changes in the availability of federal and state universal service funding or other subsidies to us and our competitors;
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | our ability to meet our remaining CAF II funding obligations on a timely basis, it could be subject to penalties or obligations to return certain CAF II funds;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | our ability to effectively manage service quality in our territories and meet mandated service quality metrics;
+--+----------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | our ability to successfully introduce new product offerings;
+--+-------------------------------------------------------------
+
+  ﻿
+
+· | the effects of changes in accounting policies or practices, including potential future impairment charges with respect to our intangible assets;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | our ability to effectively manage our operations, operating expenses, capital expenditures, debt service requirements and cash paid for income taxes and liquidity;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+
+ 
+10
+
+
+ 
+ FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+
+﻿
+
+· | the effects of changes in both general and local economic conditions in the markets that we serve;
+--+---------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | the effects of increased medical expenses and pension and postemployment expenses;
+--+-----------------------------------------------------------------------------------
+
+  ﻿
+
+· | the effects of changes in income tax rates, tax laws, regulations or rulings, or federal or state tax assessments, including the risk that such changes may benefit our competitors more than us;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | our ability to successfully renegotiate union contracts;
+--+---------------------------------------------------------
+
+  ﻿
+
+· | changes in pension plan assumptions, interest rates, discount rates, regulatory rules and/or the value of our pension plan assets, which could require us to make increased contributions to the pension plan in 2018 and beyond; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | adverse changes in the credit markets;
+--+---------------------------------------
+
+  ﻿
+
+· | adverse changes in the ratings given to our debt securities by nationally accredited ratings organizations;
+--+------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | the availability and cost of financing in the credit markets;
+--+--------------------------------------------------------------
+
+  ﻿
+
+· | covenants in our indentures and credit agreements that may limit our operational and financial flexibility as well as our ability to access the capital markets in the future;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | the effects of state regulatory cash management practices that could limit our ability to transfer cash among our subsidiaries or dividend funds up to the parent company;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | the effects of severe weather events or other natural or man-made disasters, which has, and may in the future, increase our operating and capital expenses or adversely impact customer revenue; and
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | the impact of potential information technology or data security breaches or other disruptions.
+--+-----------------------------------------------------------------------------------------------
+
+  ﻿
+ Any of the foregoing events, or other events, could cause our results to vary from management’s forward-looking statements included in this report. You should consider these important factors, as well as the risks set forth under Item 1A. “Risk Factors,” in evaluating any statement in this report or otherwise made by us or on our behalf. We have no obligation to update or revise these forward-looking statements and do not undertake to do so.
+ ﻿
+ Investors should also be aware that while we do, at various times, communicate with securities analysts, it is against our policy to disclose to them selectively any material non-public information or other confidential information. Accordingly, investors should not assume that we agree with any statement or report issued by an analyst, irrespective of the content of the statement or report. To the extent that reports issued by securities analysts contain any projections, forecasts or opinions, such reports are not our responsibility.
+
+
+ 
+11
+
+
+ 
+ FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+
+
+ ﻿
+ ﻿
+
