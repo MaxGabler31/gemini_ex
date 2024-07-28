@@ -1,0 +1,160 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ Item 1. Business
+Overview
+PROS is a cloud software company powering the shift to modern commerce by helping companies create personalized and frictionless buying experiences for their customers. Fueled by artificial intelligence, machine learning and proven science, our solutions make it possible for companies to price, configure and sell their products and services in an omnichannel environment with speed, precision and consistency. Our customers benefit from decades of data science expertise infused into our purpose-built industry solutions. We also provide professional services to implement our software solutions. 
+We were incorporated in Texas in 1985. We reincorporated as a Delaware corporation in 1998. In 2002, we reorganized as a holding company in Delaware. Our principal executive offices are located at 3100 Main Street, Suite 900, Houston, Texas 77002. We report as one operating segment with our Chief Executive Officer acting as our chief operating decision maker. Our telephone number is (713) 335-5151. Our website is www.pros.com. Our website and the information contained therein or connected thereto are not intended to be incorporated into this Annual Report on Form 10-K.
+Our Industry
+Data-driven decision making is an important driver of business performance. Intense global competition, market volatility and rising costs put pressure on companies to simultaneously drive top-line and bottom-line results. In response to these pressures, we believe companies are increasingly focused on modern commerce software solutions that leverage prescriptive analytics to accelerate the process of converting prospects to customers using data science-based decision-making technology. We also believe that market forces, including increasingly complex business models, uncertain demand for products and services, volatile costs, and exponentially increasing enterprise and market data, will accelerate the demand for software solutions that align critical sales, pricing and revenue management processes to help increase visibility, business agility and customer engagement. We believe the market for solutions that address the needs for companies to improve top-line and bottom-line financial results simultaneously is a large and growing opportunity that spans most major industries.
+Our Solutions
+PROS modern commerce solutions offer what we believe is a holistic approach to improving revenue and profit 
+2
+
+performance by helping companies create personalized and frictionless buying experiences for their customers. Our selling and pricing solutions leverage artificial intelligence designed to accelerate the process of converting prospects to customers, using data science-based decision-making technology. Our solutions are designed to enable companies to move pricing and revenue management strategies to leveraging scaled data-driven pricing strategies that are formulated to help increase profit margins by driving profit expansion and protecting against profit erosion. These data-driven insights help identify which customers and prospects of a company are most likely to buy, and what offers and price points are most likely to result in a closed deal. These insights leverage data science based on a company's historic customer transactions, market and other data to uncover customer buying patterns and preferences. This data science embedded in our solutions provides our customers with predictive and prescriptive guidance on key business decisions that drive growth and profitability, including product mix optimization, price forecasting, price optimization, product configuration recommendations, cross-sell and upsell recommendations, attrition detection, and willingness-to-pay. Our solutions also help to increase visibility, business agility and customer engagement by aligning critical sales, pricing and revenue management processes. As a result, our solutions make it easier for companies to configure the correct product(s), set the right price and get a quote into the hands of a customer faster. 
+We offer our solutions as Software-as-a-Service ("SaaS"). Our subscription services enable our customers to implement, access and use our software on the PROS cloud via an internet connection. We believe our cloud solutions allow our customers to reduce their initial investment in third-party software, hardware, and administration requirements over traditional enterprise software, and also allow smaller customers to cost-effectively leverage our enterprise class infrastructure, infrastructure management, security and other best practices. In addition, as we manage all updates and upgrades of software deployed on the PROS cloud on behalf of our customers, we are able to provide our customers with our latest product innovations in a more uniform way. Over time, we expect that this model will require us to support fewer old versions of our software solutions, which would allow our product development team to focus more effort on creating innovative enhancements to our existing products and developing new products. We offer both single-tenant and multi-tenant solutions under our SaaS model generally via three-year subscriptions with pricing generally based on the number of users, data volume and revenue managed by our software. 
+Before 2015, we primarily offered perpetual license solutions to our customers. For perpetual licenses, our customers received the perpetual right to use our software. Our license agreements provided customers with the right to use licensed solutions within a specific license scope, including but not limited to revenue, geography, users, and business unit. The vast majority of our software license customers also purchased software maintenance and support, generally for an initial period of two years, then annual renewals thereafter. Software maintenance and support include unspecified software updates and enhancements on a when-and-if-available basis, maintenance releases, and patches released during the term of the support period.
+Our high-performance software architecture supports real-time, high-volume transaction processing and enables us to handle the processing and database requirements of sophisticated enterprise customers, including those who need to respond to their customers with sub-second electronic response requirements. We provide standardized configurations of our software based on the industries we serve and offer professional services to configure these solutions to meet the specific needs of each customer. Our software solutions operate in large, complex and demanding information technology environments.
+PROS modern commerce software solutions enable companies across the many industries that we service to improve top-line and bottom-line financial results simultaneously by aligning sales, pricing, product, demand and availability. Our cloud solutions, which enable our customers to provide a consistent buyer experience across channels, include SellingPRO, PricingPRO and RevenuePRO.
+3
+
+Solutions for Selling 
+Our SellingPRO solutions are comprised of a broad set of configuration, quoting and eCommerce capabilities with data science-driven, actionable insights to deliver sales proposals through prescriptive selling actions, pricing and offer guidance designed to convert more of the right deals at the right price, and with greater speed, accuracy, scale and consistency across all of the customer's sales channels. SellingPRO includes the following editions:
+
+• | SellingPRO Deal Desk edition provides deal analytics to a customer's sales team to quickly analyze a large volume of complex opportunities and instantly create proposals with prescriptive products, services, terms and pricing. SellingPRO Deal Desk edition also simplifies deal approval processes and accelerates responsiveness by automating quote generation and approval workflows.
+
+
+• | SellingPRO Smart CPQ edition integrates PROS data science-driven price guidance with a customer's existing CRM solution to enable sales teams to quickly create accurate and highly-customized offers for each customer.
+
+
+• | SellingPRO eCommerce edition provides offer and pricing guidance through a personalized and consistent customer experience across sales channels including but not limited to customer partner internet portals and eCommerce websites. SellingPRO eCommerce edition also enables companies to efficiently reach new sales markets and add new sales channels from a single product and configuration repository.
+
+
+• | SellingPRO Opportunity Detection edition applies artificial intelligence and machine learning to analyze transaction activity, uncover buying behavior trends and identify new opportunities. Using techniques such as outlier detection, churn forecasting and clustering algorithms, it finds inconsistent, declining and gap purchasing behaviors at the product level for each customer. These sales opportunity recommendations are then presented to each sales rep in an easy-to-use interface in their familiar CRM environment for instant evaluation and action.
+
+Solutions for Pricing 
+Our PricingPRO solutions deliver insight into pricing practices, enhances control over pricing execution and provides prescriptive pricing recommendations to the sales team. PricingPRO includes the following editions:
+
+• | PricingPRO Control edition helps companies centralize all pricing strategies and execution to create a single source of pricing information, manage and enforce pricing policies, quickly change pricing strategies and eliminate pricing errors.
+
+
+• | PricingPRO Guidance edition provides data science-driven, market-based pricing and offer guidance to help sales teams confidently negotiate pricing on each deal.
+
+4
+
+Solutions for Revenue Management
+Our RevenuePRO solutions are a set of integrated software solutions that enable enterprises in the travel industry, including the airline, hotel and cruise industries, to drive revenue and profit-maximizing business strategies through the application of advanced forecasting, optimization technologies and decision-support capabilities. These big data solutions provide businesses the tools and processes to help maximize revenue and profitability; quickly adapt to changing market conditions and business objectives; differentiate customers by market and sales channel; effectively conduct real-time negotiations; monitor pricing and revenue management performance; and increase customer loyalty by providing the right products and services to the right customer at the right time. Our RevenuePRO suite of products include the following editions:
+
+• | RevenuePRO Passenger Revenue Management edition manages passenger demand with either leg- or segment-based revenue management.
+
+
+• | RevenuePRO Group Sales Optimizer edition manages the airline group booking process by determining optimal group availability and pricing.
+
+
+• | RevenuePRO Real-Time Dynamic Pricing™ edition determines optimal availability based on real-time evaluations and provides real-time availability and pricing to distribution channels, and keeps rules, fares and other data synchronized and deployable across multiple data centers.
+
+
+• | RevenuePRO Shopping edition is an airfare pricing and shopping engine that delivers fast, accurate and comprehensive flight search results.
+
+
+• | RevenuePRO Merchandising edition helps airlines to increase conversion and revenues per passenger by selling extra baggage, legroom and other services dynamically. Airlines can upsell at any time in the customer journey using rich content for a superior shopping experience across direct distribution channels.
+
+Technology
+Software Architecture. Our software architecture is based on open standards such as Java, C/C++, HTML5, JavaScript, XML, and HTTP. We have created a component-based design in a service-oriented architecture to develop a flexible, layered framework. This framework supports parallel and independent evolution and innovation in technologies and product features.
+Micro-services Architecture. A comprehensive web services interface is at the heart of our architecture. This interface enables extension onto other platforms and the creation of rich integrated solutions. It is also the foundation of our initiative to bring our solutions to the enterprise software and devices that many businesses are already using.
+Embedded Science. Our robust science-based capabilities such as forecasting, optimization, segmentation, and price guidance allow us to leverage the deep expertise and research of our science and research group in our solutions. These capabilities are industry-independent and are validated using our proprietary verification and testing processes.
+Configuration vs. Custom Coding. Our solutions can be configured to meet each customer's business needs through configuration rather than custom code.  The configuration capabilities define both a business layer (including definition of user workflows, executive dashboards, analytics views, calculations, approval processes and alerts), as well as a data layer that permits configuration of data structures, including hierarchical dimensions, pricing levels and measures. Much of the configuration can be performed by a business user without information technology personnel involvement. We maintain configurations allowing our customers to use the latest version of our solutions.
+Scalability.  We leverage modern big data technologies such as MapReduce and Hadoop®, NoSQL databases such as Cassandra and MongoDB®, and in-memory and column-oriented data stores to scale to large data volumes and high user request rates. The scalability of our software solutions has been tested and validated in conjunction with third-party vendors. 
+Data Integration. The data needed to execute and optimize sales, quoting, pricing, rebate and revenue management functionality typically resides in multiple sources, such as a company's enterprise resource planning ("ERP"), supply chain management ("SCM"), customer relationship management ("CRM"), reservations and inventory systems, and/or industry-specific transaction systems.  In addition, productivity tools such as spreadsheets and external market data sources are common. Our data integration capabilities utilize web services and file-based data interfacing to bring data from disparate sources together into a single cohesive database, both in real time and through scheduled batch tasks. We also provide certified content for integration with SAP as well as integration development services using industry standard tools.
+5
+
+User Interface. Our technology provides a rich, browser-based interface that supports both local and remote users. This interface supports a wide variety of interactive charts and other data views, and provides a comprehensive data security model based on user role and scope of responsibility. We also offer capabilities for multiple mobile devices, tablets, CRM systems, and client applications.
+Cloud Infrastructure. Our SaaS solutions are fully architected, scaled and managed by PROS to meet enterprise-class data demands. We currently deliver our solutions from enterprise cloud computing platform providers, including Microsoft Azure and IBM Softlayer, as well as from secure co-location data centers operated by third parties. Our infrastructure is designed to achieve high levels of security, scalability, performance and availability. We provide a highly secure computing environment as well as high application availability. 
+Subscription Services
+Our subscription services generally provide customers access to our software within a cloud-based IT environment that we manage and offer to customers on a subscription basis and allow our customers to benefit from our latest cloud solutions, reduce infrastructure, installation, and ongoing administration requirements. We historically also offered cloud-based services to allow existing customers who previously purchased licenses to our software to have access to that software within a cloud-based IT environment that we manage. This allows those customers to reduce infrastructure and ongoing administration requirements as an alternative to their on-premise deployment of our software. We generally offer these services via 24 to 60 month contracts with pricing based on the data volumes, number of users and service levels requested. 
+Sales and Marketing
+We sell and market our software solutions primarily through our direct global sales force and indirectly through resellers and systems integrators. Our sales force is organized by our target markets of the manufacturing, distribution, and services industries, including automotive and industrial, business-to-business ("B2B") services, cargo, chemicals and energy, consumer goods, insurance, food and beverage, healthcare, high tech, and travel. Our sales force is responsible for the worldwide sale of our solutions to new and existing customers, and works in concert with our solutions personnel for selling and providing solution demonstrations to new customers.
+Our marketing activities consist of a variety of programs designed to generate sales leads and build awareness of our solutions. We host conferences for sales, pricing, and revenue management professionals, host informational web seminars and participate in and sponsor other industry and trade conferences and organizations.
+Professional Services
+We provide software-related professional services, including implementation and configuration services, consulting and training.
+Implementation and Configuration
+Our software solution implementations have a standardized and tested implementation process developed through years of experience implementing our software solutions in global enterprises across multiple industries. Our professional services team works closely with our customers to develop an integrated project plan to help them accelerate time to value. Pursuant to these plans, we provide configuration services related to our solutions. We also assist customers in loading and validating data and supporting organizational activities to assist our customers’ transition from awareness of their pricing challenges to adoption of pricing excellence best practices. In addition to our own internal professional services team, we also work with a team of globally diverse partners who have been certified to implement our software.
+Strategic Services
+Our strategic services include discovery and insight consulting to analyze a customer’s current pricing processes and data, identifying and prioritizing specific high-value pricing opportunities, and recommending pricing best practices and strategic pricing services. We also offer change management, pricing process redesign, pricing organizational design, opportunity assessment and performance management consulting. These strategic services enhance our partnerships with our customers and help them achieve their specific pricing goals.
+6
+
+Training
+
+We offer training to both our customers and partners to increase the knowledge and skills to deploy and use the full functionality of our software solutions. We offer an array of live and virtual classroom training, as well as tailored, private on-site classroom training. Our courses include training on all aspects of our software solutions, from introductory on-demand mini-courses to multi-day hands-on deep technical classroom sessions.
+Maintenance and Support
+We offer ongoing maintenance and support services for our software solutions using a global model to support our customers across major geographies. Maintenance enrollment entitles a customer to solicit support through a web-based interface which allows the customer to submit and track issues, access our online knowledge base and receive unspecified upgrades, maintenance releases and bug fixes during the term of the support period on a when-and-if-available basis. In addition, our customer support personnel responds to customer issues using an escalation process that prioritizes reported issues based on a defined set of severity levels, as well as assists customers in deploying our standard releases for each software solution by providing release web seminars and documentation. Maintenance fees are an important source of recurring revenue, and we invest significant resources in providing these services. Revenue from maintenance and support services comprised 41%, 45%, and 38% of our total revenue in 2017, 2016 and 2015, respectively. We expect our maintenance revenue will decrease over time as a result of existing customers migrating from our on-premise solutions to our cloud solutions and customers purchasing fewer licenses to our software as a result of our cloud strategy.
+Customers
+We sell our software solutions to customers across many industries, including manufacturing, distribution, and services industries, including automotive and industrial, B2B services, cargo, chemicals and energy, consumer goods, insurance, food and beverage, healthcare, high tech, and travel. Our customers are generally large global enterprises, although we also have customers that are much smaller in scope of operations. In each of 2017, 2016 and 2015, we had no single customer that accounted for 10% or more of revenue.
+International Operations
+We are a global company that conducts sales, sales support, professional services, product development and support, and marketing around the world. Our headquarters is located in Houston, Texas, and we also have additional field operations through our operating subsidiaries in Australia, Bulgaria, Canada, France, Germany, Ireland, United Arab Emirates, United Kingdom and the United States. We conduct development activities predominantly in Bulgaria, France and the U.S., and also utilize third-party contractors in Bolivia, Colombia and India. We plan to continue to expand our operations in international locations to meet the strategic objectives of our business.
+Approximately 63%, 63%, and 62% of our total revenue came from customers outside the U.S. for the years ended December 31, 2017, 2016 and 2015, respectively. Our business, financial condition and results of operations could be adversely impacted by factors, including currency fluctuations or regulatory, political, social and economic developments or instability in the foreign jurisdictions in which we operate. For additional financial information about geographic areas, see Note 15 of the Notes to the Consolidated Financial Statements.
+Seasonality
+Historically, we have experienced a higher volume of transactions in the quarter ended December 31, which is our fourth fiscal quarter, and to a lesser extent, during other fiscal quarters. However, our transition to cloud strategy has moderated, and may continue to moderate, our historical seasonality trends.
+Competition
+The markets for our products and services are competitive, fragmented and rapidly evolving. For example, we have seen consolidation in the quoting software market with large vendors acquiring smaller quoting companies as they attempt to provide end-to-end solutions to drive sales and profit. Today, we are increasingly competing in a sales ecosystem with competitors that all aim to drive effectiveness and efficiency in selling, although we believe no single company has an offering that matches the integrated capabilities of our solutions. We face collective competition from a number of larger and smaller companies. For example, Vendavo and Zilliant compete against the pricing management features of our revenue and profit realization solutions. Others, such as Apptus, Oracle, and Salesforce.com compete against the quoting features of our revenue and profit realization 
+7
+
+solutions. Yet others, such as Sabre Airline Solutions, Amadeus and AirRM, compete against a portion of our revenue management solutions in the airline industry. Several large enterprise application providers, such as JDA Software and SAP, have developed offerings that include limited pricing and revenue management functionality. Our solutions also compete with custom solutions developed internally by businesses, which require some combination of manual processes, external consultants, spreadsheets and internally-developed software tools.
+The number of companies that we compete with has increased in recent years as we expanded into adjacent technologies. We believe our customers consider the following factors when evaluating our solutions versus competitive solutions: 
+
+• | customer base;
+
+
+• | industry domain expertise;
+
+
+• | breadth and depth of product and service offerings;
+
+
+• | ability to offer integrated high-value solutions;
+
+
+• | domain management best practices expertise and delivery;
+
+
+• | ability for users to configure the solution to their needs;
+
+
+• | depth of expertise in data and pricing science;
+
+
+• | real-time solutions;
+
+
+• | return on investment, total cost of ownership, and time-to-value;
+
+
+• | product architecture, functionality, performance, reliability and scalability;
+
+
+• | services and customer support quality;
+
+
+• | size and quality of partner ecosystem;
+
+
+• | existing customer relationships; and
+
+
+• | vendor viability.
+
+We believe that none of our competitors can provide all of the functionality needed to support an organization interested in optimizing sales growth through data science-driven pricing, quoting and revenue management. Our competitors generally compete on price and by bundling their applications with other enterprise applications, and we expect that this will continue in the future. We distinguish ourselves from these vendors through our long history of providing software solutions incorporating data science, machine learning, and/or artificial intelligence, the breadth and depth of the functionality we offer, the robust integration and configuration capabilities of our solutions, and our proven ability to provide high-value dynamic science-based optimization software to our global customer base across multiple industries. In the future, we believe our competition will continue to increase as more companies move into our market segment and as we expand into adjacent market segments.
+Intellectual Property and Other Proprietary Rights
+Our success and ability to compete is dependent in part on our ability to develop and maintain the proprietary aspects of our technology and operate without infringing upon the proprietary rights of others. Due to the rapidly changing nature of applicable technologies and current limitations in U.S. patent law, we believe that for the improvement of existing solutions and development of new solutions, reliance upon trade secrets and unpatented proprietary know-how are generally more advantageous for us than patent and trademark protection. We also rely on a combination of trade secrets, confidentiality procedures, contractual provisions, patents, trademarks, copyrights and other similar measures to protect our proprietary information. 
+Research and Development
+We believe our software innovation is the foundation of our business and accordingly have made, and continue to make significant investments in research and development for the enhancement of existing products and services and the development of new products and services. We also believe that our long-term investment in artificial intelligence and machine learning of pricing and revenue management differentiates us from our competitors. We are committed to continuing to further development of these high-value solutions as evidenced by our continued investment in research and development. In fiscal 2017, 2016 and 2015, we incurred expenses of $56.0 million, $52.8 million and $46.8 million, respectively, in research and development to enhance our existing portfolio of solutions and to develop new solutions. Our research and development expenses include costs associated with our product management, product development and science and research groups. We conduct research and development activities predominantly in the U.S. and to a lesser extent in Bulgaria and France. 
+8
+
+We employ scientists, most of whom are Ph.D.s, to advance sales, pricing, and revenue management technology and its implementation in our software solutions. These scientists have specialties including, but not limited to, operations research, management science, statistics, econometrics, and computational methods. Our scientists regularly interact with our customers, product development, sales, marketing, and professional services staff to help keep our science efforts relevant to real-world demands.
+Employees
+As of December 31, 2017, we had 1,066 full-time personnel, which included 934 employees and 132 outsourced personnel. We have not experienced any work stoppages and consider our employee relations to be good.
+Website
+We maintain a website at www.pros.com. No information on our website is incorporated by reference herein. We make available, free of charge through our website, our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, including exhibits thereto, and any amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, as soon as reasonably practicable after the reports are electronically filed with or furnished to the SEC. Our reports that are filed with, or furnished to, the SEC are also available at the SEC's website at www.sec.gov. You may also read and copy any materials we file with the SEC, free of charge, at the SEC's Public Reference Room at 100 F Street, N.E., Washington, DC 20549. You may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330.
+Annual CEO Certification
+Pursuant to Section 303A.12(a) of the New York Stock Exchange ("NYSE") Listed Company Manual, we submitted to the NYSE an annual certification signed by our Chief Executive Officer certifying that he was not aware of any violation by us of NYSE corporate governance listing standards on June 8, 2017.
+9
+

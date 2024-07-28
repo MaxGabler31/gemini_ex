@@ -1,0 +1,161 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1.
+Business.
+
+ 
+  Company Overview
+ 
+ Exactus, Inc. (“Exactus”, “our”, “us”, “we” or the “Company” refer to Exactus, Inc. and its wholly-owned subsidiary, unless the context otherwise requires) was incorporated on January 18, 2008 as “Solid Solar Energy, Inc.” in the State of Nevada as a for-profit Company. On May 16, 2013, we filed a certificate of amendment to the Company’s amended and restated articles of incorporation to change our name to “Spiral Energy Tech., Inc.” from Solid Solar Energy, Inc.  On February 29, 2016, we acquired all of the issued and outstanding capital stock of Exactus BioSolutions, Inc. (“Exactus BioSolutions”) pursuant to a Share Exchange Agreement, dated February 29, 2016, with Exactus BioSolutions (the “Share Exchange”). The Company issued 30 million shares of newly-designated Series B-1 Preferred Stock to the shareholders of Exactus BioSolutions in the Share Exchange, representing approximately 87% of voting control of the Company upon consummation of the Share Exchange. As a result of the Share Exchange, Exactus BioSolutions became a wholly-owned subsidiary of Exactus, Inc. Effective March 22, 2016, we changed our corporate name to “Exactus, Inc.” via a merger with our wholly-owned subsidiary, Exactus Acquisition Corp.
+  
+ Following the Share Exchange, we became a life science company based in Glen Allen, Virginia that plans to develop and commercialize Point-of-Care (POC) diagnostics for measuring proteolytic enzymes in the blood based on a novel detection platform developed by Dr. Krassen Dimitrov, PhD. Our products will employ a disposable assay test strip combined with a portable and easy to use hand held detection unit that provides a result in as little as 30 seconds.
+  
+ The first product will be used to assay fibrinolysis, which is the process by which clots in the blood are dissolved. The rate of fibrinolysis is carefully regulated in circulation; too little fibrinolysis leads to the formation of clots (thrombosis) and too much fibrinolysis prevents normal coagulation and can lead to excessive bleeding (hemorrhage). An elevated level of fibrinolysis is associated with many pathological conditions including myocardial infarction, pulmonary embolisms/deep vein thrombosis (PE/DVT) and ischemic stroke. Further, complications associated with surgical procedures and trauma can induce a hyperfibrinolytic state, leading to hemorrhage. In all of these medical situations, time is of the essence, and we believe current coagulation diagnostic technologies cannot return an actionable result in the time frame necessary to provide timely therapeutic intervention.
+  
+ The FibriLyzer is expected to provide a simple, rapid and affordable means to assess the fibrinolytic state of a patient in a broad range of applications including (i) the management of hyperfibrinolytic states associated with surgery and trauma, (ii) obstetrics, (iii) diagnosis of acute events such as myocardial infarction and ischemic stroke, (iv) diagnosis of pulmonary embolism and deep vein thrombosis, (v) chronic coronary disease management, and (vi) as a monitoring device to evaluate the effectiveness of coagulation therapy. We anticipate that the use of FibriLyzer will provide the basis for improving management of patients who are at-risk of hemorrhage, expediting treatment, potentially improving patient outcomes, and saving money.
+  
+ We plan to follow up FibriLyzer with a similar technology to detect collagenase levels in the blood. This product, MatriLyzer, is intended to be used to detect the recurrence (or initial occurrence in high risk patients) of cancer and can be used as an at-home monitoring device or during routine office visits. The appearance of elevated levels of collagenase, the enzyme that degrades collagen, have been proven to be an early biomarker of recurrent cancer. For patients that have been previously treated for cancer, specifically, solid tumors, if and when the tumor recurs is of paramount importance. Once a tumor has begun to grow and spread, we believe that MatriLyzer can be used to detect this event at an early stage. If desired, our device will be designed to communicate directly with the attending oncologist via a smart phone application to ensure that the tests are being used properly and, when collagenase levels are elevated, both patient and physician will know the patient should have a more thorough examination.
+  
+ 
+   
+-1-
+
+
+
+ 
+ 
+  Unmet Medical Need
+ 
+ The formation of a blood clot and its successive dissolution, known as the hemostatic balance, is required to arrest blood loss from an injured vessel; however, disruption of this balance leads to hemostatic disorders with either excessive bleeding (hemorrhage) or excessive clotting (thrombosis). During and after surgery or trauma, it is critical to monitor the hemostatic status of a patient because excessive bleeding (inadequate coagulation) is a common problem; however, proper peri- and post-operative patient management requires constant monitoring of hemostasis/fibrinolysis and current technologies are either too slow or too cumbersome to use efficiently, resulting in delayed, wasted or misapplied treatments and potentially poor patient outcomes.
+  
+ The Euglobulin Lysis Test (ELT) test is the only regulatory-cleared test for measuring fibrinolysis; however, it requires several hours to conduct and is therefore impractical for use in diagnosing hyperfibrinolysis when treating trauma cases or surgery where treatment decisions have to be made within a few minutes of symptoms. D-dimer is another routine test for assessing fibrinolytic activity. The D-dimer is a proteolytic breakdown product of fibrin that is easily measured by latex agglutination assay and is considered to be a surrogate biomarker for fibrinolysis; however, while the D-dimer test is used broadly, the test still requires at least 20 minutes to return a result and the test has a very low specificity rate (high false positives) making the utility of the test less than optimal for identifying patients with hyperfibrinolysis. The D-dimer test is not cleared by the Food and Drug Administration (“FDA”), but is provided in clinical chemistry labs and a Laboratory Developed Test (LDT).
+  
+ Physicians recognize the inadequacy of ELT and other Conventional Coagulation Tests (CCTs) such as Prothrombin Time, Partial Thromboplastin Time, Fibrinogen Levels and D-dimer, so they have turned to viscoelastometric methods to gather information on the coagulation process (da Luz et al 2013, Ramos et al 2013, Yeung et al 2014). Viscoelastometric methods require a bulky apparatus (ROTEM/TEG) and at least 10-30 minutes per test to return graphical output from which parameters can then be derived to indicate levels of fibrinolytic activity. However, patients’ hemostatic conditions can change significantly in just a few minutes. These methods are unable to provide rapid diagnosis of fibrinolytic status in the OR and ER, and viscoelastometric methods lack the ability to provide true real-time feedback to physicians for optimal, case-specific administration of critical treatments to counteract hyperfibrinolysis during surgery or trauma management. Further, viscoelastometric tests provide information on only severe forms of hyperfibrinolysis and lack the sensitivity to diagnosis the onset of hyperfibrinolysis (Franz 2009, Schöchl et al 2012). The use of viscoelastometric devices is complicated further by the (i) requirement for multiple daily calibrations, (ii) the requirement for highly trained technicians to conduct the assay, and (iii) the lack of standardization of viscoelastometric protocols (da Luz et al 2013). As a result, there have been calls for a faster and easier-to-use tool for providing feedback on this important physiological process.
+  
+  Product Candidates
+ 
+  FibriLyzer
+ 
+ FibriLyzer is a device based on new technologies that are patented or pending patent and designed to address the shortcomings of the viscoelastometric devices, clinical tests such as D-dimer as well as ELT. FibriLyzer has two components. First, a portable, hand held analyzer about the size of blood glucose meters, measures the fibrinolytic activity in a drop of blood and returns a result in as little as 30 seconds. This unit is equipped with a bar-code scanner to record patient information. The unit can be connected via a USB port to ensure that the results of each test become part of the patient’s electronic record and are communicated to the appropriate hospital staff. Second, a disposable assay test strip or “biosensor” contains a synthetic protein matrix that simulates a clot. A proprietary electrochemically active polymer (“elactomer”) is embedded into the matrix and is released as the synthetic “clot” is dissolved, which generates electrical current in direct proportion to the amount of fibrinolysis.
+  
+ 
+  
+-2-
+
+
+
+
+ 
+ 
+ In practice, a disposable assay test strip is inserted into the FibriLyzer device and a drop of blood is placed into anopening at the end of the strip. The blood sample is drawn into the strip by capillary action and the fibrinolysis assay begins immediately as the device measures the current across the test-end of the biosensor, which contains the synthetic fibrin matrix. At a specific time point (20 seconds), the end-point current is recorded and the results are displayed on an easy to read screen on the hand held unit. Based on a pre-defined threshold, the operator can immediately determine the fibrolytic state of the patient to inform patient management decisions in real time. Once the test is completed, the assay test strip is removed and discarded.
+  
+ In May 2013, a clinical beta test was performed as an initial assessment of a prototype device in a clinical setting. The trial included 30 healthy volunteers and 62 patients from the cardiology ward at University Hospital “Queen Yoanna” in Sofia, Bulgaria and was managed by Prof. Assen Goudev, Departmental Chair of Cardiovascular Medicine.
+  
+ The three goals of this beta test were accomplished: (i) medical personnel easily managed the administration of FibriLyzer; (ii) samples from the healthy volunteers produced fibrinolysis readings that demonstrated a grouping from which a “normal range” could be derived; and (iii) after only 20 seconds, the samples taken from the cardiac patients yielded a scattered distribution that was very different than the comparatively tight distribution for the healthy sample, demonstrating the cardiovascular patients’ varying degrees of elevated fibrinolysis.
+  
+ This beta test showed that the technology performed as expected in a clinical setting and confirmed that it should move into formal clinical trials designed to garner marketing approval. We anticipate submitting a premarket notification to the FDA for FibriLyzer as Class II device pursuant to Section 510(k) of the FDAC.
+  
+ In the European Union (the “EU”), we will seek to register FibriLyzer under Annex II List B of the European Directive 98/79/EC, which requires that the Company declare and ensure that FibriLyzer meets the requirements described in this annex.
+  
+ It is anticipated that the clinical studies will include sites in both the U.S. and the EU and the protocol will be designed such that both the FDA as well as the EU’s IVD CE Mark requirements are met. We plan to use sufficient sites in the U.S. and EU to expedite the time needed to complete our clinical development. We will work closely with the FDA to ensure that our clinical development and analytical plans are sufficiently robust to satisfy the regulatory requirements and plan to seek marketing clearance with EU authorities concurrently with the Food, Drug, And Cosmetic Act (the “FDAC”) in mid-2018 and anticipate that we will be eligible to market and sell products by the end of 2018.
+  
+  MatriLyzer
+ 
+ Using technology similar to FibriLyzer, the Company intends to develop a diagnostic device to detect the recurrence of cancer. Each year, more than 700,000 people undergo cancer surgery in the United States. However, more than 40% of those patients develop recurrent disease and many have correspondingly poor outcomes. There remains an unmet need to diagnose cancer recurrence at its earliest stages in order to treat the patient swiftly.
+  
+ Well-characterized proteases have been long recognized as major contributors to the proteolytic degradation of extracellular matrix during tumor invasion. In the recent years, other non-matrix proteins have also been identified as gelatinase substrates thus significantly broadening our understanding of these enzymes as proteolytic executors and regulators in tumor progression. As with fibrinolysis, MatriLyzer will detect the increase in collagenase activity in the blood using the same elactomer technology used in FibriLyzer. In MatriLyzer, the biosensor will contain a collagen-based matrix, but the principle of detection will remain the same. Our approach will be to validate the correlation of increased collagenase levels with cancer recurrence and then market the test for routine office use or at-home use.
+  
+ 
+   
+-3-
+
+
+
+ 
+ 
+  Global Medical Diagnostics Device Market
+ 
+ The In Vitro diagnostics device industry is currently one of the most dynamic and innovative economic sectors today, driven by rapid advances in micro-technology and biomedical research. These advances have combined to enable the collection of biometric data of scope and accuracy much greater than just ten or fifteen years ago. The sector can be divided into various horizontal segments such as cardiovascular, oncology, hematology, and neurology. Diagnostic devices may be utilized independently to assess specific biomarkers; or they may act as “companion” devices, working in conjunction with therapeutics or other treatments to improve patient outcomes. Currently bringing in over $50 billion in revenue, the industry is expected to continue to expand as new technologies are introduced that directly address previously unmet needs of patients and clinicians.
+  
+ Globally, the U.S. market is the largest, providing for roughly one third of all revenues. The regulatory pathway has been criticized for being overly cumbersome; however, recent efforts to streamline and clarify the processes have improved outcomes in the approval process. A recent survey (Parmar, 3.26.14) revealed that despite greater cost concerns, most hospital CEOs are open to new technologies if they can improve the quality of patient care, lower hospitals’ overall costs, or increase the efficiency of their clinical staffs. Despite increased scrutiny, the U.S. market for diagnostic devices is expected to show continued growth due to an increasing ability of researchers to address unmet needs, greater participation in preventive care, and the need to monitor and manage “lifestyle” diseases (cardiovascular, diabetes, etc.) of the growing elderly population.
+  
+ The European market is currently the second largest and is generally viewed as being more accommodating to new devices and technologies. As in the U.S., serving unmet needs and managing lifestyle diseases are engines of growth. Emerging markets are recognized as providing the opportunity for fastest growth as higher middle-class incomes and increasing awareness of the benefits of a healthcare system drive new demand through higher participation rates. Also, new government policies encourage the introduction of advanced technologies to rural regions.
+  
+ The Company plans to initially market FibriLyzer for (i) the identification of hyperfibrinolytic states associate with surgery and trauma, (ii) obstetrics, (iii) acute events such as myocardial infarction and ischemic stroke, (iv) pulmonary embolism and deep vein thrombosis, and (v) chronic coronary disease management. Together these markets have more than 10 million cases annually.
+  
+ The market for MatriLyzer is quite large with over 4 million patients treated for cancer each year in the U.S. and EU who could be monitored for recurrence of cancer by observing collagenase levels. In addition to newly treated patients, a pool of 20 million potentially recurrent cancer survivors would be eligible for collagenase monitoring as well. Both patients and survivors will potentially benefit from regular and frequent monitoring for recurrence.
+  
+  Licensing Agreement
+   Our business substantially depends on our licensed technology. We have entered into an exclusive licensing agreement, the “Licensing Agreement” with Digital Diagnostics Inc. (“Digital Diagnostics”)to develop, produce and commercialize certain diagnostic products, including FibriLyzer and MatriLyzer, which utilize certain intellectual property rights owned or licensed by Digital Diagnostics. The Licensing Agreement provides for Exactus BioSolutions and Digital Diagnostics to collaborate through the various steps of the product and device development process, including the development, regulatory approval, commercialization and manufacture stages. Exactus BioSolutions is required to pay Digital Diagnostics, in cash and/or stock, an initial signing payment, milestone fees triggered by the first regulatory clearance or approval of each of FibriLyzer and MatriLyzer, and various sales thresholds, and royalty payments based on the net sales of the products, calculated on a product-by-product basis. The initial signing payment is due within seven days of the effective date of the agreement, with the remaining amount due upon closing of certain of our financing transactions. In 2016, the Company paid $50,000 to Digital Diagnostics as part of the initial signing payment under the Licensing Agreement and $21,659 in legal expenses. As of December 31, 2016, the Company accrued an additional $171,033 in licensing fees due to closing a financing transaction in the fourth quarter of 2016, of which $75,000 was paid during the first quarter of 2017. The Company accrued the remaining $30,000 due for the initial signing fee during the third quarter of 2017. The Company has also accrued interest, per the Licensing Agreement, of $9,802 for the remaining balance due as of December 31, 2017. As of December 31, 2017, $134,802 remained due to Digital Diagnostics.  In the first quarter of 2018, the Company paid the entire balance due to Digital Diagnostics. No milestones have been met and no milestone fees have been paid or accrued through December 31, 2017.
+
+ 
+ 
+ 
+   
+-4-
+
+
+
+ 
+  
+ The License Agreement is effective on a product-by-product and country-by-country basis until such time as neither Digital Diagnostics nor Exactus Biosolutions has any obligation to the other under the License Agreement in such country with respect to such product. The License Agreement may be terminated by Exactus BioSolutions as a whole or on a country-by-country and/or product-by-product basis, effective upon at least six (6) months written notice if regulatory approval has been obtained in the U.S. or in the EU, or upon at least three (3) months written notice if regulatory approval has not been obtained in the U.S. or in the EU. Either party may terminate the License Agreement in the event the other party materially breaches the License Agreement, or becomes insolvent.
+
+ 
+  Competition
+ 
+ We compete in the in vitro diagnostics device industry, subject to rapid changes in micro-technology and biomedical research, and significantly affected by new product introductions. We know of no other competitor developing hand-held Point-of-Care devices that detect fibrinolysis or collagenase. The FibriLyzer works by determining fibrinolytic activity by the rate at which a proprietary synthetic fibrin matrix is dissolved by enzymes in the blood. Competitors include companies that sell larger tabletop machines which may be used at the Point-of-Care for detection of various coagulation parameters through different methods, including thromboelastography (TEG) by Haemonetics Corporation, and rotation thromboelastometry (ROTEM) by Tem International.
+  
+ Our product is unique because unlike TEG and ROTEM, it does not require a significant amount of blood, or technical expertise to operate. In addition, these products require 10-30 minutes to deliver any data. We believe that the absence of a hand-held Point-of-Care device for the detection of fibrinolysis or collagenase in real time creates a significant opportunity to penetrate the market.
+  
+  Manufacturing, Distribution and Marketing
+  
+ We are working with TaiDoc Technology Corporation (“TaiDoc”) in Taipei, Taiwan, a well-established medical device manufacturer with certifications from regulatory authorities worldwide, including the FDA, to manufacture the FibriLyzer and disposable assay test strips. TaiDoc and Digital Diagnostics have an existing contract manufacturer agreement pursuant to which TaiDoc will manufacture the FibriLyzer and Digital Diagnostics will be its exclusive distributor, and we currently are negotiating a formal agreement with TaiDoc to manufacture these products. As described in more detail under “—Government Regulation and Approval,” these third parties must comply with FDA and applicable foreign regulations regarding manufacturing our products. Failure to maintain compliance with such regulations could result in a sudden or unexpected interruption in our operations as we may not be able to quickly establish additional or replacement manufacturers of our products.
+  
+ We do not have dedicated sales, marketing or distribution personnel yet, because none of our products have been approved for commercial sale. If and when our products are approved for commercial sale, we intend to develop an in-house team in the United States to market and distribute our products. We expect to collaborate with the medical community and to utilize online marketing to showcase and create awareness of our products. Our initial marketing efforts will target physicians, hospital administrators, hospital service providers, and group purchasing organizations.
+  
+  Government Regulation and Approval
+  
+  United States Product Development, Review and Approval Process
+  
+ The FDA regulates all medical devices commercially distributed in the United States. Medical devices are defined by the FDAC and subject to the regulatory controls of the FDAC and other federal regulations. The FibriLyzer is considered a medical device pursuant to the FDAC, and is thereby subject to the FDAC’s pre-market requirements.
+  
+ Prior to the commercial distribution of the FibriLyzer in the United States, a pre-market approval, pre-market clearance, or an exemption from the FDA must be secured. We are requesting clearance of the FibriLyzer as a Class II device pursuant to the FDAC 510(k) pre-market clearance process, which requires us to submit a 510(k) notification to the FDA demonstrating that the FibriLyzer is substantially equivalent to a device already on the market that does not require pre-market approval, known as a “predicate.” A device will be deemed to be substantially equivalent to a predicate if it has the same intended use and technological characteristics. Where a device’s technological characteristics are different from the predicate, the FDA may nonetheless conclude that it is substantially equivalent as long as it has the same intended use, and the information provided to the FDA does not raise new questions of safety or effectiveness and demonstrates that the device is as safe and effective as the predicate. A successful 510(k) approval results in an order from the FDA stating that the device is substantially equivalent to a predicate and that it can be marketed in the United States.
+  
+  United States Post-Approval Processes
+  
+ We are in the process of pursuing the regulatory approvals required to sell our products in the United States. Any products for which we receive FDA approvals will be subject to continuing regulation by the FDA, including, among other things, record-keeping requirements, reporting of adverse experiences with the product, providing the FDA with updated safety and efficacy information, product sampling and distribution requirements, complying with certain electronic records and signature requirements and complying with FDA promotion and advertising requirements. The FDA strictly regulates labeling, advertising, promotion and other types of information on products that are placed on the market. Products may be promoted only for the approved indications and in accordance with the provisions of the approved label. Furthermore, product manufacturers must continue to comply with good manufacturing practices requirements, which are extensive and require considerable time, resources and ongoing investment to ensure compliance. In addition, changes to the manufacturing process generally require prior FDA approval before being implemented and other types of changes to the approved product, such as adding new indications and additional labeling claims, are also subject to further FDA review and approval.
+  
+ Manufacturers and other entities involved in the manufacturing and distribution of an approved biological or medical device product are required to register their establishments with the FDA and certain state agencies, and are subject to periodic unannounced inspections by the FDA and certain state agencies for compliance with good manufacturing practices and other laws. The good manufacturing practices requirements apply to all stages of the manufacturing process, including the production, processing, sterilization, packaging, labeling, storage and shipment of the product. Manufacturers must establish validated systems to ensure that products meet specifications and regulatory standards, and test each product batch or lot prior to its release.
+  
+ Manufacturers of biological products must also report to the FDA any deviations from good manufacturing practice that may affect the safety, purity or potency of a distributed product; or any unexpected or unforeseeable event that may affect the safety, purity or potency of a distributed product. The regulations also require investigation and correction of any deviations from good manufacturing practice and impose documentation requirements.
+  
+ We currently rely on third parties for the production of our products. Future FDA and state inspections may identify compliance issues at the facilities of contract manufacturers may disrupt production or distribution or may require substantial resources to correct.
+  
+  
+-5-
+
+
+
+
+ 
+ The FDA may withdraw a product approval if compliance with regulatory standards is not maintained or if problems occur after the product reaches the market. Later discovery of previously unknown problems with a product may result in restrictions on the product or even complete withdrawal of the product from the market. Furthermore, the failure to maintain compliance with regulatory requirements may result in administrative or judicial actions, such as fines, warning letters, holds on clinical studies, product recalls or seizures, product detention or refusal to permit the import or export of products, refusal to approve pending applications or supplements, restrictions on marketing or manufacturing, injunctions or civil or criminal penalties.
+  
+ In addition, from time to time, new legislation is enacted that can significantly change the statutory provisions governing the approval, manufacturing and marketing of products regulated by the FDA. In addition to new legislation, FDA regulations and policies are often revised or reinterpreted by the agency in ways that may significantly affect our business and our products. It is impossible to predict whether further legislative or FDA regulation or policy changes will be enacted or implemented and what the impact of such changes, if any, may be.
+  
+  International Regulation
+  
+ We may be subject to widely varying foreign regulations, which may be quite different from those of the FDA, governing clinical trials, manufacture, product registration and approval, and sales. Whether or not FDA approval has been obtained, we must obtain a separate approval for a product by the comparable regulatory authorities of foreign countries prior to the commencement of product marketing in these countries. In certain countries, regulatory authorities also establish pricing and reimbursement criteria. The approval process varies from country to country, and the time may be longer or shorter than that required for FDA approval. Therefore, we cannot assure that we will be able to satisfy the regulatory requirements to sell our products in any foreign country.
+ Employees
+  
+ As of December 31, 2017, we have 4 employees, all of which are full time.
+  
+
+ 
+   
+-6-
+
+
+
+ 
+ 
+   

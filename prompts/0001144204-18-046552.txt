@@ -1,0 +1,490 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ | | Page
+---------+-------------------------------------------------------------------------------------------+-----
+ | PART I | 
+Item 1. | Business | 4 
+Item 1A. | Risk Factors | 14 
+ | PART II | 
+Item 7. | Management’s Discussion and Analysis of Financial Condition and Results of Operations | 29 
+Item 8. | Financial Statements and Supplementary Data | 41 
+ | PART III | 
+Item 10. | Directors, Executive Officers and Corporate Governance | 42 
+ | PART IV | 
+Item 15. | Exhibits, Financial Statement Schedules | 48 
+
+
+2
+-
+
+EXPLANATORY NOTE
+ 
+Seven Stars Cloud Group, Inc. is filing this Amendment No. 1 on Form 10-K/A (this “Amendment”) to its Annual Report on Form 10-K for the fiscal year ended December 31, 2017 (the “Original Filing”), which was originally filed with the Securities and Exchange Commission on March 30, 2018.
+ 
+The purpose of this amendment is to amend certain Items of our Form 10-K for the fiscal year ended December 31, 2017 in response to comments received from the Securities and Exchange Commission. This Amendment does not include the entire Form 10-K. Except for those Items of the Form 10-K contained herein, this Amendment does not amend any information set forth in the Original Filing, and the Company is not required to update disclosures to reflect any events that occurred subsequent to March 30, 2018.
+
+
+
+Special Note Regarding Forward Looking Statements
+ 
+In addition to historical information, this report contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. We use words such as “believe,” “expect,” “anticipate,” “project,” “target,” “plan,” “optimistic,” “intend,” “aim,” “will” or similar expressions which are intended to identify forward-looking statements. Such statements include, among others, those concerning market and industry segment growth and demand and acceptance of our new and existing products or services; any projections of sales, earnings, revenue, margins or other financial items; any statements regarding the plans, strategies and objectives of management for future operations; any statements regarding future economic conditions or performance; uncertainties related to conducting business in China; and all assumptions, expectations, predictions, intentions or beliefs about future events. You are cautioned that any such forward-looking statements are not guarantees of future performance and involve risks and uncertainties, including, and without limitation, those identified in Item 1A, “Risk Factors” included herein, as well as assumptions, which, if they were to ever materialize or prove incorrect, could cause the results of the Company to differ materially from those expressed or implied by such forward-looking statements.
+ 
+Although we believe the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, level of activity, performance, or achievements. Moreover, neither we nor any other person assumes responsibility for the accuracy or completeness of any of these forward-looking statements. You should not rely upon forward-looking statements as predictions of future events. The forward-looking statements included herein are made as of the date of this report. We undertake no obligation to update any of these forward-looking statements, whether written or oral, that may be made, from time to time, after the date of this report to conform our prior statements to actual results or revised expectations.
+ 
+Use of Terms
+ 
+Except as otherwise indicated by the context, references in this report to “we,” “us,” “our,” “our Company,” “the Company,” “SSC” or “Seven Stars Cloud,” are to the business of Seven Stars Cloud Group, Inc. (formerly known as Wecast Network , Inc.), a Nevada corporation, and its consolidated subsidiaries and variable interest entities.
+ 
+In addition, unless the context otherwise requires and for the purposes of this report only: 
+ 
+
+. | “CB Cayman” refers to our wholly-owned subsidiary China Broadband, Ltd., a Cayman Islands company; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+. | “Exchange Act” refers to the Securities Exchange Act of 1934, as amended; 
+--+-------------------------------------------------------------------------------------------------------------------
+
+
+. | “Hong Kong” refers to the Hong Kong Special Administrative Region of the People’s Republic of China; 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+. | “Hua Cheng” refers to Hua Cheng Hu Dong (Beijing) Film and Television Communication Co., Ltd., a PRC company 39% owned by Sinotop Beijing and 20% owner of Zhong Hai Media; 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+. | “PRC,” “China,” and “Chinese,” refer to the People’s Republic of China; 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+. | “Renminbi” and “RMB” refer to the legal currency of China; 
+--+----------------------------------------------------------------------------------------------------
+
+
+. | “SEC” refers to the United States Securities and Exchange Commission; 
+--+---------------------------------------------------------------------------------------------------------------
+
+
+. | “Securities Act” refers to the Securities Act of 1933, as amended; 
+--+------------------------------------------------------------------------------------------------------------
+
+
+. | “Shandong Broadcast” refers to Shandong Broadcast & TV Weekly Press, a PRC company; 
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+
+. | “Shandong Media” refers to our previously owned 50% joint venture, Shandong Lushi Media Co., Ltd., a PRC company; effective July 1, 2012, Shandong Media became a 30% owned company by Sinotop Beijing; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+. | “Sinotop Beijing” refers to Beijing Sino Top Scope Technology Co., Ltd., a PRC company controlled by YOD Hong Kong through contractual arrangements; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+. | “U.S. dollars,” “dollars,” “USD,” “US$,” and “$” refer to the legal currency of the United States; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+. | “U.S. Tax Reform” refers to the Tax Cuts and Jobs Act, enacted by the United States of America on December 22, 2017; 
+
+
+. | “VIEs” refers to our current variable interest entities Sinotop Beijing, and SSF; 
+--+---------------------------------------------------------------------------------------------------------------------------
+
+
+. | “VOD” refers to video on demand, which includes near video on demand (“NVOD”), subscription video on demand (“SVOD”), and transactional video on demand (“TVOD”); 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+. | “WFOE” refers to our wholly-owned subsidiary Beijing China Broadband Network Technology Co., Ltd., a PRC company which was sold during the quarter ended March 31, 2014; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+“YOD Hong Kong” refers to YOU On Demand (Asia) Limited, formerly Sinotop Group Limited, a Hong Kong company wholly- owned by CB Cayman; 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+. | “SSF” refers to Tianjin Sevenstarflix Network Technology Limited, a PRC company controlled by YOD Hong Kong through contractual arrangements; 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+. | “YOD WFOE” refers to YOU On Demand (Beijing) Technology Co., Ltd., a PRC company wholly-owned by YOD Hong Kong; 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+. | “Zhong Hai Media” refers to Zhong Hai Shi Xun Media Co., Ltd., a PRC company 80% owned by Sinotop Beijing until June 30, 2017; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ “Wecast Services” refers to our wholly-owned subsidiary Wecast Services Group Limited (formerly known as Sun Video Group Hong Kong Limited) a Hong Kong company;
+ “Wide Angle” refers to Wide Angle Group Limited, a Hong Kong company 55% owned by the Company; and
+ “Wecast SH” refers to Shanghai Wecast Supply Chain Management Limited, a PRC company 51% owned by the Company.
+ 
+In this report we are relying on and we refer to information and statistics regarding the media industry in China that we have obtained from various public sources. Any such information is publicly available for free and has not been specifically prepared for us for use or incorporation in this report or otherwise.
+
+
+
+3
+-
+
+PART I
+ 
+
+ITEM 1. | BUSINESS.
+--------+----------
+
+Overview
+ 
+Seven Stars Cloud Group, Inc. (NASDAQ: SSC) was incorporated in the State of Nevada on October 19, 2004. Since 2010, it has been a premium content Video On Demand (“VOD”) services provider with primary operations in the People’s Republic of China through its subsidiaries and variable interest entities. It provided premium content and integrated value-added service solutions for the delivery of VOD and paid video programming to digital cable providers, Internet Protocol Television (“IPTV”) providers, Over-the-Top (“OTT”) streaming providers, mobile manufacturers and operators, as well as direct customers.
+Starting from 2017, it is aiming to become a next generation Artificial-Intelligent (AI) & Blockchain-Powered, Fintech company. By providing and managing an infrastructure and environment that facilitates the transformation of traditional financial markets such as commodities, currency and credit into the asset digitalization era, SSC hopes to provide asset owners and holders a seamless method and platform for digital asset securitization, tokenization and trading. Separately, SSC is aiming to offer a closed supply chain trading ecosystem for corporate buyers and sellers designed to eliminate standard transactional intermediaries and create a more direct and margin-expanding path for principals.
+
+
+2017 has been a year of transition from the Company’s legacy business to the Company’s new business.
+ 
+Pertaining to the Company’s efforts to become a next generation Artificial-Intelligent (AI) & Blockchain-Powered, Fintech company, in early Q1 2017, the Company completed the acquisition  of Sun Video Group HK Limited ("SVG"), which had a 51% ownership stake in M.Y. Products, LLC ("MYP"), a global, smart supply chain management operator. Functioning as a global smart supply chain management company, the acquisition was consummated in an effort to support the Company's brand licensing and video commerce business with B2B services. With the aforementioned service offerings under one roof, the Company could now provide Chinese manufacturers the opportunity to improve profitability within the distribution chain and allowing manufacturers to capture more robust margins as well as reapportioning cost savings to marketing and branding, thereby improving revenue volume.
+ 
+Also in early February 2017, the Company announced it had acquired 55% of Wide Angle Group Limited ("WAG"). Coupling WAG's capabilities and offerings with those already existing under the SVG/MYP deal, including Supply Chain Management, Manufacturer Sourcing, Supply Chain Financing, VR (virtual reality)-Enabled Commerce Technology and AI-driven Big Data Technology Management, the Company was seeking to creating a diversified and robust business division, separate from the VOD business.
+ 
+For 2017, through the acquisition and operation of the SVG and WAG the two current revenue sources were initiated. They are supply chain management & structured finance and alternative finance & carry trade businesses. The Company is currently primarily engaged with consumer electronics and smart supply chain management operations. Our end customers include about 15 to 20 corporations across the world. Starting from October 2017, through partnership with another business partner, our newly controlled Singapore joint venture has been conducting oil trading business in Singapore. Other than the trading business that Company already operated in 2017, the Company also intends to run the engine upon its Venus blockchain based platform, which includes TPaaS & VPaaS system. As of fourth quarter of 2017, TPaaS system went into trial operation. A significant portion of our operations will consist of these new lines of business, however since these are new business lines, customer demand is in the process of being validated, and the global regulatory environment is constantly adapting to these new fintech products and technologies. As a result, it is not possible to make a definitive prediction on the rate of growth and profitability of these operations at this time. These services will be offered globally from our New York and China offices.
+ 
+As part of our overall strategy, the Company is focused on trying to establish 4 digital asset product categories which are expected to trade on 4 digital asset global trading platforms and exchanges and are expected to be distributed and monetized through 4 digital asset global partner sales and monetization networks.
+ 
+The 4 digital asset product categories are expected to be (i) financial, (ii) vertical industry, (iii) consumer and (iv) media. The products within these groups are in development and are expected to represent new digital financial assets that can be used for store of value, application platform-based transactions, supply chain transactions, transaction incentivization, and general payments. By nature, their storage and transactability in the various use cases that they are created and are expected to produce new value and fungibility with other digital assets and in some cases, fiat currency.
+ 
+The 4 digital asset global trading platforms and exchanges are expected to be:
+ 
+
+i. | Global Financial Digital Asset Exchange Groups
+---+-----------------------------------------------
+
+
+ii. | Global Vertical Industry Digital Asset Exchange Groups
+----+-------------------------------------------------------
+
+
+iii. | Global Consumer Digital Asset Exchange Groups
+-----+----------------------------------------------
+
+
+iv. | Global Media Digital Asset Exchange Groups
+----+-------------------------------------------
+
+ 
+Our digital asset trading platforms are expected to represent owned and partner exchanges that will support our digital asset products.
+ 
+The 4 digital asset global partner sales and monetization networks are expected to be:
+ 
+
+i. | GenXPlus (rebranded from NextGen X)
+---+------------------------------------
+
+
+ii. | Redrock Global Capital
+----+-----------------------
+
+
+iii. | Partnerships with highly scalable, transparent and decentralized digital asset exchange platforms
+-----+--------------------------------------------------------------------------------------------------
+
+
+iv. | Launch of highly scalable, transparent and decentralized financial exchange partner platforms
+----+----------------------------------------------------------------------------------------------
+
+
+4
+-
+
+ 
+
+The Company’s global partner sales and monetization networks are expected to enable the unlocking of value through fractionalization, tokenization and securitization of assets in digital form.
+ 
+Our digital asset trading platforms are expected to represent owned and partner exchanges that will support our digital asset products.
+ 
+In support of the Company’s overall strategy, in August 2017, the Company subscribed to a strategic investment of US$250,000 in the Delaware Board of Trade Holdings, Inc. (“DBOT”) to acquire 187,970 common shares. DBOT is an SEC recognized Alternative Trading System, which SSC believes can be developed into a distributed network. On December 18, 2017, the Company subscribed for another 27% purchase of DBOT, which would make the Company the largest shareholder of DBOT, and as part of this purchase, the Company’s President, Robert G. Benya, is expected to become a DBOT Board Director. DBOT (http://dbottrading.com/) operates three business lines: (i) DBOT ATS LLC, a FINRA Member Firm, a member of the Securities Investor Protection Corporation ("SIPC") and an SEC recognized fully automated, auto-execution Alternative Trading System ("ATS"); (ii) DBOT Issuer Services LLC, focused on setting and maintaining issuer standards, as well as the provision of issuer services to DBOT designated issuers; and (iii) DBOT Technology Services LLC, focused on the provision of market data and marketplace connectivity. These transactions are still pending and have not yet closed. These transactions will not close until DBOT gets FINRA’s approval. We will not be able to consolidate the results of DBOT.
+ 
+Also, in support of the Company’s overall strategy, on October 19, 2017 the Company announced an agreement to establish a Joint Venture, BBD Digital Capital Group Ltd ("BDCG"), with management partners Tiger Sports Media Limited and Seasail Ventures Limited, ("Seasail") an affiliate of parent company BBD (https://en.bbdservice.com/introduction). The BDCG will focus on artificial intelligence-driven financial data services as well as transactional platforms for index, futures and derivative trading, for both global commodity and energy clients. By leveraging Seasail's technology, BDCG will look to capitalize on commodity and energy provider's needs for more precise risk management services, more informed operational planning and more strategic decision-making, specifically as they all relate to the trading of index, futures and commodities. In December 2017, the Company acquired 20% equity interest of BDCG from Tiger Sports Media Limited, which gave the Company 60% total equity interest, and BDCG would become one subsidiary of the Company. The valuation report of BDCG was received post-signing of the BDCG Purchase Agreement with both parties agreeing that there is no obligation to close the Transaction until a satisfactory valuation report has been received, evaluated and approved by the Company’s Audit Committee. On April 24, 2018, the Audit Committee approved the satisfactory valuation report provided by an independent third party and closed this transaction. 
+ 
+The Company has strategically secured a management team with diversified expertise in operations, technology, fintech, blockchain, AI, capital markets and the financial services industry.
+ 
+The Company’s Chairman and Chief Executive Officer, Dr. Bruno Wu is an experienced investor, technology and media entrepreneur, and philanthropist. Dr. Wu has been actively involved with blockchain based and big data technologies since October 2011. After four years of investment and research, in 2015, Dr. Wu and his companies proceeded to execute the strategy of becoming a leader in fintech and asset digitization services by aggregating AI, blockchain and other big data and Cloud based technologies, carefully sourced and selected on a global basis through joint ventures and partnerships. These partnerships focus on customizing and enabling actual business use case applications. Dr. Wu actively participated in the build out of the world’s leading big data hub in Guiyang, China, particularly by endorsing the integration with AI and blockchain. Currently Dr. Wu has committed to transforming the Company into a flagship for fintech and asset digitization services, with multiple use case technology engines to be rolled out.
+ 
+The Company’s Chief Financial Officer, Mr. Federico Tovar, is a seasoned business professional and subject matter expert in AI, FinTech, Blockchain, IoT and cybersecurity. He was previously the Chief Financial and Strategy Officer of Global Data Sentinel Inc, a privately held and high growth cybersecurity and AI technology company that supports data security across domains, including network, Cloud, mobile and IoT, with AI capabilities and next-generation applications in Blockchain, FinTech, energy, insurance, healthcare, and media industries, amongst others. He previously was a Director at Grant Thornton LLP, where he was responsible for advisory assignments during the global financial crisis, advising global private equity firms, hedge funds, and other large-scale financial institutions and insurance companies on their investment portfolios and matters related to complex financial instruments, derivatives, and other hard to price securities. In addition, he was part of large-scale and global multidisciplinary audit assignments involving companies in the United States, Europe and Asia, and served as a subject matter expert to audit teams on various Fair Value and IFRS matters. He also spent time with Ernst & Young’s Corporate Finance practice in New York, where he provided M&A, valuation, and corporate restructuring advisory to large-scale Fortune 500 technology companies. He started his career in strategy and management consulting at Booz Allen Hamilton, exposing him to technology and innovation early on in his career, advising some of the world’s largest private and government organizations. In addition, he spent time at the World Bank, working closely on fixed income securities and debt instruments with Central Banks and Finance Ministers across emerging markets in Asia and Latin America.
+ 
+Mr. Tovar has managed corporate, financial reporting, legal and investor relations matters, along with all daily operations and fiduciary duties at the executive and board level; including financial reporting and accounting pursuant to GAAP and IFRS, as well as tax and international transfer pricing matters across foreign tax jurisdictions. Mr. Tovar has developed strategic plans and business models, structured various intellectual property and technology licensing deals, closed on various M&A transactions and debt and equity financing rounds, and formulated corporate growth and financial strategies for technology companies which have resulted in measurable execution strategies. He is a seasoned finance professional and entrepreneur in the technology ecosystem, and a subject matter expert in FinTech, Blockchain, AI, IoT, and cybersecurity.
+ 
+Chad Arroyo, the Company’s Chief Marketing Officer, is well-versed in blockchain technology, its uses in fintech platforms, financial transactions and various technology implementations on both public and private blockchain systems, and has developed operational and systems level experience in transaction management, order routing and management, digital securities, issuers services and funding portal operations, custodial wallet management, exchange operations, KYC/AML procedures.
+ 
+Mr. Arroyo was deeply involved with marketing as well as general consulting and project management for Fundamental Interactions and the Delaware Board of Trade that together deliver a suite of blockchain capabilities for the issuance, trading and settlement of digital assets. Mr. Arroyo was previously a startup cofounder of SaaS-based platforms that were designed to integrate 3rd party payment and reporting systems for B2B transactions. Mr. Arroyo has worked with startups that are developing fintech solutions and has gained substantial experience in enterprise technology systems design, development and implementation through his experience as a Deloitte Technology Strategy Consultant as well as during his military career where he specialized in Defense telecommunications following his graduation from the US Naval Academy.
+ 
+The Company notes that in addition to its own management expertise, additional fintech services managerial expertise comes directly from the company’s strategic alliance network and partnership relationships, including joint ventures as well as control and non-control investments of the Company, which have created a confluent strategic scenario of leadership experience and proficiency.
+ 
+For example, Dr. George Yuan is the Chief Technology Officer of BDG Digital Capital Group, a subsidiary of the Company (“BDCG”). Dr. Yuan is a world leading expert with a focus on dynamic ontology for credit risk assessment and risk management. He served as the leader for risk management consulting at KPMG (US) and the Director of China / Hong Kong Deloitte Financial Consulting. Dr. Yuan was selected as a National Distinguished Expert in Shanghai’s and Sichuan’s "The Thousand Talents Plan" in 2013 and 2018, and he is the Chief Editor for The Journal of Financial Engineering. Dr. Yuan’s is leading BDCG’s focus on artificial intelligence-driven financial data services as well as transactional platforms for index, futures and derivative trading, for both global commodity and energy clients. Dr.Yuan is the Chief Risk Officer and Chief Engineer of BBD Digital Finance, a subsidiary of the Company. Dr. Yuan has held a professorship at the Institute of Risk Management at Tongji University. Dr Yuan's study and work has centered around the valuation of Financial Derivatives and Value-at-Risk (VaR) Modeling for Market Risk, Credit Risk and Operational Risk under the framework of Basel II (Basel III) Accord, Financial and Credit Derivatives Pricing, Portfolio Optimization, Risk Limit Design, Commodity Forward Price Curve Design, Complex Position, Commodity Price Risk Assessment and Asset Valuation.
+ 
+
+5
+-
+
+Recent Developments
+ 
+On January 12, 2018, the Company entered into a Stock Purchase Agreement (the “DBOT Purchase Agreement”) with Delaware Board of Trade Holdings, Inc. (“DBOT”) and DBOT-I LLC (the “Seller”) pursuant to which the Seller agreed to sell 500,000 shares of common stock of DBOT to the Company and the Company issued an aggregate of 320,000 shares of Common Stock of the Company to the Seller. The Seller agreed to a 1 year lock up period for the shares of common stock of the Company received by the Seller pursuant to the DBOT Purchase Agreement. 
+ 
+On March 4, 2018, the Company entered into another Stock Purchase Agreement (the “Sloves Purchase Agreement”) with Shawn Sloves (“Sloves”), China Broadband, Ltd., a wholly-owned subsidiary of SSC (the “Purchaser”) and DBOT pursuant to which Sloves agreed to sell 500,000 shares of common stock of DBOT to the Purchaser and the Company issued an aggregate of 320,000 shares of Common Stock of the Company to Sloves. Sloves agreed to a 1 year lock up period for the shares of common stock of the Company received by Sloves pursuant to the Sloves Purchase Agreement.
+ 
+On March 17, 2018, the Company entered into a subscription agreement (the “Subscription Agreement”) with GT Dollar Pte. Ltd. (“GTD”) for a private placement of a total amount of $40.0 million. Pursuant to the terms of the Subscription Agreement, the Company (i) will issue and sell to GTD, an aggregate of 13,773,010 shares of the common stock of the Company, par value $0.001 per share (the “Common Stock”), for $1.82 per share, or a total purchase price of $25,066,878.20, and (ii) issue two convertible promissory notes (each a “Note” and together, the “Notes”) with a stated principal amount of $10 million and $4,933,121.80, respectively. GTD shall pay $30 million of the purchase price on or prior to March 31, 2018, in connection with the issuance of the 13,773,010 shares of Common Stock and the $4,933,121.80 Note, and the remaining $10 million on or prior to April 30, 2018, in connection with the issuance of the $10 million Note. The Subscription Agreement contains customary representations, warranties and covenants and a 9 month lock-up period for GTD from the date of the Subscription Agreement. The Notes bear interest at the rate of 0.56% per annum and matures December 31, 2019. In the event of default, the Notes will become immediately due and payable. Until receipt of necessary shareholder approvals for the transactions contemplated by these agreements, the Notes note may not be converted, to the extent that such conversion would result in GTD and its affiliates beneficially owning more than 19.9% of the Company’s outstanding shares of Common Stock. Once the necessary shareholder approval is received, the unpaid principal and interest on the Notes will automatically convert into shares of Common Stock at a conversion rate of $1.82.
+
+
+6
+-
+
+Corporate Structure
+ 
+The following chart depicts our corporate structure as of March 30, 2018: 
+ 
+
+
+
+(1). | Sinotop Beijing VIE Agreements, including with Mei Chen and Yun Zhu, the nominee shareholders of Sinotop Beijing. Mei Chen, holder of 95% equity ownership in Sinotop Beijing and a party to certain VIE arrangements between YOD WFOE and Sinotop Beijing, is the former CFO of the Company. Yun Zhu, holder of 5% equity ownership in Sinotop Beijing and a party to certain VIE arrangements between YOD WFOE and Sinotop Beijing, is Vice President of SSS, a significant shareholder of the Company. 
+-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(i) | Management Services Agreement between Sinotop Beijing and YOD Hong Kong, dated as of March 9, 2010. 
+----+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(ii) | Call Option Agreement among YOD WFOE, Sinotop Beijing, Mei Chen and Yun Zhu, dated as of January 25, 2016; and Call Option Agreement among YOD WFOE, Sinotop Beijing and Mei Chen was dated as of November 4, 2016. 
+------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(iii) | Equity Pledge Agreement among YOD WFOE, Sinotop Beijing, Mei Chen and Yun Zhu, dated as of January 25, 2016, Mei Chen’s Equity Pledge Agreement was dated as of November 21, 2016. 
+
+
+(iv) | Power of Attorney agreements among YOD WFOE, Sinotop Beijing and Mei Chen was dated on November 4, 2016 and Power of Attorney agreements among YOD WFOE, Sinotop Beijing and Yun Zhu, dated as of January 25, 2016. 
+-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(iv) | Technical Services Agreement among YOD WFOE and Sinotop Beijing, dated as of January 25, 2016.
+-----+-----------------------------------------------------------------------------------------------
+
+
+7
+-
+
+
+(2). | SSF VIE Agreements, including with Lan Yang and Yun Zhu, the nominee shareholders of SSF. Lan Yang, holder of 99% equity ownership in SSF and a party to certain of the SSF VIE Agreements, is the spouse of Bruno Zheng Wu, the Company’s Chairman. Yun Zhu, holder of 1% equity ownership in SSF and a party to certain of the SSF VIE Agreements, is the Vice President of SSS. 
+-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(i) | Management Services Agreement between SSF and YOD Hong Kong, dated as of April 6, 2016.
+----+----------------------------------------------------------------------------------------
+
+
+(ii) | Call Option Agreement among YOD WFOE, SSF and the Nominee Shareholders, dated April 5, 2016.
+-----+---------------------------------------------------------------------------------------------
+
+
+(iii) | Equity Pledge Agreement among YOD WFOE, Lan Yang and Yun Zhu (the “Nominee Shareholders”), dated April 5, 2016; Amended and Restated Equity Pledge Agreement among YOD WFOE and the Nominee Shareholders , dated May 23, 2016. 
+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(iv) | Power of Attorney agreements among YOD WFOE, SSF and each of the respective Nominee Shareholders, dated April 5, 2016. 
+-----+---------------------------------------------------------------------------------------------------------------------------
+
+
+(v) | Technical Service Agreement between YOD WFOE and SSF, dated April 5, 2016.
+----+---------------------------------------------------------------------------
+
+
+(vi) | Spousal Consent, undersigned by the respective spouse of the Nominee Shareholders (collectively, the “Spouses”), dated April 5, 2016. 
+-----+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(vii) | Letter of Indemnification among YOD WFOE and Lan Yang and YOD WFOE and Yun Zhu, both dated as of April 5, 2016. 
+------+--------------------------------------------------------------------------------------------------------------------
+
+
+(viii) | Loan Agreement among YOD WFOE and the Nominee Shareholders, dated April 5, 2016; Supplemental Loan agreement among YOD WFOE and the Nominee Shareholders, dated May 31, 2016. 
+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(3). | On January 30, 2017, the Company entered into a Securities Purchase Agreement (the “SVG Purchase Agreement”) with BT Capital Global Limited, a Hong Kong company (“BT”) and affiliate of the Company’s chairman Bruno Wu, pursuant to which the Company agreed to purchase and BT agreed to sell all of the outstanding capital of SVG for an aggregate purchase price of (i) $800,000; and (ii) a Promissory Note with the principal and interest thereon convertible into shares of the Company’s Common Stock, par value $0.001 per share at a conversion rate of $1.50 per share of Company Common Stock. BT has guaranteed that SVG will achieve certain financial goals within 12 months of the closing as described in Note 4 to the consolidated financial statements included in this report. 
+-----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(4). | On January 31, 2017, the Company entered into a Securities Purchase Agreement (the “WAG Purchase Agreement”) with BT and SSS, as guarantor, pursuant to which the Company agreed to purchase and BT agreed to sell 55% of the outstanding capital stock (the “Wide Angle Common Shares”) of Wide Angle Group Limited, a Hong Kong company (“Wide Angle”) for the sole consideration of the Company adding Wide Angle to the Sun Video Business acquired by the Company under SVG Purchase Agreement entered into with BT on January 30, 2017 and thereby including the revenue and gross profit from Wide Angle in the calculation of the SVG Performance Guarantees set forth in the SVG Purchase Agreement as described in Note 4 to the consolidated financial statements included in this report. 
+-----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+VIE Structure and Arrangements
+
+To comply with PRC laws and regulations that prohibit or restrict foreign ownership of companies that provide value-added telecommunication services, we provide services through Sinotop Beijing and SSF, which hold the licenses and approvals to provide digital distribution and Internet content services in the PRC. We have the ability to control Sinotop Beijing and SSF through a series of contractual agreements, as described below, entered into among YOD WFOE, YOD Hong Kong, Sinotop Beijing, SSF and the respective legal shareholders of Sinotop Beijing and SSF.
+ 
+Through these contractual arrangements, we have acquired both control over and rights to, 100% of the economic benefit of Sinotop Beijing and SSF. Accordingly, Sinotop Beijing and SSF are each considered a variable interest entity, or VIE, and are therefore consolidated in our financial statements. Pursuant to the below contractual agreements, YOD WFOE can have the assets transferred freely out of each VIE without any restrictions. Therefore, YOD WFOE considers that there is no asset of the respective VIE that can be used only to settle obligation of such VIE, except for the registered capital of each respective VIE, amounting to RMB10.6 million (or approximately $1.6 million) for Sinotop Beijing as of December 31, 2017, and RMB 27.6 million (or approximately $4.2 million) has been injected as of December 31, 2017. As Sinotop Beijing and SSF are incorporated as limited liability companies under PRC Company Law, creditors of these two entities do not have recourse to the general credit of other entities of the Company.
+ 
+
+8
+-
+
+ 
+
+The following is a summary of the common contractual arrangements that provide us with effective control our VIEs and that enable us to receive substantially all of the economic benefits from their operations:
+ 
+Equity Pledge Agreement
+ 
+Pursuant to the Equity Pledge Agreement among YOD WFOE and the respective nominee shareholders, the nominee shareholders pledge all of their capital contribution rights in the VIEs to YOD WFOE as security for the performance of the obligations of the VIEs to make all the required technical service fee payments pursuant to the Technical Services Agreement and for performance of the nominee shareholders’ obligation under the Call Option Agreement. The terms of the Equity Pledge Agreement expire upon satisfaction of all obligations under the Technical Services Agreement and Call Option Agreement.
+Call Option Agreement
+ 
+Pursuant to the Call Option Agreement among YOD WFOE, the VIEs and the respective nominee shareholders, the nominee shareholders grant an exclusive option to YOD WFOE, or its designee, to purchase, at any time and from time to time, to the extent permitted under PRC law, all or any portion of the nominee shareholders’ equity in the VIEs. The exercise price of the option shall be determined by YOD WFOE at its sole discretion, subject to any restrictions imposed by PRC law. The term of the agreement is until all of the equity interest in the VIEs held by the nominee shareholders is transferred to YOD WFOE, or its designee and may not be terminated by any party to the agreement without consent of the other parties.
+Power of Attorney
+ 
+Pursuant to the Power of Attorney agreements among YOD WFOE, each VIE and each of the respective nominee shareholders, each nominee shareholder grants YOD WFOE the irrevocable right, for the maximum period permitted by law, to all of its voting rights as shareholder of the VIE. The nominee shareholders may not transfer any of their equity interest in the VIE to any party other than YOD WFOE. The Power of Attorney agreements may not be terminated except until all of the equity in the VIE has been transferred to YOD WFOE or its designee.
+Technical Service Agreement
+ 
+Pursuant to the Technical Service Agreement, between YOD WFOE and each VIE, YOD WFOE has the exclusive right to provide technical service, marketing and management consulting service, financial support service and human resource support services to VIE, and VIE is required to take all commercially reasonable efforts to permit and facilitate the provision of the services by YOD WFOE. As compensation for providing the services, YOD WFOE is entitled to receive service fees from VIE equivalent to YOD WFOE’s cost plus 20-30% of such costs as calculated on accounting policies generally accepted in the PRC. YOD WFOE and VIE agree to periodically review the service fee and make adjustments as deemed appropriate. The term of the Technical Services Agreement is perpetual, and may only be terminated upon written consent of both parties.
+Spousal Consent
+ 
+Pursuant to the Spousal Consent, undersigned by the respective spouse of the nominee shareholders, the spouses unconditionally and irrevocably agree to the execution of the Equity Pledge Agreement, Call Option Agreement and Power of Attorney agreement. The spouses agree to not make any assertions in connection with the equity interest of VIE and to waive consent on further amendment or termination of the Equity Pledge Agreement, Call Option Agreement and Power of Attorney agreement. The spouses further pledge to execute all necessary documents and take all necessary actions to ensure appropriate performance under these agreements upon YOD WFOE’s request. In the event the spouses obtain any equity interests of VIE which are held by the nominee shareholders, the spouses agreed to be bound by the VIE agreements, including the Technical Services Agreement, and comply with the obligations thereunder, including sign a series of written documents in substantially the same format and content as the VIE agreements.
+Letter of Indemnification
+ 
+Pursuant to the Letter of Indemnification among YOD WFOE and each nominee shareholder, YOD WFOE agrees to indemnify such nominee shareholder against any personal, tax or other liabilities incurred in connection with their role in equity transfer to the greatest extent permitted under PRC law. YOD WFOE further waives and releases the nominee shareholders from any claims arising from, or related to, their role as the legal shareholder of the VIE, provided that their actions as a nominee shareholder are taken in good faith and are not opposed to YOD WFOE’s best interests. The nominee shareholders will not be entitled to dividends or other benefits generated therefrom, or receive any compensation in connection with this arrangement. The Letter of Indemnification will remain valid until either the nominee shareholder or YOD WFOE terminates the agreement by giving the other party hereto sixty (60) days’ prior written notice.
+
+9
+-
+
+Management Services Agreement
+ 
+In addition to VIE agreements described above, the Company’s subsidiary and the parent company of YOD WFOE, YOU On Demand (Asia) Limited, a company incorporated under the laws of Hong Kong (“YOD Hong Kong”) has entered into a Management Services Agreement with each VIE.
+ 
+Pursuant to such Management Services Agreement, YOD Hong Kong has the exclusive right to provide to the VIE management, financial and other services related to the operation of the VIE’s business, and the VIE is required to take all commercially reasonable efforts to permit and facilitate the provision of the services by YOD Hong Kong. As compensation for providing the services, YOD Hong Kong is entitled to receive a fee from the VIE, upon demand, equal to 100% of the annual net profits as calculated on accounting policies generally accepted in the PRC of the VIE during the term of the Management Services Agreement. YOD Hong Kong may also request ad hoc quarterly payments of the aggregate fee, which payments will be credited against the VIE’s future payment obligations.
+ 
+In addition, at the sole discretion of YOD Hong Kong, the VIE is obligated to transfer to YOD Hong Kong, or its designee, any part or all of the business, personnel, assets and operations of the VIE which may be lawfully conducted, employed, owned or operated by YOD Hong Kong, including:
+ 
+(a)          business opportunities presented to, or available to the VIE may be pursued and contracted for in the name of YOD Hong Kong rather than the VIE, and at its discretion, YOD Hong Kong may employ the resources of the VIE to secure such opportunities;
+ 
+(b)          any tangible or intangible property of the VIE, any contractual rights, any personnel, and any other items or things of value held by the VIE may be transferred to YOD Hong Kong at book value;
+ 
+(c)          real property, personal or intangible property, personnel, services, equipment, supplies and any other items useful for the conduct of the business may be obtained by YOD Hong Kong by acquisition, lease, license or otherwise, and made available to the VIE on terms to be determined by agreement between YOD Hong Kong and the VIE;
+ 
+(d)          contracts entered into in the name of the VIE may be transferred to YOD Hong Kong, or the work under such contracts may be subcontracted, in whole or in part, to YOD Hong Kong, on terms to be determined by agreement between YOD Hong Kong and the VIE; and
+ 
+(e)          any changes to, or any expansion or contraction of, the business may be carried out in the exercise of the sole discretion of YOD Hong Kong, and in the name of and at the expense of, YOD Hong Kong;
+ 
+provided, however, that none of the foregoing may cause or have the effect of terminating (without being substantially replaced under the name of YOD Hong Kong) or adversely affecting any license, permit or regulatory status of the VIE.
+ 
+The term of each Management Services Agreement is 20 years, and may not be terminated by the VIE, except with the consent of, or a material breach by, YOD Hong Kong.
+ 
+Loan Agreement
+ 
+Pursuant to the Loan Agreement among YOD WFOE and the nominee shareholders, YOD WFOE agrees to lend RMB 19.8 million and RMB 0.2 million, respectively, to the nominee shareholders of SSF for the purpose of establishing SSF and for development of its business. As of December 31, 2017, RMB 27.6 million ($4.2 million) and RMB nil have been lent to Lan Yang and Yun Zhu, respectively. Lan Yang has contributed all of the RMB 27.6 million ($4.2 million) in the form of capital contribution and accordingly the loan is eliminated with the capital of SSF upon consolidation. The loan can only be repaid by a transfer by the nominee shareholders of their equity interests in SSF to YOD WFOE or YOD WFOE’s designated persons, through (i) YOD WFOE having the right, but not the obligation to at any time purchase, or authorize a designated person to purchase, all or part of the Nominee Shareholders’ equity interests in SSF at such price as YOD WFOE shall determine (the “Transfer Price”), (ii) all monies received by the nominee shareholders through the payment of the Transfer Price being used solely to repay YOD WFOE for the loans, and (iii) if the Transfer Price exceeds the principal amount of the loans, the amount in excess of the principal amount of the loans being deemed as interest payable on the loans, and to be payable to YOD WFOE in cash. Otherwise, the loans shall be deemed to be interest-free. The term of the Loan Agreement is perpetual, and may only be terminated upon the nominee shareholders receiving repayment notice, or upon the occurrence of an event of default under the terms of the agreement.
+Our Unconsolidated Equity Investment
+ 
+We hold 30% ownership interest in Shandong Media, our print-based media business, and account for our investment in Shandong Media under the equity method. The business of Shandong Media includes a television programming guide publication, the distribution of periodicals, the publication of advertising, the organization of public relations events, the provision of information related services, copyright transactions, the production of audio and video products, and the provision of audio value added communication services.
+ 
+We hold 39% ownership interest in Hua Cheng, and account for our investment in Hua Cheng under the equity method. The business of Hua Cheng mainly includes distribution of content and video on demand business on television terminal.
+ 
+
+10
+--
+
+ 
+
+We hold 50% ownership interest in Wecast Internet Limited (“Wecast Internet”), and account for our investment in Wecast Internet under the equity method. The business of Wecast Internet mainly includes computer network technology development, integrated circuit of software and hardware technology development, technical consultation.
+ 
+Investments in Shandong Media, Hua Cheng and Wecast Internet where the Company can exercise significant influence, but not control, is classified as a long-term equity investment and accounted for using the equity method. Under the equity method, the investment is initially recorded at cost and adjusted for the Company’s share of undistributed earnings or losses of the investee. Investment losses are recognized until the investment is written down to nil provided the Company does not guarantee the investee’s obligations nor it is committed to provide additional funding.
+ 
+Our Industry (For the Supply Chain Finance & Management Businesses)
+
+As discussed in the Overview above, our business ecosystem is based on seven product engines, and plan to launch respective product engines in full as high priorities by the management. For 2017, only engine seven was operational. There are two revenue sources for engine seven “Supply Chain Finance and Management for Vertical Products”. They are supply chain management & structured finance and alternative finance & carry trade businesses. We intend to run the engine upon its Venus blockchain based platform, which includes TPaaS & VPaaS system. As of fourth quarter of 2017, TPaaS system went into trial operation. In 2018, we intend to strengthen our engine seven operation by including among other things i) Venus platform fully operational, and ii) establishing blockchain based supply chain finance model.
+Supply Chain Management & Structured Finance
+ 
+The growth rate of supply chain finance volume in developed countries is 10%-30% in 2011, while the growth rate of that in emerging economies in China and India is 20%-25%. Financing for small and medium-sized enterprises has always been difficult around the globe, especially during expanded reproduction period. As most small and medium-sized corporate issuers are not qualified to issue under regular asset backed securities and asset backed notes products on national credit market, innovative structured financing tools such as asset-backed specific plan scheme plays a key role as complementary financing tools in helping those firms to meet their potential financing needs. Also according to “2015-2020 China’s supply chain finance market forward-looking research report published by “Zhiyan Consulting”, it forecasts that China's supply chain finance market size will reach 15 trillion by 2020.
+Alternative Finance & Carry Trade
+ 
+Growth in global alternative finance market is accelerating and China is still dominating. By 2015, global market reached 918 billion RMB while China market reached 673.5 billion RMB. By the end of 2016, China market increased from about 673.5 billion RMB in 2015 to 1,603 billion RMB in 2016, accounting for 99.2% of the total Asian financial market, and an estimated 85% of the total global market in 2016.1
+ 
+China is currently dominated by non-business alternative finance, which totaled 928 billion RMB in 2016 led by peer-to-peer consumer lending. However, it is likely that a sizable proportion of consumers in China are using personal loans for business purposes. Of which, small and medium-sized enterprises (SMEs) are increasingly turning to alternative sources of financing. In China, micro, small and medium-sized enterprises, which make up 99% of registered companies, are the most active forces in China and they are playing an important role in promoting economy, increasing taxation revenue and stabilizing employment rate. However, only 10% of SMEs are able to get financing from banks, and over 80% are relying on alternative financing sources, especially in the commodities trade market. 2
+ 
+From Carry Trade’s perspective, the RMB exchange rate is close to the highest level since October 2017, the expected volatility is near the lowest level in two consecutive years, and the interest rate is relatively high because of government’s deleveraging measures. Chinese currency has become Asia’s the most attractive carry trade over the same period of time.3
+ 
+(Data Source:
+ 1. Global insights from regional Alternative Studies by KPMG
+ 2. The 2nd Asia Pacific Region Alternative Finance Industry Report
+ 3. Yuan Carry Trade Is Back on Top as China Enforces Stability)
+ 
+Our Competition (For the Supply Chain Finance & Management Businesses)
+ 
+In recent years, the market for supply chain finance business is faced with increasingly aggressive competitions. Our primary competitors are mainly from supply chain finance solutions providers in the B2B Supply Chain marketplace. Specifically, in terms of the commodities global trade market, our major competitors are primarily engaged in import/export finance through buying/selling commodity flows from global companies, financing for lower credit rated SME and asset liability management funding for bank treasuries using commodity trade flows SSC is aiming to strengthen competitiveness in utilizing dynamic ontology based methodology and Fintech powered risk management tools to rate and evaluate risks inherent in those borrowers distinguishes us from those competitors.
+
+11
+--
+
+Our Employees
+ 
+As of December 31, 2017, we had a total of 70 full-time employees including three located in the United States. The following table sets forth the number of our employees by function on December 31, 2017.
+
+Function | Number of Employees
+---------------------------------+--------------------
+Business Development | 15 
+Project Management and Operation | 11 
+Technology | 23 
+Finance and Legal | 12 
+Human Resource | 3 
+Administrative | 6 
+TOTAL | 70 
+
+ 
+Our employees are not represented by a labor organization or covered by a collective bargaining agreement. We have not experienced any work stoppages.
+ 
+We are required under PRC law to make contributions to employee benefit plans at specified percentages of employee salary. In addition, we are required by the PRC law to cover employees in China with various types of social insurance. We believe that we are in compliance with the relevant PRC laws.
+ 
+Seasonality
+ 
+Our operating results and operating cash flows historically for our legacy YOD business have not been subject to seasonal variations. However, we expect a disproportionate amount of our revenues generated from Wecast Services quarter over quarter to be subject to seasoned fluctuations at holiday periods and due to introduction of new products. This pattern may change, however, as a result of new market opportunities or new product introductions.
+Regulation
+ 
+General Regulation of Businesses
+ 
+We are required to obtain government approval from the Ministry of Commerce of the People’s Republic of China (“MOFCOM”), and other government agencies in China for transactions such as our acquisition or disposition of business entities in China. Additionally, foreign ownership of business and assets in China is not permitted without specific government approval. For this reason, Sinotop Beijing was acquired through our acquisition of YOD Hong Kong, which controls Sinotop Beijing through a series of contractual agreements with YOD Hong Kong and YOD WFOE. We use voting control agreements among the parties so as to obtain equitable and legal ownership or control of our subsidiaries and VIEs to conduct our legacy YOD business.
+
+12
+--
+
+ 
+
+Investment activities in China by foreign investors are principally governed by the Guidance Catalogue of Industries for Foreign Investment, or the Catalogue, which was promulgated and is amended from time to time by the MOFCOM and the National Development and Reform Commission. The Catalogue sets forth the industries in which foreign investments are "encouraged", "restricted", or "prohibited". Industries that are not listed in any of the above three categories are permitted areas for foreign investments and are generally open to foreign investment unless specifically restricted by other PRC regulations. Establishment of wholly foreign-owned enterprises is generally allowed in encouraged and permitted industries. Foreign investors are not allowed to invest in industries in the prohibited category.
+ 
+According to the latest version of the Catalogue, which came into effect on July 28, 2017, foreign investments in value-added telecommunications services (except for e-commerce) are "restricted". Therefore, we provide value-added telecommunications services through our VIE in China.
+ 
+Other than value-added telecommunications, most of our PRC subsidiaries mainly engage in technical services, consultations and trading activities, which are "encouraged" under the latest version of the Catalogue.
+ 
+Under PRC law, the establishment of a wholly foreign-owned enterprise is subject to the approval of or filing with the MOFCOM or its local counterparts and the wholly foreign-owned enterprise must register with the competent industry and commerce bureau. Our significant PRC subsidiaries have duly obtained all material approvals required for their business operations.
+ 
+Foreign direct investment in telecommunications companies in China is governed by the Regulations for the Administration of Foreign-Invested Telecommunications Enterprises, which was promulgated by the State Council on December 11, 2001 and recently amended on February 6, 2016. The regulations provide that a foreign investor's beneficial equity ownership in an entity providing value-added telecommunications services in China is not permitted to exceed 50%. In addition, the main foreign investor who invests in a foreign-invested value-added telecommunications enterprise operating the value-added telecommunications business in China must demonstrate a good track record and experience in operating a value-added telecommunications business, provided such investor is a major one among the foreign investors investing in a value-added telecommunications enterprise in China. Moreover, foreign investors that meet these requirements must obtain approvals from the Ministry of Industry and Information Technology, or the MIIT, and the MOFCOM, or their authorized local counterparts, which retain considerable discretion in granting approvals, for its commencement of value-added telecommunications business in China.
+ 
+The MIIT's Notice Regarding Strengthening Administration of Foreign Investment in Operating Value-Added Telecommunication Businesses, or the MIIT Notice, issued on July 13, 2006 prohibits holders of these services licenses from leasing, transferring or selling their licenses in any form, or providing any resources, sites or facilities, to any foreign investors intending to conduct such businesses in China.
+ 
+The PRC market in which the we operate our legacy YOD business poses certain macro-economic and regulatory risks and uncertainties. These uncertainties extend to the ability of us to conduct wireless telecommunication services through contractual arrangements in the PRC since the industry remains highly regulated. We conduct those operations in China through a series of contractual arrangements entered among YOD WFOE, Sinotop Beijing as the parent company of Zhong Hai Media, SSF and the respective legal shareholders of Sinotop Beijing and SSF. We believe that these contractual arrangements are in compliance with PRC law and are legally enforceable. If Sinotop Beijing, SSF or their respective legal shareholders fail to perform the obligations under the contractual arrangements or any dispute relating to these contracts remains unresolved, YOD WFOE or YOD HK can enforce its rights under the VIE contracts through PRC law and courts. However, uncertainties in the PRC legal system could limit the Company’s ability to enforce these contractual arrangements. In particular, the interpretation and enforcement of these laws, rules and regulations involve uncertainties. If YOD WFOE had direct ownership of Sinotop Beijing and SSF, it would be able to exercise its rights as a shareholder to effect changes in the board of directors of Sinotop Beijing or SSF, which in turn could effect changes at the management level, subject to any applicable fiduciary obligations. However, under the current contractual arrangements, the Company relies on Sinotop Beijing, SSF and their respective legal shareholders to perform their contractual obligations to exercise effective control. The Company also gives no assurance that PRC government authorities will not take a view in the future that is contrary to the opinion of the Company. If the current ownership structure of the Company and its contractual arrangements with the VIEs and their equity holders were found to be in violation of any existing or future PRC laws or regulations, the Company’s ability to conduct its business could be impacted and the Company may be required to restructure its ownership structure and operations in the PRC to comply with the changes in the PRC laws which may result in deconsolidation of the VIEs.
+ 
+In particular, the interpretation and enforcement of these laws, rules and regulations involve uncertainties. If YOD WFOE had direct ownership of Sinotop Beijing and SSF, it would be able to exercise its rights as a shareholder to effect changes in the board of directors of Sinotop Beijing or SSF, which in turn could effect changes at the management level, subject to any applicable fiduciary obligations. However, under the current contractual arrangements, the Company relies on Sinotop Beijing, SSF and their respective legal shareholders to perform their contractual obligations to exercise effective control. The Company also gives no assurance that PRC government authorities will not take a view in the future that is contrary to the opinion of the Company. If the current ownership structure of the Company and its contractual arrangements with the VIEs and their equity holders were found to be in violation of any existing or future PRC laws or regulations, the Company’s ability to conduct its business could be impacted and the Company may be required to restructure its ownership structure and operations in the PRC to comply with the changes in the PRC laws which may result in deconsolidation of the VIEs.
+ 
+In addition, the telecommunications, information and media industries remain highly regulated. Restrictions are currently in place and are unclear with respect to which segments of these industries foreign owned entities, like YOD WFOE, may operate. The PRC government may issue from time to time new laws or new interpretations on existing laws to regulate areas such as telecommunications, information and media, some of which are not published on a timely basis or may have retroactive effect. For example, there is substantial uncertainty regarding the Draft Foreign Investment Law, including, among others, what the actual content of the law will be as well as the adoption and effective date of the final form of the law. Administrative and court proceedings in China may also be protracted, resulting in substantial costs and diversion of resources and management attention. While such uncertainty exists, we cannot assure that the new laws, when it is adopted and becomes effective, and potential related administrative proceedings will not have a material and adverse effect on our ability to control the affiliated entities through the contractual arrangements. Regulatory risk also encompasses the interpretation by the tax authorities of current tax laws, and our legal structure and scope of operations in the PRC, which could be subject to further restrictions resulting in limitations on our ability to conduct business in the PRC.
+ 
+Our Digital Asset Trading Platforms represent owned and partner exchanges that will support our Digital Asset Products. These exchanges will in the future exist in various sovereign jurisdictions. Once operational, the Company and the DBOT ATS shall comply with the requirements for alternative trading systems, unless an exemption is available. These requirements include registering the alternative trading system as a broker-dealer.
+ 
+
+13
+--
+
+Taxation
+ 
+On March 16, 2007, the National People’s Congress of China passed the EIT Law, and on November 28, 2007, the State Council of China passed its implementing rules which took effect on January 1, 2008. The EIT Law and its implementing rules impose a unified earned income tax (“EIT”) rate of 25.0% on all domestic-invested enterprises and foreign invested enterprises (“FIEs”) unless they qualify under certain limited exceptions. In addition, under the EIT Law, an enterprise established outside of China with “de facto management bodies” within China is considered a resident enterprise and will normally be subject to an EIT of 25% on its global income. The implementing rules define the term “de facto management bodies” as “an establishment that exercises, in substance, overall management and control over the production, business, personnel, accounting, etc., of a Chinese enterprise.” If the PRC tax authorities subsequently determine that we should be classified as a resident enterprise, then our organization’s global income will be subject to PRC income tax of 25%. For detailed discussion of PRC tax issues related to resident enterprise status, see “Risk Factors - Risks Related to Doing Business in China - Under the New Enterprise Income Tax Law, we may be classified as a “resident enterprise” of China.” Such classification will likely result in unfavorable tax consequences to us and our non-PRC shareholders.”
+ 
+On December 22, 2017 the U.S. Tax Reform, which among other effects, reduces the U.S. federal corporate income tax rate to 21% from 34% (or 35% in certain cases) beginning in 2018, requires companies to pay a one-time transition tax on certain unrepatriated earnings from non-U.S. subsidiaries that is payable over eight years, makes the receipt of future non-U.S. sourced income of non-U.S. subsidiaries tax-free to U.S. companies and creates a new minimum tax on the earnings of non-U.S. subsidiaries relating to the parent’s deductions for payments to the subsidiaries. U.S. Tax Reform, also eliminates the expiration date for U.S. net operating loss carryovers (NOLs”). Such carryovers may now be carried forward indefinitely rather than for 20 years. In addition, NOLs can only be used to offset 80% of taxable income in any single year.
+ 
+Foreign Currency Exchange
+ 
+Approximately 50% of our gross profit and most expenses are denominated in RMB. Under the PRC foreign currency exchange regulations applicable to us, RMB is convertible for current account items, including the distribution of dividends, interest payments, trade and service-related foreign exchange transactions. Currently, our PRC operating entities may purchase foreign currencies for settlement of current account transactions, including payments of dividends to us, without the approval of the PRC State Administration of Foreign Exchange (“SAFE”), by complying with certain procedural requirements. Conversion of RMB for capital account items, such as direct investment, loan, security investment and repatriation of investment, however, is still subject to the approval of SAFE. In particular, if our PRC operating entities borrow foreign currency through loans from us or other foreign lenders, these loans must be registered with SAFE, and if we finance the subsidiaries by means of additional capital contributions, these capital contributions must be approved by certain government authorities, including the MOFCOM, or their respective local branches. These limitations could affect our PRC operating entities’ ability to obtain foreign exchange through debt or equity financing.
+Dividend Distributions
+ 
+Approximately 50% of our gross profit are earned by our PRC entities. However, PRC regulations restrict the ability of our PRC entities to make dividends and other payments to their offshore parent company. PRC legal restrictions permit payments of dividends by our PRC entities only out of their accumulated after-tax profits, if any, determined in accordance with PRC accounting standards and regulations. Each of our PRC subsidiaries is also required under PRC laws and regulations to allocate at least 10% of our annual after-tax profits determined in accordance with PRC GAAP to a statutory general reserve fund until the amounts in such fund reaches 50% of its registered capital. These reserves are not distributable as cash dividends. Our PRC subsidiaries have the discretion to allocate a portion of their after-tax profits to staff welfare and bonus funds, which may not be distributed to equity owners except in the event of liquidation.
+ 
+In addition, under the new EIT law, the Notice of the State Administration of Taxation on Negotiated Reduction of Dividends and Interest Rates (“Notice 112”), which was issued on January 29, 2008, and the Notice of the State Administration of Taxation Regarding Interpretation and Recognition of Beneficial Owners under Tax Treaties (“Notice 601”), which became effective on October 27, 2009, dividends from our PRC operating subsidiaries paid to us through our entities will be subject to a withholding tax at a rate of 10%. Furthermore, the ultimate tax rate will be determined by treaty between the PRC and the tax residence of the holder of the PRC subsidiary. Dividends declared and paid from before January 1, 2008 on distributable profits are grandfathered under the EIT Law and are not subject to withholding tax.
+ 
+The Company intends on reinvesting profits, if any, and does not intend on making cash distributions of dividends in the near future. 
+ 

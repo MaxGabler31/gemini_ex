@@ -1,0 +1,396 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business 
+ 
+We were incorporated April 24, 2012 under the laws of the State of Nevada. We intend to engage primarily in the development of regenerative medical applications which we intend to license, develop internally or acquire outright from other entities up to the point of successful completion of Phase I and or Phase II clinical trials after which we would either attempt to sell or license those developed applications or, alternatively, advance the application further to Phase III clinical trials. The primary factor to be considered by us in arriving at a decision to advance an application further to Phase III clinical trials would be a greater than anticipated indication of efficacy seen in Phase I trials.
+ 
+As of December 18, 2018 , we have not licensed any existing therapies which may be marketed. On June 23, 2015 Regen Biopharma, Inc. ( “Regen”) entered into an agreement (“Agreement”) with Zander Therapeutics, Inc. ( “Zander”) whereby Regen granted to Zander an exclusive worldwide right and license for the development and commercialization of certain intellectual property controlled by Regen (“ License IP”) for non-human veterinary therapeutic use for a term of fifteen years. Zander is a subsidiary of Entest Biomedical, Inc.
+ 
+Pursuant to the Agreement, Zander shall pay to Regen one-time, non-refundable, upfront payment of one hundred thousand US dollars ($100,000) as a license initiation fee which must be paid within 90 days of June 23, 2015 and an annual non-refundable payment of one hundred thousand US dollars ($100,000) on on July 15th, 2016 and each subsequent anniversary of the effective date of the Agreement.
+ 
+
+2
+-
+
+ 
+The abovementioned payments may be made, at Zander’s discretion, in cash or newly issued common stock of Zander or in common stock of Entest BioMedical Inc. valued as of the lowest closing price on the principal exchange upon which said common stock trades publicly within the 14 trading days prior to issuance.
+ Pursuant to the Agreement, Zander shall pay to Regen royalties equal to four percent (4%) of the Net Sales , as such term is defined in the Agreement, of any Licensed Products, as such term is defined in the Agreement, in a Quarter.
+ 
+Pursuant to the Agreement, Zander will pay Regen ten percent (10%) of all consideration (in the case of in-kind consideration, at fair market value as monetary consideration) received by Zander from sublicensees ( excluding royalties from sublicensees based on Net Sales of any Licensed Products for which Regen receives payment pursuant to the terms and conditions of the Agreement).
+ 
+Zander is obligated pay to Regen minimum annual royalties of ten thousand US dollars ($10,000) payable per year on each anniversary of the Effective Date of this Agreement, commencing on the second anniversary of June 23, 2015. This minimum annual royalty is only payable to the extent that royalty payments made during the preceding 12-month period do not exceed ten thousand US dollars ($10,000).
+ 
+The Agreement may be terminated by Regen:
+ 
+If Zander has not sold any Licensed Product by ten years of the effective date of the Agreement or Zander has not sold any Licensed Product for any twelve (12) month period after Zander’s first commercial sale of a Licensed Product.
+ 
+The Agreement may be terminated by Zander with regard to any of the License IP if by five years from the date of execution of the Agreement a patent has not been granted by the United States patent and Trademark Office to Regen with regard to that License IP.
+ 
+The Agreement may be terminated by Zander with regard to any of the License IP if a patent that has been granted by the United States patent and Trademark Office to Regen with regard to that License IP is terminated.
+ 
+The Agreement may be terminated by either party in the event of a material breach by the other party.
+ 
+On December 17, 2018 Regen Biopharma, Inc.(“Licensor”) , KCL Therapeutics, Inc. (“Assignee”) and Zander Therapeutics, Inc. (“Licensee”) entered into a LICENSE ASSIGNMENT AND CONSENT AGREEMENT whereby, with regards to certain intellectual property which was assigned by Regen Biopharma, Inc.(“Assigned Propertis”) to its wholly owned subsidiary KCL Therapeutics, Inc., Licensor hereby transfers and assigns to Assignee all rights, duties, and obligations of Licensor under the Agreement with respect to the Assigned Properties , and Assignee agrees to assume such duties and obligations thereunder and be bound to the terms of the Agreement with respect thereto.
+ 
+Zander and Regen are under common control. David Koos serves as Chairman & CEO of both Regen BioPharma, Inc. and Zander Therapeutics Inc. Harry Lander serves as President and Chief Scientific Officer of both Regen BioPharma, Inc. and Zander Therapeutics, Inc. Todd S. Caven serves as CFO of both Regen BioPharma, Inc. and Zander Therapeutics Inc. Koos, Lander and Caven also serve as Directors of Zander Therapeutics, Inc. Zander Therapeutics, Inc. is the sole licensee of Regen's NR2F6 intellectual property for veterinary applications.
+ 
+Zander will be required to obtain approval from the United States Food and Drug Administration (“FDA”) in order to market any Licensed Product which may be developed within the United States and no assurance may be given that such approval would be granted.
+  
+3
+-
+
+ 
+Regen has been assigned intellectual property with regard to the gene NR2F6 . It is believed by the Company that NR2F6 activation leads to the shutting down of the immune system’s natural ability to generate cytokines that lead to inflammation. The Company believes that identification of a small molecule which could inhibit this receptor would potentially provide an avenue for immunotherapy of cancer and that identification of a small molecule which could activate this receptor could potentially provide a therapy for autoimmune disease.
+ 
+The Company is actively identifying small molecules via a high throughput screening program that inhibit NR2F6 leading to immune cell activation for oncology applications. On December 15, 2015 Regen entered into an agreement (“Agreement”) with the National Center for Advancing Translational Sciences (“NCATS”), which is a component of the National Institutes of Health (“NIH”), an agency of the U.S. Department of Health and Human Services whereby Regen and NCATS shall collaborate to screen for small molecule compounds that activate or inhibit the orphan nuclear receptor, NR2F6.
+ 
+Initial high throughput screening assays were performed in July to September of 2016 by the contract research organization Proteros, GMBH for Regen Biopharma, Inc. This assay is based on Regen Biopharma Inc.’s screening assay whereby the full-length or ligand-binding domain of NR2F6 Reporter gene assays are used to screen for compounds that modulate gene expression via binding to nuclear hormone receptors. Transfer of this assay to ChemDiv, Inc., another contract research organization, by Regen Biopharma, Inc. was effected in January, 2017.
+ 
+In molecular biology, a reporter gene is a gene that researchers attach to a regulatory sequence of another gene of interest in bacteria, cell culture, animals or plants. Certain genes are chosen as reporters because the characteristics they confer on organisms expressing them are easily identified and measured, or because they are selectable markers. Reporter genes are often used as an indication of whether a certain gene has been taken up by or expressed in the cell or organism population.
+ 
+High Throughput Screens (HTS) are recent scientific methods in which hundreds of thousands of experimental samples are subjected to simultaneous testing under given conditions. Through this process one can rapidly identify active compounds, antibodies, or genes that modulate a particular biomolecular pathway. The results of these experiments provide starting points for drug design and for understanding the interaction or role of a particular biochemical process in biology.
+ 
+HTS performed on behalf of Regen Biopharma, Inc. have been ongoing as of September 9, 2016. Through HTS four newly discovered small molecule compounds which (a) can bind to the relevant structure in a cellular system and (b) show evidence of the ability to modulate activity of NR2F6 have been discovered. In addition, research conducted by ChemDiv on Regen’s behalf has identified a compound that activate NR2F6 which may be effective in treating autoimmune diseases with virtually no toxicity.
+ 
+Regen will be required to obtain approval from the FDA in order to market any of Regen’s products or therapies. No approval has been granted by the FDA for the marketing and sale of any of the Company’s products and therapies and no assurance may be given that any of the Company’s products or therapies will be granted such approval. The Company’s current plans include the development of regenerative medical applications up to the point of successful completion of Phase I and/ or Phase II clinical trials after which we would either attempt to sell or license those developed applications or, alternatively, advance the application further to Phase III clinical trials. We can provide no assurance that the Company will be able to sell or license any product or that, if such product is sold or licensed, such sale or license will be on terms favorable to the Company.
+ Distribution methods of the products or services:
+ It is anticipated that Regen will enter into licensing and/or sublicensing agreements with outside entities in order that Regen may obtain royalty income on the products and services which it may develop and commercialize.
+ 
+
+4
+-
+
+ 
+
+Competitive business conditions and Regen's competitive position in the industry and methods of competition 
+ 
+We are recently formed and have yet to achieve revenues or profits. The pharmaceutical and biologics industries in which we intend to compete are highly competitive and characterized by rapid technological advancement. Many of our competitors have greater resources than we do.
+ 
+We intend to be competitive by utilizing the services and advice of individuals that we believe have expertise in their field in order that we can concentrate our resources on projects in which products and services in which we have the greatest potential to secure a competitive advantage may be developed and commercialized .
+ 
+To that effect, we have established a Scientific Advisory Board of (the Advisory Board) comprised of individuals who we believe have a high level of expertise in their professional fields and who have agreed to provide counsel and assistance to us in (a) determining the viability of proposed projects (b) obtaining financing for projects and (c) obtaining the resources required to initiate and complete a project in the most cost effective and rapid manner.
+ Members of the Advisory Board include as follows:
+ 
+Dr. Weiping Min, M.D., PhD
+ 
+Dr. Min is currently a Professor, Department of Surgery at the University of Western Ontario. Dr. Min obtained his MD from Jiangxi Medical University, China, in 1983 and his Ph.D.in Immunology from Kyushu University, Japan. Dr. Min has completed postdoctoral training at the Department of Medical Microbiology and Immunology, University of Alberta and the Department of Immunology, University of Toronto.
+ Dr. Min has served on the Advisory Board since May 20, 2012. As consideration for agreeing to serve as a member of the Scientific Advisory Board of Regen, Bio Matrix Scientific Group, Inc. (“BMSN”) has agreed to issue to Dr. Min 200,000 of the common shares of BMSN.
+ David James Graham White, M.D., Ph.D.
+ Dr. White currently serves as Novartis/Stiller Professor of Xenotransplantation at the University of Western Ontario ( to which he was appointed in 2000) and is a member of British Transplantation Society, the British Society of Immunologists, the Transplantation Society, the European Society of Organ Transplantation, the Royal College of Pathologists and the Athenaeum. Dr. White obtained a B.Sc. degree from the University of Surrey and M.D. and Ph.D. degrees from Cambridge University.
+ Dr. White has served on the Advisory Board since May 20, 2012. As consideration for agreeing to serve as a member of the Scientific Advisory Board of Regen, BMSN has agreed to issue to Dr. White 200,000 of the common shares of BMSN.
+ David A. Suhy, PhD
+ Dr. Suhy currently serves as Vice President of Research and Development at Tacere Therapeutics, a position he has held since October 2012. From April 2008 to October 2012 Dr. Suhy served as Director of Research and Development at Tacere Therapeutics. Dr. Suhy was one of the inventors of Tacere Therapeutics’ TT-033 and has directed development of the TT-03x series of compounds which target the Hepatitis C virus (HCV) through to Investigational New Drug enabling studies.
+  Dr. Suhy obtained a Bachelor’s Degree in biochemistry from the University of Pittsburgh in 1990 and a PhD in Biochemistry, Molecular Biology and Cell Biology from Northwestern University in 1996. Dr. Suhy conducted his post-doctoral work at Stanford University (Post Doctoral Fellow, Microbiology & Immunology) between 1996 and 1999.
+ Dr. Suhy has served on the Advisory Board since September 11, 2013. As consideration for agreeing to serve as a member of the Scientific Advisory Board of Regen, BMSN has agreed to issue to Dr. White 500,000 of the common shares of BMSN.
+
+
+5
+-
+
+ 
+
+Dr. Amit Patel, MD MS
+ Dr. Patel currently serves as an associate professor in the Division of Cardiothoracic Surgery at the University of Utah School of Medicine and Director of Clinical Regenerative Medicine and Tissue Engineering at the University of Utah and and been involved in over 17 FDA trials in the area of cellular therapy.
+ Dr. Patel has served on the Advisory Board since October 12, 2014. As consideration for agreeing to serve as a member of the Scientific Advisory Board of Regen, the Company has issued to Dr. Patel 136,000 common shares of Regen.
+ Dr. Hinrich Gronemeyer
+ Dr. Hinrich Gronemeyer is a research director at the Institute of Genetics, Cellular & Molecular Biology (IGBMC) in Strasbourg-Illkirch. Dr. Gronemeyer is a Research Director (Class 'Exceptional') of the French National Institute of Health and Medical Research (INSERM) and was Privatdozent at the University Karlsruhe. Hinrich Gronemeyer had extensive collaborations with the pharmaceutical industry (Bristol Myers Squibb, Roussel-Uclaf, Schering AG, etc.) and has been involved in evaluations and brainstormings of several major companies. His 189 publications received an average citation of 83.34 and an h-factor of 59.
+Lorraine J. Gudas, PhD
+ Dr. Gudas is Chairman and Revlon Pharmaceutical Professor of Pharmacology and Toxicology of the Department of Pharmacology at Weill Cornell Medical College and is recognized as one of the world experts on nuclear receptors.
+ Dr. Gudas is a member of the American Society for Pharmacology and Experimental Therapeutics and a Fellow of the American Association for the Advancement of Science. She has served a term as an elected member of the Board of Directors of the American Association of Cancer Research and as chair of the Board of Scientific Counselors of the National Institute of Diabetes and Digestive and Kidney Disorders as well as the Board of Scientific Counselors of the National Heart, Lung and Blood Institute. She has served as a member of the external advisory boards of three Cancer Centers: The Vermont Cancer Center, The Lineberger Cancer Center of U.N.C. Chapel Hill, and the University of Maryland Greenebaum Cancer Center. In 1999 she received the 2nd Annual "Women in Cancer Research" award from the American Association of Cancer Research. She is on the Editorial Boards of a number of journals, including Molecular Cancer Therapeutics, Molecular and Cellular Biology, Molecular Cancer Research and the Journal of Biological Chemistry. As consideration for agreeing to serve as a member of the Scientific Advisory Board of Regen, the Company has issued to Dr. Gudas 100,000 shares of Regen’s Series A Preferred Stock.
+ Rohit Duggal, PhD,
+ Dr. Dugal has 17 years of professional experience in the drug discovery field having worked at Pfizer as a leader of the cancer stem cell group. Dr. Duggal has experience in translating small molecules into clinical candidates, including development of Filibuvir, for which he was granted thePfizer Achievement Award. At Genelux Corp he established cancer stem cell program which aimed at utilization of viruses to selectively target cancer initiating cells. As consideration for agreeing to serve as a member of the Scientific Advisory Board of Regen, the Company has issued to Dr. Dugal 100,000 shares of Regen’s Series A Preferred Stock.
+Dr. Jonathan Baell, PhD
+ Dr. Baell is a professor or Medicinal Chemist at Monash University (Australia). Dr. Baell is a Larkins Fellow, Co-Director of the Australian Translational Medicinal Chemistry Facility and an NHMRC Senior Research Fellow, at Monash Institute of Pharmaceutical Sciences (MIPS). 
+ Dr. Baell has served on the Advisory Board since August 5, 2015. As consideration for agreeing to serve as a member of the Scientific Advisory Board of Regen, the Company has issued to Dr. Baell 100,000 shares of Regen’s Series A Preferred Stock.
+  
+6
+-
+
+William S. Blaner, PhD
+ Dr. Blaner is Professor of Nutritional Sciences at Columbia University where he studies the metabolism and actions of retinoids. 
+ Dr. Santosh Kesari, MD PhD
+ Dr. Kesari is Director of the Neuro-Oncology Program, the Neurotoxicity Treatment Center, and the Translational Neuro-Oncology Laboratories at Moores Cancer Center and serves as Professor of Neurosciences at the UCSD School of Medicine.As consideration for agreeing to serve as a member of the Scientific Advisory Board of Regen, the Company has issued 100,000 shares of the Company’s Series A Preferred Stock to Dr. Kesari.
+Louise Purton, PhD:
+ Dr. Purdon is Associate Professor at the St. Vincent's Institute of Medical Research at the University of Melbourne, Co-Head of the Stem Cell Regulation Unit and Associate Director at the Institute.
+Ralph Nachman, M.D.
+ Dr. Nachman, a hematologist, is a member of the Institute of Medicine and is a University Professor and former Chairman of Medicine at NY Presbyterian/Weill Cornell Medical Center. 
+ Dr. Nachman has served on the Advisory Board since November 13, 2015. As consideration for agreeing to serve as a member of the Scientific Advisory Board of Regen, the Company has issued to Dr. Nachman 100,000 shares of Regen’s Series A Preferred Stock.
+ Helen Sabzevari, Ph.D.
+ Dr. Sabzevari previously served as senior vice president and head of immuno-oncology, global research and early development at EMD Serono,Inc. Dr, Sabzevari is the co-founder of Compass Therapeutics, which is an antibody discovery and development company.
+ Stefano Bertuzzi, PhD, MPH 
+ Dr. Bertuzzi, is currently the Executive Director of the American Society for Cell Biology and has been named Executive Director and CEO of the American Society for Microbiology, effective January 4, 2016. Before leading the American Society for Cell Biology, Dr. Bertuzzi was a senior scientific executive at the National Institutes of Health where he served as Director of the Office of Science Policy, Planning, and Communications, and as a science policy advisor to the NIH Director.
+ Dr.Bertuzzi has served on the Advisory Board since October 14, 2015. As consideration for agreeing to serve as a member of the Scientific Advisory Board of Regen, the Company has issued to Dr. Bertuzzi 100,000 shares of Regen’s Series A Preferred Stock.
+ 
+We have also established a Business Advisory Board. Members of the Business Advisory Board (“BAB”) include:
+ 
+Jean Pierre Millon
+ 
+On October 16, 2017 Mr. Millon agreed to serve as Chairman of the BAB pursuant to an agreement by and between Millon and the Company (“Millon BAB Agreement”).
+ 
+Mr. Millon currently serves on the Board of Directors of CVS Health. Mr. Millon previously served as President and Chief Executive Officer of PCS Health Systems , Inc. from June 1996 until his retirement in September 2000. Mr. Millon also previously served in an executive capacity at Eli Lilly and Company.
+ 
+The term of the Millon BAB Agreement shall be from October 9, 2017 to October 9, 2020.
+ 
+
+7
+-
+
+ 
+
+The Millon BAB Agreement requires Millon to
+ 
+
+(a) | meet with the Company upon written request, at dates and times mutually agreeable to Hopkins and the Company, to discuss any matter involving the Company or its subsidiaries 
+----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(b) | utilize his best efforts to : 
+----+-----------------------------------------------------------------------
+
+ 
+Identify and introduce to the Company persons not previously known to the Company to serve as members of the Company’s Business Advisory Board (“Advisory Candidates”).
+ 
+Identify and introduce to the Company potential purchasers of the Company’s securities, such purchasers not previously known to the Company (“Buyers”)
+ 
+As consideration for agreeing to serve, Millon is to receive a total of 6,000,000 of the Company’s Series M Preferred shares (“Millon BAB Shares”).
+ 
+4,000,000 of the BAB Shares were issued to Millon on November 1, 2017. An additional 1,000,000 of the BAB Shares are to be issued on the second anniversary of the Millon BAB Agreement and an additional 1,000,000 of the Millon BAB Shares are to be issued on the third anniversary of the Millon BAB Agreement.
+ 
+Millon may convert his Millon BAB Shares into an equivalent number of the common shares of the Company upon the sooner of:
+ 
+a) the execution of a licensing agreement for the Company’s NR2F6 intellectual property, or,
+ b) upon the third anniversary of the Millon BAB Agreement..
+ 
+In the event that a candidate identified and introduced by Millon to the Company serves as a member of the BAB, Millon shall receive, ten business days subsequent to the completion of 12 months service by the candidate as a member of the BAB a referral fee equal to 5% (paid to Millon in Series M Preferred shares of the Company) of the shares of the Series M Preferred shares of the Company issued to the referred candidate.
+ In the event of a purchase of securities by one or more Buyers, such Buyers not previously known to the Company and identified and introduced by Millon to the Company, Millon shall receive a referral fee equal to 5% (paid to Millon in Series M Preferred shares of the Company) of the shares of common stock of the Company purchased by the Buyer.
+ 
+Robert D. Hopkins
+ 
+On October 2, 2017Robert D Hopkins agreed to serve as a member of the Company’s BAB pursuant to an agreement by and between the Company and Hopkins (“Hopkins BAB Agreement”).
+ 
+The term of the Hopkins BAB Agreement shall be from October 2, 2017 to October 2, 2020.
+ 
+The Hopkins BAB Agreement requires Hopkins to
+ 
+
+(c) | meet with the Company upon written request, at dates and times mutually agreeable to Hopkins and the Company, to discuss any matter involving the Company or its subsidiaries 
+----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(d) | utilize his best efforts to : 
+----+-----------------------------------------------------------------------
+
+
+8
+-
+
+ 
+
+Identify and introduce to the Company persons not previously known to the Company to serve as members of the Company’s Business Advisory Board (“Advisory Candidates”).
+ Identify and introduce to the Company potential purchasers of the Company’s securities, such purchasers not previously known to the Company (“Buyers”)
+ 
+As consideration for agreeing to serve, Hopkins received 1,000,000 of the Company’s Series M Preferred shares. An additional 1,000,000 Series M Preferred Shares are to be issued on the first, second and third anniversary of the Fortisano BAB Agreement
+ 
+Hopkins may convert these shares into an equivalent number of the Company’s common shares upon the sooner of
+ 
+a) the execution of a licensing agreement for the Company’s NR2F6 intellectual property, or,
+ b) upon the third anniversary of the Hopkins BAB Agreement..
+ 
+In the event that a candidate identified and introduced by Hopkins to the Company serves as a member of the BAB, Hopkins shall receive, ten business days subsequent to the completion of 12 months service by the candidate as a member of the BAB a referral fee equal to 5% (paid to Hopkins in Series A Preferred shares of the Company) of the shares of the common shares of the Company issued to the referred candidate.
+ In the event of a purchase of securities by one or more Buyers, such Buyers not previously known to the Company and identified and introduced by Hopkins to the Company, Hopkins shall receive a referral fee equal to 5% (paid to Hopkins in Series A Preferred shares of the Company) of the shares of common stock of the Company purchased by the Buyer.
+ 
+Roger Fortisano
+ 
+On October 2, 2017 Mr. Roger Fortisano agreed serve as a member of the Company’s BAB pursuant to an agreement by and between the Company and Fortisano (“Fortisano BAB Agreement”).
+ 
+Mr. Fortisano currently serves as Vice-President for Leadership and Strategic Development at UW Health, the academic medical center and health system for the University of Wisconsin.
+ 
+The term of the Fortisano BAB Agreement shall be from October 2, 2017 to October 2, 2020.
+ 
+The Fortisano BAB Agreement requires Fortisano to
+ 
+
+(a) | meet with the Company upon written request, at dates and times mutually agreeable to Fortisano and the Company, to discuss any matter involving the Company or its subsidiaries 
+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(b) | utilize his best efforts to : 
+----+-----------------------------------------------------------------------
+
+ 
+Identify and introduce to the Company persons not previously known to the Company to serve as members of the Company’s Business Advisory Board (“Advisory Candidates”).
+ 
+Identify and introduce to the Company potential purchasers of the Company’s securities, such purchasers not previously known to the Company (“Buyers”)
+ 
+As consideration for agreeing to serve, Fortisano is to receive a total of 4,000,000 of the Company’s Series M Preferred shares (“Fortisano BAB Shares”).
+ 
+1,000,000 of the Fortisano BAB Shares were issued to Fortisano on October 11, 2017. An additional 1,000,000 of the BAB Shares are to be issued on the first, second and third anniversary of the Fortisano BAB Agreement.
+ 
+
+9
+-
+
+ 
+
+Fortisano may convert his Fortisano BAB Shares into an equivalent number of the common shares of the Company upon the sooner of:
+ 
+
+a) | the execution of a licensing agreement for the Company’s NR2F6 intellectual property, or, 
+---+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+b) | upon the third anniversary of the Fortisano BAB Agreement. 
+---+----------------------------------------------------------------------------------------------------
+
+
+
+In the event that a candidate identified and introduced by Fortisano to the Company serves as a member of the BAB, Fortisano shall receive, ten business days subsequent to the completion of 12 months service by the candidate as a member of the BAB a referral fee equal to 5% (paid to Fortisano in Series A Preferred shares of the Company) of the shares of the common shares of the Company issued to the referred candidate.
+ 
+In the event of a purchase of securities by one or more Buyers, such Buyers not previously known to the Company and identified and introduced by Fortisano to the Company, Fortisano shall receive a referral fee equal to 5% (paid to Fortisano in Series A Preferred shares of the Company) of the shares of common stock of the Company purchased by the Buyer.
+ 
+Sources and availability of raw materials and the names of principal suppliers 
+ 
+The supplies and materials required to conduct our operations are available through a wide variety of sources and may be obtained through a wide variety of sources.
+ 
+Patents, trademarks, licenses, franchises, concessions, royalty agreements or labor contracts, including duration 
+ Patents:
+ 
+The Company has been assigned the following patents.
+ 
+US Patent #8389708
+ 
+METHOD OF CANCER TREATMENT USING SIRNA SILENCING  The present invention is a method for the treatment of cancer involving tumor derived immunosuppression in a subject. The method comprises administering to a subject one or more siRNA constructs capable of inhibiting the expression of an immunosuppressive molecule. The invention also provides siRNA constructs and compositions.
+ 
+US Patent #9091696  MODULATION OF NR2F6 AND METHODS AND USES THEREOF  The application provides methods of modulating NR2F6 in a cell or animal in need thereof by administering an effective amount of a NR2F6 modulator.
+ 
+US Patent #8263571
+ 
+Gene silencing of the brother of the regulator of imprinted sites (BORIS)
+ 
+US Patent #10,088,485
+
+
+10
+--
+
+METHODS OF SCREENING COMPOUNDS THAT CAN MODULATE NR2F6 BY DISPLACEMENT OF A REFERENCE LIGAND
+ 
+This invention discloses compositions of matter, protocols and methods of screening test compounds to identifying agonists and antagonists of the orphan nuclear receptor NR2F6 by measuring the ability of a test compound to occupy the active site of NR2F6, in the presence of a reference compound.
+Royalty Agreements
+ 
+On November 20, 2014 the Company and Dr. Christine Ichim entered into a Consulting Agreement (“Christine Ichim Consulting Agreement”). Pursuant to the Christine Ichim Consulting Agreement, Dr. Ichim shall invent for the Company the following:
+ 
+
+a) | Cord Blood Small Molecule (“CBSM invention”) 
+---+--------------------------------------------------------------------------------------
+
+
+b) | Cancer Small Molecule Ligand Binding (“CSMLB Invention”) 
+---+--------------------------------------------------------------------------------------------------
+
+
+c) | Cancer Small Molecule Alpha helix Inhibitor (“CSMAI Invention”) 
+---+---------------------------------------------------------------------------------------------------------
+
+
+d) | Cancer Small Molecule using 170 Compound List (“CSM170 Invention”) 
+---+------------------------------------------------------------------------------------------------------------
+
+ 
+and shall assign to the Company 100% of her right, title, and interest in the above named inventions and any and patent applications filed for the above named inventions (as well as such rights in any divisions, continuations in whole or part or substitute applications).
+ Consideration to be paid by the company to Dr. Ichim pursuant to the Christine Ichim Consulting Agreement shall consist of the following:
+
+
+i) | As consideration for the invention, patent prosecution and assignment of all right, title and interest to CBSM invention Dr. Ichim shall be issued One Hundred Thousand Common Shares of the Company and Three Thousand Dollars, such shares to be issued and dollars to be paid upon the filing with the United States patent and Trademark Office of a provisional applications for patent for the CBSM Invention 
+---+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ii) | As consideration for the invention, patent prosecution and assignment of all right, title and interest to CSMLB invention Dr. Ichim shall be issued One Hundred Thousand Common Shares of the Company and Three Thousand Dollars, such shares to be issued and dollars to be paid upon the filing with the United States patent and Trademark Office of a provisional applications for patent for the CSMLB Invention 
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+iii) | As consideration for the invention, patent prosecution and assignment of all right, title and interest to CSMAI invention Dr. Ichim shall be issued One Hundred Thousand Common Shares of the Company and Three Thousand Dollars, such shares to be issued and dollars to be paid upon the filing with the United States patent and Trademark Office of a provisional applications for patent for the CSMAI Invention 
+-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+iv) | As consideration for the invention, patent prosecution and assignment of all right, title and interest to CSM170 invention Dr. Ichim shall be issued One Hundred Thousand Common Shares of the Company and Three Thousand Dollars, such shares to be issued and dollars to be paid upon the filing with the United States patent and Trademark Office of a provisional applications for patent for the CSM170 Invention v) Dr. Ichim shall be entitled to royalties during the term of any patent granted for the CBSM invention, CSMLB invention ,CSMAI invention and CSM170 invention of 5% of Net Sales made by the Company of the CBSM invention, CSMLB invention ,CSMAI invention and CSM170 invention. Net Sales" means the monetary consideration actually received by Company for the transfer of the invention less any of the following items 
+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+11
+--
+
+
+(a) | outbound shipping, storage, packing and insurance expenses; 
+----+----------------------------------------------------------------
+
+
+(b) | distributor discounts; 
+----+---------------------------
+
+
+(c) | allowance for doubtful accounts or uncollectible accounts receivable; 
+----+--------------------------------------------------------------------------
+
+
+(d) | amounts repaid or credited as a result of rejections, defects, or returns 
+----+------------------------------------------------------------------------------
+
+
+(e) | sales and other excise taxes (excluding VAT), tariffs, export license fees and duties paid to a governmental entity 
+----+------------------------------------------------------------------------------------------------------------------------
+
+
+(f) | sales commissions. 
+----+-----------------------
+
+ 
+Other than obligations to make royalty payments pursuant to the Christine Ichim Consulting Agreement the Company is party to no agreements which would require the Company to pay a royalty or license fee. 
+ Other than pursuant to that agreement by and between the Company and Zander Therapeutics, Inc. the Company is party to no binding agreement which would require payments of any royalties or license fees to the Company.
+ Need for any government approval of principal products or services, effect of existing or probable governmental regulations on the business. 
+ 
+The US Food and Drug Administration (“FDA”) and foreign regulatory authorities will regulate our proposed products as drugs or biologics, , depending upon such factors as the use to which the product will be put, the chemical composition, and the interaction of the product on the human body. In the United States, products that are intended to be introduced into the body will generally be regulated as drugs, while tissues and cells intended for transplant into the human body will be generally be regulated as biologics.
+ 
+Our domestic human drug and biological products will be subject to rigorous FDA review and approval procedures. After testing in animals, an Investigational New Drug Application (“IND”) must be filed with the FDA to obtain authorization for human testing. Extensive clinical testing, which is generally done in three phases, must then be undertaken at a hospital or medical center to demonstrate optimal use, safety, and efficacy of each product in humans.
+ 
+Phase I
+ 
+Phase 1 trials are designed to assess the safety (pharmacovigilance), tolerability, pharmacokinetics, and pharmacodynamics of a drug. These trials are often conducted in an inpatient clinic, where the subject can be observed by full-time staff. The subject who receives the drug is usually observed until several half-lives of the drug have passed. Phase I trials normally include dose-ranging, also called dose escalation, studies so that the appropriate dose for therapeutic use can be found. The tested range of doses usually are a fraction of the dose that causes harm in animal testing and involve a small group of healthy volunteers. However, there are some circumstances when real patients are used, such as patients who have end-stage disease and lack other treatment options.
+ 
+Phase II
+ 
+Phase II trials are designed to assess how well the drug or biologic works, as well as to continue Phase I safety assessments in a larger group of volunteers and patients. Phase II trials are performed on larger groups.
+ 
+Phase III
+ 
+Phase III trials are aimed at being the definitive assessment of how effective the product is in comparison with current best standard treatment and to provide an adequate basis for physician labeling. Phase III trials may also be conducted for the purposes of (i) "label expansion" (to show the product works for additional types of patients/diseases beyond the original use for which the drug was approved for marketing or (ii) to obtain additional safety data, or to support marketing claims for the product.
+ 
+On occasion Phase IV (Post Approval) trials may be required by the FDA. Phase IV trials involve the safety surveillance (pharmacovigilance) and ongoing technical support of a drug after it receives permission to be sold.The safety surveillance is designed to detect any rare or long-term adverse effects over a much larger patient population and longer time period than was possible during the Phase I-III clinical trials.
+ 
+
+12
+--
+
+ 
+
+All phases, must be undertaken at a hospital or medical center to demonstrate optimal use, safety, and efficacy of each product in humans. Each clinical study is conducted under the auspices of an independent Institutional Review Board (“IRB”). The IRB will consider, among other things, ethical factors, the safety of human subjects, and the possible liability of the institution. The time and expense required to perform this clinical testing can far exceed the time and expense of the research and development initially required to create the product. No action can be taken to market any therapeutic product in the United States until an appropriate New Drug Application (“NDA”) or Biologic License Application (“BLA”) or has been approved by the FDA. FDA regulations also restrict the export of therapeutic products for clinical use prior to NDA or BLA approval.
+ 
+Even after initial FDA approval has been obtained, further studies may be required to provide additional data on safety or to gain approval for the use of a product as a treatment for clinical indications other than those initially targeted. In addition, use of these products during testing and after marketing could reveal side effects that could delay, impede, or prevent FDA marketing approval, resulting in FDA-ordered product recall, or in FDA-imposed limitations on permissible
+ 
+The FDA regulates the manufacturing process of pharmaceutical products, and human tissue and cell products, requiring that they be produced in compliance with Current Good Manufacturing Practices (“cGMP”) . The FDA also regulates the content of advertisements used to market pharmaceutical products. Generally, claims made in advertisements concerning the safety and efficacy of a product, or any advantages of a product over another product, must be supported by clinical data filed as part of an NDA or an amendment to an NDA, and statements regarding the use of a product must be consistent with the FDA approved labeling and dosage information for that product.
+ 
+Sales of drugs and biologics outside the United States are subject to foreign regulatory requirements that vary widely from country to country. Even if FDA approval has been obtained, approval of a product by comparable regulatory authorities of foreign countries must be obtained prior to the commencement of marketing the product in those countries. The time required to obtain such approval may be longer or shorter than that required for FDA approval.
+ 
+Amount spent during the last fiscal year on research and development activities 
+ 
+During the fiscal year ended September 30, 2018 we expended $374,436 on research and development activities.
+ 
+Costs and effects of compliance with environmental laws (federal, state and local) 
+ 
+Regen has not incurred any unusual or significant costs to remain in compliance with any environmental laws and does not expect to incur any unusual or significant costs to remain in compliance with any environmental laws in the foreseeable future.
+
+
+Number of total employees and number of full-time employees 
+ 
+As of December 18, 2018 Regen has 4 employees of which one is full time.
+ 

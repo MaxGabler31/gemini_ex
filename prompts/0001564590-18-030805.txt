@@ -1,0 +1,524 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Description of Business 
+ Arrowhead develops medicines that treat intractable diseases by silencing the genes that cause them. Using a broad portfolio of RNA chemistries and efficient modes of delivery, Arrowhead therapies trigger the RNA interference mechanism to induce rapid, deep and durable knockdown of target genes. RNA interference, or RNAi, is a mechanism present in living cells that inhibits the expression of a specific gene, thereby affecting the production of a specific protein. Deemed to be one of the most important recent discoveries in life science with the potential to transform medicine, the discoverers of RNAi were awarded a Nobel Prize in 2006 for their work. Arrowhead’s RNAi-based therapeutics leverage this natural pathway of gene silencing.
+Pipeline Overview
+ Arrowhead is focused on developing innovative drugs for diseases with a genetic basis, typically characterized by the overproduction of one or more proteins. The depth and versatility of our RNAi technologies enable us to potentially address conditions in virtually any therapeutic area and pursue disease targets that are not otherwise addressable by small molecules and biologics. 
+ARO-AAT
+ARO-AAT is an RNAi therapeutic candidate for the treatment of liver disease associated with alpha-1 antitrypsin deficiency. ARO-AAT is a second-generation subcutaneously administered compound designed to knock down the Alpha-1 antitrypsin (AAT) gene transcript and reduce the hepatic production of the mutant AAT protein. Arrowhead completed AROAAT1001, a Phase 1 randomized, double-blind, placebo controlled single-ascending dose (SAD) and multiple-ascending dose (MAD) study to evaluate the safety, tolerability, pharmacokinetics, and effect of subcutaneous doses of ARO-AAT on serum alpha-1 antitrypsin levels in healthy adult volunteers in 2018 and plans to initiate a Phase 2 study in 2019.
+ Initial results from AROAAT1001 were presented in November 2018 at The Liver Meeting®, the Annual Meeting of the American Association for the Study of Liver Disease (AASLD). In the AROAAT1001 study, 45 normal healthy volunteers (NHV) 
+ 1
+
+received a single dose of ARO-AAT (n=16), three monthly doses of ARO-AAT (n=12), or placebo (n=17). Key data presented include the following:
+  
+• | ARO-AAT at single- and multiple-doses produced robust and consistent reductions in serum AAT levels
+--+----------------------------------------------------------------------------------------------------
+
+ oSingle-doses of 200 and 300 mg resulted in greater than 91% serum AAT reduction with 3 of 4 subjects having concentrations below the level of quantitation (BLQ) 
+ oIn 200 and 300 mg single-dose cohorts, an average serum AAT reduction of greater than 90% was sustained for 6-weeks 
+ oIn the multiple-dose cohorts of 200 and 300 mg, for subjects receiving all 3 doses, an average of greater than 90% reduction in serum AAT was sustained for longer than 14 weeks 
+ oThe maximum NADIR reduction is 94%
+ •Monthly serum AAT follow up is ongoing with 9 of 10 subjects at BLQ in the multiple-dose cohorts, including 100% of subjects from the 300 mg cohort
+ •Duration of response indicates that quarterly or less frequent dosing appears feasible
+ •ARO-AAT has been well tolerated at all doses tested (up to 300 mg) given three times every 28 days
+ oThe most common adverse events (AE) were upper respiratory tract infection (39%) and headache (32%)
+ Goal of ARO-AAT Treatment
+ The goal of ARO-AAT treatment is prevention and potential reversal of Z-AAT accumulation-related liver injury and fibrosis. Reduction of inflammatory Z-AAT protein, which has been clearly defined as the cause of progressive liver disease in AATD patients, is important as it is expected to halt the progression of liver disease and allow fibrotic tissue repair.
+ Alpha-1 Antitrypsin Deficiency (AATD)
+ AATD is a genetic disorder associated with liver disease in children and adults, and pulmonary disease in adults. AAT is a circulating glycoprotein protease inhibitor that is primarily synthesized and secreted by liver hepatocytes. Its physiologic function is the inhibition of neutrophil proteases to protect healthy tissues during inflammation and prevent tissue damage. The most common disease variant, the Z mutant, has a single amino acid substitution that results in improper folding of the protein.  The mutant protein cannot be effectively secreted and accumulates in globules in the hepatocytes. This triggers continuous hepatocyte injury, leading to fibrosis, cirrhosis, and increased risk of hepatocellular carcinoma.
+Current Treatments
+ Individuals with the homozygous PiZZ genotype have severe deficiency of functional AAT leading to pulmonary disease and hepatocyte injury and liver disease. Lung disease in this patient population is frequently treated with AAT augmentation therapy. However, augmentation therapy does nothing to treat liver disease, and there is no specific therapy for hepatic manifestations. There is a significant unmet need as liver transplant, with its attendant morbidity and mortality, is currently the only available cure.
+The Alpha-1 Project
+ Arrowhead has an agreement with The Alpha-1 Project (TAP), the venture philanthropy subsidiary of the Alpha-1 Foundation. TAP’s mission is to support organizations in pursuit of cures and therapies for lung and liver disease caused by AATD. Under the terms of the agreement, TAP has partially funded development of ARO-AAT. In addition to the funding, TAP will make its scientific advisors available to Arrowhead, assist with patient recruitment for clinical trials with its Alpha-1 Foundation Patient Research Registry, and engage in other collaborative efforts that support development of ARO-AAT.
+ ARO-APOC3
+ARO-APOC3 is designed to reduce production of Apolipoprotein C-III (apoC-III), a component of triglyceride rich lipoproteins (TRLs) including VLDL and chylomicrons and a key regulator of triglyceride metabolism. The company believes that knocking down the hepatic production of apoC-III may result in reduced VLDL synthesis and assembly, enhanced breakdown of TRLs, and better clearance of VLDL and chylomicron remnants. A CTA is planned for the fourth calendar quarter of 2018.
+ Hypertriglyceridemia
+ Elevated triglyceride levels are an independent risk factor for cardiovascular disease. Severely elevated triglycerides (often over 2,000 mg/dL) in patients with familial chylomicronemia syndrome (FCS), a rare genetic disorder, can result in potentially fatal acute pancreatitis.
+ 
+2
+
+ARO-ANG3
+ ARO-ANG3 is designed to reduce production of angiopoietin-like protein 3 (ANGPTL3), a liver synthesized inhibitor of lipoprotein lipase and endothelial lipase. ANGPTL3 inhibition has been shown to lower serum LDL, serum and liver triglyceride and has genetic validation as a novel target for cardiovascular disease. A CTA was filed in October 2018 and Arrowhead intends to begin a Phase 1 study in 2019.
+ Dyslipidemia and Hypertriglyceridemia 
+ Dyslipidemia and hypertriglyceridemia are risk factors for atherosclerotic coronary heart disease and cardiovascular events.
+ ARO-ENaC
+ARO-ENaC is designed to reduce production of the epithelial sodium channel alpha subunit (αENaC) in the airways of the lung. In cystic fibrosis patients, increased ENaC activity contributes to airway dehydration and reduced mucociliary transport. A CTA is planned for 2019.
+Cystic Fibrosis
+ Cystic fibrosis (CF) is a rare disease caused by a genetic mutation that leads to mucus buildup in the lungs and pancreas. In CF lung disease, patients can have difficulty breathing and experience frequent and persistent lung infections.
+ ARO-HIF2
+ ARO-HIF2 is being developed for the treatment of clear cell renal cell carcinoma (ccRCC). ARO-HIF2 is designed to inhibit the production of HIF-2α, which has been linked to tumor progression and metastasis in ccRCC. Arrowhead believes it is an attractive target for intervention because over 90% of ccRCC tumors express a mutant form of the Von Hippel-Landau protein that is unable to degrade HIF-2α, leading to its accumulation during tumor hypoxia and promoting tumor growth. A CTA is planned for 2019.
+ Renal Cell Carcinoma
+ Renal Cell Carcinoma is a type of kidney cancer that originates in the cells that line the small tubes that filter waste material from the blood. RCC is the most common type of kidney cancer accounting for more than 90% of cases with approximately 50,000 diagnoses in the U.S. each year.  Unfortunately, patients with advanced stages of RCC have a 5-year survival rate of only 12-25%. Surgical resection is the mainstay of current treatment while chemotherapy and radiation have not been successful at prolonging survival. The treatment options for patients with metastatic disease are extremely limited.
+Partnered Programs
+ Janssen Pharmaceuticals, Inc.
+ Arrowhead entered into a license agreement in October 2018 with Janssen Pharmaceuticals, Inc., part of the Janssen Pharmaceutical Companies of Johnson & Johnson, to develop and commercialize ARO-HBV. In addition, Arrowhead entered into a research collaboration and option agreement with Janssen to potentially collaborate for up to three additional RNAi therapeutics against new targets to be selected by Janssen.
+ Under the terms of the license agreement, Arrowhead received $175 million as an upfront payment. Separately, Johnson & Johnson Innovation – JJDC, Inc. (JJDC) made a $75 million equity investment in Arrowhead at a price of $23.00 per share of Arrowhead common stock.
+ Arrowhead is eligible to receive up to approximately $1.6 billion in milestone payments for the license agreement. Arrowhead is also eligible to receive approximately $1.9 billion in option and milestone payments for the collaboration and option agreement related to up to three additional targets. Arrowhead is further eligible to receive tiered royalties up to mid teens under the license agreement and up to low teens under the collaboration and option agreement on product sales.
+ARO-HBV
+ ARO-HBV is a third-generation subcutaneously administered RNAi therapeutic candidate being developed as a potential treatment for patients with chronic hepatitis B virus (HBV) infection. Arrowhead is conducting ARO-HBV1001, a Phase 1/2 clinical 
+ 3
+
+study evaluating the safety, tolerability, and pharmacokinetic effects of single-ascending doses (SAD) of ARO-HBV in healthy adult volunteers, as well as the safety, tolerability, and pharmacodynamic effects of multiple-ascending doses (MAD) of ARO-HBV in patients with chronic HBV. 
+ Initial results from AROHBV1001 were presented in November 2018 at The Liver Meeting®, the Annual Meeting of the American Association for the Study of Liver Disease (AASLD). The data in normal healthy volunteers (NHV) who received a single dose of ARO-HBV or placebo (n=30) and chronic hepatitis B patients who received three monthly doses of ARO-HBV in combination with entecavir or tenofovir (NUC) with greater than six weeks of available hepatitis B surface antigen (HBsAg) data (n=24) include the following:
+ •
+ARO-HBV administered subcutaneously appears to be well-tolerated at single or multiple monthly doses up to 400 mg
+  
+o | Mild injection site reactions were observed with approximately 12% of subcutaneous injections
+--+----------------------------------------------------------------------------------------------
+
+ •
+Strong HBsAg responses were observed in all HBV patients
+  
+o | Mean NADIR -1.9 Log10 (-98.7%)
+--+-------------------------------
+
+
+o | Range -1.3 (-95.0%) to -3.8 Log10 (-99.98%)
+--+--------------------------------------------
+
+ •
+HBsAg reductions were similar in hepatitis B e-antigen (HBeAg) positive and HBeAg negative patients
+  
+o | Mean HBsAg NADIR in HBeAg positive (n=11) -2.1 Log10
+--+-----------------------------------------------------
+
+
+o | Mean HBsAg NADIR in HBeAg negative (n=13) -1.8 Log10
+--+-----------------------------------------------------
+
+ •
+HBsAg reductions were similar for NUC naïve patients (cohort 8) and NUC experienced patients (cohort 9)
+  
+o | Mean HBsAg reduction on day 57 for cohort 8 (n=4) -1.7 Log10
+--+-------------------------------------------------------------
+
+
+o | Mean HBsAg reduction on day 57 for cohort 9 (n=4) -1.9 Log10
+--+-------------------------------------------------------------
+
+ •
+This study highlighted an improvement over results with Arrowhead’s first-generation compound ARC-520, which targeted only HBV transcripts derived from cccDNA (Wooddell, 2017)
+ •
+HBsAg responses observed with ARO-HBV are consistent with the ability of ARO-HBV to silence HBV mRNA from cccDNA and host-integrated viral DNA, a major source of HBsAg in certain patient populations (Wooddell, 2018)
+ •
+Responses were also observed in all other virologic parameters (HBV DNA, HBV RNA, HBeAg, HBcrAg)
+ Amgen Inc.
+ Amgen Inc. acquired a worldwide, exclusive license in September 2016 to develop and commercialize ARO-LPA (now referred to as AMG 890). Under the terms of the agreements taken together for AMG 890 (ARO-LPA) and ARO-AMG1, the Company received $35 million in upfront payments, $21.5 million in the form of an equity investment by Amgen in the Company’s Common Stock, and the Company is eligible to receive up to $617 million in option payments and development, regulatory and sales milestone payments. The Company is further eligible to receive single-digit royalties for sales of products under the ARO-AMG1 agreement and up to low double-digit royalties for sales of products under the ARO-LPA (AMG 890) agreement.
+AMG 890 (ARO-LPA) and ARO-AMG1
+ AMG 890 (ARO-LPA) is designed to reduce production of apolipoprotein A, a key component of lipoprotein(a), which has been genetically linked with increased risk of cardiovascular diseases, independent of cholesterol and LDL levels. Amgen started a Phase 1 clinical study of AMG 890 (ARO-LPA) designed to assess its safety in volunteers with elevated levels of lipoprotein (a) (Lp(a)) in August 2018, triggering a $10 million milestone payment to Arrowhead.
+ ARO-AMG1 is being developed against an undisclosed genetically-validated cardiovascular target under a license and collaboration agreement with Amgen.
+ RNA Interference & the Benefits of RNAi Therapeutics
+ RNA interference (RNAi) is a mechanism present in living cells that inhibits the expression of a specific gene, thereby affecting the production of a specific protein. Deemed to be one of the most important recent discoveries in life science with the potential to transform medicine, the discoverers of RNAi were awarded a Nobel Prize in 2006 for their work. RNAi-based therapeutics may leverage this natural pathway of gene silencing to target and shut down specific disease-causing genes. 
+ Small molecule and antibody drugs have proven effective at inhibiting certain cell surface, intracellular, and extracellular targets. However, other drug targets have proven difficult to inhibit with traditional drug-based and biologic therapeutics. Developing effective drugs for these targets would have the potential to address large underserved markets for the treatment of many diseases. Using the ability to specifically silence any gene, RNAi therapeutics may be able to address previously “undruggable” targets, unlocking the market potential of such targets. 
+ 4
+
+
+
+Figure 3: Mechanism of RNA interference
+ This figure depicts the mechanism by which gene silencing occurs. Double stranded RNAi triggers are introduced into a cell and get loaded into the RNA-induced silencing complex, (RISC). The strands are then separated, leaving an active RISC/RNAi trigger complex. This complex can then pair with and degrade the complementary messenger RNAs (mRNA) and stop the production of the target proteins. RNAi is a catalytic process, so each RNAi trigger can degrade mRNA hundreds of times, which results in a relatively long duration of effect for RNAi therapeutics.
+ Key Advantages of RNAi as a Therapeutic Modality
+  
+• | Silences the expression of disease causing genes;
+--+--------------------------------------------------
+
+
+• | Potential to address any target in the transcriptome including previously "undruggable" targets;
+--+-------------------------------------------------------------------------------------------------
+
+
+• | Rapid lead identification;
+--+---------------------------
+
+
+• | High specificity;
+--+------------------
+
+
+• | Opportunity to use multiple RNA sequences in one drug product for synergistic silencing of related targets; and
+--+----------------------------------------------------------------------------------------------------------------
+
+
+• | RNAi therapeutics are uniquely suited for personalized medicine through target and cell specific delivery and gene knockdown.
+--+------------------------------------------------------------------------------------------------------------------------------
+
+ Targeted RNAi Molecule (TRiMTM) Platform
+ Arrowhead’s Targeted RNAi Molecule (TRiMTM) platform utilizes ligand-mediated delivery and is designed to enable tissue-specific targeting while being structurally simple. Targeting has been core to Arrowhead’s development philosophy and the TRiMTM platform builds on more than a decade of work on actively targeted drug delivery vehicles. Arrowhead scientists have discovered ways to progressively “TRiM” away extraneous features and chemistries and retain optimal pharmacologic activity.
+ The TRiMTM platform comprises a highly potent RNA trigger identified using Arrowhead’s proprietary trigger selection rules and algorithms with the following components optimized, as needed, for each drug candidate: a high affinity targeting ligand; various 
+ 5
+
+linker and chemistries; structures that enhance pharmacokinetics; and highly potent RNAi triggers with sequence specific stabilization chemistries. 
+ Therapeutics developed with the TRiMTM platform offer several advantages: simplified manufacturing and reduced costs; multiple routes of administration; and potential for improved safety because there are less metabolites from smaller molecules, thereby reducing the risk of intracellular buildup. At Arrowhead, we also believe that for RNAi to reach its true potential, it must target organs outside the liver. Arrowhead is leading this expansion with the TRiMTM platform, which has shown the potential to reach multiple tissues, including liver, lung, tumor, muscle and others.
+
+Figure 4: Targeted RNAi Molecule (TRiMTM) Schematic
+ RNA Chemistries
+ The structure and chemistries of the oligonucleotide molecules used to trigger the RNAi mechanism can be tailored for optimal activity. Arrowhead’s broad portfolio of RNA trigger structures and chemistries, including some proprietary structures, enable the company to optimize each drug candidate on a target-by-target basis and utilize the combination of structure and chemical modifications that yield the most potent RNAi trigger.
+ As a component of the TRiMTM platform, Arrowhead’s design philosophy for RNA chemical modifications is to start with a structurally simple molecule and add only selective modification and stabilization chemistries as necessary to achieve the desired level of target knockdown and duration of effect. The conceptual framework for the stabilization strategy starts with a more sophisticated RNAi trigger screening and selection process that identifies potent sequences rapidly in locations that others may miss. 
+ Intellectual Property and Key Agreements
+ The Company controls approximately 356 issued patents (including 199 directed to RNAi trigger molecules; 23 directed to targeting groups or targeting compounds; and 17 for hydrodynamic gene delivery), including European validations, and approximately 316 currently pending patent applications worldwide from 51 different patent families. The Company’s patent applications have been filed throughout the world, including, in the United States, Argentina, ARIPO (Africa Regional Intellectual Property Organization), Australia, Brazil, Canada, Chile, China, Eurasian Patent Organization, Europe, GCC (Gulf Cooperation Council), Hong Kong, Israel, 
+ 6
+
+India, Indonesia, Iraq, Jordan, Japan, Republic of Korea, Lebanon, Mexico, New Zealand, OAPI (African Intellectual Property Organization), Peru, Philippines, Russian Federation, Saudi Arabia, Singapore, Thailand, Taiwan, Uruguay, Venezuela, Vietnam, and South Africa.
+ RNAi Triggers
+ The Company owns issued patents or has filed patent applications directed to RNAi trigger molecules, which serve as the foundation of Arrowhead’s TRiMTM platform, and are targeted to reduce expression of various gene targets, including the following: 
+ 
+ 
+Patent Group | Estimated Year(s) of Expiration
+RNAi Triggers Gene Target
+HBV | 2032, 2036, 2037 
+AAT | 2035, 2038 
+LPA | 2036 
+Factor 12 | 2036, 2038 
+HIF2α | 2034, 2036 
+RRM2 | 2031 
+APOC3 | 2035, 2038 
+ANGPTL3 | 2038 
+α-ENaC | 2028 
+β-ENaC | 2031 
+β-Catenin | 2033 
+Cx43 | 2029 
+HCV | 2023 
+HIF1A | 2026 
+HRH1 | 2027 
+HSF1 | 2030, 2032 
+FRP-1 | 2026 
+KRAS | 2033 
+PDtype4 | 2026 
+PI4Kinase | 2028 
+SYK | 2027 
+TNF-α | 2027, 2028 
+
+Delivery Technologies
+ The delivery technology-related patents and patent applications, which include components used in Arrowhead’s TRiMTM platform, have been filed and issued in the United States, Argentina, Australia, Brazil, Canada, China, Eurasian Patent Organization, Europe (including validations in France, Germany, Italy, Spain, Switzerland, United Kingdom), GCC (Gulf Cooperation Council), Israel, India, Japan, Lebanon, Mexico, New Zealand, Philippines, Russia, South Korea, Singapore, Taiwan, Uruguay, and South Africa. The Company also controls a number of patents directed to hydrodynamic nucleic acid delivery, which issued in the United States, Australia and Europe (validated in Austria, Belgium, Switzerland, Germany, Denmark, Spain, Finland, France, the United Kingdom, Hungary, Ireland, Italy, Netherlands and Sweden).  The approximate year of expiration for each of these various groups of patents are set forth below:  
+ 7
+
+
+ 
+Patent Group | Estimated Year of Expiration
+-------------------------------------------------------+-----------------------------
+Targeting ligands and other RNAi delivery technologies
+Targeting groups (Galactose derivative trimer-PK) | 2031 
+Targeting groups (αvβ3 integrin) | 2035 
+Targeting groups (αvβ6 integrin) | 2037 
+Targeting groups (Galactose derivative ligands) | 2037, 2037 
+RNAi agent design (5′-phosphate mimic) | 2037 
+Physiologically labile linkers | 2036 
+Biologically cleavable linkers | 2036 
+Transferrin targeting | 2028 
+LDLR targeting | 2028 
+Peptide targeting (CPP-Arg) | 2028 
+Peptide targeting (YM3-10H) | 2032 
+Hydrodynamic delivery 
+Second iteration | 2020 
+Third iteration | 2024 
+
+ The RNAi and drug delivery patent landscapes are complex and rapidly evolving. As such, we may need to obtain additional patent licenses prior to commercialization of our candidates. You should review the factors identified in “Risk Factors” in Part I, Item 1A of this Annual Report on Form 10-K.
+ Non-Exclusively Licensed Patent Rights obtained from Roche
+ On October 21, 2011, Arrowhead acquired the RNAi therapeutics business of Hoffmann-La Roche, Inc. and F. Hoffmann-La Roche Ltd. (collectively, “Roche”).  The acquisition provided us with two primary sources of value:
+  
+• | Broad freedom to operate with respect to key patents directed to the primary RNAi-trigger formats: canonical, UNA, meroduplex, and dicer substrate structures; and
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | A large team of scientists experienced in RNAi and oligonucleotide delivery.
+--+-----------------------------------------------------------------------------
+
+ Pursuant to this acquisition, Roche assigned to Arrowhead its entire rights under certain licenses including: the License and Collaboration Agreement between Roche and Alnylam Pharmaceuticals, Inc. (“Alnylam”) dated July 8, 2007 (the “Alnylam License”); the Non-Exclusive Patent License Agreement between Roche and MDRNA, Inc. dated February 12, 2009 (“MDRNA License”); and the Non-Exclusive License Agreement between Roche and City of Hope dated September 19, 2011 (the “COH License”) (Collectively the “RNAi Licenses”). The RNAi Licenses have provided the Company with non-exclusive, worldwide, perpetual, irrevocable, royalty-bearing rights and the right to sublicense a broad portfolio of intellectual property relating to the discovery, development, manufacture, characterization, and use of therapeutic products that function through the mechanism of RNA interference for specified targets.  
+ The RNAi Licenses include licenses to patents related to modifications of double-stranded oligonucleotides, including modifications to the base, sugar, or internucleoside linkage, nucleotide mimetics, and end modifications, which do not abolish the RNAi activity of the double-stranded oligonucleotides.  Also included are patents relating to modified double-stranded oligonucleotides, such as meroduplexes described in U.S. Patent No. 9,074,205 assigned to Marina Biotech (f/k/a MDRNA, Inc.), as well as U.S. Patent Nos. 8,314,227, 9,051,570, and 9,303,260 related to unlocked nucleotide analogs (UNA). The UNA patents were assigned by Marina Biotech to Arcturus Therapeutics, Inc., but remain part of the MDRNA License.  The RNAi Licenses further include patents related to dicer substrates and uses of the double-stranded oligonucleotides that function through the mechanism of RNA interference, such as described in City of Hope‘s U.S. Patent Nos. 8,084,599, 8,658,356, 8,691,786, 8,796,444, 8,809,515, and 9,518,262.  
+ 2012 License to Alnylam
+ In consideration for licenses obtained from Alnylam to certain RNAi intellectual property, in January 2012 we granted Alnylam a worldwide non-exclusive, sublicensable royalty-bearing license under our broad and target-specific DPC intellectual property rights to research, develop and commercialize RNAi-based products against a single undisclosed target in combination with DPC technology. Under the license to Alnylam, Alnylam may be obligated to pay us development and sales milestone payments of up to the low double-digit millions of dollars for each licensed product that progresses through clinical trials, receives marketing approval 
+ 8
+
+and is the subject of a first commercial sale.  Additionally, Alnylam may be obligated to pay us low single-digit percentage royalties on sales of such products.
+ 
+Acquisition of Assets from Novartis
+ On March 3, 2015, the Company entered into an Asset Purchase and Exclusive License Agreement (the “RNAi Purchase Agreement”) with Novartis pursuant to which the Company acquired Novartis’ RNAi assets and rights thereunder. Pursuant to the RNAi Purchase Agreement, the Company acquired or was granted a license to certain patents and patent applications owned or controlled by Novartis related to RNAi therapeutics, was assigned Novartis’s rights under a license from Alnylam (the “Alnylam-Novartis License”) and acquired a license to certain additional Novartis assets (the “Licensed Novartis Assets”).  The patents acquired from Novartis include multiple patent families covering delivery technologies and RNAi-trigger design rules and modifications.  The Licensed Novartis Assets include an exclusive, worldwide right and license, solely in the RNAi field, with the right to grant sublicenses through multiple tiers under or with respect to certain patent rights and know how relating to delivery technologies and RNAi-trigger design rules and modifications.  Under the assigned Alnylam-Novartis License, the Company acquired a worldwide, royalty-bearing, exclusive license with limited sublicensing rights to existing and future Alnylam intellectual property (including intellectual property that came under Alnylam’s control on or before March 31, 2016), excluding intellectual property concerning delivery technology, to research, develop and commercialize 30 undisclosed gene targets. 
+ We see the Roche and Novartis acquisitions as a powerful combination of intellectual property, R&D infrastructure, and RNAi experts. This foundation and substantial progress made by Arrowhead scientists over the last several years enable us to develop what we think are optimal RNAi therapeutics.
+ 
+Cardiovascular Collaboration and License Agreements with Amgen
+ On September 28, 2016, the Company entered into two Collaboration and License agreements and a Common Stock Purchase Agreement with Amgen. Under the First Collaboration and License Agreement, Amgen received an option to a worldwide, exclusive license to ARO-AMG1, an RNAi therapy for an undisclosed genetically validated cardiovascular target. Under the Second Collaboration and License, Amgen received a worldwide, exclusive license to Arrowhead’s novel, RNAi AMG-980 (ARO-LPA) program. The AMG-890 (ARO-LPA) RNAi molecules are designed to reduce elevated lipoprotein(a), which is a genetically validated, independent risk factor for atherosclerotic cardiovascular disease. In both agreements, Amgen is wholly responsible for clinical development and commercialization. Under the terms of the agreements taken together, the Company has received $35 million in upfront payments, $21.5 million in the form of an equity investment by Amgen in the Company’s Common Stock and may receive up to $617 million in option payments and development, regulatory and sales milestone payments. In August 2018, the Company received a $10 million milestone payment from Amgen following the administration of the first dose of AMG 890 (ARO-LPA) in a phase 1 clinical study.  The Company is further eligible to receive single-digit royalties for sales of products under the ARO-AMG1 agreement and up to low double-digit royalties for sales of products under the AMG 890 (ARO-LPA) agreement. 
+License and Research Collaboration Agreements with Janssen Pharmaceuticals, Inc.
+ On October 3, 2018, the Company entered into a License Agreement (“Janssen License Agreement”) and a Research Collaboration and Option Agreement (“Janssen Collaboration Agreement”) with Janssen Pharmaceuticals, Inc. (“Janssen”), part of the Janssen Pharmaceutical Companies of Johnson & Johnson.  The Company also entered into a Stock Purchase Agreement (“JJDC Stock Purchase Agreement”) with Johnson & Johnson Innovation-JJDC, Inc.  (“JJDC”), a New Jersey corporation.  
+ Under the Janssen License Agreement, Janssen will receive a worldwide, exclusive license to the Company’s ARO-HBV program, the Company’s third-generation subcutaneously administered RNAi therapeutic candidate being developed as a potentially curative therapy for patients with chronic hepatitis B virus infection. Beyond the Company’s ongoing Phase 1 / 2 study of ARO-HBV (which will remain the responsibility of the Company), Janssen will be wholly responsible for clinical development and commercialization.
+ Under the Janssen Collaboration Agreement, Janssen will be able to select up to three new targets against which the Company will develop clinical candidates. These candidates are subject to certain restrictions and will not include candidates in the Company’s current pipeline. The Company will perform discovery, optimization and preclinical development on selected targets, entirely funded by Janssen, sufficient to allow the filing of a U.S. Investigational New Drug application or equivalent, at which time Janssen will have the option to take an exclusive license to the Company’s intellectual property rights covering that compound. If the option is exercised, Janssen will be wholly responsible for clinical development and commercialization of each optioned compound.
+ Under the terms of the agreements taken together, the Company has received (i) $175 million as an upfront payment, (ii) $75 million in the form of an equity investment by JJDC in the Company’s common stock at a price of $23.00 per share, and may receive (iii) up to $1.6 billion in development and sales milestones payments for the Janssen License Agreement, and (iv) up to $1.9 billion in 
+ 9
+
+development and sales milestone payments for the three additional targets covered under the Janssen Collaboration Agreement. The Company is further eligible to receive tiered royalties up to mid teens under the Janssen License agreement and up to low teens under the Janssen Collaboration Agreement on product sales.
+ Research and Development Facility 
+ Arrowhead’s research and development operations are located in Madison, Wisconsin. Substantially all of the Company’s assets are located either in this facility or in our corporate headquarters in Pasadena. A summary of our research and development resources is provided below:
+
+• | Approximately 85 R&D personnel currently;
+--+------------------------------------------
+
+
+• | State-of-the-art laboratories consisting of 60,000 total sq. ft.;
+--+------------------------------------------------------------------
+
+
+• | Complete small animal facility;
+--+--------------------------------
+
+
+• | Primate colony housed at the Wisconsin National Primate Research Center, an affiliate of the University of Wisconsin;
+--+----------------------------------------------------------------------------------------------------------------------
+
+
+• | In-house histopathology capabilities;
+--+--------------------------------------
+
+
+• | Animal models for cardio metabolic, viral, lung, and oncologic diseases;
+--+-------------------------------------------------------------------------
+
+
+• | Animal efficacy and safety assessment;
+--+---------------------------------------
+
+
+• | In-house drug manufacturing capabilities to produce first-in-human GMP (phase appropriate) material;
+--+-----------------------------------------------------------------------------------------------------
+
+
+• | Polymer, peptide, oligonucleotide and small molecule synthesis and analytics capabilities (HPLC, NMR, MS, etc.);
+--+-----------------------------------------------------------------------------------------------------------------
+
+
+• | Polymer, peptide and oligonucleotide PK, biodistribution, clearance methodologies; and
+--+---------------------------------------------------------------------------------------
+
+
+• | Conventional and confocal microscopy, flow cytometry, Luminex platform, qRT-PCR, clinical chemistry analytics.
+--+---------------------------------------------------------------------------------------------------------------
+
+Research and Development Expenses 
+ Research and development (R&D) expenses consist of costs incurred in discovering, developing and testing our clinical and preclinical candidates and platform technologies. R&D expenses also include costs related to clinical trials, including costs of contract research organizations to recruit patients and manage clinical trials. Other costs associated with clinical trials include manufacturing of clinical supplies, as well as good laboratory practice (“GLP”) toxicology studies necessary to support clinical trials, both of which are outsourced to cGMP-compliant manufacturers and GLP-compliant laboratories. Total research and development expense for fiscal 2018, 2017 and 2016 was $53.0 million, $50.9 million and $62.1 million, respectively. 
+ At September 30, 2018, we employed approximately 95 employees in an R&D function, primarily working from our facility in Madison, Wisconsin. These employees are engaged in various areas of research on Arrowhead candidate and platform development including synthesis and analytics, PK/biodistribution, formulation, CMC and analytics, tumor and extra-hepatic targeting, bioassays, live animal research, toxicology/histopathology, clinical and regulatory operations, and other areas. Salaries and payroll-related expenses and stock compensation for our R&D activities were $15.1 million, $14.6 million, and $17.4 million in fiscal 2018, 2017 and 2016, respectively.  Costs related to the manufacture of clinical supplies, GLP toxicology studies and clinical trial costs were $23.6 million, $22.2 million, and $32.3 million in fiscal 2018, 2017, and 2016, respectively.  Facility-related costs, primarily rental costs for our leased laboratory in Madison, Wisconsin were $2.3 million, $2.3 million, and $1.3 million in fiscal 2018, 2017, and 2016, respectively. Depreciation and amortization expenses primarily for our lab equipment and leasehold improvements in our leased laboratory in Madison, Wisconsin were $4.7 million, $4.7 million and $3.2 million in fiscal 2018, 2017 and 2016, respectively. Licensing, royalties and milestones expenses were $0, $0, and $3.1 million in fiscal 2018, 2017 and 2016, respectively.  These expenses are primarily related to milestone payments, which can vary from period to period depending on the nature of our various license agreements, and the timing of reaching various development milestones requiring payment. Other research and development expenses were $7.3 million, $7.2 million, and $4.8 million in fiscal 2018, 2017 and 2016, respectively. These expenses primarily relate to laboratory supply costs and animal-related costs for in-vivo studies.   
+ Government Regulation 
+ Government authorities in the United States, at the federal, state, and local levels, and in other countries and jurisdictions, including the European Union, extensively regulate, among other things, the research, development, testing, product approval, manufacture, quality control, manufacturing changes, packaging, storage, recordkeeping, labeling, promotion, advertising, sales, distribution, marketing, and import and export of drugs and biologic products.  All of our foreseeable product candidates are expected to be regulated as drugs. The processes for obtaining regulatory approval in the U.S. and in 
+foreign countries and jurisdictions, along with compliance with applicable statutes and regulations and other regulatory authorities both pre- and post-commercialization, are a 
+ 10
+
+significant factor in the production and marketing of our products and our R&D activities and require the expenditure of substantial time and financial resources.
+ Review and Approval of Drugs in the United States
+In the U.S., the FDA and other government entities regulate drugs under the Federal Food, Drug, and Cosmetic Act (the “FDCA”), the Public Health Service Act, and the regulations promulgated under those statutes, as well as other federal and state statutes and regulations. Failure to comply with applicable legal and regulatory requirements in the U.S. at any time during the product development process, approval process, or after approval, may subject us to a variety of administrative or judicial sanctions, such as a delay in approving or refusal by the FDA to approve pending applications, withdrawal of approvals, delay or suspension of clinical trials, issuance of warning letters and other types of regulatory letters, product recalls, product seizures, total or partial suspension of production or distribution, injunctions, fines, civil monetary penalties, refusals of or debarment from government contracts, exclusion from the federal healthcare programs, restitution, disgorgement of profits, civil or criminal investigations by the FDA, U.S. Department of Justice, State Attorneys General, and/or other agencies, False Claims Act suits and/or other litigation, and/or criminal prosecutions. 
+ An applicant seeking approval to market and distribute a new drug in the U.S. must typically undertake the following:
+(1) completion of pre-clinical laboratory tests, animal studies, and formulation studies in compliance with the FDA’s GLP regulations; 
+ (2) submission to the FDA of an Investigational New Drug Application (“IND”) for human clinical testing, which must become effective without FDA objection before human clinical trials may begin; 
+ (3) approval by an independent institutional review board (“IRB”), representing each clinical site before each clinical trial may be initiated; 
+ (4) performance of adequate and well-controlled human clinical trials in accordance with the FDA’s current good clinical practice (“cGCP”) regulations, to establish the safety and effectiveness of the proposed drug product for each indication for which approval is sought; 
+ (5) preparation and submission to the FDA of a New Drug Application (“NDA”);
+ (6) satisfactory review of the NDA by an FDA advisory committee, where appropriate or if applicable,
+ (7) satisfactory completion of one or more FDA inspections of the manufacturing facility or facilities at which the drug product, and the active pharmaceutical ingredient or ingredients thereof, are produced to assess compliance with current good manufacturing practice (“cGMP”) regulations and to assure that the facilities, methods, and controls are adequate to ensure the product’s identity, strength, quality, and purity; 
+ (8) payment of user fees, as applicable, and securing FDA approval of the NDA; and
+ (9) compliance with any post-approval requirements, such as any Risk Evaluation and Mitigation Strategies (“REMS”) or post-approval studies required by the FDA. 
+ Preclinical Studies and an IND
+Preclinical studies can include in vitro and animal studies to assess the potential for adverse events and, in some cases, to establish a rationale for therapeutic use. The conduct of preclinical studies is subject to federal regulations and requirements, including GLP regulations. Other studies include laboratory evaluation of the purity, stability and physical form of the manufactured drug substance or active pharmaceutical ingredient and the physical properties, stability and reproducibility of the formulated drug or drug product. An IND sponsor must submit the results of the preclinical tests, together with manufacturing information, analytical data, any available clinical data or literature and plans for clinical studies, among other things, to the FDA as part of an IND. Some preclinical testing, such as longer-term toxicity testing, animal tests of reproductive adverse events and carcinogenicity, may continue after the IND is submitted. An IND automatically becomes effective 30 days after receipt by the FDA, unless before that time the FDA raises concerns or questions related to a proposed clinical trial and places the trial on clinical hold. In such a case, the IND sponsor and the FDA must resolve any outstanding concerns before the clinical trial can begin. As a result, submission of an IND may not result in the FDA allowing clinical trials to commence. 
+ 11
+
+Following commencement of a clinical trial under an IND, the FDA may place a clinical hold on that trial. A clinical hold is an order issued by the FDA to the sponsor to delay a proposed clinical investigation or to suspend an ongoing investigation. A partial clinical hold is a delay or suspension of only part of the clinical work requested under the IND. For example, a specific protocol or part of a protocol is not allowed to proceed, while other protocols may do so. No more than 30 days after imposition of a clinical hold or partial clinical hold, the FDA will provide the sponsor a written explanation of the basis for the hold. Following issuance of a clinical hold or partial clinical hold, an investigation may only resume after the FDA has notified the sponsor that the investigation may proceed. The FDA will base that determination on information provided by the sponsor correcting the deficiencies previously cited or otherwise satisfying the FDA that the investigation can proceed.
+ Human Clinical Studies in Support of an NDA
+Clinical trials involve the administration of the investigational product to human subjects under the supervision of qualified investigators in accordance with cGCP requirements, which include, among other things, the requirement that all research subjects provide their informed consent in writing before their participation in any clinical trial. Clinical trials are conducted under written study protocols detailing, among other things, the objectives of the study, the parameters to be used in monitoring safety and the effectiveness criteria to be evaluated. A protocol for each clinical trial and any subsequent protocol amendments must be submitted to the FDA as part of the IND. In addition, an IRB representing each institution participating in the clinical trial must review and approve the plan for any clinical trial before it commences at that institution, and the IRB must conduct continuing review and reapprove the study at least annually. The IRB must review and approve, among other things, the study protocol and informed consent information to be provided to study subjects. An IRB must operate in compliance with FDA regulations. Information about certain clinical trials must be submitted within specific timeframes to the NIH for public dissemination on its ClinicalTrials.gov website. 
+ Human clinical trials are typically conducted in three sequential phases, which may overlap or be combined: 
+ Phase 1: The product candidate is initially introduced into healthy human subjects or patients with the target disease or condition and tested for safety, dosage tolerance, absorption, metabolism, distribution, excretion and, if possible, to gain an early indication of its effectiveness. 
+ Phase 2: The product candidate is administered to a limited patient population to identify possible adverse effects and safety risks, to preliminarily evaluate the efficacy of the product for specific targeted diseases and to determine dosage tolerance and optimal dosage. 
+ Phase 3: The product candidate is administered to an expanded patient population, generally at geographically dispersed clinical trial sites, in well-controlled clinical trials to generate enough data to statistically evaluate the efficacy and safety of the product for approval, to establish the overall risk-benefit profile of the product, and to provide adequate information for the labeling of the product. 
+ Progress reports detailing the results of the clinical trials must be submitted at least annually to the FDA and more frequently if serious adverse events occur. Phase 1, Phase 2, and Phase 3 clinical trials may not be completed successfully within any specified period, or at all. Furthermore, the FDA or the sponsor may suspend or terminate a clinical trial at any time on various grounds, including a finding that the research subjects are being exposed to an unacceptable health risk. Similarly, an IRB can suspend or terminate approval of a clinical trial at its institution, or an institution it represents, if the clinical trial is not being conducted in accordance with the IRB’s requirements or if the drug has been associated with unexpected serious harm to patients. The FDA will typically inspect one or more clinical sites in late-stage clinical trials to assure compliance with cGCP and the integrity of the clinical data submitted. 
+ Submission of an NDA to the FDA
+Assuming successful completion of required clinical testing and other requirements, the results of the preclinical and clinical studies, together with detailed information relating to the product’s chemistry, manufacture, controls and proposed labeling, among other things, are submitted to the FDA as part of an NDA requesting approval to market the drug product for one or more indications. Under federal law, the submission of most NDAs is additionally subject to an application user fee, currently exceeding $2.6 million for applications requiring clinical data, and the sponsor of an approved NDA is also subject to an annual program fee, currently exceeding $300,000.  These fees are typically increased annually. 
+ Under certain circumstances, the FDA will waive the application fee for the first human drug application that a small business, defined as a company with less than 500 employees, including employees of affiliates, submits for review. An affiliate is defined as a business entity that has a relationship with a second business entity if one business entity controls, or has the power to control, the other business entity, or a third-party controls, or has the power to control, both entities.  In addition, an application to market a prescription drug product that has received orphan designation is not subject to a prescription drug user fee unless the application includes an indication for other than the rare disease or condition for which the drug was designated.
+ 12
+
+The FDA conducts a preliminary review of an NDA within 60 days of its receipt and informs the sponsor by the 74th day after the FDA’s receipt of the submission to determine whether the application is sufficiently complete to permit substantive review. The FDA may request additional information rather than accept an NDA for filing. In this event, the application must be resubmitted with the additional information. The resubmitted application is also subject to review before the FDA accepts it for filing. Once the submission is accepted for filing, the FDA begins an in-depth substantive review. The FDA has agreed to specified performance goals in the review process of NDAs. Most such applications are meant to be reviewed within ten months from the date of filing, and most applications for “priority review” products are meant to be reviewed within six months of filing. The review process may be extended by the FDA for three additional months to consider new information or clarification provided by the applicant to address an outstanding deficiency identified by the FDA following the original submission. 
+ Before approving an NDA, the FDA typically will inspect the facility or facilities where the product is manufactured. The FDA will not approve an application unless it determines that the manufacturing processes and facilities are in compliance with cGMP requirements and adequate to assure consistent production of the product within required specifications. Additionally, before approving an NDA, the FDA will typically inspect one or more clinical sites to assure compliance with cGCP. 
+ The FDA also may require submission of an REMS plan to mitigate any identified or suspected serious risks. The REMS plan could include medication guides, physician communication plans, assessment plans, and elements to assure safe use, such as restricted distribution methods, patient registries, or other risk minimization tools. 
+ The FDA is required to refer an application for a novel drug to an advisory committee or explain why such referral was not made. Typically, an advisory committee is a panel of independent experts, including clinicians and other scientific experts, that reviews, evaluates and provides a recommendation as to whether the application should be approved and under what conditions. The FDA is not bound by the recommendations of an advisory committee, but it considers such recommendations carefully when making decisions. 
+ The FDA’s Decision on an NDA
+On the basis of the FDA’s evaluation of the NDA and accompanying information, including the results of the inspection of the manufacturing facilities, the FDA may issue an approval letter or a complete response letter. An approval letter authorizes commercial marketing of the product with specific prescribing information for specific indications. A complete response letter generally outlines the deficiencies in the submission and may require substantial additional testing or information in order for the FDA to reconsider the application. If and when those deficiencies have been addressed to the FDA’s satisfaction in a resubmission of the NDA, the FDA will issue an approval letter. The FDA has committed to reviewing such resubmissions in two or six months depending on the type of information included. Even with submission of this additional information, the FDA ultimately may decide that the application does not satisfy the regulatory criteria for approval. 
+ If the FDA approves a product, it may limit the approved indications for use for the product, require that contraindications, warnings or precautions be included in the product labeling, require that post-approval studies, be conducted to further assess the drug’s safety after approval, require testing and surveillance programs to monitor the product after commercialization, or impose other conditions, including distribution restrictions or other risk management mechanisms, including REMS, which can materially affect the potential market and profitability of the product. After approval, the FDA may seek to prevent or limit further marketing of a product based on the results of post-market studies or surveillance programs. Some types of changes to the approved product, such as adding new indications, manufacturing changes and additional labeling claims, are subject to further testing requirements and FDA review and approval. 
+ The product may also be subject to official lot release, meaning that the manufacturer is required to perform certain tests on each lot of the product before it is released for distribution. If the product is subject to official release, the manufacturer must submit samples of each lot, together with a release protocol showing a summary of the history of manufacture of the lot and the results of all of the manufacturer’s tests performed on the lot, to the FDA. The FDA may in addition perform certain confirmatory tests on lots of some products before releasing the lots for distribution. Finally, the FDA will conduct laboratory research related to the safety and effectiveness of drug products. 
+ Under the Orphan Drug Act, the FDA may grant orphan drug designation to a drug intended to treat a rare disease or condition, which is generally a disease or condition that affects fewer than 200,000 individuals in the United States, or more than 200,000 individuals in the U.S. and for which there is no reasonable expectation that the cost of developing and making available in the U.S. a drug for this type of disease or condition will be recovered from sales in the U.S. for that drug. Orphan drug designation entitles the applicant to incentives such as grant funding towards clinical study costs, tax advantages, and waivers of FDA user fees.  Orphan drug designation must be requested before submitting an NDA, and both the drug and the disease or condition must meet certain criteria specified in the Orphan Drug Act and FDA’s implementing regulations at 21 C.F.R. Part 316.  The granting of an orphan drug designation does not alter the standard regulatory requirements and process for obtaining marketing approval.  Safety and effectiveness of a drug must be established through adequate and well-controlled studies.  
+ 13
+
+After the FDA grants orphan drug designation, the identity of the therapeutic agent and its potential orphan use are disclosed publicly by the FDA. If a product that has orphan drug designation subsequently receives the first FDA approval for the disease for which it has such designation, the product is entitled to orphan product exclusivity, which means that the FDA may not approve any other application to market the same drug for the same indication, except in very limited circumstances, for seven years.  Orphan drug exclusivity does not prevent the FDA from approving a different drug for the same disease or condition, or the same drug for a different disease or condition.
+ Expedited Review and Accelerated Approval Programs
+ A sponsor may seek approval of its product candidate under programs designed to accelerate the FDA’s review and approval of NDAs.  For example, Fast Track Designation may be granted to a drug intended for treatment of a serious or life-threatening disease or condition and data demonstrate its potential to address unmet medical needs for the disease or condition.  The key benefits of Fast Track Designation are the eligibility for priority review, rolling review (submission of portions of an application before the complete marketing application is submitted), and accelerated approval, if relevant criteria are met.  The FDA may grant the NDA a priority review designation, which sets the target date for FDA action on the application at six months after the FDA accepts the application for filing.  Priority review is granted where there is evidence that the proposed product would be a significant improvement in the safety or effectiveness of the treatment, diagnosis, or prevention of a serious condition. Priority review designation does not change the scientific/medical standard for approval or the quality of evidence necessary to support approval.  
+ The FDA may approve an NDA under the accelerated approval program if the drug treats a serious condition, provides a meaningful advantage over available therapies, and demonstrates an effect on either (1) a surrogate endpoint that is reasonably likely to predict clinical benefit, or (2) on a clinical endpoint that can be measured earlier than irreversible morbidity or mortality, that is reasonably likely to predict an effect on irreversible morbidity or mortality or other clinical benefit, taking into account the severity, rarity, or prevalence of the condition and the availability or lack of alternative treatments. Post-marketing studies or completion of ongoing studies after marketing approval are generally required to verify the drug’s clinical benefit in relationship to the surrogate endpoint or ultimate outcome in relationship to the clinical benefit.
+ In addition, the Food and Drug Administration Safety and Innovation Act of 2012, or FDASIA, established the Breakthrough Therapy designation.  A sponsor may seek FDA designation of its product candidate as a breakthrough therapy if the drug is intended, alone or in combination with one or more other drugs, to treat a serious or life-threatening disease or condition and preliminary clinical evidence indicates that the drug may demonstrate substantial improvement over existing therapies on one or more clinically significant endpoints, such as substantial treatment effects observed early in clinical development. If a drug is designated as breakthrough therapy, FDA will provide more intensive guidance on the drug development program and expedite its review. 
+ Post-Approval Requirements
+Drugs manufactured or distributed pursuant to FDA approvals are subject to pervasive and continuing regulation by the FDA, including, among other things, requirements relating to recordkeeping, periodic reporting, product sampling and distribution, advertising and promotion and reporting of adverse experiences with the product. After approval, most changes to the approved product, such as adding new indications or other labeling claims, are subject to prior FDA review and approval. There also are continuing, annual user fee requirements for any marketed products and the establishments at which such products are manufactured, as well as new application fees for supplemental applications with clinical data. 
+ In addition, drug manufacturers and other entities involved in the manufacture and distribution of approved drugs are required to register their establishments with the FDA and state agencies and are subject to periodic unannounced inspections by the FDA and these state agencies for compliance with cGMP requirements. Changes to the manufacturing process are strictly regulated and often require prior FDA approval before being implemented. FDA regulations also require investigation and correction of any deviations from cGMP and impose reporting and documentation requirements upon the sponsor and any third-party manufacturers that the sponsor may decide to use. Accordingly, manufacturers must continue to expend time, money, and effort in the area of production and quality control to maintain cGMP compliance. 
+ Once an approval is granted, the FDA may withdraw the approval if compliance with regulatory requirements and standards is not maintained or if problems occur after the product reaches the market. Later discovery of previously unknown problems with a product, including adverse events or problems with manufacturing processes of unanticipated severity or frequency, or failure to comply with regulatory requirements, may result in revisions to the approved labeling to add new safety information; imposition of post-market studies or clinical trials to assess new safety risks; or imposition of distribution or other restrictions under a REMS program. Other potential consequences include, among other things: 
+  
+• | restrictions on the marketing or manufacturing of the product, complete withdrawal of the product from the market or product recalls;
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+ 14
+
+ 
+• | fines, warning letters or holds on post-approval clinical trials;
+--+------------------------------------------------------------------
+
+
+• | refusal of the FDA to approve pending NDAs or supplements to approved NDAs, or suspension or revocation of product license approvals;
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | product seizure or detention, or refusal to permit the import or export of products; or
+--+----------------------------------------------------------------------------------------
+
+
+• | injunctions or the imposition of civil or criminal penalties.
+--+--------------------------------------------------------------
+
+ The FDA strictly regulates marketing, labeling, advertising and promotion of products that are placed on the market. Drugs may be promoted only for the approved indications and in accordance with the provisions of the approved label. The FDA and other agencies actively enforce the laws and regulations prohibiting the promotion of off-label uses, and a company that is found to have improperly promoted off-label uses may be subject to significant liability. 
+ In addition, the distribution of prescription pharmaceutical products is subject to the Prescription Drug Marketing Act (PDMA), which regulates the distribution of drugs and drug samples at the federal level and sets minimum standards for the registration and regulation of drug distributors by the states. Both the PDMA and state laws limit the distribution of prescription pharmaceutical product samples and impose requirements to ensure accountability in distribution. 
+ Abbreviated New Drug Applications for Generic Drugs
+In 1984, with passage of the Drug Price Competition and Patent Term Restoration Act of 1984 (commonly referred to as the “Hatch-Waxman Amendments”) amending the FDCA, Congress authorized the FDA to approve generic drugs that are the same as drugs previously approved by the FDA under the NDA provisions of the statute. To obtain approval of a generic drug, an applicant must submit an abbreviated new drug application (ANDA) to the agency. In support of such applications, a generic manufacturer may rely on the preclinical and clinical testing previously conducted for a drug product previously approved under an NDA, known as the reference listed drug, or RLD. To reference that information, however, the ANDA applicant must demonstrate, and the FDA must conclude, that the generic drug does, in fact, perform in the same way as the RLD it purports to copy. Specifically, in order for an ANDA to be approved, the FDA must find that the generic version is identical to the RLD with respect to the active ingredients, the route of administration, the dosage form, and the strength of the drug. 
+ At the same time, the FDA must also determine that the generic drug is “bioequivalent” to the innovator drug. Under the statute, a generic drug is bioequivalent to a RLD if “the rate and extent of absorption of the generic drug do not show a significant difference from the rate and extent of absorption of the RLD.”  Upon approval of an ANDA, the FDA indicates that the generic product is “therapeutically equivalent” to the RLD and it assigns a therapeutic equivalence rating to the approved generic drug in its publication “Approved Drug Products with Therapeutic Equivalence Evaluations,” also referred to as the “Orange Book.” Physicians and pharmacists consider the therapeutic equivalence rating to mean that a generic drug is fully substitutable for the RLD. In addition, by operation of certain state laws and numerous health insurance programs, the FDA’s designation of a therapeutic equivalence rating often results in substitution of the generic drug without the knowledge or consent of either the prescribing physician or patient. 
+ Under the Hatch-Waxman Amendments, the FDA may not approve an ANDA until any applicable period of nonpatent exclusivity for the RLD has expired. The FDCA provides a period of five years of data exclusivity for new drug containing a new chemical entity. In cases where such exclusivity has been granted, an ANDA may not be filed with the FDA until the expiration of five years unless the submission is accompanied by a Paragraph IV certification, in which case the applicant may submit its application four years following the original product approval. The FDCA also provides for a period of three years of exclusivity if the NDA includes reports of one or more new clinical investigations, other than bioavailability or bioequivalence studies, that were conducted by or for the applicant and are essential to the approval of the application. This three-year exclusivity period often protects changes to a previously approved drug product, such as a new dosage form, route of administration, combination or indication. 
+ Hatch-Waxman Patent Certification and the 30 Month Stay
+Upon approval of an NDA or a supplement thereto, NDA sponsors are required to list with the FDA each patent with claims that cover the applicant’s product or a method of using the product. Each of the patents listed by the NDA sponsor is published in the Orange Book. When an ANDA applicant files its application with the FDA, the applicant is required to certify to the FDA concerning any patents listed for the reference product in the Orange Book, except for patents covering methods of use for which the ANDA applicant is not seeking approval. 
+ Specifically, the applicant must certify with respect to each patent that: 
+  
+• | the required patent information has not been filed;
+--+----------------------------------------------------
+
+
+• | the listed patent has expired;
+--+-------------------------------
+
+ 15
+
+ 
+• | the listed patent has not expired, but will expire on a particular date and approval is sought after patent expiration; or
+--+---------------------------------------------------------------------------------------------------------------------------
+
+
+• | the listed patent is invalid, unenforceable or will not be infringed by the new product.
+--+-----------------------------------------------------------------------------------------
+
+ A certification that the new product will not infringe the already approved product’s listed patents or that such patents are invalid or unenforceable is called a Paragraph IV certification. If the applicant does not challenge the listed patents or indicate that it is not seeking approval of a patented method of use, the ANDA application will not be approved until all the listed patents claiming the referenced product have expired. If the ANDA applicant has provided a Paragraph IV certification to the FDA, the applicant must also send notice of the Paragraph IV certification to the NDA and patent holders once the ANDA has been accepted for filing by the FDA. The NDA and patent holders may then initiate a patent infringement lawsuit in response to the notice of the Paragraph IV certification. The filing of a patent infringement lawsuit within 45 days after the receipt of a Paragraph IV certification automatically prevents the FDA from approving the ANDA until the earlier of 30 months, expiration of the patent, settlement of the lawsuit or a decision in the infringement case that is favorable to the ANDA applicant. 
+ To the extent that a Section 505(b)(2) applicant is relying on studies conducted for an already approved product, the applicant is required to certify to the FDA concerning any patents listed for the approved product in the Orange Book to the same extent that an ANDA applicant would. As a result, approval of a 505(b)(2) NDA can be stalled until all the listed patents claiming the referenced product have expired, until any non-patent exclusivity, such as exclusivity for obtaining approval of a new chemical entity, listed in the Orange Book for the referenced product has expired, and, in the case of a Paragraph IV certification and subsequent patent infringement suit, until the earlier of 30 months, settlement of the lawsuit or a decision in the infringement case that is favorable to the Section 505(b)(2) applicant. 
+ Pediatric Studies and Exclusivity
+Under the Pediatric Research Equity Act of 2003, an NDA or supplement thereto must contain data that are adequate to assess the safety and effectiveness of the drug product for the claimed indications in all relevant pediatric subpopulations, and to support dosing and administration for each pediatric subpopulation for which the product is safe and effective. With the enactment of FDASIA, sponsors must also submit pediatric study plans prior to the assessment data. Those plans must contain an outline of the proposed pediatric study or studies the applicant plans to conduct, including study objectives and design, any deferral or waiver requests, and other information required by regulation. The applicant, the FDA, and the FDA’s internal review committee must then review the information submitted, consult with each other, and agree upon a final plan. The FDA or the applicant may request an amendment to the plan at any time. 
+ The FDA may, on its own initiative or at the request of the applicant, grant deferrals for submission of some or all pediatric data until after approval of the product for use in adults, or full or partial waivers from the pediatric data requirements. Additional requirements and procedures relating to deferral requests and requests for extension of deferrals are contained in FDASIA. Unless otherwise required by regulation, the pediatric data requirements do not apply to products with orphan designation. 
+ Pediatric exclusivity is another type of non-patent marketing exclusivity in the United States and, if granted, provides for the attachment of an additional six months of marketing protection to the term of any existing regulatory exclusivity, including the non-patent and orphan exclusivity. This six-month exclusivity may be granted if an NDA sponsor submits pediatric data that fairly respond to a written request from the FDA for such data. The data do not need to show the product to be effective in the pediatric population studied; rather, if the clinical trial is deemed to fairly respond to the FDA’s request, the additional protection is granted. If reports of requested pediatric studies are submitted to and accepted by the FDA within the statutory time limits, whatever statutory or regulatory periods of exclusivity or patent protection cover the product are extended by six months. This is not a patent term extension, but it effectively extends the regulatory period during which the FDA cannot accept or approve another application. 
+ Patent Term Restoration and Extension
+A patent claiming a new drug product may be eligible for a limited patent term extension under the Hatch-Waxman Amendments. Those Amendments permit a patent restoration of up to five years for patent term lost during product development and the FDA regulatory review. The restoration period granted is typically one-half the time between the effective date of an IND and the submission date of a NDA, plus the time between the submission date of a NDA and ultimate approval. Patent term restoration cannot be used to extend the remaining term of a patent past a total of 14 years from the product’s approval date. Only one patent applicable to an approved drug product is eligible for the extension, and the application for the extension must be submitted prior to the expiration of the patent in question. The U.S. Patent and Trademark Office reviews and approves the application for any patent term extension or restoration in consultation with the FDA.
+Legislative Developments 
+ 16
+
+The 21st Century Cures Act (Cures Act), which was signed into law in December 2016, includes provisions to accelerate the development and delivery of new treatments.  For example, the Cures Act requires the FDA to establish a program to evaluate the potential use of real world evidence to help to support the approval of a new indication for an approved drug and to help to support or satisfy post-approval study requirements, to issue guidance on adaptive and novel clinical trial designs for new drugs, and to establish a process for qualifying drug development tools used to support FDA approval for marketing or investigational use of a drug. The Cures Act also permits the FDA to rely on qualified data summaries to support the approval of a supplemental application for an already approved drug.  The FDA is in the process of implementing the Cures Act requirements.
+ Review and Approval of Drug Products in the European Union
+In order to market any product outside of the United States, a company must also comply with numerous and varying regulatory requirements of other countries and jurisdictions regarding quality, safety and efficacy and governing, among other things, clinical trials, marketing authorization, commercial sales and distribution of our products. Whether or not it obtains FDA approval for a product, the company would need to obtain the necessary approvals by the comparable foreign regulatory authorities before it can commence clinical trials or marketing of the product in those countries or jurisdictions. The approval process ultimately varies between countries and jurisdictions and can involve additional product testing and additional administrative review periods. The time required to obtain approval in other countries and jurisdictions might differ from and be longer than that required to obtain FDA approval. Regulatory approval in one country or jurisdiction does not ensure regulatory approval in another, but a failure or delay in obtaining regulatory approval in one country or jurisdiction may negatively impact the regulatory process in others.
+ Pursuant to the EU Clinical Trial Directive 2001/20/EC, a system for the approval of clinical trials in the European Union has been implemented through national legislation of the member states. Under this system, an applicant must obtain approval from the competent national authority of a European Union member state in which the clinical trial is to be conducted. Furthermore, the applicant may only start a clinical trial after a competent ethics committee has issued a favorable opinion. Clinical trial applications must be accompanied by an investigational medicinal product dossier with supporting information prescribed by the European Clinical Trials Directive and corresponding national laws of the member states and further detailed in applicable guidance documents. 
+ In 2014, a new Clinical Trial Regulation 536/2014, replacing the EU Clinical Trials Directive, was adopted. The new Regulation will become directly applicable in all European Union member states (without national implementation) once the relevant EU portal and database are fully functional. It is expected that this will occur in the second half of 2019. The new Regulation seeks to simplify and streamline the approval of clinical trials in the European Union, in particular through a harmonised electronic submission and assessment process for clinical trials conducted in multiple Member States. As part of the application process, the sponsor shall propose a reporting Member State, who will coordinate the validation and evaluation of the application. The reporting member state shall consult and coordinate with the other concerned member states. If an application is rejected, it can be amended and resubmitted through the EU portal. If an approval is issued, the sponsor can start the clinical trial in all concerned member states. However, a concerned member state can in limited circumstances declare an “opt-out” from an approval. In such a case, the clinical trial cannot be conducted in that member state. The Regulation also aims to streamline and simplify the rules on safety reporting and introduces enhanced transparency requirements such as mandatory submission of a summary of the clinical trial results to the EU database. Information stored in the EU database will be made publicly available subject to transparency rules. 
+ To obtain marketing approval of a drug under European Union regulatory systems, an applicant must submit a marketing authorization application (MAA) either under a centralized or decentralized procedure. 
+ The centralized procedure provides for the grant of a single marketing authorization by the European Commission that is valid for all European Union member states. The centralized procedure is compulsory for specific products, including for medicines produced by certain biotechnological processes, products designated as orphan medicinal products, advanced therapy products and products with a new active substance indicated for the treatment of certain diseases (AIDS, cancer, neurodegenerative disorders, diabetes, auto-immune and viral diseases). For products with a new active substance indicated for the treatment of other diseases and products that are highly innovative or for which a centralized process is in the interest of patients, the centralized procedure may be optional. 
+ Under the centralized procedure, the Committee for Medicinal Products for Human Use (CHMP) established at the European Medicines Agency (EMA) is responsible for conducting the initial assessment of a drug. The CHMP is also responsible for several post-authorization and maintenance activities, such as the assessment of modifications or extensions to an existing marketing authorization. Under the centralized procedure in the European Union, the maximum timeframe for the evaluation of an MAA is 210 days, excluding clock stops, when additional information or written or oral explanation is to be provided by the applicant in response to questions of the CHMP. Accelerated evaluation might be granted by the CHMP in exceptional cases when a medicinal product is of major interest from the point of view of public health and in particular from the viewpoint of therapeutic innovation. In this circumstance, the EMA ensures that the opinion of the CHMP is given within 150 days. 
+ 17
+
+The decentralized procedure is available to applicants who wish to market a product in various European Union member states where such product has not received marketing approval in any European Union member state before. The decentralized procedure provides for approval by one or more other, or concerned, member states of an assessment of an application performed by one-member state designated by the applicant, known as the reference member state. Under this procedure, an applicant submits an application based on identical dossiers and related materials, including a draft summary of product characteristics, and draft labeling and package leaflet, to the reference member state and concerned member states. The reference member state prepares a draft assessment report and drafts of the related materials within 120 days after receipt of a valid application. Within 90 days of receiving the reference member state’s assessment report and related materials, each concerned member state must decide whether to approve the assessment report and related materials. 
+ If a member state cannot approve the assessment report and related materials on the grounds of potential serious risk to public health, the disputed points are subject to a dispute resolution mechanism and may eventually be referred to the European Commission, whose decision is binding on all member states. 
+ Data and Market Exclusivity in the European Union
+In the European Union, new chemical entities qualify for eight years of data exclusivity upon marketing authorization and an additional two years of market exclusivity. This data exclusivity, if granted, prevents regulatory authorities in the European Union from referencing the innovator’s data to assess a generic (abbreviated) application for eight years, after which generic marketing authorization can be submitted, and the innovator’s data may be referenced, but not approved for two years. The overall ten-year period will be extended to a maximum of eleven years if, during the first eight years of those ten years, the marketing authorization holder obtains an authorization for one or more new therapeutic indications which, during the scientific evaluation prior to their authorization, are held to bring a significant clinical benefit in comparison with existing therapies. Even if a compound is considered to be a new chemical entity and the sponsor is able to gain the prescribed period of data exclusivity, another company nevertheless could also market another version of the drug if such company can complete a full MAA with a complete database of pharmaceutical test, preclinical tests and clinical trials and obtain marketing approval of its product. 
+ Other legislation regarding marketing, authorization and pricing of pharmaceutical products in the European Union
+ Other core legislation relating to the marketing, authorization and pricing of pharmaceutical products in the European Union includes the following:  
+  
+• | Directive 2001/83/EC, establishing the requirements and procedures governing the marketing authorization for medicinal products for human use, as well as the rules for the constant supervision of products following authorization. This Directive has been amended several times, most recently by Directive 2012/26/EU regarding pharmacovigilance, and the Falsified Medicines Directive 2011/62/EU. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Regulation (EC) 726/2004, as amended, establishing procedures for the authorization, supervision and pharmacovigilance of medicinal products for human and veterinary use and establishing the EMA.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Regulation (EC) 469/2009, establishing the requirements necessary to obtain a Supplementary Protection Certificate, which extends the period of patent protection applicable to medicinal products at the EU-level.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Directive 89/105/EEC, ensuring the transparency of measures taken by the European Union member states to set the prices and reimbursements of medicinal products. Specifically, while each member state has competence over the pricing and reimbursement of medicines for human use, they must also comply with this Directive, which establishes procedures to ensure that member state decisions and policies do not obstruct trade in medicinal products. The European Commission proposed to repeal and replace Directive 89/105/EEC, but this proposal was withdrawn in 2015.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Directive 2003/94/EC, laying down the principles of good manufacturing practice in respect of medicinal products and investigational medicinal products for human use (the "GMP Directive").
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Directive 2005/28/EC of April 8 2005, laying down principles and detailed guidelines for good clinical practice as regards investigational medicinal products for human use, as well as the requirements for authorization of the manufacturing or importation of such products" (the "GCP Directive").
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+New Legislation and Regulations
+ From time to time, legislation is drafted, introduced and passed in the European Union, its member states and other states of Europe that could significantly change the statutory provisions governing the testing, approval, manufacturing, marketing, coverage and reimbursement of pharmaceutical products. In addition to new legislation, pharmaceutical regulations and policies are often revised or interpreted by the EMA and national agencies in ways that may significantly affect our business and our products.    
+ 18
+
+On March 29, 2017, the United Kingdom triggered Article 50 of the Treaty of the Functioning of the European Union in order to formally leave the European Union (the so-called “Brexit”). As of the date of this filing, we cannot predict the regulatory implications of Brexit in the (i) enforcement of EU law in the UK before the effective date of Brexit (which might be less stringent); and / or (ii) the post-Brexit UK regime on market authorizations.
+ Pharmaceutical Coverage, Pricing and Reimbursement
+Significant uncertainty exists as to the coverage and reimbursement status of products approved by the FDA and other government authorities. Sales of products will depend, in part, on the extent to which the costs of the products will be covered by third-party payors, including government health programs such as, in the United States, Medicare and Medicaid, commercial health insurers and managed care organizations. The process for determining whether a payor will provide coverage for a product may be separate from the process for setting the price or reimbursement rate that the payor will pay for the product once coverage is approved. Third-party payors may limit coverage to specific products on an approved list, or formulary, which might not include all of the approved products for a particular indication. 
+ In order to secure coverage and reimbursement for any product that might be approved for sale, a company may need to conduct expensive pharmacoeconomic studies in order to demonstrate the medical necessity and cost-effectiveness of the product, in addition to the costs required to obtain FDA or other comparable regulatory approvals. A payor’s decision to provide coverage for a drug product does not necessarily imply that an adequate reimbursement rate will be approved. Third-party reimbursement may not be sufficient to maintain price levels high enough to realize an appropriate return on our investment in product development. 
+ The containment of healthcare costs has become a priority of federal, state and foreign governments, and the prices of drugs have been a focus in this effort. Third-party payors are increasingly challenging the prices charged for medical products and services and examining the medical necessity and cost-effectiveness of medical products and services, in addition to their safety and efficacy. If these third-party payors do not consider a product to be cost effective compared to other available therapies, they may not cover the product after approval as a benefit under their plans or, if they do, the level of payment may not be sufficient to allow a company to sell its products at a profit. The U.S. government, state legislatures and foreign governments have shown significant interest in implementing cost containment programs to limit the growth of government-paid health care costs, including price controls, risk sharing, restrictions on reimbursement and requirements for substitution of generic products for branded prescription drugs. Adoption of such controls and measures and tightening of restrictive policies in jurisdictions with existing controls and measures, could limit payments for pharmaceuticals. As a result, the marketability of any product which receives regulatory approval for commercial sale may suffer if the government and third-party payors fail to provide adequate coverage and reimbursement. 
+ In addition, an increasing emphasis on managed care in the United States has increased and will continue to increase the pressure on drug pricing. Coverage policies, third-party reimbursement rates and drug pricing regulation may change at any time. In particular, the Patient Protection and Affordable Care Act, as amended by the Health Care and Education Affordability Reconciliation Act, contains provisions that may reduce the profitability of drug products, including, for example, increased rebates for drugs sold to Medicaid programs, extension of Medicaid rebates to Medicaid managed care plans, mandatory discounts for certain Medicare Part D beneficiaries and annual fees based on pharmaceutical companies’ share of sales to federal health care programs. Even if favorable coverage and reimbursement status is attained for one or more products that receive regulatory approval, less favorable coverage policies and reimbursement rates may be implemented in the future. 
+ In the European Union, pricing and reimbursement schemes vary widely from country to country. Some countries provide that drug products may be marketed only after a reimbursement price has been agreed. Some countries may require the completion of additional studies that compare the cost-effectiveness of a particular product candidate to currently available therapies. For example, the European Union provides options for its member states to restrict the range of drug products for which their national health insurance systems provide reimbursement and to control the prices of medicinal products for human use. European Union member states may approve a specific price for a drug product or it may instead adopt a system of direct or indirect controls on the profitability of the company placing the drug product on the market. Other member states allow companies to fix their own prices for drug products but monitor and control company profits. The downward pressure on health care costs in general, particularly prescription drugs, has become intense. As a result, increasingly high barriers are being erected to the entry of new products. In addition, in some countries, cross-border imports from low-priced markets exert competitive pressure that may reduce pricing within a country. Any country that has price controls or reimbursement limitations for drug products may not allow favorable reimbursement and pricing arrangements for any of our products.
+ Healthcare Laws and Regulations
+Healthcare providers, physicians and third-party payors will play a primary role in the recommendation and prescription of drug products that are granted marketing approval. Arrangements with healthcare providers, physicians, third-party payors and customers are subject to broadly applicable fraud and abuse and other healthcare laws and regulations that may constrain the business or financial 
+ 19
+
+arrangements and relationships through which we market, sell and distribute products for which we obtain marketing approval. Restrictions under applicable federal and state healthcare laws and regulations, include the following: 
+  
+• | the federal healthcare Anti-Kickback Statute prohibits, among other things, persons from soliciting, offering, receiving or providing any remuneration (in cash or in kind), directly or indirectly, to induce or reward either the referral of an individual for, or the purchase, lease, order or recommendation of, any item, facility or service for which payment may be made in whole or in part under a federal healthcare program such as Medicare and Medicaid;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | the federal Foreign Corrupt Practices Act (FCPA) prohibits, among other things, U.S. corporations and persons acting on their behalf from offering, promising, authorizing or making payments to any foreign government official (including certain healthcare professionals in many countries), political party, or political candidate in an attempt to obtain or retain business or otherwise seek preferential treatment abroad;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | the federal False Claims Act, which may be enforced by the U.S. Department of Justice or private whistleblowers to bring civil actions (qui tam actions) on behalf of the federal government, imposes civil penalties, as well as liability for damages and for attorneys’ fees and costs, on individuals or entities for knowingly presenting, or causing to be presented, to the federal government, claims for payment that are false or fraudulent, making a false statement material to a false or fraudulent claim, or improperly avoiding, decreasing, or concealing an obligation to pay money to the federal government;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | the federal Health Insurance Portability and Accountability Act of 1996 (HIPAA) imposes criminal and civil liability for, among other conduct, executing a scheme to defraud any healthcare benefit program and making false statements relating to healthcare matters;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act and its implementing regulations, also imposes criminal and civil liability and penalties on those who violate requirements, including mandatory contractual terms, intended to safeguard the privacy, security, transmission and use of individually identifiable health information;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | the federal false statements statute relating to healthcare matters prohibits falsifying, concealing or covering up a material fact or making any materially false statement in connection with the delivery of or payment for healthcare benefits, items or services;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | the federal Physician Payment Sunshine Act requires manufacturers of drugs (among other products) to report to the Centers for Medicare and Medicaid Services within the U.S. Department of Health and Human Services information related to payments and other transfers of value to physicians and teaching hospitals, as well as physician ownership and investment interests in the reporting manufacturers;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | similar state and foreign laws and regulations, such as state anti-kickback and false claims laws, may apply to sales or marketing arrangements and claims involving healthcare items or services reimbursed by nongovernmental third-party payors, including private insurers;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | certain state laws require pharmaceutical companies to comply with voluntary compliance guidelines promulgated by a pharmaceutical industry association and relevant compliance guidance issues by HHS Office of Inspector General; bar drug manufacturers from offering or providing certain types of payments or gifts to physicians and other health care providers; and/or require disclosure of gifts or payments to physicians and other healthcare providers.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Various state and foreign laws also govern the privacy and security of health information in some circumstances; many of these laws differ from each other in significant ways and often are not preempted by HIPAA, thus complicating compliance efforts.
+ Certain Financial Information 
+ The financial information required in this Item 1 is included in Part II, Item 6 and Part IV, Item 15 of this Annual Report on Form 10-K.
+ Corporate Information
+ Arrowhead was originally incorporated in South Dakota in 1989 and was reincorporated in Delaware in 2000. In April 2016, Arrowhead changed its name from Arrowhead Research Corporation to Arrowhead Pharmaceuticals, Inc. The Company’s principal executive offices are located at 225 South Lake Avenue, Suite 1050, Pasadena, California 91101, and its telephone number is (626) 304-3400. We also operate a research and development facility in Madison, Wisconsin. As of September 30, 2018, Arrowhead had 116 full-time employees.
+Investor Information
+ 20
+
+Our website address is http://www.arrowheadpharmaceuticals.com  Our reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, including our annual reports on Form 10-K, our quarterly reports on Form 10-Q and our current reports on Form 8-K, and amendments to those reports, are accessible through our website, free of charge, as soon as reasonably practicable after these reports are filed electronically with, or otherwise furnished to, the SEC. These SEC reports can be accessed through the “Investors” section of our website. 
+ You may read and copy any materials we file with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Washington, DC 20549. You may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC also maintains an Internet website that contains reports, proxy and information statements, and other information regarding Arrowhead and other issuers that file electronically with the SEC. The SEC’s Internet website address is http://www.sec.gov.
+ 
+
+
+
+21
+
+
+ 

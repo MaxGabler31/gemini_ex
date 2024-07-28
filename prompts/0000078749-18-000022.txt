@@ -1,0 +1,309 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business.
+Overview
+Agilysys is a leading technology company that provides innovative software and services for point-of-sale (POS), payment gateway, reservation and table management, property management (PMS), inventory and procurement, business analytics, document management, guest offers management, and mobile and wireless solutions exclusively to the hospitality industry.  Our products and services allow operators to streamline operations, improve efficiency and understand customer needs across their properties to deliver a superior overall guest experience. The result is improved guest loyalty, growth in wallet share and increased revenue as they connect and transact with their guests based upon a single integrated view of individual preferences and interactions. We serve four major market sectors: Gaming, both corporate and tribal; Hotels, Resorts and Cruise; Corporate Foodservice Management; and Restaurants, Universities, Stadia and Healthcare. A significant portion of our consolidated revenue is derived from contract support, maintenance and subscription services.
+Agilysys operates across North America, Europe, Asia-Pacific, and India with headquarters located in Alpharetta, GA. For more information, visit www.agilysys.com.
+The sales of our Retail Solutions Group (RSG) business and United Kingdom business entity (UK entity) each represented a disposal of a component of an entity. As such, the operating results of RSG and the UK entity have been reported as a component of discontinued operations in Item 6. Selected Financial Data, of this Annual Report, for the twelve months ended March 31, 2014.
+Our principal executive offices and corporate services are located at 1000 Windward Concourse, Suite 250, Alpharetta, Georgia, 30005.
+Reference herein to any particular year or quarter refers to periods within our fiscal year ended March 31. For example, fiscal 2018 refers to the fiscal year ended March 31, 2018.
+History and Significant Events
+Organized in 1963 as Pioneer-Standard Electronics, Inc., an Ohio corporation, we began operations as a distributor of electronic components and, later, enterprise computer solutions. Exiting the former in fiscal 2003 with the sale of our Industrial Electronic Division, we used the proceeds to reduce debt, fund growth of our enterprise solutions business. This included acquiring businesses focused on higher-margin and more specialized solutions for the hospitality and retail industries. At the same time, we changed our name to Agilysys, Inc.
+In fiscal 2004, we acquired Inter-American Data, Inc., which allowed us to become the leading developer and provider of technology solutions for property and inventory management in the casino and resort industries.
+In fiscal 2007, we exited the enterprise computer distribution business. We used the proceeds from that sale to return cash to shareholders and fund a number of acquisitions that broadened our solutions and capabilities portfolios. We acquired InfoGenesis, Inc., Visual One Systems Corp. and Eatec Corporation in fiscal 2008, significantly expanding our specialized offerings to the hospitality industry through enterprise-class POS, PMS and inventory and procurement software solutions tailored for a variety of applications in cruise, golf, spa, gaming, lodging, resort, and catering. These offerings feature highly intuitive, secure and robust solutions, easily scalable across multiple departments or property locations. 
+In fiscal 2012, we sold our remaining enterprise computer solutions business and restructured our business model to focus on higher-margin, profitable growth opportunities in the hospitality and retail sectors. We also reduced our real-estate footprint and lowered overhead costs by relocating corporate services from Solon, Ohio to Alpharetta, Georgia, thus moving our senior management team closer to our operating units.
+4
+
+In fiscal 2014, we sold our retail solutions and services business to Kyrus Solutions, Inc. (Kyrus), an affiliate of Clearlake Capital Group, L.P. Following completion of the transaction, our business focused exclusively on hospitality solutions and the growth opportunities in the hospitality market.
+In fiscal year 2018, we opened an India development center in Chennai, India, to supplement our product development efforts.
+Today, we are focused on providing state-of-the-art, end-to-end solutions that enhance guest experiences and allow our customers to promote their respective brands. We help our customers win the guest recruitment battle and, in turn, grow revenue, reduce costs and increase efficiency. This is accomplished by developing and deploying innovative solutions that increase speed and accuracy, integrate with other enterprise systems and create a common infrastructure for managing guest data thereby enabling more effective management, intelligent upselling, reduced shrinkage, improved brand recognition and better control of the customer relationship. Our strategy is to increase the proportion of revenue we derive from ongoing support and maintenance agreements, software as a subscription service, cloud applications and professional services.
+Products, Support and Professional Services
+We are a leading developer and marketer of software enabled solutions and services to the hospitality industry, including: hardware and software products; support, maintenance and subscription services; and, professional services. Areas of specialization are point-of-sale, property management, inventory and procurement, workforce management, and mobile and wireless solutions designed to streamline operations, improve efficiency and enhance the guest experience.
+We present revenue and costs of goods sold in three categories: 
+
+• | Products (hardware and software)
+
+
+• | Support, maintenance and subscription services
+
+
+• | Professional services
+
+Total revenue from continuing operations for these three specific areas is as follows:
+
+ | Year ended March 31,
+(In thousands) | 2018 | 2017 | 2016 
+Products | $ | 33,699 | | $ | 38,339 | $ | 41,445 
+Support, maintenance and subscription services | 69,068 | | 63,308 | | 60,104 
+Professional services | 24,593 | | 26,031 | | 18,817 
+Total | $ | 127,360 | | $ | 127,678 | $ | 120,366
+
+Products: 
+The hospitality industry has long been focused on operating end-to-end businesses, but the technology vendors that service the industry have been focused on product-centric solutions that make use of a high number of software modules and operating silos. To resolve this disconnect and more effectively align with the business operations of our customers, we have evolved our approach to be focused on delivering integrated "platform-centric” solutions for Lodging, Food & Beverage and Payments applications through an investment in the development of a web services oriented architecture enterprise platform. Our rGuest™ platform is aimed at transitioning our product and services offerings to better address the needs of hospitality operators as they focus on building better connections with guests, pre-, during and post-visit. The rGuest platform facilitates an end-to-end solution that helps our customers improve the guest experience, increase top-line performance and reduce operating costs, which leads to opportunities for higher profitability. Our next-generation of products and services are aimed at helping hospitality operators recruit customers into their facilities, increase their wallet share from each customer and improve the overall guest experience from the initial customer touch point through post-visit interactions.
+5
+
+Our proprietary product suite is comprised of:
+
+The rGuest hospitality platform underlies our industry leading solutions that are being introduced to operators of all sizes and with varying needs. The rGuest Software as a Service (“SaaS”)-based platform is designed to run on the public cloud, private cloud, on-premise, or in a hybrid configuration where the infrastructure may be above premise but the data can reside on premise. rGuest’s flexible architecture scales seamlessly to meet the needs of multi-property customers as well as for a single property.
+The rGuest hospitality platform helps operators more efficiently manage their business and grow their sales by:
+
+• | Identifying and tracking guest profile and behavior so that it may be used to create effective loyalty programs using guest-specific promotions and offers to ensure the best guest experience while ensuring the property extracts the maximum wallet share from each customer;
+
+
+• | Enabling historical analysis of data to continuously improve operations and grow revenue opportunities;
+
+
+• | Allowing for real-time management through mobile and web interfaces for immediate remediation of business and guest related issues;
+
+
+• | Creating a framework of core services for the delivery of business applications faster with the critical benefit of having fewer moving parts to manage;
+
+
+• | Ensuring that all new rGuest modules will be written on top of the rGuest platform to leverage common look/feel, functions and usage paradigms that reduce the overhead of managing and learning multiple systems;
+
+
+• | Providing for easy integration with other hospitality management systems; and,
+
+
+• | Incorporating key infrastructure design elements such as global and multi-language support, regulatory compliance and security, including authentication, authorization, encryption, tokenization, handling of payment & PII information and overall application data and user security.
+
+Our rGuest product suite is designed to maximize the insight and value available in “big data” by:
+
+• | Identifying the most valuable data and determining how best to use it;
+
+
+• | Empowering users to be capable of both working with new technologies and of interpreting the data to find meaningful business insights;
+
+
+• | Creating data access and connectivity across the majority of guest touch points;
+
+
+• | Providing an IT platform that can efficiently adapt to changes in the landscape;
+
+
+• | Working across business functions' organizational challenges and finding ways to enhance cross-team collaboration; and,
+
+
+• | Implementing the highest levels of security to ensure data protection.
+
+The rGuest platform currently includes the following in-market solutions:
+rGuest® Stay is the company’s groundbreaking cloud-based property management system that optimizes operational efficiency, increases revenue and enhances guest service. rGuest Stay is currently generally available for select-service hotels and chains, as well as for limited-service casino hotels.
+The guest-centric PMS leverages the rGuest standards-based platform on an open architecture with public APIs to enable richly integrated applications delivered from Agilysys, its partners and customers. rGuest Stay offers powerful capabilities for multi-property operations, allowing managers to view guest profiles, history and reservations, as well as room availability and operational reports, seamlessly across multiple properties.
+Focused on improving revenue and streamlining operations, rGuest Stay is designed to enable hotels to gather and analyze guest information that can be used to create loyalty-generating offers and increase guest wallet share. In addition, running natively in a browser on both desktop and tablet devices, it delivers real-time operating metrics so that hotels can more accurately forecast demand and scale guest services accordingly.
+6
+
+To help improve property operations, rGuest Stay offers a next-generation housekeeping optimization engine, built using the included rGuest workflow engine, that assigns staff resources to balance guest needs and operational efficiency. In addition, its intuitive user interface and online help functionality reduce team training time and ensure superior guest service with rapid solution ROI.
+rGuest Buy is an enterprise-class self-service, customer-facing point of sale solution for the hospitality industry. It is ideal for food & beverage venues such as Grab N Go, corporate cafeterias and food courts. It includes self-service “order and pay” kiosks, and kitchen workflow management systems. rGuest Buy is currently deployed at more than 25 customer sites across the country, including corporate cafeterias at a top five U.S. bank, a top 40 U.S. law firm, one of the nation's largest technology manufacturers, and at a national financial services firm.
+rGuest Buy’s intuitive customer-facing order and pay experiences transfer the control and convenience to the end user. The self-service components reduce on-site labor needed to manage venue operations, while improving customer throughput, check size, order accuracy, customer experience and satisfaction. The platform-driven and cloud-based solution allows for easy deployments and management at scale resulting in a lowered overall cost of ownership.
+rGuest Buy offers:
+
+• | Extensibility and a partner ecosystem: The technology architecture allows for rich data integrations for all Agilysys products (InfoGenesis, rGuest Pay, rGuest Analyze, etc.), as well as easy integration with a partner development ecosystem, as well as customer developed applications.
+
+
+• | “Self-managed” Cloud Solution: Fully managed cloud solution pushes latest releases, patches and features automatically to all rGuest Buy devices at the property. This ensures quicker support turn-around times, zero on-site IT resources for maintenance, robust security and uptimes.
+
+
+• | “Always on” Business - No offline interruptions: rGuest Buy offers an “always-on” customer experience with robust network tolerance and offline processing capabilities. 
+
+
+• | Manage at Scale: rGuest Buy allows customers to map a complex business structure in an intuitive way to support propagation of brands, concepts, and other policies.
+
+
+• | Reduce Risk - PCI validated payment platform: rGuest Buy integrates with rGuest Pay, our secure payment platform. Customers protect brand value and avoid liability with our encrypted card data solution, and safeguard against fraud and chargebacks by implementing EMV solutions, while protecting application data via SSL.
+
+rGuest Pay is our innovative payments gateway. rGuest Pay protects guests’ financial data and reduces risk by leveraging point-to-point encryption (P2PE) and tokenization with every credit card transaction. rGuest Pay Gateway leverages one of the first payment gateways in the world to receive official PCI-P2PE validation, allowing us to offer PCI cost and scope reduction that other providers cannot. These security benefits are built on top of a full-featured, enterprise-grade gateway that offers broad support for U.S. credit card processors and a wide variety of payment device options for every use-case, including countertop, pay-at-table, EMV, mobile tablet, and signature capture scenarios.
+rGuest Pay offers:
+
+• | A full suite of credit card processing services
+
+
+• | Industry-leading payment security through tokenization and P2PE
+
+
+• | Flexible hardware supporting EMV and NFC contactless transactions
+
+
+• | Integration with 3rd Party POS/PMS applications through a simple-to-use API
+
+
+• | Consolidated transaction reporting
+
+
+• | Comprehensive payment processor support
+
+
+• | Support for Pay-at-Table devices
+
+7
+
+rGuest Seat is a guest-centric table, reservation and wait list management solution that helps restaurants increase revenue by retaining repeat customers and providing a superior guest experience. Online dining reservations enable restaurants to increase bookings by allowing diners to reserve a table through the restaurant’s website or mobile app. Wait-list management optimizes the restaurant’s use of tables and resources, helping staff estimate wait times more accurately and avoiding lost or dissatisfied customers.
+rGuest Seat offers:
+
+• | Streamlined online reservations that increase guest bookings without tying staff up on the phone
+
+
+• | Wait-list automation to accurately predict wait times and meet guest expectations
+
+
+• | Two-way text communications with waiting guests to optimize the guest experience
+
+
+• | A complete view of reservation or wait-list status across restaurants within a peer group
+
+
+• | Accessibility of guest data based on their previous dining experiences to provide a much higher level of guest service
+
+
+• | A library of configurable reports that can be accessed in real time or received through email at a scheduled delivery time
+
+
+• | Integration with InfoGenesis that allows the POS system to be automatically updated with guest data for a more personalized dining experience
+
+
+• | Real-time table status to be relayed between rGuest Seat and InfoGenesis (POS) to help maximize table turns and keep restaurant operations and reservations running smoothly
+
+rGuest Analyze is a cloud-based data analysis service focused on the needs of the hospitality industry. It is a full business intelligence solution that collects data from Agilysys point-of-sale and property management solutions and helps food & beverage and property operators gain critical insight into business operations and performance. Out-of-the-box analysis helps hospitality operators manage costs, minimize loss due to fraud, boost item sales, increase server productivity, occupancy, room revenue, and other profit enhancing capabilities.
+rGuest Analyze offers:
+
+• | Centralized enterprise reporting across sites, venues and profit centers
+
+
+• | Slice-and-dice analysis without the need for IT/DBA resources that provides immediate insight into food & beverage as well as lodging operations
+
+
+• | Out-of-the-box customizable reports that provide insight into sales, revenue, server/cashier activity, discounts, tenders, ADR, RevPAR, and Occupancy
+
+
+• | Easy to learn, web-based reporting tools with simple drag-and-drop capabilities for fast data exploration and report generation
+
+
+• | Executive level dashboards that are as easy to design, publish and disseminate as creating a word document with both web and mobile views
+
+Going forward, Agilysys plans to introduce additional functionality and modules for the rGuest platform.
+Agilysys’ well established offerings for point-of-sale, property management, inventory procurement, workforce management, document management and activity booking product and services include:
+Point-of Sale
+
+•
+
+Agilysys InfoGenesis®™ POS is an award-winning point-of-sale solution that combines a fast, intuitive and easy-to-use terminal application with powerful reporting and configuration capabilities for the back office. The flexible system is easy to set up, and its scalable architecture enables customers to add workstations without having to build out expensive infrastructure. The system's detailed and high-quality reporting capabilities provide insight into sales data and guest purchasing trends. Other 
+8
+
+features include support for packages and prix fixe menus, signature capture and multi-language capability. InfoGenesis POS is available as an on-premise solution or through a subscription service.
+
+•
+
+Agilysys InfoGenesis Flex is a mobility solution that offers full point-of-sale functionality on a Windows tablet. It provides a sleek, modern alternative to traditional point-of-sale installations and can be used as a slim fixed terminal or as a convertible simply by removing the tablet from its base.
+
+•
+
+Agilysys eCash takes traditional cashless payment and stored value card capabilities and integrates them directly with InfoGenesis POS, increasing consumers' payment options.
+All POS products are available through traditional software licensing or via subscription.
+Property Management Systems (“PMS”)
+
+•
+
+Agilysys Lodging Management System® (LMS) is an on-premises, web-enabled PMS solution targeting the Casino/Gaming segment (also offered as a hosted solution). It runs 24/7 to automate every aspect of hotel operations in properties of 1,000 rooms or more, and has interfaces to all core casino management systems. Its foundation expands to incorporate modules for sales and catering, activities scheduling, attraction ticketing and more.
+
+•
+
+Agilysys Visual One™ PMS is installed in hotels and resorts ranging from 50-1,500 rooms. It is a complete PMS solution enabling the resort to run its end-to-end operations, including Front Desk, Housekeeping, Sales & Catering, Maintenance, Accounting, SPA, Golf and Activities. For complex resorts that require an enterprise-wide system, Visual One provides an integrated solution with interfaces to leading global distribution systems (GDSs) and our other products.
+
+• | Agilysys Insight™ Mobile Manager is a mobile dashboard application that enables hotel managers to quickly view key property information - including arrivals and departures, VIPs, total guests, housekeeping status, revenue and groups - from a mobile device. It supports Apple iPad®, iPad mini and iPhone® mobile devices and integrates fully with the Agilysys LMS property management solution.
+
+Inventory and Procurement
+
+•
+
+Agilysys Eatec® provides core purchasing, inventory, recipe, forecasting, production and sales analysis functions and is unique in offering catering, restaurant, buffet management and nutrition modules in a single web-enabled solution. 
+
+•
+
+Agilysys EatecTouch is an optional software applet that operates on any MicroSoft® Windows®-based POS terminal, providing users with access to the Eatec application from any terminal location.
+
+•
+
+Agilysys EatecPocket is a Microsoft Windows Mobile compatible application designed to work on a handheld wireless device, enabling users to perform inventory transactions. The software incorporates barcode scanner functionality for mobile updates of the database.
+
+•
+
+9
+
+Agilysys Stratton Warren System (SWS) integrates with all leading financial and POS software products. The software manages the entire procurement process via e-commerce, from business development to the management of enterprise-wide backend systems and daily operations. 
+
+•
+
+Agilysys SWS Direct is an add-on module for SWS that provides a convenient, efficient and intuitive shopping cart experience to SWS users. SWS Direct streamlines operations, provides enhanced bidding and request for pricing services, and offers supplier registration tools and self-service maintenance capabilities.
+Eatec and Stratton Warren System solutions are available through traditional software licensing or via subscription.
+Document Management
+
+•
+
+Agilysys DataMagine™ is a U.S.-patented imaging module and archiving solution that allows users to securely capture and retrieve documents and system-generated information. DataMagine integrates with other Agilysys products, adding functionality and providing seamless workflows that cross functional areas.
+Activities
+
+•
+
+Agilysys GolfPro is a module that offers golf property managers complete pro shop management with tee time scheduling, member profile/billing, tournament management and Web and e-mail access bundled into one solution.
+
+•
+
+Agilysys Spa Management software covers all aspects of running a spa business, from scheduling guests for services to managing staff schedules. The software also integrates with our PMS solutions.
+
+•
+
+Agilysys LMS ARTS® interfaces with hotel guest data, allowing reservationists to pre-plan activities when booking a guest's room. The application also places canceled activities back into inventory for resale, resulting in optimum property utilization and profitability.
+
+•
+
+Agilysys Visual One Activities software streamlines the management of all of the amenities and activities a property has to offer. Staff can easily schedule and personalize reservations for guests; activities then appear on itinerary/confirmations.
+Products revenue also includes remarketed hardware and proprietary and remarketed software that is deployed as an integral component of the solutions we provide.
+Support, Maintenance and Subscription Services: Contracted technical support, maintenance and subscription services are a significant portion of our consolidated revenue and typically generate higher profit margins than products revenue. Growth has been driven by a strategic focus on developing and promoting these offerings while market demand for maintenance services and updates that enhance reliability, as well as the desire for flexibility in purchasing options, continue to reinforce this trend. Our commitment to exceptional service has enabled us to become a trusted partner with customers who wish to optimize the level of service they provide to their guests and maximize commerce opportunities both on- and off-premise.
+Professional Services: We have industry-leading expertise in designing, implementing, integrating and installing customized solutions into both traditional and newly created platforms. For existing enterprises, we seamlessly integrate new systems and for start-ups and fast-growing customers, we become a partner that can manage large-scale rollouts and tight construction schedules. Our extensive experience ranges from staging equipment to phased rollouts as well as training staff to provide operational expertise to help achieve maximum effectiveness and efficiencies in a manner that saves our customers time and money. In addition to our hosted solutions for InfoGenesis, Stratton Warren Systems and Eatec, Agilysys has recently added the ability to migrate on premise property lodging data to the LMS® Property Management System hosted solution.
+10
+
+Representative Agilysys clients include: 
+
+AVI Foodsystems, Inc. | CSU Fullerton Auxiliary Services Corporation | Resorts World Bimini 
+Banner Health | Drury Hotels | Rosen Hotels & Resorts 
+Benchmarc Restaurants | Farmers Restaurant Group | Royal Caribbean International 
+Black Rock Resort | Golden Nugget Lake Charles | Royal Lahaina Resort 
+Boyd Gaming Corporation | Grand Sierra Resort and Casino | Sands Casino Resort Bethlehem 
+BR Guest Hospitality | Harbor Winds Hotel | SAVOR 
+The Broadmoor's Ranch at Emerald Valley | Hialeah Park | Spooky Nook Sports 
+Caesars Entertainment | Hilton Worldwide | Sugar Factory 
+Cal Dining at UC Berkeley | Ho-Chunk Gaming | SUNY Cobleskill 
+Camelback Lodge & Waterpark | Maryland Live! Casino | The Venetian Resort Hotel Casino
+Casa Ybel Resort | Norwegian Cruise Line | University of Akron 
+Casino del Sol Resort | Oxford Casino | Vail Resorts 
+Compass Group North America | Palm Garden Hotel | Valley View Casino & Hotel 
+Comanche Nation of Oklahoma | Pinehurst Resort | Vanderbilt University 
+Copper Mountain | Pinnacle Entertainment | Yale University 
+The Cosmopolitan of Las Vegas | Prairie Band Casino & Resort | 
+
+Industry and Markets
+We offer innovative solutions and services for point-of-sale (POS), payment gateway, reservation and table management, property management (PMS), inventory and procurement, business analytics, document management, guest offers management, and mobile and wireless solutions exclusively to the hospitality industry. We serve four major market sectors: Gaming, both corporate and tribal; Hotels, Resorts and Cruise; Corporate Foodservice Management; and Restaurants, Universities, Stadia and Healthcare.
+The hospitality industry encompasses a wide variety of market sectors and customers. We operate throughout North America, Europe and Asia, with headquarters located in Alpharetta, GA. Sales to customers outside of the United States represent approximately 5% of total sales.
+The hospitality industry is highly fragmented and composed of a number of defined markets including lodging, casinos, cruise ships, resorts and spas, franchise operators, restaurant chains, stadia, and arenas among others. For example, in the lodging segment, no single hotel brand accounts for more than 4% of all hotel rooms in the United States. According to STR Global, in 2017 the U.S. hotel industry set records for supply (roughly 1.87 billion room-nights available) and demand (roughly 1.23 billion room-nights sold). Based on percentage growth for the year, demand (+2.7%) significantly outpaced supply (+1.8%), even though the supply growth figure was the largest for the industry since 2009. STR further reported that compared with 2016, US hotel occupancy increased by +0.9% to 65.9%, average daily rate (ADR) increased by +2.1% to US$126.72, and revenue per available room (RevPAR)increased by +3.0% to US$83.57.
+The hospitality business is sensitive to the strength of domestic and global economic and credit conditions. Business and destination resort travel are highly correlated with the economic conditions in their respective markets. Competition is intense for consumer spending, and hospitality industry participants are seeking ways to increase their visibility and appeal as well as enhance the experience of their guests. In its 2017 Travel and Hospitality Industry Outlook, Deloitte observed that travel companies should 
+11
+
+leverage an increased awareness of customer expectations, re-imagined technology strategy, and differentiated offerings to provide unmatched travel experiences. Our products and solutions are meant to leverage the opportunity these challenges create by providing our customers with a higher degree of guest connectivity and added engagement tools that will enable them to better capitalize on their brand equity, and more profitably manage their operations, and grow their business. In addition to product solutions that are designed and customized to meet unique facility or multi-facility needs, we also provide an array of support and subscription options geared towards maintaining systems and professional services for implementation and rollouts.
+We have a significant customer base in the commercial casino and gaming sector. According to CPA firm Rubin Brown's Gaming Services Group, US Gaming industry annual revenues grew to nearly $76 billion in 2017, as compared to approximately $73 billion in 2016. Amenities in contemporary casinos extend well beyond gaming to include a variety of entertainment and leisure options as well as modern convention centers and meeting facilities to attract the corporate market. International gaming markets are growing rapidly both in size and new jurisdictions. Asian gaming markets continue to generate robust growth. Gross gaming revenue in Macau exceeds that of the Las Vegas Strip, with a number of the current and planned properties in the region operated by U.S.-based companies. As the market share leader in providing PMS systems to casinos on the Las Vegas Strip, we are well positioned to benefit from these strong and long-standing relationships as our customer base expands into international markets. Additionally, as gaming operators migrate toward cashless operations, optimization of non-gaming spend and digital track-and-log of unique guest behavior, we are able to provide the requisite technologies and expertise to satisfy their needs.
+We also have expertise in serving the unique needs of Cruise ship operators. Guests and potential customers are expecting an experience that reflects their unique tastes, preferences and travel habits, and cruise operators have seen the need to adequately support the increasing level of personalization and detail required to capture the highest level of guest satisfaction. Our products and services are designed to best help them deliver on this critical part of their business. According to the Cruise Lines International Association and Cruise Market Watch 2018, cruise lines continued the growth trends of recent years in 2017. The worldwide cruise ship fleet currently stands at 365 ships and the current order book includes 106 new ships to be delivered by 2027. The industry carried an estimated 25.2 million passengers in 2017, up from nearly 24.2 million passengers in 2016.
+Customers
+Our customers include large, medium-sized and boutique companies, both owned and franchised, as well as divisions or departments of large corporations in the hospitality industry. We concentrate on serving the needs of customers in a range of customer-focused settings where brand differentiation is important, particularly in the lodging, casino, destination resort, cruise line, foodservice industries where competition for guest recruitment is intense. Our current customer base is highly fragmented, with the exception of one customer representing 10% of consolidated revenue for the year ended March 31, 2017.
+Seasonality
+We have traditionally experienced seasonal revenue weakness during our fiscal first quarter ending June 30. Additionally, the timing of large one-time orders, such as those associated with significant remarketed product sales around large customer refresh cycles or significant volume rollouts, occasionally creates volatility in our quarterly results.
+Competition
+Our solutions face a highly competitive market. Competition exists with respect to developing and maintaining relationships with customers, pricing for products and solutions, and customer support and service. 
+We compete with other full-service providers that sell and service bundled POS and PMS solutions comprised of hardware, software, support and services. These companies, some of which are much larger than we are, include Oracle Corp., NCR, Constellation Software, Inc., Amadeus IT Group and Infor. We also compete with software companies like Vivonet, POSitouch, Northwind and Appetize Technologies. In addition, we compete with PMS systems that are designed and maintained in-house by large hotel chains.
+Environmental Matters
+We believe we are in compliance in all material respects with all applicable environmental laws. Presently, we do not anticipate that such compliance will have a material effect on capital expenditures, earnings or competitive position with respect to any of our operations. 
+Employees
+12
+
+As of May 21, 2018, we had 841 employees. We are not a party to any collective bargaining agreements, have had no strikes or work stoppages and consider our employee relations to be good.
+Access to Information
+Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and any amendments to these reports are available free of charge through our corporate website, http://www.agilysys.com, as soon as reasonably practicable after such material is electronically filed with, or furnished to, the Securities and Exchange Commission (SEC). The information posted on our website is not incorporated into this Annual Report on Form 10-K (Annual Report). Reports, proxy and information statements, and other information regarding issuers that file electronically, are maintained on the SEC website, http://www.sec.gov. 
+13
+

@@ -1,0 +1,598 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+ 
+Envision is a sustainable technology innovation company based in San Diego, California. Focusing on what we refer to as “Solar 3.0,” we invent, design, engineer, manufacture and sell solar powered products that enable vital and highly valuable services in locations where it is either too expensive or too impactful to connect to the utility grid, or where the requirements for electrical power are so important that grid failures, like blackouts, are intolerable. When competing with utilities or typical solar companies, we rely on our products’ deployability, reliability, accessibility, and total cost of ownership, rather than producing the cheapest kilowatt hour with the help of subsidies.
+ 
+Envision’s solar powered products and proprietary technology solutions target three verticals: electric vehicle charging infrastructure, out of home advertising platforms, and energy security and disaster preparedness. The Company focuses on creating renewably energized, high-quality products for electric vehicle (“EV”) charging, media and branding, and energy security, that are rapidly deployable and attractively designed. Our chief differentiator is, we believe, our ability to invent, design, engineer, and manufacture solar products which are a complex integration of our own proprietary technology and parts, and other commonly available engineered components. The resulting products are built to have the longest life expectancy in the industry while also delivering valuable amenities and potentially highly attractive revenue opportunities for our customers. Envision’s products are designed to deliver multiple layers of value such as: impact free renewably energized EV charging; media, branding, and advertising platforms; sustainable and secure energy production; reduced carbon footprint; high visibility "green halo" branding; reduction of net operating costs through reduced utility bills; and revenue creation opportunities through sales of digital out of home (“DOOH”) media. The Company sells its products to customers with requirements in one or more of the three verticals the Company addresses. Qualified customers can also lease our EV ARC™ products through leasing relationships we have developed. Envision’s products can qualify for various federal, state, and local financial incentives which can significantly reduce final out-of-pocket costs from our selling price for eligible customers.
+ 
+Products and Technologies
+ 
+We currently produce two categories of product: the patented EV ARC™ (Electric Vehicle Autonomous Renewable Charger) and the patented Solar Tree®. We have recently submitted a third product category, the EV-Standard™ product, for patent approval. It is patent pending and in late stage product development and engineering. All three product lines incorporate the same underlying technology and value having a built-in renewable energy source in the form of attached solar panels or light wind generators, along with battery storage capabilities. The EV ARC™ product is a permanent solution in a transportable format, and the Solar Tree® product is a permanent solution in a fixed format. The EV-Standard™ is also fixed but uses an existing streetlamp’s foundation and grid connection.
+ 
+EV ARC™ is a transportable, but essentially permanent, EV charging infrastructure product which supports Level I, Level II, and DC Fast Charging (requiring 4 to 7 interconnected units). EV ARC™ products can charge between one and six EVs simultaneously, and a single unit can provide EV charging in as many as 10 parking spaces. We have observed that the EV ARC™ can solve many problems associated with electric vehicle charging infrastructure deployments. Until the introduction of the EV ARC™, the deployment of EV chargers could be hindered by complications in site acquisition caused by the complicated and invasive requirements of the installation. Typical competing EV charger installations require a pedestal which is typically mounted on a poured concrete foundation which requires excavation. Fixed chargers also typically require a trench to deliver grid connected electricity, and often require transformers and other local electrical equipment upgrades. Additional entitlements, easements, leases, and other site acquisition requirements of fixed chargers can be environmentally impactful and expensive, and may slow, or prevent entirely, the deployment of large numbers of typical fixed format chargers. California’s Department of General Services has informed us that it takes an average of 18 months to go through the process of installing a utility grid-tied EV charger. New York City, currently our largest customer, experiences similar and sometimes longer delays because of the complexities of extending the electrical grid to locations where EVs need to charge. Because the EV ARC™ has its own ballast and traction pad, it does not require a foundation. Because it is entirely powered by locally generated and stored renewable energy, it does not require a grid connection. These innovations allow us to completely avoid any on-site construction or electrical work which, in turn, allows us to avoid the design, engineering, and entitlement/planning processes typical of grid-tied installations. We have demonstrated that we are able to deploy EV chargers attached to our EV ARC™ product in as little as 8 minutes (rather than 18 months).
+ 
+
+
+
+1
+-
+
+ 
+
+When a fixed EV charger is deployed successfully, the host may be liable for increased kilowatt hour charges, and at times, more expensive demand charges. Landlords, corporations, venues, and other hosts often do not perceive enough value creation in the deployment of a fixed EV charger to justify the disruption caused by the associated trenching, foundations, and electrical civil works. Consequently, they may not be inclined to grant permission to the service providers who approach them, or to install EV chargers at their own expense for their employees and guests, because the costs and disruption incurred with grid tied chargers can be prohibitive.
+ 
+Many governments and corporations have aggressive goals to install EV charging infrastructure. For example, Governor Brown of California has issued an executive order requiring the installation of 250,000 EV chargers by 2025. This equates to an average of more than 40,000 charger installations per year. To date, the EV charging industry has installed a total of about 16,000 grid-tied EV chargers. Nations such as the United Kingdom, France and Norway have announced total bans on all internal combustion engine vehicles (ICEs) during the next two decades. Others, like China and Germany are considering similar bans. Electric Vehicles will be the major replacement technology for ICEs and, as a result, the global demand for EV charging infrastructure is growing rapidly and is forecasted to accelerate. Bloomberg recently reported that the global market for EV charging infrastructure is estimated to exceed 4 trillion dollars. Vehicle manufacturers are rapidly transitioning to EV production. Volvo recently announced that by 2019, its entire portfolio will be hybrid electric (HEV) or fully plug-in electric (PEV). Ford has committed to spending $11 billion to electrify its portfolio. Volkswagen, BMW, and Mercedes have committed to all electric portfolios. Most, if not all, automobile manufacturers currently sell, or plan to sell EVs.
+ 
+We believe that there is a clear need for rapidly deployable and highly scalable EV charging infrastructure, and that EV ARC™ fulfills that requirement. We are agnostic as to the EV charging service equipment (EVSE) and integrate best of breed solutions based upon our customer’s requirements. For example, our EV ARC™ products have been deployed with ChargePoint, Blink, Juice Box, Bosch and other high quality EV charging solutions. We can make recommendations to customers, or we can comply with their specifications and/or existing charger networks. EV ARC™ replaces the infrastructure required to support EV chargers, not the chargers themselves. We do not sell EV charging, rather we sell products which enable it.
+ 
+In June 2015, the Department of General Services (DGS) of the State of California awarded us a one-year contract (with options allowing the State to exercise two one-year extensions) which enables any California state, local, or municipal agency to order EV ARC™ products from us without having to go through any further due diligence or competitive bidding process. DGS itself is a customer and has ordered products from us. In April 2016, this contract was extended for the first one-year option period through June 2017. In 2017 it was extended again through June of 2018. We are currently in discussions with the State of California to renew the contract and to add additional products such as the Solar Tree® and EV ARC™ HP DC fast charging product to it. DGS has given us no indication that it will not renew the contract. We continue to receive purchase orders under this contract. To date we have sold approximately $2,750,000 worth of EV ARC™ units through this contract. EV ARC™ products are being used by Caltrans, universities, multiple municipalities and other governmental entities in California under our contract with the State. We believe that California’s requirements for rapidly deployed and highly scalable EV charging infrastructure will only increase in the coming years.
+ 
+In September 2016, New York City’s Department of City Administration Services (the City’s contracting department) released an Invitation to Bid (“ITB”) for EV charging infrastructure. The ITB specified Envision Solar’s EV ARC™ product. After submitting our response, we attended the bid opening where Envision was the only respondent. We were awarded a contract by DCAS in March of 2017. The contract is similar to our contract with California in that it enables any NYC department to buy EV ARC™ products without having to go through any further due diligence or competitive bidding process. DCAS itself is a customer and has ordered products from us. So far, we have sold 37 EV ARC™ units to New York City for a total value of approximately $2,460,000. EV ARC™ is being used by NYPD, Department of Design and Construction, NY Dept. of Education and other entities in New York City under our contract with it. We believe that the City’s requirements for rapidly deployed and highly scalable EV charging infrastructure will only increase in the coming years.
+ 
+There are over 19,000 municipalities in the US. We have sold EV ARC™ products to seven of them thus far. We believe that the municipal market for our products is robust and offers significant opportunities.
+ 
+
+
+
+2
+-
+
+ 
+
+We believe EV ARC™ changes the paradigm of installing EV charging infrastructure completely because it is entirely self-contained and is delivered to the site ready to operate. It requires no foundation, trenching, concrete, electrical or civil works, and can be deployed in minutes. Its high-traction ballasted base pad creates a structurally sound platform that supports the rest of the structure. The solar array is connected via our EnvisionTrak™ tracking solution to a column which is mounted to the ballasted pad. An electrical cabinet integrated into the unit houses various components enabling the conversion of sunlight to electricity, which is stored in on-board batteries, and delivers that electricity to the EV charging station. Incorporating battery storage means that an EV ARC™ operates day and night, as well as during grid interruptions such as blackouts. An EV ARC™ can deliver a clean source of power to any model of EV charger that is integrated into the structure. Further, the EV ARC™ can be remotely monitored through a cellular data connection for energy production and the state of health of its vital components. EV ARC™ products fit in a standard legal-sized parking space but they do not render that parking space unusable because vehicles, EV or otherwise, can park on the high-traction ballasted pad. This is a significant differentiator for our product as most commercial and government owned parking lots have a minimum number of parking spaces which they must provide, according to local codes, to support their tenants, employees and visitors. Reducing, even by one, the number of available parking spaces might place the building out of compliance with local and perhaps other codes. We believe that the fact that EV ARC™ does not reduce parking spaces creates a significant barrier to entry for our competition as our high-traction ballasted pad forms part of our patent. EV ARC™ products are delivered to our customers’ sites ready to operate.
+ 
+For customer locations within 1,500 miles of our factory, we use our proprietary and unique transportation system, the ARC Mobility™ trailer (AMT). The AMT is a hydraulically operated trailer which is towed behind a standard one-ton pick-up truck with either a hitch or a gooseneck connection. The AMT uses hydraulics to elevate the EV ARC™ unit above the ground and fix it beneath the AMT trailer where it stays during transportation. Upon arrival at the site the driver uses the hydraulic system to lower the EV ARC™ product into its designated parking space. This process takes as little as eight minutes and is performed by one individual with no other specialized equipment. We typically deliver EV ARC™ products during the middle of the night because our target parking spaces are generally open at that time. For very tight locations we have a small electric powered tug which can maneuver the AMT into locations which will not accommodate both the truck and the trailer. Destinations which are greater than 1,500 miles from our office are reached through deliveries by third-party carriers’ trucks and trailers or in standard shipping containers. Because the EV ARC™ is too large to fit inside a container in its fully erect position, we have invented and perfected a modification to the product which we call Transformer ARC™. Transformer ARC™ products can, using a hydraulic ram, collapse in upon themselves (stowing) thus presenting a much smaller form factor which will fit inside a shipping container. When the Transformer ARC™ product arrives at its destination it is un-stowed using the same hydraulic ram and then placed, fully erect, into its designated parking space. The Transformer ARC™ modification to the EV ARC™ is currently patent pending and the USPTO has informed us that they intend to issue us a patent for this modification in April 2018. We believe that our ability to ship the EV ARC™ in different configurations and by different means is both unique and a significant differentiator from our competition.
+ 
+The EV ARC™ has been successfully deployed in California, New York, Colorado, Brazil, the Virgin Islands, and Spain and for customers such as Caltrans, Google, NY City, Genentech, Johnson and Johnson, and the Department of Energy.
+ 
+In some instances, we have integrated a digital, static, or scrolling advertising screen onto the EV ARC™ creating the EV ARC™ Media. These advertising screens are resistant to weather, theft, and vandalism and are powered entirely by the EV ARC™. The introduction of the advertising screen creates new potential revenue streams for the owner of the EV ARC™ and we believe this makes an EV ARC™ a more attractive product for certain prospective customers. This advancement could lead to multiple other similar uses of our products. Because the EV ARC™ product delivers valuable services such as solar powered EV charging and a secure energy source which can be used by first responders during grid failures, management believes that the signage, promotion, and advertising may be eligible for permitting where other advertising platforms would be prohibited.
+ 
+“Digital Out of Home Advertising” is the third fastest growing advertising medium. Double digit growth with billions of dollars per year in national and global spending make outdoor advertising an attractive opportunity. There are, however, significant barriers to making it work. In general, in the United States, it is becoming harder to deploy outdoor advertising in most places where it is of value. Similar to the EV charging vertical, the outdoor advertising industry seeks new solutions to overcome the significant barriers to entry such as planning, permission, entitlement, electrical circuitry, and civil engineering. Industry veterans spend a good deal of time looking for the “new new” in advertising, a solution that is environmentally friendly, cost effective, and most importantly, can make its way through the significant hurdles of permitting and zoning. We believe that our products are ideally suited to reduce many of the barriers to entry for outdoor advertising, and as such, we believe that significant opportunities may present themselves to us as we continue to address this market.
+ 
+
+
+
+3
+-
+
+ 
+
+In November 2017 we signed an agreement with OutFront Media (NYSE: OUT). Through this agreement, OutFront will market the sponsorship and naming rights for networks of EV ARC™ products distributed across major US cities, using the same business model that OutFront has previously used to monetize the deployment of bike sharing programs such as the Deco bike program in San Diego, California. OutFront ranks in the top three outdoor advertising companies in the US and has been successful selling similar sponsorship and naming rights opportunities. We believe that a significant opportunity exists, though our relationship with OutFront, to deploy large numbers of EV ARC™ products in multiple cities across the US.
+ 
+EV ARC™ products also provide a highly reliable source of energy that is not susceptible to grid interruptions. Because an EV ARC™ generates and stores all of its own energy, it will continue to charge EVs even during grid outages and failures such as those caused by hurricanes, earthquakes, flooding or heavy snow, or by terrorists and in the future, outages that might be precipitated by nefarious nation states. Government fleet operators, in particular, recognize the importance of having a hedge against such grid interruptions. Many of their fleet vehicles provide essential services and cannot be grounded for several days during a prolonged black-out such as the one that occurred as a result of Hurricane Sandy. Grid tied EV chargers will not operate during black-outs. EV ARC™ supported EV chargers are immune to grid failure and as such provide a vital hedge against the loss of fleet electric vehicles. We believe that as larger segments of the total vehicle fleet (government, private sector, and consumer) electrify, the necessity of a large proportion of EV chargers which are powered by locally generated and stored electricity will create a significant opportunity for our first mover status with our EV ARC™ and other products.
+ 
+Because EV ARC™ can be deployed with an optional emergency power (E Power) panel, it can also be used as a reliable source of energy in times of disaster, emergency, or grid failure caused by hurricanes, terrorism, cascading blackouts or other grid vulnerabilities. EV ARC™ can be configured to allow a select group, such as first responders, to access the solar generated and stored energy. A fireman or police officer will be able to safely connect to the EV ARC™ and power any devices that would typically require a gasoline or diesel generator. We believe that the EV ARC™ will be a much more reliable, and a cleaner source of, energy than the electric grid or other traditional back up energy sources. The EV ARC™ does not require the level of ongoing maintenance that a diesel or gasoline generator requires, and there is less chance that it will not be operational in times of emergency since first responders are not required to start it or fill it with fuel. We are currently selling EV ARC™ products equipped with E Power panels to New York City, Caltrans, and many other entities. In the summer of 2017 the EV ARC™ product deployed for the government of the US Virgin Islands was subjected to category five, 185 mph, winds which it survived. Our customer informed us, in writing, that while most other infrastructure had been damaged or destroyed by the storm, our EV ARC™ product not only survived, but was still in excellent condition. The EV ARC™ product is independently certified to withstand winds of 110 mph by a licensed structural engineering firm. We and our customers have observed that in practice, it can withstand hurricane force winds.
+ 
+While the EV ARC™ and Solar Tree® products are designed to be grid independent, they can also be connected to the utility grid at the customers’ request. In one instance we have a utility company customer which is using the EV ARC™ product to charge EVs, but also as a grid balancing tool. The utility has connected the EV ARC™ to the grid and is able to use the internal batteries as a buffer during times of grid instability. Industry experts predict that there will be a significant increase in the amount of deployed energy storage connected to the grid to provide stability in the future. We believe that the EV ARC™ products’ ability to act as a grid buffering solution, as well as a rapidly deployed EV charging solution, is another differentiator and a potentially significant value proposition.
+ 
+We believe, and we have been told by our customers and prospects, that the triple use of EV charging, digital outdoor advertising, and emergency energy production make the EV ARC™ an extremely valuable product for our customers.
+ 
+EV ARC™ is designed to address the sizable market of EV charging infrastructure. We believe the current lack of such infrastructure is the single greatest impediment to the adoption of EVs in the US and elsewhere. A standardized, portable, easily deployable EV charger, which is renewably energized rather than relying on carbon based electrical energy, would appear to have significant appeal to those who are interested in the proliferation of EV’s and EV charging infrastructure. We believe no competing company has a similar product, so the Company’s first-to-market position should create an opportunity for a sizable share in the market interest.
+ 
+
+
+
+4
+-
+
+ 
+
+For our EV ARC product, direct labor and material costs are lower than the selling price at the individual product level. However, when all of our overhead cost allocations such as rent, indirect labor, and other allocated costs are spread across the low volume of units we have produced to date, we have recognized gross losses on sales rather than gross profits. We continually endeavor to make production improvements in both our products and our processes to reduce our manufacturing costs while maintaining the high quality for which we strive. As unit sales continue to increase and when they become sufficient to overcome overhead costs shared amongst all of our production, and we trend toward reducing our cost base through improved economies of scale, production process improvements, and component cost reductions, management believes that gross profits will be realized and maintained in the future.
+ 
+Our patented Solar Tree® product has been in deployment and continued improvement for several years. We believe the resulting product has become the standard of quality in larger scale solar powered EV charging, energy security, and media and branding. We understand the Solar Tree® product to be the only single column, sun tracking, and architectural solar support structure with integrated energy storage potential, EV charging, and media platforms that is available today. We believe that Solar Tree® products with integrated battery storage will become important contributors to the growing EV charging infrastructure requirements in California and the rest of the world. Because our products do not require a connection to the electrical grid, they can be rapidly deployed and enable EV charging in locations where it would otherwise be impossible or economically infeasible. For example, rest areas and park and ride locations which might have sufficient energy for lights and vending machines, but do not have sufficient power for EV charging, can be served by our Solar Tree® products which can be optimized for direct current (“DC”) fast charging. The costs and environmental impact associated with delivering a 50kW or greater circuit to a remote rest area may be prohibitive, whereas a Solar Tree® direct current fast charger (“DCFC”) can be deployed with minimal site disturbance. In November 2017, we received an order from the Fresno County Rural Transit Authority to provide two Solar Tree® DCFC products which will be used to charge electric buses from BYD. The growth in electric bus adoption is happening at a greater pace than EVs at this time. BYD is the biggest electric bus company in the world. We believe that the successful deployment of these Solar Tree® DCFC products for Fresno and with BYD may create significant opportunities for further deployments of electric bus charging infrastructure and DC fast charging infrastructure for EVs. We further believe that the success of the sort that we currently have with Caltrans may be leveraged with other departments of transportation across the United States and the rest of the world.
+ 
+We believe Solar Tree® products with on-board battery storage can provide a highly reliable source of energy to be used in the event of a failure of the grid. We have seen data suggesting that grid failures cost businesses in the United States approximately $200 billion per year and when those failures impact vital services such as hospitals, they have been responsible for loss of life. We believe that a hospital equipped with Solar Tree® energy security products could benefit both economically and from a life safety point of view. We believe that there are many other such instances where the reliable combination of renewable energy and energy storage can deliver value which exceeds simply competing with the utility. This will become particularly true when larger segments of transportation become electrified and grid interruptions mean the “grounding” of EVs which rely solely on the utility grid to re-fuel.
+ 
+We have invented and incorporated EnvisionTrak™, our patented and proprietary tracking solution, onto all of our products, furthering the unique nature of our products and, we believe, increasing our technological leadership within the industry. EnvisionTrak™ is a complex integration of high quality gearing, electrical motors, and controls which are combined in a robust, highly engineered, and reliable manner. While there are many tracking solutions available to the solar industry, we believe EnvisionTrak™ is the only tracking solution which causes the solar array to orient itself in alignment with the sun without swinging, rotating, or leaving its lineal alignment with the parking spaces. We have received a patent on our claims of these attributes. We believe this is a vital attribute in solar generators in parking environments, since any swinging or rotating arrays could result in impeding the flow of traffic, particularly first responders such as fire trucks, in the drive aisles. It is a violation of many local codes to have restricted overhead clearance in the drive aisles. EnvisionTrak™ has been demonstrated, through data obtained from our past customers, to significantly increase electrical production. An additional value is derived from the high visual appeal created by EV ARC™ or Solar Tree® structures which are tracking the sun in perfect synchronicity. Solar Tree® products incorporate our latest engineering and fabrication improvements. This has allowed us to reduce costs and time to deploy Solar Tree® structures, and we have seen improvements in the fabrication processes. We anticipate further improvements in future deployments of the product as we incorporate more smart technology and storage capabilities.
+ 
+We also believe that Solar Tree® products optimized for branding can create visually stunning platforms for the delivery of a business’ brand message with a less onerous planning and entitlement process than that experienced with traditional signage.
+ 
+
+
+
+5
+-
+
+ 
+
+Envision recently submitted to the US Patent Office a patent application for our new product offering, the EV-Standard™. We are currently patent pending on this new product and we are in the late stages of product development and engineering. The EV-Standard™ is a streetlamp replacement which incorporates renewable energy and on-board energy storage, and which provides a meaningful EV charging experience without significant infrastructure or construction requirements. The EV-Standard™ product design includes a light-wind generator fixed atop a new streetlamp standard. Also integrated is a tracking solar panel and on-board battery storage. The EV-Standard™ product is designed to take power from the existing streetlamp grid connection and uses it to charge the on-board batteries. The streetlamp’s circuit is available 24 hours per day but is only in use during the hours of darkness. As a result, EV-Standard™ is able to use the full capacity of the grid connection to charge its batteries during the day time. A further advantage of the EV-Standard is that it is delivered with a low energy, high lumens, LED light fixture which reduces the energy required for street lighting during the hours of darkness. This makes the street light more efficient and, crucially, EV-Standard™ can use the unused capacity of night-time operations to further charge its on-board batteries. The additional renewable energy generated by both the tracking solar array and the light-wind generator supplies more energy to EV-Standards’ batteries. The energy from the batteries is then delivered to a Level II EV charger which is mounted to the EV-Standard™ product’s column. The combination of the three sources of capacity, when delivered at once through our on-board batteries, allows us to deliver a much more powerful, and therefore more meaningful, EV charging experience than would be available simply through connecting to the existing street lamp’s utility grid connection as some of our competitors currently offer.
+ 
+We believe that the improved EV charging experience offered by the EV-Standard™ design will be a differentiator for our company in a potentially very large market. On street, or curbside, charging is considered by many jurisdictions to be an important factor in the future EV charging infrastructure mix. This is particularly true in cities like New York and San Francisco where many residents have to park their vehicles on streets and therefore cannot take advantage of EV chargers deployed in parking lots or residences. In New York City, many of the city’s fleet vehicles also park on the street at night. While we are supplying our EV ARC™ products to charge New York’s fleet vehicles in parking lots, they seek solutions to charge those vehicles which are parked on the street most of the time. Furthermore, we have learned from California’s Energy Commission (the CEC) that as few as one in seven Californians park their vehicles close enough to an electrical circuit to charge their vehicles overnight, even if there were EV chargers installed at those locations where circuits do exist. CEC states that this will mean that an increase in work place and on street charging must take place if California’s electrification goals are to be met. We currently provide work place charging to the State of California through our EV ARC™ product. We believe that EV-Standard will become an excellent choice for California, New York and many other cities across the US and the world as a viable and reliable on-street EV charging solution, and as such, we believe that EV-Standard™ represents an important opportunity for future growth. Like the EV ARC™ and Solar Tree® products, the EV-Standard™ will not rely upon a grid connection and will be able to continue to charge EVs during black-outs or other grid interruptions.
+ 
+Envision continues to identify other complimentary product offerings and enhancements to current offerings and is in the design and engineering phase on certain such products.
+ 
+We strive to produce products integrating only the highest quality components available. Our production philosophy is to invest in quality design, components, and integration so as to ensure the lowest costs of warranty and service in the industry, while maintaining and growing a brand which we believe is already recognized as one of the leading producers of the highest quality solar powered products.
+ 
+We produce a series of products which management believes offer multiple layers of value to our customers while leveraging the same underlying technology and fabrication techniques and infrastructure. This enables us to reach a broad customer base with varied product offerings without maintaining the overhead normally associated with a diverse set of products.
+ 
+Our current list of products includes:
+ 
+
+1. | EV ARC™ Electric Vehicle Charger,
+---+----------------------------------
+
+
+2. | EV ARC™ HP DC Fast Charging Electric Vehicle Charger,
+---+------------------------------------------------------
+
+
+3. | EV ARC™ Media Electric Vehicle Charger with advertising screen,
+---+----------------------------------------------------------------
+
+
+4. | EV ARC™ Motorcycle Charger,
+---+----------------------------
+
+
+5. | EV ARC™ Bicycle Charger,
+---+-------------------------
+
+
+6. | ARC Mobility™ Trailer,
+---+-----------------------
+
+
+7. | The Solar Tree® DCFC product, a 35-foot-square array mounted on a single column with integrated energy storage and the capability to provide a 50kW DC fast charge to one or more electric vehicles.
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+6
+-
+
+ 
+
+The EV Standard™ is currently in the development and patenting phase of its product evolution.
+ 
+All Envision products can be upgraded with the addition of the following:
+ 
+
+1. | EnvisionTrak™ sun tracking technology (patented),
+---+--------------------------------------------------
+
+
+2. | SunCharge™ solar powered EV charging,
+---+--------------------------------------
+
+
+3. | ARC™ technology energy storage,
+---+--------------------------------
+
+
+4. | E-Power emergency power panels
+---+-------------------------------
+
+
+5. | LED lighting,
+---+--------------
+
+
+6. | Media and branding screens, and
+---+--------------------------------
+
+
+7. | Security cameras, WiFi, sound, and emergency call boxes.
+---+---------------------------------------------------------
+
+Operations
+ 
+We are headquartered in San Diego, California in a leased 50,000 square foot building professionally equipped to handle the significant growth possibilities we believe are in front of us. The building houses our corporate operations, sales, design, engineering and product manufacturing.
+ 
+The EV ARC™ and Solar Tree® structures are currently fabricated in this facility. We intend to fabricate EV-Standard in the same facility. We believe we have been better able to control quality as a result of our self-performing the manufacturing processes as opposed to outsourcing this activity as we did in the past. We have made improvements to existing products and are able to introduce new products in a much more timely and efficient manner. Management believes that the product development process is significantly faster and less expensive when carried out by an in-house fabrication facility. We no longer install our Solar Tree® products, selling them instead as an engineered kit of parts to be installed by third parties employed by the buyer of the Solar Tree® kit. We will continue to deliver our EV ARC™ product, using the specialized and proprietary ARC Mobility™ trailer, within an approximate 1,500 mile range of our fabrication facility, and use third party transportation solutions and the Transformer ARC™ for greater distances.
+ 
+Management believes that the continuation of our strategy to create highly engineered, highly scalable products which are delivered complete or as a kit of parts to the customer site, and which require minimal planning, entitlement, or field labor activities, is further positioning us as a leader in the provision of unique and highly scalable solutions to the market verticals we target. Our products are complex but standardized, readily deployable, and reduce the exposure of the Company and our customers to the risks and inherent margin erosion that are incumbent in field deployments. We are no longer directly involved in the field installation of our Solar Tree® products, instead selling them as a kit to be installed by others. Wherever possible, the components of the Solar Tree® structures are factory integrated and assembled such that complete assemblies are delivered to customer sites so that they may be erected and installed by readily available local labor contracted directly by the site host without our involvement. As part of the delivery of the latest units of Solar Tree structures to our customers, our design and engineering team has created a detailed, step by step, installation manual that can be used by any competent construction firm to seamlessly erect and install our structures. With this manual, we believe the ease of installation can be directly communicated to minimize installation costs and thereby reduce sales hurdles, resulting in increased sales.
+ 
+The EV ARC™ product family requires no field installation work and is typically delivered to the customer site by us or by a third-party transportation company for a fee.
+ 
+We continue to bring engineering improvements to our products that are designed to increase the level of standardization and reduce the field labor and effort required for product deployment. The EV ARC™ is the embodiment of this strategy in that it requires almost no field activity beyond “parking” it in a space. We have invented and produced the ARC Mobility™ trailer which is a hydraulically enabled delivery trailer that can lower an EV ARC™ product to the ground in its final location in less than eight minutes.
+ 
+We strive to benefit by the deliberate continued utilization of certain outsourced resources. While we develop all intellectual property in-house, product designs are vetted by third-party structural and electrical engineering firms to ensure that the designs meet the local jurisdictional requirements and codifications for the deployment locations. We believe this further helps dissipate potential liabilities for the structural and electrical elements by providing additionally insured experts with partial responsibility for the designs.
+ 
+
+
+
+7
+-
+
+Sales and Marketing
+ 
+Historically, we concentrated a sizeable portion of our resources on product development and engineering. We now have a reproducible suite of products which address the three market verticals in which we operate (EV charging infrastructure; out of home advertising infrastructure; and emergency energy production). As a result, we have increased our focus on sales and marketing and intend to continue and grow this focus in 2018. In 2016, we hired employees to form a sales team to sell our products directly through telephone and emailing campaigns. We believe our sales team has created a significant pipeline of prospective customers and has already converted such efforts into contracted sales.
+ 
+Our current sales activities are undertaken in the following manners:
+ 
+
+· | Direct sales efforts undertaken by our “in-house” sales team,
+--+--------------------------------------------------------------
+
+
+· | Direct sales efforts undertaken by other independent contractors,
+--+------------------------------------------------------------------
+
+
+· | Direct sales efforts as a result of management relationships, and
+--+------------------------------------------------------------------
+
+
+· | Follow-on sales to existing customers.
+--+---------------------------------------
+
+ 
+Our marketing efforts are responsible for the generation of many of our sales leads and have consisted of the following:
+ 
+
+· | Attendance at trade shows and conferences, often with live demonstrations of EV ARC™,
+--+--------------------------------------------------------------------------------------
+
+
+· | Deliveries of a “loaner” EV ARC™ unit to potential customer sites so the customer can directly experience the benefits of the product,
+--+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Web site and limited search engine optimization,
+--+-------------------------------------------------
+
+
+· | Direct electronic mailings to prospects within our target markets,
+--+-------------------------------------------------------------------
+
+
+· | Social media outreach on Facebook, Twitter, and LinkedIn,
+--+----------------------------------------------------------
+
+
+· | Video postings on YouTube and Vimeo,
+--+-------------------------------------
+
+
+· | Distribution of printed materials promoting our products,
+--+----------------------------------------------------------
+
+
+· | Industry speaking engagements and SME panel participation across the United States, and
+--+----------------------------------------------------------------------------------------
+
+
+· | Media interviews in print, radio and television.
+--+-------------------------------------------------
+
+ 
+Examples of the audiences we target are:
+ 
+
+· | Corporations,
+--+--------------
+
+
+· | Outdoor advertising companies,
+--+-------------------------------
+
+
+· | Automotive related companies,
+--+------------------------------
+
+
+· | Municipalities,
+--+----------------
+
+
+· | State and federal government entities,
+--+---------------------------------------
+
+
+· | Utilities, and
+--+---------------
+
+
+· | Commercial real estate.
+--+------------------------
+
+ 
+Sales and business development team members may receive a mixture of base and performance-based pay. They are paid a percentage of revenue only when we actually receive payment from our customers.
+ 
+We also have independently contracted sales resources that are paid based upon performance. They are paid a percentage of revenue only when we actually receive payment from our customers. Our team will assist such contractors in the creation of proposal documents when the prospective sale appears to warrant the commitment of resources to such an activity. These contractors are responsible for their own costs except in some instances where the Company’s management pre-approves an expenditure aimed at winning a sales contract.
+ 
+We continue to explore the use of sales channels to communicate the value of and sell our products. Examples of the types of channels we seek are:
+ 
+
+· | Upstream vendors such as solar module manufacturers, inverter manufacturers, EVSE manufactures,
+--+------------------------------------------------------------------------------------------------
+· | EV charging service providers, 
+· | Outdoor advertising companies, 
+· | General contractors, 
+· | Architects, and 
+· | Engineers and consultants. 
+
+
+8
+-
+
+ 
+
+During 2016, we added multiple members to be a part of our national sales team, including a new director of sales and business development who is a former Navy Seal Intelligence Officer, as well as developed national sales strategies. We continue to pursue and make progress on promising sales opportunities. Using our contracts with the State of California and the City of New York, we continue to garner sales and add new government customers. We have received follow on orders from New York City, Caltrans, and others, and added new California ordering departments. We believe we are close to securing orders from other agencies. We continue to have discussions with other governmental and private sector organizations which management believes will result in near term future orders. Additionally, we have been delivering our EV ARC™ on our ARC Mobility™ trailer to a variety of locations during a “Gorilla” marketing road show. The EV ARC™ is being delivered to corporate campuses in major California metropolitan areas such as San Diego, Los Angeles, San Francisco and Silicon Valley. We pre-announce the free availability of solar powered EV charging – “Driving on Sunshine” – through the human resource and marketing departments of the host companies. It is hoped that the host companies and their employees will see the ease of deployment and the value of highly visible solar powered EV charging, and as a result, buy our products. We believe that this has been a good way to raise awareness about the unique values our products deliver.
+ 
+In December 2017, we hosted our first Tacos ‘n’ Beer event at our factory in San Diego. More than 100 local government and private sector employees who had expressed an interest in learning about our products attended. We served them with free tacos and beer which they enjoyed while listening to a Johnny Cash impersonator. At a certain point in the evening we demonstrated the delivery of an EV ARC™ product to a parking space in our lot. We timed the delivery from the time our delivery truck crossed the property line to the time that an EV was plugged in and charging on the EV ARC™ product. In this manner, we were able to demonstrate, to a large number of potential prospective buyers, our ability to deploy an EV ARC™ in under 8 minutes. We believe that this educational outreach was a success and that it has resulted in an enhanced understanding and awareness of our products value and capabilities. We have further Tacos ‘n’ Beer events planned for multiple locations across California which started in Orange County in March 2018. Our intention is to educate the broadest possible audience to our products’ capabilities. We intend to video the more polished performances and use those to reach a much wider audience across the Internet and social media.
+ 
+Intellectual Property
+ 
+Envision owns the registered trademarks Solar Grove® and Solar Tree® structures.
+ 
+The Company has been issued three patents: one for our Solar Tree ® structure (patent No. 7,705,277), one for EnvisionTrak™ (a dual-synchronous tracking system for its Solar Tree® structures) (patent No. 8,648,551), and one for our EV ARC™ product (patent No. 9,209,648). Our EV-Standard™ and Transformer ARC™ products are both currently patent pending and we have been informed by the USPTO that the patent for Transformer ARC™ will be issued in April 2018. We have also been informed that our Chinese patent for EV ARC™ will be granted.
+Key Initiatives
+ 
+Out Door Advertising (or Out of Home advertising –“OOH”) – In November 2017, we executed an agreement with OutFront Media (NYSE:OUT). The agreement covers the relationship in which OutFront sells sponsorship and naming rights to networks of EV ARC™ products distributed across major US cities starting in San Diego, California. OutFront has successfully sold similar deals in the past to fund bike sharing programs and believes that the market for sponsorship and/or naming rights for highly visible, solar powered EV charging networks may be as or more lucrative than the bike sharing programs. The business model involves a third party, typically a large corporation looking to enhance its corporate image, paying a fee for the rights to name or sponsor the network. The duration of the sponsorship might be 3 to 5 years. The fee is calculated based upon Envision’s selling price of the product and a success fee paid to OutFront Media. Envision or a related entity would retain title to the units during the term and at the end of the term we will have the right to repeat the process. We believe that this model may constitute a significant opportunity for growth in the volume of units we deploy, and also a recurring revenue stream to augment our one-time product sales revenues. We are currently working with OutFront Media to secure permission from the City of San Diego for our intended use.
+ 
+We have also secured an agreement with ACE Parking to deploy EV ARC™ Digital in their parking lots across San Diego, California, and more broadly. We may also seek an advertising partner or work with OutFront Media to monetize the value of the advertising screens. We have walked these locations with an OOH company which has confirmed that they will allow for sufficient visibility of our screens to make an attractive advertising platform. The OOH company identified 60 initial locations in San Diego which the company believes will generate advertising revenue using our EV ARC™ Digital. We will continue to develop relationships with OOH providers. With success in San Diego, management plans to endeavor to expand our EV ARC™ Digital network to other cities. Management believes that the combination of our transportable, solar powered EV chargers with digital and static advertising may present a significant growth opportunity for the Company.
+ 
+
+
+
+9
+-
+
+State and Local Government – Envision’s EV ARC™ product was selected for a State of California contract for transportable, solar powered EV chargers. As far as we are aware, there were no other respondents with products which qualified, which further supports our belief that EV ARC™ is a product which is unique in the market. Similarly, when we responded to the New York City RFP, we believe we were the only respondent with a qualifying product. Members of staff of the State of California have commented to us that they believe that they are behind goals where the deployment of EV charging infrastructure is concerned. In June 2015, we were awarded a contract to supply EV ARCS™ to California state agencies (to the extent ordered by them) by the Department of General Services of the State of California, for a term of one year with two one-year renewal options. This contract was renewed by the State of California in both 2016 and 2017, and we have regularly delivered EV ARC™ products to state agencies during these periods. We believe that the major impediments to the deployment of EV chargers are the requirements for civil works such as trenching and foundations, as well as limited access to sufficient electrical circuits to support EV charging in the locations where it is needed. Envision’s products do not require access to utility grid circuits, and as such are perfect for remote locations such as rest areas and park & rides. Our EV ARC™ products can be deployed in minutes and our Solar Tree® and EV ARC™ DCFC products can provide over 1,000 e miles per day through DC fast chargers which will deliver a full charge to a Nissan Leaf (for example) in 20 minutes or so. We believe that this makes our products ideal for many of the State of California’s goals for the electrification of transportation, and as such, we are aggressively targeting the state with face to face meetings and educational materials. We believe that if we continue to be successful with the State of California and Caltrans, then it is not unreasonable to expect that we can expand sales to other states, the federal government, and the Department of Defense. We believe that the purchase orders we have received from multiple municipalities and also from Department of Energy National Laboratories validate our business plan.
+ 
+New York City made its first purchase of EV ARC™ products during the second quarter of 2015. New York’s Mayor Deblasio recently announced what the city believes are the most aggressive EV adoption targets of any major city in the world. Its goals call for over 2,000 EVs to enter the city’s fleets during the next few years with an investment of $50 to $80 million over the next 10 years to support additional charging infrastructure.
+ 
+In September 2016, New York City’s Department of City Administration Services (the City’s contracting department) released an Invitation to Bid (“ITB”) for EV charging infrastructure. The ITB specified Envision Solar’s EV ARC™ product. After submitting our response, we attended the bid opening where Envision was the only respondent. We were awarded a contract by DCAS in March of 2017. The contract is similar to our contract with California in that it enables any NYC department to buy EV ARC™ products without having to go through any further due diligence or competitive bidding process. DCAS itself is a customer and has ordered products from us. So far, we have sold 37 EV ARC™ units to New York City for a total value of approximately $2,460,000. EV ARC™ is being used by NYPD, Department of Design and Construction, NY Dept. of Education and other entities in New York City under our contract with it. We believe that the City’s requirements for rapidly deployed and highly scalable EV charging infrastructure will only increase in the coming years.
+ 
+There are over 19,000 municipalities in the US. We have sold EV ARC™ products to seven of them thus far. We believe that the municipal market for our products is robust and offers significant opportunities.
+ 
+Financing mechanisms – Though we have observed that our EV ARC™ product is often less expensive for our customers than the costs associated with grid-connected chargers, we have also observed that many of our customers do not always have sufficient capital resources to allow them to purchase as much EV charging infrastructure as they need. We have been told by certain government customers that they have greater flexibility to pay operating expenses (Op Ex) than capital expenditures (Cap Ex). Furthermore, many of our customers, for example government entities, are not able to take advantage of the tax incentives offered by the federal and state governments as they do not have a tax liability. As a result, we are working with a group of equity and tax equity investors and debt providers to create a financing mechanism which will allow our prospective customers to take advantage of our products through making a series of monthly payments spread out over many years. The cost of the products to our customers will be reduced by the available tax incentives which will inure to the investors who will in turn pass on the savings in the form of reduced monthly payments.
+ 
+
+
+
+10
+--
+
+ 
+
+During meetings with state government officials we have been led to believe that the combination of reduced overall costs, and the spreading of those costs across many years through monthly payments, might make it more likely that government entities can order larger volumes of our products. Initially the Company’s cash-flows will not be impacted by this structure as the investors will take title to the products and pay Envision the full price for them at the inception of the plan. However, it is possible that at some time in the future we may elect to increase our involvement in this process as a means to create a source of recurring revenue, and also to take advantage of the spread on the cost of the capital we source and that which we charge our customers for the financing.
+ 
+International – We believe that our products solve the same problems globally that they solve in the United States and in the same ways. We believe our ability to export our intellectual property and our knowledge is better than it has ever been in the past. We have adapted our products so that they are easily shipped in a standard shipping container. We have moved from project to product so that we do not have to be on site when our products are installed which, we believe, means that we can ship products anywhere in the world, leaving the installation work to local resources. We also believe that the learning we gained in putting a fabrication facility in place, inexpensively, to fabricate our products could allow us to rapidly scale in international markets.
+ 
+According to Bloomberg, financial services firm Morgan Stanley has estimated that the world will need to spend $2.7 trillion on charging infrastructure if it is to support 500 million electric vehicles. MIT Technology Review reports that there are already more than a billion vehicles on the world’s roads right now. It is likely that the number will increase in the coming decades and we believe that almost all of those vehicles will be electric.
+ 
+Many nations including the United Kingdom, Norway, and France have announced total bans on internal combustion vehicle sales after 2040. China and Germany are considering similar bans.
+ 
+We believe that in order to achieve global goals for EV charging infrastructure, a rapidly deployable and highly scalable set of EV charging solutions like those we offer will be vital. We believe our products will be needed both in the US and internationally. For this reason, we are continuing to explore opportunities to expand internationally.
+ 
+Our current international focuses are in the European Union (“EU”), the UAE (specifically Dubai) and China. In Spain, we continue to work with Aconfort, a Spanish company with whom we have a multi-year relationship. We have registered the name Envision Europe SA and we plan to send the EV ARC™ components to Spain as sales volumes dictate. Initially, we expect that EV ARC™ will be shipped in pieces to Spain where it will be reassembled by Envision Europe personnel (these will be Aconfort employees in the early stages). Certain components such as solar modules and gears, which are subject to tariffs when imported to the EU, will be sourced locally to reduce costs. As the market for our products expands, we plan to hire employees and take on more of the fabrication tasks in Spain while reducing the components we ship from the United States. As quickly as the market will support this, we intend to become self-sufficient in the EU. It is our intention to form a subsidiary in Spain. We shipped the first EV ARC™ unit to Spain in 2016 where it has been featured in a highly visible location in the center of Malaga.
+ 
+According to the government in Beijing, China will spend $200 billion on EV charging infrastructure over the next decade. Some industry experts have suggested that as much as two thirds of the global spending on EV charging infrastructure will take place in China during the next decade. China is currently the worlds’ largest market for EVs according to Bloomberg. China’s requirements for energy security products are massive and growing rapidly due to electricity interruptions, according to Chinese governmental agencies. According to ABC News, studies suggest more than one million people die prematurely every year from the toxic air that has engulfed northern China. The Chinese government’s “War on Pollution” will involve the spending of billions of dollars on renewable energy and the electrification of transportation.
+ 
+Since 2016 we have been engaged in discussions and negotiations with various Chinese entities. We have observed the business and negotiation environment to be complicated and opaque. We do not believe that we have yet arrived at a set of business conditions which would be in the best interest of the Company or our shareholders. As a result, we have not yet elected to consummate any of the business arrangements which have been offered to us in China. Our strategy is to take no deal rather than a deal which we do not have full confidence will deliver positive and secure results for the Company.
+ 
+We continue to work with entities such as the US/China Chamber of Commerce in an effort to identify suitable potential partners in China. We seek to find a partner that can manufacture and sell our products in that region. We believe that many such entities exist and we further believe that the Chinese market affords attractive opportunities. We will continue to endeavor to find a partner with whom we can execute a secure and beneficial arrangement for Envision Solar.
+ 
+
+
+
+11
+--
+
+ 
+
+We believe that our international efforts could represent a significant set of new, large, and growing opportunities for the Company.
+ 
+ARC Mobility™ - We have observed that the commercialization of our ARC Mobility transportation solution has revolutionized the way that we deliver our EV ARC™ product to our customers. We believe that EV ARC™ is already the most easily deployed EV charging solution available today. ARC Mobility makes it even easier and as a result, we believe it could help increase the product’s penetration and sales. We have already sold ARC Mobility to New York City.
+ 
+Transformer EV ARC™ – We are starting to see increased interest from overseas markets for our products. We are in the process of extending elements of our IP protection to Europe and China. We have been informed that the Chinese intend to issue a Chinese patent for EV ARC™ products in 2018. In 2016, we delivered an EV ARC™ to the government of the US Virgin Islands which survived Hurricanes Maria and Irma. We have received several inquiries from Caribbean island communities as a result of that sale. We have designed EV ARC™ to be transportable, and within the Continental United States, we can now transport it using either our ARC Mobility™ trailer or commercial trucking companies. We have invented, tested, and delivered a design modification which allows us to effectively collapse the EV ARC™ for containerization with a simple expansion process at the destination which does not require sophisticated personnel, tools or significant time. We have been informed that the USPTO intends to issue us a patent on this technological improvement (Transformer ARC™) on or about April 2018. Our first successful deliveries of such units were made to New York City during the third quarter of 2015 as well as to the Caribbean and Spain in 2016. Since that time all EV ARC™ units which have been delivered to customers at locations greater than 1,500 miles from our factory have been Transformer ARC™ products. Management believes that our ability to ship EV ARC™ products in commercial container units will allow us to address overseas and distant markets in a way which has not been possible until the successful testing and delivery of Transformer ARC™. We believe global growth in EV charging, Out of Home advertising, and energy security is vibrant. We believe that our ability to ship product worldwide will allow us to take advantage of these global opportunities.
+Solar Tree® Structure Product/Technology Development – We are continuing to improve the designs and efficiencies of our products. Significant emphasis is placed on innovation which we believe enables higher quality with increased deployment efficiency and reduced deployment risk. Fabrication and installation methodologies which replace labor with mechanized processes are favored. Our design, fabrication, and procurement processes are under constant improvement to increase efficiency and control costs.
+ 
+ARC™ Technology is the integration of storage into all existing Envision products. Battery storage removes the intermittency of electrical delivery often cited as a reason for not taking advantage of renewable energy. We believe Envision is positioning itself to be a leader in the convergence of renewable energy generation and storage. We believe our EV ARC™ product is an elegant embodiment of this convergence. We are currently under contract to deliver our Solar Tree® DCFC with integrated battery storage to the Fresno County Rural Transit Authority. Our EV-Standard™ product has battery storage as an integral part of its design. We plan to continue to commit engineering resources to this space with the intention of making all products storage capable. The energy storage market is nascent, and according to industry analysts, poised for growth in the coming months and years. Management intends that we be a leader in the integration of renewable energy products with battery storage solutions.
+ 
+The Market and the Verticals Addressed
+ 
+Envision has created a suite of products which management believes are unique, compelling, and ideally suited to address the following market verticals:
+ 
+
+1. | Electric Vehicle Charging,
+---+---------------------------
+
+
+2. | Outdoor Advertising, and
+---+-------------------------
+
+
+3. | Energy Security.
+---+-----------------
+
+
+12
+--
+
+ 
+
+Management has observed that industry analysts and experts believe that each of these market verticals has:
+ 
+
+a) | Annual spending in the billions,
+---+---------------------------------
+
+
+b) | A global marketplace,
+---+----------------------
+
+
+c) | Significant growth, and
+---+------------------------
+
+
+d) | A compelling need for the types of products Envision produces.
+---+---------------------------------------------------------------
+
+Electric Vehicle Charging
+ 
+The growth rates in electric vehicle sales and, as a result, the requirements for supporting infrastructure are impressive. To date, the deployment of electric vehicle service equipment (“EVSE”) has not met the goals set by federal or state governments or any of the larger companies currently engaged in the space. The reasons for the delays are numerous but the main impediments include the following:
+ 
+a)                Site Acquisition – identifying and leasing/controlling locations
+ b)                Entitlement – permitting and zoning requirements
+ c)                Civil Works – foundations and trenching
+ d)                Inability to move the EV charger once deployed
+ e)                Energy – sources and cost of energy
+ f)                 Reliability – EV chargers will not work during utility grid interruptions
+ g)                Telemetry – communications with the EV chargers
+ 
+We believe the Envision EV ARC™ is the world’s first and only transportable, solar powered EV charger. Because it produces and stores all its own energy, it does not need a grid connection and therefore needs no trenching, switch gear, or transformer upgrades. Management believes the lack of a foundation, trench or electrical infrastructure means that in most jurisdictions the EV ARC™ will not need a building permit, and we have found that to be the case in every jurisdiction in which the product has been deployed to date. It is immune to grid interruptions such as black outs or brown outs. As such, it will allow for vehicle charging even in times of grid failure. It can be moved at any time because it is not connected to the ground or grid, and we believe, creates an attractive and highly visible branding asset for the host. There are no utility bills to pay and, as the number of EVs increase on the host campuses, more EV ARC™ units can be added with a continued lack of disruption. We have observed that locations that currently offer grid tied EV chargers have placed those chargers in locations where a suitable circuit was most easily accessed – the “low hanging fruit”. As the number of EVs increase in such locations the existing chargers are no longer sufficient to fulfill the needs, leading to what is called in industry jargon “charge rage”, an event when two or more EV drivers wish to use the same charger at the same time. We believe that this will lead those locations to require more EV chargers and that, having used up the low hanging fruit, they will be required to extend circuits to locations in their parking lots which will require invasive, time consuming and expensive infrastructure, permitting, construction and electrical work.
+ 
+EV ARC™ and Solar Tree® products can also be equipped to provide emergency power to users such as first responders during times of emergency or other grid failures. Because the products replenish their batteries every day, even during cloudy conditions, we believe that they are some of the most robust and reliable back-up energy sources available today. Several of our current government customers are ordering EV ARC™ units with our optional E Power panels integrated into the units. E Power is a series of secured power outlets with directed and primary energy access available to emergency responders. This is a source of increased revenue for us and, we believe, a compelling value proposition for our products.
+ 
+EV ARC™ and Solar Tree® products can be grid connected if the customer wishes. Our first utility customer connected its EV ARC™ units to the grid in 2015. The EV ARC™ products provide solar powered EV charging, but they also serve as grid stability tools. During times of low energy use the utility will charge the EV ARC™ on board batteries. During times of grid stress, the utility takes energy from EV ARC™ batteries thus reducing stress on their generation assets and grid infrastructure. We believe that “Grid Balancing” offers a potentially significant market opportunity for Envision’s products as electrical grids become increasingly unstable due to increased demand, aging infrastructure, and extreme weather events. Experts from utilities such as San Diego Gas & Electric have told us that this is the case and that distributed storage is an important part of their future plans.
+ 
+We believe these factors make our products a compelling value proposition to anyone who intends to install such devices. A corporate customer can deploy EV charging quickly, efficiently, and without digging up its parking lots. The positive carbon foot print impact is greater because our products use sunlight to charge the employees’ EVs and, we believe, the marketing and branding impact is far greater because the enterprise has a highly visible demonstration of its commitment to the environment.
+ 
+
+
+
+13
+--
+
+ 
+
+We believe Envision’s larger Solar Tree® structures also make effective EVSE infrastructure solutions. Considering the list of impediments to EV infrastructure deployments, we believe that the Solar Tree® structure with column integrated CleanCharge™ EV chargers offers significant advantages over a typical grid tied EV charger. We believe that they offer the most attractive and practical mounting assets for fixed EV charging stations. The single column design is ideal for centrally locating multiple chargers and making them available to the maximum number of spaces. Entitlement might go more smoothly because the Solar Tree® structures contribute more benefits to the local environment than simple EV chargers. Those additional benefits include shade, reduction in heat islanding, reduction in light pollution, architectural appeal, reduction in grid stress, and disaster preparedness when equipped with ARC™ storage technology. We believe that commercial real estate owners and corporate campuses will recognize the multiple layers of increased value delivered by Solar Tree® structures and CleanCharge™ deployed with little disruption to their facilities.
+ 
+Solar Tree® structures with ARC™ technology energy storage could generate and store enough energy to provide over 1,000 e miles per day through any high quality EV charger including DC fast chargers. They could be deployed in any location that is not shaded and they do not require any utility grid connection. We believe that this vital factor makes them a compelling choice for remote locations where there is inadequate utility grid connection (e.g. rest areas). Corridor charging, the term used to describe EV charging on highways between built up areas, is recognized as being very important, but also very difficult to achieve with traditional grid tied chargers because of the lack of electrical circuits and the environmental and economic impact of bringing infrastructure to remote sites. We believe that our Solar Tree® and EV ARC™ products are ideal for corridor charging because they do not need to connect to the electrical grid. Additionally, where the requirement is for charging of mission critical vehicles (e.g. first responders, hospitals, fleet vehicles), Solar Tree® and EV ARC™ products can provide a highly robust and secure source of energy even when the grid is not available. Unlike gasoline or diesel-powered generators, our products are not reliant on external sources of fuel and, we believe, require much less maintenance, testing and service. It is our further contention that any campus environment with an EV charging need and a wish for a high degree of reliability in its electrical supply can benefit from our Solar Tree® structures with ARC™ on-board energy storage because, we believe, in times of grid instability (e.g. natural disaster, terrorism, capacity constraints), the Envision products could provide the most reliable source of energy at the location.
+ 
+Sales of electric passenger buses increased by over 40% in 2017, according to Navigant Research, which observes that transit agencies are interested in battery electric buses, thanks to their potential for lower operating costs in addition to having zero emissions and reduced noise. New orders for electric buses are growing rapidly. Our Solar Tree® product is a highly effective solution for electric bus charging because it can deliver a DC fast charge without utility grid connections, and without the challenges, expenses and delays often associated with the installation of grid-connected charging.
+ 
+We believe that so called “range anxiety” is one of the top two reasons that customers are not buying EVs. We believe our products can contribute in a significant and material manner to reducing range anxiety. As a result, we believe that any company or governmental entity that views the roll out of EV charging infrastructure as important to its business could reasonably be expected to become our customer.
+ 
+The development and commercialization of wireless or inductive charging is in advanced stages. There are several companies such as Qualcomm, Momentum Dynamics, Wave, Hevo and Witricity which have commercially available wireless chargers for EVs and larger electrified vehicles. We believe that our products, particularly the EV ARC™, are ideal for the integration of wireless charging for two reasons: (i) the wireless power transmitters can be integrated directly in to our base pads whereas traditional grid-connected products will have to install the transmitters into the concrete or asphalt, requiring further permitting and construction activities and, (ii) wireless charging is about 5% less efficient than conductive (plugging in) charging which means that an operator of a large number of vehicles or a network of chargers will find that their utility bill increases by 5% when they upgrade to wireless charging because of the loss. Our products generate all their own energy from renewable sources without generating a utility bill, so there will be no increase in energy costs for a fleet operator when they convert to wireless charging with Envision products.
+ 
+We believe that wireless charging will play a major role in the future of EV charging because (a) the consumer will demand the ease and convenience of simply parking their car and having it fuel without their having to plug in and (b) fleet operators will no longer have to be concerned that their employees have plugged EVs in at the end of a shift. So long as they are parked they will fuel automatically.
+ 
+Management believes that increased adoption of wireless or inductive charging constitutes another significant opportunity for a differentiated advantage and, as a result, growth in the future.
+ 
+
+
+
+
+14
+--
+
+ 
+
+Another area in the charging ecosystem which provides major opportunities and challenges is the “curbside” or “on street” sector. Because so many owners of vehicles and even fleet operators (in cities like New York and San Francisco) park their vehicles on street, there is a significant need for curb side charging. In fact, the CEC has publicly stated that only 1 in 7 Californians are able to park their car close enough to a circuit to charge at home. Their conclusion is that curb side, on street charging will be an important contributor to the successful electrification of transportation in the State. Many other jurisdictions such as New York City have made the same statements.
+ 
+We have invented and are in the late stages of product development on, our patent pending, EV-Standard product which is, in our belief, the ideal curb side charging solution. The EV-Standard™ product is a streetlamp replacement which incorporates renewable energy and on-board energy storage, and which provides a meaningful EV charging experience without significant infrastructure or construction requirements. The EV-Standard™ design includes a light-wind generator fixed atop a new streetlamp standard. Also integrated is a tracking solar panel and on-board battery storage. The EV-Standard™ product design takes power from the existing streetlamp grid connection and uses it to charge the on-board batteries. The streetlamp’s circuit is available 24 hours per day but is only in use during the hours of darkness. As a result, EV-Standard™ is able to use the full capacity of the grid connection to charge its batteries during the day time. A further advantage of the EV-Standard is that it is delivered with a low energy, high lumens, LED light fixture which reduces the energy required for street lighting during the hours of darkness. This makes the street light more efficient and, crucially, the EV-Standard™ can use the unused capacity of night-time operations to further charge its on-board batteries. The additional renewable energy generated by both the tracking solar array and the light-wind generator supplies more energy to EV-Standards’ batteries. The energy from the batteries is then delivered to a Level II EV charger which is mounted to the EV-Standard™ products’ column. The combination of the three sources of capacity, when delivered at once through our on-board batteries, allows us to deliver a much more powerful and therefore more meaningful EV charging experience than would be available simply through connecting to the existing street lamps’ utility grid connection as some of our competitors currently offer.
+ 
+We believe that the improved EV charging experience offered by the EV-Standard™ design will be a differentiator for our company in a potentially large market. We currently provide work-place charging to the State of California through our EV ARC™ product. We believe that EV-Standard will become an excellent choice for California, New York and many other jurisdictions across the US, and the world, as a viable and reliable on-street EV charging solution. Accordingly, we believe that EV-Standard™ represents an important opportunity for future growth. Like the EV ARC™ and Solar Tree® products, the EV-Standard™ will not rely upon a grid connection and as such will be able to continue to charge EVs during black-outs or other grid interruptions.
+ 
+Outdoor Advertising
+ 
+As the value of traditional advertising media such as television, radio, and print, diminishes, advertisers in the United States and abroad are looking for new outlets to capture the attention of consumers. Industry experts believe that there will be significant growth in spending on outdoor advertising platforms particularly when mounted on street furniture. We anticipate this is particularly true relative to digital content. The DOOH (digital out of home) industry, from what we understand, is enjoying a period of rapid growth and may continue to do so for the foreseeable future. Management has seen statistics suggesting DOOH and other outdoor advertising spending exceeded $7B in the United States and $25B globally in 2014, with massive potential markets such as China just beginning to enter the marketplace.
+ 
+While we believe there is a great deal of pent up demand for out of home advertising spending in the United States, there are also significant barriers to the widespread deployment of the infrastructure, which we believe enhance our competitive position:
+ 
+a)      Entitlement – traditional signs and billboards are increasingly difficult to take through the permitting and zoning process. Some jurisdictions have outlawed them entirely.
+ b)      Public perception – the value of outdoor advertising becomes questionable when the constituency views the medium as anti-social, as is often the case with traditional billboards.
+ c)      Energy Costs – lit and digital billboards are major energy consumers.
+ d)      Content updates – signs and billboards can be slow and costly to update.
+ e)      Civil engineering and construction – signs and billboards require costly installations and electrical connections.
+ 
+
+
+
+15
+--
+
+ 
+
+We believe Envision has products that solve each of the above impediments to billboard and DOOH infrastructure deployments. We, together with our partner, OutFront Media (NYSE:OUT), are currently in the process of working to secure agreements with one or more cities to allow for the deployment of our advertising or sponsorship funded, solar powered EV chargers. We are also working with individuals and organizations to encourage investment in our products deployed in this manner.
+ 
+The Envision products are renewably energized, so they are shrouded in what is often referred to as the “Green Halo.” We have observed that the green/sustainable aspect of our products can make them more likely to win approval through the entitlement process, while also making them more popular with an increasingly environmentally-conscious public. The dual effect, we believe, is that our products may be deployable in locations where traditional signs or billboards may be denied. We believe these products will be more popular with an advertisers’ intended audience and, as a result, advertisers may be willing to pay for them either as a capital purchase or through an existing payment schedule they have with vendors such as Lemar, Clear Channel or JC Decaux, or through sponsorship and naming rights deals such as those OutFront intends to sell. Envision plans to sell products either directly to the end user or to one of the brokerages or to maintain title to the products while collecting a fee for the sponsorship and naming rights. We do not currently intend to sell space to content providers except in select locations as there are other well-established companies doing that to which we can sell. Technology advances in advertising operations are making it increasingly possible to place digital content on advertising screens through the leveraging of automated platforms. Google is piloting programs in the United Kingdom for place and time-based advertising on digital screens. Management is meeting with various companies involved in the automatic placement of digital content on outdoor screens to ascertain whether there is a model which will allow us to successfully monetize the EV ARC™ Digital without the active involvement of a third party, thus avoiding an increase in associated direct costs. In the case of the sponsorship deals contemplated with OutFront Media, Envision may retain title to the products throughout the sponsorship period and charge fees for the rights to the network. These fees would constitute recurring revenue for the Company. At the end of the sponsorship period, which is currently contemplated by OutFront to be in the three to five-year range, the rights to the network would revert to Envision at which point we may be at liberty to sell them again.
+ 
+Our products produce more energy than they consume through the display of advertising content, so they do not have ongoing operating expenses associated with energy costs. In fact, they can also support other local energy requirements such as lighting or, even more politically important, EV charging infrastructure or disaster preparedness.
+ 
+Each of our products can be equipped with a WAN (Wide Area Network) connection that can be used to monitor the condition and performance of the unit. This WAN connection can be used equally to deliver content updates to our products’ advertising screens and to network the products so that they can be intelligently linked to one another as well as to local consumers through NFC (Near Field Communications). This means that our products can be deployed without any connection to power or telecommunications while delivering the same value as those that have gone through expensive construction processes to connect to power and data.
+ 
+Energy Security
+ 
+Power outages cost the United States $200 billion per year according to the Department of Energy. A report in the Wall Street Journal stated that the United States is nine key sub stations away from a total black out, and further reported if one of a few transformer companies who could supply the hardware to repair the sub stations was also disabled, that the black outs would last 18 months. We believe that energy security will be an important growth market and that our Solar Tree® and EV ARC™ products with ARC technology energy storage can address this and provide possible growth opportunities.
+ 
+Using solar power to reduce an entity’s utility bill is not new and is now a highly competitive market however, Envision believes that the growth in energy security products will create a significant opportunity for the Company. We have overcome many hurdles inherent in the production of reliable, cost effective, stand alone, renewable energy generation and storage solutions. Our EV ARC™ product is essentially a micro-grid which generates, stores, and makes available, day or night, clean, reliable electrical energy. This technology is already offering our customers an alternative to back-up generators or other expensive measures which they feel compelled to own to safeguard their increasingly important energy supplies. Many of our customers have expressed that they view the fact that EVs can charge from our products even when the utility grid fails as one of the key components in their decision to buy. Their ability to connect external devices to the EV ARC™ power outlets and “shore power” cable may allow them to eliminate the need for gasoline or diesel generators where EV ARC™ is deployed.
+ 
+
+
+
+16
+--
+
+ 
+
+Customers like New York City and Caltrans who own increasingly large fleets of EVs cannot take the chance that there is another major grid outage such as the one that was caused by Hurricane Sandy. The impact of such an outage would be that the EVs would be grounded during such an event. Our products provide a hedge against such a catastrophe because they are immune to grid interruptions.
+ 
+Distributed generation photovoltaic solar projects have historically been rooftop or adjacent property installations. Rooftops have a number of inherent problems that are avoided by utilizing parking lots and the top levels of parking structures for solar installations. Rooftops are populated with mechanical equipment, vents, skylights, elevator overruns and most importantly, roofing materials and systems including waterproof membranes, that require maintenance, are warranted, and must be replaced more often than solar PV products. Rooftops are also limited in the area which is required for large scale energy production by PV systems. The low returns generated by many roof top and adjacent property solar deployments are often not sufficient inducement to a real estate owner to expose themselves to the encumbrance and risks associated with those sorts of deployments, which in part, might explain the relatively low adoption of this otherwise beneficial technology.
+ 
+There are over 800 million parking spaces in the United States. As the adoption of Electric Vehicles increase, we believe parking lots will be ideal locations for EV charging infrastructure, and Envision’s products with SunCharge™ will offer an attractive option to any entity considering the deployment of such solutions.
+ 
+We believe, globally, solar deployments are growing significantly. While much of the growth has been focused on competing with utilities to provide cheaper electricity, we believe that there will be a significant growth in Solar 3.0 in which solar energy is used to enable services and amenities where the grid is unavailable or too unreliable for the intended use. Electrical energy is becoming increasingly vital to almost everything that we do and our requirements for it are no longer restricted to indoor locations where standard outlets are readily available. Solar powered products, like those that we produce, which can deliver reliable energy in locations where there is insufficient circuit, like parking lots, streets, parks, and public spaces, appear to have significant market opportunities. Our deployment speed is also important to our marketing efforts. In most cases, we deploy our EV ARC™ and Solar Tree® products in active parking lots of active businesses. Whether we are deploying for EV charging, energy security, or for marketing purposes, our prospective customers often consider business disruption in their analysis and buying decisions. We believe that our products can be installed faster than any other products in the industry, making deployment of Envision products less negatively impactful than the deployment of our competitor’s products. The potential loss of revenue or opportunity caused by a torn-up parking lot can, over time, be quite substantial. We believe our deployment speed will increasingly contribute to Envision’s competitive edge.
+ 
+Customer Concentration
+ 
+During 2017, the Company had two customers that each exceeded 10% of our revenue.
+ 
+Lender Convertible Debt Instruments
+ 
+On September 18, 2017, Envision entered into a revolving secured convertible promissory note (the “Revolver”) and a secured convertible promissory note (the “Note”) with an unaffiliated lender (the “Lender”). Pursuant to the Revolver, the Company has the right to make borrowings from the Lender in amounts of up to 70% of the value of any specific purchase order (each a “PO”) received by the Company from a credit worthy customer (each a “Draw Down”), up to a maximum of $3,000,000, commencing on the date of the Revolver and terminating 300 days after the date of the Revolver, by giving five (5) business days written notice to the Lender of a request for borrowings (the “Evaluation Period”). During the Evaluation Period, if Lender determines in its commercially reasonable judgement that the customer (“Customer”) is not credit worthy, Lender may refuse to advance the Draw Down. The Revolver bears simple interest at the floating rate per annum equal to the 12-month USD LIBOR index rate quoted from time to time in New York, New York by the Bloomberg Service plus 600 basis points (the “Interest Rate”). The Interest Rate will be adjusted on the first day of each calendar month during the term of the Revolver to reflect any changes in the 12-month LIBOR rate as quoted at 1:00 pm Eastern Time in New York, New York on that day, or if that day is not a business day, on the next business day. The principal and accrued unpaid interest with respect to each Draw Down is due and payable within five (5) business days of receipt from the Customer by the Company of a payment due under the applicable PO (with respect to each Draw Down, the “Maturity Date”). Each Draw Down is secured by a perfected recorded second priority security interest in all of the Company’s assets, as set forth in that certain Security Agreement by and between the Company and the Lender, dated September 18, 2017. The Lender will have the right at any time until the Maturity Date of a Draw Down, provided the Lender gives the Company written notice of the Lender’s conversion election to convert, prior to any prepayment of such Draw Down by the Company, all or any portion of the outstanding principal and accrued unpaid interest (the “Conversion Amount”), into such number of fully paid and nonassessable shares of the Company’s common stock as is determined by dividing the Conversion Amount by the greater of (i) fifteen cents ($0.15) or (ii) 75% of the Volume Weighted Average Price of the Company’s common stock that is quoted on a public securities trading market (if more than one, the one with the then highest trading volume), during the five (5) consecutive trading days immediately prior to the date of the Lender’s written notice of the Lender’s election to convert. The Revolver is secured by a second priority perfected recorded security interest in all of the assets of the Company, evidenced by a Security Agreement with the Lender.
+
+17
+--
+
+ 
+
+As additional consideration for the loan made by the Lender to the Company as evidenced by the Revolver, the Company agreed to issue to the Lender common stock purchase warrants exercisable for a period of three years from the date of issuance with an exercise price equal to the greater of (i) $0.15 per share or (ii) 75% of the Volume Weighted Average Price of the Company’s common stock that is quoted on a public securities trading market (if more than one, the one with the then highest trading volume), during the five (5) consecutive trading days immediately prior to the date of the applicable Draw Down. The number of warrants issuable to the Lender will equal 25% of the increase over the highest amount previously drawn down by the Company on the Revolver divided by the greater of (i) fifteen cents ($0.15) or (ii) 75% of the Volume Weighted Average Price of the Company’s common stock that is quoted on a public securities trading market (if more than one, the one with the then highest trading volume), during the five (5) consecutive trading days immediately prior to the date of the applicable Draw Down which causes the increase over the previous highest amount borrowed.
+ 
+In addition to the Revolver, the Lender agreed to lend $1,500,000 to the Company pursuant to the Note. The Company covenanted to use the proceeds of the Note exclusively to pay-off the entire outstanding balance of that certain loan and security agreement that the Company has with Silicon Valley Bank, dated October 30, 2015. The Note bears simple interest at the floating rate per annum equal to the 12-month USD LIBOR index rate quoted from time to time in New York, New York by the Bloomberg Service plus 400 basis points (the “Note Interest Rate”). The Note Interest Rate will be adjusted on the first day of each calendar month during the term of the Note to reflect any changes in the 12-month LIBOR rate as quoted at 1:00 pm Eastern Time in New York, New York on that day, or if that day is not a business day, on the next business day thereafter. Interest will only accrue on outstanding principal. Accrued unpaid interest is payable monthly on the first calendar day of each month for interest accrued during the previous month, with all outstanding principal and accrued unpaid interest payable in full on or before three hundred and sixty-four (364) days after the date of the Note (the “Note Maturity Date”), to the extent not converted into shares of the Company’s common stock. The Note is secured by a perfected recorded first priority security interest in all of the Company’s assets, as set forth in that certain Security Agreement by and between the Company and the Lender, dated September 18, 2017. At any time until the Note Maturity Date and provided Lender gives the Company written notice of Lender’s election to convert prior to any prepayment of this Note by the Company with respect to converting that portion of this Note covered by the prepayment, the Lender has the right to convert all or any portion of the outstanding principal and accrued interest (the “Note Conversion Amount”), into such number of fully paid and nonassessable shares of the Company’s common stock as is determined by dividing the Note Conversion Amount by the greater of (i) fifteen cents ($0.15) or (ii) 75% of the Volume Weighted Average Price of the Company’s common stock that is quoted on a public securities trading market (if more than one, the one with the then highest trading volume), during the five (5) consecutive trading days immediately prior to the date of the Lender’s written notice of its election to convert.
+ 
+As additional consideration for the loan evidenced by the Note, the Company agreed to issue to the Lender common stock purchase warrants exercisable for a period of three years from the date of issuance with an exercise price equal to $0.15 per share. The number of warrants issuable to the Lender is equal to 25% of the Loan Amount divided by fifteen cents ($0.15).
+ 
+During any time when the Note or the Revolver is outstanding, or when the Lender holds any Company stock, or any warrants to acquire Company stock where the combination of both could result in the Lender owning stock with a current value of one million dollars or greater, in the Company, the Lender will have certain review and consulting rights as described in the Note and the Revolver.
+ 
+As of December 31, 2017, the balance outstanding under the Note was $1,500,000 while the balance outstanding under the Revolver was $1,150,000.
+ 
+Competition
+ 
+The market we address can be intensely competitive. We are subject to competition from a number of other companies manufacturing, selling, and installing solar power products in the commercial market, many of which have longer operating histories and greater financial and other resources than the Company.
+
+18
+--
+
+ 
+
+EV Charging
+ 
+During 2016 and 2017 the State of California’s Department of General Services and New York City’s Department of City Administration Services, respectively, both conducted global searches for products which could compete with the EV ARC™. In both instances they released publicly available Requests for Proposals for competing products and in both cases, though the contracts were competitively let, only Envision Solar demonstrated that it has a product which met their specifications. In both cases we were the only qualified respondents to the contracting process and in both cases, we were awarded multi-year, multi-million-dollar contracts.
+ 
+The EV charging sector is growing rapidly with many companies playing different roles in the space. Companies such as Schneider, Eaton, Aerovironment, and Bosch manufacture EV charging units but do not offer charging services. Companies such as ChargePoint and Car Charging Group offer EV charging services and hardware but not, typically, installation. There are many companies which offer installation services typically from electrical and general contracting backgrounds. There are one or two companies which are endeavoring to find ways to monetize EV charging beyond generating revenue from services or hardware. Volta is a San Francisco based EV charging company which derives revenue through the sale of advertising. Volta gives charging away for free. They are deployed in a small number of shopping malls and other locations. Many solar companies are now fixing EV chargers to their parking lot structures and some are offering packages combining solar rooftop installations and EV charger installations for the residential market place. These installations are almost always grid tied and do not include energy storage. We know of no other company that has a fully self-contained, transportable, autonomous, solar powered EV charging solution and we know of no other company that offers a product which delivers DC fast charging solely from solar generation.
+ 
+Outdoor Advertising
+ 
+Envision’s role in the outdoor advertising space is currently anticipated by management to be one of delivering hardware solutions in the billboard, street furniture, and digital signage space. There are large well-established companies such as JC Decaux which specialize in the sale of advertising and also in the production of street furniture solutions. Other vendors in the space include Daktronics which makes digital billboards and street furniture. We have met with both companies and determined that neither has a transportable solar powered solution. Both companies have expressed that they recognize the value of EV charging infrastructure as a platform for DOOH. They have also expressed an interest in working with us though we have nothing definitive with either at this point. Either of them could compete with us if they determined to invest in developing solar powered products.
+ 
+There are many companies which specialize in the placement of outdoor content on existing infrastructure, including but not limited to Capitol Outdoors, Vistar Media, EMC Outdoor and Outfront Media. We are under contract with OutFront and in contact with some others and intend to be in contact with more advertising media firms to educate them about our products. These companies can be seen as competition as they are in the business of taking as much of the market share as they can for outdoor advertising content. However, they do not always produce hardware. With that in mind we see these companies more as potential partners than competitors. Perhaps one of the most interesting entrants into the outdoor digital content placement market is Google. With its recent announcement of time and place-based content dispersal on outdoor digital screens, Google is taking its advertising placement technology outdoors. Google has several solar and energy projects underway and as such, could create solar powered outdoor advertising technologies. Google is currently a customer, purchasing EV ARC™ products for EV charging on their campuses.
+ 
+The large outdoor advertisers such as ClearChannel, Outfront Media, Lamar and JC Decaux have combinations of larger format billboards, digital billboards, screens and street furniture. They use combinations of in house and outsourced resources to acquire hardware. We are not aware that any of them currently have solar powered solutions such as those that we offer, however, we have seen each of them pay close attention to sustainable options such as using solar panels adjacent to billboards to power them. We will endeavor, wherever possible, to sell products to these companies. Each of them could create competing products to ours.
+ 
+Energy Security
+ 
+Our focus in energy security is to produce solar powered products which include battery energy storage and which can dispatch power during times of grid or carbon fueled generator failure. There are many companies, both large and small, with solar energy solutions, many with battery storage solutions, and many with combinations of both capabilities. As our focus is on creating products from the combination of solar power generation and energy delivery and storage, we view the competition from companies producing these types of solutions to be most relevant to our business. Companies in this space range from small startup companies like Green Charge Networks to behemoths like General Electric and NEC. Siemens, Eaton, Schneider and other large electrical component companies are all also working on combined renewables/storage product solutions. We are in contact with all these companies and have not observed that any of them have a product which provides all the same value and differentiation that our EV ARC™ product delivers.
+
+19
+--
+
+ 
+
+While we believe that our proprietary designs and our deployment strategies differentiate us from our competitors in the market, there is no assurance that our business, operating results, and financial condition will not be materially adversely affected by our competitors.
+ 
+Government Regulation
+ 
+Businesses in general and solar energy companies in particular are subject to extensive regulation at the federal, state, and local level. We are subject to extensive government regulation of employment, health, safety, working conditions, labor relations, and the environment in the course of the conduct of our business. In order for our customers to enable the installation of some of our products, they generally are required to obtain permits from local and other governmental agencies. In the case of our grid tied products, they must comply with the applicable rules and regulations of the relevant state public utility agencies. In order for our customers to take advantage of available tax and other governmental incentives associated with the installation of solar power production facilities, and the production and use or sale of solar power, they must comply with the applicable regulatory terms and conditions. Government regulation may have a material adverse impact on our business, operating results, and financial condition.
+Employees
+ 
+As of the date of this report, we had 17 employees, and eight additional individuals engaged through a temporary employment agency. The individuals we utilize through the temporary employment agency work for us on a full-time basis but were hired through an agency to maximize our flexibility and to reduce the risks and costs associated with full time employees.
+Seasonality
+ 
+Our operations are not expected to be materially affected by seasonality.
+ 

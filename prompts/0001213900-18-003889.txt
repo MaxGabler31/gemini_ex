@@ -1,0 +1,381 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business
+----------------------------------+---------
+
+ 
+Nxt-ID is an emerging technology company engaged in the development of proprietary products and solutions that serve multiple end markets, including the security, healthcare, financial technology (“FinTech”) and the Internet of Things (“IoT”) markets. With extensive experience in access control, biometric and behavior-metric identity verification, security and privacy, encryption and data protection, payments, miniaturization, and sensor technologies, we develop and market groundbreaking solutions for payment, IoT, and healthcare applications.
+ 
+
+Two of Nxt-ID’s subsidiaries operate in the mobile and IoT-related markets: LogicMark, LLC (“LogicMark”), a manufacturer and distributor of non-monitored and monitored personal emergency response systems (“PERS”) that are sold through dealers, distributors and the United States Department of Veterans Affairs (the “VA”), and Fit Pay, Inc. (“Fit Pay”), a proprietary technology platform that delivers end-to-end solutions to device manufacturers for contactless payment capabilities, credential management, authentication and other secure services within the IoT ecosystem, which we acquired on May 23, 2017. Through these lines of business, Nxt-ID creates and markets technologies that are at the center of the rapidly expanding IoT space. Our core competencies leverage emerging business opportunities with significant high-growth potential, as well as revenue-producing lines of business with clear paths to expansion.
+ 
+With technologies that validate and connect users to devices, and devices to ecosystems, we are playing a central role in the expansion of IoT ecosystems, focusing on the areas of healthcare and payments. Our strategic initiatives include: (1) monetizing our core technologies; (2) focusing on key addressable market segments and verticals; and (3) executing clear go-market strategies for our products and services.
+ 
+
+This strategy allows us to take advantage of multilayered and recurring revenue opportunities within the healthcare and payment market segments. In healthcare, LogicMark produced consistent revenue growth, while positioning itself as the VA’s leading provider of non-monitored PERS devices and further expanding into the domestic retail market with its disruptive value proposition.
+ 
+With respect to our payments business, Fit Pay became one of the first successful third-party payment network token service provider with the commercialization of its platform and the launch of the Garmin Pay™ feature for one of its customers, Garmin International, Inc. Fit Pay also announced key ecosystem partnerships with Visa International, Mastercard, Bank of America, and Australia and New Zealand Banking Group Limited (ANZ). We are continuing to integrate our initial 15 device manufactures onto the core Fit Pay Trusted Payment Manager™ platform (“TPMP”) with the product launches of the Token ring by Tokenize Inc. and the Bee payment device by Radiius. We are also working to expand the capabilities of the platform in order to integrate it with additional payment networks and issuing banks, and to offer new products, such as cryptocurrency, to emerging markets.
+ 
+1
+
+ 
+
+Healthcare
+ 
+Overview
+ 
+With respect to the healthcare market, our business initiatives are driven by LogicMark, which serves a market that enables two-way communication, medical device connectivity and patient data tracking of key vitals through sensors, biometrics, and security to make home health care a reality. There are three major trends driving this market: (1) an increased desire for connectivity; specifically, a greater desire for connected devices by people over 60 years of age who now represent the fastest growing demographic for social media; (2) the growth of “TeleHealth”, which is the means by which telecommunications technologies are meeting the increased need for health systems to better distribute doctor care across a wider range of health facilities, making it easier to treat and diagnose patients, and (3) rising healthcare costs – as health spending continues to outpace the economy, representing between 6% and 7% of the overall economy, the need to reduce hospital readmissions, increase staffing efficiency and improve patient engagement remain the highest priorities. Together, these trends have produced a large and growing market for us to serve. LogicMark has built a successful business on emergency communications in healthcare. We have a strong business relationship with the VA today, serving veterans who suffer from chronic conditions that often require emergency assistance. This business is steady and growing, producing record revenue in 2017. Our strategic plan calls for expanding LogicMark’s business into other healthcare verticals as well as retail and enterprise channels in order to better serve the expanding demand for connected and remote healthcare solutions.
+ 
+Home healthcare, which includes health monitoring and management using IoT and cloud-based processing, is an emerging area for LogicMark. The long-term trend toward more home-based healthcare is a massive shift that is being driven by demographics (an aging population) and basic economics. People also value autonomy and privacy which are important factors in determining which solutions will suit the market. Consumers are beginning to enjoy the benefits of smart home technologies and online digital assistants. One of the promising applications of our VoiceMatch™ technology is enabling secure commands for restricted medical access. This solution, when coupled with Nxt-ID BioCloud™, combines biometrics with encryption and distributed access control.
+ 
+Our Healthcare Monitoring Market Opportunity
+ 
+PERS devices are used to call for help and medical care during an emergency. These devices are also used by a wide patient pool, as well as the general population, to ensure safety and security when living or traveling alone. The global medical alert systems market caters to different end-users across the healthcare industry, including individual users, hospitals and clinics, assisted living facilities and senior living facilities. The growing demand for home healthcare devices is mainly driven by an aging population and rising healthcare costs worldwide. We believe that this will spur the usage of medical alert systems across the globe, as they offer safety and medical security while being affordable and accessible.
+ 
+
+The PERS market is divided into three device segments: landline-based PERS, mobile PERS, and standalone devices. The global PERS market is projected to grow at a CAGR of 5.83% to $8.4 billion in 2020, benefiting from strong demographic tailwinds. North America and Europe are the largest markets for PERS, accounting for approximately 40% and 37% of total sales, respectively in 2020. According to IndustryARC, improvements in healthcare infrastructure and emerging economies will fuel growth and significantly improve the relative market share of the Asia Pacific and the rest of world regions.
+ 
+2
+
+ 
+
+Our Health Care Products
+ 
+LogicMark produces a range of products within the PERS market and has differentiated itself by offering non-monitored products, which only require a one-time purchase fee, instead of a recurring monthly contract.  As a result, LogicMark’s products are typically the most cost-effective PERS option. LogicMark’s non-monitored solution offers a significant value proposition over monitored solutions.
+ 
+The cost of ownership of a monitored solution, which includes a monthly service fee, can be as much as $1,500 – $3,000 over a five-year period. This compares to a one-time purchase of a LogicMark non-monitored device, which provides a similar level of security for a purchase price as low as one tenth of that amount.
+ 
+LogicMark offers both traditional (i.e., landline) and mPERS (i.e., cell-based) options. Our non-monitored products are sold primarily through the VA and healthcare distributors.
+ 
+
+3
+
+ 
+
+LogicMark offers monitored products that are primarily sold by dealers and distributors for the monitored product channel. LogicMark sells its devices to the dealers and distributors, who in turn offer the devices to consumers as part of their product/service offering. The service providers charge consumers a monthly monitoring fee for the associated monitoring service. These products are monitored by a third-party central station
+ 
+Our Health Care Competition
+ 
+LogicMark offers a wide variety of products, enabling it to cater to users with different levels of health and safety needs. Compared to its competitors, LogicMark’s PERS products offer enhanced functionality at the best value.
+ 
+The chart below summarizes LogicMark’s product offering versus those of its competitors:
+ 
+
+Our Health Care Business Strategy
+ 
+Through LogicMark, we intend to expand distribution by using larger distributors who can leverage the consumer value proposition of offering a one-time device purchase as opposed to a leased monthly solution. We also intend to apply our technology to the next generation of PERS devices that will have greater functionality, innovative design and clinical monitoring capability. We believe that there is further potential for expansion in the domestic and international retail and international markets, and we intend to take advantage of this through a new product offering, Notify911, which is a non-monitored device developed for direct-to-consumer sales through retail channels and direct marketing initiatives. We are also seeking to leverage our PERS experience to develop new offerings in the home healthcare monitoring market.
+ 
+Overall, our healthcare division, through LogicMark, is positioned to take advantage of favorable market dynamics, a stable revenue-producing customer base, a differentiated product line, a robust new product development pipeline and compelling growth opportunities.
+ 
+4
+
+ 
+
+Payments and Financial Technology
+ 
+Overview
+ 
+We conduct our payments business through Fit Pay, which was acquired by Nxt-ID in May 2017. Fit Pay’s core technology is a proprietary platform that enables contactless payment capabilities, allowing manufacturers of “smart devices” to add payment capabilities to their products with very little start-up time and minimal investment in software development, while granting them access to the leading card network and global credit card issuing banks. It is one of the first successful commercializations of a token requestor service provider integrated with the major payment card networks. The existing propriety capabilities of the contactless payment companies are not available to other original equipment manufacturers (“OEMs”). The Fit Pay TPMP creates an opportunity for a whole new range of devices to be payment-enabled.
+ 
+Fit Pay is currently on-boarding 15 device manufactures to its platform. Garmin Pay™, a contactless payment feature for a new line of smartwatches by Garmin International, Inc., is powered by Fit Pay’s TPMP technology and went live in the fall of 2017. Fit Pay also announced the product launches for three other customers, including the Token ring by Tokenize Inc., the Bee payment device by Radiius and a luxury smart clasp by Wearatec Inc.
+ 
+In addition to launching new customers, our emerging payments business also announced key ecosystem partnerships with Visa International, Mastercard, Bank of America, and Australia and New Zealand Banking Group Limited (ANZ). These agreements, along with the growing network of issuing banks, now enables cardholders to use devices powered by the TPMP, increasing our revenue potential and providing the opportunity to expand our customer and geographical footprint. At year-end, the TPMP was enabled by more than 60 issuing banks in 8 countries in the largest markets worldwide.
+ 
+Our payment and financial technology business has also expanded to include new products and services. This includes growing the capabilities of the TPMP to integrate it with additional payment networks and issuing banks. Fit Pay has also developed proprietary payment devices that it will offer through business-to-business and direct-to-consumer channels. These new products will leverage the TPMP and allow us to access new customers and emerging markets, such as cryptocurrency. Fit Pay’s initial product offering is a platform extension and contactless payment device called Flip™, which enables Bitcoin holders to make contactless payment transactions at millions of retail locations with value exchanged from their cryptocurrency.
+ 
+Together, these opportunities position our emerging payment and financial technology business for future growth as Fit Pay begins to monetize its core TPMP technology, and expand its products and services to new markets and customers.
+ 
+Our Payments and Financial Technology Market Opportunity
+ 
+Our payments business targets the rapidly expanding IoT and wearable devices markets. According to the research firm, Gartner, IoT devices will grow at a 32.9% CAGR through 2020, reaching an installed base of 20.4 billion units. Gartner estimates that by 2020 there will be more than 500 million wearable devices in use alone and it predicts that 1 million IoT devices will be purchased every hour by 2021.
+ 
+As the markets for wearables and IoT devices expand, payments are also emerging as a key feature. A Business Insider Intelligence study estimates that by 2020 an estimated 63% of wearable devices will be payment-enabled. The research firm International Data Corporation predicts that wearable devices will transact more than $501 billion payment by 2020, overtaking plastic payment methods as the primary payment method in the next 5-7 years.
+ 
+A recent survey by Visa and the industry publication, PYMTS, entitled “How We Will Pay: Consumers Connected Devices and the Future of Payments” supports consumer demand for adding payment capabilities to devices. The survey found strong support among consumers for new forms of payments. Of the survey’s respondents: 
+ 
+
+● | 60% found buying and paying for things unproductive and time-consuming, and in need of improvements;
+--+-----------------------------------------------------------------------------------------------------
+
+
+● | 83% viewed using connected devices as a way to eliminate friction from how they pay;
+--+-------------------------------------------------------------------------------------
+
+ 
+5
+
+ 
+
+
+● | 66% would use a connected device to enable a seamless payment experience; and
+--+------------------------------------------------------------------------------
+
+
+● | 77% want their financial institution/bankcard network to enable these new ways to pay.
+--+---------------------------------------------------------------------------------------
+
+ 
+As an early and established entrant into the payments market, we believe that we are well-positioned to take advantage of both the growth of payment-enabled devices and the consumer demand for new forms of payments.
+ 
+Our Payments Product Offerings
+ 
+We offer a range of technology platform services and products that leverage both the core payment technologies that we have developed as well as the assets gained through our business combination with Fit Pay. These include:
+The Fit Pay Trusted Payment Manager Platform™
+ 
+The TPMP provides IoT and wearable devices with contactless payment capabilities and full digital wallet functionality. It enables consumers to simply tap and pay at near field communication (“NFC”)-enabled point-of-sale (“POS”) terminals or ATMs using an existing credit, debit or prepaid card account. The TPMP uses tokenization, a payment security technology that replaces cardholders’ account information with a unique digital identifier (a “token”), to transact highly secure contactless payments and authentication services. Fit Pay leverages embedded secure element chip technology within devices to offer a payment solution that is very power and memory efficient. This frees devices from needing to be tethered to a host device or connected to the Internet to transact payments, creating a convenient and completely frictionless payment experience for consumers.
+ 
+We consider Fit Pay to be the primary connection point between card networks, banks, merchants and the wearable user. Fit Pay has built a payment ecosystem that includes 15 devices manufactures, the Visa, Mastercard, Discover card networks (with additional networks to be added), and more than 60 issuing banks in 8 countries in the largest markets worldwide. Issuing banks accepting payments from devices connected to the TPMP include Bank of America, Capital One, U.S. Bank, Wells Fargo in the United States, BonusCard, Cornérbank, ANZ and NAB (National Australia Bank), among others.
+ 
+Fit Pay became one of the first successful third-party payment network token service providers with the commercialization of the TPMP and the launch of the Garmin Pay™ feature for its customer Garmin International, Inc.
+ 
+World Ventures Flye™ SmartCard
+ 
+We continue to operate pursuant to our master product development agreement, dated December 31, 2015, with World Ventures Holdings, LLC (“WVH”), an international direct selling travel company, pursuant to which WVH committed to purchase an exclusive smart card from us for distribution to WVH’s members. . In connection with such agreement, WVH also made a strategic investment in our securities in 2015. The Flye™ smart card is customized for WVH with additional technologies and wireless features, such as the ability to seamlessly integrate with WVH’s DreamTrips™ smartphone application to wirelessly check-in and earn loyalty points towards free DreamTrips™ vacations at select restaurants. DreamTrips™ is a travel club and entertainment community where members can enjoy exciting excursions year-round to extraordinary destinations.
+ 
+During the year ended December 31, 2017, we recorded revenue of $7,065,755 from WVH, a related party. WVH is considered a related party, as the Chief Technology Officer of WVH is a director of Nxt-ID.
+ 
+For additional information on our transactions with WVH, see “Management Discussion and Analysis of Financial Condition and Results of Operations”.
+ 
+Fit Pay General Purpose Reloadable (GRP) Mastercard®
+ 
+Fit Pay offers prepaid capabilities on wearable devices connected to the TPMP. The general purpose reloadable (“GPR”) program, the Fit Pay Prepaid Mastercard®, gives consumers with Fit Pay’s contactless payment-enabled devices the convenience of storing funds directly on their devices. The program provides consumers with the ease and security of contactless payments. The Fit Pay Prepaid Mastercard® is available to device OEMs that integrate their products with the TPMP. The program allows consumers to load their Fit Pay-enabled IoT or wearable device with a prepaid value for contactless purchases. A digital wallet allows the user to re-load the account, set top-off thresholds and manage account settings. The Fit Pay Prepaid Mastercard® is sponsored by Sunrise Banks, N.A. Cascade Financial Technology Corp. serves as the program manager. The device can be used everywhere that debit Mastercard is accepted. 
+ 
+6
+
+ 
+
+Flip™
+ 
+Fit Pay recently announced Flip™, a new contactless payment device that will enable cryptocurrency holders to use the value of their currency to make purchases at millions of retail locations. The new device leverages an expansion of the TPMP to connect cryptocurrencies to the payment ecosystem. Flip™ will use value exchanged from Bitcoin to make traditional payment transactions.
+ 
+Flip™ will be NFC-enabled, allowing it to transact payments at any retail point of sale location that accepts contactless payments. Flip™ will store a preloaded amount of U.S. dollars that are exchanged from a user’s existing cryptocurrency account. It includes a digital wallet that allows users to set how much value they would like their Flip™ to hold and when they would like it to reload, and to suspend the account should the device become lost or stolen. Initially, Flip™ will accept value exchanged from Bitcoin and will potentially expand to other cryptocurrencies in the future. Fit Pay has begun taking pre-orders for Flip™ and anticipates initial shipments of the device will begin in the second quarter of 2018.
+ 
+Wi-Mag™
+ 
+Our proprietary antenna and payment technology can be embedded in a mobile device to make wireless payments at most POS terminals which do not require NFC or Europay, MasterCard, and Visa (“EMV”) technology, potentially allowing users to make payments at most POS terminals in the United States and abroad.
+ 
+SmartPay™
+ 
+We have developed a standalone capability, SmartPayTM, on various devices with the ability to make payments by dynamic magnetic stripe or through interacting with a terminal through EMV, NFC or barcode functionality. We are currently pursuing significant strategic partnerships for this product.
+ 
+Our Payments Competition
+ 
+The markets for our products are extremely competitive and are characterized by rapid technological change as a result of technical developments exploited by our competitors, changing technical needs of customers, and frequent introductions of new features. We expect competition to increase as other companies introduce products that are competitively priced, that may have increased performance or functionality, or that incorporate technological advances not yet developed or implemented by us. Some of our present and potential competitors may have financial, marketing, and research resources substantially greater than ours.
+ 
+Competitors in the digital wallet marketplace include:
+ 
+
+● | Google Wallet – A mobile payment system developed by Google that allows its users to store debit cards, credit cards, loyalty cards, and gift cards among other things, as well as redeeming sales promotions on their mobile phone.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Apple Pay – A mobile payment service that lets certain Apple mobile devices make payments at the time of retail and online checkout.
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Paypal – A mobile service that can send money between other PayPal users and friends, track your balances, to pay from one’s phone, and order ahead at restaurants.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | SamsungPay – A mobile payment system that uses Magnetic Secure Transmission to broadcast a signal to a POS payment terminal. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Fitbit Pay – Payment capability launch by fitness tracker and smartwatch producer Fitbit.
+--+------------------------------------------------------------------------------------------
+
+ 
+7
+
+ 
+
+We believe that our payment products have certain competitive advantages. The existing contactless payment companies  propriety capabilities are not available to other device manufacturers. Fit Pay’s TPMP creates an opportunity for a whole new range of devices to be payment-enabled by significantly reducing the cost and time to market. While other companies are seeking to build a similar white-labeled solution, we believe that the extent of Fit Pay’s existing relationships provides it with an advantage in the market.
+ 
+The TPMP offers several distinctive features, including (1) it removes friction for the consumer with very little user interaction required; (2) it does not require a device to be present at the time of a transaction; (3) it is extendible to any operating system or device; and (4) it is highly secure and card data is not exposed at the point of sale.
+ 
+Furthermore, we believe that the following factors create a defensible market position for Fit Pay: (1) we are the only independent platform to complete secure element (“SE”) tokenization integrations with major card networks; (2) complex service deployment barriers make it difficult for new entrants and for manufacturers to develop the capability themselves; (3) we own the security keys which eliminate the ability of OEMs to change providers without major service disruption; (4) we offer a comprehensive, end-to-end solution as a single source for all SE-related applications, including full-featured APIs (application programming interfaces) and SDKs (software development kits) to simplify implementation; and (5) we offer a scalable platform with direct access the major card network and issuing banks.
+ 
+Our Payments Business Strategy
+ 
+Our primary strategy for our payment business is to leverage our technological and competitive advantages across various industries in combination with established partners that can create meaningful distribution, monetizing the technologies and capabilities that we have developed. Our unique position as an independent platform provider with our comprehensive, end-to-end platform positions us to serve the rapidly expanding wearable and IoT markets. As described above, the complex ecosystem needed to support full-function payment capabilities creates a barrier for new entrants and manufacturers who may have considered developing the capability on their own, and offers continuity for our existing customer base.
+ 
+Our business strategy is to leverage these attributes to (1) scale our platform to add more customers and payment use cases; (2) build new revenue streams by adding additional OEMs and our GPR program to new form factors; (3) add new capabilities to the TPMP such as cryptocurrency payments; (4) develop our own proprietary payment devices for business-to-business or business-to-consumer channels; and (5) integrate our platform with additional ecosystems such as transit, hotels, and building access systems.
+ 
+Our Intellectual Property
+ 
+Our ability to compete effectively depends to a significant extent on our ability to protect our proprietary information. We currently rely and will continue to rely primarily on patents and trade secret laws and confidentiality procedures to protect our intellectual property rights. We have filed the following 32 patents, six of which have been awarded to date:
+METHOD FOR REPLACING TRADITIONAL PAYMENT AND IDENTITY MANAGEMENT SYSTEMS AND COMPONENTS TO PROVIDE ADDITIONAL SECURITY AND A SYSTEM IMPLEMENTING SAID METHOD
+ Filed October 8, 2013
+ Application Number 14/049,175
+ 
+8
+
+ 
+
+METHOD FOR REPLACING TRADITIONAL PAYMENT AND IDENTITY MANAGEMENT SYSTEMS AND COMPONENTS TO PROVIDE ADDITIONAL SECURITY AND A SYSTEM IMPLEMENTING SAID METHOD
+ Continuation application of 001 with new claims
+ Filed August 31, 2016
+ Application Number 15/252,468
+ 
+THE UN-PASSWORD™: RISK AWARE END-TO-END MULTI-FACTOR AUTHENTICATION VIA DYNAMIC PAIRING
+ Patent issued August 2, 2016
+ Patent Number 9,407,619
+ 
+UNIVERSAL AUTHENTICATION AND DATA EXCHANGE METHOD, SYSTEM AND SERVICE
+ Filed March 17, 2014
+ Application Number 14/217,289
+ 
+METHOD TO LOCALLY VALIDATE IDENTITY WITHOUT PUTTING PRIVACY AT RISK
+ Application filed September 1, 2015
+ Application Number 14/842,252
+ 
+DISTRIBUTED METHOD AND SYSTEM TO IMPROVE COLLABORATIVE SERVICES ACROSS MULTIPLE DEVICES
+ Application filed February 8, 2016
+ Application Number 15/018,496
+ 
+VOICE DIRECTED PAYMENT SYSTEM AND METHOD
+ Application filed February 10, 2016
+ Application Number 15/040,984
+ 
+SYSTEM AND METHOD FOR LOW-POWER CLOSE-PROXIMITY COMMUNICATIONS and energy transfer USING A MINIATURE MULTI-PURPOSE ANTENNA
+ Application filed April 4, 2016
+ Application Number 15/089,826
+ 
+SYSTEM AND METHOD FOR LOW-POWER CLOSE-PROXIMITY COMMUNICATIONS and energy transfer USING A MINIATURE MULTI-PURPOSE ANTENNA
+ Application filed November 16, 2016
+ Application Number 15/353,018
+ 
+MULTI-INSTANCE SHARED AUTHENTICATION (MISA) METHOD AND SYSTEM PRIOR TO DATA ACCESS
+ Application filed June 23, 2016
+ Application Number 15/191,456
+ 
+BIOMETRIC, BEHAVIORAL-METRIC, KNOWLEDGE-METRIC AND ELECTRONIC-METRIC DIRECTED AUTHENTICATION AND TRANSACTION METHOD AND SYSTEM
+ Application filed July 5, 2016
+ Application Number 15/202,515
+ 
+PERSONALIZED TOKENIZATION SYSTEM AND METHOD
+ Application filed July 14, 2016
+ Application Number 15/210,728
+ 
+METHODS AND SYSTEMS RELATED TO MULTI-FACTOR, MULTI-DIMENSIONAL, MATHEMATICAL HIDDEN AND MOTION SECURITY PINS
+ Filed August 1, 2016
+ Application Number 15/224,998
+ 
+ELECTRONIC CRYPTO-CURRENCY MANAGEMENT METHOD AND SYSTEM
+ Filed August 1, 2016
+ Application Number 15/225,780
+ 
+9
+
+ 
+
+SYSTEMS AND DEVICES FOR WIRELESS CHARGING OF A POWERED TRANSACTION CARD AND EMBEDDING ELECTRONICS IN A WEARABLE ACCESSORY
+ Filed September 2, 2015
+ Application Number 14/843,925
+ 
+COMPONENTS FOR ENHANCING OR AUGMENTING WEARABLE ACCESSORIES BY ADDING ELECTRONICS THERETO
+ Filed September 2, 2015
+ Application Number 14/843,930
+ 
+LOW BANDWIDTH CRYPTO-CURRENCY TRANSACTION EXECUTION AND SYNCHRONIZATION METHOD AND SYSTEM
+ Filed September 7, 2016
+ Application Number 15/259,023
+ 
+METHOD AND SYSTEM TO ORGANIZE AND MANAGE TRANSACTIONS
+ Filed December 2, 2016
+ Application Number 15/368,546
+ 
+THE UN-PASSWORD™: RISK AWARE END-TO-END MULTI-FACTOR AUTHENTICATION VIA DYNAMIC PAIRING
+ Filed March 14, 2016
+ Application Number 15/068,834
+ 
+SYSTEM AND METHOD TO PERSONALIZE PRODUCTS AND SERVICES
+ Filed July 15, 2016
+ Application number 15/212,184
+ 
+SYSTEM AND METHOD TO PERSONALIZE PRODUCTS AND SERVICES
+ Filed September 6, 2016
+ Application number 15/257,101
+ 
+ACCORDION ANTENNA STRUCTURE
+ Filed April 4, 2016
+ Application Number 15/089,844
+ 
+SYSTEM AND METHOD TO AUTHENTICATE ELECTRONICS USING ELECTRONIC-METRICS
+ Filed July 5, 2016
+ Application Number 15/202,553
+ 
+SYSTEM AND METHOD TO DETERMINE USER PREFERENCES
+ Filed July 15, 2016
+ Application number 15/212,163
+ 
+PREFERENCES DRIVEN ADVERTISING SYSTEMS AND METHODS
+ Filed July 15, 2016
+ Application number 15/212,161
+ 
+AUTOMATED WEARABLE ACTIVATION SYSTEM
+ Filed July 27, 2017
+ Application number 62/537,904
+ 
+SYSTEMS AND METHODS FOR PROVIDING AN INTERNET OF THINGS PAYMENT PLATFORM
+ Filed March 25, 2015
+ Application number 62/138,298
+ 
+10
+
+ 
+
+WIRELESS, CENTRALIZED EMERGENCY SERVICES SYSTEM
+ Patent Number 8,275,346
+ 
+VOICE-EXTENDING EMERGENCY RESPONSE SYSTEM
+ Patent Number 8,121,588
+ 
+LIST-BASED EMERGENCY CALLING DEVICE
+ Patent Number 8,369,821
+ 
+ALARM SIGNALING DEVICE AND ALARM SYSTEM
+ Patent Number 7,312,709
+ 
+FALL DETECTION SYSTEM HAVING A FLOOR HEIGHT THRESHOLD AND RESIDENT HEIGHT DETECTION DEVICE
+ Patent Number 7,893,844 
+ 
+We enter into confidentiality agreements with our consultants and key employees, and maintain control over access to and distribution of our technology, software and other proprietary information. The steps that we have taken to protect our technology may be inadequate to prevent others from using what we regard as our technology to compete with us.
+ 
+We do not generally conduct exhaustive patent searches to determine whether the technology used in our products infringes on the patents that are held by third parties. In addition, product development is inherently uncertain in a rapidly evolving technological environment in which there may be numerous patent applications pending, many of which are confidential when filed, with regard to similar technologies.
+ 
+We may face claims by third parties that our products or technology infringe their patents or other intellectual property rights in the future. Any claim of infringement could cause us to incur substantial costs defending against the claim, even if the claim is invalid, and could distract the attention of our management. If any of our products are found to violate third-party proprietary rights, we may be required to pay substantial damages. In addition, we may be required to re-engineer our products or seek to obtain licenses from third parties to continue to offer our products. Any efforts to re-engineer our products or obtain licenses on commercially reasonable terms may not be successful, which would prevent us from selling our products, and in any case, could substantially increase our costs and have a material adverse effect on our business, financial condition and results of operations.
+ 
+11
+
+ 
+Corporate Information
+ 
+History
+ 
+We were incorporated in the state of Delaware on February 8, 2012. We are an emerging technology company engaged in the development of proprietary products, services and solutions for security that serve multiple end markets, including the security, healthcare, finance and IoT markets.
+ 
+On June 25, 2012, we acquired 100% of the membership interests in 3D-ID LLC (“3D-ID”), a limited liability company that we formed in Florida in February 2011 and that was previously owned by the Company’s founders. By acquiring 3D-ID, we gained the rights to a portfolio of patented technology in the field of three-dimensional facial recognition and imaging including 3D facial recognition products for access control, as well as the law enforcement and travel and immigration sectors. 3D-ID is an early stage company engaged in the design, research and development, integration, analysis, modeling, system networking, sales and support of intelligent surveillance, three-dimensional facial recognition and three-dimensional imaging devices and systems primarily for identification and access control in the security industries. As our acquisition of 3D-ID was a transaction between entities under common control in accordance with Accounting Standards Codification (“ASC”) 805, “Business Combinations”, we recognized the net assets of 3D-ID at their carrying amounts in our accounts on the date that 3D-ID was organized, February 14, 2011.
+ 
+On July 25, 2016, we completed the acquisition of LogicMark pursuant to an interest purchase agreement by and among the Company, LogicMark and the holders of all of the membership interests of LogicMark (the “LogicMark Sellers”), dated May 17, 2016 (the “Interest Purchase Agreement”). Pursuant to the Interest Purchase Agreement, we acquired all of the membership interests of LogicMark from the LogicMark Sellers for (i) $17.5 million in cash consideration (ii) a $2.5 million secured promissory note (the “LogicMark Note”) issued to LogicMark Investment Partners, LLC, as representative of the LogicMark Sellers (the “LogicMark Representative”) (iii) 78,740 shares of our common stock, par value $0.0001 per share (the “Common Stock”), which were issued upon signing of the Interest Purchase Agreement (the “LogicMark Shares”), and (iv) warrants (the “LogicMark Warrants”) to purchase an aggregate of 157,480 shares of our Common Stock (the “LogicMark Warrant Shares”) for no additional consideration. In addition, we may be required to pay the LogicMark Sellers earn-out payments of (i) up to $1,500,000 for calendar year 2016 and (ii) up to $5,000,000 for calendar year 2017 if LogicMark meets certain gross profit targets set forth in the Interest Purchase Agreement. The LogicMark Note originally was to mature on September 23, 2016 but was extended to July 15, 2017. The earn-out payment related to 2016 and the remaining balance owed on the LogicMark Note including accrued interest were both paid in July 2017. Based on LogicMark’s operating results for the year ended December 31, 2017, the 2017 earnout amount owed by the Company is $3,156,088. As a result, the Company reduced the amount of contingent consideration due to the LogicMark Sellers by $1,843,912.
+ 
+On May 23, 2017, we completed a merger (the “Merger”) pursuant to an agreement and plan of merger (the “Merger Agreement”) by and among the Company, Fit Merger Sub, Inc., a wholly-owned subsidiary of the Company (the “Merger Sub”), Fit Pay, Michael J. Orlando, Giesecke & Devrient Mobile Security America, Inc. (“G&D”), the other stockholders of Fit Pay (the “Other Holders”) and Mr. Orlando in his capacity as stockholder representative representing the Other Holders (the “Stockholder Representative”, and together with Orlando and G&D, the “Fit Pay Sellers”). In connection with the Merger, Fit Pay merged with and into the Merger Sub, with the Merger Sub continuing as the surviving entity and a wholly owned subsidiary of the Company.
+ 
+Pursuant to the terms of the Merger Agreement, the aggregate purchase price paid for Fit Pay was: (i) 19.96% of the outstanding shares of Common Stock; (ii) 2,000 shares of the Series C Non-Convertible Preferred Stock of the Company, par value $0.0001 per share (the “Series C Preferred Stock”); (iii) the payment of certain debts by the Company; and (iv) the payment of certain unpaid expenses by the Company. In addition, the Company will be required to pay the Sellers an earnout payment equal to 12.5% of the gross revenue derived from Fit Pay’s technology for sixteen (16) fiscal quarters commencing on October 1, 2017 and ending on December 31, 2021.
+ 
+In connection with the Fit Pay transaction, Mr. Orlando became our Chief Operating Officer, as well as the President of Fit Pay, effective as of May 23, 2017.
+ 
+Other
+ 
+Our principal executive offices are located at 285 North Drive, Suite D, Melbourne, FL 32934, and our telephone number is (203) 266-2103. Our website address is www.nxt-id.com. The information contained therein or connected thereto shall not be deemed to be incorporated into this Report. The information on our website is not part of this Report.
+ 
+We are an “emerging growth company” as defined in the Jumpstart Our Business Startups Act of 2012 (the “JOBS Act”). We will remain an emerging growth company for up to five years, or until the earliest of (i) the last day of the first fiscal year in which our annual gross revenues exceed $1.07 billion, (ii) the date that we become a “large accelerated filer” as defined in Rule 12b-2 under the Exchange Act, which would occur if the market value of our Common Stock that is held by non-affiliates exceeds $700 million as of the last business day of our most recently completed second fiscal quarter or (iii) the date on which we have issued more than $1 billion in non-convertible debt during the preceding three-year period. Pursuant to Section 102 of the JOBS Act, we have provided reduced executive compensation disclosure and have omitted a compensation discussion and analysis from this Report. Pursuant to Section 107 of the JOBS Act, we have elected to utilize the extended transition period provided in Section 7(a)(2)(B) of the Securities Act for complying with new or revised accounting standards. Our emerging growth company status will expire on December 31, 2018.
+ 
+Employees
+ 
+As of December 31, 2017, we had a total of 55 full-time employees, comprising 15 employees in product engineering, 7 employees in finance and administration, 17 employees in sales and customer service and 16 employees in product fulfillment. None of our employees are represented by a collective bargaining agreement, nor have we experienced any work stoppage. We consider our relations with our employees to be good. Our future success depends on our continuing ability to attract and retain highly qualified engineers, graphic designers, computer scientists, sales and marketing and senior management personnel. In addition, we have independent contractors whose services we are using on an as-needed basis to assist with the engineering and design of our products.
+  12
+
+ 
+

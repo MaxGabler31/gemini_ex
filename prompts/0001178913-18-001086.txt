@@ -1,0 +1,288 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1.                 BUSINESS.
+Company Overview
+ 
+We are a biopharmaceutical company dedicated to the development of novel agents for the treatment of severe and life-threatening infectious diseases. Our lead product candidate, Artemisone, is a clinical-stage small molecule with antiviral and antiparasitic properties. We plan to advance Artemisone as (a) an antiparasitic treatment for individuals infected with Plasmodium falciparum, (b) as an antiviral agent to address unmet clinical needs in immunocompromised patients infected with human cytomegalovirus (“HCMV”), and (c) potentially other viral or infectious diseases. Artemisone is a known compound which has been extensively studied and the license agreement (“License Agreement”) by and among the Company, Hadasit Medical Research Services and Development Ltd. (“Hadasit”), the technology transfer company for Hadassah Medical Organization (“HAD”), and Hong Kong University of Science and Technology R and D Corporation Limited (“RDC”) provides us with the right to certain data, information, know-how, and patents to further develop Artemisone as a potential therapeutic treatment in various indications world-wide.
+ 
+Products/Technology
+ 
+Artemis’ lead product candidate, Artemisone, is a 10-alpha-amino derivative of artemisinin and can be formulated for either oral (e.g. tablet) or intravenous administration. Artemisone was developed via a semi-synthetic chemistry process on an artemisinin derivative to produce a new compound with characteristics preferred over those of a structurally-related molecule, artemisinin, and its clinically-used derivatives. Notably, artemisinin and its derivatives are responsible for saving millions of lives and its discovery led to the award of a one-half share of the 2015 Nobel Prize in Physiology or Medicine. Artemisone was selected as a drug candidate by RDC based on certain desirable physicochemical properties which may make it preferable to existing artemisinins, including ease and low cost of production, higher solubility, stability, minimal predicted and in vitro-demonstrated neurotoxicity, a different metabolic pathway to current clinical artemisinins, and higher antiparasitic efficacy than other compounds which were synthesized and evaluated. Additionally, preclinical laboratory research conducted by HAD has demonstrated the antiviral potency of Artemisone against HCMV is as robust as the currently-approved agent, ganciclovir, and approximately ten times greater than that of a related compound, artesunate. In vitro data demonstrated higher efficacy of Artemisone compared to first generation artemisinin derivatives, with evidence for a novel mechanism of action in HCMV.
+ 
+ 1
+ 
+
+Business Strategy
+ 
+Artemis’s mission is to improve the lives of patients through the creation of novel, safe, and effective anti-infective agents. Consistent with this objective, Artemis plans to adopt the following business strategy:
+
+• | Rapidly and efficiently advance our lead product candidate, Artemisone, through clinical development for the treatment of P. falciparum infection, HCMV infection in immunocompromised patients, and potentially other clinical indications.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Identify and enter into strategic collaborations with other companies or investment entities which can increase the value of Artemisone by extending its commercial potential and/or provide development capital to further our research activities. This may include partnerships that could expand our geographic reach, allow us to expand into additional indications, or involve the out-licensing of rights owned by us in exchange for development capital or other assets. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Develop a pipeline of anti-infective agents either through internal drug discovery efforts or by acquiring (in-licensing) external experimental or commercial agents and redeveloping them as anti-infective agents in novel patient populations. We also may consider acquiring assets and entering fields other than infectious diseases.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Artemis licensed pre-clinical and clinical data from Hadasit for the treatment of HCMV and RDC for the treatment of malaria. We currently plan to develop Artemisone as a treatment for malaria and HCMV in several patient settings, which may include severe, cerebral, and/or uncomplicated malaria, hematopoietic stem cell transplantation, solid organ transplants, and congenital HCMV. At this stage, our efforts are focused on determining our optimal clinical and regulatory path for each program, so our future research and development costs are not known and it is likely we will incur significant loses before generating any revenues, if at all.  Our specific development plans, including our clinical and regulatory strategy, staffing, capital investments, and other significant matters, will vary throughout the development of Artemisone and will necessarily depend on market conditions, clinical trial results, and many other factors.
+ 
+Our current effort focuses on identifying an optimal development plan for Artemisone in multiple indications. We have engaged, and will continue to engage, experienced consultants on a part-time or hourly basis to assist us in evaluating our options and devising our development plan for Artemisone. We currently work on an hourly or project basis with between 10-20 advisors and consultants in key functional areas including clinical development, regulatory affairs, manufacturing, toxicology, finance, commercialization, and other areas relevant to the Company’s business. Additionally, we have engaged, and will continue to engage, disease-specific anti-infective experts as advisors and consultants to the Company. We currently outsource all of our research activities and a significant portion of our business operations. We pursue an outsourced business model and do not currently have plans to enter into a short- or long-term lease agreement or acquire additional physical assets. Currently, we have one full-time employee, our Chief Executive Officer. As our product candidate advances and/or further operational capital is secured, we anticipate we will hire additional full-time employees in various capacities.
+ 
+To date, our interactions with the United States Food & Drug Administration (the “FDA”) and other regulatory agencies have been limited and we have not yet proposed or received comments on a clinical protocol or regulatory pathway potentially leading to marketing approval of Artemisone in malaria or HCMV in any territory. We believe our malaria program will be reviewed by the Office of Antimicrobial Products (OAP) and our HCMV program will be reviewed by the Division of Antiviral Products (DAVP). We intend to request a meeting with the appropriate Division for each program and submit a meeting package in support of a malaria and HCMV development path. Until such paths are proposed, and the Company has received specific feedback from the relevant FDA Division(s), it is not possible to determine with meaningful accuracy our development costs, necessary headcount, or other matters customarily employed in the pursuit of regulatory approval in the United States or any other marketplace.
+ 
+Our upcoming development plans include manufacturing and formulating several kilograms of GMP drug substance, formulating Artemisone drug product for clinical trials, pharmacokinetic modeling of intravenous and oral routes of administration, developing bioanalytical methods, conducting bridging toxicology studies, and specifically for our malaria program, preparing a meeting package and holding a pre-IND meeting with the FDA.
+ 
+ 2
+ 
+
+Description of Markets
+ 
+Malaria
+ 
+Malaria is an infectious disease caused by transmission of the Plasmodium parasite through a mosquito bite into a human host where the parasite firstly enters in the liver, then emerges into the blood stream where parasite replication is associated with the febrile aspects of the disease. Malaria is found most commonly in Africa, South East Asia, and South America and affects an estimated 200 million people annually. More than 400,000 people die from malaria each year, a large percentage of whom are young children. Initial symptoms of malaria include headache, fatigue, abdominal discomfort, vomiting, chills, fever and more. In later and more severe stages of the disease, the host’s condition deteriorates rapidly (within hours) and becomes life threatening if untreated. Symptoms can include coma, metabolic acidosis, anemia, hypoglycemia, acute renal failure or acute pulmonary edema.
+ 
+Various agents have been utilized for the treatment of malaria. However, artemisinin, originally derived from the Chinese medicinal herb Artemisia annua, and its derivatives, collectively known as artemisinins, are highly effective and widely recognized as the preferred first-line treatment option for uncomplicated malaria throughout the world. Artemisinins have been highly effective in disease management, as evidenced by a reduction of 20% in newly-diagnosed cases and 30% of malaria-related deaths from 2010 to 2015. However, the effectiveness of artemisinin-based drugs began to diminish as a result of increased parasite resistance, attributable in part to the use of single-agent artemisinin. To improve artemisinin-based therapy, artemisinin is now recommended by the World Health Organization to be administered in combination with additional, “long-acting” anti-malarials; this is known as Artemisinin-based Combination Therapy (“ACT”). However, starting with field reports which emerged in 2007, there are now increasing reports and concerns about parasite resistance to ACT and the ACT’s ability to control malaria. To help counter the potential rise in malaria, the global malaria spend is estimated to be approximately $3 billion dollars annually, according to the WHO, with the United States as the largest contributor. In 2016, various national malaria control programs procured an estimated 409 million treatment courses of artemisinin-based combination therapy, which is a 31% increase from 311 million in 2015. We believe that a novel agent could gain significant market share following approval.
+ 
+According to the Centers for Disease Control and Prevention (“CDC”), malaria was eliminated from the U.S. in 1951. There are now fewer than 2,000 cases reported annually in the U.S., mostly due to travelers returning from malaria-infected countries. While the incidence of malaria in the U.S. is relatively low, the CDC is proactive in monitoring suspected cases and in 2013 published guidelines for U.S. clinicians treating malaria. According to the CDC, the recommended line of treatment for uncomplicated malaria includes one of the following agents: chloroquine, atovaquone-proguanil (Malarone®), artemether-lumefantrine (Coartem®), mefloquine (Lariam®), quinine, quinidine, doxycycline and clindamycin (used in combination with quinine). For the treatment of severe malaria, the CDC recommends quinidine plus one of the following: doxycycline, tetracycline, or clindamycin. In certain cases, the CDC can facilitate the use of artesunate (an artemisinin) for severe malaria, but only via an Investigational New Drug procedure. If utilized, artesunate should be followed by one of the following: atovaquone-proguanil (Malarone™), doxycycline (clindamycin in pregnant women), or mefloquine. Notably, no single-agent artemisinin or artemisinin combinations are currently approved by the FDA to treat severe malaria.
+ 
+ 3
+ 
+
+Human Cytomegalovirus Infection
+ 
+According to a study authored by Drs. Cannon, Schmid and Hyde titled “Review of cytomegalovirus seroprevalence and demographic characteristics associated with infection,” HCMV is believed to infect at least 50% of adults by age 50. Whereas HCMV infection in healthy individuals is mostly asymptomatic, HCMV can severely affect certain high-risk groups, including immunocompromised patients (for example, transplant recipients, patients with cancer, autoimmune disease, AIDS) and congenitally-infected infants, who acquire the infection in-utero through maternal exposure.  According to the publication titled “British Transplantation Society Guidelines for the Prevention and Management of CMV Disease after Solid Organ Transplantation, Third Edition,” HCMV infection occurs in approximately 60% of transplant patients as a result of immune suppression, and may lead to transplant rejection, serious illness, or death.  According to a study authored by Dr. Cannon titled “Congenital cytomegalovirus (CMV) epidemiology and awareness,” HCMV is also a major cause of birth defects, affecting > 5,500 infants annually in the U.S.
+ 
+In addition to the foregoing, the hematopoietic stem cell transplant (“HSCT”) population is rapidly growing, as stem cell transplantation is increasingly utilized for treatment of multiple hematological and non-hematological diseases. According to a study conducted by Drs. Wolf, Shmueli, Or, Shapira, Resnick, Caplan, and Bdolah-Abram published in the Journal of Infectious Diseases (the “Wolf Study”), approximately 65% of HSCT patients are at risk for HCMV reactivation.  According to a study conducted by Drs. Boeckh and Nichols titled “The impact of cytomegalovirus serostatus of donor and recipient before hematopoietic stem cell transplantation in the era of antiviral prophylaxis and preemptive therapy” (the “HSCT Study”), during the first year following allogeneic HSCT, the rate of non-relapse mortality is approximately 20%, with a significant proportion of these deaths attributable to HCMV.
+ 
+Treatment paradigms have evolved for addressing viral infection in HSCT and solid organ transplantation (SOT) patients, but toxicities associated with the currently available therapies have limited the significant evolution of treatment. Proof of concept for the prevention of HCMV in transplant patients (prophylactic treatment beginning at or before transplant and continuing through the first 3-12 months, or preemptive treatment instituted upon viral reactivation) was established decades ago. Nonetheless, treatment-related toxicities have stalled the standard of care among HSCT recipients at “pre-emptive" therapy, where HCMV reactivation is closely monitored for in the blood, and treatment is initiated immediately after confirmation of active HCMV infection.  According to the Wolf Study and HSCT Study, although this treatment paradigm has greatly lessened fatalities associated with HCMV in transplant patients, there is still a high mortality rate and drug resistance rates are increasing.
+ 
+According to a study contained in the British Transplantation Society Guidelines for the Prevention and Management of CMV Disease after Solid Organ Transplantation, there is a consensus that the standard of care must evolve to preventive treatment with the development of safer, more tolerable, and effective HCMV therapies.  However, at present, no therapies are approved for preventive treatment of HCMV disease. Hence, there is a great unmet need for an alternative therapy with an improved safety and tolerability profile appropriate for immunocompromised patients, which might also be extended to the setting of maternal/congenital infection.
+ 
+Malaria Market Opportunity
+ 
+In light of the limitations associated with current agents indicated to treat severe malaria in the U.S., which are principally older drugs encumbered by resistance concerns, Artemis is evaluating the opportunity to develop Artemisone initially as an agent to treat severe malaria in the U.S., followed by a more comprehensive evaluation of Artemisone as a component of an ACT for worldwide use. From 2000 to 2014, there were an estimated 22,029 malaria-related hospitalizations (4.88 cases per 1 million in population) in the United States, including 182 in-hospital deaths and 4,823 severe malaria cases. (Am. J. Trop. Med. Hyg., 97(1), 2017, pp. 213–221.)
+ 
+Notably, in 2007 the U.S. government established section 524 of the Federal Food, Drug, and Cosmetic Act (the “FDCA”), establishing the Priority Review Voucher (“PRV”) program as an incentive to develop drugs in certain diseases. A PRV is available to a company that receives FDA approval for a drug which is used against specific “neglected” tropical diseases. Malaria is one of 19 tropical diseases specifically named as eligible for the PRV program and as such, a successful pivotal clinical trial and subsequent approval by the FDA for Artemisone is expected to provide eligibility for, and a grant of, such a voucher to Artemis. The PRV can be used to accelerate the FDA review process and because it is transferable, it may be sold to a third party. Approximately ten vouchers have been sold.
+ 
+ 4
+ 
+
+In addition to new treatments for severe malaria, there is an urgent and worldwide need for antimalarials that are effective against artemisinin-resistant strains of P. falciparum. The artemisinins are a well-established class of drug, but much like antibiotics in the U.S. and elsewhere, their extensive use has inevitably led to the emergence of resistant strains, especially in malaria endemic areas such as South-East Asia. Artemisone is currently being tested at a prominent U.S. facility against a number of artemisinin-resistant strains taken from patients in South-East Asia. Artemis believes the mechanism of action of Artemisone may be sufficiently novel vis-à-vis the current artemisinins as to be more effective towards resistant parasites. Thus, Artemisone may exhibit the potency which makes it the preferred option over currently-used artemisinins. Furthermore, given the emergence of malaria that is resistant both to conventional antimalarial drugs, and to current clinical artemisinins, recent emphasis in the field has been placed on developing new drugs that can block transmission of resistant parasite phenotypes.  To this end, it is already established that Artemisone, in contrast to the current clinical artemisinins, is highly active against transmissible blood stages of the malaria parasite that are taken up by the mosquito during a blood meal, and additionally, is active against in-mosquito stages of the malaria parasite. Artemisone therefore has the potential to act as a transmission-blocking drug. Depending on the outcome of ongoing and future studies, we may elect to pursue the unmet global need of treating artemisinin-resistant uncomplicated malaria (which may include suppression of transmission) in addition to or in lieu of our efforts to treat severe malaria.
+ 
+HCMV Market Opportunity
+ 
+We believe that there is a clear, unmet medical need in the field of HCMV prevention and treatment for safer and more effective therapies. Late CMV disease and development of resistance are significant concerns with preemptive and prophylactic therapy strategies, and whereas congenital CMV infection and disease also remain an unmet clinical need, we expect the competitive landscape to remain open to new entrants. We believe antiviral agents with novel, alternative mechanisms of action are sorely needed.
+ 
+In particular, as with HIV and HCV, antiviral combination approaches hold promise for more efficient HCMV prevention and eradication. We expect Artemisone may be developed in part based on its different antiviral mode of action and effect on HCMV resistance patterns, which may open opportunities for its use a combination drug as well as a stand-alone agent.
+ 
+Stem-Cell and Solid Organ Transplantations
+ 
+Approximately 80,000 hematopoietic stem cell transplants and 100,000 solid organ transplantations (“SOT”) are performed annually throughout the world. The majority of these transplants occur at a relatively small number of treatment facilities in the United States and the European Union.  This disease landscape, set within two closely-linked regulatory environments, provides an opportunity for meaningful market penetration with clearly defined clinical development parameters.
+ 
+
+(As of 2011 WHO census) | United States | European Union | Total 
+------------------------+---------------+----------------+-------
+HSCT | 20,000 | 26,000 | 46,000
+SOT | 30,000 | 29,000 | 59,000
+
+Congenital CMV Infection
+ 
+HCMV can affect newborns, who are believed to acquire the virus via the mother’s placenta. According to a study published by Manicklal, Emery, Lazzarotto, Boppana and Gupta titled “The ‘silent’ global burden of congenital cytomegalovirus”, the overall birth prevalence of congenital HCMV infection is ~ 0.7%, with higher prevalence (1-5%) reported in developing countries. The study further showed that approximately 25% of congenitally infected newborns develop permanent hearing loss and a wide range of neurodevelopmental disabilities. Currently, there are no established prenatal or neonatal measures for prevention of congenital HCMV infection and disease. According to a study titled “Valganciclovir for Symptomatic Congenital Cytomegalovirus Disease” published in the New England Journal of Medicine, postnatal treatment with intravenous ganciclovir for 6 weeks, or with oral valganciclovir for 6 months has been shown to partially improve neurodevelopmental and auditory and neurodevelopmental outcomes. However, concerns over short- and long-term toxicity usually limit use of these agents to children who are symptomatic at birth. If an acceptable safety profile can be demonstrated with Artemisone, maternal/child health indication may be evaluated as an additional market opportunity.
+ 
+ 5
+ 
+
+Market Strategy
+ 
+Subject to successful clinical development and receiving marketing approval for any of our product candidates, we may elect to utilize strategic partners, distributors, or a contract sales force to assist in the commercialization of any of our products. In certain cases, we may seek to build our own commercial infrastructure.
+Competition
+ 
+The pharmaceutical and biotechnology industries are characterized by rapidly advancing technologies, intense competition, and a strong emphasis on proprietary products. Any product candidates that we successfully develop and commercialize likely will compete with existing therapies or therapies that may become available in the future.
+ 
+We compete in the segments of the pharmaceutical, biotechnology and other related markets that target the prevention and treatment of viral and parasitic infections. There are other companies working to develop therapies for the prevention and treatment of viral and parasitic infections and additional companies may enter the field.
+ 
+In the HCMV field, vaccines, off-the-shelf cytotoxic T-cells, and better predictive immunodiagnostic testing methods may improve stem cell transplant outcomes, but, to our knowledge, among the four experimental compounds intended to treat CMV and which reached late-stage clinical development, only Letermovir from Merck & Co. has been approved by FDA (for CMV prophylaxis in CMV-seropositive HCT recipients). Maribavir from Viropharma Incorporated and Brincidofovir from Chimerix Inc. both failed to meet their pre-specified endpoints in their respective Phase 3 clinical trials. ASP0113, an investigational DNA vaccine being developed by Vical Incorporated and Astellas Pharma Inc. for cytomegalovirus (CMV)-seropositive hematopoietic stem cell transplant (HSCT) recipients, also recently did not meet its primary or secondary endpoints in the Phase 3 HELIOS trial. As late CMV disease and development of resistance are concerns with preemptive therapy strategies, we expect the competitive marketplace to remain open to new entrants.
+ 
+In the malaria field, as of the fourth quarter of 2017, two applications for one drug had been submitted to FDA for marketing approval. In November, GlaxoSmithKline PLC (“GSK”) and The Medicines for Malaria Venture, Geneva (“MMV”) announced the submission of a new drug application (“NDA”) by GSK to the FDA, seeking approval of single-dose tafenoquine for the radical cure (prevention of relapse) of Plasmodium vivax (P. vivax) malaria in patients 16 years of age and older. In December 2017, 60 Degrees Pharmaceuticals (“60P”) announced it has submitted an NDA to the FDA for the use of Tafenoquine to prevent malaria in adults traveling to areas where malaria is prevalent. In August 2017, Novartis International AG and MMV launched a Phase IIb trial for KAF156, a next-generation antimalarial compound with the potential to treat drug-resistant strains of the malaria parasite. In addition to novel agents, companies could bring fixed-dose combination products of already approved drugs to the market or expand into the pediatric market with pediatric-specific formulations. We are not aware of any Phase II or Phase III programs focused on treating severe or cerebral malaria patients in the United States.
+ 
+Overall, our competitors may have significantly greater financial resources and expertise in research and development, manufacturing, preclinical testing, conducting clinical trials, obtaining regulatory approvals and marketing approved medicines than we do. These competitors also compete with us in recruiting and retaining qualified scientific and management personnel and establishing clinical trial sites and patient registration for clinical trials, as well as in acquiring technologies complementary to, or necessary for, our programs.
+ 
+Our commercial opportunity could be reduced or eliminated if our competitors develop and commercialize medicines that are safer, more effective, have fewer or less severe side effects, are more convenient, or are less expensive than any medicines we may develop. Our competitors also may obtain FDA or other regulatory approval for their medicines more rapidly than we may obtain approvals for ours, which could result in our competitors establishing a strong market position before we are able to enter the market.
+ 
+ 6
+ 
+
+Intellectual Property
+ 
+Pursuant to the terms of the License Agreement entered into with Hadasit and RDC on May 31, 2016, Artemis acquired a worldwide, royalty-bearing, sub-licensable license to make any and all use of certain patents and know-how owned by the Licensors relating to Artemisone. The licensed know-how consists of data, processes, methods, and techniques relating to the licensed patents, including but not limited to preclinical and clinical study data and reports, manufacturing and analytical procedures, and regulatory materials and filings developed and prepared by Hadasit and/or Bayer Healthcare, owned by Hadasit, and as it relates to Artemisone.
+ 
+In addition, Artemis agreed to certain development milestones, including the completion of Chemistry, Manufacturing and Controls (CMC) development and manufacturing for Phase I by the fourth quarter of 2017, completion of a Phase I study by the fourth quarter of 2019, completion of Phase IIa by the fourth quarter of 2022, and the first regulatory submission by the fourth quarter of 2027. Additionally, Artemis agreed to certain investment milestones, including the requirement to obtain financing of not less than $700,000 within seven months of the closing of the Merger on August 23, 2016 (such time, the “Effective Time”), $1 million within 12 months of the Effective Time and $2 million within 24 months of the Effective Time.  In the event that Artemis fails to meet development or investment milestones as set forth in the License Agreement, Hadasit has the right to terminate the License Agreement. We have regular communication with representatives from Hadasit and, to date, we have received no notices from Hadasit or RDC about our development progress or the investment milestones and no indication that Hadasit or RDC intend to terminate the License Agreement for non-compliance. To date, we have not met the development and financing milestones set forth in the License Agreement. We have had discussions with Hadasit relating to amending the development and financial milestones set forth in the License Agreement but there are no guarantees that we will be successful in amending the agreement.
+ 
+Artemis is working towards achieving the development and investment milestones required by the License Agreement. In the fourth quarter of 2017, we entered into a contractual agreement with a contract manufacturing organization for the manufacture of a 100-gram batch of non-GMP Artemisone with the option, at our election, to manufacture several kilograms of GMP drug substance suitable for formulation as clinical trial material. Upon our instruction, and subject to adequate financing, we anticipate clinical trial material will be available in late 2018.
+ 
+Pursuant to the terms of the License Agreement, Artemis agreed to first offer Dr. Wolf’s laboratory at Hadassah Medical Organization, over equivalent alternatives, the option to perform all pre-clinical, research and development activities within Dr. Wolf’s expertise and her laboratory’s capabilities, each such provision of services to be conducted under a separate agreement between Artemis and Hadasit, the terms of which to be mutually agreed between Artemis and Dr. Wolf (each a “Sponsored Research Agreement”). Pursuant to the terms of the License Agreement, the cost of such Sponsored Research Agreement shall total an aggregate of $200,000.
+ 
+In addition, pursuant to the terms of the License Agreement, Artemis entered into a Consulting Agreement by and between Artemis, Dr. Wolf and Hadasit, effective as of the Effective Time (the “Consulting Agreement”). Pursuant to the terms of the Consulting Agreement, Dr. Wolf serves as the Chief Science Officer and a member of the Scientific Advisory Board of Artemis. Hadasit permits to make Dr. Wolf available to perform services for Artemis for up to 15 hours per month, unless otherwise agreed to by the parties. The term of the Consulting Agreement is 3 years, subject to automatic renewal terms of 12 months, unless earlier terminated by the parties. As consideration for the execution and performance of the Consulting Agreement, Artemis agreed to a monthly service fee to Dr. Wolf in the amount of $2,000 per month, plus value added tax, a fee of $300 per hour for any hour in excess of 15 hours worked by Dr. Wolf, $1,500 per day for trips made abroad by Dr. Wolf, as well as stock options subject to vesting.
+ 
+ 7
+ 
+
+Pursuant to the terms of the License Agreement, the potential royalty payments payable to Hadasit are in the low single digits. Artemis also has agreed to certain milestone payments to the Licensors, which total an aggregate of approximately $12 million upon the occurrence of various development and commercialization milestones.
+ 
+As part of the License Agreement, we have obtained a license relating to a family of patents and patent applications derived from a single Patent Cooperation Treaty application filed on April 17, 2013. Specifically, U.S. Patent 9,616,067 and European Patent 2838903, which are jointly assigned to Hadasit and RDC, have been licensed to us. The claims of the issued U.S. patent that were granted are directed to methods of treating a herpes viral infection or suppressing herpes viral replication (method of use claims). Additionally, a continuation U.S. application serial No. 15/361150 was filed on November 25, 2016 with claims directed specifically to methods of treatment of HCMV. This patent family will be due to expire on April 17, 2033. There are pending counterpart patent applications in other territories, including Japan.
+ 
+Research & Development
+ 
+Malaria
+ 
+In view of the urgent need for new and more effective antimalarial and antiviral drugs, Artemis’ vision is to combine innovative science and accelerated clinical development to obtain marketing approval for novel therapies against parasitic and viral infections. To date, Artemis’ principal research activities have been to evaluate the extensive research and development performed with Artemisone which was conducted by Bayer and Hadasit and which has been licensed for our use pursuant to the License Agreement.
+ 
+Artemis’s lead product candidate, originally developed at RDC under a joint research and development program directed by Dr. Richard K. Haynes, firstly with Bayer AG Zentralforschung, and then with Bayer HealthCare AG, is an orally-administered, 10-alpha-amino artemisinin derivative named Artemisone. Artemisone was developed at RDC using semi-synthetic chemistry applied to an artemisinin derivative to produce a compound which was optimized along certain parameters. The early discovery and development work is described in an article entitled "Artemisone - a highly active antimalarial drug of the artemisinin class" published in the journal Angewandte Chemie International Edition. Specifically, Artemisone was selected based on its more desirable chemical and drug properties, including ease and low cost of production, high solubility, stability, lack of toxicity, distinct metabolic profile, single isomer, single crystal type, and superior antiparasitic and antiviral efficacies over artemisinin compounds to which it was compared. Preclinical laboratory research, along with Phase I and Phase II studies in patients with uncomplicated non-severe malaria in Thailand conducted by Bayer HealthCare, support further development of Artemisone in malaria. Clinically, Artemisone has been administered to more than 150 subjects in three Phase I trials and a Phase II trial:
+ 
+ 
+· | Phase 1 Single dose study (n=34)
+--+---------------------------------
+
+
+· | Phase 1 Multiple dose study (n=24)
+--+-----------------------------------
+
+
+· | Phase 1 Bioavailability and food effect study (n=12)
+--+-----------------------------------------------------
+
+
+· | Phase II Initial efficacy study (n=95)
+--+---------------------------------------
+
+
+
+Among the 95 subjects who were enrolled in the Phase II trial of uncomplicated malaria, 86 patients received a dose of Artemisone. Top-line published results were highlighted by:
+ 
+ 
+· | 100% cure in all cohorts.
+--+--------------------------
+
+
+· | More rapid parasite clearance time per dose compared to control.
+--+-----------------------------------------------------------------
+
+
+· | No drug-related adverse events reported with Artemisone.
+--+---------------------------------------------------------
+
+
+
+The authors of the Phase II study concluded that the data collected by Bayer and themselves revealed increased efficacy of Artemisone over artesunate when tested against P. falciparum in uncomplicated malaria patients.
+ 
+ 8
+ 
+
+Human Cytomegalovirus
+ 
+Preclinical laboratory research conducted by Hadasit has demonstrated high antiviral potency of Artemisone against HCMV. In vitro data demonstrated higher efficacy of Artemisone compared to 1st generation artemisinin derivatives, with evidence for a novel mechanism of action. Artemisone also exhibited strong antiviral activity against ganciclovir-resistant strains in vitro. Ganciclovir is the current standard-of-care for HCMV infection.
+ 
+Clinical work with artesunate suggested an antiviral effect against HCMV may be present with this member of the artemisinin class (“Artesunate as a Potent Antiviral Agent in a Patient with Late Drug Resistant Cytomegalovirus Infection following Hematopoietic Stem Cell Transplantation”, Clinical Infectious Diseases, 2008). Artesunate inhibits CMV in vitro and in an animal model. Further clinical and laboratory work performed by Hadasit suggested Artemisone may be a more potent and superior development option than artesunate for treatment of HCMV.
+ 
+In light of preclinical and clinical studies of Artemisone conducted by Bayer HealthCare and others in various indications, the further development of Artemisone as an anti-infective is strongly supported. With no preventive therapy approved by the FDA for HCMV in HSCT recipients and no artemisinin-based therapy approved by the FDA for treatment of severe malaria, Artemis is moving Artemisone forward initially in these indications, while also continuing to evaluate other potential indications, including but not limited to other viral and parasitic infections.
+ 
+Government Regulation
+ 
+Government authorities in the United States, at the federal, state and local level, and in other countries and jurisdictions, including the European Union, extensively regulate, among other things, the research, development, testing, manufacture, quality control, approval, packaging, storage, recordkeeping, labeling, advertising, promotion, distribution, marketing, post-approval monitoring and reporting, and import and export of pharmaceutical products. The processes for obtaining marketing approvals in the United States and in foreign countries and jurisdictions, along with subsequent compliance with applicable statutes and regulations and other regulatory authorities, require the expenditure of substantial time and financial resources.
+ 
+In the United States, the FDA approves and regulates drugs under the FDCA, and implementing regulations. The failure to comply with requirements under the FDCA and other applicable laws at any time during the product development process, approval process or after approval may subject an applicant and/or sponsor to a variety of administrative or judicial sanctions, including refusal by the FDA to approve pending applications, withdrawal of an approval, imposition of a clinical hold, issuance of warning letters and other types of letters, product recalls, product seizures, total or partial suspension of production or distribution, injunctions, fines, refusals of government contracts, restitution, disgorgement of profits, or civil or criminal investigations and penalties brought by the FDA and the Department of Justice or other governmental entities.
+ 
+An applicant seeking approval to market and distribute a new drug product in the United States must typically undertake the following:
+ 
+ 
+• | completion of preclinical laboratory tests, animal studies and formulation studies in compliance with the FDA's Good Laboratory Practice regulations;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | submission to the FDA of an Investigational New Drug (“IND”), which must take effect before human clinical trials may begin;
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+
+• | approval by an independent institutional review board, representing each clinical site before each clinical trial may be initiated;
+--+------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+ 9
+ 
+
+ 
+• | performance of adequate and well-controlled human clinical trials in accordance with good clinical practices (“GCP”), to establish the safety and efficacy of the proposed drug product for each indication;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | •preparation and submission to the FDA of an NDA, requesting marketing for one or more proposed indications;
+--+-------------------------------------------------------------------------------------------------------------
+
+
+• | review by an FDA advisory committee, where appropriate or if applicable;
+--+-------------------------------------------------------------------------
+
+
+• | satisfactory completion of one or more FDA inspections of the manufacturing facility or facilities at which the product, or components thereof, are produced to assess compliance with current Good Manufacturing Practices (“cGMP”), requirements and to assure that the facilities, methods and controls are adequate to preserve the product's identity, strength, quality and purity;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | satisfactory completion of FDA audits of clinical trial sites to assure compliance with GCPs and the integrity of the clinical data;
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | payment of user fees and securing FDA approval of the NDA; and
+--+---------------------------------------------------------------
+
+
+• | compliance with any post-approval requirements, including the potential requirement to implement a Risk Evaluation and Mitigation Strategy and the potential requirement to conduct post-approval studies.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+In addition to regulations in the United States, a manufacturer is subject to a variety of regulations in foreign jurisdictions to the extent they choose to sell any drug products in those foreign countries. Even if a manufacturer obtains FDA approval of a product, it must still obtain the requisite approvals from regulatory authorities in foreign countries prior to the commencement of clinical trials or marketing of the product in those countries. For other countries outside of the European Union, the requirements governing the conduct of clinical trials, product licensing, pricing and reimbursement vary.
+ 
+In the European Union, marketing authorizations for medicinal products may be obtained through different procedures founded on the same basic regulatory process. The centralized procedure provides for the grant of a single marketing authorization that is valid for all European Union Member States. The centralized procedure is compulsory for medicinal products produced by certain biotechnological processes, products designated as orphan medicinal products, and products with a new active substance indicated for the treatment of certain diseases. On the other hand, a decentralized procedure provides for approval by one or more other concerned European Union Member States of an assessment of an application for marketing authorization conducted by one European Union Member State, known as the reference European Union Member State. In accordance with the mutual recognition procedure, the sponsor applies for national marketing authorization in one European Union Member State. Upon receipt of this authorization the sponsor can then seek the recognition of this authorization by other European Union Member States.
+ 
+Employees
+ 
+As of December 31, 2017, the Company had 1 full-time employee and approximately 16 consultants and advisors who provide services on a part-time basis. The employee and consultants oversee day-to-day operations of the Company, including its management, strategy, contract manufacturing, regulatory affairs, research and development, and administration. We have no laboratory facility or unionized employees.
+Corporate Overview
+ 
+We were incorporated under the laws of the State of Nevada on April 22, 1997. On July 8, 2003, we effected a reincorporation from Nevada to Delaware through a merger with and into our wholly-owned subsidiary, InkSure Technologies (Delaware) Inc., which was incorporated on June 30, 2003. The surviving corporation in the merger was InkSure Technologies (Delaware) Inc., which thereupon renamed itself InkSure Technologies Inc. In 2014, we changed our name to New York Global Innovations Inc.  Upon the closing of the Merger, defined below, Artemis Subsidiary, defined below, became our wholly-owned subsidiary. The Merger closed on August 23, 2016, and such date is referred to as the “Effective Time.”
+ 
+ 10
+ 
+
+On August 23, 2016, we consummated a merger with Artemis Therapeutics Inc., a Delaware corporation (“Artemis Subsidiary”) and Artemis Acquisition Corp., a Delaware corporation and a wholly-owned subsidiary of the Company (the “Merger Subsidiary”), pursuant to which Artemis Subsidiary merged with and into the Merger Subsidiary, with Artemis Subsidiary being the surviving entity (the “Merger”).  Following the Merger, we adopted the business plan of Artemis Subsidiary. Artemis Subsidiary was incorporated on April 19, 2016 under the laws of the State of Delaware. Between April 19, 2016 and August 23, 2016, Artemis’s business activities primarily consisted of negotiating and executing the License Agreement.
+ 
+Pursuant to the Merger, the Merger Subsidiary merged with and into Artemis Subsidiary in a reverse merger, with Artemis Subsidiary surviving as our wholly-owned subsidiary. As consideration for the Merger, we issued an aggregate of 460,000 shares of common stock and 2,357.04 shares of our Series B Preferred Stock to the Artemis Subsidiary shareholders, such that each outstanding share of Artemis Subsidiary common stock was exchanged for the right to receive 50 shares of our common stock and 0.2562 shares of the Series B Preferred Stock (each share is convertible into 72,682.814 shares of the Company’s common stock) (collectively, the “Merger Shares”). In addition, we agreed to reserve for future issuance 40,000 shares of common stock and 204.96 shares of Series B Preferred Stock to Artemis Subsidiary option holders, including options issued to Dr. Wolf and Hadasit, as set forth in greater detail herein. For an understanding of their terms and provisions, reference should be made to the Merger Agreement attached as an Exhibit to this Annual Report on Form 10-K.
+ 
+As a condition for the consummation of the Merger, the Company and Artemis Subsidiary agreed to the following covenants and closing conditions: (i) a requirement that a concurrent financing of not less than $590,000 shall have occurred immediately prior to the Effective Time; (ii) a requirement that the Company have a cash balance of at least $590,000, exclusive of the concurrent financing at the Effective Time; (iii) a requirement that Artemis Subsidiary, Hadasit Medical Research Services & Development, Ltd. and Hong Kong University of Science and Technology R and D Corporation Limited have entered into and finalized a license agreement with respect to HCMV technology; (iv) the resignation of Roberto Alonso Jimenez Arias, our former director, as a director of the Company at the Effective Time; (v) the appointment by Artemis Subsidiary of a new director; (vi) the right for Gadi Peleg, or his designee, to continue serving as a director of the Company for a period of one year from the closing of the Merger; and (vii) for a period of one year from the closing of the Merger, in the event that the Company desires to enter into a transaction involving the sale of securities at a pre-transaction valuation of $10,000,000 or less, the approval of Mr. Peleg, or his designee, shall be required prior to the Company entering into such transaction. The Company and Artemis Subsidiary agreed to waive the requirement that a concurrent financing of not less than $590,000 shall have occurred immediately prior to the Effective Time and that the Company have a cash balance of at least $590,000, exclusive of the concurrent financing at the Effective Time.
+ 
+In addition, on August 23, 2016, the Company closed on a private placement pursuant to a Securities Purchase Agreement (the “Acumen SPA”) with Acumen Bioventures LLC (“Acumen”) with respect to the sale of an aggregate of $500,000 of 68,321 shares of the Company’s common stock and 453 shares of Series A Preferred Stock (each share is convertible into 1,453.656 shares of the Company’s common stock). The Acumen SPA provided that the Company will obtain shareholder approval within 90 days of the date thereof to increase its authorized capital or conduct a reverse stock split such that the Company will have reserved for issuance at least 200% of the number of shares issuable upon conversion of all of the Series A Preferred Stock or be subject to liquidated damages (the “Approval”). The Board of Directors and the stockholders holding a majority of the Company’s voting power approved a 1-for-50 reverse stock split (the “Reverse Stock Split”) on November 2, 2016 and November 9, 2016, respectively. The Company’s management and its largest shareholder provided the Company with their irrevocable consent to the Approval.  The Acumen SPA also provides the investor with a 24-month right to (i) participate in future financings, (ii) purchase up to 100% of its investment at 120% of the per share purchase price, (iii) be issued additional securities in connection with any subsequent dilutive issuance by the Company; and (iv) piggyback or demand registration rights.
+ 
+ 11
+ 
+
+In conjunction with the closing of the Merger, on August 23, 2016, Roberto Alonso Jimenez Arias resigned as a director of the Company. At the effective time of the Merger, the Company’s board of directors and officers were reconstituted by the appointment of Dana Wolf as our Chief Scientific Officer and Israel Alfassi as a director.
+ 
+For financial accounting purposes, the Merger between the Company and Artemis Subsidiary was accounted for as a reverse recapitalization and, as a result of the Merger, the Company ceased to be a shell company. As the shareholders of Artemis Subsidiary received the largest ownership interest in the Company, Artemis Subsidiary was determined to be the “accounting acquirer” in the reverse recapitalization. As a result, the historical financial statements of the Company were replaced with the historical financial statements of Artemis Subsidiary. Following the Merger, the Company and its subsidiary, Artemis Subsidiary, are collectively referred to as the “Company”.
+ 
+On November 2, 2016, the Board of Directors of the Company approved  (i) an amendment (the “Amendment”) to its Certificate of Incorporation to decrease the Company’s authorized Common Stock from 75,000,000 shares, with a par value of $0.01 per share, to 51,000,000 shares with a par value of $0.01 per share, as well as reduce the Company’s authorized Preferred Stock from 10,000,000 shares, with a par value of $0.01 per share, to 200,000 shares with a par value of $0.01 per share, and (ii) a 1-for-50 reverse stock split of the Company’s issued and outstanding shares of Common Stock, such that each 50 shares of Common Stock held by stockholders of record on or about December 13, 2016 be combined into one share of Common Stock, except to the extent that the actions described herein result in any of the Company’s stockholders holding a fractional share of Common Stock (in which instance, because such stockholder’s number of shares is not evenly divisible by the 50:1 ratio, such stockholder will be automatically entitled to receive an additional fraction of a share of Common Stock to round up to the next whole share).  On November 9, 2016, stockholders holding a majority of the Company’s voting power approved the Amendment and the Reverse Stock Split by written consent in lieu of a meeting, in accordance with the Delaware General Corporation Law. The Amendment and Reverse Stock Split took effect on December 20, 2016.
+ 
+On October 23, 2017, the Company executed Securities Purchase Agreements (each, a “Securities Purchase Agreement”) with a total of 6 accredited investors relating to a private placement offering (the “Offering”) of an aggregate of 300,000 shares of the Company’s Common Stock at a purchase price of $1.00 per share, and of 250 shares of the Company’s newly designated Series C Convertible Preferred Stock (the “Series C Preferred Stock”), at a purchase price of $1,000.00 per share, with such shares of Series C Preferred Stock initially convertible into an aggregate of 250,000 shares of Common Stock. In addition, each investor received a warrant (each, a “Warrant”) to purchase fifty percent of the number of shares of Common Stock effectively purchased in the Offering, for an aggregate of 275,000 shares of Common Stock. The closing of the Offering took place on October 23, 2017.
+ 
+ 12
+ 
+
+The Securities Purchase Agreement provides each investor with (i) a 12 month right to participate in future financings, (ii) a 24 month right to be issued additional securities in connection with any subsequent dilutive issuance by the Company, and (iii) 24 month piggyback and demand registration rights.  Each Warrant is immediately exercisable at an exercise price of $2.00 per share, expires 5 years from the date of issuance, may be exercised for cash or on a cashless basis, and contains future price-based and customary stock-based anti-dilution protections.
+ 
+Pursuant to the Certificate of Designation of Preferences, Rights and Limitations of the Series C Preferred Stock (the “Certificate of Designation”), the shares of Series C Preferred Stock are convertible into an aggregate of 250,000 shares of Common Stock based on a conversion price of $1.00 per share. Such conversion price is subject to future price-based and customary stock-based anti-dilution protections. The holders of the Series C Preferred Stock do not possess any voting rights but the Series C Preferred Stock does carry a liquidation preference for each holder equal to the investment made by such holder in the Offering. In addition, the holders of Series C Preferred Stock are eligible to participate in dividends and other distributions by the Company on an as converted basis.
+ 

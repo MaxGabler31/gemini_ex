@@ -1,0 +1,194 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. Business.
+Business Overview
+We are a leading global provider of personal computing and other access devices, imaging and printing products, and related technologies, solutions and services. We sell to individual consumers, small- and medium-sized businesses (“SMBs”) and large enterprises, including customers in the government, health and education sectors. 
+HP was incorporated in 1947 under the laws of the state of California as the successor to a partnership founded in 1939 by William R. Hewlett and David Packard. Effective in May 1998, we changed our state of incorporation from California to Delaware.
+Separation Transaction
+On November 1, 2015, we completed the separation of Hewlett Packard Enterprise Company (“Hewlett Packard Enterprise”), Hewlett-Packard Company’s former enterprise technology infrastructure, software, services and financing businesses (the “Separation”). In connection with the Separation, Hewlett-Packard Company changed its name to HP Inc. (“HP”).
+At Separation, we and Hewlett Packard Enterprise entered into a separation and distribution agreement as well as various other agreements that provide a framework for the relationships between the parties going forward, including, among others, a tax matters agreement, an employee matters agreement, a transition service agreement, a real estate matters agreement, a master commercial agreement and an information technology service agreement.
+HP Products and Services; Segment Information
+We have three reportable segments: Personal Systems, Printing and Corporate Investments. The Personal Systems segment offers Commercial and Consumer desktop and notebook personal computers (“PCs”), Workstations, thin clients, Commercial mobility devices, retail point-of-sale (“POS”) systems, displays and other related accessories, software, support and services. The Printing segment provides Consumer and Commercial printer hardware, Supplies, solutions and services, as well as scanning devices. Corporate Investments includes HP Labs and certain business incubation projects.
+In each of the past three fiscal years, notebook PCs, printing supplies and desktop PCs each accounted for more than 10% of our consolidated net revenue.
+Personal Systems
+Personal Systems offers Commercial and Consumer desktop and notebook PCs, Workstations, thin clients, Commercial mobility devices, retail POS systems, displays and other related accessories, software, support and services. We group Commercial notebooks, Commercial desktops, Commercial services, Commercial mobility devices, Commercial detachables and convertibles, Workstations, retail POS systems and thin clients into Commercial PCs and Consumer notebooks, Consumer desktops, Consumer services and Consumer detachables into Consumer PCs when describing performance in these markets. Both Commercial and Consumer PCs and Commercial mobility devices maintain a multi-operating system, multi-architecture strategies using Microsoft Windows, Google Chrome, Android operating systems and use predominantly processors from Intel Corporation (“Intel”) and Advanced Micro Devices, Inc. (“AMD”). 
+Commercial PCs are optimized for use by customers including enterprise, public sector and SMB customers, with a focus on robust designs, security, serviceability, connectivity, reliability and manageability in networked and cloud-based environments. Commercial PCs include the HP ProBook and HP EliteBook lines of notebooks, convertibles, and detachables, the HP Pro and HP Elite lines of business desktops and all-in-ones, retail POS systems, HP Thin Clients, HP Pro Tablet PCs and the HP notebook, desktop and Chromebook systems. Commercial PCs also include workstations that are designed and optimized for high-performance and demanding application environments including Z desktop workstations, Z all-in-ones and Z mobile workstations. Additionally, we offer a range of services and solutions to enterprise, public sector and SMB customers to help them manage the lifecycle of their PC and mobility installed base.
+Consumer PCs are optimized for consumer usage, focusing on gaming, consuming multi-media for entertainment, managing personal life activities, staying connected, sharing information, getting things done for work including content creation, staying informed and security and include HP Spectre, HP Envy, HP Pavilion, HP Chromebook, HP Stream, Omen by HP lines of notebooks and hybrids and HP Envy, HP Pavilion and Omen by HP desktops and all-in-one lines.
+Personal Systems groups its global business capabilities into the following business units when reporting business performance:
+•Notebooks consists of Consumer notebooks, Commercial notebooks, mobile workstations and Commercial mobility devices;
+
+• | Desktops includes Consumer desktops, Commercial desktops, thin clients, and retail POS systems;
+
+
+• | Workstations consists of desktop workstations and accessories; and
+
+4
+
+
+• | Other consists of Consumer and Commercial services as well as other Personal Systems capabilities.
+
+Printing
+Printing provides Consumer and Commercial printer hardware, Supplies, solutions and services, as well as scanning devices. Printing is also focused on imaging solutions in the commercial and industrial markets. Our global business capabilities within Printing are described below:
+Office Printing Solutions delivers HP’s office printers, Supplies, services, and solutions to SMBs and large enterprises. It also includes Samsung Electronics Co., Ltd (“Samsung”)-branded and Original Equipment Manufacturer (“OEM”) hardware, supplies and solutions. HP goes to market through its extensive channel network and directly with HP sales. Ongoing key initiatives include the design and deployment of A3 products and solutions for the copier and multifunction printer market, printer security solutions, PageWide solutions and award-winning JetIntelligence LaserJet products.
+Home Printing Solutions delivers innovative printing products and solutions for the home, home business and micro business customers utilizing both HP’s Ink and Laser technologies. Initiatives such as Instant Ink and Continuous Ink Supply System provide business model innovation to benefit and expand HP’s existing customer base, while new technologies like Photo Lifestyle products drive print relevance for a mobile generation.
+Graphics Solutions delivers large-format, commercial and industrial solutions to print service providers and packaging converters through a wide portfolio of printers and presses (HP DesignJet, HP Latex, HP Scitex, HP Indigo and HP PageWide Web Presses).
+3D Printing delivers the HP Multi-Jet Fusion 3D Printing Solution designed for prototyping and production of functional parts and functions on an open platform facilitating the development of new 3D printing materials.
+Printing groups its global business capabilities into the following business units when reporting business performance:
+
+• | Commercial Hardware consists of Office Printing Solutions, Graphics Solutions and 3D Printing, excluding supplies;
+
+
+• | Consumer Hardware includes Home Printing Solutions, excluding supplies; and
+
+
+• | Supplies comprises a set of highly innovative consumable products, ranging from Ink and Laser cartridges to media, graphics supplies, 3D printing supplies and Samsung-branded A4 and A3 supplies and OEM supplies, for recurring use in Consumer and Commercial Hardware.
+
+Corporate Investments
+Corporate Investments includes HP Labs and certain business incubation projects.
+Sales, Marketing and Distribution
+We manage our business and report our financial results based on the business segments described above. Our customers are organized by consumer and commercial groups, and purchases of HP products, solutions and services may be fulfilled directly by HP or indirectly through a variety of partners, including:
+
+• | retailers that sell our products to the public through their own physical or Internet stores;
+
+
+• | resellers that sell our products and services, frequently with their own value-added products or services, to targeted customer groups;
+
+
+• | distribution partners that supply our products and solutions to resellers; and
+
+
+• | system integrators and other business intermediaries that provide various levels of services, including systems integration work and as-a-service solutions, and typically partner with us on client solutions that require our products and services.
+
+The mix of our business conducted by direct sales or channel sales differs by business and region. We believe that customer buying patterns and different regional market conditions require us to tailor our sales, marketing and distribution efforts to the regional and sub-regional specificities for each of our businesses. Each of our businesses and regions manages the definition and execution of its own go-to-market and distribution strategy. We are focused on driving the depth and breadth of our market coverage while identifying efficiencies and productivity gains in both our direct and indirect routes to market. Our businesses collaborate to accomplish strategic and process alignment where appropriate. For example, we typically assign an account manager to manage relationships across our business with large enterprise customers. The account manager is supported by a team of specialists with product and services expertise and drives both direct and indirect sales to their assigned customers. For other customers and for consumers, we typically manage both direct online sales as well as channel relationships with retailers mainly targeting consumers and small businesses and commercial resellers mainly targeting SMBs and mid-market accounts.
+Manufacturing and Materials
+We utilize a significant number of outsourced manufacturers (“OMs”) around the world to manufacture HP-designed products. The use of OMs is intended to generate cost efficiencies and reduce time to market for HP-designed products. We use 
+5
+
+multiple OMs to maintain flexibility in our supply chain and manufacturing processes. In some circumstances, third-party suppliers produce products that we purchase and resell under the HP brand. Additionally, we manufacture finished products from components and subassemblies that we acquire from a wide range of vendors.
+We utilize two primary methods of fulfilling demand for products: building products to order and configuring products to order. We build products to order to maximize manufacturing and logistics efficiencies by producing high volumes of basic product configurations. Alternatively, configuring products to order enables units to match a customer’s hardware and software customization requirements. Our inventory management and distribution practices in both building products to order and configuring products to order seek to minimize inventory holding periods by taking delivery of the inventory and manufacturing shortly before the sale or distribution of products to our customers.
+We purchase materials, supplies and product subassemblies from a substantial number of vendors. For most of our products, we have existing alternate sources of supply or alternate sources of supply are readily available. However, we have relied on sole sources for some laser printer engines, LaserJet supplies, certain customized parts and parts for products with short life cycles (although some of these sources have operations in multiple locations, mitigating the effect of a disruption). For instance, we source the majority of our A4 and a portion of A3 portfolio laser printer engines and laser toner cartridges from Canon. Any decision by either party not to renew our agreement with Canon or to limit or reduce the scope of the agreement could adversely affect our net revenue from LaserJet products; however, we have a long-standing business relationship with Canon and anticipate renewal of this agreement.
+We are dependent upon Intel and AMD as suppliers of x86 processors and Microsoft for various software products. We believe that disruptions with these suppliers would have industry-wide ramifications, and therefore would not disproportionately disadvantage us relative to our competitors. See “Risk Factors—We depend on third-party suppliers, and our financial results could suffer if we fail to manage our suppliers effectively,” in Item 1A, which is incorporated herein by reference.
+Like other participants in the information technology (“IT”) industry, we ordinarily acquire materials and components through a combination of blanket and scheduled purchase orders to support our demand requirements for periods averaging 90 to 120 days. From time to time, we may experience significant price volatility or supply constraints for certain components that are not available from multiple sources. We also may acquire component inventory in anticipation of supply constraints or enter into longer-term pricing commitments with vendors to improve the priority, price and availability of supplies. See “Risk Factors—We depend on third-party suppliers, and our financial results could suffer if we fail to manage our suppliers effectively,” in Item 1A, which is incorporated herein by reference.
+Sustainability also plays an important role in the manufacturing and sourcing of materials and components for our products. We strive to make our products in an ethical and sustainable manner. We have committed to building an efficient, resilient and sustainable supplier network, and we collaborate with our suppliers to improve their labor practices and working conditions, and to reduce the environmental impact of their operations. These actions, together with our broader sustainability program, help us in our effort to meet customer sustainability requirements and comply with regulations, for example, regarding supplier labor practices and conflict minerals disclosures. For more information on our sustainability goals, programs, and performance, we refer you to our annual sustainability report, available on our website (which is not incorporated by reference herein).
+International
+Our products and services are available worldwide. We believe this geographic diversity allows us to meet both consumer and enterprise customers’ demand on a worldwide basis and draws on business and technical expertise from a worldwide workforce. This provides stability to our operations, provides revenue streams that may offset geographic economic trends and offers us an opportunity to access new markets for maturing products. In addition, we believe that future growth is dependent in part on our ability to develop products and sales models that target developing countries. In this regard, we believe that our broad geographic presence as well as our focus on diversity and inclusion, gives us a solid base on which to build future growth.
+Research and Development
+Innovation across products, services, business models and processes is a key element of our culture. Our development efforts are focused on designing and developing products, services and solutions that anticipate customers’ changing needs and desires, and emerging technological trends. Our efforts also are focused on identifying the areas where we believe we can make a unique contribution and the areas where partnering with other leading technology companies will leverage our cost structure and maximize our customers’ experiences.
+HP Labs, together with the various research and development groups within our business segments, is responsible for our research and development efforts. HP Labs is part of our Corporate Investments segment.
+We anticipate that we will continue to have significant research and development expenditures in the future to support the design and development of innovative, high-quality products and services to maintain and enhance our competitive position.
+6
+
+For a discussion of risks attendant to our research and development activities, see “Risk Factors—If we cannot successfully execute our go-to-market strategy and continue to develop, manufacture and market innovative products and services, our business and financial performance may suffer,” in Item 1A, which is incorporated herein by reference.
+Patents
+Our general policy has been to seek patent protection for those inventions likely to be incorporated into our products and services or where obtaining such proprietary rights will improve our competitive position. At October 31, 2018, our worldwide patent portfolio included over 26,000 patents, including patents acquired from Samsung.
+Patents generally have a term of twenty years from the date they are filed. As our patent portfolio has been built over time, the remaining terms of the individual patents across our patent portfolio vary. We believe that our patents and patent applications are important for maintaining the competitive differentiation of our products and services, enhancing our freedom of action to sell our products and services in markets in which we choose to participate, and maximizing our return on research and development investments. No single patent is essential to HP as a whole or to any of HP’s business segments.
+In addition to developing our patent portfolio, we license intellectual property (“IP”) from third parties as we deem appropriate. We have also granted and continue to grant to others licenses, and other rights, under our patents when we consider these arrangements to be in our interest. These license arrangements include a number of cross-licenses with third parties.
+For a discussion of risks attendant to IP rights, see “Risk Factors—Our financial performance may suffer if we cannot continue to develop, license or enforce the intellectual property rights on which our businesses depend,” in Item 1A, which is incorporated herein by reference.
+Backlog
+We believe that backlog is not a meaningful indicator of future business prospects due to our diverse products and services portfolio, including the large volume of products delivered from finished goods or channel partner inventories and the shortening of some product life cycles. Therefore, we believe that backlog information is not material to an understanding of our overall business.
+Seasonality
+General economic conditions have an impact on our business and financial results. From time to time, the markets in which we sell our products and services experience weak economic conditions that may negatively affect sales. We experience some seasonal trends in the sale of our products and services. For example, European sales are often weaker in the summer months and consumer sales are often stronger in the fourth calendar quarter. Demand during the spring and early summer months also may be adversely impacted by market anticipation of seasonal trends. See “Risk Factors—Our uneven sales cycle makes planning and inventory management difficult and future financial results less predictable,” in Item 1A, which is incorporated herein by reference.
+Competition
+We encounter strong competition in all areas of our business activity. We compete on the basis of technology, performance, price, quality, reliability, brand, reputation, distribution, range of products and services, ease of use of our products, account relationships, customer training, service and support, security, availability of application software and internet infrastructure offerings, and our sustainability performance. 
+The markets for each of our key business segments are characterized by strong competition among major corporations with long-established positions and a large number of new and rapidly growing firms. Most product life cycles are short, and to remain competitive we must develop new products and services, periodically enhance our existing products and services and compete effectively on the basis of the factors listed above. In addition, we compete with many of our current and potential partners, including OEMs that design, manufacture and often market their products under their own brand names. Our successful management of these competitive partner relationships will be critical to our future success. Moreover, we anticipate that we will have to continue to adjust prices on many of our products and services to stay competitive.
+We have a broad technology portfolio spanning personal computing and other access devices, imaging and printing-related products and services. We are the leader or among the leaders in each of our key business segments.
+The competitive environment in which each key segment operates is described below:
+Personal Systems. The markets in which Personal Systems operates are highly competitive and are characterized by price competition. The PC market unit decline has moderated while market revenue has improved due to higher average selling prices. Our primary competitors are Lenovo Group Limited, Dell Inc., Acer Inc., ASUSTeK Computer Inc., Apple Inc., Toshiba Corporation and Samsung Electronics Co., Ltd. In particular regions, we also experience competition from local companies and from generically-branded or “white box” manufacturers. Our competitive advantages include our broad product portfolio, our innovation and research and development capabilities including security features, our design, our brand and procurement leverage, our ability to cross-sell our portfolio of offerings, our extensive service and support offerings and the accessibility of our products through a broad-based distribution strategy from retail and commercial channels to direct sales.
+7
+
+Printing. The markets for printer hardware and associated supplies are highly competitive. Printing’s key customer segments each face competitive market pressures in pricing and the introduction of new products. Our primary competitors include Canon Inc., Lexmark International, Inc., Xerox Corporation Ltd., Seiko Epson Corporation, The Ricoh Company Ltd. and Brother Industries, Ltd. In addition, independent suppliers offer refill and remanufactured alternatives for HP original inkjet and toner supplies, which are often available for lower prices but generally offer lower print quality and reliability. Other competitors also have developed and marketed new compatible cartridges for HP’s laser and inkjet products, particularly outside of the United States where IP protection is inadequate or ineffective. Our competitive advantages include our comprehensive high quality solutions for the home, office and publishing environments, our innovation and research and development capabilities including security features, our brand, and the accessibility of our products through a broad-based distribution strategy from retail and commercial channels to direct sales.
+For a discussion of risks attendant to these competitive factors, see “Risk Factors—We operate in an intensely competitive industry and competitive pressures could harm our business and financial performance,” in Item 1A, which is incorporated herein by reference.
+Sustainability 
+At HP, we believe in the power of technology to enable people and communities to change the world for the better. Sustainable impact is fundamental to our reinvention journey-fueling our innovation and growth and strengthening our business for the long term.
+Our approach covers a broad range of sustainability issues across three pillars: Planet, People and Community. We prioritize issues to address based on their relative importance to our culture, business success and sustainable development.
+Planet. We aim to grow our business, not our footprint - and support our customers to do the same by transforming our entire business to drive a more efficient, circular, and low-carbon economy and enabling our customers to invent the future through our most sustainable portfolio of products and services.
+People. We champion dignity, respect and empowerment for all people with whom we work by working to embed diversity and inclusion in everything we do and helping to enable all people who help bring our products to market to thrive at work, at home and in their communities.
+Community. Through our technology, time and resources, we work to catalyze positive change in communities where we live, work and do business. As a result, we aim to unlock opportunity through the power of technology and improve the vitality and resilience of our local communities.
+Goals. Our current long-term sustainability goals are:
+Planet
+
+• | Use 100% renewable electricity in our global operations, with an interim goal of 40% by 2020;
+
+
+• | Consistent with a science-based reduction target, reduce Scope 1 and Scope 2 greenhouse gas (“GHG”) emissions in our global operations by 25% by 2025, compared to 2015;
+
+
+• | Reduce first-tier production supplier and product transportation-related GHG emissions intensity (which refers to the portion of first-tier production and product transportation suppliers’ reported GHG emissions attributable to HP divided by HP’s annual net revenue) by 10% by 2025, compared to 2015;
+
+
+• | Reduce the GHG emissions intensity of HP’s product portfolio (which refers to tonnes CO2e/net revenue arising from the use of more than 95% of HP product units shipped each year) by 25% by 2020, compared to 2010;
+
+
+• | Help suppliers cut 2 million tonnes of carbon dioxide equivalent (CO2e) emissions between 2010 and 2025;
+
+
+• | Achieve zero deforestation associated with HP brand paper and paper-based product packaging (which includes the box that comes with the product and all paper inside the box) by 2020;
+
+
+• | Recycle 1.2 million tonnes of hardware and supplies by 2025, since the beginning of 2016; and
+
+
+• | Reduce potable water consumption in global operations by 15% by 2025, compared to 2015;
+
+People
+
+• | Develop skills and improve well-being of 500,000 factory workers by 2025, since the beginning of 2015;
+
+
+• | Double factory participation in our supply chain sustainability programs by 2025, compared to 2015; and
+
+
+• | Maintain greater than 99% completion rate of annual Integrity at HP (formerly Standards of Business Conduct) training among active HP employees and the Board of Directors.
+
+Community
+
+• | Enable better learning outcomes for 100 million people by 2025, since the beginning of 2015.
+
+For more information on our sustainability goals, programs, and performance, we refer you to our annual sustainability report, available on our website (which is not incorporated by reference herein). 
+8
+
+Environment
+Our operations are subject to regulation under various federal, state, local and foreign laws concerning the environment, including laws addressing the discharge of pollutants into the air and water, the management and disposal of hazardous substances and wastes, and the cleanup of contaminated sites. We could incur substantial costs, including cleanup costs, fines and civil or criminal sanctions, and third-party damage or personal injury claims, if we were to violate or become liable under environmental laws.
+Many of our products are subject to various federal, state, local and foreign laws governing chemical substances in products and their safe use, including laws regulating the manufacture and distribution of chemical substances and laws restricting the presence of certain substances in electronics products. Most of our products also are subject to requirements applicable to their energy consumption. In addition, we face increasing complexity in our product design and procurement operations as we adjust to new and future requirements relating to the chemical and materials composition of our products, and their safe use.
+We proactively evaluate and at times replace materials in our products and supply chain, taking into account, among other things, published lists of substances of concern, new and upcoming legal requirements, customer preferences and scientific analysis that indicates a potential impact to human health or the environment. 
+We are also subject to legislation in an increasing number of jurisdictions that makes producers of electrical goods, including computers and printers, financially responsible for specified collection, recycling, treatment and disposal of past and future covered products (sometimes referred to as “product take-back legislation”). We intend for our products to be easily reused and recycled, and we provide many of our customers with reuse and recycling programs.
+In the event our products become non-compliant with these laws, our products could be restricted from entering certain jurisdictions and we could face other sanctions, including fines.
+Our operations, supply chain and our products, are expected to become increasingly subject to federal, state, local and foreign laws, regulations and international treaties relating to climate change. We strive to continually improve the energy and carbon efficiency of our operations, supply chain and product portfolio and deliver more cost-effective and less greenhouse gas-intensive technology solutions to our customers. As these and other new laws, regulations, treaties and similar initiatives and programs are adopted and implemented throughout the world, we will be required to comply or potentially face market access limitations or other sanctions, including fines. We believe that technology will be fundamental to finding solutions to achieve compliance with and manage those requirements, and we are collaborating with industry, business groups and governments to find and promote ways that HP technology can be used to address climate change and to facilitate compliance with related laws, regulations and treaties.
+We are committed to complying with all environmental laws applicable to our operations, products and services and to reducing our environmental impact across all aspects of our business. We meet this commitment with our sustainability policy, our comprehensive environmental, health and safety policy, strict environmental management of our operations and worldwide environmental programs and services.
+A liability for environmental remediation and other environmental costs is accrued when we consider it probable that a liability has been incurred and the amount of loss can be reasonably estimated. Environmental costs and accruals are presently not material to our operations, cash flows or financial position. Although there is no assurance that existing or future environmental laws applicable to our operations or products will not have a material adverse effect on our operations, cash flows or financial condition, we do not currently anticipate material capital expenditures for environmental control facilities.
+For a discussion of risks attendant to these environmental factors, see “Risk Factors—Our business is subject to various federal, state, local and foreign laws and regulations that could result in costs or other sanctions that adversely affect our business and results of operations,” in Item 1A, which is incorporated herein by reference. In addition, for a discussion of our environmental contingencies see Note 14, “Litigation and Contingencies” to the Consolidated Financial Statements in Item 8, which is also incorporated herein by reference.
+Executive Officers
+The following are our current executive officers:
+Alex Cho; age 46; President, Personal Systems
+Mr. Cho has served as President, Personal Systems since June 2018. Mr. Cho joined Hewlett-Packard Company in June 2010 as the Vice President and General Manager of the LaserJet Supplies team. In 2014, Mr. Cho transitioned to Global Head and General Manager of Commercial Personal Systems at Hewlett-Packard Company.
+Steve Fieler; age 45; Chief Financial Officer
+Mr. Fieler has served as Chief Financial Officer since July 2018. Previously, Mr. Fieler served as Head of Global Treasury since January 2017. Prior to that role, he was Chief Financial Officer at Proteus Digital Health from June 2014 to January 2017. 
+9
+
+Mr. Fieler served in a range of finance and operational roles at Hewlett-Packard Company prior to its separation, including Vice President, Chief Financial Officer of HP Software from January 2012 to June 2014.
+Tracy S. Keogh; age 57; Chief Human Resources Officer
+Ms. Keogh has served as Chief Human Resources Officer since November 2015. Previously, Ms. Keogh served as Executive Vice President, Human Resources of Hewlett-Packard Company from April 2011 to November 2015. Prior to joining Hewlett-Packard Company, Ms. Keogh served as Senior Vice President of Human Resources at Hewitt Associates, a provider of human resources consulting services, from May 2007 until March 2011.
+Catherine A. Lesjak; age 59; Chief Operating Officer (interim)
+Ms. Lesjak has served as interim Chief Operating Officer since July 2018. Ms. Lesjak previously served as Chief Financial Officer since November 2015, and as Executive Vice President and Chief Financial Officer of Hewlett-Packard Company from 2007 to November 2015. Ms. Lesjak also served as Hewlett-Packard Company’s interim Chief Executive Officer from August 2010 until November 2010. She also serves as a director of SunPower Corporation.
+Enrique Lores; age 53; President, Printing, Solutions and Services
+Mr. Lores has served as President, Printing, Solutions and Services since November 2015. Throughout his 26-year tenure with Hewlett-Packard Company, Mr. Lores held leadership positions across the organization, most recently leading the Separation Management Office for HP Inc. Previously, Mr. Lores was the Senior Vice President and General Manager for Business Personal Systems. Before his Business Personal Systems role, Mr. Lores was Senior Vice President of Customer Support and Services.
+Marie Myers; age 50; Global Controller and Head of Finance Services
+Ms. Myers has served as Global Controller and Head of Finance Services since November 2015. Prior to that from October 2014 to October 2015, Ms. Myers was in the Separation Management Office at Hewlett-Packard Company and held other key leadership roles at Hewlett-Packard Company, including Vice President for Printing and Personal Systems, HQ and Finance from May 2012 to October 2015 and Vice President of Finance for Personal Systems Group, Americas from March 2010 to May 2012.
+Kim Rivera; age 50; Chief Legal Officer and General Counsel
+Ms. Rivera has served as Chief Legal Officer, General Counsel and Corporate Secretary since November 2015. Prior to joining us, she served as the Chief Legal Officer and Corporate Secretary at DaVita Health Care Partners where she was employed from 2010 to 2015. From 2006 to 2009, she served as Vice President and Associate General Counsel at The Clorox Company. Prior to that, Ms. Rivera served as Vice President Law and Chief Litigation Counsel to Rockwell Automation as well as General Counsel for its Automation Controls and Information Group.
+Dion J. Weisler; age 51; President and Chief Executive Officer
+Mr. Weisler has served as President and Chief Executive Officer since November 2015. Previously, he served as Executive Vice President of the Printing and Personal Systems Group of Hewlett-Packard Company from June 2013 to November 2015 and as Senior Vice President and Managing Director, Printing and Personal Systems, Asia Pacific and Japan from January 2012 to June 2013. Prior to joining Hewlett-Packard Company, he was Vice President and Chief Operating Officer of the Product and Mobile Internet Digital Home Groups at Lenovo Group Ltd., a technology company, from January 2008 to December 2011.
+Employees
+We had approximately 55,000 employees worldwide as of October 31, 2018.
+Available Information
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are available on our website at http://www.hp.com/investor/home, as soon as reasonably practicable after HP electronically files such reports with, or furnishes those reports to, the Securities and Exchange Commission. HP’s Corporate Governance Guidelines, Board of Directors’ committee charters (including the charters of the Audit Committee, Finance, Investment and Technology Committee, HR and Compensation Committee, and Nominating, Governance and Social Responsibility Committee) and code of ethics entitled “Integrity at HP” (none of which are incorporated by reference herein) are also available at that same location on our website. If the Board grants any waivers from Integrity at HP to any of our directors or executive officers, or if we amend Integrity at HP, we will, if required, disclose these matters via updates to our website at http://www.hp.com/investor/home on a timely basis. We encourage investors to visit our website from time to time, as information is updated and new information is posted.  The content of our website is not incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the SEC, and any references to our website are intended to be inactive textual references only.
+Stockholders may request free copies of these documents from:
+10
+
+HP Inc.
+Attention: Investor Relations
+1501 Page Mill Road,
+Palo Alto, CA 94304
+http://www.hp.com/investor/informationrequest
+Additional Information
+Microsoft® and Windows® are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Intel® is a trademark of Intel Corporation in the United States and/or other countries. AMD is a trademark of Advanced Micro Devices, Inc. Google™ and Google Chrome™ are trademarks of Google LLC. All other trademarks are the property of their respective owners.

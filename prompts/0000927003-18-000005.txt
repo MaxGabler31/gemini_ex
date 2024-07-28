@@ -1,0 +1,186 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+
+Overview
+Advanced Energy provides highly-engineered, mission-critical, precision power conversion, measurement and control solutions to our global customers. We design, manufacture, sell and support precision power products that transform electrical power into various usable forms. Our power conversion products refine, modify and control the raw electrical power from a utility and convert it into power that is predictable, repeatable and customizable. Our products enable thin film manufacturing processes such as plasma enhanced chemical and physical deposition and etch for various semiconductor and industrial products, industrial thermal applications for material and chemical processes, and specialty power for critical industrial applications. We also supply thermal instrumentation products for advanced temperature measurement and control in these markets. Our network of global service support centers provide local repair and field service capability in key regions as well as provide upgrades and refurbishment services, and sales of used equipment to businesses that use our products.
+On July 3, 2017, Advanced Energy acquired all of the issued and outstanding shares of capital stock of Excelsys Holdings Limited (“Excelsys”), an electronics manufacturer in Cork, Ireland. This acquisition is part of Advanced Energy’s strategy to continue to grow and diversify its revenue through organic and inorganic opportunities. The high-efficiency, low voltage, configurable power supplies that Excelsys manufactures for medical and industrial applications will further enhance Advanced Energy’s product portfolio.  See Note 2. Business Acquisition in Item 8 "Financial Statements and Supplementary Data."
+We incorporated in Colorado in 1981 and reincorporated in Delaware in 1995. Our executive offices are located at 1625 Sharp Point Drive, Fort Collins, Colorado 80525, and our telephone number is 970-407-4670.
+Products and Services
+Our products are designed to enable new process technologies, improve productivity, and lower the cost of ownership for our customers. We also provide repair and maintenance services for all of our products.
+We principally serve original equipment manufacturers ("OEM") and end customers in the semiconductor, flat panel display, high voltage, solar panel, and other industrial capital equipment markets. Our products are used in diverse markets, applications, and processes including the manufacture of capital equipment for semiconductor device manufacturing, thin film applications for thin film renewables and architectural glass, and for other thin film applications including flat panel displays, and industrial coatings. These markets can be cyclical in nature. Therefore, demand for our products and our financial results can change as demand for manufacturing equipment and repair and maintenance services change in response to consumer demand. Other factors, such as global economic and market conditions and technological advances in the applications we serve can also have an impact on our financial results, both positively and negatively.
+Our process power systems include direct current ("DC"), pulsed DC, low frequency, high voltage, and radio frequency ("RF") power supplies, matching networks, remote plasma sources for reactive gas applications and RF instrumentation. These power conversion systems refine, modify, and control the raw electrical power from a utility and convert it into power that may be customized and is predictable and repeatable.
+Our power control modules and thermal instrumentation products are used in the semiconductor industry, including adjacent thin film applications for solar PV and light emitting diode ("LED") industries, and heavy industries, for thermal control and temperature measurement solutions for applications in which time-temperature cycles affect material properties, productivity, and yield. These products are used in rapid thermal processing, chemical vapor deposition, crystal growing, and other semiconductor and solar applications requiring non-contact temperature measurement. They are also used in chemical processing, glass manufacturing and numerous other general industrial power applications.
+Our high voltage products are designed to meet the demanding requirements of OEMs worldwide. Our high voltage power solutions and custom-built power conversion products offer high frequency, high voltage topology, providing wide input and output operating ranges while retaining excellent stability and efficiencies ranging from benchtop and rackmount systems to micro-size printed circuit board mount modules. The products target applications including semiconductor wafer 
+ 3
+
+processing and metrology, scientific instrumentation, mass spectrometry, industrial printing and analytical x-ray systems for industrial and analytical applications.
+Our solutions are designed to meet the demanding requirements of global OEMs in the Industrial, Medical and MIL-COTS (Commercial-off-the-shelf) verticals. Our low voltage products deliver excellence in efficiency, flexibility, performance and reliability. In the Medical industry our solutions are used in a variety of applications including: clinical diagnostic equipment, lasers, X-ray machines, CT-scanners and MRI scanners. In the Industrial vertical our products are commonly used in test and measurement, lasers, optical inspection equipment and scientific instrumentation. We design and manufacture MIL-COTS power supplies that meet the high reliability and often harsh operating environments of the military electronics industry and are ideal for use in a variety of applications including: radar systems, data acquisition, communications equipment, test and measurement equipment.
+Our global support services group offers in-warranty and out-of-warranty repair services in the regions in which we operate, providing us with preventive maintenance opportunities. Our customers continue to pursue low cost of ownership of their capital equipment and are increasingly sensitive to the significant costs of system downtime. They expect that suppliers offer comprehensive local repair service and customer support. To meet these market requirements, we maintain a worldwide support organization comprising of both direct and indirect activities through partnership with local distributors primarily in the United States ("U.S."), the People’s Republic of China ("PRC"), Japan, South Korea, Taiwan, Germany, and United Kingdom.
+As of December 31, 2015, we discontinued our Inverter production, engineering, and sales product line representing a strategic shift in our business. As such, all Inverter revenues, costs, assets and liabilities are reported in Discontinued Operations for all periods presented herein and we currently report as a single unit. However, extended warranties historically sold and reflected as “Deferred Revenue” on our Consolidated Balance Sheets, represent future revenue and service costs to be incurred by our global services group and are reflected as continuing operations for historical periods and future periods. See Note 3. Discontinued Operations in Item 8 "Financial Statements and Supplementary Data."
+Markets
+Our products compete in markets for high tech applications using capital equipment. Our markets are not generally subject to seasonality; however, these markets are cyclical due to sudden changes in customers’ manufacturing capacity requirements and spending, which depend in part on capacity utilization, demand for customers’ products, inventory levels relative to demand, government incentives and subsidies, and access to affordable capital. For more information related to the markets in which we compete and the current environment in those markets, see Business Environment and Trends in Item 7 "Management's Discussion and Analysis of Financial Condition and Results of Operations."
+SEMICONDUCTOR CAPITAL EQUIPMENT
+Customers in the semiconductor capital equipment market incorporate our products into equipment that make integrated circuits. Our power conversion systems provide the energy to enable thin film processes, such as deposition and etch, and high voltage applications such as ion implant, wafer inspection and metrology.
+Our thermal instrumentation products measure the temperature of the processed substrate or the process chamber. Our power control modules are used in rapid thermal processing applications and for epitaxial growth applications for use in photonics, microelectronics, and photovoltaics. Our remote plasma sources deliver ionized gases for reactive chemical processes used in cleaning, surface treatment, and gas abatement. Precise control over the energy delivered to plasma-based processes enables the production of integrated circuits with reduced feature sizes and increased speed and performance.
+INDUSTRIAL POWER
+Our industrial power capital market is comprised of products for Thin Films Industrial Power and Specialty Power applications.
+
+• | Thin Films Industrial Power applications include glass coating, glass manufacturing, flat panel displays, solar cell manufacturing, and similar thin film manufacturing, including data storage, decorative, hard and optical coating.
+
+
+• | Specialty Power applications include power control modules and thermal instrumentation products for metal fabrication and treatment, and material and chemical processing. Our high voltage industrial applications
+
+ 4
+
+include scanning electron microscopy, medical equipment, and instrumentation applications such as x-ray and mass spectroscopy, as well as general electron gun sources for scientific and industrial applications.
+GLOBAL SUPPORT
+Our network of global service support centers provides local repair and field service capability in key regions as well as provides upgrades and refurbishment services, and sales of used equipment to businesses that use our products. 
+Customers
+Our products are sold worldwide to approximately 280 OEMs and integrators and directly to more than 1,600 end users. Our ten largest customers accounted for approximately 70.4% of our sales in 2017, 67.7% of our sales in 2016, and 61.2% of our sales in 2015. We expect that the sale of products to our largest customers will continue to account for a significant percentage of our sales for the foreseeable future.
+Applied Materials Inc., our largest customer, accounted for 33.5% of our sales in 2017, 35.2% of our sales in 2016, and 29.8% of our sales in 2015. Lam Research accounted for 23.1% of our sales in 2017, 20.7% of our sales in 2016, and 20.3% of our sales in 2015. No other customer accounted for greater than 10% of our sales in 2017, 2016, or 2015. The loss of Applied Materials, Inc. or Lam Research as a customer could have a material adverse effect on our results of operations.
+Backlog
+Our backlog was approximately $131.3 million at December 31, 2017, an 89.7% increase from $69.2 million at December 31, 2016. This increase resulted primarily due to increased demand in the semiconductor and industrial thin film markets. For more information related to our expectations for the markets we serve, see Business Environment and Trends in Item 7 "Management's Discussion and Analysis of Financial Condition and Results of Operations." Backlog orders are firm orders scheduled to be filled and shipped in the next 12 months.
+Backlog orders are not necessarily an indicator of future sales levels because of variations in lead times and customer production demand pull systems. Customers may delay delivery of products or cancel orders prior to shipment, subject to possible cancellation penalties. Delays in delivery schedules and/or customer changes to backlog orders during any particular period could cause a decrease in sales and have a material adverse effect on our business and results of operations.
+Marketing, Sales and Distribution
+We sell our products through direct and indirect sales channels in North America, Europe and Asia. Our sales operations are primarily located in the United States, the PRC, the United Kingdom, Germany, Japan, South Korea, India, Singapore and Taiwan. In addition to a direct sales force, we have independent sales representatives and distributors that support our selling efforts. We maintain customer service offices at many of the locations listed above, as well as other sites near our customers' locations. We believe that customer service and technical support are important competitive factors and are essential to building and maintaining close, long-term relationships with our customers.
+The following table presents our net sales by geographic region for the years ended December 31, 2017, 2016, and 2015. Sales are attributed to individual countries based on customer location.
+
+ | Years ended December 31,
+Sales to external customers: | 2017 | | 2016 | | 2015
+United States | $ | 453,095 | | | $ | 327,397 | | $ | 268,257
+Canada | 37 | | | 161 | | | 195 
+North America | 453,132 | | | 327,558 | | | 268,452
+People's Republic of China | 34,045 | | | 16,207 | | | 12,687 
+Other Asian countries | 104,595 | | | 77,638 | | | 61,839 
+Asia | 138,640 | | | 93,845 | | | 74,526 
+Germany | 57,351 | | | 48,589 | | | 46,719 
+United Kingdom | 14,299 | | | 13,712 | | | 25,100 
+Other European Countries | 7,590 | | | — | | | 14 
+Europe | 79,240 | | | 62,301 | | | 71,833 
+Total sales | $ | 671,012 | | | $ | 483,704 | | $ | 414,811
+
+ 5
+
+Total sales to all countries outside of the U.S. totaled $217.9 million, $156.3 million, and $146.6 million in the years ended December 31, 2017, 2016, and 2015, respectively.
+See Item 1A "Risk Factors" for a discussion of certain risks related to our foreign operations.
+Manufacturing
+The manufacturing of our products is performed in Shenzhen, PRC; Ronkonkoma, New York; Littlehampton, United Kingdom; and Vancouver, Washington. Manufacturing in these locations, primarily the PRC, exposes us to risks, such as exchange controls and currency restrictions, changes in local economic conditions, changes in PRC laws and regulations, government actions, inability to meet customer demands if one of our facilities becomes impaired, and unsettled political conditions.
+Manufacturing requires raw materials, including a wide variety of mechanical and electrical components, to be manufactured to our specifications. We use numerous companies, including contract manufacturers, to supply parts for the manufacture and support of our products. Although we make reasonable efforts to assure that parts are available from multiple qualified suppliers, some key parts may be obtained from a sole supplier or a limited group of suppliers. We seek to reduce costs and to lower the risks of production and service interruptions, as well as shortages of key parts by:
+
+• | selecting and qualifying alternate suppliers for key parts using rigorous technical and commercial evaluation of suppliers' products and business processes including testing their components' performance, quality, and reliability on our power conversion product at our customers' and their customer's processes. The qualification process for Precision Power, particularly as it pertains to semiconductor customers, follows semiconductor industry standard practices, such as “copy exact”;
+
+
+• | monitoring the financial condition of key suppliers;
+
+
+• | maintaining appropriate inventories of key parts, including making last time purchases of key parts when notified by suppliers that they are ending the supply of those parts;
+
+
+• | qualifying new parts on a timely basis and in geographies that reduce costs without degradation in quality;
+
+
+• | locating certain manufacturing operations in areas that are closer to suppliers and customers; and
+
+
+• | competitively sourcing parts through electronic bidding tools to ensure the lowest total cost is achieved for the parts needed in our products.
+
+Intellectual Property
+We seek patent protection for inventions governing new products or technologies as part of our ongoing research and development. We currently hold 121 United States patents and 91 foreign-issued patents, and have 79 patent applications pending in the United States, Europe and Asia. A substantial majority of our patents relate to our Process Power business. Generally, our efforts to obtain international patents have been concentrated in the industrialized countries within Europe and Asia because there are other manufacturers and developers of power conversion and control systems in those countries, as well as customers for those systems for which our intellectual property applies.
+Litigation may, from time to time, be necessary to enforce patents issued to us, to protect trade secrets or know-how owned by us, to defend us against claimed infringement of the rights of others, or to determine the scope and validity of the proprietary rights of others. See "We are highly dependent on our intellectual property" in Item 1A "Risk Factors."
+Competition
+The markets we serve are highly competitive and characterized by rapid technological development and changing customer requirements. No single company dominates any of our markets. Significant competitive factors in our markets include product performance, compatibility with adjacent products, price, quality, reliability, and level of customer service and support.
+We have seen an increase in global competition in the markets in which we compete, especially from Asian and European-based component suppliers. We encounter substantial competition from foreign and domestic companies for each of our product lines. Some of our competitors have greater financial and other resources than we do. In some cases, competitors are smaller than we are, but are well established in specific product niches. MKS Instruments, Inc., COMET Holding AG., Daihen Corp., TRUMPF Hüttinger GmbH + Co. KG., Comdel, Inc., Kyosan Electric Mfg. Co., Ltd., New Power Plasma Co., Ltd., EN Technologies Inc., Seren IPS, Inc.,and Adtec Plasma Tech. Co., Ltd. compete with our power conversion products 
+ 6
+
+for thin film processing. Spellman High Voltage Electronics Corp., Crane Co., and Matsusada Precision, Inc. offer products that compete with our high voltage products. LumaSense Technologies, Inc., CI Systems Ltd., BASF SE., and LayTec AG. offer products that compete with our thermal instrumentation products. Eurotherm, Control Concepts Inc., CD Automation, and Spang Power Electronics offer products that compete with our power control modules. Artesyn Embedded Technologies, Cosel Co., LTD, TKD-Lambda Americas Inc., Mean Well, Vox Power and XP Power compete with our low voltage products.
+Additionally, a focus on local content is causing new competitors to emerge around the world, with strong support from local governments, industry leaders, and investors.
+Our ability to continue to compete successfully in these markets depends on our ability to make timely introductions of product enhancements and new products, to localize these development and production activities in key world regions, and to produce quality products. We expect our competitors will continue to improve the design and performance of their products, and introduce new products with competitive performance characteristics. We believe that we compete effectively with respect to these factors, although we cannot assure that we will be able to compete effectively in the future.
+Research and Development
+The market for our precision power conversion, thermal, and high voltage products is characterized by ongoing technological changes. We believe that continued and timely development of new highly differentiated products and enhancements to existing products to support end user and OEM requirements is necessary for us to maintain a competitive position in the markets we serve. Accordingly, we continue to devote a significant portion of our personnel and financial resources to research and development projects and seek to maintain close relationships with our key customers and other industry leaders in order to remain responsive to their product requirements now and in the future.
+Research and development expenses were $58.0 million in 2017, $44.4 million in 2016, and $39.6 million in 2015, representing 8.6% of our sales in 2017, 9.2% of our sales in 2016, and 9.5% of our sales in 2015.
+Employees
+As of December 31, 2017, we had a total of 1,876 employees. Our employees are not represented by unions, except for statutory organization rights applicable to our employees in the PRC and Germany. We believe that our continued success depends, in part, on our ability to attract and retain qualified personnel. We consider our relations with our employees to be good.
+Effect of Environmental Laws
+We are subject to federal, state, and local environmental laws and regulations, as well as the environmental laws and regulations of the foreign federal and local jurisdictions in which we have manufacturing and service facilities. We believe we are in material compliance with all such laws and regulations.
+Compliance with federal, state, and local laws and regulations has not had, and is not expected to have, an adverse effect on our capital expenditures, competitive position, financial condition, or results of operations.
+Website Access
+Our website address is www.advanced-energy.com. We make available, free of charge on our website, our Annual Report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and all amendments to these reports as soon as reasonably practicable after filing such reports with, or furnishing them to, the Securities and Exchange Commission (“SEC”). Such reports are also available at www.sec.gov. Information contained on our website is not incorporated by reference in, or otherwise part of, this Annual Report on Form 10-K nor any of our other filings with the SEC.
+Special Note Regarding Forward-Looking Statements
+This Annual Report on Form 10-K includes or incorporates by reference “forward-looking statements” within the meanings of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. All statements contained or incorporated by reference in this Annual Report on Form 10-K, other than statements of historical fact, are “forward-looking statements.” For example, statements relating to our beliefs, expectations, plans, projections, forecasts, goals, and estimates are forward-looking statements, as are statements that specified actions, conditions, or circumstances will continue or change. Forward-looking statements involve risks and uncertainties. In some cases, forward-looking statements can be identified by the inclusion of words such as "believe," "expect," "plan," "anticipate," "estimate," "may," "might," "could," "should," "will," "continue," "intend," "goal," and similar words.
+ 7
+
+Some of the forward-looking statements in this Annual Report on Form 10-K are, or reflect, our expectations or projections relating to:
+
+• | our future revenues;
+
+
+• | our future sales, including backlog orders;
+
+
+• | our ability to be successful in the design win process with our OEM customers;
+
+
+• | unanticipated costs in fulfilling our warranty obligations for solar inverters;
+
+
+• | our future gross profit;
+
+
+• | our competition;
+
+
+• | market acceptance of, and demand for, our products;
+
+
+• | the fair value of our assets and financial instruments;
+
+
+• | research and development expenses;
+
+
+• | selling, general, and administrative expenses;
+
+
+• | sufficiency and availability of capital resources;
+
+
+• | capital expenditures;
+
+
+• | our share repurchase program;
+
+
+• | our tax assets and liabilities;
+
+
+• | our other commitments and contingent liabilities;
+
+
+• | adequacy of our reserve for excess and obsolete inventory;
+
+
+• | adequacy of our warranty reserves;
+
+
+• | restructuring activities and expenses;
+
+
+• | the integration of our acquisitions;
+
+
+• | general global political and economic conditions; and
+
+
+• | industry trends.
+
+Our actual results could differ materially from those projected or assumed in our forward-looking statements because forward-looking statements by their nature are subject to risks and uncertainties. Factors that could contribute to these differences or prove our forward-looking statements, by hindsight, to be overly optimistic or unachievable include the factors described in Item 1A “Risk Factors.” Other factors might also contribute to the differences between our forward-looking statements and our actual results. We assume no obligation to update any forward-looking statement or the reasons why our actual results might differ.
+Executive Officers of the Registrant
+Our executive officers, their positions and their ages as of December 31, 2017 were as follows:
+Yuval Wasserman, 63, has served as President & Chief Executive Officer, and as a director since October 2014. Mr. Wasserman joined us in August 2007 as Senior Vice President, Sales, Marketing and Service. In October 2007, Mr. Wasserman was promoted to Executive Vice President, Sales, Marketing and Service. In April 2009, he was promoted to Executive Vice President and Chief Operating Officer of the Company, and then in August 2011, he was promoted to President of the Thin Films Business Unit. Prior to joining the Company, Mr. Wasserman served as the President, and later as Chief Executive Officer, of Tevet Process Control Technologies, Inc., a semiconductor metrology company, until July 2007. Prior to that, he held senior executive and general management positions at Boxer Cross (a metrology company acquired by Applied Materials, Inc.), Fusion Systems (a plasma strip company that is a division of Axcelis Technologies, Inc.), and AG Associates (a semiconductor capital equipment company focused on rapid thermal processing). Mr. Wasserman started his career at National Semiconductor, Inc., where he held various process engineering and management positions. Mr. Wasserman was on 
+ 8
+
+the Board of Directors of Syncroness, Inc., an outsourced engineering and product development company, from 2010 to 2017 when it was sold, and joined the Board of Directors of FARO Technologies, Inc., a publicly traded, manufacturer of three-dimensional (3D) measurement, imaging and realization systems,in December 2017. Mr. Wasserman is a National Association of Corporate Directors (NACD) Governance Fellow. Mr. Wasserman has a BSc degree in chemical engineering from BenGurion University in Israel.
+Thomas Liguori, 59, was our Executive Vice President and Chief Financial Officer from May 2015 until his resignation on January 26, 2018. Prior to joining Advanced Energy, he served as Executive Vice President and Chief Financial Officer at Multi-Fineline Electronix, Inc. since 2008. Multi-Fineline Electronix, Inc. is one of the world’s largest producers of flexible printed circuits and flexible circuit assemblies. Prior to Multi-Fineline Electronix, Inc., Mr. Liguori served as Chief Financial Officer at Hypercom, Inc. from November 2005 to February 2008, where he designed and built the global finance and administration functions. From February 2005 to November 2005, Mr. Liguori served as Vice President, Finance and Chief Financial Officer at Iomega Corporation, a publicly traded provider of storage and network security solutions, and from April 2000 to February 2005, as Chief Financial Officer at Channell Commercial Corporation, a publicly traded designer and manufacturer of telecommunications equipment. Prior to that time, Mr. Liguori served as Chief Financial Officer of Dole Europe for Dole Food Company, serving as the top-ranking financial and IT executive in Dole’s operations in Europe, Africa and the Middle East, and as Vice President of Finance at Teledyne Technologies International Corp. Mr. Liguori began his career with Honeywell Ltd. and served as a management consultant with Deloitte & Touche LLP. Mr. Liguori holds a Bachelor’s in Business Administration from Boston University and completed a M.B.A. in Finance, from Arizona State University. He is a Certified Management Accountant and a Certified Financial Manager. Mr. Liguori is a National Association of Corporate Directors (NACD) Board Leadership Fellow.
+Thomas O. McGimpsey, 56, joined us in April 2009 as Vice President and General Counsel and was promoted to Executive Vice President of Corporate Development (M&A) and General Counsel in August 2011, and held the corporate development executive position until mid-2015. In January 2018, Mr. McGimpsey was appointed as the Interim Chief Financial Officer and now has the combined role of Executive Vice President, Chief Financial Officer & General Counsel. Mr. McGimpsey also managed Advanced Energy’s IT Department from 2010 to 2013. Prior to joining the Company, from February 2008 to April 2009, Mr. McGimpsey held the position of Vice President of Operations at First Data Corporation. During 2007, Mr. McGimpsey was a consultant and legal advisor to various companies. From July 2000 to January 2007, Mr. McGimpsey held various positions with McDATA Corporation such as Executive Vice President of Business Development & Chief Legal Officer, Senior Vice President & General Counsel and Vice President of Corporate Development. From February 1998 until its sale in June 2000, Mr. McGimpsey held the position of Director and Senior Corporate Attorney at US WEST, Inc. From 1991 to 1998, Mr. McGimpsey was in private practice at national law firms. From 1984 to 1988, Mr. McGimpsey was a Senior Engineer for Software Technology, Inc. Mr. McGimpsey has been on the Board of Directors of CPP, Inc., an international engineering services company since August 2015 and has been a Commissioner to the Colorado Commission on Higher Education since July 2015. Mr. McGimpsey received his Executive M.B.A. (with honors) from Colorado State University, his Juris Doctor degree from the University of Colorado and his B.S. degree in Computer Science (with a minor in electrical systems) from Embry-Riddle Aeronautical University. Mr. McGimpsey is a National Association of Corporate Directors (NACD) Board Leadership Fellow.

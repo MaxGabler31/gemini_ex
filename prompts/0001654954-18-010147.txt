@@ -1,0 +1,1349 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ Item 1.    Business.
+  
+  General
+ 
+  LightPath Technologies, Inc. (“LightPath”, the “Company”, “we”, “our”, or “us”) was incorporated under Delaware law in 1992 as the successor to LightPath Technologies Limited Partnership, a New Mexico limited partnership formed in 1989, and its predecessor, Integrated Solar Technologies Corporation, a New Mexico corporation formed in 1985. We manufacture optical components and higher level assemblies, including precision molded glass aspheric optics, molded and diamond-turned infrared aspheric lenses and other optical materials used to produce products that manipulate light.  We design, develop, manufacture and distribute optical components and assemblies utilizing advanced optical manufacturing processes. Our products are incorporated into a variety of applications by our customers in many industries, including defense products, medical devices, laser aided industrial tools, automotive safety applications, barcode scanners, optical data storage, hybrid fiber coax datacom, telecommunications, machine vision and sensors, among others. All the products we produce enable lasers and imaging devices to function more effectively.  For example:
+
+● | Molded glass aspheres and assemblies are used in various high performance optical applications primarily based on laser technology; 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Infrared molded lenses, diamond turned, conventional ground and polished and CNC ground lenses and assemblies using short (“SWIR”), mid (“MWIR”) and long (“LWIR”) wave materials imaging are used in applications for firefighting, predictive maintenance, homeland security, surveillance, automotive, cell phone infrared cameras, pharmaceutical research & development and defense; and
+● | Collimator assemblies are used in applications involving light detection and ranging (“LIDAR”) technology for autonomous vehicles, such as fork lifts and other automated warehouse equipment. 
+
+
+ 
+ 
+  In November 2005, we formed LightPath Optical Instrumentation (Shanghai) Co., Ltd (“LPOI”), a wholly-owned subsidiary, located in Jiading, People’s Republic of China. The LPOI facility (the “Shanghai Facility”) is primarily used for sales and support functions.
+  
+  In December 2013, we formed LightPath Optical Instrumentation (Zhenjiang) Co., Ltd. (“LPOIZ”), a wholly-owned subsidiary located in the New City district, of the Jiangsu province, of the People’s Republic of China. LPOIZ’s 39,000 square foot manufacturing facility (the “Zhenjiang Facility”) serves as our primary manufacturing facility in China and provides a lower cost structure for production of larger volumes of optical components and assemblies.
+  
+  In December 2016, we acquired ISP Optics Corporation, a New York corporation (“ISP”), and its wholly-owned subsidiary, ISP Optics Latvia, SIA, a limited liability company founded in 1998 under the Laws of the Republic of Latvia (“ISP Latvia”). ISP is a vertically integrated manufacturer offering a full range of infrared products from custom infrared optical elements to catalog and high-performance lens assemblies. Historically, ISP’s Irvington, New York facility (the “Irvington Facility”) functioned as its global headquarters for operations, while also providing manufacturing capabilities, optical coatings, and optical and mechanical design, assembly, and testing. In July 2018, we announced plans to relocate this manufacturing facility to our existing facilities in Orlando, Florida and Riga, Latvia. We expect the relocation to occur in phases through the end of fiscal 2019. ISP Latvia is a manufacturer of high precision optics and offers a full range of infrared products, including catalog and custom infrared optics. ISP Latvia’s manufacturing facility is located in Riga, Latvia (the “Riga Facility”). See Note 3, Acquisition of ISP Optics Corporation, to the Consolidated Financial Statements, for additional information.
+  
+   
+ 3
+
+
+  
+ 
+  Product Groups and Markets 
+ 
+  Overview
+  
+  In 2015, we organized our business based on five product groups: low volume precision molded optics (“LVPMO”), high volume precision molded optics (“HVPMO”), infrared products, specialty products, and non-recurring engineering (“NRE”). Our LVPMO product group consists of precision molded optics with a sales price greater than $10 per lens and is usually sold in smaller lot quantities. Our HVPMO product group consists of precision molded optics with a sales price of less than $10 per lens and is usually sold in larger lot quantities. Our infrared product group is comprised of both molded and turned lens and assemblies and includes all of the products offered by ISP. Our specialty product group is comprised of value-added products, such as optical subsystems, assemblies and collimators. Our NRE product group consists of those products we develop pursuant to product development agreements that we enter into with customers. Typically, customers approach us and request that we develop new products or applications for our existing products to fit their particular needs or specifications. The timing and extent of any such product development is outside of our control. At the beginning of fiscal 2019, we combined the LVPMO and HVPMO product groups into a single precision molded optics (“PMO”) product group. In addition, the NRE product group will now be added to the specialty product group. Accordingly, beginning with our Quarterly Report on Form 10-Q for the quarter ended September 30, 2018, we will present three product groups: PMO, infrared, and specialty products.
+  
+  We currently serve the following major markets: industrial, commercial, defense, medical, and telecommunications. Within our product groups, we have various applications that serve these major markets. For example, our HVPMO lenses are typically used in industrial tools, especially in China. Our infrared products can also be used in various applications within our major markets. Currently, sales of our infrared products are primarily for customers in the industrial market that use thermal imaging cameras. Our infrared products can also be used for gas sensing devices, spectrometers, night vision systems, automotive driver systems, thermal weapon gun sights, and infrared counter measure systems, among others.
+  
+  Within the larger overall markets, which are estimated to be in the multi-billions of dollars, we believe there is a market of approximately $1.7 billion for our current products and capabilities. We continue to believe our products will provide significant growth opportunities over the next several years and, therefore, we will continue to target specific applications in each of these major markets. In addition to these major markets, a large percentage of our revenues are derived from sales to unaffiliated companies that purchase our products to fulfill their customer’s orders, as well as unaffiliated companies that offer our products for sale in their catalogs.
+  
+  Product Groups
+  
+  The following further discusses the various products we offer and certain growth opportunities we anticipate for each such product.
+  
+   LVPMO and HVPMO Product Groups. Aspheric lenses are known for their optimal performance. Aspheric lenses simplify and shrink optical systems by replacing several conventional lenses. However, aspheric lenses are difficult and costly to machine. Our glass molding technology enables the production of both low and high volumes of aspheric optics, while still maintaining the highest quality at an affordable price. Molding is the most consistent and economical way to produce aspheres and we have perfected this method to offer the most precise molded aspheric lenses available.
+  
+  In recent years, sales of both our LVPMOs and HVPMOs have increased, but a slowdown in the telecommunications market caused a decrease in revenue generated by our LVPMO and HVPMO product groups for fiscal 2018, as compared to fiscal 2017. We continue to expect growth for the next several years, as indications are that we have reached what appears to be the trough of the downward cycle for the telecommunications market. We believe we are nearing the beginning of a multi-year growth cycle of the optical market. This multi-year growth cycle is driven by four major trends: data centers; digital video distribution; wireless broadband; and machine-to-machine interface. Cloud computing has caused a shift in enterprise technology with increased spending for software-as-a-service (“SAAS”) and infrastructure-as-a-service (“IAAS”) capital investments. Delivery of applications and technology using SAAS or IAAS requires larger and faster network bandwidth. The explosion of mobile devices, which includes smartphones and tablet devices, is also requiring the expansion of network bandwidth as users are receiving and transferring larger amounts of data via their mobile devices. By 2021, it is estimated that there will be 1.5 mobile devices per capita. It is also expected that there will be approximately 11.6 billion mobile-connected devices by 2021, including machine-to-machine (“M2M”) modules, exceeding the world’s projected population of 7.8 billion. Individuals are also streaming more video on their mobile devices or through their smart TVs. This type of video distribution, which is estimated to be 80% of all network traffic by 2019, is creating a huge demand for larger and faster bandwidth. Finally, machine-to-machine connection technology allows wireless and wired systems to communicate with other devices of the same type. This type of networking often requires bandwidth in order for the machines to communicate with each other.  All of these trends require the expansion of bandwidth, and thus, the growth of optical communication networks. Our products, such as our precision molded optical lenses, can be used as a component in optical communication networks. We also anticipate growth in our precision molded aspheres product revenues as we add new product lenses and applications for a variety of markets and industries, including laser tools, telecom transceivers, micro-projectors, scientific and bench top lasers, range finders, medical devices, barcode scanners and laser based spectrometers.
+  
+   
+ 4
+
+
+  
+ 
+    ●
+   LVPMOs. The growth we experienced in our LVPMO business in previous years was driven by a variety of market applications, such as medical endoscopes, medical flow cytometers, scientific and bench-top lasers, laser based spectrometers, military telecom, and telescopic weapon sights.  These products have precision specifications and 100% testing to verify that our lenses conform to a higher level of performance than most of the competition in these markets. 
+
+ 
+    ●
+ HVPMOs.  The growth we experienced in our HVPMO business in previous years was driven by market applications supporting mostly the laser diode applications for high volume markets in laser tools, range finders, laser gun sights, barcode scanners, and micro-projectors. The same basic tooling used for high precision in the LVPMO applications allows us to realize a competitive advantage for high volume production that benefits the end customer, while maintaining low price targets. Markets for laser diode applications are expected to grow substantially in the next few years as applications such as LIDAR, which uses light and radar for distance tracking and speed detection, headlights for automobiles, and many other related disciplines begin to rely more and more on laser technology. There are also indications that the telecommunications market will recover, particularly as the access networks around the world are being upgraded to accommodate the conversion to 5G applications, which will provide us with opportunities for growth.
+
+ 
+   Infrared Product Group. Advances in chalcogenide materials have enabled compression molding for MWIR and LWIR optics in a process similar to precision molded lenses. Our molded infrared optics technology enables high performance, cost-effective infrared aspheric lenses that do not rely on traditional diamond turning or lengthy polishing methods. Utilizing precision molded aspheric optics significantly reduces the number of lenses required for typical thermal imaging systems and the cost to manufacture these lenses. Molding is an excellent alternative to traditional lens processing methods particularly where volume and repeatability is required.
+  
+  Through ISP, our wholly-owned subsidiary, we also offer germanium, silicon or zinc selenide aspheres and spherical lenses which are manufactured by diamond turning. This manufacturing technique allows us to offer larger lens sizes and the ability to use other optical materials which cannot be effectively molded. ISP gives us the ability to meet complex optical challenges that demand more exotic optical substrate materials that are non-moldable.
+  
+  Overall, we anticipate growth for infrared optics and increased requirements for systems requiring aspheric optics. Infrared systems, which include thermal imaging cameras, gas sensing devices, spectrometers, night vision systems, automotive driver awareness systems, such as blind spot detection, thermal weapon sights, and infrared counter measure systems, represent a market that is forecasted to grow from $4.8 billion in 2017 to $7.3 billion by 2023, at a compound annual growth rate of 7.18% during the forecast period. As infrared imaging systems become widely available, the cost of optical components needs to decrease before the market demand will increase. Our aspheric molding process is an enabling technology for the cost reduction and commercialization of infrared imaging systems utilizing smaller lenses because the aspheric shape of our lenses enables system designers to reduce the lens element in a system and provide similar performance at a lower cost. In addition, there is a trend toward utilizing smaller size sensors in these devices which require smaller size lenses and that fits well with our molding technology.
+  
+   Specialty Product Group. We have a growing group of specialty products and assemblies that take advantage of our unique technologies and capabilities. These products include custom optical designs, mounted lenses, optical assemblies, and collimator assemblies. We expect growth from defense communications programs and commercial optical sub-assemblies.
+  
+  We design, build, and sell optical assemblies into markets for test and measurement, medical devices, military, industrial, and communications based on our proprietary technologies. Many of our optical assemblies consist of several products that we manufacture.
+  
+  Growth Strategy
+  
+  Our strategy is to leverage our technology, know-how, established low cost manufacturing capability and partnerships to grow our business. We plan to accomplish this growth through the implementation of the following objectives:
+  
+    ●
+   Leverage our Leadership to Drive Organic Growth. We plan to continue to capitalize on our global operations network, distribution infrastructure, and technology to pursue global growth. We will focus our efforts on those geographic areas and end products that we believe offer the most attractive growth and long-term profit prospects.
+
+ 
+    ●
+   Focus on Cash Flow Generation. Our goal is to focus on cash flow generation and return on invested capital through the continuing optimization of our cost structure, improvement in working capital and supply chain efficiencies, and a disciplined approach to capital expenditures. We have a proven track record of mitigating fixed cost inflation with cost saving actions and productivity improvements. We intend to continue to identify incremental cost saving opportunities based in large part on benchmarks of industry-leading performance and productivity improvements by utilizing our engineering and manufacturing technology expertise and partnerships with low cost producers. Our goal is to maintain a cost structure that positions us favorably to compete and grow. We intend to continue to upgrade our customer and product mix by adding products that move up the supply chain by offering assemblies that use our lenses, thereby increasing our sales of value-added, differentiated products, and achieving premium pricing to improve margins and enhance cash flow.
+
+ 
+   
+ 5
+
+
+  
+ 
+    ●
+   Increase Customer Base and Continue to Develop New Products. A key component of our strategy is to produce innovative, high-performance products that offer enhanced value propositions to our customers at competitive prices. Our goal is to continually work closely with our customers to provide solutions and productions that optimize their products. This market-driven product development enables us to offer a high-quality product portfolio to our customers and provide our business with the ability to respond quickly and efficiently to changes in market demands.
+
+ 
+    ●
+   Deepen Our Presence in Emerging Markets. Emerging markets are a strategic priority for our business. We are well positioned not only to leverage our strong market positions in mature but highly sophisticated markets in North America and Europe, but also to participate in the expected growth of emerging markets in Asia and Eastern Europe. We believe that improving living standards and growth in GDP across emerging markets are combining to create increased demand for our products. We expect to capitalize on this growth opportunity by expanding our customer base and local capabilities in order to increase our market share across emerging markets, especially in China. To accelerate our penetration of these markets and maintain our competitive cost position, we may develop relationships with leading local partners, especially in businesses where participation in the fast-growing Chinese market is particularly important for long-term sustainable growth. For example, we are well positioned to leverage our strong production technology in the Chinese market as a result of an increasing percentage of aerospace, automotive, semiconductor, electronics, and telecommunications manufacturing transitioning to China.
+
+ 
+    ●
+   Continue to Drive Operational Excellence and Asset Efficiency. Operational excellence, which includes a commitment to safety, environmental stewardship, and improved reliability, is key to our future success. We continually evaluate our business to identify opportunities to increase operational efficiency throughout our production facilities, with a focus on maintaining operational excellence, reducing costs, and maximizing asset efficiency. We intend to continue focusing on increasing manufacturing efficiencies through selected capital projects, process improvements, and best practices in order to lower unit costs. We will also carefully manage our portfolio and take appropriate actions to address product lines that face challenging market conditions and do not generate returns on invested capital that we believe are sufficient to create long-term shareholder value.
+
+ 
+    ●
+   Drive Organizational Alignment. We believe that maintaining alignment of the efforts of our employees with our overall business strategy and operational excellence goals is critical to our success. We have outstanding people and assets and, with the commitment to values of safety, customer appreciation, simplicity, collective entrepreneurship, and integrity, we believe that we can maintain our competitiveness and help achieve our operational excellence and asset efficiency strategic objectives.
+
+ 
+  Sales and Marketing
+  
+   Marketing. Extensive product diversity and varying levels of product maturity characterize the optics industry. Product markets range from consumer (e.g., cameras and copiers) to industrial (e.g., lasers, data storage, and infrared imaging), from products where the lenses are the central feature (e.g., telescopes, microscopes, and lens systems) to products incorporating lens components (e.g., robotics and semiconductor production equipment) and communications (e.g., various optics are required for bandwidth expansion and improved data transfer for the optical network). As a result, we market our products across a wide variety of customer groups, including laser systems manufacturers, laser OEMs, infrared-imaging systems vendors, industrial laser tool manufacturers, telecommunications equipment manufacturers, medical and industrial measurement equipment manufacturers, government defense agencies, and research institutions worldwide.
+  
+   Technical Sales Model. To align the organization for specific goals and accountability, we created an executive structure with three direct reporting lines: Operations, Sales and Marketing, and Finance. Our Sales and Marketing organization is led by the Vice President of Corporate Business Development, as well as our National Sales Manager. We also combined the organizations supporting our aspheric visible lens products and our infrared products.
+  
+   Sales Team & Channel.  We have regional sales forces that market and sell our products directly to customers in North America, Europe and China. We also have a master distributor in Europe. We have formalized relationships with 15 industrial, laser, and optoelectronics distributors and channel partners located in the United States (“U.S.”) and various foreign countries to assist in the distribution of our products in highly specific target markets. We also have reseller arrangements with the top three product catalog companies in the optics and opto-electronics market. In addition, we also maintain our own product catalog and internet websites (www.lightpath.com and  www.ispoptics.com) as vehicles for broader promotion of our products. We make use of print media advertisements in various trade magazines and participate in appropriate domestic and foreign trade shows.
+  
+  All of our partners work diligently to expand opportunities in emerging geographic markets and through alternate channels of distribution. We believe that we provide a high level of support in developing and maintaining our long-term relationships with our customers. Customer service and support are provided through our offices and those of our partners that are located throughout the world.
+  
+   
+ 6
+
+
+  
+ 
+   Trade Shows. We display our product line additions and enhancements at one or more trade shows each year. For example, we participated in several United States based shows including Society of Photographic Instrumentation Engineers (“SPIE”) Photonics West in January 2018 and SPIE Defense, Security and Sensing in April 2018. In addition, we exhibit at the Laser World of Photonics in Munich, Germany to maintain our European presence.  This strategy underscores our strategic directive of broadening our base of innovative optical components and assemblies. These trade shows also provide an opportunity to meet with and enhance existing business relationships, meet and develop potential customers, and to distribute information and samples regarding our products.
+  
+  Competition
+  
+  The market for optical components generally is highly competitive and highly fragmented. We compete with manufacturers of conventional spherical lenses and optical components, providers of aspheric lenses and optical components, and producers of optical quality glass. To a lesser extent, we compete with developers of specialty optical components and assemblies,  particularly as related to our specialty product group. Many of these competitors have greater financial, manufacturing, marketing, and other resources than we do.
+ 
+  We believe our unique capabilities in optical design engineering, our low cost structure and our substantial presence in Europe and Asia, particularly in China, provides us with a competitive edge and assists us in securing business. Additionally, we believe that we offer value to some customers as a second or backup supply source in the United States should they be unwilling to commit to purchase their entire supply of a critical component from a foreign production source. We also have a broad product offering to satisfy a variety of applications and markets.
+  
+   LVPMOs and HVPMOs Product Groups. Our LVPMO products compete with conventional lenses and optical components manufactured by companies such as Asia Optical Co., Inc., Anteryon BV, Rochester Precision Optics, and Sunny Optical Technology (Group) Company Limited.
+  
+  Aspheric lenses compete with lens systems comprised of multiple conventional lenses. Machined aspheric lenses compete with our molded glass aspheric lenses, which are part of our HVPMO product group. Aspheric lens system manufacturers include Panasonic Corporation, Alps Electric Co., Ltd., Hoya Corporation, as well as newer competitors from China and Taiwan, such as E-Pin Optical Industry Co., Ltd., and Kinik Company. The use of aspheric surfaces provides the optical designer with a powerful tool in correcting spherical aberrations and enhancing performance in state-of-the-art optical products. However, we believe that our optical design expertise and our flexibility in providing custom high performance optical components at a low price are key competitive advantages for us over these competitors.
+  
+  Plastic molded aspheres and hybrid plastic/glass aspheric optics, on the other hand, allow for high volume production, but primarily are limited to low cost consumer products that do not place a high demand on performance (such as plastic lenses in disposable or mobile phone cameras). Molded plastic aspheres appear in products that stress cost or weight as their measure of success over performance and durability. Our low cost structure allows us to compete with these lenses based on higher performance and durability from our glass lenses at only a small premium in price over plastic or plastic/glass hybrid lenses.
+  
+   Infrared Product Group. Our infrared aspheric optics compete with optical products produced by Janos Technology LLC, Ophir Optronics Solutions, Ernst Leitz Canada (ELCAN) Optical Technologies, Clear Align and a variety of Eastern European and Asian manufacturers. These traditional infrared lenses can either be polished spherical or are diamond turned aspherical. Our molded lenses compete with spherical lenses because like all aspheres they can replace doublets or triplets based on the higher performance of an aspheric lens. Our diamond turned aspheres from germanium are more expensive to produce in high volumes and time consuming to manufacture. We believe our low cost, high volume lens business technology combined with our recently added traditional polishing and diamond turning capabilities enables us to compete with the other manufacturers of traditional infrared lens by offering the best technology fit at a competitive price.
+  
+  Our molded infrared optics competes with products manufactured by Umicore N.V. (“Umicore”), Rochester Precision Optics, and Yunnan KIRP-CH Photonics Co., Ltd.. We believe that our optical design expertise, our diverse manufacturing flexibility and our manufacturing facilities located in Asia, Europe and North America are key advantages over the products manufactured by these competitors. A specific advantage over Umicore, a foreign company, is that the infrared market is highly dependent on the United States defense industry, which prefers to purchase from United States based companies such as LightPath.
+  
+  Manufacturing
+  
+   Facilities. Our manufacturing is largely performed in our 26,000 square foot production facility in Orlando, Florida (the “Orlando Facility”), in LPOIZ’s 39,000 square foot production facility in Zhenjiang, China and in ISP Latvia’s 23,000 square foot production facility in Riga, Latvia. LPOI sales and support functions occupy a 1,900 square foot facility in Shanghai. ISP also has an approximately 13,000 square foot facility in Irvington, New York that functions as its operations headquarters, providing manufacturing capabilities, optical coatings, optical and mechanical design, assembly and testing, as well as some engineering, administrative and sales functions. We are in the process of adding approximately 12,000 square feet of additional manufacturing space near our existing Orlando Facility, which we expect to complete during the second quarter of fiscal 2019. We will be relocating the manufacturing operations of ISP’s Irvington Facility to our existing Orlando Facility and Riga Facility. The additional space being added in Orlando will accommodate this relocation. The relocation is expected to be completed in phases through the end of fiscal 2019. Some of the manufacturing operations currently performed in the Irvington Facility will transition to our Zhenjiang Facility.
+  
+   
+ 7
+
+
+  
+ 
+  Our Orlando Facility and LPOI’s Zhenjiang Facility feature areas for each step of the manufacturing process, including coating work areas, preform manufacturing and a clean room for pressing and integrated assembly. The Orlando and Zhenjiang Facilities include new product development laboratories and space that includes development and metrology equipment. The Zhenjiang Facility has anti-reflective and infrared coating equipment to coat our lenses in-house. ISP’s Irvington Facility and ISP Latvia’s Riga Facility include fully vertically integrated manufacturing processes to produce high precision infrared lenses and infrared lens assemblies, including crystal growth, CNC grinding, conventional polishing, diamond turning, multilayer coatings, assemblies and state of the art metrology.
+  
+  We are routinely adding additional production equipment at our Orlando, Zhenjiang and Riga Facilities. During fiscal 2018, we added additional space in both our Zhenjiang and Riga Facilities. In fiscal 2019, we will complete the additional space in Orlando and the relocation of the Irvington Facility’s manufacturing operations. In addition to adding additional equipment or space at our manufacturing facilities, we add additional work shifts, as needed, to increase capacity and meet forecasted demand. We intend to monitor the capacity at our facilities, and will increase such space as needed. We believe our facilities are adequate to accommodate our needs over the next year.
+  
+   Production and Equipment. Our Orlando Facility contains glass melting capability for infrared glass, a manufacturing area for our molded glass aspheres, a tooling and machine shop to support new product development, commercial production requirements for our machined parts, the fabrication of proprietary press work stations and mold equipment, and a clean room for our molding and assembly workstations and related metrology equipment. Most recently, in connection with the relocation of the Irvington Facility, we have added a chamber for diamond-like carbon (“DLC”) coating in Orlando. LPOIZ’s Zhenjiang Facility features a molded glass aspheres manufacturing area, clean room, machine shop, dicing area, and chambers for coating, including anti-reflective and infrared coatings and related metrology equipment.
+  
+  ISP’s Irvington Facility contains a manufacturing area for diamond turning, coating, lens assembly, and quality control. The facility is equipped with numerous diamond turning machines and accompanying metrology equipment, offering full scale diamond turning capabilities. The facility is also equipped with multiple chambers for various multi-layer coatings and a chamber for DLC coating. A cleaning room and metrology laboratory are also part of the coating area. The lens assembly area is equipped with modulation transfer function (“MTF”) stations, lens assembly stations and the latest lens design software.
+  
+  ISP Latvia’s Riga Facility consists of crystal growth, grinding, polishing, diamond turning, quality control departments and a mechanical shop to provide the grinding and polishing departments with the necessary tools. The crystal growth department is equipped with multiple furnaces to grow water soluble crystals. The grinding and polishing departments have numerous modern CNC equipment, lens centering and conventional equipment to perform spindle, double sided and continuous polishing operations. The diamond turning department has numerous diamond turning machines accompanied with the latest metrology tools. In connection with the relocation of the Irvington Facility, we have increased the diamond turning capacity in this facility. The quality control department contains numerous inspection stations with various equipment to perform optical testing of finished optics.
+  
+  The Orlando, Zhenjiang, and Irvington Facilities are ISO 9001:2015 certified. The Riga Facility is ISO 9001:2008 certified. The Zhenjiang Facility is also ISO/TS 1649:2009 certified for manufacturing of optical lenses and accessories used in automobiles. The Orlando, Irvington, and Riga Facilities are also International Traffic in Arms and Regulation (“ITAR”) compliant.
+  
+  For more information regarding our facilities, please see  Item 2. Properties in this Annual Report on Form 10-K.
+  
+   Subcontractors and Strategic Alliances.  We believe that low-cost manufacturing is crucial to our long-term success. In that regard, we generally use subcontractors in our production process to accomplish certain processing steps requiring specialized capabilities. For example, we presently use a number of qualified subcontractors for fabricating, polishing, and coating certain lenses, as necessary. We have taken steps to protect our proprietary methods of repeatable high quality manufacturing by patent disclosures and internal trade secret controls.
+  
+   Suppliers.  We utilize a number of glass compositions in manufacturing our molded glass aspheres and lens array products.  These glasses or equivalents are available from a large number of suppliers, including CDGM Glass Company Ltd., Ohara Corporation, and Sumita Optical Glass, Inc. Base optical materials, used in both infrared glass and collimator products, are manufactured and supplied by a number of optical and glass manufacturers. ISP utilizes major infrared material suppliers located around the globe for a broad spectrum of infrared crystal and glass. We believe that a satisfactory supply of such production materials will continue to be available, at reasonable or, in some cases, increased prices, although there can be no assurance in this regard.
+  
+  We also rely on local and regional vendors for component materials and services such as housings, fixtures, magnets, chemicals and inert gases, specialty ceramics, UV and AR coatings, and other specialty coatings. In addition, certain products require external processing, such as anodizing and metallization. To date, we are not dependent on any of these manufacturers and have found a suitable number of qualified vendors and suppliers for these materials and services.
+  
+  We currently purchase a few key materials from single or limited sources. We believe that a satisfactory supply of production materials will continue to be available at competitive prices, although there can be no assurance in this regard.
+  
+   
+ 8
+
+
+  
+ 
+  Intellectual Property
+  
+  Our policy is to protect our technology by, among other things, patents, trade secret protection, trademarks, and copyrights. We primarily rely upon trade secrets and unpatented proprietary know-how to protect certain process inventions, lens designs, and innovations. We have taken security measures to protect our trade secrets and proprietary know-how, to the extent possible.
+  
+  In addition to trade secrets and proprietary know-how, we have three remaining patents that relate to the fusing of certain of our lenses that are part of our specialty products group. These patents expire at various times through 2023.
+  
+  Our means of protecting our proprietary rights may not be adequate and our competitors may independently develop technology or products that are similar to ours or that compete with ours. Patent, trademark, and trade secret laws afford only limited protection for our technology and products. The laws of many countries do not protect our proprietary rights to as great an extent as do the laws of the United States. Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to obtain and use information that we regard as proprietary. Third parties may also design around our proprietary rights, which may render our protected technology and products less valuable, if the design around is favorably received in the marketplace. In addition, if any of our products or technology is covered by third-party patents or other intellectual property rights, we could be subject to various legal actions. We cannot assure you that our technology platform and products do not infringe patents held by others or that they will not in the future. Litigation may be necessary to enforce our intellectual property rights, to protect our trade secrets, to determine the validity and scope of the proprietary rights of others, or to defend against claims of infringement, invalidity, misappropriation, or other claims.
+  
+  We own several registered and unregistered service marks and trademarks that are used in the marketing and sale of our products. The following table sets forth our registered and unregistered service marks and trademarks, if registered, the country in which the mark is filed, and the renewal date for such mark.
+  
+ 
+Mark | Type | Registered | Country | Renewal Date 
+--------------+--------------+------------+----------------------------+-------------------
+LightPath® | service mark | Yes | United States | October 22, 2022 
+GRADIUM™ | Trademark | Yes | United States | April 29, 2027 
+Circulight | Trademark | No | - | - 
+BLACK DIAMOND | Trademark | No | - | - 
+GelTech | Trademark | No | - | - 
+Oasis | Trademark | No | - | - 
+LightPath® | service mark | Yes | People’s Republic of China | September 13, 2025
+ISP Optics® | Trademark | Yes | United States | August 12, 2020 
+
+ Environmental and Governmental Regulation
+  
+  Currently, emissions and waste from our manufacturing processes are at such low levels that no special environmental permits or licenses are required. In the future, we may need to obtain special permits for disposal of increased waste by-products. The glass materials we utilize contain some toxic elements in a stabilized molecular form. However, the high temperature diffusion process results in low-level emissions of such elements in gaseous form. If production reaches a certain level, we believe that we will be able to efficiently recycle certain of our raw material waste, thereby reducing disposal levels. We believe that we are presently in compliance with all material federal, state, and local laws and regulations governing our operations and have obtained all material licenses and permits necessary for the operation of our business.
+  
+  We also utilize certain chemicals, solvents, and adhesives in our manufacturing process. We believe we maintain all necessary permits and are in full compliance with all applicable regulations.
+  
+  To our knowledge, there are currently no United States federal, state, or local regulations that restrict the manufacturing and distribution of our products. Certain end-user applications require government approval of the complete optical system, such as United States Food and Drug Administration approval for use in endoscopy. In these cases, we will generally be involved on a secondary level and our OEM customer will be responsible for the license and approval process.
+  
+  The Dodd-Frank Wall Street Reform and Consumer Protection Act imposes disclosure requirements regarding the use of “conflict minerals” mined from the Democratic Republic of Congo and adjoining countries in products, whether or not these products are manufactured by third parties. The conflict minerals include tin, tantalum, tungsten, and gold, and their derivatives. Pursuant to these requirements, we are required to report on Form SD the procedures we employ to determine the sourcing of such minerals and metals produced from those minerals. There are costs associated with complying with these disclosure requirements, including for diligence in regards to the sources of any conflict minerals used in our products, in addition to the cost of remediation and other changes to products, processes, or sources of supply as a consequence of such verification activities. In addition, the implementation of these rules could adversely affect the sourcing, supply, and pricing of materials used in our products. We strive to only use suppliers that source from conflict-free smelters and refiners; however, in the future, we may face difficulties in gathering information regarding our suppliers and the source of any such conflict minerals.
+  
+   
+ 9
+
+
+  
+ 
+  New Product Development
+  
+  In recent years, our new product development efforts have been focused on the development of our capabilities in molded aspheric lenses and infrared lenses. We incurred expenditures for new product development during fiscal 2018 and 2017 of approximately $1.6 million and $1.2 million, respectively. In fiscal 2018 and 2017, we concentrated our efforts to support existing and new customers in the design and manufacture of items in three of our product lines: HVPMO lenses, LVPMO lenses and infrared products, with emphasis on infrared products in fiscal 2018.
+  
+  In fiscal 2019, we anticipate focusing our new product development efforts on infrared optics products for imaging and sensing, fiber lasers, spectrophotometry, defense, medical devices, industrial, optical data storage, machine vision, sensors, and environmental monitoring. In addition, we plan on continuing to invest in designing and developing the next generation of our proprietary precision glass molding machines. We currently plan to expend approximately $1.9 million for new product development during fiscal 2019, which could vary depending upon revenue levels, customer requirements, and perceived market opportunities.
+  
+  For more difficult or customized products, we bill our customers for engineering services as a non-recurring engineering fee.
+  
+  Concentration of Customer Risk
+  
+  In fiscal 2018, we had sales to three customers that comprised an aggregate of approximately 28% of our annual revenue with one customer at 16% of our sales, another customer at 7% of our sales and the third customer at 5% of our sales. In fiscal 2017, we had sales to three customers that comprised an aggregate of approximately 26% of our annual revenue with one customer at 10% of our sales, another customer at 9% of our sales and the third customer at 7% of our sales. The loss of any of these customers, or a significant reduction in sales to any such customer, would adversely affect our revenues. We continue to diversify our business in order to minimize our sales concentration risk.
+  
+  In fiscal 2018, 58% of our net revenue was derived from sales outside of the United States, with 84% of our foreign sales derived from customers in Europe and Asia. In fiscal 2017, 61% of our net revenue was derived from sales outside of the United States, with 88% of our foreign sales derived from customers in Europe and Asia.
+  
+  Employees
+  
+  As of June 30, 2018, we had 342 employees, of which 331 were full-time equivalent employees, with 85 located in Orlando, Florida, 33 located in Irvington, New York, 87 located in Riga, Latvia, and 126 located in Jiading and Zhenjiang, China. Of our 331 full-time equivalent employees, we have 41 employees engaged in management, administrative, and clerical functions, 21 employees in new product development, 19 employees in sales and marketing, and 250 employees in production and quality control functions. In connection with the relocation of our Irvington Facility into our existing Orlando and Riga Facilities, which we expect will occur in phases throughout fiscal 2019, we anticipate that current Irvington employees will either be relocated to our Orlando or Riga Facilities or that we will hire additional employees at these facilities. Any other employee additions or terminations over the next twelve months will be dependent upon the actual sales levels realized during fiscal 2019. We have used and will continue utilizing part-time help, including interns, temporary employment agencies, and outside consultants, where appropriate, to qualify prospective employees and to ramp up production as required from time to time. None of our employees are represented by a labor union.
+ Item 1. Financial Statements
+  
+  LIGHTPATH TECHNOLOGIES, INC.
+   Consolidated Balance Sheets
+  
+ 
+ | June 30, | June 30, 
+------------------------------------------------------------------+---------------+--------------
+Assets | 2018 | 2017 
+Current assets: | | 
+Cash and cash equivalents | $5,508,620 | $8,085,015 
+Restricted cash | 1,000,000 | — 
+Trade accounts receivable, net of allowance of $13,364 and $7,356 | 5,370,508 | 5,890,113 
+Inventories, net | 6,404,741 | 5,074,576 
+Other receivables | 46,574 | 29,202 
+Prepaid expenses and other assets | 1,058,610 | 641,469 
+Total current assets | 19,389,053 | 19,720,375 
+Property and equipment, net | 11,809,241 | 10,324,558 
+Intangible assets, net | 9,057,970 | 10,375,053 
+Goodwill | 5,854,905 | 5,854,905 
+Deferred tax assets, net | 624,000 | 285,000 
+Other assets | 381,945 | 112,323 
+Total assets | $47,117,114 | $46,672,214 
+Liabilities and Stockholders’ Equity | | 
+Current liabilities: | | 
+Accounts payable | $2,032,834 | $1,536,121 
+Accrued liabilities | 685,430 | 966,929 
+Accrued payroll and benefits | 1,228,120 | 1,896,530 
+Loans payable, current portion | 1,458,800 | 1,111,500 
+Capital lease obligation, current portion | 307,199 | 239,332 
+Total current liabilities | 5,712,383 | 5,750,412 
+Capital lease obligation, less current portion | 550,127 | 142,101 
+Deferred rent | 377,364 | 458,839 
+Deferred tax liabilities | — | 182,349 
+Warrant liability | — | 490,500 
+Loans payable, less current portion | 5,119,796 | 9,926,844 
+Total liabilities | 11,759,670 | 16,951,045 
+Commitments and Contingencies | | 
+Stockholders’ equity: | | 
+Preferred stock: Series D, $.01 par value, voting; | | 
+500,000 shares authorized; none issued and outstanding | — | — 
+Common stock: Class A, $.01 par value, voting; | | 
+44,500,000 shares authorized; 25,764,544 and 24,215,733 | | 
+shares issued and outstanding | 257,645 | 242,157 
+Additional paid-in capital | 229,874,823 | 225,492,252 
+Accumulated other comprehensive income | 473,508 | 295,396 
+Accumulated deficit | (195,248,532) | (196,308,636)
+Total stockholders’ equity | 35,357,444 | 29,721,169 
+Total liabilities and stockholders’ equity | $47,117,114 | $46,672,214 
+
+
+ 
+ The accompanying notes are an integral part of these consolidated financial statements.
+  
+  F-4
+
+
+  
+ 
+ LIGHTPATH TECHNOLOGIES, INC.
+  Consolidated Statements of Comprehensive Income
+ 
+ 
+ | Years Ended June 30,
+---------------------------------------------------------+---------------------
+ | 2018 | 2017 
+Revenue, net | $32,525,471 | 28,367,489 
+Cost of sales | 19,997,740 | 13,648,030 
+Gross margin | 12,527,731 | 14,719,459 
+Operating expenses: | | 
+Selling, general and administrative | 9,218,346 | 8,651,023 
+New product development | 1,618,994 | 1,235,934 
+Amortization of intangibles | 1,317,082 | 693,947 
+(Gain) loss on disposal of property and equipment | (258) | 1,444 
+Total operating costs and expenses | 12,154,164 | 10,582,348 
+Operating income | 373,567 | 4,137,111 
+Other income (expense): | | 
+Interest expense, net | (186,948) | (413,427) 
+Change in fair value of warrant liability | (194,632) | (467,543) 
+Other income, net | 241,040 | 105,645 
+Total other expense, net | (140,540) | (775,325) 
+Income before income taxes | 233,027 | 3,361,786 
+Provision for income taxes | (827,077) | (4,341,300)
+Net income | $1,060,104 | $7,703,086 
+Foreign currency translation adjustment | 178,112 | 169,288 
+Comprehensive income | $1,238,216 | $7,872,374 
+Earnings per common share (basic) | $0.04 | $0.39 
+Number of shares used in per share calculation (basic) | 25,006,467 | 20,001,868 
+Earnings per common share (diluted) | $0.04 | $0.36 
+Number of shares used in per share calculation (diluted) | 26,811,468 | 21,666,392 
+
+
+ 
+ The accompanying notes are an integral part of these consolidated financial statements.
+  
+  F-5
+
+
+  
+ 
+ LIGHTPATH TECHNOLOGIES, INC.
+  Consolidated Statements of Stockholders' Equity
+  Years Ended June 30, 2018 and 2017
+ 
+ 
+ | | | | Accumulated | | 
+----------------------------------------------------+--------------+----------+--------------+----------------+----------------+--------------
+ | Class A | | Additional | Other | | Total 
+ | Common Stock | | Paid-in | Comphrehensive | Accumulated | Stockholders’
+ | Shares | Amount | Capital | Income | Deficit | Equity 
+Balances at June 30, 2016 | 15,590,945 | $155,909 | $214,661,617 | $126,108 | $(204,011,722) | $10,931,912 
+Issuance of common stock for: | | | | | | 
+Exercise of warrants | 578,897 | 5,789 | 699,890 | — | — | 705,679 
+Employee Stock Purchase Plan | 12,106 | 121 | 19,511 | — | — | 19,632 
+Exercise of RSU | 33,785 | 338 | (338) | — | — | — 
+Public equity placement, net of costs | 8,000,000 | 80,000 | 8,669,496 | — | — | 8,749,496 
+Reclassification of warrant liability upon exercise | — | — | 694,436 | — | — | 694,436 
+Stock-based compensation on stock options & RSU | — | — | 747,640 | — | — | 747,640 
+Foreign currency translation adjustment | — | — | — | 169,288 | — | 169,288 
+Net income | — | — | — | — | 7,703,086 | 7,703,086 
+Balances at June 30, 2017 | 24,215,733 | 242,157 | 225,492,252 | 295,396 | (196,308,636) | 29,721,169 
+Issuance of common stock for: | | | | | | 
+Exercise of warrants | 433,810 | 4,338 | 529,980 | — | — | 534,318 
+Employee Stock Purchase Plan | 19,980 | 200 | 48,391 | — | — | 48,591 
+Exercise of stock options | 127,813 | 1,278 | 224,723 | — | — | 226,001 
+Settlement of Sellers Note | 967,208 | 9,672 | 2,237,392 | — | — | 2,247,064 
+Reclassification of warrant liability upon exercise | — | — | 685,132 | — | — | 685,132 
+Stock-based compensation on stock options & RSU | — | — | 656,953 | — | — | 656,953 
+Foreign currency translation adjustment | — | — | — | 178,112 | — | 178,112 
+Net income | — | — | — | — | 1,060,104 | 1,060,104 
+Balances at June 30, 2018 | 25,764,544 | $257,645 | $229,874,823 | $473,508 | $(195,248,532) | $35,357,444 
+
+
+ 
+ The accompanying notes are an integral part of these consolidated financial statements.
+  
+  F-6
+
+
+  
+ 
+  LIGHTPATH TECHNOLOGIES, INC.
+   Consolidated Statements of Cash Flows
+  
+ 
+ | Years Ended June 30,
+----------------------------------------------------------------------------------+---------------------
+ | 2018 | 2017 
+Cash flows from operating activities | | 
+Net income | $1,060,104 | $7,703,086 
+Adjustments to reconcile net income to net cash provided by operating activities: | | 
+Depreciation and amortization | 3,403,581 | 2,080,439 
+Interest from amortization of debt costs | 19,685 | 7,721 
+(Gain) loss on disposal of property and equipment | (258) | 1,444 
+Stock-based compensation on stock options & RSU, net | 373,554 | 394,875 
+Bad debt expense | (16,417) | (29,551) 
+Change in fair value of warrant liability | 194,632 | 467,543 
+Change in fair value of Sellers Note | (396,163) | 68,955 
+Deferred rent amortization | (81,475) | (89,363) 
+Inventory write-offs to reserve | 187,547 | 90,268 
+Deferred tax benefit | (533,806) | (5,493,704) 
+Changes in operating assets and liabilities: | | 
+Trade accounts receivable | 618,393 | (1,042,426) 
+Other receivables | (15,997) | 160,070 
+Inventories | (1,330,994) | (318,645) 
+Prepaid expenses and other assets | (685,260) | 151,821 
+Accounts payable and accrued liabilities | (178,138) | 846,511 
+Net cash provided by operating activities | 2,618,988 | 4,999,044 
+Cash flows from investing activities: | | 
+Purchase of property and equipment | (2,517,685) | (2,223,126) 
+Acquisiton of ISP Optics, net of cash acquired | — | (11,777,336)
+Net cash used in investing activities | (2,517,685) | (14,000,462)
+Cash flows from financing activities: | | 
+Proceeds from exercise of stock options | 226,001 | — 
+Proceeds from sale of common stock from Employee Stock Purchase Plan | 48,591 | 19,632 
+Loan costs | (61,253) | (72,224) 
+Borrowings on loan payable | 2,942,583 | 5,000,000 
+Proceeds from issuance of common stock under public equity placement | — | 8,749,496 
+Proceeds from exercise of warrants, net of costs | 534,318 | 705,679 
+Net Payments on loan payable | (4,716,536) | — 
+Payments on capital lease obligations | (287,354) | (193,940) 
+Net cash (used in) provided by financing activities | (1,313,650) | 14,208,643 
+Effect of exchange rate on cash and cash equivalents | (364,048) | (30,234) 
+Change in cash and cash equivalents and restricted cash | (1,576,395) | 5,176,991 
+Cash and cash equivalents and restricted cash, beginning of period | 8,085,015 | 2,908,024 
+Cash and cash equivalents and restricted cash, end of period | $6,508,620 | $8,085,015 
+Supplemental disclosure of cash flow information: | | 
+Interest paid in cash | $546,306 | $334,589 
+Income taxes paid | $386,471 | $680,055 
+Supplemental disclosure of non-cash investing & financing activities: | | 
+Purchase of equipment through capital lease arrangements | $763,247 | $230,000 
+Reclassification of warrant liability upon exercise | $685,132 | $694,436 
+Derecognition of liability associated with stock option grants | $283,399 | $352,765 
+Sellers Note issued to acquire ISP Optics, at fair value | — | $6,327,208 
+Conversion of Sellers Note to common stock | $2,247,064 | — 
+
+
+ 
+ The accompanying notes are an integral part of these consolidated financial statements.
+  
+  F-7
+
+
+  
+  LIGHTPATH TECHNOLOGIES, INC.
+   Notes to Consolidated Financial Statements
+   
+   1.            
+  Organization and History
+
+ 
+  LightPath Technologies, Inc. (“LightPath”, the “Company”, “we”, “us” or “our”) was incorporated in Delaware in 1992. It was the successor to LightPath Technologies Limited Partnership formed in 1989, and its predecessor, Integrated Solar Technologies Corporation formed in 1985. On April 14, 2000, the Company acquired Horizon Photonics, Inc. (“Horizon”). On September 20, 2000, the Company acquired Geltech, Inc. (“Geltech”). The Company completed its initial public offering during fiscal 1996. In November 2005, we formed LightPath Optical Instrumentation (Shanghai) Co., Ltd (“LPOI”), a wholly-owned subsidiary located in Jiading, People’s Republic of China. In December 2013, we formed LightPath Optical Instrumentation (Zhenjiang) Co., Ltd (“LPOIZ”), a wholly-owned subsidiary located in Zhenjiang, Jiangsu Province, People’s Republic of China. In December 2016, we acquired ISP Optics Corporation, a New York corporation (“ISP”), and its wholly-owned subsidiary, ISP Optics Latvia, SIA, a limited liability company founded in 1998 under the Laws of the Republic of Latvia (“ISP Latvia”). See Note 3, Acquisition of ISP Optics Corporation, to these Consolidated Financial Statements for additional information.
+  
+  LightPath is a manufacturer of optical components and higher level assemblies, including precision molded glass aspheric optics, molded and diamond-turned infrared aspheric lenses, and other optical materials used to produce products that manipulate light. LightPath designs, develops, manufactures, and distributes optical components and assemblies utilizing advanced optical manufacturing processes. LightPath products are incorporated into a variety of applications by customers in many industries, including defense products, medical devices, laser aided industrial tools, automotive safety applications, barcode scanners, optical data storage, hybrid fiber coax datacom, telecommunications, machine vision and sensors, among others.
+  
+  As used herein, the terms “LightPath,” the “Company,” “we,” “us” or “our,” refer to LightPath individually or, as the context requires, collectively with its subsidiaries on a consolidated basis.
+  
+   2.            
+  Summary of Significant Accounting Policies
+
+ 
+   Consolidated Financial Statements include the accounts of the Company and its wholly-owned subsidiaries. All significant intercompany balances and transactions have been eliminated in consolidation.
+  
+  Reclassifications.  The classification of certain prior-year amounts have been adjusted in our Consolidated Financial Statements to conform to current-year classifications. Reclassifications include the line item “Interest expense – debt costs” which is now combined with the “Interest expense, net” line item in our Consolidated Statements of Comprehensive Income.
+   
+   Management estimates. Management makes estimates and assumptions during the preparation of the Company’s Consolidated Financial Statements that affect amounts reported in the Consolidated Financial Statements and accompanying notes. Such estimates and assumptions could change in the future as more information becomes available, which, in turn, could impact the amounts reported and disclosed herein.
+  
+     Cash and cash equivalents  consist of cash in the bank and cash equivalents with maturities of 90 days or less when purchased. The Company maintains its cash accounts in various institutions with high credit ratings. The Company’s domestic cash accounts are maintained in one financial institution, and balances may exceed federal insured limits at times. The Company’s foreign cash accounts are not insured.
+  
+     Restricted cash  consists of amounts held in restricted accounts as collateral associated with our debt covenants. See Note 18, Loans Payable, to these Consolidated Financial Statements for additional information. Our restricted cash is invested in a money market account. During fiscal year 2018, the Company adopted ASU 2016-18, “Statement of Cash Flows (Topic 320): Restricted Cash” (“ASU 2016-18”), which provides guidance on the presentation of restricted cash and restricted cash equivalents in the statement of cash flows. Cash and cash equivalents and restricted cash presented in the Consolidated Balance Sheet as of June 30, 2018 are combined in the Consolidated Statement of Cash Flows for the year ended June 30, 2018.
+  
+     Allowance for accounts receivable  is calculated by taking 100% of the total of invoices that are over 90 days past due from the due date and 10% of the total of invoices that are over 60 days past due from the due date for U.S.- and Latvia-based accounts and 100% of invoices that are over 120 days past due for Chinese-based accounts. Accounts receivable are customer obligations due under normal trade terms. The Company performs continuing credit evaluations of its customers’ financial condition. If the Company’s actual collection experience changes, revisions to its allowance may be required. After all attempts to collect a receivable have failed, the receivable is written off against the allowance.
+  
+   Inventories, which consist principally of raw materials, tooling, work-in-process and finished lenses, collimators and assemblies are stated at the lower of cost or net realizable value, on a first-in, first-out basis. Inventory costs include materials, labor and manufacturing overhead. Acquisition of goods from our vendors has a purchase burden added to cover customs, shipping and handling costs. Fixed costs related to excess manufacturing capacity have been expensed. The Company looks at the following criteria for parts to consider for the inventory allowance: (i) items that have not been sold in two years, (ii) items that have not been purchased in two years, or (iii) items of which we have more than a two-year supply.  These items, as identified, are allowed for at 100%, as well as allowing 50% for other items deemed to be slow moving within the last twelve months and allowing 25% for items deemed to have low material usage within the last six months. The parts identified are adjusted for recent order and quote activity to determine the final inventory allowance.
+  
+   F-8
+
+
+  
+ 
+   Property and equipment are stated at cost and depreciated using the straight-line method over the estimated useful lives of the related assets ranging from one to ten years. Leasehold improvements are amortized over the shorter of the lease term or the estimated useful lives of the related assets using the straight-line method. Construction in process represents the accumulated costs of assets not yet placed in service and primarily relates to manufacturing equipment.
+  
+   Long-lived assets, such as property, plant, and equipment and purchased intangibles subject to amortization, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. Recoverability of assets to be held and used is measured by a comparison of the carrying amount of an asset to its estimated undiscounted future cash flows expected to be generated by the asset. If the carrying amount of an asset exceeds its estimated future cash flows, an impairment charge is recognized in the amount by which the carrying amount of the asset exceeds the fair value of the asset. Assets to be disposed of would be separately presented in the Consolidated Balance Sheet and reported at the lower of the carrying amount or fair value less costs to sell, and would no longer be depreciated. The assets and liabilities of a disposed group classified as held for sale would be presented separately in the appropriate asset and liability sections of the Consolidated Balance Sheet.
+  
+  Goodwill and Intangible Assets acquired in a business combination are recognized at fair value using generally accepted valuation methods appropriate for the type of intangible asset and reported separately from goodwill. Purchased intangible assets other than goodwill are amortized over their useful lives unless these lives are determined to be indefinite. Purchased intangible assets are carried at cost, less accumulated amortization. Amortization is computed over the estimated useful lives of the respective assets, generally two to fifteen years. The Company periodically reassesses the useful lives of its intangible assets when events or circumstances indicate that useful lives have significantly changed from the previous estimate. Definite-lived intangible assets consist primarily of customer relationships, know-how/trade secrets and trademarks. They are generally valued as the present value of estimated cash flows expected to be generated from the asset using a risk-adjusted discount rate. When determining the fair value of our intangible assets, estimates and assumptions about future expected revenue and remaining useful lives are used. Goodwill and intangible assets are tested for impairment on an annual basis and during the period between annual tests if events or changes in circumstances indicate that the carrying value of goodwill may not be recoverable.
+  
+   The Company will assess the qualitative factors to determine whether it is more likely than not that the fair value of its reporting unit is less than its carrying amount as a basis for determining whether it is necessary to perform the goodwill impairment analysis. If the Company determines that it is more likely than not that its fair value is less than its carrying amount, then the goodwill impairment test is performed. The first step, identifying a potential impairment, compares the fair value of the reporting unit with its carrying amount. If the carrying amount exceeds its fair value, the second step would need to be performed; otherwise, no further steps are required. The second step, measuring the impairment loss, compares the implied fair value of the goodwill with the carrying amount of the goodwill. Any excess of the goodwill carrying amount over the implied fair value is recognized as an impairment loss, and the carrying value of goodwill is written down to fair value. During fiscal year 2018, the Company adopted ASU 2017-4, “Intangibles – Goodwill and Other (Topic 350): Simplifying the Test for Goodwill Impairment” (“ASU 2017-4”), which amends the goodwill impairment test to compare the fair value of a reporting unit with its carrying amount and recognize an impairment charge for the amount by which the carrying amount exceeds the reporting unit’s fair value, up to the total amount of goodwill allocated to that reporting unit. The Company did not record any goodwill impairment during the fiscal years ended June 30, 2018 or 2017.
+  
+   Deferred rent relates to certain of the Company’s operating leases containing predetermined fixed increases of the base rental rate during the lease term being recognized as rental expense on a straight-line basis over the lease term, as well as applicable leasehold improvement incentives provided by the landlord. The Company has recorded the difference between the amounts charged to operations and amounts payable under the leases as deferred rent in the accompanying Consolidated Balance Sheets.
+  
+   Income taxes are accounted for under the asset and liability method. Deferred income tax assets and liabilities are computed on the basis of differences between the financial statement and tax basis of assets and liabilities that will result in taxable or deductible amounts in the future based upon enacted tax laws and rates applicable to the periods in which the differences are expected to affect taxable income. Valuation allowances have been established to reduce deferred tax assets to the amount expected to be realized.
+  
+  The Company has not recognized a liability for uncertain tax positions. A reconciliation of the beginning and ending amount of unrecognized tax benefits or penalties has not been provided since there has been no unrecognized benefit or penalty. If there were an unrecognized tax benefit or penalty, the Company would recognize interest accrued related to unrecognized tax benefits in interest expense and penalties in operating expenses.
+  
+  The Company files U.S. Federal income tax returns, as well as tax returns in various states and foreign jurisdictions. Open tax years subject to examination by the Internal Revenue Service generally remain open for three years from the filing date. Tax years subject to examination by the state jurisdictions generally remain open for up to four years from the filing date. In Latvia, tax years subject to examination remain open for up to five years from the filing date, and in China, tax years subject to examination remain open for up to ten years from the filing date.
+  
+   F-9
+
+
+  
+ 
+   Our cash, cash equivalents and restricted cash totaled $6.5 million at June 30, 2018. Of this amount, approximately 50% was held by our foreign subsidiaries in China and Latvia. These foreign funds were generated in China and Latvia as a result of foreign earnings. With respect to the funds generated by our foreign subsidiaries in China, the retained earnings in China must equal at least 150% of the registered capital before any funds can be repatriated. As of June 30, 2018, we have retained earnings in China of approximately $1.9 million and we need to have $11.3 million before repatriation will be allowed.
+  
+   Accumulated earnings from the Company’s non-U.S. subsidiaries were subject to inclusion in the Company’s current period U.S. and state income tax returns as a result of the impact of the U.S. tax law changes. However, no income tax was due on the inclusion of these earnings due to utilization of net operating losses. See Note 9, Income Taxes, to these Consolidated Financial Statements for additional information.
+  
+  The Company intends to permanently invest earnings generated from its foreign Chinese operations, and, therefore, has not previously provided for future Chinese withholding taxes on such related earnings. However, if, in the future, the Company changes such intention, the Company would provide for and pay additional foreign taxes, if any, at that time.
+  
+   Revenue is recognized from product sales when products are shipped to the customer, provided that the Company has received a valid purchase order, the price is fixed, title has transferred, collection of the associated receivable is reasonably assured, and there are no remaining significant obligations. Product development agreements are generally short term in nature with revenue recognized upon shipment to the customer for products, reports or designs. Invoiced amounts for sales for value-added taxes (“VAT”) are posted to the balance sheet and are not included in revenue.
+  
+   VAT is computed on the gross sales price on all sales of the Company’s products sold in the People’s Republic of China and Latvia. The VAT rates range up to 21%, depending on the type of products sold. The VAT may be offset by VAT paid by the Company on raw materials and other materials included in the cost of producing or acquiring its finished products. The Company recorded a VAT receivable net of payables in the accompanying Consolidated Financial Statements.
+  
+   New product development costs are expensed as incurred.
+  
+   Stock-based compensation is measured at grant date, based on the fair value of the award, and is recognized as an expense over the employee’s requisite service period.  We estimate the fair value of each restricted stock unit or stock option as of the date of grant using the Black-Scholes-Merton pricing model. Most awards granted under our Amended and Restated Omnibus Incentive Plan, as amended (the “Omnibus Plan”), vest ratably over two to four years and generally have four to ten-year contract lives.  The volatility rate is based on historical trends in common stock closing prices and the expected term was determined based primarily on historical experience of previously outstanding awards.  The interest rate used is the U.S. Treasury interest rate for constant maturities. The likelihood of meeting targets for option grants that are performance based are evaluated each quarter. If it is determined that meeting the targets is probable, then the compensation expense will be amortized over the remaining vesting period.
+  
+   Fair value of financial instruments. The Company accounts for financial instruments in accordance with the Financial Accounting Standards Board’s Accounting Standards Codification Topic 820, “Fair Value Measurements and Disclosures” (“ASC 820”), which provides a framework for measuring fair value and expands required disclosure about fair value measurements of assets and liabilities.  ASC 820 defines fair value as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. ASC 820 also establishes a fair value hierarchy which requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. The standard describes three levels of inputs that may be used to measure fair value:
+  
+  Level 1 - Quoted prices in active markets for identical assets or liabilities.
+  
+  Level 2 - Inputs other than quoted prices included within Level 1 that are either directly or indirectly observable.
+  
+  Level 3 - Unobservable inputs that are supported by little or no market activity, therefore requiring an entity to develop its own assumptions about the assumptions that market participants would use in pricing.
+  
+  Fair value estimates discussed herein are based upon certain market assumptions and pertinent information available to management.  
+  
+  The respective carrying value of certain on-balance-sheet financial instruments approximated their fair values.  These financial instruments include receivables, accounts payable and accrued liabilities.  Fair values were assumed to approximate carrying values for these financial instruments since they are short term in nature and their carrying amounts approximate fair values or they are receivable or payable on demand. The fair value of the Company’s capital lease obligations and acquisition term loan payable to Avidbank Corporate Finance, a division of Avidbank (“Avidbank”) approximates their carrying values based upon current rates available to us. Loans payable as of June 30, 2017 also included a note payable to the sellers of ISP, in the aggregate principal amount of $6 million (the “Sellers Note”). The carrying value of the Sellers Note included a fair value premium based on a risk-adjusted discount rate, a Level 2 fair value measurement. On January 16, 2018, the Sellers Note was satisfied in full and, therefore, is not included in loans payable as of June 30, 2018. See Note 18, Loans Payable, to these Consolidated Financial Statements for additional information.
+  
+   F-10
+
+
+  
+ 
+  The Company valued its warrant liabilities based on open-form option pricing models which, based on the relevant inputs, render the fair value measurement at Level 3. The Company based its estimates of fair value for warrant liabilities on the amount it would pay a third-party market participant to transfer the liability and incorporates inputs such as equity prices, historical and implied volatilities, dividend rates and prices of convertible securities issued by comparable companies maximizing the use of observable inputs when available. See Note 17, Derivative Financial Instruments (Warrant Liability), to these Consolidated Financial Statements for additional information.
+  
+  The Company does not have any other financial or non-financial assets or liabilities that would be characterized as Level 1, Level 2 or Level 3 instruments.
+  
+  Debt issuance costs are recorded as a reduction to the carrying value of the related notes payable, by the same amount, and are amortized ratably over the term of the related note.
+  
+   Derivative financial instruments. The Company accounts for derivative instruments in accordance with Financial Accounting Standards Board’s Accounting Standards Codification Topic 815, “Derivatives and Hedging” (“ASC 815”), which requires additional disclosures about the Company’s objectives and strategies for using derivative instruments, how the derivative instruments and related hedged items are accounted for, and how the derivative instruments and related hedging items affect the financial statements.
+  
+  The Company does not use derivative instruments to hedge exposures to cash flow, market or foreign currency risk.  Terms of convertible debt instruments are reviewed to determine whether or not they contain embedded derivative instruments that are required under ASC 815 to be accounted for separately from the host contract, and recorded on the balance sheet at fair value.  The fair value of derivative liabilities, if any, is required to be revalued at each reporting date, with corresponding changes in fair value recorded in current period operating results. The Company issued warrants in connection with our June 2012 private placement (the “June 2012 Warrants”). The fair value of the June 2012 Warrants was estimated using the Lattice option-pricing model.
+  
+  Freestanding warrants issued by the Company in connection with the issuance or sale of debt and equity instruments are considered to be derivative instruments.  Pursuant to ASC 815, an evaluation of specifically identified conditions is made to determine whether the fair value of warrants issued is required to be classified as equity or as a derivative liability.
+  
+   Comprehensive income is defined as the change in equity (net assets) of a business enterprise during a period from transactions and other events and circumstances from non-owner sources.  It includes all changes in equity during a period, except those resulting from investments by owners and distributions to owners.  Comprehensive income has two components, net income, and other comprehensive income, and is included on the Consolidated Statements of Comprehensive Income. Our other comprehensive income consists of foreign currency translation adjustments made for financial reporting purposes.
+  
+   Business segments. As the Company only operates in principally one business segment, no additional reporting is required.
+  
+   Recent accounting pronouncements. There are new accounting pronouncements issued by the Financial Accounting Standards Board (“FASB”) that are not yet effective for the Company for the year ended June 30, 2018.
+  
+   Revenue from Contracts with Customers – In May 2014, FASB issued ASU No. 2014-09, “Revenue from Contracts with Customers” (Topic 606) (“ASU 2014-09”), which supersedes the revenue recognition requirements in ASC Topic 605, “Revenue Recognition,” and most industry-specific guidance. ASU 2014-09 is based on the principle that revenue is recognized to depict the transfer of goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. ASU 2014-09 also requires additional disclosure about the nature, amount, timing and uncertainty of revenue and cash flows arising from customer contracts, including significant judgments and changes in judgments, and assets recognized from costs incurred to obtain or fulfill a contract. ASU 2014-09 must be applied using one of two retrospective methods and were originally set to be effective for annual and interim periods beginning after December 15, 2016. On July 9, 2015, the FASB modified ASU 2014-09 to be effective for annual reporting periods beginning after December 15, 2017, including interim periods within that reporting period. As modified, the FASB permits the early adoption of the new revenue standard, but not before the annual periods beginning after December 15, 2017. A public organization would apply the new revenue standard to all interim reporting periods within the year of adoption. The Company will adopt this standard in the first quarter of its fiscal year ended June 30, 2019, using the modified retrospective method. We have substantially completed our analysis, and the adoption of this guidance will not have a material impact on our Consolidated Financial Statements and our internal controls over financial reporting.
+  
+   Leases – In February 2016, the FASB issued ASU No. 2016-02, “Leases” (“ASU 2016-02”). This guidance requires an entity to recognize lease liabilities and a right-of-use asset for all leases on the balance sheet and to disclose key information about the entity’s leasing arrangements. ASU 2016-02 must be adopted using a modified retrospective approach for all leases existing at, or entered into after the date of initial adoption, with an option to elect to use certain transition relief. ASU 2016-02 is effective for annual reporting periods beginning after December 15, 2018, including interim periods within that reporting period, with earlier adoption permitted. Our current operating lease portfolio is primarily comprised of real estate leases. Upon adoption of this standard, the Company expects its Consolidated Balance Sheet to include a right-of-use asset and liability related to substantially all of its operating lease arrangements. ASU 2016-02 will be effective for the Company in the first quarter of its fiscal year ending June 30, 2020.
+  
+   F-11
+
+
+  
+ 
+   Income Taxes – In October 2016, the FASB issued ASU 2016-16, “Income Taxes” (Topic 740) (“ASU 2016-16”). ASU 2016-16 requires an entity to recognize the income tax consequences of an intra-entity transfer of an asset, other than inventory, when the transfer occurs. ASU 2016-16 is effective for fiscal years beginning after December 15, 2017, and interim periods within those fiscal years. Early adoption is permitted as of the beginning of an annual reporting period for which financial statements have not been issued or made available for issuance. ASU 2016-16 is effective for the Company in the first quarter of its fiscal year ending June 30, 2019. The Company does not expect this accounting standard to have a significant impact on its financial results when adopted.
+  
+   Compensation – Stock Compensation – In May 2017, the FASB issued ASU 2017-09, “Compensation - Stock Compensation” (Topic 718): Scope of Modification Accounting (“ASU 2017-09”). The new guidance clarifies when a change to the terms or conditions of a share-based payment award must be accounted for as a modification. ASU 2017-09 is effective for fiscal years, and interim periods within those annual periods, beginning after December 15, 2017, with early adoption permitted. ASU 2017-09 is effective for the Company in the first quarter of its fiscal year ending June 30, 2019. The Company does not expect this accounting standard to have a significant impact on its financial results when adopted.
+  
+   Comprehensive Income - In February 2018, the FASB issued ASU 2018-02, “Income Statement - Reporting Comprehensive Income (Topic 220): Reclassification of Certain Tax Effects from Accumulated Other Comprehensive Income” (“ASU 2018-02”). ASU 2018-02 allows entities to elect to reclassify the income tax effects of the Tax Act on items within accumulated other comprehensive income to retained earnings and requires additional related disclosures. ASU 2018-02 is effective for the Company in the first quarter of its fiscal year ending June 30, 2020. The Company is currently evaluating the impact that ASU 2018-02 will have on its Consolidated Financial Statements.
+  
+  No other new accounting pronouncement recently issued or newly effective had or is expected to have a material impact on the Consolidated Financial Statements.
+  
+    3.
+  Acquisition of ISP Optics Corporation
+
+ 
+  On December 21, 2016 (the “Acquisition Date”), the Company acquired 100% of the issued and outstanding shares of common stock (the “Acquisition”) of ISP pursuant to the Stock Purchase Agreement, dated as of August 3, 2016 (the “Purchase Agreement”). The Company’s Consolidated Financial Statements reflect the financial results of ISP’s operations beginning on the Acquisition Date.
+ 
+  Part of our growth strategy is to identify appropriate opportunities that would enhance our profitable growth through acquisition. As we developed our molded infrared capability and learned more about the infrared market, we became aware of larger business opportunities in this market that might be available with a broader range of product capability. We believed acquiring ISP would provide an excellent complementary fit with our business that would meet our requirement of profitable growth in a market space we are investing in, and saw the Acquisition as an opportunity to accelerate our growth, and expand our capabilities and our global reach.
+ 
+
+  For the purposes of financing the Acquisition, simultaneous with the closing, the Company sold 8,000,000 shares of its Class A common stock, raising net proceeds of approximately $8.7 million. See Note 20, Public Offering of Class A Common Stock, to these Consolidated Financial Statements for additional information. The Company also closed a $5 million Term Loan with Avidbank. See Note 18, Loans Payable, to these Consolidated Financial Statements for additional information.
+ 
+
+ In lieu of cash paid, the Company financed a portion of the Acquisition through the issuance of the Sellers Note in the aggregate principal amount of $6 million to Joseph Menaker and Mark Lifshotz (the “Sellers”). For additional information, see Note 18, Loans Payable, to these Consolidated Financial Statements.
+ 
+ The Acquisition Date fair value of the consideration transferred totaled approximately $19.1 million, which consisted of the following:
+ 
+ 
+Cash Purchase Price | $12,000,000
+---------------------------------------+------------
+Cash acquired | 1,243,216 
+Tax payable assumed debt | (200,477) 
+Fair value of Sellers Note | 6,327,208 
+Working capital adjustment | (315,003) 
+Total purchase price | 19,054,944 
+Sellers Note issued at fair value | (6,327,208)
+Preliminary working capital adjustment | (760,822) 
+Adjustment to beginning cash | (163,878) 
+Adjustment to beginning assumed debt | (25,700) 
+Cash paid at Acquisition Date | $11,777,336
+
+
+
+  F-12
+
+
+  
+ 
+ Subsequently in March 2017, a portion of the working capital adjustment, in the amount of $292,816, was applied to the Sellers Note as a payment, thereby decreasing the outstanding principal amount due under the Sellers Note, as reflected in these Consolidated Financial Statements.
+ 
+ The following table summarizes the estimated fair values of the assets acquired and liabilities assumed at the Acquisition Date:
+ 
+ 
+Cash | $1,243,216 
+------------------------------------+-------------
+Accounts receivable | 1,108,980 
+Inventory | 1,134,628 
+Other current assets | 153,450 
+Property and equipment | 4,666,634 
+Security deposit and other assets | 45,359 
+Identifiable intangibles | 11,069,000 
+Total identifiable assets acquired | $19,421,267 
+Accounts payable | $(554,050) 
+Accrued expenses and other payables | (133,974) 
+Other payables | (146,324) 
+Deferred tax liability | (5,386,880) 
+Total liabilities assumed | $(6,221,228)
+Net identifiable assets acquired | 13,200,039 
+Goodwill | 5,854,905 
+Net assets acquired | $19,054,944 
+
+
+
+ As part of the valuation analysis, the Company identified intangible assets, including customer relationships, customer backlog, trade secrets, trademarks and non-compete agreements. The customer relationships, customer backlog, trade secrets, trademarks and non-compete agreements were determined to have estimated values of $3,590,000, $366,000, $3,272,000, $3,814,000, and $27,000, respectively, and estimated useful lives of 15, 2, 8, 8, and 3 years, respectively. The estimated fair value of identifiable intangible assets is determined primarily using the "income approach," which requires a forecast of all future cash flows. The estimated fair values of assets acquired reflects a $2,744,262 adjustment to increase the basis of the acquired property, plant and equipment to reflect fair value of the assets at the Acquisition Date. The estimated useful lives range from 3 years to 10 years. Depreciation and amortization of intangible assets and property, plant and equipment is calculated on a straight-line basis. The estimated fair values of assets acquired and liabilities assumed also reflects a $153,132 adjustment to increase the basis of the acquired inventory to reflect fair value of the inventory and a $230,407 adjustment to decrease the basis of the acquired deferred revenue to reflect the fair value of the deferred revenue at the Acquisition Date. The tax effects of these fair value adjustments resulted in a net deferred tax liability of approximately $5.4 million.
+ 
+ The goodwill recognized is attributable primarily to expected synergies and the assembled workforce of ISP. None of the goodwill is expected to be deductible for income tax purposes.
+ 
+  F-13
+
+
+  
+ 
+ The Company recognized approximately $650,000 of Acquisition related costs that were expensed during the year ended June 30, 2017. These costs are included in the Consolidated Statements of Comprehensive Income in the line item entitled “Selling, general and administrative.” The Company also recognized approximately $930,000 in expenses associated with the public offering of shares of Class A common stock, the net proceeds of which were used to provide funds to pay for a portion of the purchase price of the Acquisition. These expenses were deducted from the gross proceeds received as a result of the public offering of Class A common stock, as reflected in stockholders’ equity. For additional information on this public offering, see Note 20, Public Offering of Class A Common Stock, to these Consolidated Financial Statements.
+ 
+ The amounts of revenue and net income of ISP included in the Company’s Consolidated Statements of Comprehensive Income from the Acquisition Date to the period ending June 30, 2017 are as follows:
+ 
+ 
+Revenue | $8,009,349
+-----------+-----------
+Net income | $981,125 
+
+
+
+ Our Consolidated Financial Statements include the financial results of ISP’s operations for the year ended June 30, 2018. The following represents unaudited pro forma consolidated information as if ISP had been included in the consolidated results of the Company for the year ended June 30, 2017:
+ 
+ 
+ | Year Ended June 30, 2017 
+-----------------------+---------------------------
+Revenue – pro forma | $34,498,656 
+Net income – pro forma | $2,647,533 
+
+
+
+ These amounts have been calculated after applying the Company’s accounting policies and adjusting the results for Acquisition expenses and to reflect the additional interest expense and depreciation and amortization that would have been charged assuming the fair value adjustments to property, plant and equipment and intangible assets had been applied on July 1, 2015, together with the consequential tax effects. For the year ended June 30, 2017, pro forma net income reflects adjustments of approximately $600,000 for amortization of intangibles and approximately $250,000 in additional interest, and excludes approximately $5.4 million for deferred tax benefits, approximately $650,000 in Acquisition expenses and approximately $600,000 of non-recurring fees incurred by ISP.
+  
+  Prior to the Acquisition, the Company had a preexisting relationship with ISP. The Company ordered anti-reflective coating services from ISP on an arms’ length basis. The Company had also partnered with ISP to develop and sell molded optics as part of a multiple lens assembly sold to a third party and had provided certain standard molded optics for resale through ISP’s catalog. At the Acquisition Date, the Company had amounts payable to ISP of $8,000 for services provided prior to the Acquisition and ISP had payables of $24,500 due to the Company.
+ 
+    4.
+  Inventories, net
+
+ 
+ The components of inventories include the following:
+  
+ 
+ | June 30, 2018 | June 30, 2017 
+---------------------------+----------------+---------------
+Raw materials | $2,309,454 | $2,282,880 
+Work in process | 2,506,891 | 1,654,653 
+Finished goods | 2,263,121 | 1,904,497 
+Allowance for obsolescence | (674,725) | (767,454) 
+ | $6,404,741 | $5,074,576 
+
+
+ 
+ 
+  F-14
+
+
+  
+ 
+ During fiscal 2018 and 2017, the Company evaluated all allowed items and disposed of approximately $188,000 and $90,000, respectively, of inventory parts and wrote them off against the allowance for obsolescence.
+  
+  The value of tooling in raw materials was approximately $1.6 million at both June 30, 2018 and 2017.
+ 
+    5.
+  Property and Equipment, net
+
+ 
+ Property and equipment consist of the following:
+  
+ 
+ | Estimated | June 30, | June 30, 
+-----------------------------------------------+--------------+-------------+------------
+ | Life (Years) | 2018 | 2017 
+Manufacturing equipment | 5 - 10 | $16,534,124 | $13,804,964
+Computer equipment and software | 3 - 5 | 513,681 | 375,775 
+Furniture and fixtures | 5 | 199,872 | 112,307 
+Leasehold improvements | 5 - 7 | 1,350,482 | 1,228,797 
+Construction in progress | | 954,317 | 709,571 
+Total property and equipment | | 19,552,476 | 16,231,414 
+Less accumulated depreciation and amortization | | 7,743,235 | 5,906,856 
+Total property and equipment, net | | $11,809,241 | $10,324,558
+
+
+ 
+ During fiscal 2015, we extended the term of our Orlando lease and received a tenant improvement allowance from the landlord of $420,014. This allowance was used to construct improvements and was recorded as leasehold improvements and deferred rent liability. It is being amortized over the corresponding lease term.
+  
+  6. Goodwill and Intangible Assets
+  
+ The change in the net carrying amount of goodwill for fiscal years 2018 and 2017 was as follows:
+  
+ 
+Goodwill at June 30, 2016 | $- 
+--------------------------+-----------
+Additions | 5,854,905 
+Goodwill at June 30, 2017 | 5,854,905 
+Additions | - 
+Goodwill at June 30, 2018 | $5,854,905
+
+
+ 
+ The increase in goodwill during the first half of fiscal 2017 was due to the Acquisition of ISP. There were no changes to the carrying amount of goodwill during the year ended June 30, 2018.
+  
+ Identifiable intangible assets as a result of the Acquisition of ISP were comprised of:
+  
+ 
+ | Useful | June 30, | June 30, 
+------------------------------+-------------+-------------+-----------
+ | Lives (Yrs) | 2018 | 2017 
+Customer relationships | 15 | $3,590,000 | $3,590,000
+Backlog | 2 | 366,000 | 366,000 
+Trade secrets | 8 | 3,272,000 | 3,272,000 
+Trademarks | 8 | 3,814,000 | 3,814,000 
+Non-compete agreement | 3 | 27,000 | 27,000 
+Total intangible assets | | 11,069,000 | 11,069,000
+Less accumulated amortization | (2,011,030) | (693,947) 
+Total intangible assets, net | $9,057,970 | $10,375,053
+
+
+ 
+ 
+  F-15
+
+
+  
+ 
+ Future amortization of identifiable intangibles is as follows:
+ 
+ 
+Fiscal year ending: | 
+------------------------+-----------
+June 30, 2019 | $1,220,664
+June 30, 2020 | 1,129,342 
+June 30, 2021 | 1,125,083 
+June 30, 2022 | 1,125,083 
+June 30, 2023 and later | 4,457,798 
+ | $9,057,970
+
+ 7. Accounts Payable
+ 
+ The accounts payable balance includes $82,000 and $73,000 of earned but unpaid board of directors’ fees, as of June 30, 2018 and 2017, respectively.
+  
+  8. Stockholders’ Equity
+ 
+ 
+  The Company’s authorized capital stock consists of 55,000,000 shares, divided into 50,000,000 shares of common stock, par value $0.01 per share, and 5,000,000 shares of preferred stock, par value $0.01 per share. 
+ 
+  Of the 5,000,000 shares of preferred stock authorized, the board of directors has previously designated:
+  
+   ●
+  250 shares of preferred stock as Series A Preferred Stock, all previously outstanding shares of which have been previously redeemed or converted into shares of our Class A common stock and may not be reissued;
+
+   ●
+  300 shares of our preferred stock as Series B Preferred Stock, all previously outstanding shares of which have been previously redeemed or converted into shares of our Class A common stock and may not be reissued;
+
+   ●
+  500 shares of our preferred stock as Series C Preferred Stock, all previously outstanding shares of which have been previously redeemed or converted into shares of our Class A common stock and may not be reissued;
+
+   ●
+ 500,000 shares of our preferred stock as Series D Preferred Stock, none of which have been issued; however, in 1998, our board of directors declared a dividend distribution as a right to purchase one share of Series D Preferred Stock for each outstanding share of Class A common stock upon occurrence of certain events. The rights will be exercisable only if a person or group acquires twenty percent (20%) or more of our Class A common stock or announces a tender offer, the consummation of which would result in ownership by a person or group of twenty percent (20%) or more of our Class A common stock. As of the date of the filing of this Annual Report on Form 10-K, no such triggering event has occurred. If, in the future, any Series D Preferred Stock are issued, the stockholders of Series D Preferred Stock are entitled to one vote for each share held; and
+
+   ●
+  500 shares of our preferred stock as Series F Preferred Stock, all previously outstanding shares of which have been previously redeemed or converted into shares of our Class A common stock and may not be reissued.
+
+ 
+  Of the 50,000,000 shares of common stock authorized, the board of directors has previously designated 44,500,000 shares authorized as Class A common. The stockholders of Class A common stock are entitled to one vote for each share held. The remaining 5,500,000 shares of authorized common stock were designated Class E-1 common stock, Class E-2 common stock, or Class E-3 common stock, all previously outstanding shares of which have been previously redeemed or converted into shares of Class A common stock.
+  
+  At June 30, 2017, the Company had outstanding warrants to purchase up to 501,474 shares of Class A common stock at $1.22 per share, as adjusted, at any time through December 11, 2017. The warrants were issued in connection with a private placement in fiscal 2012. During fiscal 2018 and 2017, the Company received approximately $534,000 and $706,000, respectively, in net proceeds from the exercise of the June 2012 warrants. The Company issued 433,810 and 578,897 shares of Class A common stock during fiscal 2018 and 2017, respectively, in connection with these exercises. The June 2012 Warrants expired on December 11, 2017. There were no oustanding warrants as of June 30, 2018.
+  
+   F-16
+
+
+  
+ 
+   9.            
+  Income Taxes
+
+ 
+ For financial reporting purposes, income before income taxes includes the following components:
+  
+ 
+ | Year Ended June 30,
+---------------------------+--------------------
+ | 2018 | 2017 
+Pretax income: | | 
+United States | $359,027 | $(485,966)
+Foreign | (126,000) | 3,847,752 
+Income before income taxes | $233,027 | $3,361,786
+
+
+ 
+ The components of the provision for income taxes are as follows:
+  
+ 
+ | Year Ended June 30,
+---------------------------+--------------------
+ | 2018 | 2017 
+Current: | | 
+Federal tax | $57,315 | $98,787 
+State | - | - 
+Foreign | (117,852) | 1,053,617 
+Total current | (60,537) | 1,152,404 
+Deferred: | | 
+Federal tax | (510,125) | (5,384,171) 
+State | (72,875) | (121,000) 
+Foreign | (183,540) | 11,467 
+Total deferred | (766,540) | (5,493,704) 
+Total income tax (benefit) | $(827,077) | $(4,341,300)
+
+
+ 
+  F-17
+
+
+  
+ 
+ The reconciliation of income tax computed at the U.S federal statutory rates to income tax expense is as follows:
+  
+ 
+ | Year Ended June 30,
+---------------------------------------------------+--------------------
+ | 2018 | 2017 
+U.S. federal statutory tax rate | 27.5% | 34.0% 
+Income tax provision reconciliation: | | 
+Tax at statutory rate: | $64,082 | $1,143,010 
+Net foreign income subject to lower tax rate | 25,927 | (464,335) 
+State income taxes, net of federal benefit | (107,997) | 2,418,932 
+Valuation allowance | (11,763,000) | (8,085,000) 
+Changes in statutory income tax rates | 9,114,886 | - 
+IRC 965 repatriation | 1,809,603 | - 
+Federal research and development and other credits | (163,165) | (118,128) 
+Stock-based compensation | 43,818 | 100,469 
+Change in fair value of derivative warrants | 53,524 | 158,965 
+Acquisiton costs | - | 75,332 
+Other permanent differences | 30,758 | (43,295) 
+Other, net | 64,487 | 472,750 
+ | $(827,077) | $(4,341,300)
+
+ Tax Cuts and Jobs Act
+  
+ In December 2017, the U.S. enacted the Tax Cuts and Jobs Act (the “2017 Act”), which changes existing U.S. tax law and includes various provisions that are expected to affect companies. Among other things, the 2017 Act: (i) changes U.S. corporate tax rates, (ii) generally reduces a company’s ability to utilize accumulated net operating losses, and (iii) requires the calculation of a one-time transition tax on certain foreign earnings and profits (“foreign E&P”) that had not been previously repatriated.
+  
+ As of June 30, 2018, we have not fully completed our accounting for the income tax impact of enactment of the 2017 Act. In accordance with SEC Staff Accounting Bulletin No.118, we have recognized provisional amounts for income tax effects of the 2017 Act that we were able to reasonably estimate. We intend to adjust the tax effects for the relevant items during the allowed measurement period. We are still evaluating certain aspects of the Tax Act and refining our calculations, which could potentially affect our tax balances.
+   
+ We were also able to reasonably estimate the tax treatment of our foreign E&P as per the 2017 Act. The 2017 Act provides for a one-time transition tax on our post-1986 foreign E&P that have not been previously repatriated. We have provisionally determined our foreign E&P inclusion is $6.9 million and anticipate that we will not owe any one-time transition tax due to utilization of U.S. net operating loss (“NOL”) carryforward benefits against these earnings. However, we are still refining our calculations, including estimated foreign E&P layers for fiscal 2018, which could impact these amounts. Additionally, U.S. gross deferred tax assets and liabilities have been reduced by an estimated $9.5 million based on the U.S. income tax rate change; however, this reduction was primarily offset by a corresponding reduction to the valuation allowance against the net deferred tax assets, which resulted in minimal net effect to the provision for income taxes as a result of the U.S. income tax rate change.
+  
+  The Company currently intends to permanently invest earnings generated from its foreign Chinese operations, and, therefore, has not previously provided for future Chinese withholding taxes on such related earnings. However, if in the future the Company changes such intention, the Company would provide for and pay additional foreign taxes, if any, at that time.
+  
+  The Company’s Chinese subsidiaries, LPOI and LPOIZ, are governed by the Income Tax Law of the People’s Republic of China concerning the privately run and foreign invested enterprises, which are generally subject to tax at a statutory rate of 25% on income reported in the statutory financial statements after appropriate tax adjustments. During the three months ended December 31, 2017, the statutory tax rate applicable to LPOIZ was lowered from 25% to 15% in accordance with an incentive program for technology companies. The lower rate applies to LPOIZ’s 2017 tax year, beginning January 1, 2017. Accordingly, we recorded a tax benefit of approximately $100,000 during the year ended June 30, 2018 related to this retroactive rate change. For the fiscal year ended June 30, 2018, income taxes were accrued at the applicable rates. No deferred tax provision has been recorded for China, as the effect is deemed de minimis.
+  
+  The Company’s Latvian subsidiary is governed by the Law of Corporate Income Tax of Latvia, which is applicable to privately run and foreign invested enterprises, and which generally subjects such enterprises to a statutory rate of 15% on income reported in the statutory financial statements after appropriate tax adjustments. Effective January 1, 2018, the Republic of Latvia enacted tax reform with the following key provisions: (i) corporations are no longer subject to income tax, but are instead subject to a distribution tax on distributed profits (or deemed distributions, as defined) and (ii) the rate of tax was changed to 20%; however, distribution amounts are first divided by 0.8 to arrive at the profit before tax amount, resulting in an effective tax rate of 25%. Our intent is to distribute profits from ISP Latvia to ISP, its parent company in the U.S.; therefore, we will accrue distribution taxes, if any, as profits are generated. With this change, the concept of taxable income and tax basis in assets and liabilities has been eliminated and is no longer relevant for determining income taxes; therefore, the previously recorded net deferred tax liability related to ISP Latvia was adjusted to zero during the fiscal year ended June 30, 2018, resulting in a tax benefit of approximately $184,000.
+  
+   F-18
+
+
+  
+ 
+ 
+ The tax effects of temporary differences that give rise to significant portions of deferred tax assets and deferred tax liabilities are as follows at June 30:
+  
+ 
+ | 2018 | 2017 
+--------------------------------------------+--------------+-------------
+Deferred tax assets: | | 
+Net operating loss and credit carryforwards | $16,282,000 | $29,014,000 
+Stock-based compensation | 710,000 | 943,000 
+R&D and other credits | 1,899,000 | 1,983,000 
+Capitalized R&D expenses | 373,000 | 562,000 
+Inventory | 143,000 | 243,000 
+Accrued expenses and other | 83,000 | 407,091 
+Gross deferred tax assets | 19,490,000 | 33,152,091 
+Valuation allowance for deferred tax assets | (16,123,000) | (27,886,000)
+Total deferred tax assets | 3,367,000 | 5,266,091 
+Deferred tax liabilities: | | 
+Depreciation and other | (563,000) | (1,187,440) 
+Intangible assets | (2,180,000) | (3,976,000) 
+Total deferred tax liabilities | (2,743,000) | (5,163,440) 
+Net deferred tax asset | $624,000 | $102,651 
+
+
+ 
+ The above deferred balances include a reduction of approximately $244,000 in federal credits related to alternative minimum tax (“AMT”) that have been reclassified to income taxes receivable, as the Company expects to recover these amounts within the next five years due to changes made by the 2017 Act.
+  
+ In assessing the potential future recognition of deferred tax assets, management considers whether it is more likely than not that some portion or all of the deferred tax assets will not be realized. The ultimate realization of deferred tax assets is dependent upon the generation of future taxable income during the periods in which those temporary differences become deductible. Management considers the scheduled reversal of deferred tax liabilities, projected future taxable income, and tax planning strategies in making this assessment. In order to fully realize the deferred tax asset, the Company will need to generate future taxable income of approximately $75 million prior to the expiration of NOL carry-forwards from 2019 through 2035. Based on the level of historical taxable income, management has provided for a valuation adjustment against the deferred tax assets of $16,123,000 at June 30, 2018, a decrease of approximately $11,763,000 as compared to June 30, 2017. The reduction in the valuation allowance for deferred tax assets as compared to the prior year is primarily the result of a $9.5 million decrease resulting from the reduction of the U.S. statutory corporate income tax rate from a maximum of 35% to a flat 21%, effective January 1, 2018. The net deferred tax asset results from federal and state tax credits with indefinite carryover periods and approximately $500,000 in federal NOL carryforwards that management expects to utilize in a future period. State income tax expense disclosed on the effective tax rate reconciliation above includes state deferred taxes that are offset by a full valuation allowance.
+   
+  F-19
+
+
+  
+ 
+  At June 30, 2018, in addition to net operating loss carry-forwards, the Company also has research and development credit carry forwards of approximately $1,630,000, of which $38,505 will expire in fiscal 2019 and the remainder will expire from 2020 through 2036. A portion of the NOL carry forwards may be subject to certain limitations of the Internal Revenue Code Sections 382 and 383, which would restrict the annual utilization in future periods due principally to changes in ownership in prior periods.
+  
+  The Company has not recognized a liability for uncertain tax positions. A reconciliation of the beginning and ending amount of unrecognized tax benefits or penalties has not been provided since there has been no unrecognized tax benefit or penalty. If there were an unrecognized tax benefit or penalty, the Company would recognize interest accrued related to unrecognized tax benefits in interest expense and penalties in operating expenses.
+  
+  The Company files U.S. Federal income tax returns, and returns in various states and foreign jurisdictions. The Company's open tax years subject to examination by the Internal Revenue Service and the Florida Department of Revenue generally remain open for three years from the date of filing.
+  
+  10.    Compensatory Equity Incentive Plan and Other Equity Incentives
+  
+ Share-based payment arrangements — The Omnibus Plan provides several available forms of stock compensation, including incentive stock options, non-qualified stock options and restricted stock unit (“RSU”) awards. Stock-based compensation is measured at grant date, based on the fair value of the award, and is recognized as an expense over the employee’s requisite service period. The Company estimates the fair value of each stock option as of the date of grant using the Black-Scholes-Merton pricing model. Most options granted under the Omnibus Plan vest ratably over two to four years and generally have ten-year contract lives. The volatility rate is based on four-year historical trends in common stock closing prices and the expected term was determined based primarily on historical experience of previously outstanding options. The interest rate used is the U.S. Treasury interest rate for constant maturities. The likelihood of meeting targets for option grants that are performance based are evaluated each quarter. If it is determined that meeting the targets is probable, then the compensation expense will be amortized over the remaining vesting period.
+ 
+ The LightPath Technologies, Inc. Employee Stock Purchase Plan (“2014 ESPP”) was adopted by the Company’s board of directors on October 30, 2014 and approved by the Company’s stockholders on January 29, 2015. The 2014 ESPP permits employees to purchase Class A common stock through payroll deductions, which may not exceed 15% of an employee’s compensation, at a price not less than 85% of the market value of the Class A common stock on specified dates (June 30 and December 31). In no event can any participant purchase more than $25,000 worth of shares of Class A common stock in any calendar year and an employee cannot purchase more than 8,000 shares on any purchase date within an offering period of 12 months and 4,000 shares on any purchase date within an offering period of six months. This discount of approximately $4,900 and $1,900 for fiscal 2018 and 2017, respectively, is included in the selling, general and administrative expense in the accompanying Consolidated Statements Comprehensive Income, which represents the value of the 10% discount given to the employees purchasing stock under the 2014 ESPP.
+ 
+ These plans are summarized below:
+  
+ 
+ | | | Available for
+--------------------------------+--------------+-------------+--------------
+ | | Outstanding | Issuance 
+ | Award Shares | at June 30, | at June 30, 
+Equity Compensation Arrangement | Authorized | 2018 | 2018 
+Omnibus Plan | 5,115,625 | 2,654,482 | 1,650,870 
+2014 ESPP | 400,000 | — | 358,008 
+ | 5,515,625 | 2,654,482 | 2,008,878 
+
+
+ 
+ Grant Date Fair Values and Underlying Assumptions; Contractual Terms—The Company estimates the fair value of each stock option as of the date of grant. The Company uses the Black-Scholes-Merton pricing model. The 2014 ESPP fair value is the amount of the discount the employee obtains at the date of the purchase transaction.
+ 
+ For stock options and RSUs granted in the years ended June 30, 2018 and 2017, the Company estimated the fair value of each stock award as of the date of grant using the following assumptions:
+  
+ 
+ | Year Ended June 30,
+-----------------------------------------+--------------------
+ | 2018 | 2017 
+Weighted-average expected volatility | 63% - 75% | 77% - 83% 
+Dividend yields | 0% | 0% 
+Weighted-average risk-free interest rate | 1.28% - 2.82% | 1.24% - 1.90%
+Weighted-average expected term, in years | 7.27 | 7.49 
+
+
+ 
+  F-20
+
+
+  
+ 
+ The assumed forfeiture rates used in calculating the fair value of options and restricted stock unit grants with both performance and service conditions were 20% for each of the years ended June 30, 2018 and 2017. The volatility rate and expected term are based on seven-year historical trends in Class A common stock closing prices and actual forfeitures. The interest rate used is the U.S. Treasury interest rate for constant maturities.
+ 
+ Information Regarding Current Share-Based Payment Awards — A summary of the activity for share-based payment awards in the years ended June 30, 2018 and 2017 is presented below: 
+  
+ 
+ | | | | Restricted 
+----------------------+-----------+---------------+-----------+-------------------
+ | | Stock Options | | Stock Units (RSUs)
+ | | Weighted- | Weighted- | | Weighted-
+ | | Average | Average | | Average 
+ | | Exercise | Remaining | | Remaining
+ | Shares | Price | Contract | Shares | Contract 
+June 30, 2016 | 819,260 | $1.90 | 5.6 | 1,311,795 | 0.9 
+Granted | 346,926 | $1.63 | 9.4 | 230,772 | 2.3 
+Exercised | — | — | — | (33,785) | — 
+Cancelled/Forfeited | (70,000) | $4.04 | — | — | — 
+June 30, 2017 | 1,096,186 | $1.68 | 6.3 | 1,508,782 | 0.9 
+Granted | 68,849 | $3.88 | — | 140,571 | 2.2 
+Exercised | (127,813) | $1.80 | — | — | — 
+Cancelled/Forfeited | (32,093) | $2.62 | — | — | — 
+June 30, 2018 | 1,005,129 | $1.77 | 6.3 | 1,649,353 | 0.9 
+Awards exercisable/ | | | | | 
+vested as of | | | | | 
+June 30, 2018 | 786,710 | $1.63 | 5.7 | 1,287,370 | — 
+Awards unexercisable/ | | | | | 
+unvested as of | | | | | 
+June 30, 2018 | 218,419 | $2.26 | 8.4 | 361,983 | 0.9 
+ | 1,005,129 | | | 1,649,353 | 
+
+
+
+  The total intrinsic value of stock options exercised for the years ended June 30, 2018 and 2017 was approximately $1,000 and $0, respectively.
+  
+  The total intrinsic value of stock options outstanding and exercisable at June 30, 2018 and 2017 was approximately $573,000 and $803,000, respectively.
+ 
+  The total fair value of stock options vested during the years ended June 30, 2018 and 2017 was approximately $103,000 and $318,000, respectively.
+ 
+  The total intrinsic value of RSUs exercised during the years ended June 30, 2018 and 2017 was approximately $0 and $79,000, respectively.
+ 
+  The total intrinsic value of RSUs outstanding and exercisable at June 30, 2018 and 2017 was approximately $3.0 million and $2.8 million, respectively.
+ 
+  The total fair value of RSUs vested during the years ended June 30, 2018 and 2017 was approximately $320,000 and $386,000, respectively.
+  
+   F-21
+
+
+  
+ 
+ As of June 30, 2018, there was approximately $484,000 of total unrecognized compensation cost related to non-vested share-based compensation arrangements, including share options and restricted stock units (“RSUs”), granted under the Omnibus Plan. The expected compensation cost to be recognized is as follows:
+ 
+ 
+ | Stock | | 
+--------------------------+---------+----------+---------
+ | Options | RSUs | Total 
+Year ending June 30, 2019 | 21,953 | 264,982 | 286,935 
+Year ending June 30, 2020 | 8,926 | 149,944 | 158,870 
+Year ending June 30, 2021 | 5,939 | 29,978 | 35,917 
+Year ending June 30, 2022 | 2,021 | — | 2,021 
+ | $38,839 | $444,904 | $483,743
+
+
+ 
+ The table above does not include shares under the Company’s 2014 ESPP, which has purchase settlement dates in the second and fourth fiscal quarters. The Company’s 2014 ESPP is not administered with a look-back option provision and, as a result, there is not a population of outstanding option grants during the employee contribution period.
+  
+ RSU awards vest immediately or from two to four years from the grant date.
+ 
+ The Company issues new shares of Class A common stock upon the exercise of stock options. The following table is a summary of the number and weighted-average grant date fair values regarding our unexercisable/unvested awards as of June 30, 2018 and 2017 and changes during the two years then ended:
+ 
+ 
+Unexercisable/Unvested Awards | Stock Options Shares | RSU Shares | Total Shares | Weighted-Average Grant Date Fair Values (per share) 
+------------------------------+----------------------+------------+--------------+------------------------------------------------------
+June 30, 2016 | 182,250 | 441,599 | 623,849 | $1.35 
+Granted | 346,926 | 230,772 | 577,698 | $1.33 
+Vested | (275,915) | (233,459) | (509,374) | $1.28 
+Cancelled/Forfeited | (8,750) | — | (8,750) | $1.02 
+June 30, 2017 | 244,511 | 438,912 | 683,423 | $1.39 
+Granted | 68,849 | 140,571 | 209,420 | $3.61 
+Vested | (85,191) | (217,500) | (302,691) | $3.78 
+Cancelled/Forfeited | (9,750) | — | (9,750) | $2.36 
+June 30, 2018 | 218,419 | 361,983 | 580,402 | $1.53 
+
+
+ 
+ Acceleration of Vesting — The Company does not generally accelerate the vesting of any stock options.
+  
+  F-22
+
+
+  
+ 
+ Financial Statement Effects and Presentation — The following table shows total stock-based compensation expense for the years ended June 30, 2018 and 2017 included in the accompanying Consolidated Statements of Comprehensive Income:
+  
+ 
+ | Year Ended June 30,
+------------------------------------+--------------------
+ | 2018 | 2017 
+Stock options | $38,572 | $46,840 
+RSUs | 334,982 | 348,035 
+Total | $373,554 | $394,875
+The amounts above were included in: | | 
+Selling, general & administrative | $366,407 | $389,675
+Cost of sales | 5,910 | 3,876 
+New product development | 1,237 | 1,324 
+ | $373,554 | $394,875
+
+ 11.    Earnings Per Share
+  
+  Basic earnings per share is computed by dividing net income by the weighted-average number of shares of Class A common stock outstanding during each period presented. Diluted earnings per share is computed similarly to basic earnings per share except that it reflects the potential dilution that could occur if dilutive securities or other obligations to issue shares of Class A common stock were exercised or converted into shares of Class A common stock. The computations for basic and diluted earnings per share are described in the following table:
+
+ | Year Ended June 30,
+--------------------------------------------+--------------------
+ | 2018 | 2017 
+Net income | $1,060,104 | $7,703,086
+Weighted-average common shares outstanding: | | 
+Basic number of shares | 25,006,467 | 20,001,868
+Effect of dilutive securities: | | 
+Options to purchase common stock | 331,985 | 142,482 
+RSUs | 1,387,348 | 1,167,540 
+Common stock warrants | 85,668 | 354,502 
+Diluted number of shares | 26,811,468 | 21,666,392
+Earnings per common share: | | 
+Basic | $0.04 | $0.39 
+Diluted | $0.04 | $0.36 
+
+
+ 
+ The following potential dilutive shares were not included in the computation of diluted earnings per share, as their effects would be anti-dilutive:
+  
+ 
+Options to purchase common stock | 739,864 | 378,278 
+---------------------------------+-----------+----------
+RSUs | 216,946 | 289,036 
+Common stock warrants | 85,018 | 518,087 
+ | 1,041,828 | 1,185,401
+
+
+ 
+  F-23
+
+
+  
+ 
+   12.            
+  Defined Contribution Plan
+
+ 
+ The Company provides retirement benefits to its U.S.-based employees through a defined contribution retirement plan. Until April 12, 2018, these benefits were offered under the ADP Total Source 401(k) plan (the “ADP Plan”). The ADP Plan was a defined 401(k) contribution plan, administered by a third party, that all U.S. employees, over the age of 21, were eligible to participate in after three months of employment. Under the ADP Plan, annual discretionary contributions could be made by the Company to match a portion of the funds contributed by employees. Effective April 12, 2018, all plan assets were transferred to the Insperity 401(k) plan (the “Insperity Plan”). The Insperity Plan is a defined 401(k) contribution plan that all employees, over the age of 21, are eligible to participate in after three months of employment. Under the Insperity Plan, the Company matches 100% of the first 2% of employee contributions. As of June 30, 2018, there were 56 employees who are enrolled in this plan. The Company made matching contributions of approximately $34,000 during the year ended June 30, 2018. There were no matching contributions during the year ended June 30, 2017.
+  
+   13.            
+  Lease Commitments
+
+ 
+  The Company has operating leases for its manufacturing and office space. At June 30, 2018, the Company has a lease agreement for its corporate headquarters and manufacturing facility in Orlando, Florida (the “Orlando Lease”). The Orlando Lease, which is for a seven-year original term with renewal options, expires in April 2022 and expanded our space to 25,847 square feet, including space added in July 2014. Minimum rental rates for the extension term were established based on annual increases of two and one half percent starting in the third year of the extension period. Additionally, there is one five-year extension option exercisable by the Company. The minimum rental rates for such additional extension option will be determined at the time an option is exercised and will be based on a “fair market rental rate,” as determined in accordance with the Orlando Lease, as amended.
+ 
+  The Company received $420,000 in a leasehold improvement allowance in fiscal 2015. This amount is included in the property and equipment and deferred rent on the Consolidated Balance Sheets. Amortization of leasehold improvements was approximately $187,000 as of June 30, 2018. The deferred rent is being amortized as a reduction in lease expense over the term of the lease.
+ 
+   On April 20, 2018, the Company entered into a lease agreement for an additional 12,378 square feet in Orlando, Florida (the “Orlando Lease II”). The Orlando Lease II will provide additional manufacturing and office space near the Company’s corporate headquarters. The anticipated commencement date of the Orlando Lease II is November 1, 2018, with a four-year original term with one renewal option for a five-year term. The Orlando Lease II provides for a tenant improvement allowance of up to $309,450.
+  
+  As of June 30, 2018, the Company, through its wholly-owned subsidiary, LPOI, has a lease agreement for an office facility in Shanghai, China (the “Shanghai Lease”) for 1,900 square feet. The Shanghai Lease commenced in October 2015. During fiscal 2018, the Shanghai Lease was renewed for an additional one-year term, and now expires in October 2019.
+  
+  As of June 30, 2018, the Company, through its wholly-owned subsidiary, LPOIZ, has a lease agreement for a manufacturing and office facility in Zhenjiang, China (the “Zhenjiang Lease”) for 26,000 square feet. The Zhenjiang Lease, which is for a five-year original term with renewal options, expires in March 2019. During fiscal 2018, another lease was executed for 13,000 additional square feet in this same facility. This new lease has a 54-month term, and expires in December 2021.
+  
+   At June 30, 2018, the Company, through its wholly-owned subsidiary ISP, has a lease agreement for a manufacturing and office facility in Irvington, New York (the “ISP Lease”) for 13,000 square feet. The ISP Lease, which is for a five-year original term with renewal options, expires in September 2020. We will be relocating the Irvington manufacturing operations to our existing facilities in Orlando and Riga during fiscal 2019, and some of the manufacturing operations currently performed in the Irvington facility will transition to our facility in Zhenjiang.
+  
+  At June 30, 2018, the Company, through ISP’s wholly-owned subsidiary ISP Latvia, has two lease agreements for a manufacturing and office facility in Riga, Latvia (the “Riga Leases”) for an aggregate of 23,000 square feet. The Riga Leases, each of which is for a five-year original term with renewal options, expires in December 2019.
+  
+  As of June 30, 2018, the Company has obligations under five capital lease agreements, entered into during fiscal years 2015, 2016, 2017 and 2018, with terms ranging from three to five years. The leases are for manufacturing equipment, which are included as part of property and equipment in the accompanying Consolidated Balance Sheets. Assets under capital lease include approximately $1.5 million and $749,000 in manufacturing equipment, with accumulated amortization of approximately $646,000 and $361,000 as of June 30, 2018 and 2017, respectively. Amortization related to assets under capital leases is included in depreciation expense.
+  
+  Rent expense totaled $1.0 million and $770,000 during the years ended June 30, 2018 and 2017, respectively.
+  
+   F-24
+
+
+  
+ 
+ The approximate future minimum lease payments under capital and operating leases at June 30, 2018 were as follows:
+  
+ 
+Fiscal year ending June 30, | Capital Leases | Operating Leases
+------------------------------------------------------------------------------+----------------+-----------------
+2019 | $360,256 | $909,000 
+2020 | 309,122 | 917,000 
+2021 | 234,478 | 679,000 
+2022 | 58,308 | 558,000 
+2023 | — | 60,869 
+Total minimum payments | 962,164 | $3,123,869 
+Less imputed interest | (104,838) | 
+Present value of minimum lease payments included in capital lease obligations | 857,326 | 
+Less current portion | 307,199 | 
+Non-current portion | $550,127 | 
+
+
+ 
+   14.            
+  Contingencies
+
+ 
+ The Company from time to time is involved in various legal actions arising in the normal course of business. Management, after reviewing with legal counsel all of these actions and proceedings, believes that the aggregate losses, if any, will not have a material adverse effect on the Company’s financial position or results of operations.
+  
+   15.            
+  Foreign Operations
+
+ 
+ Assets and liabilities denominated in non-U.S. currencies are translated at rates of exchange prevailing on the balance sheet date, and revenues and expenses are translated at average rates of exchange for the period. During the years ended June 30, 2018 and 2017, we recognized a gain of approximately $141,000 and $78,000 on foreign currency translation, respectively, included in the Consolidated Statements of Comprehensive Income in the line item entitled “Other income (expense), net.” Gains or losses on the translation of the financial statements of a non-U.S. operation, where the functional currency is other than the U.S. dollar, are reflected as a separate component of equity, which was a gain of approximately $474,000 and $295,000 at June 30, 2018 and 2017, respectively.
+ 
+ Assets and net assets in foreign countries are as follows:
+ 
+ 
+ | China | Latvia 
+-----------+-----------------+----------------
+ | June 30, 2018 | June 30, 2017 | June 30, 2018 | June 30, 2017 
+Assets | $14.7 million | $14.0 million | $6.4 million | $6.1 million 
+Net assets | $12.6 million | $12.3 milllion | $5.9 million | $6.0 million 
+
+
+ 
+   16.            
+  Supplier and Customer Concentrations
+
+
+ We utilize a number of glass compositions in manufacturing our molded glass aspheres and lens array products. These glasses or equivalents are available from a large number of suppliers, including CDGM Glass Company Ltd., Ohara Corporation, and Sumita Optical Glass, Inc. Base optical materials, used in certain of our specialty products, are manufactured and supplied by a number of optical and glass manufacturers. ISP utilizes major infrared material suppliers located around the globe for a broad spectrum of infrared crystal and glass. The Company believes that a satisfactory supply of such production materials will continue to be available, at reasonable prices or, in some cases, at increased prices, although there can be no assurance in this regard.
+  
+  F-25
+
+
+  
+ 
+ In fiscal 2018, sales to three customers comprised an aggregate of approximately 28% of our annual revenue, and 28% of accounts receivable as of June 30, 2018. In fiscal 2017, sales to three customers comprised an aggregate of approximately 26% of our annual revenue, and 26% of accounts receivable as of June 30, 2017. The loss of any of these customers, or a significant reduction in sales to any such customer, would adversely affect our revenues.
+  
+ In fiscal 2018, 58% of our net revenue was derived from sales outside of the United States, with 84% of our foreign sales derived from customers in Europe and Asia. In fiscal 2017, 61% of our net revenue was derived from sales outside of the United States, with 88% of our foreign sales derived from customers in Europe and Asia.
+  
+   17.            
+  Derivative Financial Instruments (Warrant Liability)
+
+ 
+  On June 11, 2012, the Company executed a Securities Purchase Agreement with respect to a private placement of an aggregate of 1,943,852 shares of its Class A common stock at $1.02 per share and the June 2012 Warrants to purchase up to 1,457,892 shares of its Class A common stock at an initial exercise price of $1.32 per share, which was subsequently reduced to $1.26, and then to $1.22 on December 21, 2016 as a result of our public offering. The June 2012 Warrants are exercisable for a period of five years beginning on December 11, 2012. The Company accounted for the June 2012 Warrants issued to investors in accordance with ASC 815-10. ASC 815-10 provides guidance for determining whether an equity-linked financial instrument (or embedded feature) is indexed to an entity’s own stock. This applies to any freestanding financial instrument or embedded feature that has all the characteristics of a derivative under ASC 815-10, including any freestanding financial instrument that is potentially settled in an entity’s own stock.
+  
+ Due to certain adjustments that may be made to the exercise price of the June 2012 Warrants if the Company issues or sell shares of its Class A common stock at a price that is less than the then-current warrant exercise price, the June 2012 Warrants have been classified as a liability, as opposed to equity, in accordance with ASC 815-10, as it was determined that the June 2012 Warrants were not indexed to the Company’s Class A common stock.
+  
+ The fair value of the outstanding June 2012 Warrants was re-measured at the end of each reporting period to reflect the then-current fair market value. The fair value was also re-measured upon each warrant exercise, to determine the fair value adjustment to the warrant liability related to the warrant exercise. As of June 30, 2017, there were 329,195 shares of Class A common stock underlying our outstanding June 2012 Warrants that were issued to investors. As of June 30, 2017, there were also 172,279 shares of Class A common stock underlying the outstanding June 2012 Warrants, which were issued to investment bankers, that do not require fair value re-measurement as they contain different provisions. The June 2012 Warrants expired on December 11, 2017. All warrants that required fair value re-measurement were exercised prior to expiration, and as such, the warrant liability was reduced to zero as of that date. The change in fair value of the June 2012 Warrants is recorded in the Consolidated Statements of Comprehensive Income, as estimated using the Lattice option-pricing model using the following range of assumptions for the respective periods:
+  
+ 
+ | Year Ended June 30,
+-------------------------------------------------+--------------------
+Inputs into Lattice model for warrants: | 2018 | 2017 
+Equivalent volatility | 21.06% - 162.92% | 47.39% - 75.80%
+Equivalent interest rate | 0.95% - 1.14% | 0.62% - 1.13% 
+Floor | $1.15 | $1.15 
+Stock price | $2.56 - $2.60 | $1.15 - $3.25 
+Probability price < strike price | 0.00% | 4.70% 
+Fair value of call | $1.13 - $2.79 | $0.30 - $2.04 
+Probability of fundamental transaction occurring | 0% | 0% 
+
+
+ 
+ All warrants issued by the Company other than the above noted June 2012 Warrants are classified as equity.
+ 
+ The warrant liabilities were considered recurring Level 3 financial instruments. The following table summarizes the activity of Level 3 financial instruments measured on a recurring basis for the years ended June 30, 2018 and 2017:
+ 
+ 
+ | Warrant Liability
+----------------------------------------------------+------------------
+Fair value, June 30, 2016 | $717,393 
+Reclassification of warrant liability upon exercise | (694,436) 
+Change in fair value of warrant liability | 467,543 
+Fair value, June 30, 2017 | 490,500 
+Reclassification of warrant liability upon exercise | (685,132) 
+Change in fair value of warrant liability | 194,632 
+Fair value, June 30, 2018 | $- 
+
+
+
+  
+F-26
+
+
+ 
+
+   18.
+ Loans Payable
+
+ 
+  Avidbank Note
+  
+  Amended LSA and Term Loan
+  
+  On December 21, 2016, the Company executed the Second Amended and Restated Loan and Security Agreement (the “Amended LSA”) with Avidbank for the acquisition term loan (the “Term Loan”) in the aggregate principal amount of $5 million and a working capital revolving line of credit (the “Revolving Line”). The Amended LSA amends and restates that certain Loan and Security Agreement between Avidbank and the Company dated September 30, 2013, as amended and restated pursuant to that certain Amended and Restated Loan and Security Agreement dated as of December 23, 2014, and as further amended pursuant to that certain First Amendment to Amended and Restated Loan and Security Agreement dated as of December 23, 2015.
+  
+  The Term Loan, which was paid in full on January 16, 2018, pursuant to the Second Amendment, as defined below, was for a five-year term. Pursuant to the Amended LSA, interest on the Term Loan began accruing on December 21, 2016 and was paid monthly for the first six months of the term of the Term Loan. Thereafter, both principal and interest was due and payable in fifty-four (54) monthly installments. The Term Loan bore interest at a per annum rate equal to two percent (2.0%) above the Prime Rate; provided, however, that at no time was the applicable rate permitted to be less than five and one-half percent (5.50%) per annum. Prepayment was permitted; however, in order to prepay the Term Loan, certain prepayment fees applied.
+  
+  Pursuant to the Amended LSA, Avidbank agreed, in its discretion, to make loan advances under the Revolving Line to us up to a maximum aggregate principal amount outstanding not to exceed the lesser of (i) One Million Dollars ($1,000,000) or (ii) eighty percent (80%) (the “Maximum Advance Rate”) of the aggregate balance of our eligible accounts receivable, as determined by Avidbank in accordance with the Amended LSA. Upon the occurrence and during the continuance of an event of default, Avidbank may, in its discretion, cease making advances and terminate the Amended LSA; provided, that at the time of termination, no obligations remain outstanding and Avidbank has no obligation to make advances under the Amended LSA. Avidbank also has the discretion to determine that certain accounts are not eligible accounts.
+  
+   Amounts borrowed under the Revolving Line may be repaid and re-borrowed at any time prior to the maturity date, at which time all amounts shall be immediately due and payable. The advances under the Revolving Line bear interest, on the outstanding daily balance, at a per annum rate equal to one percent (1%) above the Prime Rate; provided, however, that at no time shall the applicable rate be less than four and one-half percent (4.5%) per annum. Interest payments are due and payable on the last business day of each month. Payments received with respect to accounts upon which advances are made will be applied to the amounts outstanding under the Amended LSA. There were no borrowings under the Revolving Line during the fiscal years ended June 30, 2018 and 2017. As of June 30, 2018 and 2017, there was no outstanding balance under the Revolving Line.
+  
+  The Company’s obligations under the Amended LSA are collateralized by a first priority security interest (subject to permitted liens) in cash, U.S. inventory, accounts receivable, inventory and equipment. In addition, the Company’s wholly-owned subsidiary, Geltech, has guaranteed its obligations under the Amended LSA.
+  
+    The Amended LSA contains customary covenants, including, but not limited to: (i) limitations on the disposition of property; (ii) limitations on changing our business or permitting a change in control; (iii) limitations on additional indebtedness or encumbrances; (iv) restrictions on distributions; and (v) limitations on certain investments. Additionally, the Amended LSA requires us to maintain a fixed charge coverage ratio (as defined in the Amended LSA) of at least 1.15 to 1.00 and an asset coverage ratio (as defined in the Amended LSA) of at least 1.50 to 1.00. The fixed charge coverage ratio was amended for the quarters ended March 31, 2018 and June 30, 2018, pursuant to the Third Amendment, as defined below. As of June 30, 2018, we were not in compliance with the fixed charge coverage ratio; however, Avidbank provided a waiver of compliance pursuant to that certain Fourth Amendment to the Amended LSA, dated September 7, 2018, entered into between us and Avidbank (the “Fourth Amendment”), as discussed below.
+  
+  Late payments are subject to a late fee equal to the lesser of five percent (5%) of the unpaid amount or the maximum amount permitted to be charged under applicable law. Amounts outstanding during an event of default accrue interest at a rate of five percent (5%) above the interest rate applicable immediately prior to the occurrence of the event of default. The Amended LSA contains other customary provisions with respect to events of default, expense reimbursement, and confidentiality.
+  
+  First Amendment to the Amended LSA
+  
+   On December 20, 2017, the Company executed the First Amendment to the Amended LSA (the “First Amendment”). The First Amendment amended, among other items, the maturity date of the Revolving Line from December 21, 2017 to March 21, 2018, increased the maximum amount of indebtedness collateralized by permitted liens from $600,000 to $800,000 in the aggregate, and increased the aggregate amount the Company may maintain in accounts with financial institutions in Riga, Latvia from $500,000 to $1,000,000. The maturity date of the Revolving Line was extended to December 21, 2018, pursuant to the Second Amendment (as defined below).
+  
+ 
+   F-27
+
+
+  
+ 
+  Second Amendment to the Amended LSA
+  
+    On January 16, 2018, the Company entered into a Second Amendment to the Amended LSA (the “Second Amendment”) relating to the Term Loan. Pursuant to the Second Amendment, Avidbank paid a single cash advance to the Company in an original principal amount of $7,294,000 (the “Term II Loan”). The proceeds of the Term II Loan were used to repay all amounts owing with respect to the Term Loan, which was approximately $4.4 million, with the remaining $2.9 million in proceeds used to repay the amounts owing under the Sellers Note. As of January 16, 2018, the Term Loan was deemed satisfied in full and terminated. The Term II Loan is for a five-year term. Pursuant to the Second Amendment, interest on the Term II Loan accrues starting on January 16, 2018 and both principal and interest is due and payable in sixty (60) monthly installments beginning on the tenth day of the first month following the date of the Second Amendment (or February 10, 2018), and continuing on the same day of each month thereafter for so long as the Term II Loan is outstanding. The Term II Loan bears interest at a per annum rate equal to two percent (2.0%) above the Prime Rate, or 7.0% as of June 30, 2018; provided, however, that at no time shall the applicable rate be less than five-and-one-half percent (5.50%) per annum. Prepayment by the Company is permitted; however, the Company must pay a prepayment fee in an amount equal to (i) 0.75% of the Excess Prepayment Amount if prepayment occurs on or prior to January 16, 2019, or (ii) 0.5% of the Excess Prepayment Amount if prepayment occurs after January 16, 2019 but on or before January 16, 2020, or (iii) 0.25% of the Excess Prepayment Amount if prepayment occurs after January 16, 2020 but on or prior to January 16, 2021, or (iv) 0.10% of the Excess Prepayment Amount if such prepayment occurs after January 16, 2021 but on or prior to January 16, 2022. For purposes of the Second Amendment, the “Excess Prepayment Amount” equals the amount of the Term II Loan being prepaid in excess of $2,850,000.
+  
+  The Second Amendment amended, among other items, (1) certain definitions related to the fixed charge coverage ratio, and (2) the maturity date of the Revolving Line from March 21, 2018 to December 21, 2018.
+  
+   Costs incurred of approximately $72,000 were recorded as a discount on debt and will be amortized over the five-year term of the Term Loan. Additional costs of approximately $60,000 were incurred in conjunction with the Second Amendment and were also recorded as a discount on debt, and the combined costs will be amortized over the five-year term of the Term II Loan. Amortization of approximately $19,700 and $7,700 is included in interest expense for the years ended June 30, 2018 and 2017, respectively.
+  
+  Third Amendment to the Amended LSA
+ 
+ 
+  On May 11, 2018, the Company and Avidbank entered into the Third Amendment to the Amended LSA (“the Third Amendment”). The Third Amendment (i) amends the definition of “Permitted Indebtedness” and (ii) amends Section 6.8(a) of the Amended LSA to require that the Company, and each of its domestic subsidiaries, maintain all of its domestic depository and operating accounts with Avidbank beginning on June 1, 2018 and to prohibit the Company from maintaining a domestic account balance outside of Avidbank that exceeds Ten Thousand Dollars ($10,000) during the transition period. The Third Amendment also amends Section 6.9(a) of the Amended LSA to require that the Company maintain a fixed charge coverage ratio, as measured on June 30, 2018, of at least 1.10 to 1.00,and thereafter, beginning with the quarter ending on September 30, 2018, to maintain a fixed charge coverage ratio of at least 1.15 to 1.00. Additionally, pursuant to the Third Amendment, Avidbank granted the Company a waiver of default arising prior to the Third Amendment from its failure to comply with the fixed charge coverage ratio measured on March 31, 2018.
+  
+  Fourth Amendment to the Amended LSA
+  
+  On September 7, 2018, the Company entered into the Fourth Amendment. Pursuant to the Fourth Amendment, Avidbank granted the Company a waiver of default arising prior to the Fourth Amendment from its failure to comply with the fixed charge coverage ratio covenant measured on June 30, 2018. Based on the waiver, the Company is no longer in default on the Term II Loan or Revolving Line. The Fourth Amendment also provides for the restriction of $1 million of the Company’s cash, which will be released upon two consecutive quarters of compliance with the fixed charge coverage ratio covenant, and so long as no event of default has occurred that is continuing on that date. The Fourth Amendment also provides that during the restrictive period, the calculation of the fixed charge coverage ratio will be determined as if the outstanding principal amount of the Term II Loan is $1,000,000 less than the actual outstanding principal amount of the Term II Loan. As a result, the Term II Loan is classified in the Consolidated Balance Sheets according to the original minimum maturity schedule.
+  
+  Sellers Note
+  
+  On December 21, 2016, the Company also entered into the Sellers Note in the aggregate principal amount of $6 million. The Sellers Note was fully satisfied on January 16, 2018, as discussed in Note 19, Note Satisfaction and Securities Purchase Agreement, to these Consolidated Financial Statements.
+  
+  Pursuant to the Sellers Note, during the period commencing on December 21, 2016 (the “Issue Date”) and continuing until the fifteen-month anniversary of the Issue Date (the “Initial Period”), interest accrued on only the principal amount of the Sellers Note in excess of $2.7 million at an interest rate equal to ten percent (10%) per annum. After the Initial Period, interest would have accrued on the entire unpaid principal amount of the Sellers Note from time to time outstanding, at an interest rate equal to ten percent (10%) per annum. Given that the Sellers Note was satisfied in full in January 2018, the Company paid interest semi-annually in arrears solely during the Initial Period. The Sellers Note originally had a five-year term. The Company had the right to prepay the Sellers Note in whole or in part without penalty or premium.
+  
+   F-28
+
+
+  
+ 
+   The Sellers Note was valued based on the present value of expected cash flows. The fair value of the Sellers Note was determined to be approximately $6,327,200 based on the present value of expected future cash flows, using a risk-adjusted discount rate of 7.5%. The Sellers Note is included in loans payable, less current portion on the accompanying Consolidated Balance Sheet as of June 30, 2017. As of January 16, 2018, the date the note was satisfied in full, the fair value adjustment liability was approximately $467,000. Upon satisfaction of the note, this amount was reduced to zero and the resulting gain in extinguishment of debt is in the accompanying Consolidated Statements of Comprehensive Income in the line item entitled “Interest expense, net.”
+  
+ There were no payment defaults or other events of default prior to the Sellers Note being paid in full on January 16, 2018. If a payment default, or any other “event of default,” such as a bankruptcy event or a change of control of the Company had occurred, the entire unpaid and outstanding principal balance of the Sellers Note, together with all accrued and unpaid interest and any and all other amounts payable under the Sellers Note, would have been immediately be due and payable.
+  
+ Future maturities of loans payable are as follows:
+  
+ 
+ | Avidbank Note | Unamortized Debt Costs | Total 
+---------------------+---------------+------------------------+------------
+Year ending June 30, | | | 
+2019 | $1,458,800 | $(22,924) | $1,435,876 
+2020 | 1,458,800 | (22,924) | 1,435,876 
+2021 | 1,458,800 | (22,924) | 1,435,876 
+2022 | 1,458,800 | (22,924) | 1,435,876 
+2023 | 850,967 | (15,875) | 835,092 
+Total payments | $6,686,167 | $(107,571) | $6,578,596 
+Less current portion | | | (1,458,800)
+Non-current portion | | | $5,119,796 
+
+
+ 
+   19.
+ Note Satisfaction and Securities Purchase Agreement
+
+ 
+  Note Satisfaction and Securities Purchase Agreement
+  
+ On January 16, 2018 (the “Satisfaction Date”), the Company entered into a Note Satisfaction and Securities Purchase Agreement (the “Note Satisfaction Agreement”) with the Sellers with respect to the Sellers Note. At the closing of the Acquisition of ISP, as partial consideration for the shares of ISP, the Company issued the Sellers Note in the original principal amount of $6,000,000, which principal payment amount was subsequently reduced to $5.7 million, after applying the approximately $293,000 working capital adjustment, as discussed in Note 3, Acquisition of ISP Optics Corporation, to these Consolidated Financial Statements.
+  
+ Pursuant to the Note Satisfaction Agreement, the Company and the Sellers agreed to satisfy the Sellers Note in full by (i) converting 39.5% of the outstanding principal amount of the Sellers Note into shares of the Company’s Class A common stock, and (ii) paying the remaining 60.5% of the outstanding principal amount of the Sellers Note, plus all accrued but unpaid interest, in cash to the Sellers. As of the Satisfaction Date, the outstanding principal amount of the Sellers Note was $5,707,183, and there was $20,883 in accrued but unpaid interest thereon (collectively, the “Note Satisfaction Amount”). Accordingly, the Company paid approximately $3,453,582 plus all accrued but unpaid interest on the Sellers Note, in cash (the “Cash Payment”) and issued 967,208 shares of Class A common stock (the “Shares”), which represents the balance of the Note Satisfaction Amount divided by the Conversion Price. The “Conversion Price” equaled $2.33, representing the average closing bid price of the Class A common stock, as reported by Bloomberg for the five (5) trading days preceding the Satisfaction Date. The Cash Payment was paid using approximately $600,000 of cash on hand and approximately $2.9 million in proceeds from the Term II Loan from Avidbank. As of the Satisfaction Date, the Sellers Note was deemed satisfied in full and terminated.
+  
+  F-29
+
+
+  
+ 
+ The Shares issued to the Sellers were exempt from the registration requirements of the Securities Act of 1933, as amended (the “Act”), pursuant to Section 4(a)(2) of the Act (in that the Shares were issued by us in a transaction not involving any public offering), and pursuant to Rule 506 of Regulation D as promulgated by the SEC under the Act.
+  
+  Registration Rights Agreement
+  
+ In connection with the Note Satisfaction Agreement, the Company and the Sellers also entered into a Registration Rights Agreement dated January 16, 2018, pursuant to which the Company agreed to file with the Securities and Exchange Commission by February 15, 2018, and to cause to be declared effective, a registration statement to register the resale of the Shares issued to partially pay the Note Satisfaction Amount. The Registration Statement on Form S-3 (File No. 333-223028) was declared effective by the SEC on March 8, 2018.
+ 20. Public Offering of Class A Common Stock
+ 
+ 
+  On December 16, 2016, the Company entered into an Underwriting Agreement (the “Underwriting Agreement”) with Roth Capital Partners, LLC (“Roth Capital”), as representative of the several underwriters identified therein (collectively, the “Underwriters”), relating to the firm commitment offering of 7,000,000 shares of the Company’s Class A common stock, at a public offering price of $1.21 per share. Under the terms of the Underwriting Agreement, the Company also granted the Underwriters an option, exercisable for 45 days, to purchase up to an additional 1,000,000 shares of Class A common stock to cover any over-allotments.
+  
+  On December 21, 2016, the Company completed its underwritten public offering of 8,000,000 shares of Class A common stock, which included the full exercise by the Underwriters of their option to purchase 1,000,000 shares of Class A common stock to cover over-allotments, at a public offering price of $1.21 per share. The Company realized net proceeds of approximately $8.7 million, after deducting underwriting discounts and commissions and estimated offering expenses. The net proceeds from the offering provided funds for a portion of the purchase price of the Acquisition of ISP, as well as provided funds for the payment of transaction expenses and other costs incurred in connection with the Acquisition.
+  
+  The offering of the shares of Class A common stock was made pursuant to a Registration Statement on Form S-1, as amended (Registration No. 333-213860), which the SEC declared effective on December 15, 2016, and the final prospectus dated December 16, 2016.
+  
+  End of Consolidated Financial Statements
+  
+   F-30
+
+
+  
+ 
+ 

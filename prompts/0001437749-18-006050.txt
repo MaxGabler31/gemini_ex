@@ -1,0 +1,629 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+ 
+We are a clinical stage biotechnology company focused on extending the life expectancy of cancer patients by improving the effectiveness of current standard-of-care treatments, including radiation therapy and chemotherapy. We are developing our lead product candidate, transcrocetinate sodium, also known as trans sodium crocetinate (“TSC”), for use in the many cancer types in which tumor oxygen deprivation (“hypoxia”) is known to diminish the effectiveness of current treatments. TSC is designed to target the cancer’s hypoxic micro-environment, re-oxygenating treatment-resistant tissue and making the cancer cells more susceptible to the therapeutic effects of standard-of-care radiation therapy and chemotherapy. TSC’s helps regulate the diffusion of oxygen into oxygen-deprived cells (whether cancer cells or normal cells). TSC thus has potential uses in non-oncology indications such as stroke and cardio-vascular disease, where tissue hypoxia is implicated as an underlying causative factor in morbidity and mortality. 
+ 
+Our lead development programs target TSC against cancers known to be inherently treatment-resistant, with a focus on brain cancers. A Phase 2 clinical program, completed in the second quarter of 2015, evaluated 59 patients with newly diagnosed glioblastoma multiforme (“GBM”), a particularly deadly form of primary brain cancer. This open label, historically controlled study demonstrated a favorable safety and efficacy profile for TSC combined with standard of care, including a 37% improvement in overall survival over the control group at two years. A particularly strong efficacy signal was seen in the inoperable patients, where survival of TSC-treated patients at two years was increased by almost four-fold over the controls. In December 2017, the Company initiated the INvestigation of TSC Against Cancerous Tumors (INTACT) Phase 3 trial in the newly diagnosed inoperable GBM patient population. Patient enrollment began in January 2018. The trial will enroll 236 patients in total, with 118 in the treatment arm and 118 in the control arm. 
+ 
+Using its novel mechanism of action, TSC has been shown to safely re-oxygenate a range of tumor types in our preclinical and clinical studies. Diffusion believes its therapeutic potential is not limited to one specific tumor type, thereby making it potentially useful to improve standard-of-care treatments of other life-threatening cancers. Given TSC's safety profile and animal data, we can, with appropriate funding, move directly into Phase 2 studies in other cancers. We also believe that TSC has potential application in other indications involving hypoxia, such as stroke, cardiovascular disease, neurodegenerative diseases and emergency medicine. A program is now being developed in cooperation with UCLA and the University of Virginia, to test TSC in the treatment of acute ischemic stroke, with an in-ambulance Phase 2 trial being planned This trial, named the PreHospital Acute Stroke Therapy - TSC (PHAST - TSC) is expected to enroll 160 patients, with 80 in the treatment arm and 80 in the control arm. 
+ 
+In addition to the TSC programs, we are exploring alternatives regarding how best to capitalize upon our product candidate RES-529, which may include possible out-licensing and other options. RES-529 is a novel PI3K/Akt/mTOR pathway inhibitor which has completed two Phase 1 clinical trials for age-related macular degeneration and was in preclinical development in oncology, specifically GBM. RES-529 has shown activity in both in vitro and in vivo glioblastoma animal models and has been demonstrated to be orally bioavailable and can cross the blood brain barrier.
+ 
+ 1
+
+
+
+Summary of Current Product Candidate Pipeline
+ 
+The following tables, as of December 31, 2017, summarizes the planned clinical indications for Diffusion’s lead molecule, TSC:
+ 
+
+
+Technology Overview
+ 
+In oncology, our proprietary technology is targeted at overcoming treatment-resistance in solid cancerous tumors by combining our lead product candidate, TSC, with standard-of-care radiation and chemotherapy regimens, thus effecting a better patient survival outcome without the addition of harmful side effects.
+ 
+Under normally oxygenated cellular conditions, radiation and chemotherapy generally have a powerful killing effect upon cancerous tumor tissue. However, in many solid tumor types, cellular oxygen deprivation occurs as the result of rapid tumor growth, causing parts of the tumor to outgrow its blood supply. When tumor tissue becomes hypoxic, it is up to three times more resistant to the cancer-killing power of the standard therapies (radiation and chemotherapy) currently used in the treatment of the vast majority of cancer patients. Cancerous tumor cells are known to thrive under hypoxic conditions, as the resultant changes in the tumor microenvironment confer “treatment-resistance” to radiation and chemotherapy within the cell.
+ 
+Many solid cancerous tumor types are hypoxic and therefore subject to this treatment-resistance. TSC safely re-oxygenates treatment-resistant hypoxic tumor tissue via a novel mechanism of action, without affecting the oxygenation of normal tissue, thereby increasing therapeutic effectiveness. To date, no addition of serious harmful side effects, or exacerbation of the known side effects of standard-of-care treatments, has been observed in our clinical studies.
+ 
+ 2
+
+
+
+TSC’s distinctive re-oxygenation capabilities derive from its mechanism of action, which promotes enhanced diffusion of oxygen through blood plasma and into the hypoxic tumor microenvironment. Disruption of the treatment-resistance syndrome by re-oxygenation promotes enhanced cancer-killing power from radiation and chemotherapy, thereby safely extending patient survival. Because of the characteristics of this novel mechanism, oxygen levels of normal tissue remain unaffected, thereby avoiding side effects related to the syndrome referred to as “oxygen toxicity.” We believe this avoidance of oxygen toxicity confers a significant advantage to TSC’s diffusion-based approach over previous attempts to diminish treatment-resistance based on enhancing the oxygen concentration levels of the blood.
+ 
+Our clinical development plan targets TSC at radiation and chemotherapy sensitization of hypoxic tumor types, with an initial focus on primary brain cancer, pancreatic cancer, and brain metastases. We have been granted orphan drug designations by the FDA for the treatment of brain cancers based on the acknowledged unmet medical need and number of patients affected. Such orphan drug designations allow certain favorable treatments under FDA regulations in connection with exclusivity periods and the new drug approval process.
+ 
+Tumor Hypoxia
+ 
+We believe that our breakthrough small molecule approach to overcoming solid tumor treatment-resistance by the reduction of cellular hypoxia may have significant implications for the improved treatment of cancer. Hypoxia is a deficiency in the supply of oxygen. It is well known that tumors are especially susceptible to developing hypoxia, driven by a combination of rapid cellular growth, structural abnormalities of the tumor microvessels and disturbed circulation within the tumor. There are a number of known treatment-resistance consequences conferred by tumor hypoxia, including increases in:
+
+● | Resistance to ionizing radiation;
+--+----------------------------------
+
+
+● | Clinically aggressive phenotype;
+--+---------------------------------
+
+
+● | Potential for more invasive growth; and,
+--+-----------------------------------------
+
+
+● | Regional and distal tumor spreading.
+--+-------------------------------------
+
+ 
+
+The above-described phenomenon of hypoxia-related “treatment-resistance” has been known to the scientific and clinical communities for over half a century. The challenge has been to find an approach that can effectively mitigate treatment-resistance without the addition of toxic side effects or exacerbation of the side effects associated with radiation and chemotherapy treatments. We believe that TSC embodies such an approach.
+ 
+ 3
+
+
+
+Trans Sodium Crocetinate
+ 
+Dr. John Gainer, our Chief Scientific Officer, one of our directors and Professor Emeritus of Chemical Engineering at the University of Virginia, was the first to propose the use of chemical compounds specifically to facilitate the diffusion of oxygen through blood plasma for the purpose of re-oxygenating hypoxic tissues. Dr. Gainer’s early laboratory work systematically examined various means to alter the diffusivity of oxygen through the use of small molecules that would affect the intermolecular forces existing in blood plasma. He originally identified crocetin, a natural carotenoid compound, as a molecule that could increase oxygen diffusion through the plasma, and crocetin was shown to be an effective treatment in a rabbit model of atherosclerosis and other indications. This work continued from the 1970s into the mid-1990s with various animal models, including radiation sensitization and hemorrhagic shock.
+ 
+Because crocetin is an isomeric mixture, Dr. Gainer examined whether it was the trans-isomer which was responsible for eliciting the therapeutic benefit. These experiments led to his development of a pure trans-isomer salt compound, which he named trans sodium crocetinate. (The USAN designated name is transcrocetinate sodium). TSC has been shown to be more effective than crocetin in a severe model of hemorrhagic shock in both rats and pigs. It also demonstrated safety and efficacy in animal models of stroke and myocardial infarction, as well as in enhancing the response of hypoxic tumors to the therapeutic effects of radiation and chemotherapy.
+ 
+It is proposed that TSC works by altering the molecular arrangement of the water molecules in blood plasma (which is composed of 90% water), with the altered structure being less dense - and thus less resistant to oxygen diffusion - than untreated blood plasma. A water molecule is composed of two hydrogen atoms and one oxygen atom, with a net positive charge found on the hydrogen atoms and a net negative charge found on the oxygen atom. This results in the formation of hydrogen bonds, which are an attraction between the net-negatively charged oxygen of one water molecule and the net-positively charged hydrogen atoms of another water molecule. Theoretically, one water molecule can form four hydrogen bonds with neighboring water molecules. However, the literature on the subject indicates that a water molecule actually forms, on average, 2 to 3.6 hydrogen bonds. By promoting an increase in the average number of hydrogen bonds among the water molecules comprising the bulk of blood plasma, TSC enhances the ability of oxygen to diffuse more easily through the plasma and into hypoxic tissue.
+ 
+In March 2017, we received a patent relating to bipolar trans carotenoid salts and their uses. This patent expands the coverage of the therapeutic use of TSC and other related compounds to five hypoxia-related conditions including congestive heart failure, chronic renal failure, acute lung injury (ALI), chronic obstructive pulmonary disease (COPD) and respiratory distress syndrome (RDS).
+ 
+Trans Sodium Crocetinate Increases Oxygenation of Hypoxic Cancerous Tumors
+ 
+While earlier studies focused on improved treatments for hemorrhagic shock, ischemia, and traumatic brain injury, the use of TSC as an agent to re-oxygenate hypoxic cancerous tumors became a central area of research for us following our founding in 2001. Because tumor hypoxia is a leading cause of solid tumor resistance to both radiation and chemotherapy, it was believed that an agent such as TSC – one that could safely increase the oxygenation of hypoxic tumor tissue – could prove effective in treatment-resistant cancers when combined with standard-of-care regimens of radiation and/or chemotherapy. This belief led to the development of preclinical and clinical development programs targeted against treatment-resistance in various cancers, with a focus on brain cancer types (both GBM and metastatic) and pancreatic cancer, all of which are known to be significantly hypoxic. The Company’s longer term goal is to use TSC against treatment-resistance in the entire range of hypoxic cancers now treated with radiation and chemotherapy.
+ 
+ 4
+
+
+
+
+Glioblastoma Program
+ 
+Our lead program is targeted against newly diagnosed primary brain cancer, also known as glioblastoma (GBM). Glioblastoma is a grade IV brain tumor, characterized by a heterogeneous cell population, with a number of negative attributes. GBM cells are typically genetically unstable (and thus prone to mutation), highly infiltrative, angiogenic, and resistant to radiation and chemotherapy. The mutations typically found in GBM allow the tumor to grow and thrive in a hypoxic environment. GBM is classified into two major subclasses, primary or secondary, depending upon the clinical properties as well as the chromosomal and genetic alterations that are unique to each class. Primary GBM arises de novo from normal glial cells and typically occurs in those over the age of 40, while secondary GBM arises from transformation of lower grade tumors and is usually seen in younger patients. Primary GBM is believed to account for approximately 95% of all GBM diagnoses.
+ 
+While GBM is the most common form of primary brain tumor involving glial cells, it is still relatively rare, as approximately 12,000 people in the United States were diagnosed with GBM in 2017. The median age of GBM diagnosis is approximately 65 years, with the incidence of GBM in those over 65 increasing rapidly as shown by a doubling in incidence from 5.1 per 100,000 in the 1970s to 10.6 per 100,000 in the 1990s. Those diagnosed with the disease have a grim prognosis, with the median survival time of untreated patients being 4.5 months. Current standard-of-care treatment only provides 14-16 months of survival time after diagnosis.
+ 
+Current Treatments for GBM
+ 
+The standard-of-care for GBM tumors generally begins with surgical resection, unless the tumor is deemed inoperable due to its location near vital centers of the brain. This surgery is performed both to alleviate the symptoms associated with the disease as well as to facilitate treatment of residual tumor cells. Even with advances in surgical technique, complete removal of the tumor with clean margins is difficult to achieve, as the tumors are highly infiltrative and typically extend into the normal brain parenchyma. Due to this, almost all GBM patients have recurrence of the tumor, with 90% of such recurrence occurring at the primary site.
+ 
+Due to the invasive nature of the tumors, surgical resection is promptly followed by radiotherapy coupled with the use of chemotherapeutic agents. Radiotherapy involves the administration of irradiation to the whole brain. While nitrosoureas were historically a commonly used chemotherapeutic agent, temozolomide (“TMZ”) was approved in 2005 and is now a mainstay of the standard-of-care. This is based on a clinical trial that showed the addition of TMZ to surgery and radiation increased median survival in newly diagnosed GBM patients to 14.6 months compared to 12.1 months for the surgery and radiation only group.
+ 
+Most chemotherapeutic drugs have a limited ability to cross the blood brain barrier, thus a strategy to attempt to circumvent this was the development of Gliadel®, dissolvable chemotherapy wafers that could be placed in the tumor bed following surgical resection. Gliadel® contains the nitrosourea chemotherapeutic agent carmustine that is released for several weeks, in contrast to systemically administered carmustine that has a very short half-life. While Gliadel® wafers were shown to be safe, the drugs’ addition to radiation and TMZ did not result in a statistically significant increase in survival.
+ 
+ 5
+
+
+
+GBM tumors show increased expression of vascular endothelial growth factor (“VEGF”), and the anti-angiogenesis drug bevacizumab has been approved by the FDA for the treatment of recurrent GBM. A Phase 2 study found that bevacizumab treatment in patients with recurrent GBM increased six-month progression-free survival from a historical 9-15% to 25% with overall six-month survival of 54%. Another Phase 2 study showed that recurrent GBM patients treated with bevacizumab at a lower dose but a higher frequency had even higher six-month progression-free survival of 42.6%.
+ 
+While bevacizumab has shown success in recurrent GBM, it is not utilized in newly diagnosed patients, our target patient population, as two separate clinical trials showed no difference in overall survival in patients treated with radiation, TMZ, and bevacizumab compared to patients treated with only radiation and TMZ. Bevacizumab treatment did result in an increase in progression free survival in both studies; however, the reason why this increase in progression free survival did not translate to an increase in overall survival is unclear. In addition, certain studies have reported that patients treated with bevacizumab had an increased symptom burden, a worse quality of life, and a decline in neurocognitive function.
+ 
+GBM Therapies Under Development
+ 
+There are a number of companies developing GBM therapies. For example, a search on the website www.clinicaltrials.gov yields over 300 results for “glioblastoma multiforme” and “open trials.” Most of these trials focus on the recurrent patient population, whereas our target population is newly diagnosed inoperable patients. In addition to the therapeutics previously mentioned, other GBM trials include Northwest Therapeutics’ DCVax®-L, Bristol-Myers Squibb’s Nivolumab/Ipilimumab and AbbVie’s Veliparib. In addition, the medical device company Novocure has been developing a novel approach called Tumor Treating Fields (“TTFields”) using low intensity, alternating electric fields within the intermediate frequency range. TTFields are believed to disrupt cell division through physical interactions with key molecules during mitosis. This medical device approach has shown some success in the recurrent GBM patient population and in some geographic areas may be becoming a part of the standard of care. There are a number of companies developing GBM therapies. For example, a search on the website www.clinicaltrials.gov yields over 300 results for “glioblastoma multiforme” and “open trials.” Most of these trials focus on the recurrent patient population, whereas our target population is newly diagnosed inoperable patients. In addition to the therapeutics previously mentioned, other GBM trials include Northwest Therapeutics’ DCVax®-L, Bristol-Myers Squibb’s Nivolumab/Ipilimumab and AbbVie’s Veliparib. In addition, the medical device company Novocure has been developing a novel approach called Tumor Treating Fields (“TTFields”) using low intensity, alternating electric fields within the intermediate frequency range. TTFields are believed to disrupt cell division through physical interactions with key molecules during mitosis. This medical device approach has shown some success in the recurrent GBM patient population and in some geographic areas may be becoming a part of the standard of care. Other recent approaches include combination immuno-oncology trials. For example, Inovio Pharmaceuticals, Inc. has a Phase 1b/2a immuno-oncology safety study underway in patients with newly diagnosed GBM designed to evaluate cemiplimab (also known as REGN2810), a PD-1 inhibitor developed by Regeneron Pharmaceuticals, Inc.), in combination with Inovio’s INO-5401 T cell activating immunotherapy encoding multiple antigens and INO-9012, an immune activator encoding IL-12.  The primary endpoints are safety and tolerability but the study will also evaluate immunological impact, progression-free survival and overall survival.
+ 
+GBM is an Orphan Disease
+ 
+GBM is diagnosed in approximately 12,000 individuals every year, making it an “orphan disease.” The Orphan Drug Act of 1983 was designed to provide financial incentives for, and to reduce the costs associated with, developing drugs for rare diseases and disorders. A “rare disease or disorder” is defined by the Orphan Drug Act of 1983 as affecting fewer than 200,000 Americans at the time of designation or one for which “there is no reasonable expectation that the cost of developing and making available in the United States…will be recovered from sales in the United States.” A sponsor must request that the FDA designate a drug currently under development for a “rare disease or condition” as an orphan drug, and if the FDA agrees that the drug and indication meet the criteria set forth in the Orphan Drug Act of 1983, certain financial and marketing incentives become available.
+ 
+In July 2011, we announced that TSC was granted Orphan Drug Designation by the FDA for the treatment of GBM.
+ 
+Trans Sodium Crocetinate Phase 1/2 Clinical Trial in GBM
+ 
+We have evaluated TSC in 128 human subjects in various Phase 1 and Phase 2 clinical trials to date, with no serious adverse events attributable to TSC. Our Phase 1/2 clinical trial of TSC in patients with newly diagnosed GBM completed in 2015 is described in more detail below. TSC is currently being tested in newly diagnosed inoperable GBM patients in our on-going Phase 3 INTACT clinical trial that.,
+ 
+Our Phase 1/2 clinical trial in GBM enrolled 59 newly diagnosed patients who received TSC in conjunction with radiation and TMZ. In the Phase I portion of the trial, TSC was initially administered three times per week at half-dose to three patients prior to radiation. Subsequently, six additional patients received full-dose TSC for six weeks in combination with radiation. No dose-limiting toxicities were identified in the nine patients during the Phase I portion of the trial, nor were any serious adverse events relating to the drug observed. Fifty additional patients were enrolled in the Phase II trial and received full-dose TSC in combination with TMZ and radiation therapy. Four weeks after completion of radiation therapy, all patients underwent chemotherapy with higher doses of TMZ for five (5) days every four weeks, but no further TSC was administered.
+ 
+ 6
+
+
+
+We presented initial results from the trial at the 2015 American Society of Clinical Oncology (“ASCO”) Annual Meeting in June 2015, which discussed data from the 18 trial sites covering the first twenty-one months. Final results were published in the Journal of Neurosurgery online in May 2016. We compared results in relation to a historical control group from a 2005 study which showed that the addition of TMZ to standard-of-care (surgery plus radiation) increased overall survival from 12.1 months to 14.6 months. We reported that:
+ 
+
+
+● | TSC plus radiation and TMZ increased the patients’ chance of survival at two years by 37% compared to the historical control group. The overall survival at two years was 36.3% in the TSC group compared to 26.5% in the historical control group.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | In the subgroup of patients considered inoperable, the chance of survival at two years for those who received TSC was increased by 380%, (40% alive at two years for TSC group versus 10% for control). 
+● | 71% of those treated with TSC were alive at one year compared to 61% of those in the historical control group. In 11 of 56 patients, tumors regressed to undetectable. 
+● | No serious safety findings attributed to TSC were observed in the TSC study and adverse events were consistent with those seen in previous trials of GBM featuring radiation and TMZ. 
+
+ 
+
+End-of-Phase 2 FDA Meeting and TSC Phase 3 GBM Clinical Trial
+ 
+Following the announcement of the results of the 2015 Phase 1/2 clinical trial in GBM, we held an end of Phase 2 meeting with the FDA in August 2015 to discuss planning for a Phase 3 clinical trial. At the meeting and subsequent thereto, guidance was received on a trial design for the Phase 3 study, including:
+ 
+
+
+● | A single, randomized trial of the agreed upon design, if successful, can serve as the basis for an application for approval. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | The trial will consist of 236 newly diagnosed inoperable GBM patients with half given TSC in conjunction with standard-of-care radiation and TMZ and half receiving standard-of-care radiation and TMZ only. 
+● | Based on the Phase 1/2 safety results with supporting toxicology, TSC’s dosing exposure will be substantially increased, which means that TSC can now be used for both the radiation + chemotherapy and subsequent TMZ chemotherapy-only phase of GBM treatment, extending the TSC treatment duration from 6 weeks to 30 weeks.
+● | Diffusion will provide certain expanded information on animal toxicology, pharmacokinetics and manufacturing practices to the FDA before initiating the trial. 
+
+ 
+
+Phase 3 INTACT clinical trial has begun enrollment
+ 
+The INTACT clinical trial is an open-label, randomized, controlled, Phase 3 safety and efficacy registration trial. Subjects will be randomized at baseline to SOC for first-line treatment of GBM plus TSC, or to SOC alone. The SOC for GBM is temozolomide plus RT for 6 weeks followed by 28 days of rest, followed by 6 cycles of post-radiation temozolomide treatment.
+ 
+TSC will be administered during both the RT and post-radiation temozolomide treatment periods to those subjects so randomized.
+ 
+ 7
+
+
+
+During the RT treatment period subjects will receive:
+ 
+
+● | Focal RT delivered as 60Gy/30 fractions scheduled at 2Gy/day for 5 days each week (Monday through Friday) for 6 weeks. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Temozolomide 75 mg/m2 orally once daily (usually administered the night preceding each RT session) starting the evening before the first RT session over a period of 42 calendar days with a maximum of 49 days.
+● | TSC 0.25 mg/kg IV for 3 days each week (e.g., Monday, Wednesday, Friday or other schedule that supplies a minimum 3 TSC doses per week) administered between 45 to 60 minutes prior to each RT session. 
+
+ 
+During the 28-day rest period all subjects will receive no treatment.
+ 
+During the post-radiation 6-cycle temozolomide treatment period:
+ 
+
+● | All subjects will receive 28-day oral temozolomide (150 mg/m2 first cycle and 200 mg/m2 all subsequent cycles as tolerated) administered on Day 1-5 (Monday through Friday) of each 28-day cycle. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Controls will receive oral temozolomide at night at home per the SOC and are not required to attend clinic visits during this period. 
+● | Subjects randomized to TSC will receive TSC 1.5 mg/kg (or another dose if recommended by the DSMB) 1.5 to 2 hours before their temozolomide dose during the daytime for 3 days during the first week of each 28-day cycle (Days 1, 3, 5; e.g., Monday, Wednesday, Friday or other schedule that supplies at minimum 3 TSC doses per week). The Tuesday, Thursday doses will be given at night at home. Long-acting antiemetics may be administered prior to daytime temozolomide dosing on Days 1, 3, 5. 
+
+ 
+The safety, tolerability and pharmacokinetics (“PK”) of TSC at higher doses than 0.25 mg/kg with temozolomide will be assessed during adjuvant therapy. TSC at doses between 0.25 mg/kg and up to 1.5 mg/kg in combination with concomitant temozolomide will be assigned (not randomized) in the first 8 subjects enrolled in the INTACT trial. These patients will undergo RT plus temozolomide plus TSC treatment (0.25 mg/kg) for 6 weekly cycles followed by 4 weeks of rest in standard fashion. At the Week 10 clinic visit the same 8 subjects will be assigned to treatment, with 2 subjects each assigned to TSC at doses of 0.25, 0.50, 1.0 and 1.5 mg/kg.  These subjects will be studied in parallel for 2 full 28-day cycles with inclusion of appropriate blood sampling collection for TSC and temozolomide PK. The Data Safety Monitoring Board (“DSMB”) will examine the resultant safety data after 2 full cycles (Weeks 11 through 18 of post-radiation temozolomide treatment period; Days 1 to 56). The DSMB may recommend continued use of the 1.5 mg/kg TSC dose for the post-radiation temozolomide treatment period, or may prescribe another dose based on their observations. Subjects then entering into the INTACT trial will be randomized at baseline between TSC plus SOC, or SOC alone.
+ 
+The baseline assessment for determining progression-free survival (“PFS”) and overall response rate (“ORR”) will be at 10 weeks via MRI using the “modified Response Assessment in Neuro-Oncology” (“mRANO”), and to rule out pseudo-progression. The hazard ratio for the trial will be 0.67, which corresponds to 22% two-year survival in the TSC arm, the lower limit of the 95% confidence interval for the biopsy-only subjects in Diffusion’s Phase 2 trial, and 10% survival in the SOC arm. The estimated median survival is therefore 10 months for the SOC arm vs. 14.9 months for the TSC plus SOC arm. In order to achieve 80% power, the trial requires 118 subjects in each arm.
+ 
+The study will achieve the designed 80% statistical power at 198 events, where an event is defined as death. The first analysis will occur at the earlier of two years follow-up for all subjects or 198 events. If the first analysis is at 198 events, the analysis will be a standard 2-sided stratified log-rank test at the ☐☐=0.05 significance level. If the first analysis is at two years, the Company will perform the analysis using the O’Brien-Fleming Method.
+ 
+ 8
+
+
+
+
+
+Pancreatic Cancer Program
+ 
+One of the most hypoxic of all the solid cancers, and therefore one of the most treatment-resistant, is pancreatic cancer. According to the American Cancer Society, pancreatic cancer is responsible for 7% of all cancer deaths in both men and women, making it the fourth leading cause of cancer death in the U.S. Estimates are that 40% of pancreatic cancer cases are sporadic in nature, 30% are related to smoking and 20% may be associated with dietary factors, with only 5-10% of cases hereditary in nature.
+ 
+Pancreatic cancer is difficult to diagnose in early stages because initial symptoms are often nonspecific and subtle in nature, and include anorexia, malaise, nausea, fatigue, and back pain. Approximately 75% of all pancreatic carcinomas occur within the head or neck of the pancreas, 15-20% occur in the body of the pancreas, and 5-10% occur in the tail.
+ 
+
+The only potential curative therapy for pancreatic cancer is complete surgical resection. Unfortunately, this is only possible for approximately 20% of cases, and even of those patients whose cancer is surgically resected, 80% will develop metastatic disease within two to three years following surgery. Patients with unresectable pancreatic cancer have a median overall survival of 10 to 14 months while patients diagnosed with Stage IV disease (indicative of metastases) have a 5-year overall survival of just 1%.
+ 
+Multiple studies have confirmed that pancreatic cancers are highly hypoxic. A study reporting the direct measurement of oxygenation in human pancreatic tumors prior to surgery showed dramatic differences between tumors and normal tissue. The partial pressure of oxygen (“pO2”) ranged between 0-5.3 mmHg in tumors but in adjacent normal tissue it ranged from 9.3-92.7 mmHg. Hypoxic areas are also frequently found when examining tissue from mouse models of pancreatic cancer.
+ 
+ 9
+
+
+
+Current Treatment Options for Pancreatic Cancer
+ 
+Surgery remains the primary mode of treatment for patients with pancreatic cancer. However, there is an important role for chemotherapy and/or radiation in an adjuvant setting (given to prevent recurrence) or neoadjuvant setting (given before surgery to shrink the tumor to make complete resection more probable), as well as in patients with unresectable disease.
+ 
+Since its approval in 1996, gemcitabine has been partnered with approximately 30 different agents in late-stage clinical trials in an attempt to improve upon the effectiveness of gemcitabine alone in treating patients with metastatic pancreatic cancer. Only two of these trials have demonstrated improved efficacy, leading to FDA approvals - erlotinib (Tarceva®) and nab-paclitaxel (Abraxane®).
+ 
+In patients with metastatic disease, the use of erlotinib with gemcitabine led to a significantly higher one-year survival rate than with the use of gemcitabine alone (23% vs. 17%, P = 0.023) as well as an increased median overall survival (6.24 months vs. 5.91 months, P = 0.038). A more recent study showed that the addition of nanoparticle albumin-bound (nab)-paclitaxel to gemcitabine significantly improved overall survival in treatment naïve patients with metastatic cancer, as overall survival was approximately two (2) months longer in patients treated with combination therapy (8.5 vs. 6.7 months).
+ 
+The Folfirinox (leucovorin + 5-fluorouracil + oxaliplatin + irinotecan) regimen was shown to significantly improve overall survival compared to treatment with gemcitabine (11.1 months vs. 6.8 months). While dramatically improving overall survival, the Folfirinox treatment was accompanied by serious adverse events and thus is only recommended for patients with good performance status.
+ 
+Other combinations of gemcitabine with cisplatin, oxaliplatin, irinotecan or docetaxel tested in Phase 3 trials have not been of superior benefit to gemcitabine alone. The combination therapy nab-Paclitaxel and gemcitabine was recently approved by the FDA as an additional standard-of-care for the treatment of patients with untreated pancreatic adenocarcinoma. However, the improvements were modest, and treatment of pancreatic cancer remains an area of intense research, with 92 products in all stages of clinical development with 14 of them in Phase 3 at this time according to clinicaltrials.gov.
+ 
+In addition, he FDA has approved Onivyde® (irinotecan liposome injection) in combination with fluorouracil and leucovorin, to treat patients with metastatic pancreatic cancer who were previously treated with gemcitabine-based chemotherapy. In the pivotal clinical trial, patients treated with Onivyde® plus fluorouracil/leucovorin lived an average of 6.1 months, compared to 4.2 months for those treated with only fluorouracil/leucovorin.
+ 
+Pancreatic Cancer Market Analysis
+ 
+It is estimated that every year approximately 49,000 people are diagnosed with pancreatic cancer in the United States. More than half of these patients will be diagnosed with metastatic disease. The five-year survival rates for patients with pancreatic cancer are dismal (<14%) and are particularly bad for those with metastatic disease (~1%).
+ 
+The current standard-of-care for patients with metastatic pancreatic cancer includes gemcitabine combined with either erlotinib or nab-paclitaxel. Gemzar® (gemcitabine) is now available as a generic, however prior to losing patent protection the drug generated peak revenues of approximately $700 million in the United States for Eli Lilly. Tarceva® (erlotinib), which is approved for the treatment of metastatic non-small cell lung cancer and metastatic pancreatic cancer, is marketed by Roche and Astellas and sales of the drug generated $1.05 billion in revenue in 2016. Abraxane® (nab-paclitaxel), which was approved for the treatment of breast cancer in 2005 and non-small cell lung cancer in 2012, was approved by the FDA in 2013 for the treatment of metastatic pancreatic cancer. Sales of Abraxane® totaled $973 million in 2016 for all indications.
+ 
+ 10
+
+
+
+TSC in Pancreatic Cancer
+ 
+We believe that targeting hypoxia in pancreatic cancer with TSC, especially in combination with standard-of-care therapies involving gemcitabine and nab-paclitaxel, may be beneficial in the treatment of pancreatic cancer. Pancreatic cancer is one of the most hypoxic malignant tumors, making it one of the most resistant tumors to therapy. Patients with advanced pancreatic cancer of exocrine origin have few therapeutic options and, for patients with advanced cancers, the overall survival rate of all stages is less than 1% at 5 years, with most patients dying within 1 year. Gemcitabine remains to-date, the backbone of treatment of pancreatic cancer.
+ 
+The antitumor efficacy of gemcitabine is known to be hindered by a number of hypoxia-related factors including, but not limited to:
+ 
+
+● | Limited Delivery of Gemcitabine to Intracellular Tumor Microenvironment. Hypoxia has been associated with resistance to nucleoside analogs such as gemcitabine by decreasing the expression of the human cross-cell membrane equilibrative nucleoside transporter 1 (hENT1), thereby decreasing transport of gemcitabine and other nucleoside analogues into tumor cells. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Gemcitabine Intratumor Cell Inhibition of Ribonucleotide Reductase Compromised. Hypoxia has been associated with a decrease in intracellular tumor ribonucleotide reductase, an enzyme required for the antitumor effect of gemcitabine. Indeed, this decrease leads to cell cycle arrest in G1 or G2 phase, thereby allowing DNA repair before progression to S or M phase. 
+● | Increased Breakdown of Gemcitabine. It has been also observed that under hypoxic conditions, intratumor cell levels of cytidine deaminase are substantially increased. Cytidine Deaminase is the main enzyme responsible for the breakdown of gemcitabine and similar nucleosides. As a result of this, the gemcitabine antitumor effect is substantially decreased under hypoxic conditions.
+● | Nab-paclitaxel Potentiates Gemcitabine by Decreasing Cytidine Deaminase. One of the ways nab-paclitaxel decreases cytidine deaminase has been observed to be through increasing reactive oxygen species (“ROSs”) which has been shown to deactivate cytidine deaminase. 
+
+ 
+Taken together, the four factors above are believed to explain, at least in part, the limitations of gemcitabine in hypoxic conditions and the efficacy observed with the gemcitabine plus nab-paclitaxel combination regimen for the treatment of pancreatic cancer. They also suggest that correction of hypoxia with an anti-hypoxia agent such as TSC may significantly improve the efficacy of the gemcitabine plus nab-paclitaxel combination regimen for the treatment of pancreatic cancer, including for the following reasons:
+ 
+
+● | TSC has been shown to improve the cytotoxic effect of gemcitabine in a pre-clinical rat model. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | By correcting hypoxia, TSC may improve delivery of gemcitabine to intracellular tumor microenvironment by increasing levels of hENT-1. 
+● | By reversing hypoxia-induced cell cycle arrest via reactivation of ribonucleotide reductase, TSC may restore gemcitabine’s antitumor effect. 
+● | By reversing the hypoxia-induced increase of cytidine deaminase, TSC may increase intratumoral gemcitabine levels. Addition of TSC to the gemcitabine plus nab-paclitaxel regimen could further improve the efficacy of the combination by further decreasing cytidine deaminase. Of note, hypoxia has also been implicated in conferring tumor resistance to taxane-based therapies.
+
+Proposed Plans for TSC Phase 2 Clinical Trial in Pancreatic Cancer
+ 
+A planned Phase 2 clinical trial for TSC in pancreatic cancer is based on preclinical safety and efficacy data, and findings from the Phase 1/2 clinical trial in GBM, as well as the facts noted above, assuming appropriate funding. Global experts in the field agree that pancreatic cancer is an appropriate target for expansion of the use of TSC.
+ 
+ 11
+
+
+
+Brain Metastases Program
+ 
+In contrast to the relative rarity of primary brain cancers, life-threatening cancers that metastasize to the brain are much more common and represent a serious complication in the treatment of many cancer types. Up to 30% of adult cancer patients will suffer from brain metastases. There are approximately 170,000 cases of metastatic brain cancer every year in the United States. Incidence of brain metastases varies depending upon the primary tumor type, although lung cancer appears to carry the greatest risk. The prognosis for patients with brain metastases is very grim, with current treatment options only resulting in median overall survival times of less than one year.
+ 
+Treatment for brain metastases involves both controlling the symptoms associated with the condition as well as attacking the cancer directly. Brain metastases typically result in edema that can be controlled with the use of steroids; however, long-term use of steroids typically results in side effects that diminish a patient’s quality of life. Approximately 25-45% of patients will experience seizures and require the use of anti-epileptic drugs. Surgery is only utilized in patients with a solitary brain metastatic lesion. Radiation therapy remains the standard-of-care for the vast majority of patients with brain metastases. There is very limited evidence for the use of chemotherapy, as few clinical trials have been conducted. There are no medications currently approved for the treatment of brain metastases.
+ 
+Plans for TSC Phase 2/3 Clinical Trial in Metastatic Brain Cancer
+ 
+We are planning to conduct a Phase 2/3 clinical trial in metastatic brain cancer after further discussions with experts and the FDA regarding trial design, end-points, and patient numbers, assuming appropriate funding.
+ 
+In December 2012, the FDA granted us Orphan Drug Designation for the use of TSC in brain metastases.
+ 
+Plans for TSC Phase 2 Clinical Trial in Acute Ischemic Stroke
+ 
+In January 2018 an abstract titled “PreHospital Acute Stroke Therapy with Trans Sodium Crocetinate (PHAST-TSC),” was presented at the International Stroke Conference in Los Angeles. The abstract introduced the design and rationale for the planned Phase 2 PHAST-TSC study, highlighting the potential benefits of TSC in patients with acute ischemic or hemorrhagic stroke in a pre-hospital setting. The abstract noted that TSC is a promising neurotherapeutic that enhances the diffusion of oxygen in hypoxic tissues by altering the structure of water molecules in blood plasma, thus facilitating the transport of oxygen to the site of the stroke and helping prevent brain tissue damage and neuronal death. TSC has shown benefit for both ischemic and hemorrhagic stroke in preclinical studies, and has demonstrated safety and efficacy signals in human trials in patients with glioblastoma multiforme (GBM) and peripheral arterial disease (PAD).
+ 
+The planned Phase 2, randomized, double-blind, placebo-controlled trial calls for administering TSC to ambulance-transported patients within two hours of the onset of a suspected acute stroke. It is anticipated that 160 patients will be enrolled in this trial, which could begin in 2018, assuming appropriate funding. The pre-hospital, ambulance-based treatment strategy originated at UCLA with the FAST-MAG trial. Two of the physicians involved in that trial, Drs. Saver and Sanossian, will be principal investigators in Los Angeles. A smaller number of patients will be enrolled at the University of Virginia Medical Center in Charlottesville, with Drs. Johnston and Southerland as principal investigators.
+ 
+Description of Other Indications/Products
+ 
+We have rights to and own technologies and potential products beyond those described above, including analog molecules as backups to TSC. It is our strategy to focus at the current time on our TSC for oncology, specifically GBM and pancreatic cancer, as well as acute eschemic stroke. At the current time, the bulk of our cash resources for clinical development is dedicated to the Phase 3 trial for TSC in inoperable GBM. While we believe we have adequate cash resources to continue operations through June 2019, we will need to raise additional funds in order to complete this trial. We do not expect to commence any clinical trials beyond the inoperable GBM trial unless we are able to raise additional capital or make alternative financing arrangements for any such trial. Beyond those described herein, we also intend to continue to review our technologies and potential products on a regular basis and consider internal development in the future and the potential to out-license portions of our technology and potential products to other biopharmaceutical companies with greater focus and resources than ours, or potentially in-license late stage products which are in or ready for human clinical trials.
+ 
+ 12
+
+
+
+As a result of the Merger, we acquired product candidates for ophthalmology, oncology and dermatology. One such product candidate is RES-529, a novel PI3K/Akt/mTOR pathway inhibitor which has completed two Phase I clinical trials for age-related macular degeneration and is in preclinical development in oncology, specifically GBM. The novel inhibition of the PI3K/Akt/mTOR pathway and targeting of the androgen receptor have also shown potential in a number of additional indications.
+ 
+We are exploring partnering opportunities for our product candidates, such as strategic partnerships, alliances or licensing arrangements.
+ 
+Competition
+ 
+Our industry is highly competitive and subject to rapid and significant change. Potential competitors in the United States are numerous and include major pharmaceutical and specialty pharmaceutical companies, universities and other institutions. We generally divide our competition in the pharmaceutical industry into four categories: (1) companies with large research and developmental departments that develop and market products in many therapeutic areas; (2) companies that have moderate research and development capabilities and focus their product strategy on a small number of therapeutic areas; (3) small companies with limited development capabilities and only a few product offerings; and (4) university and other research institutions. Many of our competitors have longer operating histories, greater name recognition, substantially greater financial resources and larger research and development staffs than we do, as well as substantially greater experience than us in developing products, obtaining regulatory approvals, and manufacturing and marketing pharmaceutical products. A significant amount of research is carried out at academic and government institutions. These institutions are aware of the commercial value of their findings and are aggressive in pursuing patent protection and negotiating licensing arrangements to collect royalties for use of technology that they have developed.
+ 
+There are several firms, including NuvOx and Azanta, currently marketing or developing products that may be competitive with our products, including therapeutics and devices. We believe TSC is a first-in-class novel small molecule that re-oxygenates hypoxic tissue, enhancing efficacy of radiation and chemotherapy without harmful side effects.
+ 
+Mergers and acquisitions in the pharmaceutical and biotechnology industries may result in even more resources being concentrated among a smaller number of our competitors. Our commercial opportunity could be reduced or eliminated if our competitors develop or market products or other novel therapies that are more effective, safer or less costly than our current or future product candidates, or obtain regulatory approval for their products more rapidly than we may obtain approval for our product candidates. In addition, the first product to reach the market in a therapeutic or preventative area is often at a significant competitive advantage relative to later entrants in the market and may result in certain marketing exclusivity as per federal legislation. Acceptance by physicians and other health care providers, including managed care groups, also is critical to the success of a product versus competitor products. Our success will be based in part on our ability to identify, develop and manage a portfolio of product candidates that are safer and more effective than competing products.
+ 
+Research and Product Development
+ 
+We incurred approximately $5.1 million in 2017 and $7.3 million in 2016 on research and product development activities that related primarily to activities associated with the synthesis and formulations of our products then in development, additional preclinical studies and planning for Phase I/Phase II studies. 
+ 
+ 13
+
+
+
+Intellectual Property
+ 
+Our success depends and will continue to depend in part upon our ability to maintain proprietary protection for our products and technologies, to preserve our proprietary information, trademarks and trade secrets and to operate without infringing the proprietary rights of others. Our policy is to attempt to protect our technology by, among other things, filing patent applications on inventions that are important to the development and conduct of our business with the U.S. Patent and Trademark Office (“USPTO”), and its foreign counterparts or obtaining license rights for technology that we consider important to the development of our business.
+ 
+As of December 31, 2017, we owned approximately 13 issued U.S. patents and 4 issued foreign patents, which include granted European, Japanese, Chinese and Indian patent rights, and over 30 pending patent applications worldwide, covering the product candidates we currently intend to develop. Our current patents expire between 2023 and 2031. TSC has been granted Orphan Drug Designation for the treatment of both GBM and metastatic brain cancer and an application is pending for pancreatic cancer. A formulation patent provides protection for the TSC oral drug product until 2031 with extensions possible.
+ 
+Patents extend for varying periods according to the date of patent filing or grant and the legal term of patents in various countries where patent protection is obtained. The actual protection afforded by a patent, which can vary from country to country, depends on the type of patent, the scope of its coverage and the availability of legal remedies in the country.
+ 
+In addition to patents, we use other forms of protection, such as trademark, copyright and trade secret protection, to protect our intellectual property, particularly where we do not believe patent protection is appropriate or obtainable. We aim to take advantage of all of the intellectual property rights that are available to us and believe that this comprehensive approach will provide us with proprietary positions for our product candidates, where available.
+ 
+We also protect our proprietary information by requiring our employees, consultants, contractors and other advisors to execute nondisclosure and assignment of invention agreements upon commencement of their respective employment or engagement. Agreements with our employees also prevent them from bringing the proprietary rights of third parties to us. In addition, we also require confidentiality or service agreements from third parties that receive our confidential information or materials.
+ 
+Manufacturing and Supply
+ 
+We do not have any facilities suitable for manufacturing on a commercial scale any of our product candidates nor do we have any experience in volume manufacturing. We currently use third-party cGMP contract manufacturing organizations (“CMOs”) to manufacture our product candidates for our preclinical studies and clinical trials and intend to continue doing so in the future in accordance with FDA and other appropriate regulations. We anticipate that these CMOs will have capacity to support commercial scale, but we do not have any formal agreements at this time with any of these CMOs to cover commercial production. We also may elect to pursue other CMOs for manufacturing supplies for later-stage trials and for commercialization. We currently have no plans to establish a manufacturing capability, but rather plan to continue to rely on third-party cGMP manufacturers for any future trials and commercialization of our product candidates for which we retain manufacturing responsibility.
+Sales and Marketing
+ 
+We currently have no sales and marketing personnel to sell any of our product candidates on a commercial basis if and when our product candidates received required regulatory approvals. If and when we are ready to commercially launch a product, we will either contract with or hire qualified sales and marketing personnel or seek a joint marketing partner or licensee to assist us with this function.
+ 
+ 14
+
+
+
+Government Regulation
+ 
+FDA Drug Approval Process
+ 
+In the United States, pharmaceutical products are subject to extensive regulation by the FDA. The Federal Food, Drug, and Cosmetic Act (the “FDC Act”) and other federal and state statutes and regulations, govern, among other things, the research, development, testing, manufacture, storage, recordkeeping, approval, labeling, promotion and marketing, distribution, post-approval monitoring and reporting, sampling and import and export of pharmaceutical products. Failure to comply with applicable U.S. requirements may subject a company to a variety of administrative or judicial sanctions, such as FDA refusal to approve pending new drug applications (“NDAs”), warning or untitled letters, product recalls, product seizures, total or partial suspension of production or distribution, injunctions, fines, civil penalties and criminal prosecution.
+ 
+Pharmaceutical product development for a new product or certain changes to an approved product in the United States typically involves preclinical laboratory and animal tests, the submission to the FDA of an investigational new drug application (“IND”) which must become effective before clinical testing may commence, and adequate and well-controlled clinical trials to establish the safety and effectiveness of the drug for each indication for which FDA approval is sought. Satisfaction of FDA pre-market approval requirements typically takes many years and the actual time required may vary substantially based upon the type, complexity and novelty of the product or disease.
+ 
+Preclinical tests include laboratory evaluation of product chemistry, formulation and toxicity, as well as animal trials to assess the characteristics and potential safety and efficacy of the product. The conduct of the preclinical tests must comply with federal regulations and requirements, including good laboratory practices. The results of preclinical testing are submitted to the FDA as part of an IND, along with other information, including information about product chemistry, manufacturing and controls and a proposed clinical trial protocol. Long term preclinical tests, such as animal tests of reproductive toxicity and carcinogenicity, may continue after the IND is submitted.
+ 
+A 30-day waiting period after the submission of each IND is required prior to the commencement of clinical testing in humans. If the FDA has neither commented on nor questioned the IND within this 30-day period, the clinical trial proposed in the IND may begin.
+ 
+Clinical trials involve the administration of the investigational new drug to healthy volunteers or patients under the supervision of a qualified investigator. Clinical trials must be conducted: (1) in compliance with federal regulations; (2) in compliance with good clinical practice (“GCP”) an international standard meant to protect the rights and health of patients and to define the roles of clinical trial sponsors, administrators and monitors; and (3) under protocols detailing the objectives of the trial, the parameters to be used in monitoring safety and the effectiveness criteria to be evaluated. Each protocol involving testing on U.S. patients and subsequent protocol amendments must be submitted to the FDA as part of the IND.
+ 
+The FDA may order the temporary or permanent discontinuation of a clinical trial at any time, or impose other sanctions, if it believes that the clinical trial either is not being conducted in accordance with FDA requirements or presents an unacceptable risk to the clinical trial patients. The study protocol and informed consent information for patients in clinical trials must also be submitted to an institutional review board (“IRB”) for approval at each site at which the clinical trial will be conducted. An IRB may also require the clinical trial at the site to be halted, either temporarily or permanently, for failure to comply with the IRB’s requirements, or may impose other conditions.
+ 
+Clinical trials to support NDAs for marketing approval are typically conducted in three sequential phases, but the phases may overlap, especially in cancer indications. In Phase 1, the initial introduction of the drug into healthy human subjects or patients, the drug is tested to assess pharmacological actions, side effects associated with increasing doses and, if possible, early evidence on effectiveness. Phase 2 usually involves trials in a limited patient population to determine metabolism, pharmacokinetics, the effectiveness of the drug for a particular indication, dosage tolerance and optimum dosage, and to identify common adverse effects and safety risks. If a compound demonstrates evidence of effectiveness and an acceptable safety profile in Phase 2 evaluations, Phase 3 clinical trials are undertaken to obtain the additional information about clinical efficacy and safety in a larger number of patients, typically at geographically dispersed clinical trial sites, to permit the FDA to evaluate the overall benefit-risk relationship of the drug and to provide adequate information for the labeling of the drug. In most cases the FDA requires two adequate and well-controlled Phase 3 clinical trials with statistically significant results to demonstrate the efficacy of the drug. With suitable FDA agreement, a single Phase 3 clinical trial with other confirmatory evidence may be sufficient. In those instances, the study is usually a large multicenter trial demonstrating internal consistency and a statistically persuasive finding of an effect on mortality, irreversible morbidity or prevention of a disease with a potentially serious outcome and confirmation of the result in a second trial would be practically or ethically impossible.
+ 
+ 15
+
+
+
+After completion of the required clinical testing, an NDA is prepared and submitted to the FDA. FDA approval of the NDA is required before marketing of the product may begin in the United States. The NDA must include the results of all preclinical, clinical and other testing and a compilation of data relating to the product’s pharmacology, chemistry, manufacture and controls. The cost of preparing and submitting an NDA is substantial. The submission of most NDAs is additionally subject to a substantial application user fee, and the manufacturer and sponsor under an approved new drug application are also subject to annual product and establishment user fees. These fees are typically increased annually.
+ 
+The FDA has sixty (60) days from its receipt of an NDA to determine whether the application will be accepted for filing based on the agency’s threshold determination that it is sufficiently complete to permit substantive review. Once the submission is accepted for filing, the FDA begins an in-depth review. The FDA has agreed to certain performance goals in the review of new drug applications. Priority review can be applied to drugs that the FDA determines offer major advances in treatment, or provide a treatment where no adequate therapy exists. For certain drugs, priority review is further limited only for drugs intended to treat a serious or life-threatening disease relative to the currently approved products. The review process for both standard and priority review may be extended by the FDA for three (3) additional months to consider certain late-submitted information, or information intended to clarify information already provided in the submission.
+ 
+The FDA may also refer applications for novel drug products, or drug products that present difficult questions of safety or efficacy, to an advisory committee, typically a panel that includes clinicians and other experts, for review, evaluation and a recommendation as to whether the application should be approved. The FDA is not bound by the recommendation of an advisory committee, but it generally follows such recommendations. Before approving an NDA, the FDA will typically inspect one or more clinical sites to assure compliance with GCP. Additionally, the FDA will inspect the facility or the facilities at which the drug is manufactured. The FDA will not approve the product unless compliance with current good manufacturing practice (“cGMP”) is satisfactory and the NDA contains data that provide substantial evidence that the drug is safe and effective in the indication studied.
+ 
+After the FDA evaluates the NDA and the manufacturing facilities, it issues either an approval letter or a complete response letter. A complete response letter generally outlines the deficiencies in the submission and may require substantial additional testing, or information, in order for the FDA to reconsider the application. If, or when, those deficiencies have been addressed to the FDA’s satisfaction in a resubmission of the NDA, the FDA will issue an approval letter. The FDA has committed to reviewing such resubmissions in two or six (6) months depending on the type of information included.
+ 
+An approval letter authorizes commercial marketing of the drug with specific prescribing information for specific indications. As a condition of NDA approval, the FDA may require a risk evaluation and mitigation strategy (“REMS”) to help ensure that the benefits of the drug outweigh the potential risks. REMS can include medication guides, communication plans for healthcare professionals and elements to assure safe use (“ETASU”). ETASU can include, but are not limited to, special training or certification for prescribing or dispensing, dispensing only under certain circumstances, special monitoring and the use of patient registries. The requirement for a REMS can materially affect the potential market and profitability of the drug. Moreover, product approval may require substantial post-approval testing and surveillance to monitor the drug’s safety or efficacy. Once granted, product approvals may be withdrawn if compliance with regulatory standards is not maintained or problems are identified following initial marketing.
+ 
+ 16
+
+
+
+Changes to some of the conditions established in an approved application, including changes in indications, labeling, or manufacturing processes or facilities, require submission and FDA approval of a new NDA or NDA supplement before the change can be implemented. An NDA supplement for a new indication typically requires clinical data similar to that in the original application, and the FDA uses the same procedures and actions in reviewing NDA supplements as it does in reviewing NDAs.
+ 
+The Hatch-Waxman Act
+ 
+Orange Book Listing
+ 
+In seeking approval for a drug through an NDA, applicants are required to list with the FDA each patent whose claims cover the applicant’s product. Upon approval of a drug, each of the patents listed in the application for the drug is then published in the FDA’s Approved Drug Products with Therapeutic Equivalence Evaluations, commonly known as the Orange Book. Drugs listed in the Orange Book can, in turn, be cited by potential generic competitors in support of approval of an abbreviated new drug application (“ANDA”). An ANDA provides for marketing of a drug product that has the same active ingredients in the same strengths and dosage form as the listed drug and has been shown through bioequivalence testing to be therapeutically equivalent to the listed drug. Other than the requirement for bioequivalence testing, ANDA applicants are not required to conduct, or submit results of, preclinical or clinical tests to prove the safety or effectiveness of their drug product. Drugs approved in this way are commonly referred to as “generic equivalents” to the listed drug, and can often be substituted by pharmacists under prescriptions written for the original listed drug.
+ 
+The ANDA applicant is required to certify to the FDA concerning any patents listed for the approved product in the FDA’s Orange Book. Specifically, the applicant must certify that: (1) the required patent information has not been filed; (2) the listed patent has expired; (3) the listed patent has not expired, but will expire on a particular date and approval is sought after patent expiration; or (4) the listed patent is invalid or will not be infringed by the new product. The ANDA applicant may also elect to submit a section viii statement certifying that its proposed ANDA label does not contain (or carves out) any language regarding the patented method-of-use rather than certify to a listed method-of-use patent. If the applicant does not challenge the listed patents, the ANDA will not be approved until all the listed patents claiming the referenced product have expired.
+ 
+A certification that the new product will not infringe the already approved product’s listed patents, or that such patents are invalid, is called a Paragraph IV certification. If the ANDA applicant has provided a Paragraph IV certification to the FDA, the applicant must also send notice of the Paragraph IV certification to the NDA and patent holders once the ANDA has been accepted for filing by the FDA. The NDA and patent holders may then commence a patent infringement lawsuit in response to the notice of the Paragraph IV certification. The filing of a patent infringement lawsuit within forty-five (45) days of the receipt of a Paragraph IV certification automatically prevents the FDA from approving the ANDA until the earlier of thirty (30) months, expiration of the patent, settlement of the lawsuit, or a decision in the infringement case that is favorable to the ANDA applicant.
+ 
+The ANDA also will not be approved until any applicable non-patent exclusivity listed in the Orange Book for the referenced product has expired.
+ 
+Exclusivity
+ 
+Upon NDA approval of a new chemical entity (“NCE”) which is a drug that contains no active moiety that has been approved by the FDA in any other NDA, that drug receives five years of marketing exclusivity during which the FDA cannot receive any ANDA seeking approval of a generic version of that drug. Certain changes to a drug, such as the addition of a new indication to the package insert, are associated with a three-year period of exclusivity during which the FDA cannot approve an ANDA for a generic drug that includes the change.
+ 
+ 17
+
+
+
+An ANDA may be submitted one year before NCE exclusivity expires if a Paragraph IV certification is filed. If there is no listed patent in the Orange Book, there may not be a Paragraph IV certification and, thus, no ANDA may be filed before the expiration of the exclusivity period.
+ 
+REMS
+ 
+The FDA has the authority to require a REMS to ensure the safe use of the drug. In determining whether a REMS is necessary, the FDA must consider the size of the population likely to use the drug, the seriousness of the disease or condition to be treated, the expected benefit of the drug, the duration of treatment, the seriousness of known or potential adverse events, and whether the drug is a new molecular entity. If the FDA determines a REMS is necessary, the drug sponsor must agree to the REMS plan at the time of approval. A REMS may be required to include various elements, such as a medication guide or patient package insert, a communication plan to educate healthcare providers of the drug’s risks, limitations on who may prescribe or dispense the drug, or other measures that the FDA deems necessary to assure the safe use of the drug. REMS can include medication guides, communication plans for healthcare professionals, and ETASU. ETASU can include, but are not limited to, special training or certification for prescribing or dispensing, dispensing only under certain circumstances, special monitoring, and the use of patient registries. In addition, the REMS must include a timetable to periodically assess the strategy. The FDA may also impose a REMS requirement on a drug already on the market if the FDA determines, based on new safety information, that a REMS is necessary to ensure that the drug’s benefits outweigh its risks. The requirement for a REMS can materially affect the potential market and profitability of a drug.
+Patent Term Extension
+ 
+After NDA approval, owners of relevant drug patents may apply for up to a five-year patent extension. The allowable patent term extension is calculated as half of the drug’s testing phase, the time between IND application and NDA submission, and all of the review phase, the time between NDA submission and approval, up to a maximum of five years. The time can be shortened if the FDA determines that the applicant did not pursue approval with due diligence. The total patent term after the extension may not exceed 14 years.
+ 
+For patents that might expire during the application phase, the patent owner may request an interim patent extension. An interim patent extension increases the patent term by one year and may be renewed up to four times. For each interim patent extension granted, the post-approval patent extension is reduced by one year. The director of the USPTO must determine that approval of the drug covered by the patent for which a patent extension is being sought is likely. Interim patent extensions are not available for a drug for which an NDA has not been submitted.
+ 
+Post-Approval Requirements
+ 
+Once an NDA is approved, a product will be subject to certain post-approval requirements. For instance, the FDA closely regulates the post-approval marketing and promotion of drugs, including standards and regulations for direct-to-consumer advertising, off-label promotion, industry-sponsored scientific and educational activities and promotional activities involving the internet. Drugs may be marketed only for the approved indications and in accordance with the provisions of the approved labeling.
+ 
+Adverse event reporting and submission of periodic reports is required following FDA approval of an NDA. The FDA also may require post-marketing testing, known as Phase 4 testing, REMS, and surveillance to monitor the effects of an approved product, or the FDA may place conditions on an approval that could restrict the distribution or use of the product. In addition, quality-control, drug manufacture, packaging and labeling procedures must continue to conform to cGMPs after approval. Drug manufacturers and certain of their subcontractors are required to register their establishments with the FDA and certain state agencies. Registration with the FDA subjects entities to periodic unannounced inspections by the FDA, during which the agency inspects manufacturing facilities to assess compliance with cGMPs. Accordingly, manufacturers must continue to expend time, money and effort in the areas of production and quality-control to maintain compliance with cGMPs. Regulatory authorities may withdraw product approvals or request product recalls if a company fails to comply with regulatory standards, if it encounters problems following initial marketing, or if previously unrecognized problems are subsequently discovered.
+ 
+ 18
+
+
+
+Pediatric Information
+ 
+Under the Pediatric Research Equity Act, NDAs or supplements to NDAs must contain data to assess the safety and effectiveness of the drug for the claimed indications in all relevant pediatric subpopulations and to support dosing and administration for each pediatric subpopulation for which the drug is safe and effective. The FDA may grant full or partial waivers, or deferrals, for submission of data.
+ 
+The Best Pharmaceuticals for Children Act (“BPCA”) provides NDA holders a six-month extension of any exclusivity, patent or non-patent, for a drug if certain conditions are met. Conditions for exclusivity include the FDA’s determination that information relating to the use of a new drug in the pediatric population may produce health benefits in that population, the FDA making a written request for pediatric studies and the applicant agreeing to perform, and reporting on, the requested studies within the statutory timeframe. Applications under the BPCA are treated as priority applications, with all of the benefits that designation confers.
+ 
+The Orphan Drug Act of 1983
+ 
+The Orphan Drug Act of 1983 was designed to provide financial incentives for, and to reduce the costs associated with, developing drugs for rare diseases and disorders. A “rare disease or disorder” is defined by the Orphan Drug Act of 1983 as affecting fewer than 200,000 Americans at the time of designation or one for which “there is no reasonable expectation that the cost of developing and making available in the United States…will be recovered from sales in the United States.” A sponsor must request that the FDA designate a drug currently under development for a “rare disease or condition” as an orphan drug, and if the FDA agrees that the drug and indication meet the criteria set forth in the Orphan Drug Act of 1983, certain financial and marketing incentives become available. As mentioned previously, we have received Orphan Drug designations for GBM and metastatic brain cancer.
+Disclosure of Clinical Trial Information
+ 
+Sponsors of clinical trials of FDA-regulated products, including drugs, are required to register and disclose certain clinical trial information. Information related to the product, patient population, phase of investigation, study sites and investigators and other aspects of the clinical trial is then made public as part of the registration. Sponsors are also obligated to discuss the results of their clinical trials after completion. Disclosure of the results of these trials can be delayed until the new product or new indication being studied has been approved. Competitors may use this publicly-available information to gain knowledge regarding the progress of development programs.
+Regulation Outside of the United States
+ 
+In addition to regulations in the United States, we will be subject to regulations of other countries governing any clinical trials and commercial sales and distribution of our product candidates. Whether or not we obtain FDA approval for a product, we must obtain approval by the comparable regulatory authorities of countries outside of the United States before we can commence clinical trials in such countries and approval of the regulators of such countries or economic areas, such as the European Union, before we may market products in those countries or areas. Certain countries outside of the United States have a process similar to the FDA’s that requires the submission of a clinical trial application (“CTA”) much like the IND prior to the commencement of human clinical trials. In the European Union, for example, a CTA must be submitted to each country’s national health authority and an independent ethics committee, much like the FDA and IRB, respectively. Once the CTA is approved in accordance with a country’s requirements, clinical trial development may proceed. The approval process and requirements governing the conduct of clinical trials, product licensing, pricing and reimbursement vary greatly from place to place, and the time may be longer or shorter than that required for FDA approval.
+ 
+ 19
+
+
+
+Under European Union regulatory systems, a company may submit marketing authorization applications either under a centralized or decentralized procedure. The centralized procedure, which is compulsory for medicines produced by biotechnology or those medicines intended to treat AIDS, cancer, neurodegenerative disorders or diabetes and is optional for those medicines which are highly innovative, provides for the grant of a single marketing authorization that is valid for all European Union member states. The decentralized procedure provides for mutual recognition of national approval decisions. Under this procedure, the holder of a national marketing authorization may submit an application to the remaining member states. Within ninety (90) days of receiving the applications and assessments report, each member state must decide whether to recognize approval. If a member state does not recognize the marketing authorization, the disputed points are eventually referred to the European Commission, whose decision is binding on all member states.
+ 
+Anti-Kickback and False Claims Laws
+ 
+In addition to FDA restrictions on marketing of pharmaceutical products, several other types of state and federal laws have been applied to restrict certain marketing practices in the pharmaceutical industry. These laws include, among others, anti-kickback statutes, false claims statutes and other statutes pertaining to healthcare fraud and abuse. The federal healthcare program anti-kickback statute prohibits, among other things, knowingly and willfully offering, paying, soliciting or receiving remuneration to induce, or in return for, purchasing, leasing, ordering or arranging for the purchase, lease or order of any healthcare item or service reimbursable under Medicare, Medicaid or other federally financed healthcare programs. The Patient Protection and Affordable Care Act, as amended by the Health Care and Education Affordability Reconciliation Act of 2010, collectively referred to as the Affordable Care Act amended the intent element of the federal anti-kickback statute so that a person or entity no longer needs to have actual knowledge of the statute or specific intent to violate it. This statute has been interpreted to apply to arrangements between pharmaceutical manufacturers on the one hand and prescribers, purchasers and formulary managers on the other. Although there are a number of statutory exceptions and regulatory safe harbors protecting certain common activities from prosecution or other regulatory sanctions, the exceptions and safe harbors are drawn narrowly, and practices that involve remuneration intended to induce prescribing, purchases or recommendations may be subject to scrutiny if they do not qualify for an exception or safe harbor.
+ 
+Federal false claims laws prohibit any person or entity from, among other things, knowingly presenting, or causing to be presented, a false claim for payment to the federal government, or knowingly making, or causing to be made, a false statement to have a false claim paid. This includes claims made to programs where the federal government reimburses, such as Medicaid, as well as programs where the federal government is a direct purchaser, such as when it purchases off the Federal Supply Schedule. Pharmaceutical and other healthcare companies have been prosecuted under these laws for, among other things, allegedly inflating drug prices they report to pricing services, which in turn were used by the government to set Medicare and Medicaid reimbursement rates, and for allegedly providing free product to customers with the expectation that the customers would bill federal programs for the product. In addition, certain marketing practices, including off-label promotion, may also violate federal false claims laws. Additionally, Affordable Care Act amended the federal healthcare program anti-kickback statute such that a violation of that statute can serve as a basis for liability under certain federal false claims laws.
+ 
+The majority of states also have statutes or regulations similar to the federal anti-kickback law and false claims laws, which apply to items and services reimbursed under Medicaid and other state programs, or, in several states, apply regardless of the payor.
+ 
+ 20
+
+
+
+Other federal statutes pertaining to healthcare fraud and abuse include the civil monetary penalties statute, which prohibits, among other things, the offer or payment of remuneration to a Medicaid or Medicare beneficiary that the offerer or payor knows or should know is likely to influence the beneficiary to order or receive a reimbursable item or service from a particular supplier, and the healthcare fraud and false statements statutes, which prohibit, among other things, knowingly and willfully executing or attempting to execute a scheme to defraud any healthcare benefit program or obtain by means of false or fraudulent pretenses, representations, or promises any money or property owned by or under the control of any healthcare benefit program in connection with the delivery of or payment for healthcare benefits, items, or services.
+ 
+Violations of these federal healthcare fraud and abuse laws are punishable by imprisonment, criminal fines, civil monetary penalties and exclusion from participation in federal healthcare programs.
+ 
+It is uncertain whether there will be any legislation that will replace or amend the Affordable Care Act. In addition, the Trump Administration has and will appoint many new secretaries, directors and the like into positions of authority in the U.S. Federal government dealing with the pharmaceutical and healthcare industries that may potentially have a negative impact on the prices and regulatory pathways for certain pharmaceuticals and healthcare products developed by the Company to market and sell its products in the U.S.
+ 
+Other Federal and State Regulatory Requirements
+ 
+The Centers for Medicare & Medicaid Services (“CMS”) has issued a final rule pursuant to Affordable Care Act that requires certain manufacturers of prescription drugs to annually collect and report information on payments or transfers of value to physicians and teaching hospitals, as well as ownership and investment interests held by physicians and their immediate family members. Manufacturers were required to begin collecting information on August 1, 2013, with the first reports due March 31, 2014. The reported data is posted in searchable form on a public website. Failure to submit required information may result in civil monetary penalties.
+ 
+In addition, several states now require prescription drug companies to report expenses relating to the marketing and promotion of drug products and to report gifts and payments to individual healthcare practitioners and entities in these states. Other states prohibit various other marketing-related activities. Still other states require the posting of information relating to clinical studies and their outcomes. In addition, California, Connecticut, Nevada and Massachusetts require pharmaceutical companies to implement compliance programs and marketing codes. Several additional states are considering similar proposals. Some of the state laws are broader in scope than federal laws. Compliance with these laws is difficult and time consuming, and companies that do not comply with these state laws face civil penalties.
+ 
+Reimbursement
+ 
+Sales of any of our product candidates that are approved will depend, in part, on the extent to which the costs of our approved products will be covered by third-party payors, such as government health programs, commercial insurance and managed healthcare organizations. These third-party payors are increasingly challenging the prices charged for medical products and services. Additionally, the containment of healthcare costs has become a priority of federal and state governments and the prices of drugs have been a focus in this effort. The U.S. government, state legislatures and foreign governments have shown significant interest in implementing cost-containment programs, including price controls, restrictions on reimbursement and requirements for substitution of generic products. Adoption of price controls and cost-containment measures, and adoption of more restrictive policies in jurisdictions with existing controls and measures, could further limit our expected net revenue and results. If any of our products are approved and these third-party payors do not consider our approved products to be cost-effective compared to other therapies, they may not cover our approved products as a benefit under their plans or, if they do, the level of payment may not be sufficient to allow us to sell our approved products on a profitable basis.
+ 
+ 21
+
+
+
+The Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (“MMA”), imposed new requirements for the distribution and pricing of prescription drugs for Medicare beneficiaries. Under Part D, Medicare beneficiaries may enroll in prescription drug plans offered by private entities which will provide coverage of outpatient prescription drugs. Part D plans include both stand-alone prescription drug benefit plans and prescription drug coverage as a supplement to Medicare Advantage plans. Unlike Medicare Part A and B, Part D coverage is not standardized. Part D prescription drug plan sponsors are not required to pay for all covered Part D drugs, and each drug plan can develop its own drug formulary that identifies which drugs it will cover and at what tier or level. However, Part D prescription drug formularies must include drugs within each therapeutic category and class of covered Part D drugs, though not necessarily all the drugs in each category or class. Any formulary used by a Part D prescription drug plan must be developed and reviewed by a pharmacy and therapeutic committee. Government payment for some of the costs of prescription drugs may increase demand for our products for which we receive marketing approval. However, any negotiated prices for our approved products covered by a Part D prescription drug plan will likely be lower than the prices we might otherwise obtain. Moreover, while the MMA applies only to drug benefits for Medicare beneficiaries, private payors often follow Medicare coverage policy and payment limitations in setting their own payment rates. Any reduction in payment that results from the MMA may result in a similar reduction in payments from non-governmental payors.
+ 
+The American Recovery and Reinvestment Act of 2009 provides funding for the federal government to compare the effectiveness of different treatments for the same illness. A plan for the research will be developed by the Department of Health and Human Services, the Agency for Healthcare Research and Quality and the National Institutes for Health, and periodic reports on the status of the research and related expenditures will be made to the U.S. Congress. Although the results of the comparative effectiveness studies are not intended to mandate coverage policies for public or private payors, it is not clear what effect, if any, the research will have on the sales of any approved product, if any such product or the condition that it is intended to treat is the subject of a study. It is also possible that comparative effectiveness research demonstrating benefits in a competitor’s product could adversely affect the sales of our product candidates. If third-party payors do not consider our approved products to be cost-effective compared to other available therapies, they may not cover our approved products as a benefit under their plans or, if they do, the level of payment may not be sufficient to allow us to sell our approved products on a profitable basis.
+ 
+The Affordable Care Act was enacted in March 2010, which includes measures to significantly change the way healthcare is financed by both governmental and private insurers. Among the provisions of the Affordable Care Act of importance to the pharmaceutical and biotechnology industry are the following:
+ 
+
+● | an annual, nondeductible fee on any entity that manufactures or imports certain branded prescription drugs and biologic agents, apportioned among these entities according to their market share in certain government healthcare programs, that began in 2011; 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | an increase in the rebates a manufacturer must pay under the Medicaid Drug Rebate Program to 23.1% and 13% of the average manufacturer price for branded and generic drugs, respectively; 
+● | a new Medicare Part D coverage gap discount program, in which manufacturers must agree to offer 50% point-of-sale discounts to negotiated prices of applicable brand drugs to eligible beneficiaries during their coverage gap period, as a condition for the manufacturer’s outpatient drugs to be covered under Medicare Part D; 
+● | extension of manufacturers’ Medicaid rebate liability to covered drugs dispensed to individuals who are enrolled in Medicaid managed care organizations; 
+● | expansion of eligibility criteria for Medicaid programs by, among other things, allowing states to offer Medicaid coverage to additional individuals and by adding new mandatory eligibility categories for certain individuals with income at or below 133% of the Federal Poverty Level, thereby potentially increasing manufacturers’ Medicaid rebate liability;
+● | expansion of the entities eligible for discounts under the Public Health Service pharmaceutical pricing program; 
+
+ 
+ 22
+
+
+
+
+● | expansion of healthcare fraud and abuse laws, including the False Claims Act and the Anti-Kickback Statute, new government investigative powers, and enhanced penalties for noncompliance; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | a licensure framework for follow-on biologic products; 
+● | a new Patient-Centered Outcomes Research Institute to oversee, identify priorities in, and conduct comparative clinical effectiveness research, along with funding for such research; 
+● | new requirements under the federal Open Payments program for drug manufacturers to report information related to payments and other transfers of value made to physicians and other healthcare providers as well as ownership or investment interests held by physicians and their immediate family members; 
+● | a new requirement to annually report drug samples that manufacturers and distributors provide to physicians, effective April 1, 2012; 
+● | creation of the Independent Payment Advisory Board which, beginning in 2014, will have authority to recommend certain changes to the Medicare program that could result in reduced payments for prescription drugs and those recommendations could have the effect of law even if Congress does not act on the recommendations; and
+● | establishment of a Center for Medicare Innovation at CMS to test innovative payment and service delivery models to lower Medicare and Medicaid spending, potentially including prescription drug spending that began on January 1, 2011. 
+
+ 
+In addition, in some non-U.S. jurisdictions, the proposed pricing for a product candidate must be approved before it may be lawfully marketed. The requirements governing drug pricing vary widely from country to country. For example, the European Union provides options for its member states to restrict the range of medicinal products for which their national health insurance systems provide reimbursement and to control the prices of medicinal products for human use. A member state may approve a specific price for the medicinal product or it may instead adopt a system of direct or indirect controls on the profitability of the company placing the medicinal product on the market. There can be no assurance that any country that has price controls or reimbursement limitations for pharmaceutical products will allow favorable reimbursement and pricing arrangements for any of our product candidates. Historically, product candidates launched in the European Union do not follow price structures of the United States and generally tend to be significantly lower.
+ 
+It is uncertain whether there will be any legislation that will replace or amend the Affordable Care Act.
+ 
+21st Century Cures Act
+ 
+The 21st Century Cures Act, which the U.S. House of Representatives passed in July 2015 and President Obama signed into law in December 2016, provides for a wide range of reforms, such as broadening the types of data required to support drug approval, extending protections from genetic competition, accelerating approval of breakthrough therapies, expanding the orphan drug product program, and clarifying how manufacturers communicate about their products.
+Employees
+ 
+As of December 31, 2017, we had 11 employees, including 5 in product development and 6 in management or administrative positions. We also have engaged several independent consultants to support our organization.
+ 
+ 23
+
+
+
+Directors and Executive Officers
+ 
+The table below sets forth, as of March 15, 2018, certain information concerning our current directors and executive officers. No family relationships exist among any of our directors or executive officers.
+
+Name | Age | Position with Diffusion 
+----------------------+-----+---------------------------------------------------------
+David G. Kalergis | 69 | Chairman and Chief Executive Officer 
+John L. Gainer, Ph.D. | 79 | Director and Chief Scientific Officer 
+David R. Jones, M.D. | 54 | Chief Medical Officer 
+Ben L. Shealy | 60 | Senior Vice President – Finance, Treasurer and Secretary
+William Hornung | 49 | Chief Business Officer 
+Thomas Byrne | 60 | General Counsel 
+Isaac Blech | 68 | Vice Chairman 
+Robert Adams | 67 | Director 
+Mark T. Giles | 63 | Director 
+Alan Levin | 55 | Director 
+Robert Ruffolo | 67 | Director 
+
+ 
+The following is a biographical summary of the experience of our directors and executive officers:
+ 
+David G. Kalergis – Mr. Kalergis has served as our Chairman of the Board and Chief Executive Officer since the completion of the Merger in January 2016. Mr. Kalergis, along with Dr. Gainer is the Company’s co-founder and has served as a director of Diffusion LLC since its inception in 2001 and as its Chief Executive Officer since 2004. Prior to joining the Company, Mr. Kalergis held positions with the University of Virginia; as the general counsel and director of business development for Pharmaceutical Research Associates, Inc., a pharmaceutical contract research organization; as an intelligence analyst for the U.S. Government; and with the law firm Dewey, Ballantine, Bushby, Palmer & Wood, practicing in the areas of corporate finance, public offerings and mergers and acquisitions. In addition, from July 1998 until May 2012, Mr. Kalergis served on the board of directors and audit committee of Virginia National Bank. Mr. Kalergis received a B.A. in psychology, as well as an M.B.A. and J.D., from the University of Virginia, and is a graduate of the Harvard Business School’s Leadership and Strategy in the Pharmaceutical and Biotechnology Industry program.
+ 
+John L. Gainer, Ph.D. – Dr. Gainer has served as a director and as our Chief Scientific Officer since the completion of the Merger in January 2016. Dr. Gainer, along with Mr. Kalergis, is the Company’s co-founder and has served as one of Diffusions LLC’s directors and as its Chief Scientific Officer since its inception in 2001. From 1966 until his retirement in 2005, Dr. Gainer was a professor of chemical engineering at the University of Virginia. During his career, Dr. Gainer authored more than 100 scientific journal articles, including more than 30 published in medical journals, and spent two sabbaticals investigating drug actions and related research at Karolinska Institute in Stockholm and the laboratory of a major pharmaceutical company. He has been a member of the International Society for Oxygen Transport in Tissues since its inception in 1973. Dr. Gainer received a BSChE from West Virginia University, a MS in chemical engineering from the Massachusetts Institute of Technology, and a Ph.D. in chemical engineering from the University of Delaware.
+ 
+David R. Jones, M.D. – Dr. Jones serves as our Chief Medical Officer. Dr. Jones was appointed Chief Medical Officer in connection with the completion of the Merger, and has served as Diffusion LLC’s Chief Medical Officer since September 2012. In addition to serving as the Company’s Chief Medical Officer, Dr. Jones is also the Fiona and Stanley Druckenmiller Endowed Professor for Lung Cancer Research and Chief of Thoracic Surgery at Memorial Sloan-Kettering Cancer Center in New York, NY, a position he has held since 2013. From 2007 to 2013, Dr. Jones was Professor of Surgery and Division Chief of Thoracic & Cardiovascular Surgery at the University of Virginia. In addition to his clinical practice, Dr. Jones has published more than 220 scientific articles, authored or co-authored over 35 book chapters, and served as Principal Investigator or Co-Investigator of over 30 clinical trials. Dr. Jones received an undergraduate degree in chemistry and an M.D. from West Virginia University, and completed his thoracic surgery residency and postdoctoral research fellowship in molecular oncology at the University of North Carolina - Chapel Hill.
+ 
+Ben L. Shealy – Mr. Shealy serves as our Senior Vice President – Finance and Treasurer. Mr. Shealy was appointed Senior Vice President – Finance and Treasurer in connection with the completion of the Merger. Mr. Shealy has served as Diffusion LLC’s Senior Vice President – Finance and Treasurer, since December 2015, and prior to that had served as Diffusion LLC’s Chief Financial Officer since 2004. Prior to joining the Company, Mr. Shealy spent more than 20 years in the financial management industry focusing on private and public corporate financings, including serving as the Vice President of REBAR Inc. and positions with Donaldson, Lufkin & Jenrette, Prudential-Bache Capital Funding and the John Hancock Derivatives Group. Mr. Shealy received a B.S. in accounting from San Jose State University, an M.B.A. in finance from Columbia University and is a CFA Charter holder.
+ 
+ 24
+
+
+
+Thomas Byrne – Mr. Byrne was appointed as our General Counsel in connection with the completion of the Merger. Mr. Byrne served as a director of Diffusion LLC from 2001 to January 2016, as a director of the Company from January 2016 until April 2016 and has served as Diffusion LLC’s Secretary and Director of Patent Strategy since 2007. Prior to joining Diffusion LLC, Mr. Byrne served in in-house counsel positions at both Genentech Inc. and Amgen Inc., where he co-invented the erythropoiesis stimulating agent darbepoietin alpha (Aranesp®). From 1992 to 2000, he was a partner in the intellectual property law firm of Nixon and Vanderhye P.C. Mr. Byrne also currently acts as a consultant for start-up biotechnology companies on intellectual property, contract and business issues. He received a B.S. in chemical engineering and nuclear engineering, as well as a J.D., from the University of Virginia, and an M.S. in biochemical engineering from Yale University.
+ 
+William Hornung – Mr. Hornung serves as our Chief Business Officer, a position he has held since August 2017. Mr. Hornung joined Diffusion from Contravir Pharmaceuticals, where he served as Chief Financial Officer from June 2014 to November 2015 and helped the company up-list to NASDAQ and raise nearly $30 million. Prior to Contravir, from 2002 through 2014 Mr. Hornung held positions of increasing responsibility with PTC Therapeutics, most recently serving as Vice President of Finance from April 2012 to March 2014. While at PTC Therapeutics he oversaw the IPO process and raised more than $1 billion. From 1998 through 2002 Mr. Hornung was with Elan Pharmaceuticals (formerly The Liposome Company) in various financial roles. At Liposome and Elan he was responsible for strategic planning and operations of the company's UK-based European headquarters. Earlier in his career Mr. Hornung worked for a clinical research organization where he was responsible for project management and nearly all financial aspects of the company. Mr. Hornung holds a Bachelor of Science in Accounting from the William Paterson State University of New Jersey
+ 
+Isaac Blech – Mr. Blech has served as a director since August 2016. Mr. Blech’s current roles include serving as vice chairman of the board of directors of Edge Therapeutics, Inc., a clinical-stage biotechnology company, founder and director of Cerecor, Inc., a CNS company, director of ContraFect Corporation, an infectious disease company, director of Medgenics, Inc., a biotechnology company, and vice chairman of InspireMD, a stent company. He is vice chairman of the boards of directors of Centrexion Corporation, a private company which is developing new modalities of pain control, Regenovation, Inc., a private company developing new ways to regenerate human tissue, X4 Pharmaceuticals, a private cancer immunology company, Sapience Therapeutics, a private oncology company, Aridis Pharmaceuticals, a private company with a product to treat pneumonia, WaveGuide Corporation, a private company developing the world’s smallest NMR machine, SpendSmart Networks, Inc., a private electronic rewards company, and root9B Technologies, a private cyber security company. Over the past 35 years, Mr. Blech has founded and served on the boards of directors of companies which have produced major advances in a broad array of diseases, including the diagnosis of chlamydia, herpes, syphilis and HIV and the treatment of cystic fibrosis, sexual dysfunction, multiple myeloma and brain cancer. Mr. Blech was previously a member of the board of directors of the Company prior to the Merger.
+ 
+Robert Adams – Mr. Adams has served as a director since the completion of the Merger in January 2016 and as a director of Diffusion LLC since 2002. Prior to his retirement in 2015, Mr. Adams was a partner in the intellectual property law firm of Nixon & Vanderhye P.C, where he had practiced for over 25 years, focusing on patent litigation and international patent licensing and negotiations. During that time period, Mr. Adams was lead litigation counsel in more than 50 major intellectual property lawsuits, where he directly handled, for example, all intellectual property valuations and settlements on behalf of his U.S. and foreign clients. Moreover, Mr. Adams served as the head negotiator for a well-known Japanese consumer products company for 15 years in various complicated licensing situations. Those negotiations typically involved the cross-licensing of up to hundreds of U.S. and foreign patent rights. His lead licensing activities on behalf of that client included, among other things, multi-year negotiations with Texas Instruments, Advanced Micro Devices and Freescale. Mr. Adams received a B.A. from the University of Maryland and a J.D. from George Washington University (with honors), and is a member of the Virginia State Bar.
+ 
+ 25
+
+
+
+Mark T. Giles – Mr. Giles has served as a director since the completion of the Merger in January 2016 and as a director of Diffusion LLC since 2008. Since July 2007, Mr. Giles has been the sole managing member of Panda Holdings, LLC, which engages in the investment and management of private capital. Prior to joining Panda Holdings, Mr. Giles served as the Chief Executive Officer of Virginia National Bank from July 1998 until June 2007 and thereafter continued to serve as the non-executive Chairman until December 2011. Prior to joining Virginia National Bank, Mr. Giles also served as the president of two publicly traded bank holding companies and subsidiary banks in Texas and practiced law with the banking group of a Houston law firm. He chairs the boards of Relay Foods, Inc. and Expedition Trust Company. He also serves on the boards of The Paramount Theater Foundation, The Paramount Theater Operating Company and the Computers4Kids Program. Mr. Giles received a B.S. from the McIntire School of Commerce at the University of Virginia and a J.D. from the University of Virginia School of Law.
+ 
+Alan Levin – Mr. Levin has served as a director since the completion of the Merger in January 2016 and as a director of Diffusion LLC since June 2015. He previously served as Executive Vice President and Chief Financial Officer of Endo Health Solutions Inc. (“Endo”), a global specialty healthcare company, from June 2009 until his retirement in September 2013. Prior to joining Endo, Mr. Levin worked with Texas Pacific Group, a leading private equity firm, and one of their start-up investments. Before that, he was Senior Vice President & Chief Financial Officer of Pfizer, Inc. where he worked for 20 years in a variety of executive positions of increasing responsibility, including Treasurer and Senior Vice President of Finance & Strategic Management for the company’s research and development organization. Mr. Levin received a bachelor’s degree from Princeton University and a master’s degree from New York University’s Stern School of Business. Mr. Levin is a certified public accountant. He is a member of the board of directors of Aceto Corp, a NASDAQ-traded company specialized in generics and pharmaceutical intermediate products. He is also a member of the Advisory Board of Auven Therapeutics, a private equity fund; and the Critical Path Institute, a nonprofit collaboration between the Food and Drug Administration and pharmaceutical industry participants focused on streamlining and accelerating the development and regulatory pathways for innovative medicines.
+ 
+Robert R. Ruffolo, Jr – Dr. Ruffolo has served as a director since July 2017 and is currently the President of Ruffolo Consulting, LLC, a position he has held since 2008. Prior to starting his consulting firm, he formerly served as President of Research and Development and as Corporate Senior Vice President for Wyeth Pharmaceuticals from 2002 to 2008, prior to Wyeth's acquisition by Pfizer in 2009. Before joining Wyeth in 2000, Dr. Ruffolo spent 17 years at SmithKline Beecham Pharmaceuticals (now GlaxoSmithKline) where he was Senior Vice President and Director of Biological Sciences, Worldwide, and prior to that, he spent 6 years at Lilly Research Laboratories where he was Chairman of the Cardiovascular Research Committee. Dr. Ruffolo received a B.S in pharmacy and his Ph.D. in pharmacology from The Ohio State University.
+ 
+Corporate Information and History
+ 
+We are a Delaware corporation that was originally incorporated in the State of Nevada on January 10, 1995. We reincorporated into the State of Delaware on June 18, 2015. Our corporate headquarters are located at 1317 Carlton Avenue, Suite 200, Charlottesville, Virginia 22902, our telephone number is (434) 220-0718, and our Internet web site address is www.diffusionpharma.com. The information contained on our web site or connected to our web site is not incorporated by reference into and should not be considered part of this annual report on Form 10-K.
+ 
+Merger with RestorGenex
+ 
+On January 8, 2016, we completed the Merger with Diffusion LLC in accordance with the terms of the Merger Agreement. As a result of the Merger, Diffusion LLC, the surviving company in the Merger, became a wholly owned subsidiary of the Company.
+ 
+At the effective time of the Merger (the “Effective Time”), each outstanding unit of membership interest of Diffusion LLC (the “Diffusion Units”) was converted into the right to receive 0.3652658 shares of our common stock, as determined pursuant to the Merger Agreement (the “Exchange Ratio”). Also, at the Effective Time, the rights of the holders of each outstanding convertible promissory note convertible into Diffusion Units (the “Diffusion Convertible Notes”) to convert such Diffusion Convertible Notes into Diffusion Units, was converted into the right to convert such securities into a number of shares of common stock equal to the number of Diffusion Units such Diffusion Convertible Note would be convertible into pursuant to its terms multiplied by the Exchange Ratio. In addition, at the Effective Time and as a result of the Merger, all outstanding options to purchase Diffusion Units were converted into and became options to purchase common stock on terms substantially identical to those in effect prior to the Effective Time, except for adjustments to the underlying number of shares and the exercise price based on the Exchange Ratio.
+ 
+ 26
+
+
+
+Immediately following the Merger, the former equity holders of Diffusion LLC owned approximately 84.1% of the Company’s common stock, and the stockholders of RestorGenex immediately prior to the Merger owned approximately 15.9% of the Company’s common stock, in each case, on a fully-diluted basis (subject to certain exceptions and adjustments) and calculated in accordance with the terms of the Merger Agreement.
+ 
+For accounting purposes, the Merger is treated as a “reverse acquisition” under generally acceptable accounting principles in the United States (“U.S. GAAP”) and Diffusion LLC is considered the accounting acquirer. Accordingly, Diffusion LLC’s historical results of operations have replaced the Company’s historical results of operations for all periods prior to the Merger.
+ 
+Reverse Stock Split
+ 
+On August 17, 2016, the Company filed a Certificate of Amendment to its Certificate of Incorporation with the Secretary of State of the State of Delaware to effect a 1-to-10 reverse stock split (the “Reverse Stock Split”) of the common stock. No fractional shares were issued in connection with the Reverse Stock Split. Stockholders who otherwise would have been entitled to receive fractional shares of common stock had their holdings rounded up to the next whole share. Proportional adjustments were made to the Company’s outstanding warrants, stock options and other equity securities and to the Company’s 2015 Equity Incentive Plan, as amended, to reflect the Reverse Stock Split, in each case, in accordance with the terms thereof. Unless the context otherwise requires, all share and per share amounts in this annual report on Form 10-K have been adjusted to reflect the Reverse Stock Split.
+Available Information
+ 
+We make available, free of charge and through our Internet web site, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and any amendments to any such reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. We also make available, free of charge and through our Internet web site, to any stockholder who requests, the charters of our board committees, our Corporate Governance Guidelines and our Code of Business Conduct and Ethics. Requests for copies can be directed to Investor Relations at (434) 220-0718.
+Cautionary Note Regarding Forward-Looking Statements
+ 
+This Annual Report on Form 10-K (this “Annual Report”) includes forward-looking statements. We may, in some cases, use terms such as “believes,” “estimates,” “anticipates,” “expects,” “plans,” “intends,” “may,” “could,” “might,” “will,” “should,” “approximately” or other words that convey uncertainty of future events or outcomes to identify these forward-looking statements. Forward-looking statements appear in a number of places throughout this Annual Report and include statements regarding our intentions, beliefs, projections, outlook, analyses or current expectations concerning, among other things, our ongoing and planned preclinical development and clinical trials, the timing of and our ability to make regulatory filings and obtain and maintain regulatory approvals for our product candidates, our intellectual property position, the degree of clinical utility of our products, particularly in specific patient populations, our ability to develop commercial functions, expectations regarding clinical trial data, our results of operations, cash needs, financial condition, liquidity, prospects, growth and strategies, the industry in which we operate and the trends that may affect the industry or us.
+ 
+By their nature, forward-looking statements involve risks and uncertainties because they relate to events, competitive dynamics and industry change, and depend on the economic circumstances that may or may not occur in the future or may occur on longer or shorter timelines than anticipated. Although we believe that we have a reasonable basis for each forward-looking statement contained or incorporated by reference in this Annual Report, we caution you that forward-looking statements are not guarantees of future performance and that our actual results of operations, financial condition and liquidity, and the development of the industry in which we operate may differ materially from the forward-looking statements contained or incorporated by reference in this Annual Report. In addition, even if our results of operations, financial condition and liquidity, and the development of the industry in which we operate are consistent with the forward-looking statements contained or incorporated by reference in this Annual Report, they may not be predictive of results or developments in future periods.
+ 
+ 27
+
+
+
+Actual results could differ materially from our forward-looking statements due to a number of factors, including risks related to:
+ 
+
+● | our ability to obtain additional financing; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | our estimates regarding expenses, capital requirements and needs for additional financing; 
+● | the success and timing of our preclinical studies and clinical trials; 
+● | the difficulties in obtaining and maintaining regulatory approval of our products and product candidates, and the labeling under any approval we may obtain;
+● | our plans and ability to develop and commercialize our product candidates; 
+● | our failure to recruit or retain key scientific or management personnel or to retain our executive officers; 
+● | the accuracy of our estimates of the size and characteristics of the potential markets for our product candidates and our ability to serve those markets; 
+● | regulatory developments in the United States and foreign countries; 
+● | the rate and degree of market acceptance of any of our product candidates; 
+● | obtaining and maintaining intellectual property protection for our product candidates and our proprietary technology; 
+● | our ability to operate our business without infringing the intellectual property rights of others; 
+● | recently enacted and future legislation regarding the healthcare system; 
+● | our ability to maintain our listing on the Nasdaq Capital Market; 
+● | the success of competing products that are or become available; and 
+● | the performance of third parties, including contract research organizations and manufacturers. 
+
+ 
+You should also read carefully the factors described in the “Risk Factors” section of this Annual Report and elsewhere to better understand the risks and uncertainties inherent in our business and underlying any forward-looking statements. As a result of these factors, we cannot assure you that the forward- looking statements contained or incorporated by reference in this Annual Report will prove to be accurate. Furthermore, if our forward-looking statements prove to be inaccurate, the inaccuracy may be material. In light of the significant uncertainties in these forward-looking statements, you should not regard these statements as a representation or warranty by us or any other person that we will achieve our objectives and plans in any specified timeframe, or at all.
+ 
+Any forward-looking statements that we make contained or incorporated by reference in this Annual Report speak only as of the date of such statement, and, except as required by applicable law, we undertake no obligation to update such statements to reflect events or circumstances after the date of this Annual Report or to reflect the occurrence of unanticipated events. Comparisons of results for current and any prior periods are not intended to express any future trends or indications of future performance, unless expressed as such, and should only be viewed as historical data.
+ 
+ 28
+
+
+

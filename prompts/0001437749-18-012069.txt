@@ -1,0 +1,146 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+General
+ 
+Giga-tronics Incorporated (“Giga-tronics”, or the “Company”) includes the operations of Microsource Inc. (“Microsource”), a wholly owned subsidiary, and the Giga-tronics Division.
+ 
+Microsource primarily develops YIG (Yttrium, Iron, Garnet) tuned oscillators, filters, and microwave synthesizers for use in military defense applications. Microsource’s two largest customers are prime contractors for which it develops and manufactures YIG RADAR filters used in fighter jet aircrafts. Revenues from Microsource comprised a majority of the Company’s revenues for the fiscal years ended March 31, 2018 and March 25, 2017 (see Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Results of Operations).
+ 
+The Giga-tronics Division designs, manufactures and markets a family of modular test products for use primarily in the electronic warfare (EW) segment of the defense electronics market. These modular test products represent critical building blocks in the construction of test and simulation systems used to validate the performance of RADAR & EW equipment. Giga-tronics Division customers include major prime defense contractors, the armed services (primarily in the U.S.) and research institutes. This product platform for RADAR & EW test & simulation applications (formerly referred to as “Hydra”) has been the Company’s principal new product development initiative since 2011 within the test & measurement equipment marketplace, replacing its broad product line of general purpose benchtop test & measurement products used for the design, production, repair and maintenance of products in the aerospace and telecommunications equipment marketplace. The substantial majority of these legacy product lines which the Company produced over the previous 35 years were sold by the Company between 2013 and 2016 because of lack of growth potential and poor gross margins. For example, we sold our SCPM product line to Teradyne in 2013; in December 2015, we sold our Power Meters and Amplifiers to Spanawave Corporation; and in June 2016, we sold our Switch product line to Astronics (see Part II-Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements, Note 10, Sale of Product Lines). The Company believes the EW test & simulation product market possesses greater long-term opportunities for revenue growth and improved gross margins compared to the general purpose test & measurement equipment marketplace.
+ 
+Giga-tronics was incorporated on March 5, 1980, and Microsource was acquired by Giga-tronics on May 18, 1998.
+ 
+The combined Company’s principal executive offices are located at 5990 Gleason Drive, Dublin, California, and our telephone number at that location is (925) 328-4650.
+ 
+Operating Segments
+ 
+The Company has two reporting segments: Microsource and the Giga-tronics Division.
+ 
+For more information regarding the Company’s two reporting segments, see “Part II-Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements, Note 12, -Significant Customers and Industry Segment Information.”
+ 
+ 3
+
+
+
+Products and Markets
+ 
+Microsource
+ 
+Microsource develops and manufactures a line of YIG tuned oscillators, filters, and microwave synthesizers. Microsource’s two largest customers are prime contractors for which it develops and manufactures YIG RADAR filters used in prior generation fighter jets that receive upgraded RADAR systems as part of the U.S. government’s RADAR Modernization Program (RMP). The upgrades are designed to extend the service life of these older aircraft. Microsource’s RADAR filter solves an interference problem created when the jet’s original RADAR system is replaced with newer technology while the jet’s legacy onboard electronics remain untouched. Microsource supplies a uniquely designed filter for each aircraft type that receives a new RADAR and currently participates in the F/A-18E, F-15D and F-16 programs. Microsource is currently the sole source supplier to the prime contractors and has no competition for these products.
+Giga-tronics Division
+ 
+The Giga-tronics division designs, manufactures and markets a family of modular microwave test products aimed primarily for testing RADAR and Electronic Warfare (“EW”) equipment. These modular products form a platform called the Advanced Signal Generation and Analysis (“ASGA”) system and represents critical building blocks in the construction of test systems used to validate the performance of RADAR/EW equipment. The building blocks include individual calibrated transmit channels called the Advanced Signal Generator (“ASG”) and individual calibrated receive channels called the Advanced Signal Analyzer (“ASA”). A System Reference Module (SRM100A) shared between the ASG and ASA modules completes the platform.
+ 
+The platform’s architecture uniquely addresses the new adaptive RADAR and EW test requirements with a closed loop solution. There are three key innovations in this platform which include: (1) replacing the synthesizer with a microwave up-converter, (2) separating the reference module, which is normally part of the synthesizer, into a separate building block, and (3) designing a mirrored down-converters that uses the same microwave components and layout as the up-converter. For example, by replacing the synthesizer with an up-converter and the I/Q modulation system with a digital front-end, the test system is architected similar to a RADAR system, allowing the user to think digitally at a low baseband frequency, greatly simplifying the programming of the test system. In addition, it facilitates building test systems with reduced size, weight and cost as compared with present synthesizer-based solutions, especially when the test system is required to have multiple transmitters and receivers to perform a validation test. As part of the development of our ASGA system solution, we relied on key technology developed by our Microsource subsidiary to design Microwave Integrated Circuits (MIC) which we customized for our ASGA system.
+ 
+The end-user markets for these products are divided into three segments: RADAR, electronic countermeasures (ECM) and direction finding (DF). Performance validation of RADAR, ECM and DF systems all commonly require test systems with multiple transmit and receive channels, making the Giga-tronics Advanced Signal Generator and Analysis system an optimized component for these applications.
+ 
+Sources and Availability of Raw Materials and Components
+ 
+Substantially all the components required by Giga-tronics to make its assemblies are available from more than one source. We occasionally use sole source arrangements to obtain leading-edge technology or favorable pricing or supply terms, but not in any material volume. In our opinion, the loss of any sole source arrangement we have would not be material to our operations. Some suppliers are also competitors of Giga-tronics. In the event a competitor-supplier chooses not to sell its products to us, production delays could occur as we seek new suppliers or re-design components to our products.
+ 
+Although extended delays in receipt of components from our suppliers could result in longer product delivery schedules for us, we believe that our protection against this possibility stems from our practices of dealing with well-established suppliers and maintaining good relationships with such suppliers.
+ 
+ 4
+
+
+
+Patents and Licenses
+ 
+Our competitive position is largely dependent upon our ability to provide performance specifications for our instruments and systems that (a) are easy to use and effectively and reliably meet customers’ needs and (b) selectively surpass competitors’ specifications in competing products. Patents may occasionally provide some short-term protection of proprietary designs. However, because of the rapid progress of technological development in our industry, such protection is most often, although not always, short-lived. Therefore, although we occasionally pursue patent coverage, we place major emphasis on the development of new products with superior performance specifications and the upgrading of existing products toward this same end.
+ 
+Our products are based on our own designs, which are derived from our own engineering abilities. If our new product engineering efforts fall behind, our competitive position weakens. Conversely, effective product development greatly enhances our competitive status.
+ 
+As of March 31, 2018, the Company maintains four non-provisional patents related to the Company’s 2500B benchtop signal generator product line, which was not included in the legacy products sold to Spanawave (see Part II-Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements, Note 10, Sale of Product Lines). These patents describe advanced synthesis techniques and potentially can be extended for use with the Giga-tronics Advanced Signal Generation and Analysis system and to a number of Microsource synthesizer components. Additionally, the Company filed a provisional U.S. patent relating to the Advanced Signal Generation and Analysis system in June of 2016 and subsequently filed a non-provisional application in June of 2017. The patent application describes the unique internal design of the ASG and ASA along with the architecture of how all the components work together to facilitate building multi-channel test systems with reduced size, weight and cost as compared to present solutions. The application for the non-provisional patent is currently pending before the U.S. patent office.
+ 
+We are not dependent on trademarks, licenses or franchises. We utilize certain software licenses in certain functional aspects for some of our products. Such licenses are readily available, non-exclusive and are obtained at either no cost or for a relatively small fee.
+ 
+In September 2015, we entered into a software development agreement with a major aerospace and defense company whereby the aerospace company would develop and license its simulation software to us. The simulation software (also called Open Loop Simulator or OLS technology) is currently the aerospace company’s intellectual property. The OLS technology coordinates the behavior of the Company’s ASGA system with various third-party hardware elements to generate the signals for validating ECM equipment. We license the OLS software as a bundled or integrated solution with our TEmS product.
+ 
+ 5
+
+
+
+Seasonal Nature of Business 
+ 
+Our business is not seasonal.
+ 
+Working Capital Practices
+ 
+We generally strive to maintain adequate levels of inventory and we generally sell to customers on 30-day payment terms in the U.S. and generally allow more time for overseas payments. Typically, we receive payment terms of 30 days from our suppliers. We believe that these practices are consistent with typical industry practices.
+Importance of Limited Number of Customers
+ 
+We are a supplier of RADAR filters for fighter jet aircraft and products for EW test and emulation to various United States (U.S.) government defense agencies, as well as to their prime contractors. Management anticipates sales to U.S. government agencies and their prime contractors will remain significant in fiscal 2019. U.S. and international defense-related agencies accounted for 93% of net sales in fiscal 2018 and 78% of net sales in fiscal 2017. Commercial business accounted for the remaining 7% of net sales in fiscal 2018 and 22% of net sales in fiscal 2017.
+ 
+At the Giga-tronics Division, U.S. defense agencies and their prime contractors accounted for 76% and 24% of net sales in fiscal 2018 and 58% and 42% of net sales in fiscal 2017, respectively. Microsource reported 99% and 97% of net sales to prime contractors of U.S. defense agencies in fiscal 2018 and fiscal 2017, respectively.
+ 
+During fiscal 2018, the Boeing Company accounted for 29% of our consolidated revenues and was included in the Microsource reporting segment. A second customer, CSRA LLC (CSRA acted as prime contractor for the United States Navy) accounted for 17% of our consolidated revenues during fiscal 2018 and was included in the Giga-tronics Division reporting segment.
+ 
+During fiscal 2017, the Boeing Company accounted for 33% of our consolidated revenues and was included in the Microsource reporting segment. A second customer, CSRA LLC (CSRA acted as Prime Contractor for the United States Navy) accounted for 20% of our consolidated revenues during fiscal 2017 and was included in the Giga-tronics Division reporting segment.
+ 
+We could experience a material adverse effect on our financial stability if there was a significant loss of either our defense or commercial customers.
+ 
+Both Microsource and our Giga-tronics Division products are largely dependent on U.S. defense spending and budgets and are subject to expansion and contraction between fiscal year periods. Revenues from Microsource products and services often times span several years with deliveries varying between both interim and annual fiscal year periods. Additionally, the Giga-tronics Division’s Advanced Signal Generation and Analysis system is a relatively new product platform with fewer targeted customers and significantly longer sales cycles and greater average selling prices when compared to its prior general-purpose test & measurement equipment product lines. We therefore expect that a major customer in one year may not be a major customer in the following year. Accordingly, our net sales and earnings will decline if we are unable to find new customers or increase our business with other existing customers to replace declining net sales from the previous year’s major customers.
+ 
+Backlog of Orders
+ 
+On March 31, 2018, our backlog of unfilled orders was approximately $11.2 million compared to approximately $11.4 million at March 25, 2017. As of March 31, 2018, there were approximately $3.8 million of orders scheduled for shipment beyond one year, compared to $5.7 million at March 25, 2017. Orders for our products include program orders from prime contractors with extended delivery dates. Accordingly, the backlog of orders may vary substantially from year to year and the backlog entering any single fiscal quarter may not be indicative of sales for any period.
+ 
+ 6
+
+
+
+Backlog includes only those customer orders for which binding agreement exists, a delivery schedule has been agreed upon between us and our customer and, in the case of U.S. government orders, for which funding has been appropriated.
+ 
+Competition
+ 
+The Company serves two different markets.
+ 
+Microsource is a sole source supplier serving the aftermarket for operational hardware associated with the US Government’s RADAR Modernization Program (RMP) for prior generation fighter jet aircraft (i.e., the F/A-18E, F-15D and F-16 jets) to extend their useful lives. The Microsource business unit supplies YIG filters specifically designed for military aircraft to solve interference problems caused by newer, more powerful RADARs. The prime contractors responsible for integrating the new RADARs have over several years flight qualified our filters at considerable expense. Only a few other companies possess the technical know-how to design and manufacture filters of this nature, such as Teledyne and Micro-Lambda Wireless, but we believe the expense of requalifying a new component is prohibitive to the point where the prime contractor would only undertake such an effort if significant issues, such as significant technical deficiencies, were to arise. Microsource is the sole-source supplier of these filters and presently does not have any competition for this business. Microsource routinely maintains a “gold supplier” rating from its customers and received the Supplier of the Year award from one of the prime contractors in 2011. Microsource must maintain the Aerospace Industry’s AS9100C certification for its Quality Management System which it currently maintains.
+ 
+The Giga-tronics Division serves the electronic test equipment market with a microwave platform used in the evaluation of military RADAR and electronic warfare (EW) systems. These applications represent niche segments within the broader test equipment market. While the niche market segments of RADAR and EW are large enough to be meaningful to Giga-tronics, we believe they are too small to attract larger competitors, such as Agilent/Keysight, Rohde & Schwarz and National Instruments who, to our knowledge, do not approach these markets with new dedicated, focused solutions.
+ 
+Giga-tronics chose a unique architecture to address the new RADAR and EW test requirements that are adaptive/cognitive. To exercise these new RADARs and jamming (i.e. interference) signals necessitates a real time, closed loop, dynamic simulation system. We believe our microwave product presents a paradigm shift providing a closed loop test capability that is not available from any other competitor. To maintain our position against competitors that have greater resources in research, development and manufacturing with substantially broader product lines and channels, we (a) place strong emphasis on maintaining a high degree of technical competence as it relates to the development of new microwave products, (b) are highly selective in establishing technological objectives and (c) focus sales and marketing activities in the selected niche areas that are weakly served or underserved by our competitors. Competitors that make alternative equipment to the Giga-tronics Advanced Signal Generation and Analysis system include ELCOM (a division of Frequency Electronics Inc.), COMSTRON (a division of Cobham Plc) and EWST (a division of Ultra Electronics Plc). Compared to Giga-tronics, these competitors are of comparable size or have small product divisions with more limited product lines. Two much larger companies, Northrop Grumman/Amherst and Textron/AAI sell open loop equipment that competes with the Giga-tronics TEmS and Multi-Aircraft signal generator solutions, albeit at a much higher selling price. These test systems from Northrup Grumman and Textron have long delivery schedules, represent expensive capital investments to the customers that buy them and typically are shared among a large number of users generally limiting access to their testing capabilities. Giga-tronics can complement these larger test systems by uniquely addressing the new closed loop test requirements for the next generation RADAR/EW devices and by offering smaller, lower cost and more flexible testing solutions that can be delivered more quickly, which greatly increases a user’s access to systems test capability and reduces the risk of program failure.
+ 
+Sales and Marketing
+ 
+Microsource and the Giga-tronics Division sell their products primarily direct to U.S. defense agencies and their prime defense contractors.
+ 
+Product Development
+ 
+Products of the type manufactured by Giga-tronics historically have had relatively long product life cycles. However, the electronics industry is subject to rapid technological changes at the component level. Our future success is dependent on our ability to steadily incorporate advancements in component technologies into our new products. In fiscal 2018 and fiscal 2017, product development expenses totaled approximately $1.8 million and $2.3 million, respectively.
+ 
+The development of our Advanced Signal Generation and Analysis system product platform for EW test & emulation applications (formerly described as “Hydra”) has been the Company’s primary new product development initiative since 2011. Through March 31, 2018, the Company has spent over $13 million towards the development of the ASGA system product platform. The Company also anticipates increasing the product development efforts related to its Microsource business unit’s RADAR filter technology in future periods. Our product development activities are funded internally, through product line sales, or through outside equity investment and debt financing. Product development activities are expensed as incurred, except software development costs associated with our Advanced Signal Generation and Analysis system, which were fully amortized as of March 31, 2018.
+ 
+We expect to continue to make significant investments in research and development. There can be no assurance that future technologies, processes or product developments will not render our current product offerings obsolete or that we will be able to develop and introduce new products or enhancements to existing products that satisfy customer needs in a timely manner or achieve market acceptance. Failure to do so could adversely affect our business.
+ 
+ 7
+
+
+
+Manufacturing
+ 
+The assembly and testing of Microsource and Giga-tronics Division products are done at our Dublin facility.
+ 
+Environment
+ 
+To the best of our knowledge, we are in compliance with all Federal, state and local laws and regulations involving the protection of the environment.
+ 
+Employees
+ 
+As of March 31, 2018, and March 25, 2017, we employed 43 and 57 individuals on a full-time basis, respectively. We believe that our future success depends on our ability to attract and retain skilled personnel. None of our employees are represented by a labor union, and we consider our employee relations to be good.
+Information about Foreign Operations
+ 
+We sell to our international customers through a network of foreign technical sales representative organizations. All transactions between us and our international customers are in U.S. dollars.
+
+Geographic Distribution of Net Sales | | | | | | | | | | 
+-------------------------------------+--------------+-------+--------------+---+--------+--------------+-------------+---+-----+--
+(Dollars in thousands) | Fiscal 2018 | | Fiscal 2017 | | | Fiscal 2018 | Fiscal 2017 | 
+Domestic | $ | 9,058 | | $ | 15,938 | | 92 | % | 98 | %
+International | | 742 | | | 329 | | 8 | % | 2 | %
+Total | $ | 9,800 | | $ | 16,267 | | 100 | % | 100 | %
+
+ 
+See Part II-Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements, Note 12, Significant Customers and Industry Segment Information for further breakdown of international sales for the last two fiscal years.
+ 

@@ -1,0 +1,225 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Our Business
+Business Description
+ 
+Precipio, Inc., and Subsidiary, (“we”, “us”, “our”, the “Company” or “Precipio”) is a cancer diagnostics company providing diagnostic products and services to the oncology market. We have developed a platform designed to eradicate misdiagnoses by harnessing the intellect, expertise and technology developed within academic institutions and delivering quality diagnostic information to physicians and their patients worldwide. We operate a cancer diagnostic laboratory located in New Haven, Connecticut and have partnered with the Yale School of Medicine to capture the expertise, experience and technologies developed within academia so that we can provide a better standard of cancer diagnostics and solve the problem of cancer misdiagnosis. We also operate a research and development facility in Omaha, Nebraska which will focus on the further development of ICE-COLD-PCR, or ICP, the patented technology described further below, which was exclusively licensed by us from Dana-Farber Cancer Institute, Inc., or Dana-Farber, at Harvard University. The research and development center will focus on the development of this technology, which we believe will enable us to commercialize other technologies developed by our current and future academic partners. Our platform connects patients, physicians and diagnostic experts residing within academic institutions. Launched in 2017, the platform facilitates the following relationships:
+
+• | Patients: patients may search for physicians in their area and consult directly with academic experts that are on the platform. Patients may also have access to new academic discoveries as they become commercially available.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Physicians: able to connect with academic experts to seek consultations on behalf of their patients and provide consultations for patients in their area seeking medical expertise in that physician’s relevant specialty. Physicians will also have access to new diagnostic solutions to help improve diagnostic accuracy.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Academic Experts: able to make themselves available for patients or physicians seeking access to their expertise. Additionally, these experts have a platform available to commercialize their research discoveries.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We intend to continue updating our platform to allow for patient-to-patient communications and allow individuals to share stories and provide support for one another, to allow physicians to consult with their peers to discuss and share challenges and solutions, and to allow academic experts to interact with others in academia on the platform to discuss their research and cross-collaborate.
+ 
+ICP was developed at Harvard University and is licensed exclusively by us from Dana-Farber. This technology enables the detection of genetic mutations in liquid biopsies such as blood samples. The field of liquid biopsies is a rapidly growing market aimed at overcoming the challenge of obtaining genetic information related to disease progression and changes from sources other than a tumor biopsy.
+ 
+Gene sequencing is performed on tissue biopsies taken surgically from the tumor site in order to identify potential therapies that will be more effective in treating the patient. Surgical procedures involving tissue biopsies have several limitations including:
+ 
+
+• | Cost: surgical procedures are usually performed in a costly hospital environment, which typically involves hospitalization and recovery time. For example, according to a recent study, the mean cost of lung biopsies is greater than $14,000.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Surgical access: various tumor sites are not always accessible (e.g. brain tumors), in which cases no biopsy is available for diagnosis.
+--+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Risk: patient health may not permit undergoing an invasive surgery; therefore a biopsy cannot be obtained at all.
+--+------------------------------------------------------------------------------------------------------------------
+
+
+• | Time: the process of scheduling and coordinating a surgical procedure often takes time, delaying the start of patient treatment.
+--+---------------------------------------------------------------------------------------------------------------------------------
+
+
+4
+-
+
+ 
+
+Additionally, there are several tumor-related limitations that provide a challenge to obtaining such genetic information from a tumor, such as:
+ 
+
+• | Heterogeneous nature: a tissue sample from one area of the tumor may not properly represent the tumor’s entire genetic composition; thus, the diagnostic results from a tumor may be incomplete or non-representative.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Metastases: in order to accurately test a patient with a metastatic disease, an individual biopsy sample should ideally be taken from each individual site (if known and accessible). These biopsies are very difficult to obtain, therefore physicians often rely on biopsies taken only from the primary tumor site.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The advent of technologies enabling liquid biopsies as an alternative to tumor biopsy and analysis are based on the fact that tumors (both primary and metastatic) shed cells and fragments of DNA into the blood stream. These blood samples are called “liquid biopsies” that contain circulating tumor DNA, or ctDNA, which hold the same genetic information found in the tumor(s), which is the target of genetic analyses. However, since the quantity of tumor DNA is very small in proportion to the “normal” (or “healthy”) DNA within the blood stream, there is a need to identify and separate the tumor DNA from the normal DNA.
+ 
+ICP is an enrichment technology that enables the laboratory to focus its analysis on the tumor DNA by enriching, and thereby “multiplying” the presence of tumor DNA, while maintaining normal DNA levels. Once the enrichment process has been completed, laboratory genetic testing equipment is able to identify genetic abnormalities presented in the ctDNA and an analysis can be conducted at a higher level of sensitivity to enable the detection of genetic abnormalities. The ICP technology is encapsulated into a chemical that is provided in the form of a kit and sold to other laboratories who wish to conduct these tests in-house. The chemical within the kit is added to the specimen preparation process, enriching the sample for the tumor DNA so that the analysis will detect those genetic abnormalities.
+ 
+Industry Problem
+ 
+There is currently a significant problem with unpublicized rates of misdiagnosis across numerous disease states (particularly in cancer) due to an inefficient and commoditized industry. We believe that the diagnostic industry focuses primarily on competitive pricing and test turnaround times at the expense of quality and accuracy. Increasingly complex disease states are met with eroding specialization rather than increased expertise. According to a study conducted by the National Coalition of Health, this results in an industry with cancer misdiagnosis rates up to 28%, which is failing to meet the needs of physicians, patients and the healthcare system as a whole. New technologies offer improved accuracy; however, many are either inaccessible or are not economically practical for clinical use. Despite much publicity of the industry transitioning from fee-per-service to value-based payments, this transition has not yet occurred in diagnostics. When a patient is misdiagnosed, physicians end up administrating incorrect treatments, often creating adverse effects rather than improving outcomes. Insurance Providers, Medicare and Medicaid waste valuable dollars on the application of incorrect treatments and can incur substantial downstream costs. Most importantly however, patients pay the ultimate price of misdiagnosis with increased morbidity and mortality. According to a report by Pinnacle Health, the estimated cost of misdiagnosis within the healthcare system is $5 billion annually. We believe that the academic path of specialization produces the critical expertise necessary to correctly diagnose disease and that academic institutions have an unlocked potential to address this problem. Our solution is to create an exclusive platform that harnesses academic expertise and proprietary technologies to deliver the highest standard of diagnostic accuracy and patient care. Physicians, hospitals, payers and, most importantly, patients all benefit from more accurate diagnostics.
+Market
+ 
+As a services and technology commercialization company, we currently participate in two segments within the U.S. domestic oncology diagnostics market. The first is the clinical pathology services market, which is estimated to be a $22 billion annual market and growing at an average 8% compound annual growth rate. The second segment is the liquid biopsy reagents/kits market. According to the Piper Jaffray report from September 2015, the domestic oncology liquid biopsy market estimate is over $28 billion per year and includes screening, therapy selection, treatment monitoring and recurrence. The current market size for colon, lung and melanoma is 428,000 new cases per year and over 2.5 million people living with cancer, creating a potential market opportunity of $8.2 billion. We believe additional opportunities exist in clinical trials searching for low cost and high quality solutions for patient selection and treatment monitoring.
+
+5
+-
+
+Our Solution
+ 
+Our Platform
+ 
+Our platform is designed to provide physicians and their patients access to necessary academic expertise and technology in order to better provide diagnoses. To our knowledge, we are the only company focused on addressing the issue of diagnostic accuracy with an innovative, robust and scalable business model by:
+
+· | Providing physicians and their patients access to world-class academic experts and technologies.
+--+-------------------------------------------------------------------------------------------------
+
+
+· | Leveraging the largest network of academic experts by adding numerous leading academic institutions to our platform.
+--+---------------------------------------------------------------------------------------------------------------------
+
+
+· | Allowing payers to benefit from quality-based outcomes to their patients and increase the likelihood of cost savings.
+--+----------------------------------------------------------------------------------------------------------------------
+
+
+· | Enabling cross-collaboration between physicians and academic institutions to advance research and discovery.
+--+-------------------------------------------------------------------------------------------------------------
+
+ 
+Our exclusive agreement with the Department of Pathology at Yale University, or the Pathology Services Agreement, is part of a unique platform that to our knowledge is not offered by other commercial laboratories. Our customers are oncologists who biopsy their patients in order to confirm or rule out the presence of cancer. After our customers send the samples to us, we conduct all the technical tests at our New Haven facility. We then transmit the test results to the pathologists at Yale who have access to our laboratory information system from their respective offices, enabling them to review and render their diagnostic interpretation of the test results for reporting. In partnership with Yale, we have developed a proprietary algorithm that is applied to each sample submitted to us for testing, resulting in our ability to render a more precise and accurate diagnosis. The final results are prepared by Yale pathologists and integrated into the final report by us, and are then delivered electronically through our portal to the referring clinician. The patient’s insurance is billed for the services; we are paid for the technical work done at our laboratory; and Yale pathologists are paid by us for their diagnostic interpretation.
+ 
+In March 2017, we renewed the Pathology Services Agreement for an additional five-year term, effective as of June 2016, through June 2021. Under the Pathology Services Agreement, the Yale Department of Pathology may not provide the hematopathology services to any other commercial entity that is our competitor. The Pathology Services Agreement allows for termination by either party (i) for uncured breach by the other party, (ii) if either party has its respective license suspended or revoked, (iii) if the insurance coverage of either party is canceled or modified, (iv) if we fail to maintain or meet the requirements of Medicare conditions of participation, or (v) if we declare bankruptcy. The Pathology Services Agreement also provides that if the performance by either party (i) jeopardizes the licensure or accreditation of Yale or any Yale physician, (ii) jeopardizes either party’s participation in Medicare, Medicaid or other federal, state or commercial reimbursement programs, (iii) violates any statute, ordinance or otherwise is deemed illegal, (iv) is deemed unethical by any recognized body, agency or association in the medical or laboratory fields, or (v) causes a substantial threat to Yale’s tax-exempt status, then either party may initiate negotiations to amend the Pathology Services Agreement and the Agreement will terminate if a mutually agreed amendment is not executed by the parties within 30 days.
+ 
+ICE-COLD-PCR 
+ 
+ICP technology was developed at Dana-Farber and is licensed by us. ICP is a unique, proprietary, patented specimen enrichment technology that increases the sensitivity of molecular based tests from approximately 90-95% to 99.99%. Traditional molecular testing is done on tumor biopsies. These tests are typically conducted at disease onset, when the patient undergoes a biopsy. In the typical course of treatment, a patient is rarely re-biopsied, and therefore, genetic information is based solely on the initial biopsy. Tumors are known to shed cells into the patient’s blood stream where they circulate alongside normal cells; however, existing testing methodologies are not sufficiently sensitive to differentiate between tumor and normal cells. The increased sensitivity provided by ICP allows for testing of genetic mutations that occur within tumors to be conducted on peripheral blood samples, termed liquid biopsies. This technical capability enables physicians to test for genetic mutations through a simple blood test rather than an invasive biopsy extracted from the actual tumor. The results of such tests can be used for diagnosis, prognosis and therapeutic decisions. The technology is encapsulated within a chemical (reagent) used during the specimen preparation process, which enriches (amplifies) the tumor DNA detected within the blood sample while suppressing the normal DNA. In addition to offering this technology as a clinical service, we are developing panels that will be sold as reagent kits to other laboratories to enable this testing in their facilities, thereby improving their test sensitivity and more accurate diagnoses via liquid biopsies. The business model of selling reagents to other laboratories expands the reach and impact of our technology while eliminating the reimbursement risks from running the tests in-house.
+
+6
+-
+
+ 
+
+We license the ICP technology from Dana-Farber through a license agreement, (the “License Agreement”). The License Agreement grants us an exclusive license to the ICP technology, subject to a non-exclusive license granted to the U.S. government, in the areas of mutation detection using Sanger (di-deoxy) sequencing and mitochondrial DNA analysis for all research, diagnostic, prognostic and therapeutic uses in humans, animals, viruses, bacteria, fungi, plants or fossilized material. The License Agreement also grants us a non-exclusive license in the areas of mutation detection using DHPLC, surveyor-endonuclease-based mutation detection and second generation sequencing techniques. We paid Dana-Farber an initial license fee and are required to make milestone payments with respect to the first five licensed products or services we develop using the licensed technology, as well as royalties ranging from high single to low double digits on net sales of licensed products and services for sales made by us and sales made to any distributors. The License Agreement remains in effect until we cease to sell licensed products or services under said agreement. Dana-Farber has the right to immediately terminate the License Agreement if (i) we cease to carry on our business with respect to licensed products and services, (ii) we fail to make any payments under the License Agreement (subject to a cure period), (iii) we fail to comply with due diligence obligations under the License Agreement (subject to a cure period), (iv) we default in our obligations to procure and maintain insurance as required by the License Agreement, (v) any of our officers is convicted of a felony relating to the manufacture, use, sale or importation of licensed products under the License Agreement, (vi) we materially breach any provision of the License Agreement (subject to a cure period), or (vii) we or Dana-Farber become insolvent. We may terminate the License Agreement for convenience upon 180 days’ prior written notice.
+ 
+Reimbursement
+ 
+As cancer is more likely to be developed later in life, the largest insurance provider is Medicare, which constitutes approximately 50% of our patients’ cases. Non-Medicare patients are typically insured by private insurance companies who provide patient coverage and pay for patients’ health-related costs. These private insurance companies will often adjust their rates according to the insurance rates annually published by the Center for Medicare and Medicaid Services, or CMS. We, and other providers, typically bill according to the codes relevant to the tests we conduct.
+Our Products
+ 
+Our initial product offering consists of clinical diagnostic services harnessing the expertise of the Yale School of Medicine and the commercialization and application of ICP. Our clinical diagnostic services focus on the diagnosis of different hematopoietic or blood-related cancers and the delivery of an accurate diagnosis to oncologists, with demonstrated superior results through an exclusive partnership with Yale. We intend to enter into additional partnerships with premiere academic institutions during 2018 that will further broaden and strengthen our academic expert network. Our cutting-edge liquid biopsy technology, ICP, enables detection of abnormalities in blood samples down to as low as .01%. Our customers are oncologists, hospitals, reference laboratories, and pharma and biotech companies. This low-cost technology enables our customers to conduct tests in-house using existing mutation detection platforms. We believe we are the only current and economically viable option for liquid biopsy applications and plan to cross-market technologies (such as ICP) and other services on our platform.
+
+
+We built and obtained CLIA certification to operate our New Haven laboratory. The laboratory is approximately 3,000 square feet and has several sub-departments such as flow cytometry, immune-histochemistry, cytogenetics, and molecular testing. The laboratory is currently operated by five lab technicians and is supervised by a laboratory manager and a medical director. Our laboratory is inspected every two years by a Connecticut state-appointed inspector, and once approved, we are issued a CLIA-certificate. Furthermore, the laboratory supervisor and medical director must conduct a self-inspection every two years (rotating with the state inspection) and must submit those results to the state department of health. Current active laboratory certifications can be found on http://www.precipiodx.com/accreditations.html
+ 
+The laboratory operations are governed by Standard Operating Procedure manuals, or SOPs, which detail each aspect of the laboratory environment including the work flow, quality control, maintenance, and safety. These SOPs are reviewed and approved annually and signed off by the laboratory manager and medical director.
+ 
+Our Strategy
+ 
+Our objective is to eradicate the problem of misdiagnosis by harnessing the intellect, expertise and technology developed within academic institutions and to deliver quality diagnostic information to physicians and their patients worldwide. To achieve this objective, our strategy is to focus our efforts on the following areas:
+
+· | Clinical pathology services – we intend to continue building our platform by increasing the number of academic experts available on our platform and partnering with other academic institutions, allowing us to expand our portfolio of services to cover additional types of cancer.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Ice-Cold PCR – we believe we can commercialize and develop new applications for our ICP technology, including:
+--+---------------------------------------------------------------------------------------------------------------
+
+
+o | Developing specific application panels for patient monitoring for treatment resistance and disease recurrence;
+--+---------------------------------------------------------------------------------------------------------------
+
+
+o | Building focused diagnostic and screening panels for initial disease identification;
+--+-------------------------------------------------------------------------------------
+
+
+7
+-
+
+
+o | Leveraging our platform customers to generate demand for repeat, localized, in-house liquid biopsy testing; and
+--+----------------------------------------------------------------------------------------------------------------
+
+
+o | Applying ICP technology to other markets, such as pre-natal and companion diagnostics.
+--+---------------------------------------------------------------------------------------
+
+
+· | New product pipeline through outsourced research and development – we plan on utilizing our partnerships with academic institutions to gain access to newly-developed technologies. We also believe there is an opportunity to partner with biotechnology companies to introduce their products into the U.S. market through our platform.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Academic partnerships – we intend to leverage the intellectual expertise and technologies developed within academic institutions. We believe we have validated this model through our partnership with the Yale School of Medicine and are currently in the process of adding new academic partners.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Competition
+ 
+Our principal competition in clinical pathology services comes largely from two groups. The first group consists of companies that specialize in oncology and offer directly competing services to our diagnostic services. These companies provide a high level of service focused on oncology and offer their services to oncologists and pathology departments within hospitals. Competitors in this group include Genoptix, GenPath Diagnostics and Miraca Life Sciences. The second group consists of large commercial companies that offer a wide variety of laboratory tests ranging from simple chemistry tests to complex genetic testing. Competitors in this group include LabCorp and Quest Diagnostics. We believe that companies in this industry primarily compete on price and rapid delivery of results. We have chosen to focus on the increased quality and accuracy of the results we provide. Within the liquid biopsy market, our competitors include Guardant Health and Trovagene, Inc.
+Competitive Advantage
+ 
+We capitalize on the intellectual expertise and technologies developed by experts within academic institutions. While several industry papers report a case misdiagnosis rate as high as 28%, we believe that leveraging academic expertise can significantly reduce this rate. In an initial data set of over 100 clinical cases received and processed by us and with a diagnosis rendered by Yale pathologists, we believe less than 1% have resulted in misdiagnosis. The diagnostic report provided by us was then requested by a patient or the patient’s physician for a second opinion to be conducted by another laboratory. In these instances, less than 1% were in disagreement with our report’s original diagnosis. Though less than 5% of all cancer patients are treated in academic centers that benefit from this specialized expertise, the majority of patients are diagnosed by commercial reference laboratories. These commercial laboratories and diagnostic companies have broad access to and serve over 95% of all cancer patients; however, their lack of specialized expertise results in significantly higher misdiagnosis rates. Academic institutions also invest heavily in the development of new technologies, most of which is used internally and does not benefit outside or commercial lab patients. Our platform provides all patients with access to these innovative technologies developed by Yale and any other academic institutions we engage with in the future.
+Government Regulation
+ 
+The healthcare industry is subject to extensive regulation by a number of governmental entities at the federal, state and local level. Laws and regulations in the healthcare industry are extremely complex and, in many instances, the industry does not have the benefit of significant regulatory or judicial interpretation. Our business is impacted not only by those laws and regulations that are directly applicable to us but also by certain laws and regulations that are applicable to our payors, vendors and referral sources. While our management believes we are in compliance with all of the existing laws and regulations applicable to us, such laws and regulations are subject to rapid change and often are uncertain in their application and enforcement. Further, to the extent we engage in new business initiatives, we must continue to evaluate whether new laws and regulations are applicable to us. There can be no assurance that we will not be subject to scrutiny or challenge under one or more of these laws or that any enforcement actions would not be successful. Any such challenge, whether or not successful, could have a material adverse effect upon our business and consolidated financial statements.
+ 
+Among the various federal and state laws and regulations that may govern or impact our current and planned operations are the following:
+ 
+
+8
+-
+
+Medicare and Medicaid Reimbursement
+ 
+Many of the services that we provide are reimbursed by Medicare and state Medicaid programs and are therefore subject to extensive government regulation.
+ 
+Medicare is a federally funded program that provides health insurance coverage for qualified persons age 65 or older, some disabled persons, and persons with end-stage renal disease and persons with Lou Gehrig’s disease. Medicaid programs are jointly funded by the federal and state governments and are administered by states under approved plans.
+ 
+Medicaid provides medical benefits to eligible people with limited income and resources and people with disabilities, among others. Although the federal government establishes general guidelines for the Medicaid program, each state sets its own guidelines regarding eligibility and covered services. Some individuals, known as “dual eligibles”, may be eligible for benefits under both Medicare and a state Medicaid program. Reimbursement under the Medicare and Medicaid programs is contingent on the satisfaction of numerous rules and regulations, including those requiring certification and/or licensure. Congress often enacts legislation that affects the reimbursement rates under government healthcare programs.
+
+
+Approximately 36% of our revenue for the year ended December 31, 2017 was derived directly from Medicare, Medicaid or other government-sponsored healthcare programs. Also, we indirectly provide services to beneficiaries of Medicare, Medicaid and other government-sponsored healthcare programs through managed care entities. Should there be material changes to federal or state reimbursement methodologies, regulations or policies, our direct reimbursements from government-sponsored healthcare programs, as well as service fees that relate indirectly to such reimbursements, could be adversely affected.
+ 
+Healthcare Reform
+ 
+In recent years, federal and state governments have considered and enacted policy changes designed to reform the healthcare industry. The most prominent of these healthcare reform efforts, the Affordable Care Act, has resulted in sweeping changes to the U.S. system for the delivery and financing of health care. As currently structured, the Affordable Care Act increases the number of persons covered under government programs and private insurance; furnishes economic incentives for measurable improvements in health care quality outcomes; promotes a more integrated health care delivery system and the creation of new health care delivery.
+Employees 
+ 
+As of December 31, 2017, Precipio employed thirty-one (31) people on a full-time basis and two (2) people on a part-time basis. Of the total, five (5) were in Executive Management, thirteen (13) were in laboratory operations, three (3) were in Sales and Marketing, two (2) were in Customer Service and Support, five (5) were in Research & Development, four (4) were in Accounting, Finance and Reimbursement and one (1) was in Management Information Services.
+Research and Development Expenses
+ 
+For the years ended December 31, 2017 and 2016, we recorded $0.5 million and $0.0 million, respectively, of research and development expenses. More information regarding our research and development activities can be found in the section entitled “Management’s Discussion and Analysis of Financial Condition and Results of Operations” under Item 7 of this Annual Report.
+Compliance with Environmental Laws
+ 
+We believe we are in compliance with current environmental protection requirements that apply to us or our business. Costs attributable to environmental compliance are not currently material.
+ 
+Our internet address is www.precipiodx.com. We attempt to have a variety of information available for customers, development partners and investors. Our goal is to maintain the Investor Relations website as a portal through which investors can easily navigate to find pertinent information about us, including:
+ 
+
+9
+-
+
+
+· | Our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments to those reports, as soon as reasonably practicable after we electronically file that material with or furnish it to the Securities and Exchange Commission (“SEC”);
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Information on our business strategies, financial results, and key performance indicators;
+--+-------------------------------------------------------------------------------------------
+
+
+· | Press releases on quarterly earnings, product and service announcements, legal developments, and international news.
+--+---------------------------------------------------------------------------------------------------------------------
+
+Merger Transaction
+ 
+On June 29, 2017, Precipio (then known as “Transgenomic, Inc.”, or “Transgenomic”), completed a reverse merger (the “Merger”) with Precipio Diagnostics, LLC, a privately held Delaware limited liability company (“Precipio Diagnostics”) in accordance with the terms of the Agreement and Plan of Merger (the “Merger Agreement”), dated October 12, 2016, as amended on February 2, 2017 and June 29, 2017, by and among Transgenomic, Precipio Diagnostics and New Haven Labs Inc. (“Merger Sub”) a wholly-owned subsidiary of Transgenomic. Pursuant to the Merger Agreement, Merger Sub merged with and into Precipio Diagnostics, with Precipio Diagnostics surviving the Merger as a wholly-owned subsidiary of the combined company (See Note 3 - Reverse Merger). In connection with the Merger, we changed our name from Transgenomic, Inc. to Precipio, Inc., relisted our common stock under Precipio, Inc. on the National Association of Securities Dealers Automated Quotations (“NASDAQ”), and effected a 1-for-30 reverse stock split of our common stock. Upon the consummation of the Merger, the historical financial statements of Precipio Diagnostics become the Precipio’s historical financial statements. Accordingly, the historical financial statements of Precipio Diagnostics are included in the comparative prior periods. As a result of the Merger, historical preferred stock, common stock, restricted units, warrants and additional paid-in capital, including share and per share amounts, have been retroactively adjusted to reflect the equity structure of the combined company, including the effect of the Merger exchange ratio. Pursuant to the Merger Agreement, each outstanding unit of Precipio Diagnostics was exchanged for 10.2502 pre-reverse stock split shares of Company Common Stock.
+
+10
+--
+

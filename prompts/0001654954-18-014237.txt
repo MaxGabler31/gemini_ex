@@ -1,0 +1,193 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ ITEM 1.    DESCRIPTION OF BUSINESS
+  
+  BACKGROUND AND CAPITAL STRUCTURE
+  
+  Know Labs, Inc., formerly Visualant, Incorporated, was incorporated under the laws of the State of Nevada in 1998. Since 2007, we have been focused primarily on research and development of proprietary technologies which can be used to authenticate and diagnose a wide variety of organic and non-organic substances and materials. Our Common Stock trades on the OTCQB Exchange under the symbol “KNWN.”
+ BUSINESS
+  
+  We are focused on the development, marketing and sales of a proprietary technologies which are capable of uniquely authenticating or diagnosing almost any substance or material using electromagnetic energy to create, record and detect the unique “signature” of the substance. We call these our “ChromaID™” and “Bio-RFID™” technologies.
+ Overview
+  
+  Historically, the Company focused on the development of our proprietary ChromaID technology. Using light from low-cost LEDs (light emitting diodes) we map the color of substances, fluids and materials and with our proprietary processes we can authenticate, identify and diagnose based upon the color that is present. The color is both visible to us as humans but also outside of the humanly visible color spectrum in the near infra-red and near ultra-violet and beyond. Our ChromaID scanner sees what we like to call “Nature’s Color Fingerprint.” Everything in nature has a unique color identifier and with ChromaID we can see it, and identify, authenticate and diagnose based upon the color that is present. Our ChromaID scanner is capable of uniquely identifying and authenticating almost any substance or liquid using light to create, record and detect its unique color signature. We will continue to develop and enhance our ChromaID technology and extend its capacity. More recently, we have focused upon extensions and new inventions that are derived from and extend beyond our ChromaID technology. We call this technology Bio-RFID. The rapid advances made with our Bio-RFID technology in our laboratory have caused us to move quickly in to the commercialization phase of our Company as we work to create revenue generating products for the marketplace. We will also, as resources permit, pursue licensing opportunities with third parties who have ready applications for our technologies.
+  
+  In 2010, we acquired TransTech Systems, Inc. as an adjunct to our business. TransTech is a distributor of products for employee and personnel identification and authentication. TransTech has historically provided substantially all of the Company’s revenues. The financial results from our TransTech subsidiary have been diminishing as vendors of their products increasingly move to the Internet and direct sales to their customers. While it does provide our current revenues it is not central to our current focus as a Company. Moreover, we have written down any goodwill associated with its historic acquisition. We continue to closely monitor this subsidiary.
+  
+   
+ 
+3
+
+
+  
+ 
+ 
+  The Know Labs Technology
+  
+  We have internally and under contract with third parties developed proprietary platform technologies to uniquely authenticate or diagnose almost any material and substance. Our technology utilizes electromagnetic energy at various points along the electromagnetic spectrum to perform analytics which allow the user to identify, authenticate and diagnose depending upon the application and the unique field of use. The Company’s proprietary platform technologies are called ChromaID and Bio-RFID.
+  
+  The ChromaID patented technology utilizes light at the photon (elementary particle of light) level through a series of emitters and detectors to generate a unique signature or “fingerprint” from a scan of almost any solid, liquid or gaseous material. This signature of reflected or transmitted light is digitized, creating a unique ChromaID signature. Each ChromaID signature is comprised of from hundreds to thousands of specific data points.
+  
+  The ChromaID technology looks beyond visible light frequencies to areas of near infra-red and ultraviolet light and beyond that are outside the humanly visible light spectrum. The data obtained allows us to create a very specific and unique ChromaID signature of the substance for a myriad of authentication, verification and diagnostic applications.
+  
+  Traditional light-based identification technology, called spectrophotometry, has relied upon a complex system of prisms, mirrors and visible light. Spectrophotometers typically have a higher cost and utilize a form factor (shape and size) more suited to a laboratory setting and require trained laboratory personnel to interpret the information. The ChromaID technology uses lower cost LEDs and photodiodes and specific electromagnetic frequencies resulting in a more accurate, portable and easy-to-use solution for a wide variety of applications. The ChromaID technology not only has significant cost advantages as compared to spectrophotometry, it is also completely flexible is size, shape and configuration. The ChromaID scan head can range in size from endoscopic to a scale that could be the size of a large ceiling-mounted florescent light fixture.
+  
+  In normal operation, a ChromaID master or reference scan is generated and stored in a database. We call this the ChromaID Reference Library. The scan head can then scan similar materials to identify, authenticate or diagnose them by comparing the new ChromaID digital signature scan to that of the original or reference ChromaID signature or scan result. Over time, we believe the ChromaID Reference Libraries can become a significant asset of the Company, providing valuable information in numerous fields of use. The Reference Libraries for Bio-RFID will have a similar promise regarding their utility and value.
+  
+  The Company’s latest technology platform is called Bio-RFID. Working in our lab over the past year, we have developed extensions and new inventions derived in part from our ChromaID technology which we refer to as Bio-RFID technology. While we are in the early stages of the development of this technology, we have recently announced that we have successfully been able to non-invasively ascertain blood glucose levels. We are building the internal and external development team necessary to commercialize this newly discovered technology as well as make additional patent filings covering the intellectual property created with these new inventions. The first applications of our Bio-RFID technology will be in a product we call the UBAND™. The first UBAND product will be marketed as a real time calorie counter. It is a wearable product which will be worn on the wrist and communicate with a smart phone device via Bluetooth connectivity. It will provide the user with real time information on their caloric consumption from carbohydrates.
+  
+  We have recently announced the results of laboratory-based comparison testing between our Bio-RFID technology and the leading continuous glucose monitors from Abbott Labs (Freestyle Libre®) and DexCom (G5®). These results provide evidence of a high degree of correlation between our Bio-RFID based technology and the current industry leaders. Our technology is fundamentally differentiated from these industry leaders as it is completely non-invasive.
+  
+  We expect to begin the process of obtaining US Food and Drug Administration approval of our non-invasive continuous blood glucose monitoring device during calendar year 2019. We are unable to estimate the time necessary for such approval nor the likelihood of success in that endeavor.
+  
+  ChromaID and Bio-RFID: Foundational Platform Technologies
+  
+  Our ChromaID and Bio-RFID technologies provide a platform upon which a myriad of applications can be developed. As platform technologies, they are analogous to a smartphone, upon which an enormous number of previously unforeseen applications have been developed. ChromaID and Bio-RFID technologies are “enabling” technologies that bring the science of electromagnetic energy to low-cost, real-world commercialization opportunities across multiple industries. The technologies are foundational and, as such, the basis upon which the Company believes a significant business can be built.
+  
+  As with other foundational technologies, a single application may reach across multiple industries. The ChromaID technology can, for example effectively differentiate and identify different brands of clear vodkas that appear identical to the human eye. By extension, this same technology can identify pure water from water with contaminants present. It can provide real time detection of liquid medicines such as morphine that have been adulterated or compromised. It can detect if jet fuel has water contamination present. It could determine when it is time to change oil in a deep fat fryer. These are but a few of the potential applications of the ChromaID technology based upon extensions of its ability to identify different clear liquids.
+  
+   
+ 
+4
+
+
+  
+ 
+ 
+  Similarly, the Bio-RFID technology can non-invasively identity the presence and quantity of glucose in the human body. By extension, there may be other molecular structures which this same technology can identity in the human body which, over time, the Company will focus upon. They may include the monitoring of drug usage or the presence of illicit drugs. They may also involve identifying hormones and various markers of disease.
+  
+  The cornerstone of a company with a foundational platform technology is its intellectual property. We have pursued an active intellectual property strategy and have been granted 12 patents. We currently have 20 patents pending. We possess all right, title and interest to the issued patents. Ten of the pending patents are licensed exclusively to us in perpetuity by our strategic partner, Allied Inventors.
+  
+  Our Patents and Intellectual Property.
+  
+  We believe that our 12 patents, 20 patent applications, three registered trademarks, and our trade secrets, copyrights and other intellectual property rights are important assets. Our issued patents will expire at various times between 2027 and 2033. The duration of our trademark registrations varies from country to country. However, trademarks are generally valid and may be renewed indefinitely as long as they are in use and/or their registrations are properly maintained.
+  
+  The issued patents cover the fundamental aspects of the Know Labs ChromaID technology and a growing number of unique applications ranging, to date, from invisible bar codes to tissue and liquid analysis. We have filed patents on Bio-RFID technology and will continue to expand the Company’s patent portfolio over time through internal development efforts as well as through licensing opportunities with third parties.
+  
+  Additionally, significant aspects of our technology are trade secrets which may not be disclosed through the patent filing process. We intend to be diligent in maintaining our trade secrets.
+  
+  The patents that have been issued to Know Labs and their dates of issuance are:
+  
+  On August 9, 2011, we were issued US Patent No. 7,996,173 B2 entitled “Method, Apparatus and Article to Facilitate Distributed Evaluation of Objects Using Electromagnetic Energy,” by the United States Office of Patents and Trademarks. The patent expires August 24, 2029.
+  
+  On December 13, 2011, we were issued US Patent No. 8,076,630 B2 entitled “System and Method of Evaluating an Object Using Electromagnetic Energy” by the United States Office of Patents and Trademarks. The patent expires November 7, 2028.
+  
+  On December 20, 2011, we were issued US Patent No. 8,081,304 B2 entitled “Method, Apparatus and Article to Facilitate Evaluation of Objects Using Electromagnetic Energy” by the United States Office of Patents and Trademarks. The patent expires July 28, 2030.
+  
+  On October 9, 2012, we were issued US Patent No. 8,285,510 B2 entitled “Method, Apparatus, and Article to Facilitate Distributed Evaluation of Objects Using Electromagnetic Energy” by the United States Office of Patents and Trademarks. The patent expires July 31, 2027.
+  
+  On February 5, 2013, we were issued US Patent No. 8,368,878 B2 entitled “Method, Apparatus and Article to Facilitate Evaluation of Objects Using Electromagnetic Energy by the United States Office of Patents and Trademarks. The patent expires July 31, 2027.
+  
+  On November 12, 2013, we were issued US Patent No. 8,583,394 B2 entitled “Method, Apparatus and Article to Facilitate Distributed Evaluation of Objects Using Electromagnetic Energy by the United States Office of Patents and Trademarks. The patent expires July 31, 2027.
+  
+  On November 21, 2014, we were issued US Patent No. 8,888,207 B2 entitled “Systems, Methods, and Articles Related to Machine-Readable Indicia and Symbols” by the United States Office of Patents and Trademarks. The patent expires February 7, 2033. This patent describes using ChromaID to see what we call invisible bar codes and other identifiers.
+  
+  On March 23, 2015, we were issued US Patent No. 8,988,666 B2 entitled “Method, Apparatus, and Article to Facilitate Evaluation of Objects Using Electromagnetic Energy” by the United States Office of Patents and Trademarks. The patent expires July 31, 2027.
+  
+  On May 26, 2015, we were issued US Patent No. 9,041,920 B2 entitled “Device for Evaluation of Fluids using Electromagnetic Energy” by the United States Office of Patents and Trademarks. The patent expires March 12, 2033. This patent describes a ChromaID fluid sampling devices.
+  
+  On April 19, 2016, we were issued US Patent No. 9,316,581 B2 entitled “Method, Apparatus, and Article to Facilitate Evaluation of Substances Using Electromagnetic Energy” by the United States Office of Patents and Trademarks. The patent expires March 12, 2033. This patent describes an enhancement to the foundational ChromaID technology.
+  
+  
+5
+
+
+ 
+ 
+  On April 18, 2017, we were issued US Patent No. 9,625,371 B2 entitled “Method, Apparatus, and Article to Facilitate Evaluation of Substances Using Electromagnetic Energy.” The patent expires July 2027. This patent pertains to the use of ChromaID technology for the identification and analysis of biological tissue. It has many potential applications in medical, industrial and consumer markets.
+  
+  On April 4, 2018, we were issued US Patent No. 9,869,636 B2, entitled “Device for Evaluation of Fluids Using Electromagnetic Energy.” The patent expires approximately April 2033. This patent pertains to the use of ChromaID technology for evaluating and analyzing fluids such as those following through an IV drip in a hospital or water, for example.
+  
+  We continue to pursue a patent strategy to expand our unique intellectual property in the United States and other countries.
+  
+  Joint Development Agreements and Product Strategy
+  
+  We are currently undertaking internal development work on potential products for the consumer marketplace. This development work was being performed through our Consulting Agreement with Blaze Clinical, and Phillip A. Bosua, who served as our Chief Product Officer. In his current role as Chief Executive Officer, Mr. Bosua continues to lead these efforts. As these products take form over the coming months, we will make appropriate product announcements.
+  
+  We also will continue to engage with partners through licensing our technology in various fields of use, entering in to joint venture agreements to develop specific applications of our technology, and in certain specific instances develop our own products for the marketplace.
+  
+  We have deployed our ChromaID development kit to a number of potential joint venture partners and customers around the world. There are strong indications of interest in deploying our technology in a wide variety of applications involving identification, authentication and diagnostics. Currently we are focusing our current efforts on productizing our Bio-RFID technology as we move it out of the research laboratory and in to the marketplace.
+  
+  Research and Development
+  
+  Our current research and development efforts are primarily focused improving our Bio-RFID technology, extending its capacity and developing new and unique applications for the technology. As part of this effort, we conduct on-going laboratory testing to ensure that application methods are compatible with the end-user and regulatory requirements, and that they can be implemented in a cost-effective manner. We are also actively involved in identifying new applications. Our current internal team along with outside consultants have considerable experience working with the application of our technologies and their application. We engage third party experts as required to supplement our internal team. We believe that continued development of new and enhanced technologies is essential to our future success. We incurred expenses of $570,514 and $79,405 for the year ended September 30, 2018 and 2017, respectively, on development activities. On July 6, 2017, we entered into a Consulting Agreement with Phillip A. Bosua, our Chief Product Officer to lead our development efforts. He has continued in that role with expanded responsibilities upon his appointment as Chief Executive Officer on April 19, 2018.
+ RECENT DEVELOPMENTS
+  
+  We have the following recent developments:
+  
+  Merger with RAAI Lighting, Inc.
+  
+  On April 10, 2018, we entered into an Agreement and Plan of Merger with 500 Union Corporation, a Delaware corporation and a wholly owned subsidiary of the Company, and RAAI Lighting, Inc., a Delaware corporation. Pursuant to the Merger Agreement, we have acquired all the outstanding shares of RAAI’s capital stock through a merger of Merger Sub with and into RAAI (the “Merger”), with RAAI surviving the Merger as a wholly owned subsidiary of the Company.
+  
+  Under the terms of the Merger Agreement, each share of RAAI common stock issued and outstanding immediately before the Merger (1,000 shares) were cancelled and we issued 2,000,000 shares of our common stock. As a result, we issued 2,000,000 shares of its common stock to Phillip A. Bosua, formerly the sole stockholder of RAAI. The consideration for the Merger was determined through arms-length bargaining by the Company and RAAI. The Merger was structured to qualify as a tax-free reorganization for U.S. federal income tax purposes. As a result of the Merger, the Company received certain intellectual property, related to RAAI.
+  
+  Appointment of Director
+  
+  On April 10, 2018, the Board increased the size of the Board from three to four members and Phillip A. Bosua was appointed as a member of the Board. Mr. Bosua’s term of office expire at the next annual meeting of our stockholders. On May 24, 2018, the Board of Directors increased the size of the Board from four to five members and appointed (Ret.) Admiral William Owens as a member of the Board. Admiral Owen’s term of office expires at the next annual meeting of our stockholders.
+  
+   
+ 
+6
+
+
+  
+ 
+ 
+  Appointment of Officer. 
+  
+  On April 10, 2018, we appointed Mr. Bosua as Chief Executive Officer of the Company, replacing Ronald P. Erickson, who remains Chairman of the Company. Mr. Erickson has been a director and officer of Know Labs since April 2003. He was appointed as our CEO and President in November 2009 and as Chairman of the Board in February 2015. Previously, Mr. Erickson was our President and Chief Executive Officer from September 2003 through August 2003 and was Chairman of the Board from August 2004 until May 2011.
+  
+  Phillip A. Bosua was appointed the Company’s CEO on April 10, 2018. Previously, Mr. Bosua served as our Chief Product Officer since August 2017. We entered into a Consulting Agreement with Mr. Bosua’s company, Blaze Clinical on July 7, 2017. From September 2012 to February 2015, Mr. Bosua was the founder and Chief Executive Officer of LIFX Inc. (where he developed and marketed an innovative “smart” light bulb) and from August 2015 until February 2016 was Vice President Consumer Products at Soraa (which markets specialty LED light bulbs). From February 2016 to July 2017, Mr. Bosua was the founder and CEO of RAAI, Inc. (where he continued the development of his smart lighting technology). From May 2008 to February 2013 he was the Founder and CEO of LimeMouse Apps, a leading developer of applications for the Apple App Store.
+  
+  On April 10, 2018, we entered into an Employment Agreement with Mr. Bosua reflecting his appointment as Chief Executive Officer. The Employment Agreement is for an initial term of 12 months (subject to earlier termination) and will be automatically extended for additional 12-month terms unless either party notifies the other party of its intention to terminate the Employment Agreement. Mr. Bosua will be paid a base salary of $225,000 per year, received 500,000 shares of common stock valued at $0.33 per share and may be entitled to bonuses and equity awards at the discretion of the Board or a committee of the Board. The Employment Agreement provides for severance pay equal to 12 months of base salary if Mr. Bosua is terminated without “cause” or voluntarily terminates his employment for “good reason.”
+  
+  On April 10, 2018, we entered into an Amended Employment Agreement for Ronald P. Erickson which amends the Employment Agreement dated July 1, 2017. The Agreement expires March 21, 2019.
+  
+  Amendment of Equity Incentive Plan
+  
+  On April 10, 2018, the Board approved an amendment to its 2011 Stock Incentive Plan increasing the number of shares of common stock reserved under the Incentive Plan from 93,333 to 1,200,000. On August 1, 2018, the Board approved an amendment to its 2011 Stock Incentive Plan increasing the number of shares of common stock reserved under the Incentive Plan 1,200,000 to 2,000,000.
+ Merger with Know Labs, Inc.
+  
+  On May 1, 2018, Know Labs, Inc., a Nevada corporation incorporated on April 3, 2018, and our wholly-owned subsidiary, merged with and into the Company pursuant to an Agreement and Plan of Merger dated May 1, 2018. In connection with the merger, our Articles of Incorporation were effectively amended to change our name to Know Labs, Inc. by and through the filing of Articles of Merger. This parent-subsidiary merger was approved by us, the parent, in accordance with Nevada Revised Statutes Section 92A.180. Stockholder approval was not required. This amendment was filed with the Nevada Secretary of State and became effective on May 1, 2018.
+ Corporate Name Change and Symbol Change
+  
+ On May 24, 2018, the Financial Industry Regulatory Authority (“FINRA”) announced the effectiveness of a change in our name from Know Labs Incorporated to Know Labs, Inc. and a change in our ticker symbol from VSUL to the new trading symbol KNWN which became effective on the opening of trading as of May 25, 2018. In addition, in connection with the name change and symbol change, we were assigned the CUSIP number of 499238103.
+  
+  Closing of Financing on June 25, 2018
+  
+ On June 25, 2018, we closed a private placement and received gross proceeds of $1,750,000 in exchange for issuing 7,000,000 shares of common stock and warrants to purchase 3,500,000 shares of common stock in a private placement to accredited investors pursuant to a series of substantially identical subscription agreements.
+  
+  The initial exercise price of the warrants described above is $0.25 per share, subject to certain adjustments, and they expired five years after their issuance.
+  
+  The shares and the warrants described above were issued in transactions that were not registered under the Securities Act of 1933, as amended (the “Act”) in reliance upon applicable exemptions from registration under Section 4(a)(2) of the Act and/or Rule 506 of SEC Regulation D under the Act. 
+  
+   
+ 
+7
+
+
+  
+ 
+ 
+  Conversion of Certain Debt to Equity
+  
+  On June 25, 2018, we closed debt conversions and issued 605,000 shares of common stock in exchange for the conversion of $199,935 in preexisting debt owed by the Company to certain service providers, all of whom are accredited investors. These shares were issued in transactions that were not registered under the Act in reliance upon applicable exemptions from registration under Section 4(a)(2) of the Act and/or Rule 506 of SEC Regulation D under the Act.
+  
+  On July 9, 2018, we repaid a $199,935 Business Loan Agreement with Umpqua Bank from funds previously provided by an entity affiliated with Ronald P. Erickson, our Chairman of the Board. The Company paid $27,041 and issued 800,000 shares of common stock in exchange for the conversion of this debt. Mr. Erickson is an accredited investor. These shares were issued in transactions that were not registered under the Act in reliance upon applicable exemptions from registration under Section 4(a)(2) of the Act and/or Rule 506 of SEC Regulation D under the Act.
+  
+  THE COMPANY’S COMMON STOCK
+  
+  Our common stock trades on the OTCQB Exchange under the symbol “KNWN.” On May 1, 2018, we filed a corporate action with FINRA to effectively change the Company’s OTC trading symbol and change our name to “Know Labs, Inc.” Our name change from Know Labs, Incorporated to Know Labs, Inc. and symbol change from VSUL to KNWN was announced by FINRA declared effective on the opening of trading as of May 25, 2018.
+ PRIMARY RISKS AND UNCERTAINTIES
+  
+  We are exposed to various risks related to our need for additional financing, the sale of significant numbers of our shares and a volatile market price for our common stock. These risks and uncertainties are discussed in more detail below in Part I, Item 1A. 
+ CORPORATE INFORMATION
+  
+  We were incorporated under the laws of the State of Nevada on October 8, 1998. Our executive offices are located at 500 Union Street, Suite 810, Seattle, WA 98101. Our telephone number is (206) 903-1351 and its principal website address is located at www.knowlabs.co. The information on our website is not incorporated as a part of this Form 10-K.
+ EMPLOYEES
+  
+  As of September 30, 2018, we had fifteen full-time employees and two consultants or consulting groups. Our senior management is located in the Seattle, Washington office.
+  
+  WEBSITE ACCESS TO UNITED STATES SECURITIES AND EXCHANGE COMMISSION REPORTS
+  
+  We file annual and quarterly reports, proxy statements and other information with the Securities and Exchange Commission ("SEC"). You may read and copy any document we file at the SEC's Public Reference Room at 100 F Street, N.E., Washington D.C. 20549. Please call the SEC at 1-800-SEC-0330 for further information on the public reference room. The SEC maintains a website at http://www.sec.gov that contains reports, proxy and information statements and other information concerning filers. We also maintain a web site at http://www.knowlabs.co that provides additional information about our Company and links to documents we file with the SEC. The Company's charters for the Audit Committee, the Compensation Committee, and the Nominating Committee; and the Code of Conduct & Ethics are also available on our website. The information on our website is not part of this Form 10-K.

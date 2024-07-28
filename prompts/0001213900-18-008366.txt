@@ -1,0 +1,91 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1 Business
+Overview
+ 
+Ecoark Holdings is a Nevada corporation incorporated on November 19, 2007 that has developed over the years through key acquisitions described below and organic growth. Ecoark Holdings is an innovative AgTech company focused on solutions that reduce food waste and improve delivered freshness and product margins for fresh and perishable foods for a wide range of organizations including growers, processors, distributors and retailers. Ecoark Holdings addresses this through its wholly-owned subsidiary, Ecoark, Inc. (“Ecoark”) and Ecoark’s subsidiary: Zest Labs, Inc. (“Zest Labs” or “Zest”). The Company has committed to a plan to focus its business on Zest Labs and divest non-core assets that include key assets of Pioneer Products, LLC (“Pioneer Products” or “Pioneer”) and Magnolia Solar, Inc. (“Magnolia Solar”). Those assets are reported as held for sale and their operations are reported as discontinued operations in the consolidated financial statements. The subsidiary Eco3d, LLC (“Eco3d”) was sold on April 14, 2017 and is also reported as held for sale and discontinued operations in the consolidated financial statements. The Company has 24 employees of continuing operations and 19 employees of discontinued operations as of the date of this filing.
+ 
+Our principal executive offices are located at 3333 S. Pinnacle Hills Parkway, Suite 220, Rogers, Arkansas 72758, and our telephone number is (479) 259-2977. Our website address is http://ecoarkusa.com/. Our website and the information contained on, or that can be accessed through, our website will not be deemed to be incorporated by reference in, and are not considered part of this report.
+ 
+Reverse Acquisition/Merger
+ 
+On January 29, 2016, Ecoark Holdings (previously Magnolia Solar Corporation – “MSC”) entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Ecoark. Pursuant to the Merger Agreement, Ecoark merged with and became a subsidiary of Ecoark Holdings (the “Merger”). Ecoark and Magnolia Solar continue as the legal subsidiaries and businesses of Ecoark Holdings.
+ 
+From a legal perspective, Magnolia Solar Corporation acquired Ecoark; however, in compliance with financial accounting standards, the transaction was accounted for as a “reverse acquisition” in which it was treated as an acquisition of Magnolia Solar Corporation by Ecoark. Thus, the historical information presented prior to March 24, 2016 (the closing date of the Merger) is that of Ecoark.
+ 
+
+2
+-
+
+ 
+
+Prior to the completion of the Merger on March 24, 2016, in a special shareholder meeting on March 18, 2016, the following actions to amend the Articles of Incorporation were undertaken by Ecoark Holdings to:
+ 
+
+1. | effect a change in the name of the company from Magnolia Solar Corporation to Ecoark Holdings, Inc.; 
+---+---------------------------------------------------------------------------------------------------------
+
+
+2. | effect a reverse stock split of the common stock by a ratio of one-for-two hundred fifty shares (1 for 250); 
+---+-----------------------------------------------------------------------------------------------------------------
+
+
+3. | effect an increase in the number of authorized shares of common stock, par value $0.001 per share, to 100,000; and 
+---+-----------------------------------------------------------------------------------------------------------------------
+
+
+4. | effect the creation of 5,000 shares of “blank check” preferred stock. 
+---+--------------------------------------------------------------------------
+
+ 
+After giving effect to the Merger and the issuance of common stock to the shareholders of Ecoark, the shareholders of Ecoark received approximately 95% of the shares of Ecoark Holding’s common stock.
+ 
+Description of Business
+ 
+Ecoark Holdings’ continuing operations focus on solutions offered by Zest Labs. The Company expects to divest the key assets and operations of Pioneer and Magnolia Solar by the end of its second fiscal quarter, September 30, 2018.
+Zest Labs
+ 
+Zest Labs offers shelf-life and freshness management solutions for food retailers and restaurants, growers, processors, manufacturers and suppliers. Its Zest Fresh solution is a cloud-based freshness management solution for proteins and post-harvest produce that improves delivered freshness. Zest Fresh increases product margins by reducing post-harvest temperature-related losses for retailers by 50% or more. Zest Fresh intelligently matches customer freshness requirements with actual dynamic product freshness. Zest Fresh focuses on four primary value propositions – operational efficiency, consistent food freshness, reduced waste, and improved food safety. Zest Fresh empowers workers with real-time analytic tools and alerts that improve efficiency while driving freshness consistency through best practice adherence at the pallet level. Zest Labs’ Zest Delivery solution offers real-time monitoring and control for prepared food delivery containers, helping delivery and dispatch personnel ensure the quality and safety of delivered food. Zest Labs was previously known as Intelleflex Corporation. Effective October 28, 2016, Intelleflex Corporation changed its name to Zest Labs, Inc. to align its corporate name with its mission and the brand name of its products and services.
+ 
+The Zest Fresh value proposition is to reduce fresh food loss by improving delivered quality consistency. In the U.S. produce market, it is reported that approximately 30% of post-harvest fresh food is wasted and therefore not consumed. Both fresh food producers and retailers bear significant expense when harvested or processed food is either rejected due to early spoilage or reduced in value due to early ripening. Zest Labs believes that a significant portion of this waste can be attributed to inconsistent quality and/or freshness based on variable post-harvest processing and handling. Fresh food producers and retailers manage food distribution and inventory based on the harvest date or processing date, with the assumption that all food harvested or produced on the same day will have the same remaining freshness or shelf-life. However, studies have shown that post-harvest or post-processing handling can have a significant effect on the actual remaining freshness, and if not properly accounted for, can result in food loss or spoilage ahead of expectations which leads to waste and impacts product margins and profitability for retailers. Zest Fresh empowers fresh food producers, processors, distributors and retailers to significantly reduce the post-harvest or post-processing loss by providing real-time guidance to process adherence, and intelligent distribution and best handling practices thereby providing significant savings to fresh food producers, processors and retailers.
+ 
+Zest Labs has developed the industry’s first freshness metric: the Zest Intelligent Pallet Routing (“ZIPR”) Code. The ZIPR Code has three main components that are applied to each individual pallet of product: Harvest Quality which sets total freshness capacity (for example, 12 days for strawberries), Handling Impact which reflects aging acceleration due to improper handling, and Future Handling which accurately reflects how the product will be handled (for example, store shelf temperature may be 40 degrees Fahrenheit instead of the ideal 34 degrees Fahrenheit). The ZIPR Code can then be used for intelligent pallet routing to ensure that each delivered pallet meets or exceeds the retailer’s freshness requirements.
+ 
+
+3
+-
+
+ 
+
+Zest Fresh is offered to fresh food producers and retailers with pricing based on the number of pallets managed by Zest Fresh, typically from the field harvest through retail delivery. The Zest Fresh solution includes a re-usable wireless Internet of Things (IoT) condition sensor that travels with the pallet of fresh food from the field or processing through retail delivery, continuously collecting product condition data. The collected pallet-level product data is analyzed in real-time by the Zest Fresh cloud application, with the fresh food producers and retailers accessing data through Zest web and mobile applications. Zest Fresh provides workers with real-time feedback on the current handling or processing of each pallet, empowering best practice adherence to achieve maximum freshness. Zest Fresh provides dynamic updates as to actual product freshness for each pallet, enabling intelligent pallet routing and inventory management of each pallet in a manner that ensures optimum delivered freshness. Zest Fresh also offers integrated blockchain support to grower and shipper customers via the Zest Fresh platform.
+ 
+The Zest Delivery solution helps to manage prepared food delivery from the restaurant through to the customer. Zest Delivery manages the delivery container environment by both monitoring and controlling the product condition. The value of Zest Delivery is to manage prepared meals in an ideal state for consumption, while accommodating extended pre-staging or delivery times. Extended pre-staging times are associated with “instant delivery” services of prepared meals, where the meals are often pre-staged in a delivery area ahead of demand. While pre-staging enables fast demand response time, it can result in prepared meals being staged for extended periods. Zest Delivery monitors and controls the delivery container environment to preserve the prepared meal in ideal, ready to consume condition. Zest Delivery also provides the dispatcher with real-time remote visibility to the condition of available meals and confirming quality prior to dispatch. Zest Delivery provides automated, real-time visibility for a very distributed fleet of drivers, reflecting prepared meal food safety, quality and availability. Zest Delivery is offered to restaurants and meal delivery companies based on the quantity of delivery containers and frequency of use.
+ 
+Zest Labs currently owns 67 issued U.S. patents (with additional patents pending), numerous related foreign patents, and U.S. copyrights relating to certain aspects of its Zest Labs’ software, hardware devices including Radio-Frequency Identification (“RFID”) technology, software, and services. In addition, Zest Labs has registered, and/or has applied to register trademarks and service marks in the U.S. and a number of foreign countries for “Intelleflex,” the Intelleflex logo, “Zest,” “Zest Data Services,” and the Zest logo, and numerous other trademarks and service marks. Many of Zest Labs’ products have been designed to include licensed intellectual property obtained from third-parties. Laws and regulations related to wireless communications devices in the jurisdictions in which Zest Labs operates and seeks to operate are extensive and subject to change. Wireless communication devices, such as RFID readers, are subject to certification and regulation by governmental and standardization bodies. These certification processes are extensive and time consuming, and could result in additional testing requirements, product modifications or delays in product shipment dates.
+ 
+Although most components essential to Zest Labs’ business are generally available from multiple sources, certain key components including, but not limited to, microprocessors, enclosures, certain RFID custom integrated circuits, and application-specific integrated circuits are currently obtained by Zest Labs from single or limited sources, principally in Asia.
+ 
+Zest Labs is part of a very competitive industry that markets solutions to cold/fresh food supply chain users, such as fresh food growers, meat processors, distributors and retailers. Many other companies that are both more established and command much greater resources compete in this market. While Zest Fresh and Zest Delivery offer new technical approaches and new user value, it remains uncertain if Zest Labs will gain sufficient adoption of its products to make them viable in the market. Further, it is unclear what industry competitors are developing that might address similar user needs. Zest Labs’ products provide a new approach for industry participants, and as with any new approach, adoption is uncertain as many in the industry can be slow to embrace new technology and/or new approaches. These market challenges can lead to extended sales cycles that may include extended pilot testing, sometimes at Zest Labs’ expense, for which the outcome remains unclear until the completion of each test. For these reasons, and others, forecasting new business adoption and future revenue can be very difficult and volatile. However, the Company believes that Zest Fresh offers fresh food growers, processors, shippers, distributors and retailers an opportunity to differentiate their businesses in ways that the shipment of canned and boxed food products cannot, as competition and changes in market dynamics in the grocery market continues to accelerate.
+ 
+
+4
+-
+
+ 
+
+The acquisition of 440labs in May 2017 allowed Zest Labs to internally maintain its software development and information solutions for cloud, mobile, and IoT applications. 440labs has been a key development partner with Zest Labs for more than four years, contributing its expertise in scalable enterprise cloud solutions and mobile applications.
+ 
+Pioneer Products
+
+Pioneer Products is located in Rogers, Arkansas and is involved in the selling of recycled plastic products and other products. It sells to the world’s largest retailer. Pioneer Products recovers plastic waste from retail supply chains and converts the reclaimed material into new consumer products which completes a closed loop and reduces waste sent to landfills. Pioneer Products was purchased by Ecoark in 2012. Pioneer Products acquired Sable Polymer Solutions, LLC (“Sable”) in a stock transaction on May 3, 2016. Since that date, Sable’s results have been included with Pioneer Products. In May 2018 the Ecoark Holdings Board of Directors (“Board”) approved a plan to sell Pioneer and Sable. The sale is expected to be completed by September 30, 2018. Relevant assets and liabilities are classified as held for sale and operations are classified as discontinued in the consolidated financial statements.
+Magnolia Solar
+
+Magnolia Solar is located in Woburn, Massachusetts and is principally engaged in the development and commercialization of nanotechnology-based, high-efficiency, thin-film technology that can be deposited on a variety of substrates, including glass and flexible structures. Magnolia Solar was a subsidiary of MSC that merged with Ecoark on March 24, 2016 to create Ecoark Holdings and continues as a subsidiary of Ecoark Holdings. In May 2018 the Ecoark Holdings Board approved a plan to sell Magnolia Solar, which is expected to be completed by September 30, 2018. Relevant assets and liabilities are classified as held for sale and operations are classified as discontinued in the consolidated financial statements.
+Competition
+
+The Company’s subsidiaries operate in markets for products and services that are highly competitive and face aggressive competition in all areas of their business. 
+ 
+The market for cloud-based, real-time supply chain analytic solutions—the market in which Zest Labs competes—is rapidly evolving. There are several competitors with competing technologies, including companies that have greater resources than Ecoark Holdings, which operate in this space. Some of these companies have brand recognition, established customer relationships, and own the manufacturing process. 
+ 
+Ecoark Holdings believes that, analyzing the competitive factors affecting the market for the solutions and services its subsidiaries provide, its products/services compete favorably by offering integrated solutions to their customers. The Company has incurred research and development expenses of $5,576 and $6,434 in the years ended March 31, 2018 and 2017, respectively, to develop its solutions and differentiate those solutions from competitive offerings. Research and development expenses of $1,235 were incurred in the three months ended March 31, 2017 and $5,979 and $2,801 were incurred in the years ended December 31, 2016 and 2015, respectively.
+ 
