@@ -1,0 +1,101 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. DESCRIPTION OF BUSINESS 
+Summary
+ 
+The Company is currently solely engaged in the development, marketing, sales and licensing of products and rendering of professional services related to its mobile banking prepaid debit card solutions. The Company was also previously engaged in its proprietary two-dimensional matrix symbology technology (also commonly referred to as “two-dimensional barcodes”, “2D barcodes”, or “Barcode Technology”) which it sold on September 30, 2015.
+ 
+In this Form 10-K, the Company’s mobile software banking technology will hereafter be referred to as its “Mobile Banking Technology”. The Mobile Banking Technology is used to offer Prepaid Card Programs to sponsor banks and approved applicants/cardholders. These programs may also be referred to as the MTC™ card or the Blinx ON-OFF™ Prepaid Card programs.
+ 
+Company History
+ 
+Veritec, Inc. was incorporated in the State of Nevada on September 8, 1982 for the purpose of development, marketing and sales of a line of microprocessor based encoding and decoding system products that utilize matrix symbology technology, a two-dimensional barcode technology originally invented by the founders of Veritec under United States patents 4,924,078, 5,331,176, 5,612,524 and 7,159,780.
+ 
+In 1995, an involuntary proceeding under Chapter 7 of the United States Bankruptcy Code was commenced against Veritec. The proceeding was subsequently converted to a Chapter 11 proceeding and a plan of reorganization was confirmed on April 23, 1997. The Chapter 11 plan was successfully completed and the proceeding was closed on October 13, 1999.
+ 
+In November 2003, Veritec formed a wholly owned subsidiary, Vcode, Inc., to which it assigned its United States patents 4,924,078, 5,331,176 and 5,612,524, together with all corresponding patent applications, foreign patents, foreign patent applications, and all continuations, continuations in part, divisions, extensions, renewals, reissues and re-examinations. Vcode in turn entered into an Exclusive License Agreement with VData LLC (VData), an Illinois limited liability company unrelated to Veritec.
+ 
+The purpose of the incorporation of Vcode and the Exclusive Licensing Agreement was to allow VData to pursue enforcement and licensing of the patents against parties who wrongfully exploit the technology of such patents. VData is the wholly owned subsidiary of Acacia Research Corporation (NASDAQ: ACTG). The Exclusive License Agreement provided that all expenses related to the enforcement and licensing of the patents will be the responsibility of VData, with the parties sharing in the net proceeds, as specified under the terms of the agreement, arising from enforcement or licensing of the patents. In November 2008, VData and Vcode mutually agreed to terminate the Exclusive License Agreement between the two companies. As a result of the termination of the Exclusive License Agreement and conclusion of all lawsuits and enforcement activities by VData, infringement revenue has ceased.
+ 
+In February 2005, an adverse ruling was made in the arbitration proceeding against Veritec in favor of Mitsubishi. This ruling compelled Veritec to file a voluntary petition for relief under Chapter 11 of the United States Bankruptcy Code in the United States Bankruptcy Court (Bankruptcy Court) for the District of Minnesota on February 28, 2005. After reaching an agreement with Mitsubishi and other creditors, in April 2006, Veritec’s Third Amended Plan of Reorganization was confirmed by the Bankruptcy Court. On August 8, 2006, the Bankruptcy Court entered an Order and Final Decree and closed the Chapter 11 case. In connection with the settlement with Mitsubishi, Veritec obtained a license to certain Mitsubishi EDAC technology and Veritec granted Mitsubishi a license to Veritec’s proprietary VeriCode® Barcode Technology software.
+ 
+Pursuant to an April 27, 2007 agreement between Veritec and RBA International, Inc. (“RBA”), Veritec acquired from RBA the source code, documentation and software to RBA’s Java and IVR software (used for the RBA banking system). In furtherance of such agreement, RBA granted Veritec a perpetual royalty-free non-exclusive worldwide license to use, modify and distribute such software, without restriction, to any existing or future customers. Veritec’s development under this license, as well as Veritec’s independent development of its own mobile banking applications and components, and integration of such items comprises Veritec’s Mobile Banking Technology.
+ 
+
+4
+-
+
+ 
+
+On January 12, 2009, Veritec formed a wholly owned subsidiary, Veritec Financial Systems, Inc., a Delaware corporation, to bring its Mobile Banking Technology, products and related professional services to market. In May 2009 Veritec was registered by Security First Bank in Visa’s Third Party Registration Program as a Cardholder Independent Sales Organization and Third-Party Servicer. As a Cardholder Independent Sales Organization, Veritec was able to promote and sell Visa branded card programs. As a Third-Party Servicer, Veritec provided back-end cardholder transaction processing services for Visa branded card programs on behalf of Security First Bank. As of October 2010 the Company’s registration with Security First Bank terminated. As of April 2011, the Company signed an ISO and processor agreement with Palm Desert National Bank (which was later assigned to First California Bank) to market and process the Company’s Visa branded card program on behalf of the bank.
+ 
+The program was implemented at First California Bank (FCB) in June, 2011. The blinx On-Off brand was introduced as part of the implementation, at FCB. Going forward, accounts would be issued as blinx ON-OFF™ branded cards under First California Bank. In 2013 First California Bank was acquired by Pacific Western Bank (PWB) in its entirety. PWB decided to exit the Prepaid Card sponsorship business and notified all of its Prepaid Card Program Managers, including Veritec that their bank sponsorship agreements were terminated and the programs would be closed by the end of 2013. PWB provided Veritec several references to banks that were interested in sponsoring Prepaid Card programs such as Veritec’s blinx ON-OFF™ program including Central Bank of Kansas City (CBKC). Veritec entered into discussions with CBKC about sponsoring the Veritec program and a sponsorship agreement was reached between Veritec and CBKC in October 2013. The Visa and First Data Payment Networks approved the bank sponsorship change in November, 2013. Unexpected regulatory delays to the transfer process caused PWB to extend the program closure date to February 28, 2014. The transfer and transition of the blinx ON-OFF™ Prepaid Card program from PWB to CBKC was completed on February 5, 2014. The Veritec blinx ON-OFF™ Prepaid Card Program became live at CBKC on that date. Late in the fiscal year ended June 30, 2016, the relationship between CBKC and the Company ended. The Company is currently seeking a bank to sponsor its Prepaid Card programs.
+ 
+The Veritec Prepaid Card Program provides full services to the sponsor bank. These services include program management, promotion and marketing, application processing, account activation, compliance management, fraud monitoring, accounts reconciliation and dispute resolution. Veritec provides cardholders with automated and live agent customer service, full disclosures, an online account management portal, monthly statements, convenient deposit options, global access to PIN and Signature transactions, and, ATM withdrawals through the Visa and First Data/Star Networks.
+ 
+On September 30, 2014, Veritec ("Buyer"), and Tangible Payments LLC ("Seller"), a Maryland Limited Liability Company, entered into an Asset Purchase Agreement (the "Asset Purchase Agreement") pursuant to which Veritec acquired certain assets and liabilities of the Tangible Payments LLC. Tangible Payments is a combined-solution software package that incorporates features the market is currently purchasing as an individual-solutions product that requires integrated services at an additional cost. With a one-stop package, Tangible’s Payments with its payment gateway solution eliminates costs and reduces deployment time.
+ 
+On September 30, 2015, the Company sold all of its assets of its Barcode Technology to The Matthews Group, a related party, which was comprised solely of its intellectual property. The sale allows the Company to focus its efforts solely on its Mobile Banking Technology.
+ 
+Our Products and Solutions
+ 
+The Company believes that its Mobile Banking Technology platform and its blinx On-Off™ debit card and blinxPay™ mobile wallet programs are a significant advance in mobile banking and close loop/open loop debit technology and is capable of bringing significant value to card issuing and sponsoring organizations, whether they be commercial or government.
+
+5
+-
+
+(a) MTC™ Debit Card - Visa® Prepaid Card Programs 
+ 
+In fiscal year 2009, the Company announced the release of its Mobile Toggle Card (MTC™) Program on the Company’s mobile banking software platform under a sponsoring bank. Veritec’s mobile banking software platform is a debit based, pre-paid and gift card solution that is licensed by Veritec’s wholly owned subsidiary, Veritec Financial Systems, Inc., to debit card issuers and sponsoring organizations. Under the MTC™ Program, card issuers and sponsors may provide the MTC™ branded debit or gift cards to individuals with and without demand deposit accounts (e.g., the latter the “under-banked”). The MTC™ card may be part of a Visa® branded program and, as such, the cards are accepted anywhere in the world that Visa cards are accepted.
+ 
+With an MTC™ card, the cardholders are empowered to combat unpermitted and fraudulent use of their debit cards by “toggling” their cards “on” and “off” with their mobile phones. Cardholders no longer have to completely rely on their card issuers to monitor possible fraudulent activity on their accounts. Cardholders can now de-activate their cards themselves, in real time, any time they choose to do so. In addition to this toggling feature, cardholders may apply for their cards online, arrange for direct deposits to be made to their cards, and transfer money to their card from another account. Cardholders may also elect to receive various alerts on their mobile phones about activity on their card. In fiscal year 2010, the Company began accepting applications for the MTC™ card from individual applicants and issuing live Visa® branded debit cards under the MTC Mobile Toggle Card Program.
+ 
+(b) blinx ON-OFF Debit Card - Visa® Prepaid Card Programs
+ 
+In fiscal year 2011, Veritec began marketing the blinx ON-OFF™ branded card under a bank sponsorship. The blinx ON-OFF™ card is based on the Mobile Banking Technology platform and offers the same features and functions as the MTC™ branded card but with different pricing for bank sponsored cards.
+(c) Custom Branded Debit Card Programs
+ 
+In addition to the MTC™ and blinx ON-OFF™ branded program, the Company enables card issuers and sponsors to issue debit, pre-paid and gift cards under their own branded programs through licensed use of the mobile banking platform and the Company’s provision of related professional services.
+ 
+(d) blinxPay™ Mobile Wallet App 
+ 
+The Company released its blinxPay™ mobile wallet application during fiscal year 2016. blinxPay™ is a secure payment processing system and mobile app that enables customers to make purchases at participating merchants using funds loaded into their blinxPay™ virtual account. The blinxPay™ mobile app is available for download for free at both Google Pay and Apple iTunes stores.
+ 
+Veritec’s mobile banking solution also enables member card programs to be processed and settled member rewards to its members in either an open or closed loop processing environment. In addition to its front-end licensing and professional services, the Company also provides back-end card processing services to the card issuing institutions for all cardholder transactions on the licensed platform. The Company’s Mobile Banking Technology resides within a Payment Card Industry (PCI) compliant data processing center.
+ 
+Intellectual Property Rights
+ 
+The Company was founded upon its intellectual property on its belief that its intellectual property will give the Company a commercial advantage in the global marketplace. The Company relies on patent, trade secret, copyright and trademark law, as well as the company’s contractual terms with its customers, to define, maintain and enforce the Company’s intellectual property rights in its Mobile Banking Technology and other technologies and relationships.
+ 
+The Company has a portfolio of seven United States and eight foreign patents. In addition, we have three U.S. and eight foreign pending patent applications.
+ 
+A significant amount of the Company’s intellectual property takes the form of trade secrets and copyrighted works of authorship. The Company treats the source code to its Mobile Banking Technology as trade secrets, and its licensed software applications are copyrightable subject matter.
+ 
+
+6
+-
+
+ 
+
+We have a portfolio of registered and pending trademarks in the U.S. and foreign jurisdictions, including registrations for the marks “VSCode®” and “VeriCode®”. The Company uses “Veritec” as a trade mark and service mark, as well as it serving as the Company’s trade name.
+ 
+Major Customers
+ 
+During the year ended June 30, 2018, the Company had one customer, a related party that represented 76% of our revenues. No other customer represented more than 10% of our revenues.
+ 
+During the year ended June 30, 2017, the Company had one customer, a related party, that represented 53% of our revenues and one customer that represented 14% of our revenues. No other customer represented more than 10% of our revenues.
+ 
+Engineering, Research and Development
+ 
+During fiscal year 2018, we concentrated on several projects which included the development of our Mobile debit and member rewards banking platform, and the continued development and support of the liquid crystal display (LCD) business the VeriSuite™ Bio-ID software platform, the PhoneCodes™ software platform. All of these projects are currently in various stages of development or have been completed.
+Competition
+ 
+Our Mobile Banking Technology competes with other independent sales organizations and third party services of Visa branded card programs, including TransCash Corporation, Ready Debit Card by MetaBank, Millenium Advantage Card by New Millenium Bank, and Wired Plastic by Bancorp Bank. The Company believes, however, that there are very few companies that have the Company’s collective attributes of (1) being an independent sales organization of Visa branded and non-branded prepaid card programs, (2) being a third party servicer (e.g., back end processor) for banks issuing Visa branded and non-branded prepaid card programs, (3) being the developer, marketer and licensor of the mobile banking platform on which Visa branded and non-branded card program cardholder transactions take place, and (4) having a mobile banking platform that enables real-time transaction processing and enabling cardholders to manage their accounts by enabling cardholders to toggle their cards and their website accounts on and off via their mobile phones.
+Employees
+ 
+As of June 30, 2018, the Company employed three employees and nine independent contractor consultants.
+ 
+Financial Information about Geographic Areas
+ 
+For the years ended June 30, 2018 and 2017, United States customers accounted for 100% of the Company’s total revenue.
+ 

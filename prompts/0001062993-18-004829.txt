@@ -1,0 +1,101 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS.
+--------+----------
+
+OVERVIEW AND CORPORATE BACKGROUND 
+ Destiny Media Technologies, Inc. was incorporated in August 1998 under the laws of the State of Colorado and the corporate jurisdiction was changed to Nevada effective October 8, 2014. We carry out our business operations through our wholly owned subsidiary, Destiny Software Productions Inc., a British Columbia company that was incorporated in 1992, MPE Distribution, Inc. a Nevada company that was incorporated in 2007 and Sonox Digital Inc. incorporated under the Canada Business Corporations Act in 2012. The Company, Destiny Media, Destiny, we or us refers to the consolidated activities of all four companies. 
+ Our principal executive office is located at Suite 1110, 885 West Georgia Street, Vancouver, British Columbia V6C 3E8. Our telephone number is (604) 609-7736 and our facsimile number is (604) 609-0611. 
+ Our common stock trades on TSX Venture Exchange in Canada under the symbol DSY, on the OTCQB U.S. (OTCQB) under the symbol DSNY, and on various German exchanges (Frankfurt, Berlin, Stuttgart and Xetra) under the symbol DME, WKN 935 410. 
+ Our corporate website is located at http://www.dsny.com. 
+ OUR PRODUCTS AND SERVICES 
+ Destiny develops and markets software as a service (SaaS) solutions that solve critical problems in digital distribution and promotion for businesses in the music industry. The core of our business is the Play MPE® promotional music marketing and digital distribution service. Play MPE® is a service for promoting and securely distributing broadcast quality audio, video, images, promotional information and other digital content through the internet. The system is currently used by the recording industry for transferring pre-release broadcast quality music, radio shows, and music videos to trusted recipients such as radio stations, media reviewers, VIPs, DJs, film and TV personnel, sports stadiums and retailers. The system replaces the physical distribution (mail, courier or hand delivery) of CDs. 
+ Our customers range from small independent artists, small to large independent record labels (Indies), to promoters, to the worlds largest record labels (the Major Record Labels) (Universal Music Group, Warner Music Group and Sony Music Entertainment). Our Major Record Label clients have offices around the world and typically represent the worlds largest recording artists. All three Major Record Labels, and thousands of Indies use Play MPE® for promotional distribution. 
+ Play MPE® is a cloud-based enterprise SaaS service providing tiered, permission based, access allowing our clients to assign varying rights, capabilities and responsibilities to different members of their staff. For example, some customer staff may manage assets (album cover imagery, music videos, the raw music, promotional information and other metadata), while others manage hierarchical permission based lists of recipients. Larger labels are normally structured into sublabel groups, each with their own labels with varying access (permissions) to various subsets of the master recipient lists. 
+ The release dates for music can be dependent on the territory and, where administrative settings permit, local promotions staff may generate a localized distribution of the song with modified marketing information in the local language. Local staff may select pre-existing assets from the system and combine them together with a local recipient lists to form a send. Our customers also choose the level of access for the recipients assigned to the release by designating whether the release can be streamed, downloaded, exported into an unlocked digital format or burned to a CD. 
+ While many clients are set up to manage and upload recipient lists, many rely on the proprietary lists provided within the service. Our staff manages lists of recipients in various formats and geographies and those lists are made available to our customers using the Play MPE® system. The Play MPE® system provides Play MPE® staff with the feedback and resources necessary to manage and maintain this network of recipients, which is not available with physical distribution or by smaller competitors. Customers select lists of recipients within the proprietary network based on music format and geography. 
+ 5
+
+When the release is sent, the send appears in the available tracks section of a recipients account. Recipients can access these tracks through proprietary iPhone, Android, Mac and Windows based players, or through partner sites. Our servers also generate a marketing website (http://daily.plaympe.com) which promotes new music. The system automatically generates charts of the most popular music on the system. These charts can be syndicated to third parties. 
+ All exported songs are marked in real time with Destinys watermark technology, which has received three US patents and a number of analogous patents globally. Songs that appear on the internet are scanned by the International Federation of the Phonographic Industrys (IFPI) for our watermark. Headquartered in London, UK, the IFPI is the organization that represents the interests of the recording industry worldwide and one of its missions is to safeguard the rights of record producers. IFPI web crawlers visit torrents, peer to peer networks and websites searching for unauthorized content. When problem files are identified, the IFPI software looks for Destinys watermark in the content to identify the originating source. 
+ After the content is released, all activity by the recipient is logged in real time, providing record labels and promotions staff real time detail on which songs are accessed, streamed, downloaded and exported. This contrast with physical distribution where record labels may be unsure whether the courier package went to the correct individual or whether it was ever opened. This information provides invaluable feedback in real time to marketing and promotions staff who can cater their programs appropriately. Recipients receive a custom library of available tracks and are able to repeat the download if music is lost. 
+ During fiscal 2018, we launched version 8 of our release publishing tools for Play MPE®. These new browser-based tools are accessible on any computer without installation and completely replace the Windows based desktop tools previously used by our customers. It is expected that this new solution will increase usage of Play MPE® by providing an easier to use, faster, more intuitive and streamlined experience, access to both Mac and PC users, new release creation workflows, and more configuration options. It also allows for easy translation into multiple languages to accelerate international expansion. The new encoder has been fully adopted by our sales department and is being integrated by our customers into their own internal workflows. 
+ We continue to invest in additional development of Play MPE® Version 8 and related tools and applications, which should lead to higher usage. 
+ The Company also has a legacy business, Clipstream®, in the online video industry for which it is pursuing strategic alternatives. The Clipstream® Online Video Platform (OVP) is a self-service system, for encoding, hosting and reporting on video playback which can be embedded in third party websites or emails. Playback is currently through the Companys proprietary JavaScript codec engine, which is only available on the internet through the Company. The unique software based approach to rendering video, is protected by over two dozen patents claiming initial priority to 2011. This product is marketed in a limited way and has incidental revenues. 
+ BUSINESS DEVELOPMENT 
+ Play MPE® 
+ During the year ended August 31, 2018, we generated revenues of $3,606,471, of which 98% was derived from Play MPE®. 
+ During fiscal 2018, our development team was focused on the launch of new browser-based release publishing tools, Play MPE® Version 8. On February 21, 2018, we announced the Beta release of Play MPE® Version 8 and, in July 2018, we officially launched this new version of the encoder into production. These new browser-based tools are accessible on any computer without installation and completely replace the current Windows based desktop tools currently used by our customers. It is expected that this new solution will increase usage of Play MPE® by providing an easier to use, faster, more intuitive and streamlined experience, access to both Mac and PC users, new release creation workflows, and more configuration options. 
+ 6 
+
+Play MPE® staff regularly attend various industry events, conferences and seminars, to establish and strengthen relationships with industry promoters, record labels, and other key industry people. Potential new customers may be set up on an initial trial of our system, providing for increased engagement and feedback from these industry professionals. Other business development efforts are also focused on moving existing customers to monthly subscription or custom pricing that encourages more usage of the system. We have significantly increased our business development efforts during fiscal 2018, adding additional staff, and establishing a more organized process of engaging with our existing and prospective customers. 
+ Clipstream® 
+ In November 2017, after completing a detailed review of the resources required to progress Clipstream further, the Company transitioned the Clipstream® product to maintenance only, stopping development of new major features. Business development efforts are focused on identifying strategic alternatives for this product, business, and intellectual property outside the Company. 
+Significant Customers 
+ During the year ended August 31, 2018, we generated 42% of total revenue from one customer (2017 - 41%). 
+ OUR BUSINESS OPERATIONS 
+ We lease approximately 6,600 square feet of office space, with the lease expiring in June of 2022, and we currently have 24 total employees. Our employees include our President and Chief Executive Officer, our Chief Financial Officer, two finance and administrative personnel, eleven sales and technical support personnel, and eight software developers. We may also employ contractors as needed. 
+Research and Development 
+ Total research and development expenditures for the year ended August 31, 2018 were $1,122,590 (2017: $1,231,370). 
+ COMPETITION 
+ Play MPE® 
+ Play MPE® has regional competitors with limited global presence and limited functionality while Play MPE® has Major Record Label use globally. A network effect entrenches the system, as it is difficult for any single user to switch to an alternative without the entire industry switching. The system was built to facilitate sharing of assets and content with regional subsidiaries and affiliates of our Major Record Label customers. This allows local representatives to localize the release resulting in costs savings and efficiencies not available in competing solutions. The player software is available in 27 languages. 
+ Play MPE® has several advantages over physical distribution (mail, courier or hand delivery) of manufactured CDs. Digital distribution through Play MPE® is faster, less expensive, more reliable, more secure, provides additional real time and more accurate reporting of usage, provides a great deal of added functionality and provides the error free and automatic transmission of metadata. Metadata includes International Standard Recording Codes (ISRC)  which is a standard code for uniquely identifying sound recordings and music video recordings - song and artist names, beats per minute, release and impact dates, etc. The automatic transmission of this metadata reduces the time required for manual data entry into radio automation software on the receiving side and eliminates inaccuracies in royalty reporting. This benefits labels who want to be in third party databases as the transmission of this data is immediate and reliable. 
+ The Play MPE® system provides our clients with a sophisticated content management tool that includes privilege control, release sharing amongst global territories (saving our clients time and money when conducting global distributions), enhanced email notification and promotions tools, social media announcements, recipient player apps (iPhone, iPad, Android, Mac, Windows, and Web Browser), with a fully redundant high speed infrastructure that is more sophisticated and has higher functionality than quickly developed lower cost alternatives. The Company expects that competition will be strongest where audio quality, security, recipient network, and reporting are not as important as cost. 
+ 7
+
+GOVERNMENT REGULATION 
+ We are not currently subject to direct regulation by any governmental agency other than laws and regulations generally applicable to businesses. It is possible that a number of laws and regulations may be adopted in both the United States and Canada with particular applicability to the Internet. Governments have and may continue to enact legislation applicable to us in areas such as content distribution, performance and copying, other copyright issues, network security, encryption, the use of key escrow data, privacy protection, caching of content by server products, electronic authentication or digital signatures, illegal or obscene content, access charges and retransmission activities. The applicability to the Internet of existing laws governing issues such as property ownership, content, taxation, defamation and personal privacy is also uncertain. Export or import restrictions, new legislation or regulation or governmental enforcement of existing regulations may limit the growth of the Internet, increase our costs of doing business or increase its legal exposure. 
+ The Company owns proprietary algorithms, source code, web domain addresses, patents, trademarks and other intellectual property. 
+ Patents 
+ 
+1. | Digital Locking "Digital Media Distribution Method and System" (US Patent No. 7466823) 
+---+---------------------------------------------------------------------------------------------
+
+ This patent provides a method of locking digital content which prevents play back on unauthorized machines and devices. Claims include separating security from the content, so that content files can be shared securely over peer to peer networks. This is one of the earliest patents for securing peer to peer distributed content. 
+ One of the more important claims in this patent is the ability to uniquely recognize a particular computer. Uniquely identifying a persons computer is a common issue which is usually approached by saving cookies or beacons to the users computer or by tracking IP addresses. These are not reliable solutions as cookies are easily deleted and IP addresses easily changed. Destinys propriety hash code process creates a serial number that can be used to recognize the user on subsequent visits without ever saving anything to that users computer. 
+ 
+2. | Watermarking "Methods for Watermarking Media Data" 
+---+---------------------------------------------------------
+
+
+i. | US Patents No. 7983441,8300885, 9165560, 9676574
+-----+-------------------------------------------------
+ii. | US pending application No. 15/358834 
+iii. | Japan Patent No. 5103479 
+iv. | Canada patent No. 2682926 
+v. | Europe and UK Patent No. 2082527 
+
+ We have a developed a watermarking technology which can uniquely identify the individual who originally accessed a particular song. Our watermark is unique as it can be embedded and identified rapidly, it is inaudible, it survives on air broadcast, compression and conversion to other formats and is virtually impossible to remove. Our watermarking technology is used in the Play MPE® distribution system when songs are exported or when streaming a track. Other watermarking technologies are slow and provide a trade-off between a destruction of audio quality and the ease that they can be filtered out. When the original patent claims were granted in the US, the Company filed a set of new additional, broader claims in a continuation application in Canada and the US to further protect the technology. 
+ 
+3. | Cross Platform Streaming Video Script Based Video Rendering 
+---+--------------------------------------------------------------------
+ | a. | US Patents No. 9143826, 9137567, 9215499, 9380338, 9432726 and 9432727 
+
+ 8 
+
+
+b. | South Africa Patent No. 2014/01618 
+---+------------------------------------------------
+c. | Singapore Patent No. 2014008775 
+d. | Australia Patent No. 2012297524 
+e. | New Zealand Patent No. 622065 
+f. | Pending US application No. 13/517574 
+g. | Pending Canadian patent application No. 2843766
+h. | Pending China Application No. 201280050754.7 
+i. | Pending Europe Application No. 12824114.8 
+j. | Pending India Application No. 1961/DELNO/2014 
+
+ This solution enables publishers to serve streaming video from their web site without the need for a separate streaming server. The solution will play instantly in all recent browsers, including mobile devices, without the need for a separate video player.
+Registered Trademarks
+Play MPE® 
+Granted: USA, Canada, Japan, European Union, China and Australia 
+ MPE® 
+Granted: Canada, Japan, 
+ Sonox Digital® 
+Granted: Japan, China, Canada 
+ Clipstream® 
+Granted: USA, Canada, Japan, Israel, European Union, China and Australia 
+ Domain Names 
+ We own a large number of domain names, including many valuable four letter domain names (dice.net, dsny.com) and URLs featuring common words (radio-play.com, streamingaudio.com, pirateradio.com and many others.)
