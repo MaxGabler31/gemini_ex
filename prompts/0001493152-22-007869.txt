@@ -1,0 +1,127 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+------------+---------
+
+Overview
+ 
+Under Delaware laws, the founders incorporated the Company on January 21, 2016, as Forex Development Corporation. On February 27, 2018, the Company changed its name to FDCTech, Inc. The name change reflects the Company’s commitment to expanding its products and services in the online trading technology for OTC online regulated brokers. The Company provides customizable, innovative, and cost-efficient financial technology (‘fintech’) and business solutions to legacy financial services companies in the online regulated brokerages, wealth management, and cryptocurrency businesses (“customers”).
+ 
+The Company intends to build a diversified global financial services company driven by proprietary Condor trading technologies, complementary regulatory licenses, and a proven executive team. The Company plans to acquire, integrate, transform, and scale legacy financial service companies. The Company believes that its proprietary technology and software development capabilities allow legacy financial services companies immediate exposure to –forex, stocks, ETFs, commodities, crypto, social/copy trading, and other high-growth fintech markets.
+ 
+From December 2021, the Company expects to grow from its acquisition strategy, specializing in buying and integrating small to mid-size legacy financial services companies. The Company intends to build a diversified global software-driven financial services company. The Company plans to acquire, integrate, transform, and scale legacy financial service companies. The Company replaces conventional legacy software infrastructure with its regulatory-grade proprietary Condor trading technologies, intending to improve end-user experience, increase client retention, and realize cost synergies.
+ 
+On December 22, 2021, the Company entered into a Share Exchange Agreement (the “Agreement”) with AD Financial Services Pty Ltd ACN 628 331 117 of Level 38/71 Eagle St, Brisbane, Queensland, Australia, 4000 (“ADFP” or “Target”). According to the Agreement, the Company acquired 51% of ADFP’s issued and outstanding shares of capital stock in exchange for 45,000,000 (the “Consideration”) newly issued “restricted” common shares. The operating and licensed entity of ADFP is AD Advisory Services Pty Ltd. ADFP owns one hundred percent (100%) equity interest in AD Advisory Services Pty Ltd (“ADS”). As a result, the Company is 51% owner of ADS.
+ 
+Post-acquisition of ADS, we have two primary business segments, (1) Wealth Management and (2) Technology and Software Development.
+ 
+Wealth Management
+ 
+The Wealth Management business currently consists of ADS, an Australian-regulated wealth management company with 20 offices, 28 advisors, $530+ million funds under advice.
+ 
+ADS’ audited revenues, cost of sales, and gross profits were $5.91 million, $5.43 million, and $0.48 million for the fiscal year ended June 30, 2021. ADS’ audited revenues, cost of sales, and gross profits for the fiscal year ended June 30, 2020, were $3.26 million, $2.95 million, and $0.32 million, respectively. ADS increased its revenue and gross profit by 78.79% and 51.79% from 2020 to 2021. From July 1, 2021, to December 31, 2021, ADS’ unaudited revenues, sales cost, and gross profits for the six months were $3.03 million, $2.73 million, and $0.29 million, respectively.
+Technology & Software Development
+ 
+The Company has completed the Condor Pro Multi-Asset Trading Platform, previously known as Condor FX Trading Platform. The Condor Pro Multi-Asset Trading Platform is a commercial trading platform targeted at day traders and retail investors. The industry characterized such platforms by the ease of use and various helpful features, such as the simplified front-end (user interface/user experience), back-end (reporting system), news feeds, and charting system. The Condor Pro Multi-Asset Trading Platform further includes risk management (dealing desk, alert system, margin calls, etc.), pricing engine (best bid/ask), and connectivity to multiple liquidity providers or market makers. We have tailored the Condor Pro Multi-Asset Trading Platform to different markets, such as forex, stocks, commodities, cryptocurrencies, and other financial products.
+ 
+The Company released, marketed, and distributed its Condor Pro Multi-Asset Trading Platform in the second quarter of the fiscal year, December 31, 2019. The Company has developed the Condor Back Office API to integrate third-party CRM and banking systems to Condor Back Office.
+ 
+The Company currently has six (6) licensing agreements for its Condor Pro Multi-Asset Trading Platform. The Company is continuously negotiating additional licensing agreements with several retail online brokers to use the Condor Pro Multi-Asset Trading Platform. Condor Pro Multi-Asset Trading Platform is available as a desktop, web, and mobile version.
+ 
+The Company’s upgraded Condor Back Office (Risk Management) meets various jurisdictions’ regulatory requirements. Condor Back Office meets the directives under Markets in Financial Instruments Directive (MiFID II/MiFIR), legislation by European Securities and Market Authority (ESMA) implemented across the European Union on January 3, 2018.
+ 
+
+4
+-
+
+
+The Company is developing Condor Investing & Trading App, a simplified trading platform for traders of varied experiences in trading stocks, ETFs, and other financial markets from their mobile phone. The Company expects to commercialize the Condor Investing & Trading App by the end of the second quarter of the fiscal year ended December 31, 2022.
+ 
+The Company is developing NFT Marketplace, a decentralized NFT marketplace, a multichain platform with a lazy minting option to reduce and limit unnecessary blockchain usage fees, also known as gas fees. The Company expects to commercialize the NFT Marketplace by the end of the second quarter of the fiscal year ended December 31, 2022.
+ 
+The Company and its subsidiary, ADS, are developing a digital wealth management company, which will initially include a Robo Advice Platform catering to Australia’s wealth management industry. The Company expects to commercialize the Robo Advice Platform by the fiscal year ended December 31, 2022.
+ 
+The Company secures and earns revenues by signing an agreement with its customers. The Company considers a signed agreement with its customers, a binding contract with the customer, or other similar documentation reflecting the terms and conditions under which the Company will provide products or services as persuasive evidence of an arrangement. Each agreement is specific to the customer and clearly defines each party’s fee schedule, duties and responsibilities, renewal and termination terms, confidentiality agreement, dispute resolution, and other clauses necessary for such contract. The material terms of contracts with customers depend on the nature of services and solutions. Each contract is specific to the customer and clearly defines each party’s fee schedule, duties and responsibilities, renewal and termination terms, confidentiality agreement, dispute resolution, and other clauses necessary for such contract.
+ 
+The Company acts as a technology provider and software developer in the cryptocurrency or digital asset space. The Company does not mine any digital assets or trade or act as a counterparty in cryptocurrencies. Consequently, the Company does not intend to register as a custodian with state or federal regulators, including but not limited to obtaining a money service business or money transmitter license with Financial Crimes Enforcement Network (FinCEN) and respective State’s money transmission laws. The Company also does not need to register under the Securities Exchange Act of 1934, as amended, as a national securities exchange, an alternative trading system, or a broker-dealer, since the Company is not a broker-dealer nor does it intend to become a broker-dealer. In some cases, customers compensate us in Bitcoin through our custodian Gemini Trust Company, LLC (“Gemini”). Gemini is a licensed New York trust company that undergoes regular bank exams and is subject to the cybersecurity audits conducted by the New York Department of Financial Services.
+ 
+We are a development company in the financial technology sector with operations in the US, Australia, Russia, Cyprus, and Israel. The Company has prepared consolidated financial statements on a going concern basis, which contemplates the realization of assets and the settlement of liabilities and commitments in the ordinary business course.
+ 
+The Company does not have any patents or trademarks on its proprietary technology solutions.
+ 
+The Company has two sources of revenue from its technology and software solutions.
+ 
+
+● | Technology Solutions – The Company licenses its proprietary and, in some cases, acts as a reseller of third-party technologies to customers. Our proprietary technology includes but is not limited to Condor Risk Management Back Office (“Condor Risk Management”), Condor Pro Multi-Asset Trading Platform (previously known as Condor FX Pro Trading Terminal), Condor Pricing Engine, Crypto Web Trader Platform, and other cryptocurrency-related solutions. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Customized Software Development – The Company develops software for Customers with unique requirements outlined in the Software Development Agreement (“Agreement”). 
+
+ 
+In the retail foreign exchange trading space, where individuals speculate on the exchange rate between different currencies, our customers are forex brokerages, prime of prime brokers, prime brokers, and banks. The Company generates revenues by licensing its trading technology infrastructure, including but not limited to the trading platform (desktop, web, mobile), back office, and CRM and banking integration technology.
+ 
+The Company acts as an adviser/strategic consultant and reseller of its proprietary technologies in the cryptocurrency and blockchain sector. The Company expects to generate additional revenue from its crypto-related solutions. Such solutions include revenues from the development of a custom crypto exchange platform for customers, the sale of the non-exclusive source code of the crypto exchange platform to third parties, white-label fees of crypto exchange platforms, and the sale of aggregated cryptocurrency data price feed from various crypto exchanges to OTC brokers. The Company initially plans to develop the technology architecture of the crypto exchange platform for its customers. The initial capital required to produce such technologies comes from our customers as the Company takes on design-build software development projects for customers. The Company develops these projects to meet the customer’s design criteria and performance requirements.
+ 
+
+5
+-
+
+
+Settlement of the FRH Group Note
+ 
+Between February 22, 2016, and April 24, 2017, the Company borrowed $1,000,000 from FRH Group, a founder and principal shareholder (“FRH”). The Company executed Convertible Promissory Notes, due between February 28, 2018, and April 24, 2019. The Notes were convertible into common stock initially at $0.10 per share but maybe discounted under certain circumstances. In no event will the conversion price be less than $0.05 per share with a maximum of 20,000,000 shares if FRH converts the entire subject to adjustments in certain circumstances. On February 22, 2021, the Company entered into an Assignment of Debt Agreement (the “Agreement”) with FRH and FRH Group Corporation. The Company eliminated all four FRH Group convertible notes, including interest, of $1,256,908, in return for the issuance of 12,569,080 of unregistered common stock of the Company (the “Shares”) to FRH. Following the Agreement, FRH assigned the Shares to FRH Group Corporation, an entity also owned by Mr. Hong.
+ 
+Termination of Acquisition of Genesis Financial, Inc.
+ 
+In line with the new strategic direction, on June 2, 2021, the Company entered into a Stock Purchase Agreement (the “Genesis Agreement”) with the Shareholders of Genesis Financial, Inc., a Wyoming corporation (“GFNL” or “Seller”). According to the Agreement, the Company plans to acquire 100% of the issued and outstanding equity interests of GNFL, including its wholly-owned subsidiaries and other variable interest entities, in consideration for 70,000,000 shares of the Company’s restricted common stock (the” “Securities”) valued at thirty-five Million U.S. Dollars ($35,000,000).
+ 
+On August 24, 2021, FDCTech, Inc., a Delaware corporation (“FDCT” or the “Company” or “Buyer”), terminated the Stock Purchase Agreement (the “Agreement”), dated June 2, 2021, with the Shareholders of Genesis Financial, Inc., a Wyoming corporation (“Genesis” or “Seller”). As of the termination date, the Company did not issue any Securities to the Seller. The Company could not complete nor qualify the Agreement as Genesis could not comply with several non-exhaustive material provisions, covenants, or conditions.
+ 
+On June 9, 2021, and in connection with the previous description of the Genesis Agreement, dated June 2, 2021, the Company appointed Warwick Kerridge as Chairman of the Company’s Board of Directors. Effective August 24, 2021, the Company terminated the appointment of Warwick Kerridge as the Board of Directors. The Company approved the termination upon the consent of the majority of the stockholders representing at least 68.73% of the issued and outstanding shares of the Company. The Company authorized the action according to Section 222 of the General Corporation Law of Delaware. Upon termination of Mr. Kerridge, the Company currently has four Board of Directors. Mitchell M. Eaglstein shall be the acting Chairman of the Company.
+ 
+Subsidiaries of the Company
+ 
+On December 22, 2021, the Company entered into a Share Exchange Agreement (the “Agreement”) with AD Financial Services Pty Ltd ACN 628 331 117 of Level 38/71 Eagle St, Brisbane, Queensland, Australia, 4000 (“ADFP” or “Target”). According to the Agreement, the Company acquired 51% of ADFP’s issued and outstanding shares of capital stock in exchange for 45,000,000 (the “Consideration”) newly issued “restricted” common shares. The operating and licensed entity of ADFP is AD Advisory Services Pty Ltd. ADFP owns one hundred percent (100%) equity interest in AD Advisory Services Pty Ltd (“ADS”). As a result, the Company is 51% owner of ADS.
+ 
+ADS is an Australian regulated wealth management company with 20 offices, 28 advisors, $530+ million funds under advice. ADS consolidated revenues, cost of sales, and gross profits from December 22, 2021, and December 31, 2021, were $156,013, $140,922, and $15,091, respectively.
+ 
+In April 2016, the Company established its wholly-owned subsidiary – FRH Prime Ltd. (“FRH Prime”), a company incorporated under section 14 of Bermuda’s Companies Act 1981. In January 2017, FRH Prime established its wholly-owned subsidiary – FXClients Limited (“FXClients”), under the United Kingdom Companies Act 2006 as a private company. The Company established FRH Prime and FXClients to conduct financial technology service activities. The Company established FRH Prime and FXClients to conduct financial technology service activities. At present, both companies have ceased to exist.
+ 
+Governmental Regulation
+ 
+FDCTech is a publicly-traded company subject to SEC and FINRA’s rules and regulations regarding public disclosure, financial reporting, internal controls, and corporate governance.
+ 
+Our wealth management business, AD Advisory Services (ADS), is subject to enhanced regulatory scrutiny and regulated by multiple regulators in Australia. The Australian Securities and Investments Commission (ASIC) administers a licensing regime for ‘financial services’ providers where ADS holds an Australian Financial Services License (AFSL) and meets various compliance, conduct, and disclosure obligations.
+
+6
+-
+
+Board of Directors
+ 
+Effective January 1, 2021, Naim Abdullah resigned as the Director of the Company.
+ 
+On July 6, 2021, the Board of Directors of FDCTech, Inc. (the “Company”) increased from four to five directors and appointed Charles R. Provini, age 74, to the vacancy. Mr. Provini is considered independent under NYSE and NASDAQ listing standards. Mr. Provini has been the Chairman, CEO, and President of Natcore Technology Inc. since May 2009, a research and development company protected by 65 patents granted or pending. From November 1997 to October 2000, he was the President of Ladenburg Thalmann Asset Management and a Director of Ladenburg Thalmann, Inc., one of the oldest members of the New York Stock Exchange. He served as President of Laidlaw Asset Management and Chairman and Chief Investment Officer of Howe & Rusling, Laidlaw’s Portfolio Management Advisory Group, from November 1995 to September 1997. Mr. Provini served as President of Rodman & Renshaw’s Advisory Services from February 1994 to August 1995. He was the President of LaSalle Street Corporation, a wholly-owned subsidiary of Donaldson, Lufkin & Jenrette, from January 1983 to April 1985. Mr. Provini has been a leadership instructor at the U.S. Naval Academy, Chairman of the U.S. Naval Academy’s Honor Board, and is a former Marine Corp. officer. Mr. Provini holds an undergraduate Engineering degree from the U.S. Naval Academy in Annapolis, Maryland, and a post-graduate degree from the University of Oklahoma.
+ 
+Upon termination of Mr. Kerridge effective August 24, 2021, the Company currently had four Board of Directors. Mitchell M. Eaglstein shall be the acting Chairman of the Company. Mitchell M. Eaglstein and Imran Firoz are the executive directors of the Company. Jonathan Baumgart and Charles R. Provini are considered independent directors under NYSE and NASDAQ listing standards.
+ 
+On November 30, 2021, Charles R. Provini, a member of the Board of Directors of FDCTech, Inc. (the “Company”), notified the Company of his intention to voluntarily resign from the Company’s Board of Directors effective November 30, 2021. Mr. Provini did not advise the Company of any disagreement with the Company on any matter relating to its operations, policies, or practices. Upon the resignation of Mr. Provini, the Company currently has three Board of Directors.
+ 
+Changes in Registrant’s Certifying Accountant
+ 
+On July 2, 2021, the Board of Directors of FDCTech, Inc. (the “Company”) approved the dismissal of Farber Hass Hurley LLP (“FHH”) as the Company’s independent registered public accounting firm. The reports of FHH on the Company’s consolidated financial statements for the fiscal years ended December 31, 2021, and 2020 did not contain an adverse opinion or a disclaimer of opinion. It was not qualified or modified for uncertainty audit scope or accounting principles.
+ 
+On July 2, 2021, the Company appointed BF Borgers CPA PC (“BFB”) as the Company’s new independent registered public accounting firm, effective immediately, to perform independent audit services for the fiscal year ending December 31, 2021.
+ 
+Description of Company’s Securities to be Registered
+ 
+Effective September 03, 2021, the Company incorporated by reference the description of its common stock, par value $0.0001 per share, to be registered hereunder contained under the heading “Description of Securities” in the Company’s Registration Statement on Form S-1 (File No. 333- 221726), as initially filed with the Securities and Exchange Commission (the “Commission”) on November 22, 2017, as subsequently amended (the “Registration Statement”). Since the Registration Statement filing, the Company made all required filings pursuant to Section 15(d) and has continued to file all reports voluntarily.
+ 
+
+7
+-
+
+
+Covid-19
+ 
+In March 2020, the World Health Organization declared the outbreak of a novel coronavirus (COVID-19) as a pandemic throughout the United States. While the initial outbreak concentrated in China, it spread to several other countries, including Russia and Cyprus, and reported infections globally. Many countries worldwide, including in the United States, have significant governmental measures being implemented to control the spread of the virus, including temporary closure of businesses, severe restrictions on travel and the movement of people, and other material limitations on the business. These measures have resulted in work stoppages, absenteeism in the Company’s labor workforce, and other disruptions. The extent to which the coronavirus impacts our operations will depend on future developments. These developments are highly uncertain. We cannot predict them with confidence, including the duration and severity of the outbreak and the actions required to contain the coronavirus or treat its impact. In particular, the continued spread of the coronavirus globally could adversely impact our operations and workforce, including our marketing and sales activities and ability to raise additional capital, which could harm our business, financial condition, and operation results.
+ 

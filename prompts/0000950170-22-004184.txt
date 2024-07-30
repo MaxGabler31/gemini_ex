@@ -1,0 +1,104 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ Item 1. Business.
+ 
+Development of the business
+ FTC Solar, Inc. (the “Company”, “we”, “our”, or “us”) was founded in 2017 and is incorporated in the state of Delaware. We are a global provider of advanced solar tracker systems, supported by proprietary software and value-added engineering services. Our mission is to provide differentiated products, software, and services that maximize energy generation and cost savings for our customers, and to help facilitate the continued growth and adoption of solar power globally. Trackers significantly increase the amount of solar energy produced at a solar installation by moving solar panels throughout the day to maintain an optimal orientation relative to the sun. Our tracker systems are currently marketed under the Voyager brand name (“Voyager Tracker” or “Voyager”). Voyager is a next-generation two-panel in-portrait single-axis tracker solution that we believe offers industry-leading performance and ease of installation. We have a team of dedicated renewable energy professionals with significant project installation experience focused on delivering cost reductions to our US and worldwide clients across the solar project development and construction cycle. Our solar solutions span a range of applications, including ground mount, tracker, canopy, and rooftop. The Company is headquartered in Austin, Texas, and has international subsidiaries in Australia, India, Singapore, and South Africa.
+ On January 13, 2017, the Company entered into an asset purchase agreement with SunEdison Utility Holdings, Inc. (“Seller”) to purchase all assets of the Seller, in addition to assuming any liabilities, for a total transaction price of $6 million. Seller discontinued its operations and filed for bankruptcy prior to the acquisition date. The assets purchased as part of this acquisition included intangible assets in the form of developed technology (AP90 tracker),
+
+software, and inventory. In connection with the acquisition, the Company was formed by the management team behind the AP90 tracker, a first-generation tracker based on a one-panel in-portrait, linked-row design. The management team utilized their design and construction experience, and their experience with installing and operating other competitive tracking solutions, to create the next-generation Voyager Tracker, which achieved product certification in 2019.
+ In April 2021, we completed an initial public offering (IPO) of 19,840,000 shares of our common stock receiving proceeds of $241.2 million, net of underwriting discounts and commissions, but before offering costs, and began trading on the Nasdaq Global Market under the symbol “FTCI”. Prior to the completion of the IPO, the board of directors and stockholders approved an approximately 8.25-for-1 forward stock split (the “Forward Stock Split”) of the Company’s shares of common stock which became effective on April 28, 2021. Proceeds from the IPO were used for general corporate purposes, with $54.2 million used to purchase an aggregate of 4,455,384 shares of our common stock, including shares resulting from the settlement of certain vested restricted stock units (“RSUs”) and exercise of certain options in connection with the IPO at the IPO price, less underwriting discounts and commissions.
+ We are an emerging growth company, as defined in the Jumpstart Our Business Startups (JOBS) Act. Under the JOBS Act, we elected to use the allowed extended transition period to delay adopting new or revised accounting standards until such time as those standards apply to private companies.
+ 
+Description of the business
+ We currently offer tracking and software solutions targeting the utility-scale solar energy markets to current and potential customers in the United States, Asia, the Middle East, North Africa, South Africa and Australia, and we aim to continue to expand our global footprint in Latin America, New Zealand and Europe. Our Voyager tracking system is built upon a self-powered, two-panel in-portrait design utilizing a 60-meter independent row architecture, which provides numerous advantages to our customers.
+ Our customers include project developers, solar asset owners and engineering, procurement and construction (“EPC”) contractors that design and build solar energy projects.
+ We currently operate in one business segment and derive our revenue primarily from the sale of: (i) Voyager Tracker and customized components of Voyager Tracker, (ii) individual parts of Voyager Tracker for certain specific transactions, (iii) shipping and handling services, (iv) term-based software licenses, (v) maintenance and support services for the term-based software licenses, and (vi) subscription services.
+We report both product and service revenue in our consolidated financial statements. Product revenue includes revenue from the sale of Voyager Tracker and customized components of Voyager Tracker, individual part sales for certain specific transactions, and sale of term-based software licenses. Service revenue includes revenue from shipping and handling services, subscription fees from licensing subscription services, and maintenance and support services in connection with the term-based software licenses.
+We incur costs associated with the revenues generated related to (i) the raw materials used in the Voyager Tracker system, including parts and components, (ii) personnel costs attributable to procurement, installation and delivery of finished products and services, (iii) freight and delivery, (iv) product warranty, (v) insurance and (vi) customer support.
+ We outsource all manufacturing to contract manufacturing partners who rely largely on raw materials obtained from international sources, including various vendors located in Southeast Asia. We, and our contract manufacturing partners, have been impacted by global logistics issues and increasing costs to obtain and deliver those materials during the last nine months of 2021 and continuing into 2022. We continue to focus on improving product margins by seeking ways to reduce such costs.
+ 
+Market factors
+ Our global market opportunity is driven by two primary factors: overall growth in utility-scale solar projects and the increased usage of trackers as the preferred mounting system in utility-scale solar projects.
+ Governments across the globe have established policies to support a transition away from fossil fuels and towards low-carbon forms of energy, such as solar power. In the United States, various states have implemented Renewable Portfolio Standards, which require a specified percentage of the electricity sold by utilities to come from renewable sources by a certain date. Globally, renewable energy support has accelerated since the Paris Agreement under the United Nations Framework Convention on Climate Change, which became effective in 2016. These factors, along with efficiency improvements and cost reductions in the underlying photovoltaic cell technology used in solar energy production, have contributed to solar energy becoming the fastest growing form of electricity production today, according to the 2020 New Energy Outlook published by Bloomberg New Energy Finance.
+
+
+Solar trackers have been gaining market share versus fixed-tilt mounting systems due to their ability to optimize energy production, accommodate more varied terrain and offer a more attractive return on investment. The United States currently represents the largest portion of the solar tracker market while continued growth is expected in the Middle East, Africa and Asia. We believe we are well positioned to benefit from the accelerating adoption of two-panel in-portrait tracker systems, bifacial panels and larger-format or higher-powered bifacial panels.
+ Our growth strategy is based on (i) increasing our market share in the United States, (ii) expanding internationally, (iii) expanding our tracker product offerings, (iv) reducing our operating costs through operating leverage, (v) expanding our software offering and improving the attachment rate of enhanced software to tracker sales, (vi) introducing turnkey sales for smaller systems, and (vii) strategic acquisitions.
+ 
+Government policies and regulations
+ Federal, state, local and foreign government bodies provide incentives to owners, end-users, distributors, system integrators and manufacturers of solar energy systems to promote solar electricity in the form of rebates, tax credits and other financial incentives such as system performance payments, payments of renewable energy credits associated with renewable energy generation and an exclusion of solar energy systems from property tax assessments.
+ The most notable incentive program to our U.S. business is the investment tax credit (“ITC”) for solar energy projects, which allows taxpayers to offset their federal income tax liability by a certain percentage of their cost basis in solar energy systems placed in service for commercial use. Under existing tax law, the ITC is 30% for projects that began construction prior to 2020 and are placed in service before 2026, and is reduced (a) to 26% for projects that began or begin construction in 2020, 2021, or 2022 and are placed in service before 2026, (b) to 22% for projects that begin construction in 2023 and are placed in service before 2026 and (c) to 10% for projects that begin construction after 2023 or placed in service after 2025 regardless of when construction began.
+ The U.S. Congress is considering a variety of proposals, including certain provisions of H.R. 5376 (the “Build Back Better Act”), that would, if enacted, benefit the solar energy industry, including in the form of extended or increased tax credits. Proposals being considered by Congress include: (i) extension of the ITC at a 30% rate through 2031; (ii) the consolidation of numerous federal energy tax incentives into a simplified system which would award credits for clean electricity generation; and (iii) a “direct pay” system applicable to the ITC, which would permit such tax credits to be utilized by owners of solar energy projects regardless of whether they have taxable income. However, there can be no assurance that all or any of the above proposals will be passed by Congress or signed into law by the President.
+ Renewable portfolio standards (“RPSs”) are a set of policies designed to increase the use of renewable energy sources for electricity generation. In the United States, a number of states and the District of Columbia have implemented RPSs, which require a specified percentage of the electricity sold by utilities to come from renewable resources by a certain date. While many state targets are between 10% and 45%, various other states have targets of 50% or greater.
+ A feed-in-tariff (“FiT”) is another type of incentive that pays owners of renewable energy systems, including solar energy systems, a certain amount per unit of electricity they generate and provide to the grid. These incentives are often at above-market fixed-prices that are locked in over contract periods of 10 to 20 years. While FiTs are relatively rare as a solar policy mechanism in the United States (with only a handful of states offering them), they are more common internationally.
+ 
+Environmental, social and governance (“ESG”)
+ Environmental responsibility has become a priority for investors, demonstrated by a meaningful trend in allocation of capital to companies that are leading and committed to the energy transition from fossil fuels to low-carbon alternatives. We recognize the importance of environmental stewardship, cultivating sustainable relationships with our employees, manufacturers and the communities where we operate, and accountability of our leadership to our stakeholders. As a renewable energy company, we are passionate about our role in facilitating the global transition away from fossil fuel energy sources and towards renewable energy sources. We intend to continue building our business and shaping our corporate culture by taking into account ESG principles applicable to our company. For example, we have received International Standards Organization (“ISO”) 14001:2015 environmental management system certification and ISO 9001:2015 quality management system certification at our corporate headquarters. ISO 14001:2015 and ISO 9001:2015 are globally recognized standards for environmental and quality management systems that provide a voluntary framework to identify key environmental and quality aspects within businesses. We have also received ISO’s Occupational Health and Safety Management certification, ISO 45001:2018. Our contract manufacturing partners also undergo a qualification process to remain on our approved vendor list, which includes a review and assessment of their environmental performance.
+
+
+Electricity generation from fossil fuel sources results in a significant amount of greenhouse gas and particulate matter emissions, and our offering as a renewable solar energy-based solution helps mitigate this impact by acting as a replacement for such polluting sources. We believe our installed capacity has contributed to eliminating meaningful amounts of carbon dioxide, sulfur dioxide, nitrous oxide and particulate matter from the environment.
+ 
+Seasonality
+ Our revenue may be impacted by seasonality and variability related to the timing of construction activity and expected declines in available ITCs for solar projects beginning in 2023, as described above. Based on historical experience, we have experienced lower levels of customer purchasing during winter months in cold-weather climates as it is more costly to our customers to set foundations when the ground is frozen.
+Future ITC step-downs may also impact our customers’ purchasing patterns and affect the timing of our revenue recognition from one period to another.
+
+Competition
+ The tracker industry is highly specialized and dominated by a relatively small number of companies. Our direct tracker competitors include Array Technologies, Inc. and NEXTracker Inc. We also compete indirectly with manufacturers of fixed-tilt mounting systems. We compete on the basis of product performance and features, total cost of ownership (usually measured by the levelized cost of energy), reliability and duration of product warranty, sales and distribution capabilities, training and customer support.
+
+Patents, trademarks and tradenames
+ We maintain a robust program of research and development to continue to enhance and expand our product offerings to our customers. During the year ended December 31, 2021, our research and development costs totaled $11.5 million, including employee salaries and benefit costs.
+Our trademarks and trade names, include, but are not limited to, Voyager Tracker, SunDAT, SunPath, Atlas and FTC Solar, which are protected under applicable intellectual property laws. This Annual Report also may contain trademarks, service marks, trade names and copyrights of other companies, which are the property of their respective owners. Solely for convenience, the trademarks, service marks, trade names and copyrights referred to in this Annual Report are listed without the TM, SM, © and ® symbols, but we will assert, to the fullest extent under applicable law, our rights or the rights of the applicable licensors, if any, to these trademarks, service marks, trade names and copyrights.
+As of December 31, 2021, we had one U.S. trademark registration, five U.S. applications for trademark registration, 52 issued U.S. patents, twelve issued non-U.S. patents, six patent applications pending for examination in the U.S. and nine patent applications pending for examination in other countries related to panel attachments, solar tracking algorithms, related design and assembly methods, and software solutions. Our issued U.S. patents are expected to expire between 2022 and 2039.
+ 
+Human capital resources
+ Our year-end headcount by department for each period was as follows:
+ 
+Department | December 31,2021 | | December 31,2020 | | December 31,2019
+Operations and support | | 104 | | 90 | | 28
+Research and development | | 47 | | 43 | | 25
+Sales and marketing | | 22 | | 13 | | 3 
+General and administrative | | 50 | | 32 | | 8 
+Total headcount at period end | | 223 | | 178 | | 64
+
+  Most employees are located in North America and Asia with certain others based in the Middle East and Australia. We believe we have a diverse employee base in terms of gender, age, experience, background and ethnicity. As an example, the range of ages for our Executive Leadership Team and our global employee workforce at December 31, 2021, was as follows:
+ 4
+
+
+
+Age range of employees | Global Executive Leadership Team | | Globalemployees
+18 - 24 | | - | | 10 
+25 - 34 | | - | | 71 
+35 - 44 | | 3 | | 70 
+45 - 54 | | 4 | | 51 
+55 and over | | 4 | | 21 
+Total at period end | | 11 | | 223
+
+ Additionally, we gather ethnicity information on our U.S. employees, which at December 31, 2021, was as follows:
+ 
+Ethnicity | U.S. based Executive Leadership Team | | United Statesemployees
+Asian (not Hispanic or Latino) | | 4 | | 18 
+Black or African American (not Hispanic or Latino) | | - | | 8 
+Hispanic or Latino | | - | | 10 
+Two or more races (not Hispanic or Latino) | | 1 | | 6 
+White (not Hispanic or Latino) | | 5 | | 81 
+Total at period end | | 10 | | 123
+
+ We also seek to attract, advance and empower women in advancing their skills and career opportunities through networking, mentorship and professional development. At December 31, 2021, women held the following leadership positions within the Company:
+ 
+Leadership positions held by women | Global | 
+Women on the board of directors | | 1 
+Women on the compensation committee of the board of directors | | 
+Women on and transitioning to the executive leadership team | | 
+Female program managers | | 20
+Female people managers | | 6 
+
+ We use a mix of competitive base salary, performance-based equity compensation awards and other employee benefits to attract, retain and motivate highly qualified employees and executives. The health and safety of our employees are of primary concern. During the COVID-19 pandemic, we have taken significant steps to protect our workforce, including but not limited to, working remotely when feasible and implementing social distancing protocols consistent with guidelines issued by federal, state and local governments.
+We also are continuing to monitor governmental efforts to mandate companies such as us to require employees to be vaccinated against COVID-19 or have periodic testing. While we encourage our employees to become vaccinated and take other appropriate precautions in accordance with guidance from public health organizations, we will comply with governmental regulations at all of our locations, as necessary.
+ None of our employees are represented by a labor union, and we consider relations with our employees to be good.
+ 
+Available information
+ We disseminate information about the Company through required filings we make with the U.S. Securities and Exchange Commission (“SEC”) and, at our discretion, on our website at www.ftcsolar.com.
+ Information contained on or connected to our website is not incorporated by reference into this Annual Report and should not be considered part of this Annual Report or other filings we make with the SEC. The SEC maintains a site that contains reports, proxy and information statements, and other information regarding reporting issuers. Our annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K are filed electronically and are available free of charge at http://www.sec.gov. Additionally, these reports are available free of charge on our website as soon as reasonably practicable after such material is electronically filed with, or furnished to, the SEC. Paper copies may also be obtained at no cost upon request to our General Counsel at 9020 North Capital of Texas Hwy., Building 1, Suite 260, Austin, TX 78759 or by calling (737) 787-7906.
+
+

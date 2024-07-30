@@ -1,0 +1,327 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Our Business 
+Business Description
+Precipio, Inc., and its subsidiaries, (collectively, “we”, “us”, “our”, the “Company” or “Precipio”) is a healthcare solutions company focused on cancer diagnostics. Our business mission is to address the pervasive problem of cancer misdiagnoses by developing solutions to mitigate the root causes of this problem in the form of diagnostic products, reagents and services. Misdiagnoses originate from aged commercial diagnostic cancer testing technologies, lack of subspecialized expertise, and sub-optimal laboratory processes that are needed in today’s diagnostic cancer testing in order to provide accurate, rapid, and resource-effective results to treat patients. Industry studies estimate 1 in 5 blood-cancer patients are misdiagnosed. As cancer diagnostic testing has evolved from cellular to molecular (genes and exons), laboratory testing has become extremely complex, requiring even greater diagnostic precision, attention to process and a more appropriate evaluation of the abundance of genetic data to effectively gather, consider, analyze and present information for the physician for patient treatment. We see cancer diagnostics as requiring a holistic approach to improve diagnostic data for improved interpretations with the intent to reduce misdiagnoses. We deliver diagnostic products, reagents and services that improve the accuracy and efficiency of diagnostics, which leads to fewer misdiagnoses. We believe patient outcomes can be improved through the selection of appropriate therapeutic options based on more accurate diagnostic testing. Furthermore, we believe that better patient outcomes will have a positive impact on healthcare expenses as misdiagnoses are reduced. We believe our platform delivers better diagnostic accuracy than industry peers because of our academic expertise and cutting edge technology. We are a laboratory focused on delivering specialized diagnostic services to physicians and their patients to better ensure they receive accurate results thus resulted in fewer misdiagnoses and allows them to achieve cost savings. Better Diagnostic Results – Better Patient Outcome – Lower Healthcare Expenditures.
+​
+To deliver our strategy, we have structured our organization in order to drive development of diagnostic products. Laboratory and R&D facilities located in New Haven, Connecticut and Omaha, Nebraska house development teams that collaborate on new products and services. We operate Clinical Laboratory Improvement Amendments, or CLIA, laboratories in both the New Haven, Connecticut and Omaha, Nebraska locations providing essential blood cancer diagnostics to office-based oncologists in many states nationwide. To deliver on our strategy of mitigating misdiagnoses we rely heavily on our CLIA laboratories to support R&D beta-testing of the products we develop, in a clinical environment.
+​
+Our operating structure promotes the harnessing of our proprietary technology and genetic diagnostic expertise to bring to market our robust pipeline of innovative solutions designed to address the root causes of misdiagnoses.
+​
+Industry
+We believe that there is currently a significant problem with unaddressed rates of misdiagnosis across numerous disease states (particularly in blood-related cancers) due to an inefficient and commoditized industry. We believe that the diagnostic industry focuses primarily on competitive pricing and test turnaround times, at the expense of quality and accuracy. Increasingly complex disease states are met with eroding specialization rather than increased subspecialized expertise. According to a study conducted by the National Coalition of Health, this results in an industry with blood cancer misdiagnosis rates as high as 28%, which is failing to meet the needs of physicians, patients and the healthcare system as a whole. New technologies offer improved accuracy; however, many are either inaccessible or are not economically practical for clinical use. Despite much publicity of the industry transitioning from fee-per-service to value-based payments, this transition has not yet occurred in diagnostics. When a patient is misdiagnosed, physicians end up administering incorrect treatments, often creating adverse effects rather than improving outcomes. We believe that Insurance Providers, Medicare and Medicaid waste valuable dollars on the application of incorrect treatments and can incur substantial downstream costs. According to a report by Pinnacle Health, the estimated cost of misdiagnosis within the healthcare system is $750 billion annually. Most importantly however, patients pay the ultimate price of misdiagnosis with increased morbidity and mortality. We are of the view that the academic path of specialization produces the critical expertise necessary to correctly diagnose disease, and that academic institutions have an untapped potential to address this problem. Our solution is to create a unique platform that harnesses sub-specialist expertise and proprietary technologies to 
+
+4
+
+
+
+deliver the highest standard of diagnostic accuracy and patient care. Physicians, hospitals, payers and, most importantly, patients all benefit from more accurate diagnostic outcomes.
+Market
+Our market is the United States domestic oncology market where we participate as a commercial diagnostic laboratory and market our products. The oncology total available market, or TAM, is estimated to exceed $20 billion in 2022, with a compound annual growth rate exceeding 5%. We also provide new technologies to the oncology diagnostic laboratory market in the form of HemeScreen and IV-Cell product offerings. The diagnostics product market is estimated to have annual revenues exceeding $14 billion.  The annual growth rate of each market segment is estimated at 5%. Successful deployment within the United States will be closely followed by international marketing where the same product opportunities exist for our products.
+From our New Haven, Connecticut commercial lab, we currently provide diagnostic blood cancer testing services to oncology practices in 14 states.  Building on our commercial laboratory expertise, we have developed several impactful diagnostic technologies that are more cost effective than current industry alternatives, which reduces the diagnostic testing time and improves efficiencies to perform such tests. We anticipate gaining a share of the oncology diagnostic product market as commercial diagnostic laboratories and oncology practices adopt these new cost effective technologies.
+Our Technology
+
+1. | IV-CellTM
+---+----------
+
+
+IV-Cell is a proprietary cell culture media that addresses the problem of selective and serial culturing. IV-Cell is a universal media that enables simultaneous culturing of all 4 hematopoietic cell lineages. This is a significant breakthrough in processing work required by laboratories worldwide. Internally developed by Precipio, the culturing technology ensures that no cell lineage is missed in the diagnostic process. IV-Cell allows the laboratory technician to select any of the 4 lineages during the culturing process for analysis.
+​
+Hematopoietic Diseases: The diagnostic process of hematopoietic diseases involves chromosomal analysis by conducting cell-culture based tests by a cytogenetics laboratory to imitate in-vivo conditions. The four groups of cell lineages cultured are:
+​
+
+● | Myeloid cells – indicating myeloid neoplasms (myelodysplastic syndromes, or MDS, acute myeloid leukemia, or AML, chronic myeloid leukemia, or CML);
+--+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | B-cells – indicating B-cell neoplasms (Chronic lymphocytic leukemia, mantle cell lymphoma, etc.);
+--+--------------------------------------------------------------------------------------------------
+
+
+● | T-cells – indicating T-cell neoplasms (T-cell lymphoma); and
+--+-------------------------------------------------------------
+
+
+● | Plasma cells – indicating plasma cell neoplasms (Multiple myeloma)
+--+-------------------------------------------------------------------
+
+ ​
+IV-Cell, our proprietary media, enables the lab technician to begin culturing all four cell lineages simultaneously, effectively mimicking human biology. IV-Cell media ensures that ultimately the correct cell lineage is cultured, avoiding the risk of misalignment caused by current market media, which may result in a compromised diagnosis. Our advanced IV-Cell technology replaces the current time-consuming lengthy process whereby the cytogeneticist must decide up front which cell lineage to select for culturing. In most cases, due to specimen limitation, low cellularity, or cell viability, the cytogeneticist can select only one of the above cell lines to culture. Often, the initial clinical suspicion is not in line with the final diagnosis determined by the pathologist based on the rest of the work up. Our internal data from testing within our commercial lab has shown that this occurs in approximately 55% of malignant blood or bone marrow samples. If the wrong cell lineage is selected, the diagnosis may be compromised (or return a false negative diagnosis) because the lab will be culturing and investigating the wrong cells. 
+​
+IV-Cell was validated in our laboratory in parallel with existing commercially available reagents and has successfully demonstrated superior results. Subsequently, IV-Cell has been used at our laboratory for the past three years 
+
+5
+
+
+
+on more than 1,000 clinical specimens, producing superior diagnostic results. IV-Cell also produces chromosomes with an average band resolution of 500, approximately 25% higher than achieved with standard culture media.
+ ​
+We are marketing this technology by providing major laboratories with access to the media. The IV-Cell technology and media can be purchased via a direct supply contract, whereby we are contracted with a manufacturer (under license and non-disclosure) to produce the media.
+​
+
+2. | HemeScreenTM
+---+-------------
+
+ ​
+We initially developed HemeScreen technology to target Myeloproliferative Neoplasms, or MPN, but we have evolved HemeScreen into a “suite” of robust genetic diagnostic panels. Today, we are marketing MPN, AML and Anemia panels and project the release of additional diagnostic panels during 2022. It is estimated that 140,000 patients are diagnosed with blood cancer diseases annually. The National Comprehensive Cancer Network, or NCCN, guidelines require that these patients be tested for genetic mutations in five key exons/genes:
+​
+
+● | JAK2 (exon 12);
+--+----------------
+
+
+● | JAK2 (exon 13);
+--+----------------
+
+
+● | JAK2 14 (including V617F);
+--+---------------------------
+
+
+● | CALR; and
+--+----------
+
+
+● | MPL.
+--+-----
+
+ ​
+The additional available panels include the following genes:
+​
+AML
+
+● | IDH1;
+--+------
+
+
+● | IDH2;
+--+------
+
+
+● | FLT3;
+--+------
+
+
+● | KIT;
+--+-----
+
+
+● | CEBPA; and
+--+-----------
+
+
+● | NPM1.
+--+------
+
+​
+Anemia
+
+● | ASXL1;
+--+-------
+
+
+● | TERT;
+--+------
+
+
+● | WT1;
+--+-----
+
+
+● | DNMT3A; and
+--+------------
+
+
+● | RUNX1.
+--+-------
+
+ ​
+We are in the process of filing a provisional patent application on our proprietary screening panel for the above genes. Our technology enables screening to be completed in one rapid scanning process. The HemeScreen test screens for the presence of these mutations. In developing HemeScreen, we focused on improving the economics of providing blood cancer diagnostic tests and reducing laboratory technician time consumed in the testing process. By using our HemeScreen media laboratories can:
+​
+
+1. | Consolidate the platforms required to test all the genes;
+---+----------------------------------------------------------
+
+
+2. | Reduce the threshold of expertise required to perform these tests;
+---+-------------------------------------------------------------------
+
+
+3. | Reduce the batch requirements for the test;
+---+--------------------------------------------
+
+
+4. | Significantly reduce the turnaround time for results;
+---+------------------------------------------------------
+
+
+5. | Provide improved clinical service to physicians; and
+---+-----------------------------------------------------
+
+
+6. | Yield significant costs savings.
+---+---------------------------------
+
+​
+In addressing the diagnostic results it is very important to understand that the clinical significance of these mutations is substantial to patient treatment. Case in point, a mutation in the JAK2 gene indicates the patient may be 
+
+6
+
+
+
+eligible for a targeted therapy. A positive result in the CALR or MPL gene indicates a good prognosis, meaning the disease is less aggressive, and the physician may therefore choose to treat the patient in a less aggressive manner. The results of these genetic tests are critical to determining a treatment plan, and therefore the importance, and the speed of which the results are delivered, may significantly impact patient care. HemeScreen represents exactly what our technology and focus is all about, targeting misdiagnoses.
+ ​
+Today, for this type of cancer testing we believe physician ordering patterns for the test are encumbered by the economics (reimbursement less costs to test) and length of time (2 to 4 weeks) for results to be reported. As a result of the costs and length of test reporting time, we believe, patients needing this exact type of testing, to assist in determining therapeutic options, may not be afforded the opportunity. We believe the HemeScreen technology addresses both issues by providing substantial reductions in both time and cost to test for these genetic mutations. A significant number of hospital laboratories don’t have the volume and patient frequency to economically justify running the currently available commercial test, and therefore they send the test out. This has created an industry average turnaround time for results of between 2-4 weeks (depending on the lab providing the test).
+ ​
+We introduced the HemeScreen Reagent Rental, or HSRR, program to high-end commercial labs, regional hospital groups, large oncology practices and smaller office based oncology practices. The HSRR program is a turn-key solution offering appropriately sized diagnostic equipment, training on the equipment and new technology, and a research use only, or RUO, reagent purchase program sized to the account. Additionally, as a certified CLIA laboratory, we offer HemeScreen testing and 48 hour turnaround to all customers. We believe HemeScreen is a leading-edge testing technology and has the capability of impacting physician use of the test in the physician’s testing regimen for cancer diagnoses. Building on our initial technology, HemeScreen has evolved into a suite of screening and diagnostic products addressing numerous other cancers and related blood abnormalities.
+​
+
+3. | ICE COLD PCR
+---+-------------
+
+ ​
+ICE COLD PCR, or ICP, technology was developed at Harvard and is licensed exclusively to us by the Dana-Farber Cancer Institute, or Dana-Farber. ICP is a unique, proprietary, patented specimen enrichment technology that increases the sensitivity of molecular based tests from approximately 90-95% to 99.99%. Traditional molecular testing is performed on tumor biopsies. These tests are typically conducted at disease onset, when the patient undergoes a biopsy. In the typical course of treatment, a patient is rarely re-biopsied, and therefore, genetic information is based solely on the initial biopsy. Tumors are known to shed cells into the patient’s bloodstream where they circulate alongside normal cells; however, existing testing methodologies are not sufficiently sensitive to differentiate between tumor and normal cells. The increased sensitivity provided by ICP allows for testing of genetic mutations that occur within tumors to be conducted on peripheral blood samples, termed liquid biopsies. This technical capability enables physicians to test for genetic mutations through a simple blood test rather than an invasive biopsy extracted from the actual tumor. The results of such tests can be used for diagnosis, prognosis and therapeutic decisions. The technology is encapsulated within a chemical (reagent) used during the specimen preparation process, which enriches (amplifies) the tumor DNA detected within the blood sample while suppressing the normal DNA. In addition to offering this technology as a clinical service, we are developing panels that will be sold as reagent kits to other laboratories to enable this testing in their facilities, thereby improving their test sensitivity and more accurate diagnoses via liquid biopsies. The business model of selling reagents to other laboratories expands the reach and impact of our technology while eliminating the reimbursement risks from running the tests in-house.
+​
+Gene sequencing is performed on tissue biopsies taken surgically from the tumor site in order to identify potential therapies that will be more effective in treating the patient. There are several limitations to this process. First, surgical procedures have several limitations, including:
+​
+
+● | Cost: surgical procedures are usually performed in a hospital environment;
+--+---------------------------------------------------------------------------
+
+
+● | Surgical access: various tumor sites are not always accessible (e.g. brain tumors), in which cases no biopsy is available for diagnosis;
+--+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Risk: patient health may not permit undergoing an invasive surgery; therefore, a biopsy cannot be obtained at all;
+--+-------------------------------------------------------------------------------------------------------------------
+
+
+● | Time: the process of scheduling and coordinating a surgical procedure often takes time, delaying the start of patient treatment; and
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+7
+
+
+
+
+● | Biopsy size: often the size of the tissue biopsy obtained hinders the ability to conduct molecular or genetic testing after it has been used up for the morphologic and immunohistochemical evaluation.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+Second, there are several tumor-related limitations that provide a challenge to obtaining such genetic information from a tumor:
+​
+
+● | Tumors are heterogeneous by nature: a tissue sample from one area of the tumor may not properly represent the tumor’s entire genetic composition; thus, the diagnostic results from a tumor may be incomplete and non-representative; and
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Metastases: in order to accurately test a patient with metastatic disease, ideally an individual biopsy sample should be taken from each site (if those sites are even known). These biopsies are very difficult to obtain; therefore, physicians often rely on biopsies taken only from the primary tumor site.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+We license the ICP technology from Dana-Farber through a license agreement referred to herein as the License Agreement. The License Agreement grants us an exclusive license to the ICP technology, subject to a non-exclusive license granted to the U.S. government, in the areas of mutation detection using Sanger (di-deoxy) sequencing and mitochondrial DNA analysis for all research, diagnostic, prognostic and therapeutic uses in humans, animals, viruses, bacteria, fungi, plants or fossilized material. The License Agreement also grants us a non-exclusive license in the areas of mutation detection using DHPLC, surveyor-endonuclease-based mutation detection and next generation sequencing techniques. We paid Dana-Farber an initial license fee and are required to make milestone payments with respect to the first five licensed products or services we develop using the licensed technology, as well as royalties ranging from high single to low double digits on net sales of licensed products and services for sales made by us and sales made to any distributors. The License Agreement remains in effect until we cease to sell licensed products or services under said agreement. Dana-Farber has the right to immediately terminate the License Agreement if (i) we cease to carry on our business with respect to licensed products and services, (ii) we fail to make any payments under the License Agreement (subject to a cure period), (iii) we fail to comply with due diligence obligations under the License Agreement (subject to a cure period), (iv) we default in our obligations to procure and maintain insurance as required by the License Agreement, (v) any of our officers is convicted of a felony relating to the manufacture, use, sale or importation of licensed products under the License Agreement, (vi) we materially breach any provision of the License Agreement (subject to a cure period), or (vii) we or Dana-Farber become insolvent. We may terminate the License Agreement for convenience upon 180 days’ prior written notice.
+​
+Competition
+Our principal competition in clinical pathology services comes largely from two groups. The first group consists of companies that specialize in oncology and offer directly competing services to our diagnostic services. These companies provide a high level of service focused on oncology and offer their services to oncologists and pathology departments within hospitals. Competitors in this group include NeoGenomics Laboratories, Inc., also known as NeoGenomics or Neo, GenPath Diagnostics and Inform Diagnostics. The second group consists of large commercial companies that offer a wide variety of laboratory tests ranging from simple chemistry tests to complex genetic testing. Competitors in this group include LabCorp (NYSE: LH) and Quest Diagnostics (NYSE: DGX). Within the liquid biopsy market, our competitors include Foundation Medicine and Guardant Health.
+Competitive Advantage
+Our competitive advantage is derived from our ability to identify real-world clinical challenges in the laboratory; develop technology-based solutions to those challenges; test them within our lab on real clinical samples; and then convert the technology to products we commercialize to the market. Our model gives us a unique capability to identify and create products within the clinical setting, ensuring the product is relevant, reliable, and workable within the laboratory setting. Furthermore, given the hands-on experience we have as first-users of our own products, we have unparalleled experience and expertise required to support our customers and help them maximize the value of our technologies that they use.
+As cancer diagnostic testing continues to evolve, laboratory testing has become extremely complex, requiring even greater diagnostic precision, attention to process and a more appropriate evaluation. Our organizational structure enables Management and R&D resources to efficiently focus on laboratory economics (time and material); the delivery of 
+
+8
+
+
+
+complex results (technical processing); and proprietary analysis (gather data, considerations, determination and information presentation) for the physician - all ultimately leading to minimizing misdiagnoses and better patient care. Embedding R&D personnel into a collaborative workflow within our commercial laboratory operations results in a very cost effective development environment enabling identification of issues, the isolation of causes and the creation of proprietary product solutions to mitigate misdiagnoses.
+Government Regulation
+The healthcare industry is subject to extensive regulation by a number of governmental entities at the federal, state and local level. Laws and regulations in the healthcare industry are extremely complex and, in many instances, the industry does not have the benefit of significant regulatory or judicial interpretation. For example, the U.S. federal transparency requirements under the Patient Protection and Affordable Care Act, as amended by the Health Care and Education Reconciliation Act, or the PPACA, including the provision commonly referred to as the Physician Payments Sunshine Act, and its implementing regulations, which requires applicable manufacturers of drugs, devices, biologics and medical supplies for which payment is available under Medicare, Medicaid or the Children’s Health Insurance Program to report annually to CMS, information related to payments or other transfers of value made to physicians (defined to include doctors, dentists, optometrists, podiatrists and chiropractors) and teaching hospitals, as well as ownership and investment interests held by the physicians described above and their immediate family members. Effective January 1, 2022, these reporting obligations extend to include transfers of value made to certain non-physician providers (physician assistants, nurse practitioners, clinical nurse specialists, certified registered nurse anesthetists and anesthesiologist assistants, and certified-nurse midwives).
+​
+Our business is impacted not only by those laws and regulations that are directly applicable to us but also by certain laws and regulations that are applicable to our payers, vendors and referral sources. While our management believes we are in compliance with all of the existing laws and regulations applicable to us, such laws and regulations are subject to rapid change and often are uncertain in their application and enforcement. Further, to the extent we engage in new business initiatives, we must continue to evaluate whether new laws and regulations are applicable to us. There can be no assurance that we will not be subject to scrutiny or challenge under one or more of these laws or that any enforcement actions would not be successful. Any such challenge, whether or not successful, could have a material adverse effect upon our business and consolidated financial statements.
+​
+Our current active laboratory certifications can be found on http://www.precipiodx.com/accreditations.html. The laboratory operations are governed by Standard Operating Procedure manuals, or SOPs, which detail each aspect of the laboratory environment including the work flow, quality control, maintenance, and safety. These SOPs are reviewed and approved annually and signed off by the laboratory manager and medical director.
+
+Among the various federal and state laws and regulations that may govern or impact our current and planned operations are the following:
+Reimbursement
+
+As blood-related cancers are more likely to be developed later in life, the largest insurance provider is Medicare, which constitutes approximately 40% of our patients’ cases. Non-Medicare patients are typically insured by private insurance companies who provide patient coverage and pay for patients’ health-related costs. These private insurance companies will often adjust their rates according to the insurance rates annually published by the Center for Medicare and Medicaid Services, or CMS. We, and other providers, typically bill according to the codes relevant to the tests we conduct.
+Medicare and Medicaid Reimbursement
+Many of the services that we provide are reimbursed by Medicare and state Medicaid programs and are therefore subject to extensive government regulation.
+
+9
+
+
+
+Medicare is a federally funded program that provides health insurance coverage for qualified persons age 65 or older, some disabled persons, and persons with end-stage renal disease and persons with Lou Gehrig’s disease. Medicaid programs are jointly funded by the federal and state governments and are administered by states under approved plans.
+
+Medicaid provides medical benefits to eligible people with limited income and resources and people with disabilities, among others. Although the federal government establishes general guidelines for the Medicaid program, each state sets its own guidelines regarding eligibility and covered services. Some individuals, known as “dual eligibles”, may be eligible for benefits under both Medicare and a state Medicaid program. Reimbursement under the Medicare and Medicaid programs is contingent on the satisfaction of numerous rules and regulations, including those requiring certification and/or licensure. Congress often enacts legislation that affects the reimbursement rates under government healthcare programs.
+
+Approximately 43% of our revenue for the year ended December 31, 2021 was derived directly from Medicare, Medicaid or other government-sponsored healthcare programs. Also, we indirectly provide services to beneficiaries of Medicare, Medicaid and other government-sponsored healthcare programs through managed care entities. Should there be material changes to federal or state reimbursement methodologies, regulations or policies, our direct reimbursements from government-sponsored healthcare programs, as well as service fees that relate indirectly to such reimbursements, could be adversely affected.
+Healthcare Reform
+In recent years, federal and state governments have considered and enacted policy changes designed to reform the healthcare industry. The most prominent of these healthcare reform efforts, the PPACA, has resulted in sweeping changes to the U.S. system for the delivery and financing of health care. As currently structured, the PPACA increases the number of persons covered under government programs and private insurance; furnishes economic incentives for measurable improvements in health care quality outcomes; promotes a more integrated health care delivery system and the creation of new health care delivery.
+Since its enactment, there have been judicial, Congressional and executive challenges to certain aspects of the PPACA. On June 17, 2021, the U.S. Supreme Court dismissed the most recent judicial challenge to the PPACA brought by several states without specifically ruling on the constitutionality of the PPACA. Prior to the Supreme Court’s decision, President Biden issued an executive order to initiate a special enrollment period from February 15, 2021 through August 15, 2021 for purposes of obtaining health insurance coverage through the ACA marketplace. The executive order also instructed certain governmental agencies to review and reconsider their existing policies and rules that limit access to healthcare, including among others, reexamining Medicaid demonstration projects and waiver programs that include work requirements, and policies that create unnecessary barriers to obtaining access to health insurance coverage through Medicaid or the PPACA. It is unclear how other healthcare reform measures of the Biden administration or other efforts, if any, to challenge, repeal or replace the PPACA will impact our business.
+U.S. Food and Drug Administration Regulation
+We offer our products as research use only (RUO) products. An RUO product is one that is not intended for clinical diagnostic use and must be labeled “For Research Use Only. Not for use in diagnostic procedures.” Products that are intended for research use only and are properly labeled as RUO are exempt from compliance with the requirements of the U.S. Food and Drug Administration (FDA) applicable to medical devices. A product labeled RUO but intended to be used diagnostically may be viewed by the FDA as adulterated or misbranded and is subject to FDA enforcement activities. The FDA may consider the totality of the circumstances surrounding distribution and use of an RUO product, including how the product is marketed, when determining its intended use. In November 2013, the FDA issued a guidance document entitled “Distribution of In Vitro Diagnostic Products Labeled for Research Use Only or Investigational Use Only” (RUO Guidance), which highlights the FDA’s interpretation that distribution of RUO products with any labeling, advertising or promotion that suggests that clinical laboratories can validate the test through their own procedures and subsequently offer it for clinical diagnostic use as a laboratory developed test is in conflict with RUO status. The RUO Guidance further articulates the FDA’s position that any assistance offered in performing clinical validation or verification, or similar specialized technical support, to clinical laboratories, conflicts with RUO status.
+
+10
+
+
+
+Additionally, our CLIA laboratories offer testing utilizing our laboratory developed tests (LDTs). LDTs are defined by the FDA to be tests that are designed, developed, and used within a single laboratory. The FDA takes the position that it has authority to regulate LDTs as medical devices, and historically, it has exercised enforcement discretion with respect to most LDTs and has not required laboratories that offer LDTs to comply with the FDA’s requirements for medical devices. However, the FDA has stated it intends to end its policy of enforcement discretion and to actively regulate LDTs. For example, on October 3, 2014, the FDA issued two draft guidance documents, entitled “Framework for Regulatory Oversight of Laboratory Developed Tests (LDTs)” and “FDA Notification and Medical Device Reporting for Regulatory Oversight of Laboratory Developed Tests (LDTs)”, that set forth a proposed risk-based regulatory framework that would apply varying levels of FDA oversight to LDTs. The draft guidance documents have not been finalized. In January 2017, the FDA issued a “Discussion Paper on Laboratory Developed Tests (LDTs),” which includes a possible approach to LDT oversight that is intended to advance public discussion on the topic. Additionally, legislative proposals have been introduced in Congress or have been publicly circulated. Such proposals would implement differing approaches to the regulation of LDTs, including in certain instances to require marketing authorization from the FDA. 
+Medical devices are subject to extensive regulation by the FDA. The FDA regulates, among other things, the research, design, development, preclinical and clinical testing, manufacturing, safety, effectiveness, packaging, labeling, storage, recordkeeping, marketing authorization, adverse event reporting, marketing, promotion, sales, distribution and import and export of medical devices. The FDA has broad regulatory compliance and enforcement powers. If the FDA determines that a manufacturer has failed to comply with applicable regulatory requirements, it can take a variety of compliance or enforcement actions, including the following:
+
+● | issuance of warning letters, untitled letters, fines, injunctions, consent decrees and civil penalties;
+--+--------------------------------------------------------------------------------------------------------
+
+
+● | requesting or requiring recalls, withdrawals, or administrative detention or seizure of products;
+--+--------------------------------------------------------------------------------------------------
+
+
+● | imposing operating restrictions or partial suspension or total shutdown of production;
+--+---------------------------------------------------------------------------------------
+
+
+● | refusing or delaying requests for marketing authorization or new products or modified products; or criminal prosecution.
+--+-------------------------------------------------------------------------------------------------------------------------
+
+Research and Development Expenses
+For the years ended December 31, 2021 and 2020, we recorded $1.3 million and $1.2 million, respectively, of research and development expenses. More information regarding our research and development activities can be found in the section entitled “Management’s Discussion and Analysis of Financial Condition and Results of Operations” under Item 7 of this Annual Report.
+Human Capital
+Employees.
+As of March 25, 2022, Precipio employed fifty-five (55) employees on a full-time basis and one (1) employee as part-time. Of the total, eleven (11) were in Finance, General and Administration, twenty-seven (27) were in laboratory operations, nine (9) were in Sales and Marketing, four (4) were in Customer Service and Support and five (5) were in Research & Development.
+All of our employees are based in the U.S. and a majority are based in Connecticut. None of our employees are represented by a labor union or covered by a collective bargaining agreement, and we believe our relationship with our employees is good.
+​
+
+11
+
+
+
+Executive Officers of the Registrant
+Our executive officers, their ages as of March 25, 2022 and their respective positions are as follows:
+
+Ilan Danieli, Chief Executive Officer, age 50
+​
+Mr. Danieli was the founder of Precipio Diagnostics LLC and was the Chief Executive Officer of Precipio Diagnostics LLC since 2011. Mr. Danieli assumed the role of Chief Executive Officer of Precipio, Inc. at the time of a June 2017 merger transaction with Transgenomic, Inc. (the “Merger”). With over 20 years managing small and medium-size companies, some of his previous experiences include COO of Osiris, a publicly-traded company based in New York City with operations in the US, Canada, Europe and Asia; VP of Operations for Laurus Capital Management, a multi-billion dollar hedge fund; and in various other entrepreneurial ventures. Ilan holds an MBA from the Darden School at the University of Virginia, and a BA in Economics from Bar-Ilan University in Israel.
+Matthew Gage, Interim Chief Financial Officer, age 55 
+​
+Mr. Gage was appointed Interim Chief Financial Officer of Precipio, Inc. effective March 21, 2022. Mr. Gage served as Director of Financial Reporting and Analysis of Precipio, Inc. since joining the Company in June 2017 following its acquisition of Transgenomic Inc., where he was Director of Financial Reporting and Analysis since 2014. Mr. Gage has over 30 years of experience in company finance, 25 years of which being with publicly traded companies. Mr. Gage holds a Bachelor of Science Degree in Business Administration from Bryant University.
+​
+Carl R. Iberger, Chief Financial Officer, age 69 
+​
+Mr. Iberger retired from Precipio, Inc. effective March 21, 2022. He had been the Company’s Chief Financial Officer since October 2016. For the years 1990 through 2015, Mr. Iberger held the positions of Chief Financial Officer and Executive Vice President at Dianon Systems, DigiTrace Care Services and SleepMed, Inc. Mr. Iberger has significant diagnostic healthcare experience in mergers and acquisitions, private equity transactions, public offerings and executive management in high growth environments. Mr. Iberger holds a Master’s Degree in Finance from Hofstra University and a Bachelor of Science Degree in Accounting from the University of Connecticut.
+​
+Compliance with Environmental Laws
+​
+We believe we are in compliance with current environmental protection requirements that apply to us or our business. Costs attributable to environmental compliance are not currently material.
+​
+Intellectual Property 
+​
+We license the ICP technology from Dana-Farber through the License Agreement. The License Agreement grants us an exclusive license to the ICP technology, subject to a non-exclusive license granted to the U.S. government, in the areas of mutation detection using Sanger (di-deoxy) sequencing and mitochondrial DNA analysis for all research, diagnostic, prognostic and therapeutic uses in humans, animals, viruses, bacteria, fungi, plants or fossilized material. The Company has filed provisional patent applications for its proprietary HemeScreen and IV-Cell technologies.
+Corporate History 
+Precipio, Inc. was incorporated in Delaware on March 6, 1997. Our principal office is located at 4 Science Park, New Haven, Connecticut 06511.
+Our internet address is www.precipiodx.com. Information found on our website is not incorporated by reference into this report. We make available free of charge through our website our Securities and Exchange Commission, or SEC, filings, including exhibits, furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC.
+
+12
+
+
+

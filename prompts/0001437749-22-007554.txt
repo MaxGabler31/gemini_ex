@@ -1,0 +1,398 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business
+--------+---------
+
+Overview
+ 
+Dyadic International, Inc. (“Dyadic”, “we”, “us”, “our”, or the “Company”) is a global biotechnology platform company based in Jupiter, Florida with operations in the United States and a satellite office in the Netherlands, and it utilizes a number of third-party consultants and research organizations to carry out the Company’s activities. Over the past two plus decades, the Company has developed a gene expression platform for producing commercial quantities of industrial enzymes and other proteins, and has previously licensed this technology to third parties, such as Abengoa Bioenergy, BASF, Codexis and others, for use in industrial (non-pharmaceutical) applications. This technology is based on the Thermothelomyces heterothallica (formerly known as Myceliophthora thermophila) fungus, which the Company named C1. The C1-cell protein production platform is a robust and versatile thermophilic filamentous fungal expression system for the development and production of biologic products including enzymes and other proteins.
+ 
+On December 31, 2015, the Company sold its industrial technology business to Danisco USA (“Danisco”), the industrial biosciences business of DuPont (NYSE: DD) (the “DuPont Transaction”). As part of the DuPont Transaction, Dyadic retained co-exclusive rights to the C1-cell protein production platform for use in all human and animal pharmaceutical applications, and currently the Company has the exclusive ability to enter into sub-license agreements (subject to the terms of the license and to certain exceptions) for use in all human and animal pharmaceutical applications. Danisco retained certain rights to utilize the C1-cell protein production platform in pharmaceutical applications, including the development and production of pharmaceutical products, for which it will be required to make royalty payments to Dyadic upon commercialization. In certain circumstances, Dyadic may owe a royalty to either Danisco or certain licensors of Danisco, depending upon whether Dyadic elects to utilize certain patents either owned by Danisco or licensed in by Danisco.
+ 
+After the DuPont Transaction, the Company has primarily been focused on the animal and human biopharmaceutical industries, specifically in further improving and applying the proprietary C1-cell protein production platform into a safe and efficient protein production platform to help speed up the development, lower production costs and improve the performance of biologic vaccines and drugs and other biological products at flexible commercial scales. Some examples of human and animal vaccines and drugs which have the potential to be produced from C1-cells are protein antigens, virus-like particles (“VLPs”), monoclonal antibodies (“mAbs”), Bi/Tri-specific antibodies, Fab antibody fragments, Fc-fusion proteins, as well as other therapeutic enzymes and proteins. The Company is involved in multiple funded research collaborations with animal and human pharmaceutical companies which are designed to leverage its C1-cell protein production platform to develop innovative vaccines and drugs, biosimilars and/or biobetters. Additionally, the Company has begun to develop other technologies that have potential applications in non-pharmaceutical markets.  
+ 
+We rely on our existing cash and cash equivalents, investments in debt securities, and operating cash flows to provide the working capital needs for our operations. We believe that our existing cash position and investments in investment grade securities will be adequate to meet our operational, business, and other liquidity requirements for at least the next twelve (12) months. Additionally, the Company has decided to fund the pre-clinical and cGMP manufacturing and a Phase I clinical trial of its lead asset, the DYAI-100, COVID-19 vaccine candidate, to validate C1 produced proteins are safe in humans, serve as proof of concept for next generation variant based COVID-19 vaccine candidates and accelerate the C1-cell protein production platforms adoption. In the event our financing needs for the foreseeable future are not able to be met by our existing cash, cash equivalents and investments, we would seek to raise funds through public or private equity offerings, and through other means to meet our financing requirements.
+ 
+Impact of COVID-19
+ 
+The outbreak of COVID-19 has led to adverse impacts on the U.S. and global economies and created uncertainty regarding the potential impact to the Company’s employees, operations, and research projects.
+ 
+The extent to which the COVID-19 pandemic will directly or indirectly impact our business will depend on future developments that are highly uncertain, including a) infection and vaccination rates globally, b) new information that may emerge concerning the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), c) its variants and the actions taken and the level of success to contain or treat the SARS-CoV-2 virus and its variants, d) the economic impact on local, regional, national and international business partners and markets, e) delays or disruptions in our on-going research projects, and f) unavailability of the employees of the Company or third-party consultants, contract research organizations and cGMP facilities with whom we conduct business. Management is actively monitoring this situation and the possible effects on its financial condition, liquidity, operations, vendors, industry, and workforce. Even after the COVID-19 pandemic has subsided, the Company may continue to experience adverse impacts to its business because of economic recession or depression that has occurred or may occur in the future. Given the daily evolution of the COVID-19 outbreak and the ongoing response to curb its spread (including government travel and meeting restrictions), we are not able to accurately estimate the effects of the COVID-19 outbreak to our results of operations, financial condition, or liquidity.
+ 
+    5 
+
+  
+
+Our Technology
+ 
+The Company believes that the C1 cell line is unique compared to traditional filamentous fungal cells, and the C1-cell protein production platform has the potential to be used in the discovery, development and manufacturing of biologic medicines and vaccines, given its anticipated competitive advantages compared to certain other legacy biopharmaceutical expression systems, such as insect cells (i.e., baculovirus) and CHO (“Chinese Hamster Ovary”) cells. We believe that in comparison to CHO cells, the C1 cell line has several significant potential operational advantages, which include but are not limited to:
+
+Purity
+------
+ | High retention of target secreted protein through downstream processing No requirement for viral (i.e., CHO and Baculovirus) or endotoxin (i.e., E.coli) removal 
+
+
+Productivity
+------------
+ | Robust & versatile growth conditions 
+ | High yields of secreted protein 
+ | Low viscosity due to C1’s unique morphology
+
+
+Robustness
+----------
+ | Proven at both small and large scale, ranging from laboratory microtiter plates, shaker flasks, single use and/or stainless-steel microbial fermenters
+ | Stable and correctly folded monoclonal antibodies (mAbs); having binding, neutralizing and certain other properties similar to CHO produced mAbs 
+
+
+Speeds
+------
+ | Develop stable C1-cell lines for protein production in ~ 60 days Production time savings of ~30 days over CHO-cell production (C1: 12-14 days vs. CHO 41-54 days) Manufacturing ~ 3-4 batches of C1 produced mAbs in the same time it takes to make 1 batch using CHO-cells
+
+
+Costs
+-----
+ | High yields and rapid manufacturing cycle times reduce costs and shrink manufacturing footprint 
+ | C1-cells can be grown using low-cost and readily available cGMP media; C1 media < 1/20 of the cost of CHO cell media 
+ | No requirement for viral or endotoxin removal, simplifies processing compared to CHO, Baculovirus & E. coli saving time and money
+
+Competition
+ 
+We believe that the C1-cell protein production platform has potential to become a leading alternative to several legacy production technologies currently used in the biopharmaceutical industry to produce vaccines, monoclonal antibodies, and other therapeutic proteins for both the human and animal health markets. C1 has some inherent benefits and potential competitive advantages compared to CHO cells, E. coli, Pichia, and Insect Cells (i.e., Baculovirus) as discussed below:
+ 
+
+• | Mammalian cells: Currently the preferred production host for most complex protein therapeutics due mainly to their ability to produce proteins with human-like glycosylation. This market is dominated by CHO cells. Disadvantages include the longer duration required for cell line development, fermentation, and increased costs associated with process media.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Bacterial: Bacteria such as E. coli are currently the easiest, cheapest, and quickest method for recombinant protein expression and are often used in laboratory settings as well as commercial production of certain non-glycosylated proteins. However, they produce toxic and pyrogenic cell wall components that may make them less suitable to produce biopharmaceuticals or food components. Moreover, insoluble expression, a frequent outcome in bacterial expression, is challenging with regard to cost of goods due to the need for refolding and its direct impact on reduced overall yields.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Yeast: In contrast to bacteria, yeast, such as Pichia pastoris, do not produce potentially toxic and pyrogenic cell wall components. Further, the genetic tools for yeast development are advanced and enable continued engineering of new strains that may become more suitable than CHO cell lines. Disadvantages include the typically lower protein titers than C1-cells and traditional yeast cells have a greater number of higher N and O glycosylation structures.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Insect cells: Insect cells (i.e., Baculovirus) offer protein expression with post translational modifications like mammalian cells, ease of scale-up, and simplified cell growth readily adapted to high-density suspension culture for large-scale expression. Baculovirus expression systems are used for producing recombinant protein, especially for vaccine antigens. Disadvantages include the comparably lower protein yields than C1 and the need for an added viral inactivation step.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We believe that our C1-cell protein production platform has the potential to become a leading protein production platform for developing and manufacturing proteins for use in biopharmaceuticals, food products and diagnostics due to C1’s potential speed of development, high protein yields, scalability, low-cost media, and hence lower production costs.
+ 
+    6 
+
+  
+
+Our Industry and Potential Markets
+ 
+Based on feedback from our collaborators and our ongoing discussions with leading pharmaceutical and biotech companies, contract manufacturing organizations (CMOs), leading academic institutions, as well as U.S. and foreign governmental agencies, we continue to believe that the biopharmaceutical market is an attractive opportunity to apply our C1-cell protein production platform. The Company continues to evaluate potential opportunities to expand the application of our C1-cell protein production platform, and is currently focused on the following markets:
+
+● | Recombinant vaccines and drugs for animal and human health
+--+-----------------------------------------------------------
+
+
+● | New innovative biotherapeutics
+--+-------------------------------
+
+
+● | Biosimilars / Biobetters non-Glycosylated/Glycosylated protein markets
+--+-----------------------------------------------------------------------
+
+
+● | Diagnostic and reagents
+--+------------------------
+
+
+● | Alternative food
+--+-----------------
+
+ 
+The use of biologic medicines, for applications such as infectious disease vaccines and therapeutics are growing significantly. However, biologic medicines are in many cases limited and expensive for both patients and health care systems. The Company believes that lack of access and high cost is, in part, the result of the following bottlenecks in the development and manufacture of biologic medicines:
+ 
+
+● | Extended stable cell line development timelines
+--+------------------------------------------------
+
+
+● | Insufficient titers and overall yields
+--+---------------------------------------
+
+
+● | Expensive, often royalty stacked, production media in the case of CHO cell lines
+--+---------------------------------------------------------------------------------
+
+
+● | Long production time for stable CHO cell lines
+--+-----------------------------------------------
+
+
+● | Previous underfunded development efforts for a more efficient next-generation gene expression system
+--+-----------------------------------------------------------------------------------------------------
+
+ 
+The Company believes that the biopharmaceutical industry can benefit from an innovative protein production platform that is safe, efficient, reliable, and cost effective. Such a platform would facilitate the rapid and high titer production of difficult to express proteins resulting and more affordable biopharmaceuticals. The C1-cell protein production platform has the potential to be an alternative to CHO, Baculovirus and other legacy expression systems to produce proteins for vaccines, therapeutics, diagnostics, alternative foods and other biological products.
+ 
+Potential Opportunity to Use C1 in Drug Discovery and Early Development Process
+
+While our focus has been and remains on developing stable C1 cell lines to speed up the development, lower production costs, improve the performance of biologic vaccines and to develop drugs at flexible commercial scales, we have identified biologics drugs discovery and early development process as one area where C1 also may add value based on our discussions with various pharmaceutical and biotech companies. This area includes the biologics drug discovery and early development process requires sufficient levels of proteins to be expressed as quickly as possible to identify new drug candidates within a limited time. Currently, HEK 293 cells (human embryonic kidney cells) are commonly used for this application. Given that C1 cells have demonstrated the capability to express and produce comparable and even larger quantities of protein than HEK 293 cells, we believe that C1 has the potential to help overcome certain protein expression challenges in the biologics drug discovery and development stages. We have had discussions with third parties, including our existing collaborators, to identify additional avenues to potentially adapt our C1-cell protein production platform for this application.
+ 
+    7 
+
+  
+
+Our Research Partners and Contract Research Organizations (CROs)
+ 
+Currently, the Company is conducting its C1-cell protein production platform research and other internal and external third-party programs with several contract organizations as follows:
+ 
+(1) Research and Development Agreement with VTT Technical Research Centre of Finland, Ltd (“VTT”)
+ 
+Since September 2016, the Company has been working with VTT Technical Research Centre of Finland, Ltd. (“VTT”), a third-party contract research organization, to further modify and improve the Company’s C1-cell protein production platform to ensure a safe and efficient expression system for use in speeding up the development and lowering the cost of manufacturing pharmaceutical products and processes. VTT is one of the leading research and technology organizations in Europe, and it has conducted research and development on fungi and other microorganisms for more than three decades. VTT is continuing their development work to further develop our C1-cell protein production platform.
+ 
+On June 28, 2019, the Company extended its research contract (“Contract”) through June 2022 with VTT. Under the terms of this Contract, Dyadic will pay VTT a total of EUR €2.52 million over three years to continue developing Dyadic’s C1-cell protein production platform for therapeutic protein production, including C1 host system improvement, glycoengineering, and management of third-party target protein projects. VTT is subject to an additional success bonus up to EUR €350,000 based on the technical targets stipulated in the Contract. Dyadic and its sublicensees will also have the right to use synthetic promoters developed by VTT with an access fee. On November 9, 2021, the Company further expanded the Contract to pay an additional EUR €191,700 over the next 6 months to conduct the glycoengineering strategy with the best protease deletion strains and other platform development work. The Company is in the process of finalizing its research plans with the expectation of signing an additional extension with VTT which will be necessary to achieve our near-term and medium-term goals and objectives. Dyadic has the right to terminate the current Contract with 90 days’ notice. 
+ 
+(2) Collaboration Agreement with BDI
+ 
+On June 30, 2017, the Company entered into a strategic Research Services Agreement (the “RSA”) with Biotechnology Developments for Industry in Pharmaceuticals, S.L.U. (“BDI Pharma”), and with VLP The Vaccines Company, S.L.U. (“VLPbio”), both of which are subsidiaries of Biotechnology Developments for Industry, S.L., a Spanish biotechnology company (“BDI Holdings” and together with BDI Pharma and VLPbio, “BDI”).
+ 
+The Company paid EUR €1.0 million (the “RSA Initial Payment”) in cash to engage BDI to develop designated C1 based product candidates and further improve the C1 manufacturing process, in consideration of which Dyadic also received a 16.1% equity interest in BDI Holdings and a 3.3% equity interest in VLPbio. Under the RSA, BDI is obligated to spend a minimum amount of EUR €936,000 over two years for the research and development project. 
+ 
+On July 26, 2021, the Company entered (i) a Sale and Purchase of Shares Agreement under which the Company agreed to sell its 16.1% equity interest in BDI Holdings, and (ii) a Sale and Purchase of Shares Agreement under which the Company agreed to sell its 3.3% equity interest in VLPBio (together the “BDI Sale”). In connection with the closing of the BDI Sale, the Company received approximately $1.6 million, net of transaction and legal expenses in August 2021. The gain generated from the BDI Sale was recorded in other income.
+ 
+In connection with the BDI Sale, the Company also entered into an amendment to the Service Framework Agreement (the “Amended SFA”) with BDI Pharma. Under the Amended SFA, the Company maintains the right to engage in research and development projects at BDI Pharma until June 30, 2025, with the non-compete term extending to June 30, 2030, without any other material terms and conditions changed.
+ 
+(3) Other CROs and cGMP Manufacturers
+ 
+The Company works with other research providers, cGMP manufacturers and other contract research organizations from time to time, which are important to achieve the Company’s scientific and business objectives. These arrangements are typically work for hire on an as need basis, however, certain of these programs, if negatively impacted due to resource availability, disagreements, or for other reasons could lead to delays or inability to realize our research and commercial objectives. 
+ 
+In March 2021, the Company engaged CR2O, a contract research organization, to manage and support further preclinical and clinical development of DYAI-100. CR2O engaged Bio-Technology General (Israel) Ltd., (“BTG”), a cGMP subcontractor, to produce the DYAI-100 drug substance and perform certain other analytical tests required to release the final drug product. On February 3, 2022, BTG advised Dyadic that it wanted to finalize the terms of a commercial manufacturing agreement directly with Dyadic in order to continue to fulfill its obligation under the CR2O contract. The Company and BTG have been discussing the possible terms of a commercial manufacturing agreement that would be acceptable to both parties. Should these negotiations fail, the DYAI-100 project could be delayed.
+     8 
+
+  
+
+Our Research and Development (“R&D”) Programs
+ 
+(1) Internal Research Programs
+ 
+C1 Production Host Improvement Programs
+ 
+The Company has research and development agreements with VTT, other CROs and service and technical providers to further improve its C1-cell protein production platform to become an even more robust, versatile, and efficient therapeutic protein production platform. Ongoing projects include, among others: (i) improving the C1 genetic tools, (ii) further reducing the background protease(s) levels by identifying and deleting certain protease genes and/or modifying C1 fermentation processes, (iii) developing high expression C1 cell lines by precision engineering, and (iv) modifying the glycosylation pathway of C1 cells in order for C1 to express certain mAbs and other proteins with mammalian like glycosylation structures and to eliminate or modify certain unwanted glycan structures such as N and O-glycosylation.
+ 
+We continue to generate a growing amount of data that demonstrates different C1-produced proteins are properly folded and are biologically active:
+ 
+
+● | Developing antigens that were produced by C1 (e.g., SARS-CoV-2 RBD and hemagglutinin (HA)) were not only produced at high levels, but they were also importantly shown to be safe, effective, and protective in several animal trials and in challenge tests.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Developing the C1-cell protein production platform for expressing mAbs at relatively high levels and high quality (e.g., data from more than one large pharma collaborator demonstrated that the binding kinetics of mAbs produced from C1 are virtually indistinguishable from the binding kinetics of reference mAbs which were produced in CHO cells).
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Success in glycoengineering C1 cells to express mAbs that have human like glycan structures.
+--+---------------------------------------------------------------------------------------------
+
+
+● | Expressed a number of third-party monoclonal antibodies (mAbs) which were assayed by multiple third parties who reported that the neutralizing activity assay demonstrated great similarity between C1-produced mAb and CHO-produced mAbs.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Expressed a number of other types of therapeutic proteins, such as bi-specifics, tri-specifics and Fc-fusion proteins, at relative high yields compared to other production hosts and high quality (e.g., expressed a third party bi-specific antibody which was assayed by the third party in an in vitro cellular activity assay which indicated that dose response curves for the C1 expressed bi-specific antibody were very similar to the CHO expressed bi-specific antibody).
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Glycosylated Therapeutic Programs and Potential Nivolumab Commercialization Program
+ 
+The Company’s longer-term objective, which will require substantially more time and capital is to apply the C1-cell protein production platform for the large therapeutic glycoprotein market. We believe that the rapid advances being made in genomics and synthetic biology, make the C1 fungal cell line a promising candidate to further engineer glycosylation pathways: (i) to produce therapeutic proteins having human like glycoforms structures such as G0, G2, G0F, and G2F; (ii) to reduce or eliminate O-glycosylation; and (iii) to create potentially improved immunogenicity in the case of vaccines.
+ 
+The initial steps to develop C1 strains that produce mAbs with mammalian-like glycosylation are progressing at VTT. Based on research results we have to date, the Company believes that our C1-cell protein production platform has the potential to become a useful platform for the development and production of therapeutic glycoproteins with human-like or potentially even superior glycan structures. We believe that, if successful, the glycoengineering of C1 cells may help to position the C1 protein production platform to be an important production platform for developing and manufacturing glycosylated antibodies and other glycoproteins. These initial glycoengineered C1 cells have to date shown reduced gene expression levels when compared to the non-glycoengineered C1 cells. Several approaches are now being applied to reach our main goal – to develop cell line(s) that resemble the 3 main goals: (i) to produce therapeutic proteins having human-like glycoform structures at high levels, (ii) to produce therapeutic proteins at high level and (iii) to produce stable therapeutic proteins.
+ 
+We continue the development of Nivolumab (Opdivo®) as a biosimilar/biobetter immunotherapeutic biologic drug for human metastatic cancers, including melanoma, lung, and other cancers. The aim of this program is to express Nivolumab (mAb) with a glycoprotein structure like Nivolumab produced in CHO cells. So far, C1 produced Nivolumab has been produced with similar glycosylated structures and the development of high producing C1 cell line that expresses a lower cost biosimilar/Biobetter Nivolumab as part of its glycoengineering program for glycoprotein Immunoglobulin G (IgG) monoclonal antibodies is ongoing. This project has proved the concept that C1-cell protein production platform can be applied to several very high value therapeutic or preventative monoclonal antibodies. 
+ 
+    9 
+
+  
+
+(2) Animal Health Programs
+ 
+ZAPI Biologic Vaccines Program
+ 
+We have completed our participation in the €20 million Zoonosis Anticipation Preparedness Initiative (“ZAPI”) program. ZAPI (www.zapi-imi.eu) is a five-year research and development project funded as part of IMI EU program (Zoonoses Anticipation and Preparedness Initiative (ZAPI project; IMI Grant Agreement n°115760)), with the assistance and partial financial support of IMI and the European Commission, and in-kind contributions from EFPIA partners. This project aims to develop a suitable platform for the rapid development and production of vaccines and protocols to fast-track registration of product developed to combat pandemic Zoonotic diseases that have the potential to affect human and animal populations. The Company’s C1 recombinant protein production platform has been selected by ZAPI as a production host of antigens for the SBV and RVFV, and ZAPI has expanded its program with the Company and provided additional funding in 2019 and 2021, respectively. The SBV antigen from C1 was produced at approximately 300 times greater yields than the SBV antigen from baculovirus and was more stable. Additionally, the C1 SBV antigen was shown to be safe and very effective (full protection) in protecting cattle, sheep and mice from the SBV. Based on these results, additional fully funded animal trials are continuing in 2021 with C1 expressed antigens for SBV and RVFV and to generate additional safety and efficacy data.
+ 
+ZAPI brought together experts in human and animal health to create new platforms and technologies that will facilitate a fast, coordinated, and practical response to new pandemic threats as soon as they emerge. The Company’s C1 recombinant protein production platform was selected by ZAPI as a production host of antigens for the Schmallenberg virus (“SBV”) and Rift Valley Fever virus (“RVFV”). The C1 expressed SBV antigen was produced in less time and at approximately 300 times greater yield than the SBV antigen expressed from insect (baculovirus) cells and was more stable. Additionally, the C1 SBV antigen was shown to be safe and effective to provide full protection to cattle, sheep and mice. Based on these results, ZAPI provided the Company with additional funding in 2021 to produce both the SBV and RVFV antigens in order to perform expanded animal trials with the C1 expressed antigens which is expected to generate additional safety and efficacy data. In the first quarter of 2021, ZAPI expanded its program with Dyadic by providing additional funding to C1 research and development efforts as well as to conduct additional animal studies using the SBV and RVFV antigens produced from C1. There was a ZAPI Stakeholders Final Conference held on February 4-5, 2021. 
+ 
+Phibro Sublicense Agreement 
+ 
+On February 10, 2022, we entered into an exclusive license agreement with Phibro Animal Health ("Phibro"), a leading global diversified animal health and mineral nutrition company. Under the terms of the agreement, Dyadic granted Phibro an exclusive license for its proprietary C1-cell protein production platform to produce specific targeted antigens for development and commercialization of a poultry vaccine for a Phibro targeted disease. We are continuing development work to find a vaccine candidate using Dyadic's C1-cells and expect to continue working on developing additional animal vaccine candidates to be produced from Dyadic's C1-cells. This agreement follows the successful proof of concept development work, including animal trials previously completed.
+Novovet and Luina Bio
+ 
+On April 26, 2019, the Company entered into a sub-license agreement (the “Luina Bio Sub-License Agreement”) with Luina Bio Pty Ltd. (“Luina Bio”) and Novovet Pty Ltd (“Novovet”). Under the terms of the Luina Bio Sub-License Agreement, the Company has granted to Novovet, subject to the terms of the license agreement entered into between the Company and Danisco US, Inc. on December 31, 2015, a worldwide sub-license to certain patent rights and know-how related to Dyadic’s proprietary C1-cell protein production platform for the exclusive and sole purpose of commercializing certain targeted antigen and biological products for the prevention and treatment of various ailments for companion animals.
+ 
+In consideration of the license granted pursuant to the Luina Bio Sub-License Agreement, Dyadic received a 20% equity interest in Novovet (“Novovet Up-Front Consideration”) in accordance with the terms of Novovet’s Shareholder Agreement and will receive a percentage of royalties on future net sales and non-sales revenue, if any, which incorporates Dyadic’s proprietary C1-cell protein production platform.
+ 
+To date Novovet has not raised the capital required to move this opportunity forward, and therefore, the Company has not transferred its C1-cell protein production platform to Novovet.
+ 
+On February 15, 2022, the Company sent a letter to Luina Bio Pty Ltd and Novovet Pty Ltd, indicating its intention to terminate the Luina Bio Sub-License Agreement.
+ 
+Other Opportunities
+ 
+We have also received funding from other top animal health companies to evaluate the use of the C1-cell protein production platform for expression and production of vaccines and therapeutic proteins for companion and farm animal diseases.
+ 
+
+    10 
+
+  
+
+(3) Human Health Programs
+ 
+COVID-19 DYAI-100 Vaccine Candidate
+ 
+As a result of the positive results generated from the use of the Company’s C1-cell protein production platform in the ZAPI project, in the Company expanded its in-house and third-party vaccine-based antigen research and development efforts. The Company has invested more than $5.3 million in the development of its proprietary DYAI-100 COVID-19 vaccine candidate to date. The DYAI-100 vaccine candidate has demonstrated excellent results in several pre-clinical animal studies. In particular, the Company is relying on the preclinical animal studies conducted by the Israel Institute for Biological Research (IIBR) who were using the SARS-CoV-2 RBD antigen from the Company’s RBD C1 strain. The Company is also relying on the toxicology study which concluded that the C1 SARS-CoV-2-RBD vaccine was not associated with major systemic adverse effects, and it is considered safe following four repeated vaccination sessions by IM injections at an interval of 1 one week to male and female NZW rabbits. We noted that germinal centers with increased lymphocytic cellularity (i.e., follicular hyperplasia) seen in the regional lymph nodes were sustained throughout the recovery phase, in addition to the detection of SARS-CoV-2 specific IgG antibodies in the sera of rabbits in the recovery phase, and it demonstrated a long-lasting immunogenic response against RBD.
+ 
+The Company is expected to advance toward an anticipated first-in-human Phase I clinical trial of its proprietary DYAI-100 vaccine candidate in 2022, however, there is no assurance that the Company will be able to carry out this trial. The main goal of the DYAI-100 Phase I clinical trial is to demonstrate that a protein produced from the Company’s proprietary and patented C1-cells can be safely used in humans which we anticipate will help to accelerate the C1-cell protein production platform’s adoption, use and commercialization and to serve as a proof of concept for the development of potential next generation multivariant COVID-19 vaccine candidates. 
+ 
+Current data suggests that many of the so-called first-generation vaccines remain highly effective against existing several of the variants of concern, however the Omicron variant and sub variants being potential exceptions – particularly against severe disease. However, it’s possible a new variant will emerge that may overcome the current vaccines-induced protection to some degree, with the emergence of the Omicron variant only highlighting this risk. The C1-cell protein production platform can effectively support the global immunization strategies that are needed against emerging SARS-CoV-2 variant of concerns. The Company can rapidly insert RBD variant’s genes into the same C1-cell line (same genotype) in approximately 60 days. Thus far, in addition to the original Wuhan (SARS-CoV-2), the following variants have been successfully produced; Alpha (UK), Beta (SA) Gamma (BR) Delta (Ind) and Omicron (B.1.1.529). One of the commercial Dyadic goals is to demonstrate effective capability to rapidly produce different combinations of multivalent COVID-19 vaccines, which could protect against several variants of concern at once.  
+ 
+The Company is evaluating a number of other approaches where its proprietary and patented C1-cell protein production platform can be used to help develop and manufacture COVID-19 vaccines that have the potential to provide greater efficacy and protection from emerging SARS-CoV-2 variants, including multivalent and nanoparticle vaccine designs.
+ 
+Janssen Agreement
+ 
+On December 16, 2021, the Company entered into a Research, License, and Collaboration Agreement (the “Janssen Agreement”) for the manufacture of therapeutic protein candidates using its C1-cell protein production platform with Janssen Biotech, Inc., one of the Janssen Pharmaceutical Companies of Johnson & Johnson (“Janssen”). Pursuant to the terms of the Janssen Agreement:
+
+(i) | Janssen will pay Dyadic an upfront payment of $500,000 for a non-exclusive license to utilize the C1-cell protein production platform to develop C1 production cell lines for the manufacturing of Janssen’s therapeutic protein candidates against several biologic targets,
+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(ii) | Janssen will provide R&D funding up to €1.6 million to develop and assess C1 production cell lines for its product candidates,
+-----+-------------------------------------------------------------------------------------------------------------------------------
+
+
+(iii) | Janssen will have an option to pay a mid-seven figure payment for an exclusive license from Dyadic to use the C1-cell protein production platform for the manufacturing of therapeutic proteins directed to one specific target, and upon exercise, Janssen would have the right to add additional non-exclusive targets to the collaboration and Dyadic would complete the technology transfer of the C1-cell protein production platform, fully enabling Janssen to internally develop C1 cell lines against licensed targets, and upon successful completion of the technology transfer, Dyadic is eligible to receive a milestone payment in the low seven figures,
+------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(iv) | for each product candidate, Dyadic could receive development and regulatory milestones in the mid-seven figures, and
+-----+---------------------------------------------------------------------------------------------------------------------
+
+
+(v) | Dyadic could receive aggregate commercial milestone payments in the low nine figures per product, subject to a limit on the number of such products, with the amount depending on the cumulative amount of active pharmaceutical ingredient produced by Janssen for each product manufactured with Dyadic’s C1-cell protein production platform.
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Janssen may terminate the Janssen Agreement in its entirety, or on a country-by-country or other jurisdiction-by-other jurisdiction basis, for any or no reason, upon 90 days’ prior written notice to Dyadic.
+ 
+IDBiologics, Inc.
+ 
+On July 8, 2020, the Company entered into a Common Stock Purchase Agreement (the “IDBiologics Agreement”) with IDBiologics, Inc (“IDBiologics”). IDBiologics is a private biotechnology company focused on the development of human monoclonal antibodies for the treatment and prevention of serious infectious diseases. The Company was founded in 2017 and seeded by Vanderbilt University Medical Center in response to the repeated threats of epidemics around the world, including Ebola in West Africa and Zika in the Americas. IDBiologics is developing a portfolio of monoclonal antibodies against SARS-CoV-2, influenza and Zika viruses.
+ 
+    11 
+
+  
+
+Pursuant to the term of the IDBiologics Agreement, on July 8, 2021, Dyadic received 129,661 shares of IDBiologics’ common stock, which represent 0.37% of IDBiologics’ outstanding equity, upon the completion of a feasibility study performed by Dyadic. Dyadic provided services including the use of Dyadic’s C1-cell protein production platform to express a SARS-CoV-2 monoclonal antibody which IDBiologics licensed from the Vanderbilt Vaccine Center.
+ 
+On April 25, 2021, the Company entered into a project agreement to provide additional research services to IDBiologics.
+ 
+Alphazyme Sub-License 
+ 
+On May 5, 2019, the Company entered into a sub-license agreement (the “Alphazyme Sub-License Agreement”) with Alphazyme, LLC (“Alphazyme”). Under the terms of the Alphazyme Sub-License Agreement, the Company has granted to Alphazyme, subject to the terms of the license agreement entered into between the Company and Danisco US, Inc. on December 31, 2015, a sub-license to certain patent rights and know-how related to Dyadic’s proprietary C1-cell protein production platform for the purpose of commercializing certain pharmaceutical products that are used as reagents to catalyze a chemical reaction to detect, measure, or be used as a process intermediate to produce a nucleic acid as a therapeutic or diagnostic agent.
+ 
+On June 24, 2020, the Company entered into an Amended and Restated Non-Exclusive Sub-License Agreement (the “Amended Sub-License Agreement”) with Alphazyme. Pursuant to the Amended Sub-License Agreement and in consideration of Dyadic’s transfer of its C1-cell protein production platform, Alphazyme issued 2.50% of the Class A shares of Alphazyme to Dyadic, and Dyadic became a party to the Alphazyme Limited Liability Company Agreement pursuant to which the Company has agreed to certain customary rights, covenants, and obligations. In addition, and subject to achieving certain milestones, Alphazyme is obligated to pay a potential milestone payment and royalties, based on net sales, if any, which incorporate Dyadic’s proprietary C1-cell protein production platform. 
+ 
+On December 1, 2020, the Company entered into an Amended and Restated Limited Liability Company Agreement with Alphazyme (the “Amended Alphazyme LLC Agreement”). Under the Amended Alphazyme LLC Agreement, Alphazyme obtained an additional capital contribution and Dyadic’s ownership was diluted to 1.99%.
+ 
+Other Third Parties Collaborations 
+ 
+
+● | NIIMBL Coronavirus Grant – Dyadic received 1 of 32 project grants awarded by the National Institute for Innovation in Manufacturing Biopharmaceuticals ("NIIMBL") funded through the White House's American Rescue Plan ("ARP"). Under the NIIMBL grant, the Company will receive up to $690,000 in funding to engineer the Company's proprietary and patented C1-cell thermophilic fungal (Thermothelomyces heterothallica) protein production platform to produce two different coronavirus antibodies.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | C1 COVID-19 vaccine collaborations
+--+-----------------------------------
+
+
+o | South Africa, Rubic Consortium – a collaboration to develop end-to-end solutions for vaccine discovery, development, and manufacture for the African market.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+■ | Tech transfer of C1-cell protein production platform was completed. Rubic has begun engineering and growing C1-cells to prepare for the development of affordable vaccines and drugs for the African continent.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+■ | Preparations are ongoing for potential clinical trial application (CTA) submission to South African Health Products Regulatory Authority (SAPHRA) of C1 produced DYAI-100 COVID-19 vaccine candidate.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | India, Syngene – is a global contract development and manufacturing organization (CDMO). The initial collaboration was to explore the development of a COVID-19 vaccine, and for Syngene to further evaluate the potential of developing a differentiated biomanufacturing platform for vaccines, antibodies and other therapeutic proteins based on the C1-cell protein production platform. Collaboration with Syngene continues to progress.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Sorrento Therapeutics – Due to a disagreement between the parties concerning the timing, and terms and conditions, for the entry into a definitive license agreement, both parties mutually agreed not to proceed. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+o | Epygen – In 2020, the Company entered into a non-exclusive technology usage agreement with Epygen Biotech of India, who plans to conduct clinical trials in India using DYAI-100, or one or more of the COVID-19 variant vaccines. Epygen recently procured the approval for funding from the government of India to move towards vaccine production technology across early-stage Phase 1 and Phase 2 human clinical trials. In order for Epygen to receive the government funding, it must contribute approximately 25% of the total funding from other sources.
+
+ 
+
+
+
+  12 
+
+
+
+
+
+● | University of Oslo – During 2021, Dyadic expanded its influenza vaccine collaboration with the University of Oslo.
+--+-------------------------------------------------------------------------------------------------------------------
+
+
+o | Mice vaccinated with C1 antigen combined with an adjuvant (AS03) challenged with a lethal dose of the homologous influenza A/H1N1 showed no clinical signs, no body weight loss, and were fully protected.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Other mice trials are ongoing and scheduled with C1 produced antigens for influenza and SARS-CoV-2.
+--+----------------------------------------------------------------------------------------------------
+
+
+● | Toxicology Study - Dyadic completed a successful toxicology study of its DYAI-100 COVID-19 vaccine candidate. A manuscript of the results showing safety and persistence was peer reviewed and is awaiting publication in the scientific journal “Toxicologic Pathology”.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Peer Reviewed Journals - Manuscripts were published in three (3) peer reviewed scientific journals “Vaccines”, “Analytical and Bioanalytical Chemistry” and “Vaccine” relating to antigens produced from C1-cells showing safety and efficacy in animal models against influenza and SARS-CoV-2.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+(4) Other Markets
+ 
+Dyadic introduced a novel method to produce metabolites, such as synthetic cannabinoids and precursors utilizing the C1-cell protein production platform. Two patents are pending to potentially expand Dyadic’s portfolio of offerings. The Company is exploring new segments and leveraging existing expertise within industrial enzymes to which Dyadic’s proprietary technologies may be applied.
+ 
+The Company believes that certain attributes of C1, together with its continuing platform research and development programs, has the potential to create attractive research, licensing, partnering/collaboration and other revenue and funding opportunities in the animal and human biopharmaceutical industries and other markets. The third-party funded research projects discussed above, and others that we are seeking, will defray some of our research expenses as we continue to develop the full potential of our C1-cell protein production platform. We will continue to pursue research collaboration opportunities to potentially commercialize C1-based products.
+ 
+Employees and Human Capital
+ 
+As of December 31, 2021, we had 7 employees located in the United States, and 4 key consultants located in the United States and Europe. None of our employees are represented by a labor union, and we consider our employee relations to be good. 
+ 
+Dyadic appointed Joseph Hazelton as the Chief Business Officer in November of 2021.  Mr. Hazelton was brought on to lead Dyadic’s transition from research and development activities into commercialization endeavors. With over 20 years in the pharmaceutical industry, Mr. Hazelton brings extensive commercial, operational, and leadership experience to expand Dyadic’s business development opportunities for the C1-cell protein production platform across the company’s core verticals of Human Health, Animal Health, and Industrial Enzymes.
+ 
+The Company believes that its success depends on the ability to attract, develop, retain and incentivize our existing and new employees, consultants, and key personnel. It also believes that the skills, experience and industry knowledge of its key personnel significantly benefits its operations and performance. The principal purposes of equity and cash incentive plans are to attract, retain and reward personnel through the granting of stock-based and cash-based compensation awards, in order to increase shareholder value and the success of our company by motivating such individuals to perform to the best of their abilities and achieve our objectives. 
+ 
+Employee health and safety in the workplace is one of the Company’s core values. The COVID-19 pandemic has underscored the importance of keeping employees safe and healthy. In response to the COVID-19 pandemic, the Company has taken actions aligned with the World Health Organization and the Centers for Disease Control and Prevention in an effort to protect the Company’s workforce so they can more safely and effectively perform their work. These actions include shutting down its headquarters for some months during 2020, wearing facemasks in common areas in the office, and allowing employees to work from home. 
+ 
+Employee levels are managed to align with the pace of business and management believes it has sufficient human capital, along with the third-party research organizations with who we have collaboration agreements, to operate its business successfully.
+ 
+Climate Change 
+ 
+We believe that neither climate change, nor governmental regulations related to climate change, have had, or are expected to have, any material effect on our operations. 
+Corporate Information 
+ 
+Founded in 1979 by Mark A. Emalfarb, our Chief Executive Officer, Dyadic has focused on the development of C1-cell protein production platform since 1992, refining and optimizing the C1 to become a successful gene expression and protein production system. 
+ 
+Currently, Dyadic is a global biotechnology company with operations in the United States and a satellite office in the Netherlands and it utilizes a number of third-party consultants and research organizations to carry out the Company’s activities. Dyadic was incorporated in Delaware in September 2002. Our principal corporate offices are located at 140 Intracoastal Pointe Drive, Suite 404, Jupiter, FL 33477; telephone number (561) 743-8333; website www.dyadic.com. 
+ 
+Dyadic is required to file annual, quarterly and current reports, proxy statements and other information with the U.S. Securities and Exchange Commission (“SEC”). Investors may read and copy any document that Dyadic files, including this Annual Report on Form 10-K, at the SEC’s Public Reference Room at 100 F Street, N.E., Room 1580, Washington, DC 20549. Investors may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. In addition, the SEC maintains an Internet site at www.sec.gov that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC, from which investors can electronically access Dyadic’s SEC filings. 
+ 
+We maintain a website at www.dyadic.com. From time to time, the Company may use its website as a channel of distribution of material Company information, and financial and other material information regarding the Company is routinely posted on and accessible at http://dyadic.com/investors. We make available free of charge on or through our website our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, reports filed pursuant to Section 16 and any amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), as soon as reasonably practicable after we electronically file or furnish such materials to the SEC. In addition, we have posted the charters for our Audit Committee, Compensation Committee, and Nominating and Governance Committee, as well as our Board Governance Principles and Code of Conduct, on our website under the heading “Investors”, and sub-heading “Corporate Governance.”
+ 
+    13 
+
+  
+
+

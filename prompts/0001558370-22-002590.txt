@@ -1,0 +1,210 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business
+--------+---------
+
+​
+Overview
+​
+Netlist provides high-performance solid state drives and modular memory solutions to enterprise customers in diverse industries. Our NVMe SSDs in various capacities and form factors and the line of custom and specialty memory products bring industry-leading performance to server and storage appliance customers and cloud service providers. We license our portfolio of intellectual property including patents, in server memory, hybrid memory and storage class memory, to companies that implement our technology. 
+​
+Impact of COVID-19 on our Business
+​
+The extent of the continuing impact of the COVID-19 pandemic on our operational and financial performance is uncertain and will depend on many factors outside our control, including the timing, extent, trajectory and duration of the pandemic, the emergence of new variants, the development, availability, distribution and effectiveness of vaccines and treatments, the imposition of protective public safety measures, and the impact of the pandemic on the global economy. We continue to monitor the situation and may take further actions altering our business operations that we determine are in the best interests of our employees, customers, suppliers, and stakeholders, or as required by federal, state, or local authorities. As COVID-19 and its impacts are unprecedented and ever evolving, future events and effects related to the pandemic cannot be determined with precision and actual results could significantly differ from estimates or forecasts. 
+​
+Our Industry
+​
+The global high-performance memory module market is driven by increasing demand from data center and enterprise storage applications for improved input/output performance, lower latency and data retention capabilities in the event of unexpected system failure. The proliferation of mobile devices, social media platforms, cognitive/artificial intelligence systems and cloud-based software applications is resulting in the creation of unprecedented amounts of unstructured data. In order to manage and analyze this data, we believe new computing and memory architectures need to be developed to satisfy the needs in the industry.
+​
+Technical challenges arising from the production of dynamic random access memory integrated circuits (“DRAM ICs” or “DRAM”) using leading edge semiconductor manufacturing processes is limiting the material's long-term viability as the high-speed memory of choice in demanding computing environments. Conversely, NAND flash memory (“NAND flash”), while characterized by lower access speeds, is scaling down in cost and scaling up in density at a significantly better rate than DRAM. This has led the industry to explore alternative computer architectures and new memory materials capable of bridging DRAM's superior access speed with NAND flash's lower cost and higher densities. We expect memory subsystems relying on intelligent controller technology to leverage NAND flash will most effectively address the industry's growing need for high-speed data management and analytics.
+​
+Product Technologies
+​
+Our portfolio of proprietary technologies and design techniques includes:
+​
+Distributed Buffer Architecture
+​
+We invented the distributed buffer architecture that enables the buffering of data signals along the bottom edge of the memory module using multiple data buffer devices distributed between the edge connector and the DRAM. The result is shorter data paths, improved signal integrity, and reduced latency compared to the industry-standard design for DDR3 load-reduced dual in-line memory module ("LRDIMM"). The memory industry has widely adopted our 
+
+3
+
+
+
+distributed architecture for DDR4 LRDIMM. Our HyperCloud product was our first LRDIMM product built on this distributed buffer architecture.
+​
+Design Expertise
+​
+We have designed special algorithms that can be implemented in stand-alone integrated circuits or integrated into other functional blocks in application-specific integrated circuits (“ASICs”). We utilize these algorithms in our HybriDIMM product to incorporate load reduction functionality. We also incorporate these algorithms in our NVvault product line, which is also known in the industry as NVDIMM-N.
+​
+Proprietary PCB Designs
+​
+We utilize advanced techniques to optimize electronic signal strength and integrity within a printed circuit board (“PCB”). These techniques include the use of 10-layer or 12-layer boards, matching conductive trace lengths, a minimized number of conductive connectors, or vias, and precise load balancing to, among other benefits, help reduce noise and crosstalk between adjacent traces. In addition, our proprietary designs for the precise placement of intra-substrate components allow us to assemble memory subsystems with significantly smaller physical size, enabling original equipment manufacturers (“OEMs”) to develop products with smaller footprints for their customers.
+​
+Very Low Profile Designs
+​
+We believe we were the first company to create memory subsystems in a form factor of less than one inch in height. Our innovative very low profile (“VLP”) DIMMs provide developers of server blades, storage bridge bay applications, telecommunications servers, switches and routers with a wide range of high performance memory options where efficient use of motherboard space is critical. Our technology has allowed us to decrease the system board space required for memory, and improve thermal performance and operating speeds, by enabling our customers to use alternative methods of component layout.
+​
+Thermal Management Designs
+​
+We design our memory subsystems to ensure effective heat dissipation. We use thermal simulation and data to obtain thermal profiles of the memory subsystem during the design phase, allowing us to rearrange components to enhance thermal characteristics and, if necessary, replace components that do not meet specifications. We also develop and use proprietary heat spreaders to enhance the thermal management characteristics of our memory subsystems.
+​
+Products
+​
+Our commercially available memory subsystem products and other products that we sell include: 
+​
+Component and Other Product Resales
+​
+Due to our relationships with memory channel customers, in addition to our own products, we resell certain component products that we purchase for the purpose of resale. We have purchased certain of these products under the terms of a product supply agreement with SK hynix, Inc. (“SK hynix”). We have also sourced resale products from other suppliers. Additionally, we sell excess component inventory to distributors and other users of memory integrated circuits. For information regarding our concentrations and customers, see Note 10 “Major Customers, Suppliers and Products” of the Notes to Consolidated Financial Statements in Part II, Item 8 of this Form 10-K. 
+​
+Storage Class Memory
+​
+Using an industry standard DDR4 LRDIMM interface, we believe HybriDIMM is the industry’s first storage class memory product capable of operating in existing Intel x86 servers without BIOS and hardware changes. HybriDIMM unifies DRAM and NAND flash in a plug-and-play module, delivering terabyte storage capacities operating at DRAM-like nanosecond memory speeds. HybriDIMM’s architecture combines an on-DIMM co-processor 
+
+4
+
+
+
+with our software-defined data management algorithm. HybriDIMM’s feature set encompasses the non-volatile dual in-line memory modules (“NVDIMM”) functionalities adopted by the industry. HybriDIMM dramatically improves application performance by reducing data access latency by up to 1,000 times versus the fastest existing storage solution known to us.
+​
+Nonvolatile Memory
+​
+Our Vault product line enables customers to accelerate data running through their servers and storage and reliably protect enterprise-level cache, metadata and log data by providing near instantaneous recovery in the event of a system failure or power outage. Our nonvolatile memory offering includes:
+​
+NVvault DDR4 NVDIMM (“NV4”).  NV4 is an NVDIMM-N that provides data acceleration and protection in the Joint Electron Device Engineering Council (“JEDEC”) standard DDR4 interface. It is designed to be integrated into industry standard server or storage solutions. 
+​
+Specialty DIMMs and Embedded Flash
+​
+A small portion of our net product sales is from OEM sales of specialty memory modules and flash-based products, the majority of which are utilized in data center and industrial applications. When developing custom modules for an OEM system launch, we engage with our OEM customers from the earliest stages of new product development definition, providing us valuable insight into their full range of system architecture and performance requirements. This close collaboration has also allowed us to develop a significant level of systems expertise. We leverage a portfolio of proprietary technologies and design techniques, including efficient planar design, alternative packaging techniques and custom semiconductor logic, to deliver memory subsystems with persistence, high density, small form factor, high signal integrity, attractive thermal characteristics, reduced power consumption and low cost per bit.
+
+Customers
+​
+We resell certain component products that we purchase for the purpose of resale to certain end-customers that are not reached in the distribution models of the component manufacturers, including storage customers, appliance customers, system builders and cloud and datacenter customers. We also market and sell our memory subsystem products, primarily to OEMs in the server, high-performance computing and communications markets.
+​
+Our target markets are characterized by a limited number of large companies, and consolidation in one or more of our target markets may further increase this concentration. As a result, sales to small numbers of customers have historically represented a substantial portion of our net product sales. Additionally, the composition of major customers and their respective contributions to our net product sales have fluctuated and will likely continue to fluctuate from period to period as our existing and prospective customers progress through the life cycle of the products they produce and sell and experience resulting fluctuations in their product demand. For further information about our customer concentrations, see Note 10 “Major Customers, Suppliers and Products” to our consolidated financial statements in Part II, Item 8 of this Form 10-K. We do not consider our businesses to be seasonal to any significant degree.
+​
+We do not have long-term agreements with any of our customers. Instead, our product sales are made primarily pursuant to stand-alone purchase orders that we often receive no more than two weeks in advance of the desired delivery date and that may be rescheduled or cancelled on relatively short notice, which reduces our backlog of firm orders. Customers are generally allowed limited rights of return for up to 30 days, except for sales of excess inventories, which contain no right-of-return privileges. 
+​
+Additionally, we offer warranties on our memory subsystems generally ranging from one to three years, depending on the product and negotiated terms of purchase orders from our customers. These warranties require us to repair or replace defective products returned to us during such warranty period at no cost to the customer. 
+​
+
+5
+
+
+
+Sales and Marketing
+​
+We primarily market and sell our products and the component products we resell through a direct sales force and a network of independent sales representatives. Our sales activities focus primarily on developing strong relationships at the technical, marketing and executive management levels within existing and prospective customers in our target markets.
+​
+We utilize well-trained, highly technical program management teams to drive new product development and quickly respond to our customers' needs and expectations. Our program management teams provide quick response times and act as a single point-of-contact for customer’s issues that may arise during the sales process. Additionally, they help us address the long-term business and technology goals of our customers. We employ a team approach to business development whereby our sales team and independent representatives identify, qualify and prioritize customer prospects through offices in a number of locations worldwide.
+​
+Resources
+​
+Manufacturing
+​
+We manufacture memory subsystem products at our facility in the People’s Republic of China (“PRC”), which is certified in International Organization for Standardization (“ISO”) 9001:2008 Quality Management Systems and ISO 14001:2004 Environmental Management Standards. Our in-house manufacturing function, combined with our engineering and design capabilities, allows us to assemble our memory subsystems quickly and in high volume. Our manufacturing facility is capable of surface mount assembly, subsystem testing, system-level burn-in testing, programming, marking, labeling and packaging. Manufacturing cycle times for our memory subsystem products, from receipt of order, are typically one week or less and in some cases as short as two days.
+​
+We schedule production based on purchase order commitments and anticipated orders. We release raw materials to the manufacturing floor by means of an online shop floor control system, which allows for internal quality analysis, direct access to inventory information and production floor material tracking. We have a flexible manufacturing workforce, which allows us to manage unforecasted demand. 
+​
+We perform ongoing reliability testing on our memory subsystems and share the results of that testing with our customers. In addition, we have implemented procedures that require all of our memory subsystems to undergo functional and system burn-in testing prior to delivery to a customer. We also supplement our test capabilities with advanced imaging technology to inspect the quality of our assemblies.
+​
+Supply Chain
+​
+We acquire components and materials, such as field-programmable gate arrays (“FPGAs”), ASICs, DRAM ICs and NAND flash, directly from integrated circuit manufacturers and assemble them into our finished subsystem products. We have developed supplier relationships with several manufacturers of these component products, and we typically qualify our memory subsystem products with our customers using multiple component manufacturers. However, our actual purchases of component products, both for integration into our products and for resale, are concentrated in a small number of suppliers. Various factors could impact the availability of materials or components, and shortages or increases in lead times have occurred in the past, are currently occurring with respect to some materials and components, and may occur from time to time in the future.
+​
+We order component products based primarily on forecasts of customer demand, which subjects us to certain inventory risks in the event our forecasts are not accurate. In order to mitigate these inventory risks, we seek to resell to distributors and other users of memory integrated circuits excess quantities of the component inventories we have purchased for integration in our memory subsystem products. Our quality assurance engineers work with our suppliers to ensure that the raw materials we receive meet our quality standards. These engineers also perform on-site supplier factory audits and use our internal test and inspection systems to verify that purchased components and materials meet 
+
+6
+
+
+
+our specifications. Our supplier quality program and incoming material quality control program are important aspects of our manufacturing and sale processes.
+​
+Patents
+​
+As of January 1, 2022, we had 99 active U.S. and foreign patents and 31 pending U.S and foreign patent applications. Our patents have various terms expiring between 2022 and 2037. Our issued patents cover various aspects of our innovations and include various claim scopes and, as a result, we believe our business is not materially dependent on any one claim in any of our existing patents or pending patent applications. 
+​
+Competition
+​
+Our products are primarily targeted to OEMs in the server, high-performance computing and communications markets. In addition, we resell certain component products to storage customers, appliance customers, system builders and cloud and datacenter customers. These markets are intensely competitive, as numerous companies vie for business opportunities at a limited number of large OEMs and other customers. We face competition from DRAM suppliers, memory module providers and logic suppliers for many of our products. Additionally, if and to the extent we enter new markets or pursue licensing arrangements to monetize our technologies and intellectual property portfolio, we may face competition from a large number of competitors that produce solutions utilizing similar or competing technologies.
+​
+Some of our customers and suppliers may have proprietary products or technologies that are competitive with our products or the components we resell to them, or could develop internal solutions or enter into strategic relationships with, or acquire, other high-density memory module or component providers. Any of these actions could reduce our customers’ demand for our products or the component products we resell. Additionally, some of our significant suppliers could choose to sell component products to customers directly, which would adversely affect our ability to resell these products, or choose to manufacture competitive memory subsystem products themselves or reduce our supply of essential components of our products, which could adversely affect our ability to manufacture and sell our memory subsystems.
+​
+We believe the principal competitive factors in the selection of memory subsystems or the component products we resell by existing and potential future customers are:
+​
+
+● | price;
+--+-------
+
+
+● | timeliness of new value-add product introductions;
+--+---------------------------------------------------
+
+
+● | development of advanced technologies;
+--+--------------------------------------
+
+
+● | fulfillment capability and flexibility;
+--+----------------------------------------
+
+
+● | understanding of system and business requirements;
+--+---------------------------------------------------
+
+
+● | design characteristics and performance;
+--+----------------------------------------
+
+
+● | quality and reliability;
+--+-------------------------
+
+
+● | track record of volume delivery; and
+--+-------------------------------------
+
+
+● | credibility with the customer
+--+------------------------------
+
+​
+We believe we compete favorably with respect to these factors. However, our target markets could disagree, or circumstances could change with respect to one or more of these competitive factors. Further, we believe our ability to compete in our current target markets and potential future markets will depend in part on our ability to successfully and timely develop, introduce and sell at attractive prices new and enhanced products or technologies and otherwise respond to changing market requirements, which we may not be able to do faster and better than our competitors. Moreover, many of our competitors have substantially greater financial, technical, marketing, distribution and other resources, broader product lines, lower cost structures, greater brand recognition, more influence on industry standards, more extensive or established patent portfolios and longer standing relationships with customers and suppliers. We may not be able to compete effectively against any of these organizations. If we are unable to compete effectively, then our market position and prospects could deteriorate and our revenues could decline.
+
+7
+
+
+
+​
+Research and Development
+​
+Our industry is characterized by rapid technological change, evolving industry standards and rapid product obsolescence. As a result, continuous development of new technology, processes and product innovation is necessary in order to be successful. We believe the continued and timely development of new products and improvement of existing products are critical to our business and prospects for growth.
+​
+To this end, we have assembled a team of engineers with expertise in computer architectures, system memory, subsystem design and memory software, ASIC design, as well as high density PCB design and thermal management. Our engineers also focus on developing and incorporating new techniques, methodologies and processes for testing and manufacturing our products, and also collaborate with our customers to provide us with insights into and expertise in systems architecture, power budget, performance requirements, operating environment (such as air flow and operating temperature) and any mechanical constraints. 
+​
+We have invested significant resources in our product research and development efforts. Our customers typically do not separately compensate us for design and engineering work involved in developing application-specific products for them.
+​
+Human Capital
+​
+As of January 1, 2022, we had approximately 120 full-time and part-time employees globally. Our future success will depend in part on our ability to attract, retain and motivate highly qualified technical, managerial and other personnel for whom competition is intense. We are not party to any collective bargaining agreements with any of our employees. We have never experienced a work stoppage, and we believe our employee relations are good.
+​
+We promote an atmosphere of mutual respect and recognize that diversity creates differences in perspective that strengthens our business. It is our practice to hire, motivate and retain people solely on the basis of ability, experience, training and future potential. We invest in our workforce by offering competitive salaries, incentives, and benefits. Our incentives are meritocracy-based and we have a strong pay for performance culture that we believe drives superior results.
+​
+We offer our employees opportunities to advance their careers at Netlist. We are focused on leadership progression and encourage our employees take advantage of new opportunities.
+​
+Government Regulations
+​
+We are subject to various and frequently changing U.S. federal, state and local and foreign laws and regulations relating to the protection of the environment, including laws governing the discharge of pollutants into the air and water, the management and disposal of hazardous substances and wastes and the clean-up of contaminated sites. In particular, some of our manufacturing processes may require us to handle and dispose of hazardous materials from time to time. For example, in the past our manufacturing operations have used lead-based solder in the assembly of our products. Today, we use lead-free soldering technologies in our manufacturing processes, as this is required for products entering the European Union. We could incur substantial costs, including clean-up costs, civil or criminal fines or sanctions and third-party claims for property damage or personal injury, as a result of violations of or noncompliance with these and other environmental laws and regulations. Although we have not incurred significant costs to date to comply with these laws and regulations, new laws or changes to current laws and regulations to make them more stringent could require us to incur significant costs to remain in compliance.
+​
+We also may be subject to a variety of laws and regulations relating to other matters, including workplace health and safety, labor and employment, foreign business practices (including the U.S. Foreign Corrupt Practices Act and applicable foreign anti-bribery laws), data protection, public reporting and taxation, among others. It is difficult and costly to manage the requirements of every authority having jurisdiction over our various activities and to comply with their varying standards. Any changes to existing regulations or adoption of new regulations may result in significant 
+
+8
+
+
+
+additional expense to us or our customers. Further, our failure to comply with any applicable laws and regulations may result in a variety of administrative, civil and criminal enforcement measures, including monetary penalties or imposition of sanctions or other corrective requirements.
+​
+Available Information
+​
+Information about us is available at our website, www.netlist.com. Our filings are available free of charge on our website as soon as reasonably practicable after they are electronically filed with, or furnished to the Securities and Exchange Commission (“SEC”), including our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy and information statements and amendments to these reports or statements. All SEC filings are also available at the SEC’s website at www.sec.gov. Our website also contains copies of our corporate governance guidelines, code of business conduct and ethics, insider trading policy and whistleblower policy. The information contained on the websites referenced in this Form 10-K is not incorporated by reference into this filing. Further, our references to website URLs are intended to be inactive textual references only.
+​

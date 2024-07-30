@@ -1,0 +1,319 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business.
+--------+----------
+
+Overview 
+ SES is a global leader in the development and production of high-performance, Lithium-Metal (“Li-Metal”) rechargeable batteries for electric vehicles and other applications. 
+ Since our founding in 2012, we have been committed to developing the world’s most advanced EV batteries. Our Li-Metal batteries have been designed to combine the high energy density of Li-Metal with cost-effective, large-scale manufacturability of conventional Lithium-ion (“Li-ion”) rechargeable batteries. The results of tests undertaken by third party testing facilities, under instructions provided by Ivanhoe Capital Acquisition Corp. and SES, demonstrate industry-leading Li-Metal energy density, performance and safety. 
+ We believe that our Li-Metal batteries demonstrate industry-leading density and performance and will: 
+ 
+
+• | deliver a step-change in energy density to deliver a lightweight and compact battery, and substantially eliminate range anxiety of EVs;
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | provide fast-charge capability to reduce charging times significantly, to a charge of 80% in less than 15 minutes;
+--+-------------------------------------------------------------------------------------------------------------------
+
+
+• | incorporate advanced artificial intelligence (“AI”) powered safety management software, which will accurately monitor state of health of the battery and apply appropriate self-healing protocols;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | use similar manufacturing processes as required for Li-ion, but is expected to be substantially less costly than conventional Li-ion at scale due to Li-Metal’s high energy density;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | achieve rapid market adoption due to our strategic partnerships, including with leading global OEMs, such as GM, Hyundai and Honda;
+--+------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | capitalize on the innovation occurring in Li-ion, including improvements in energy density, manufacturing efficiency and cost reduction, as Li-Metal shares similar cathode and manufacturing process with Li-ion.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+We have developed what we believe to be the world’s most advanced Li-Metal battery technology, and we have the management team in place to become a leading provider of batteries. Our third-party tested, differentiated battery technology is designed for manufacturing at scale, and will help to promote the transition from the global dependence on fossil fuel-based automotive vehicles to clean and efficient EVs. SES is supported by strategic and financial investors, including energy and chemicals conglomerate SK Inc. (“SK”), mining and manufacturing company Tianqi Lithium HK Co. Ltd. (“Tianqi”), semiconductor equipment manufacturer Applied Materials, Inc., investment firms Vertex Ventures Holdings (“Vertex”) and Temasek Holdings Limited (“Temasek”), affiliates of automotive suppliers LG Corporation (“LG”) and Foxconn Technology Group, and global original equipment manufacturers (“OEMs”) General Motors Company (“GM”), Hyundai Motor Company (“Hyundai”), Honda Motor Co. Ltd. (“Honda”), Geely Auto Group and SAIC Motors. Among that group, each of GM, Hyundai and Honda are parties to existing JDAs with SES. Our headquarters are located in Boston, and most of our executive management is located in the United States. Our operating facilities are located in Boston and Shanghai, and we may build additional facilities in these or other locations. 
+ Industry and Market 
+ The Energy Transition 
+ Worldwide electrification is now a clear focus area, with many governments, businesses and investors around the world making commitments to change. The global energy transition will present an expansive commercial opportunity for rechargeable batteries, particularly in the automotive sector. The global number of passenger EVs sold is expected to grow from approximately $2.7 million in 2020 to approximately 90 million EVs in 2040, with the EV battery market expanding from approximately $19 billion to approximately $350 billion in the same period. New battery technology that drives costs down and increases energy density, like ours, will be the key to unlocking this opportunity. 
+Global Commitment to Electrification 
+ As an impetus to global electrification efforts, several governments and leading global OEMs alike have announced robust electrification goals, precipitating imminent change. Below is a list of targets set forth, or investments already made, by countries and automobile manufacturers in their efforts to move toward vehicle electrification. 
+ 
+1 
+ 
+  Governments 
+ North America 
+ 
+
+• | Canada: All new light-duty cars and passenger trucks sold to be zero-emission by 2035.
+--+---------------------------------------------------------------------------------------
+
+
+• | United States: $174 billion proposed to boost the EV market and halve greenhouse gas emissions by 2030.
+--+--------------------------------------------------------------------------------------------------------
+
+Europe and Middle East 
+ 
+
+• | Denmark: Denmark has urged the European Union to ban the sale of all petrol and diesel cars by 2040.
+--+-----------------------------------------------------------------------------------------------------
+
+
+• | Finland: 30% market share for EVs by 2030, including personal vehicles, trucks and buses.
+--+------------------------------------------------------------------------------------------
+
+
+• | France: Ban on gasoline and diesel vehicle sales by 2040.
+--+----------------------------------------------------------
+
+
+• | Germany: 10 million EVs and one million electric car charge points by 2030.
+--+----------------------------------------------------------------------------
+
+
+• | Iceland: Reduce carbon emissions by 40% by 2030 and become carbon-neutral by 2040.
+--+-----------------------------------------------------------------------------------
+
+
+• | Ireland: Ban on sales of new petrol and diesel cars by 2030 and become carbon neutral by 2050.
+--+-----------------------------------------------------------------------------------------------
+
+
+• | Israel: Eliminate imports of gas and diesel vehicles and coal-fired electricity generation by 2030.
+--+----------------------------------------------------------------------------------------------------
+
+
+• | Netherlands: All new petrol and diesel cars to be emission free by 2030.
+--+-------------------------------------------------------------------------
+
+
+• | Norway: EVs to account for 100% of all car sales by 2025 (already accounting for 58% of all car sales in March 2019).
+--+----------------------------------------------------------------------------------------------------------------------
+
+
+• | United Kingdom: Ban on selling new petrol, diesel or hybrid cars by 2035.
+--+--------------------------------------------------------------------------
+
+Asia Pacific 
+ 
+
+• | Australia: A$1.9 billion investment package already approved, including A$1.6 billion for renewable energy.
+--+------------------------------------------------------------------------------------------------------------
+
+
+• | China: 20% of new cars sold by 2025 to be electrified.
+--+-------------------------------------------------------
+
+
+• | India: Various regulatory programs to increase EV sales to 30% of total new cars by 2030.
+--+------------------------------------------------------------------------------------------
+
+
+• | Japan: All new passenger cars sold to be electric or hybrid by the mid-2030s.
+--+------------------------------------------------------------------------------
+
+
+• | Singapore: Phase out petrol and diesel vehicles by 2040.
+--+---------------------------------------------------------
+
+
+• | South Korea: 33% of new vehicle sold to be electric or hydrogen-fueled by 2030.
+--+--------------------------------------------------------------------------------
+
+Leading Global OEMs 
+ 
+
+• | GM: Launch more than 30 new EV models by 2025 and sell only zero-emission light-duty vehicles by 2035.
+--+-------------------------------------------------------------------------------------------------------
+
+
+• | Hyundai: Fully electrify lineup in major global markets by 2040.
+--+-----------------------------------------------------------------
+
+
+• | Toyota: 70% of vehicle sales to be from EVs in 2030.
+--+-----------------------------------------------------
+
+
+• | Ford: Invest $29 billion in EVs and autonomous vehicles by 2025 and become carbon neutral by 2050.
+--+---------------------------------------------------------------------------------------------------
+
+Investors 
+ Beyond government and corporate action, many investors around the world have increasingly focused on the energy transition as an investment opportunity and have poured record amounts into funds aimed at helping the environment. For example, from January through November 2020, investors in mutual funds and ETFs invested $288 billion globally in sustainable assets, a 96% increase over the whole of 2019, and certain investors have called on companies to disclose a plan for how their business model will be compatible with a net-zero economy. Moreover, EVs have become increasingly popular among consumers, who increased their spending on EVs to $120 billion in 2020, a 50% increase from 2019, according to the International Energy Agency’s “Global EV Outlook 2021.” 
+ 
+2 
+ 
+  Total Addressable Market 
+ Thanks to these public and private sector efforts, the global market for EV batteries is anticipated to experience substantial growth characterized by increasing battery pack sizes and decreasing costs. This will be driven by growing EV adoption, as the global number of passenger EVs sold is expected to rise from approximately 2.7 million in 2020 to approximately 90 million in 2040. During this same period, the average battery pack size is projected to increase from 45 kWh / EV to 56 kWh / EV, while the cost of each EV battery pack is anticipated to fall from $150 / kWh to $70 / kWh. The resulting rise in demand for EV batteries is predicted to increase the total addressable market from its 2020 size of approximately $19 billion to an expected approximate $350 billion in 2040. We believe that our superior technology will allow us to play a leading role in this process, while creating value for both our stockholders and society at large. 
+Our Story 
+ Our company was founded in 2012 by Dr. Qichao Hu through his work in the laboratory of Dr. Donald Sadoway, an accomplished professor of materials chemistry at the Massachusetts Institute of Technology (“MIT”). The following year, SES was newly formed based on the work begun at MIT. SES raised a Series A funding round, while Dr. Hu was named among the 2013 Forbes 30 Under 30 for his work on polymer ionic liquid rechargeable Li-Metal batteries. In 2013, we co-located with A123 Venture Technologies, a technology incubator, to leverage its facility to incubate SES’s early-stage technology development. SES raised Series B funding in 2015, attracting strategic investors including GM, SAIC Motors and Applied Materials. SES’s first prototyping battery facility opened in Boston in 2016, while further Series C and C+ funding rounds engaged Temasek and Tianqi in 2017 and SK in 2018, respectively. We capitalized on this momentum, inaugurating our second battery prototyping facility in Shanghai in 2019. 
+ Our company has made strategic advances across several fronts in 2021. SES entered into JDAs with three leading global OEMs—GM, Hyundai and Honda—while simultaneously raising Series D and D+ funding. We also announced our business combination with Ivanhoe Capital Acquisition Corp. With nine years of research and development, we have ambitious plans for the future. With the start of manufacturing by our 1 GWh pilot facility (our “Pilot Facility”) and 30 GWh Expansion I Facility approaching, we believe that SES is on the way to becoming a global leader in Li-Metal battery production through our combination of world-class technology and manufacturability at scale. 
+
+In 2022, we completed our Business Combination with Old SES, upon which we changed our name to “SES AI Corporation.” In connection with the closing of the Business Combination, our shares and warrants started trading on the NYSE under the symbols “SES” and “SES WS,” respectively. Our website can be found at https://ses.ai/. The references to the SEC’s and our website are inactive textual references only, and information contained therein or connected thereto is not incorporated into this Annual Report.
+   Our Technology 
+ We believe that SES Li-Metal is the next generation battery technology for EVs. Our unique approach to Li-Metal is designed to deliver high energy density batteries and high manufacturability at the same time. The unique and differentiated design of our Li-Metal battery, enabled by advanced, proprietary and patented materials and software breakthrough, gives us the confidence that SES will be able to deliver batteries to its customers at scale while matching or exceeding their expectations on performance, safety and cost. 
+ 
+3 
+
+  
+Conventional Li-ion technology is currently being used in most commercially available EVs. Li-ion typically uses a metal oxide-based or phosphate-based cathode, and graphite or graphite/silicon-based anodes. The anode and cathode are separated by a polymer-based separator. Finally, the whole cell is filled with a liquid electrolyte that conducts lithium ions from anode to cathode as the vehicle is being driven (or battery is being discharged), and from cathode to anode as the vehicle (or the battery) is being charged. Conventional Li-ion cells have been instrumental in kick starting the current EV market, and are being manufactured at scale at capacities of hundreds of GWh today. However, the automotive industry and its customers are yearning for a battery with higher energy density to improve the electric driving range (the distance that a vehicle can be driven on a single charge) while reducing battery cost to enable mass-adoption. 
+ Li-Metal is widely considered and accepted as the EV battery technology capable of achieving the highest energy density. In fact, switching the current Li-ion graphite/silicon anode with Li-Metal will currently result in the highest possible energy density for any given cathode in lithium chemistry. Lithium metal is the lightest unengineered pure metal on earth. Also, since the lithium ions do not have to diffuse in and out of the anode host material (like in the case of graphite or silicon in conventional Li-ion), the battery cells made with lithium metal anode can be very compact and light. This combination of lightweight and compact anode results in the highest possible gravimetric (Watt-hour (“Wh”)/kg) and volumetric (Wh/liter) energy density, respectively, for any given cathode in lithium chemistry. 
+ 
+
+One approach to Li-Metal, known as “solid-state Li-Metal,” primarily relies on solid-state materials. The solid-state material refers to the phase (solid) within which lithium ions transport from anode to cathode (during discharge) or cathode to anode (during charge). Conventional Li-ion technology uses liquid electrolytes (not solid electrolytes), and such lithium ion transport is in the liquid phase. Approaches that use solid electrolytes generally suffer from either not having sufficient conductivity at room and lower than room temperatures, poor interface between electrolyte and electrode, inability to suppress lithium dendrites when the solid electrolyte film is thin, and lack of demonstrated manufacturability of thin, large format films and multi-layer cells at scale. 
+ 
+4 
+
+  In stark contrast, SES’s approach to Li-Metal preserves the high energy density benefits of Li-Metal while utilizing a cell design that primarily uses a liquid electrolyte in the cathode and separator to transport the lithium ions. There is also a protective anode coating between the anode and the separator, which consists of solid-state electrolyte materials. Hence, we call our approach “Li-Metal,” as it utilizes both liquid and solid electrolyte in the cell simultaneously. This approach results not only in improved energy density due to using lithium metal anode, but also superior performance at room and lower than room temperatures, and enables manufacturing at scale just like Li-ion is manufactured at scale today. In fact, we have been successfully making multi-Ah, multi-layer cells using our Li-Metal approach for many years. In addition to materials, SES’s AI-powered safety software adds an additional layer of battery health monitoring and safety protection. 
+ The key breakthrough in SES Li-Metal cells is its unique and patented liquid electrolyte. This electrolyte is developed internally at SES with many years of scientific research and development. We use a high-concentration, solvent-in-salt electrolyte. SES’s proprietary liquid electrolyte molecules and formula turns convention on its head. While liquid electrolyte used in conventional Li-ion cells is volatile and flammable, SES liquid electrolyte has low volatility and is self-extinguishing. Conventional liquid electrolytes are primarily made up of organic solvent with low concentration of salt to aid lithium ion conduction. SES’s liquid electrolyte primarily consists of salt with a very minute amount of proprietary solvent molecule. This new type of high-concentration solvent-in-salt liquid electrolyte is fundamentally different from conventional liquid electrolyte. It maintains the manufacturability advantage of liquid electrolyte in conventional Li-ion manufacturing, but can enable Li-Metal due to its stability on lithium metal. 
+ SES’s proprietary and patented electrolyte helps resolve the issue that has plagued Li-Metal adoption and progress for decades. With repeated charge and discharge cycles, lithium metal anodes are known to develop needle-like mossy structures known as “dendrites,” which can penetrate the separator and short-circuit the battery cell. Our electrolyte not only significantly slows down the growth of dendrites, but it also changes its morphology from “mossy lithium,” or sharp dendrites, to “dense deposition,” or a smooth lithium metal surface. This significantly increases cell cycle life and safety. 
+ 
+
+In addition to the electrolyte, our Li-Metal battery cells use a proprietary anode coating that helps provide another layer of protection against dendrites and makes lithium plating denser during charging, as well as an advanced AI-powered algorithm to accurately monitor the state-of-health of the battery cells and detect any impending dendrite-related (or other) safety issues much earlier. 
+ 
+5 
+
+  
+The rest of the cell is assembled using our proprietary ultra-thin wide-width lithium metal anode, a conventional state-of-the-art separator and a cathode. With the exception of the lithium metal anode, all materials and components utilized in our battery cells are either already being manufactured at scale or have the capability to be easily manufactured at scale without the need for intensive research and development, or development of new equipment. 
+ To our knowledge, SES Li-Metal battery cells are the only Li-Metal cells demonstrated to meet or exceed the preliminary OEM target requirements for energy density, low temperature discharge, room temperature fast charge and discharge, cycle life and safety. 
+ This unique combination of high-energy density Li-Metal in a hybrid design enables a battery that is expected to be: 
+ 
+
+• | light and compact, with high energy density of at least 400 Wh/kg and 1000 Wh/liter;
+--+-------------------------------------------------------------------------------------
+
+
+• | durable and safe, with the ability to meet stringent cycle life, overall lifetime and safety targets for next generation EVs;
+--+------------------------------------------------------------------------------------------------------------------------------
+
+
+• | capable of fast charge, charging up to 80% in less than 15 minutes;
+--+--------------------------------------------------------------------
+
+
+• | capable of high power discharge, at room and low temperatures;
+--+---------------------------------------------------------------
+
+
+• | low-cost, taking advantage of existing Li-ion manufacturing scale and best-practices to enable cost-reduction;
+--+---------------------------------------------------------------------------------------------------------------
+
+
+• | capitalizing on the innovation occurring in Li-ion, in terms of incremental improvement in energy density, supply chain development, cost reduction and manufacturing efficiency, since the cathode and cell manufacturing process are the same as in Li-ion; and
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | smarter, with AI-powered health monitoring software that can predict safety incidents in real time and make appropriate safety recommendations.
+--+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Competitive Strengths 
+ Differentiated battery technology. As described above, our Li-Metal batteries are expected to be lighter, more energy dense, safer, faster-charging, and lower cost solution than Li-ion batteries, and to include smart technology. Our Li-Metal battery technology has projected energy density of 400 Wh/kg / 1,000 Wh/L (illustrative EV range of approximately 540 miles) in large 100 Amp-hour (“Ah”) cells, which we believe will help to enable the expansion of an electrified world. Our current 4 Ah multi-layer battery cells have demonstrated energy density of 370 Wh/kg / 700 Wh/L in third-party testing, along with fast charging up to 80% charge in less than 15 minutes, bolstering our confidence in our ability to achieve industry-leading performance. Our batteries are expected to be significantly cheaper in the long-term, while providing fast-charge capabilities, best-in-class durability and a high degree of safety.
+ 
+6 
+
+  Designed for manufacturing at scale. Over the last nine years of research and development, we have strived to develop a technology that is not only differentiated, but also scalable and manufacturable. As of December 31, 2021, we had produced more than 15,000 multi-layer Li-Metal battery cells using our Li-ion-like production line demonstrating that our batteries are not only playing a leading role in the industry, but are also practical. 
+ 
+
+Strategic partnerships. We believe that our products will experience swift market adoption due to our current strategic partnerships with leading global OEMs GM, Hyundai and Honda. To our knowledge, we are the only company working on Li-Metal technology that has entered into A-Sample JDAs for Li-Metal technology with major OEMs. We plan to collaborate with other OEMs to expedite such adoption and increase market acceptance of our Li-Metal battery over time. 
+ High barriers to entry. We have spent approximately $100 million of capital over the last nine years to establish high barriers to protect our technological advantage. As of December 31, 2021, we have been granted 56 patents, with 61 patent applications pending, 53 trademark applications pending and 25 trade secrets. For more information, see “- Our Intellectual Property” below. 
+ World-class management team. Our best-in-class team includes both scientists and engineers with training from the world’s foremost academic institutions and exceptional industry experience. Leading our business operations are our founder and Chief Executive Officer Dr. Qichao Hu (our “Founder”), who earned his PhD in Applied Physics from Harvard University and his BS in Physics from MIT, and our President and Chief Operating Officer Rohit Makharia, who previously spent 19 years with GM, 12 of which he spent focusing on fuel cell and battery EVs. Our research, development, engineering and manufacturing efforts are spearheaded by Chief Technology Officer Yongkyu Son, who has 19 years of experience in cell development including with Apple, SK Innovation (“SKI”) and Samsung SDI, and Chief Science Officer Dr. Hong Gan, who has 25 years of battery research and development experience in both national labs and industry, during which he made key contributions to silicon based Li-ion and Li-sulfur technologies. For more information, see “Combined Company Management and Governance After the Business Combination.” 
+ Our Growth Strategy 
+ Our mission is to facilitate the widespread adoption of sustainable electric transportation both on land and in air by creating the best-in-class, high energy density Li-Metal batteries centered around long-range performance and safety. 
+ Commercialization roadmap. 
+ Battery development for OEMs. The results of tests undertaken by third-party testing facilities under instructions provided by Ivanhoe Capital Acquisition Corp. and SES demonstrate industry-leading Li-Metal energy density, performance and safety. We are currently working to develop and produce A-Sample batteries with specifications required by OEMs for their EVs, with the goal of enabling commercial production in 2025. For more information on collaborations with these OEMs, see “- Our Partnerships” below. A-Sample batteries are prototypes developed for OEMs based on OEMs’ technical specifications, and they would fully meet those technical specifications. These are in contrast with B-Sample batteries, which would be functional prototypes allowing full drivability and tested in actual vehicles, and C-Sample batteries, which would be fully functional, mature samples for mass production. As we remain focused on A-Sample battery development, we do not yet have any arrangements with OEMs to manufacture consumer-ready batteries for their EVs. 
+ 
+7 
+
+  Battery manufacturing at scale. We will also continue to enhance our production processes to enable volume manufacturing in a cost-effective manner. We expect to complete our Pilot Facility by 2023, which we expect to be 100% SES-owned and operated. We plan to concurrently develop a 10 GWh joint venture plant that we expect to be operational in 2025 and that will ramp up to 30 GWh by 2027 (our Expansion I Facility), which we expect to be located in the United States. Additionally, we expect to complete a 30 GWh facility in 2026 that will ramp to 70 GWh by 2028 (our Expansion II Facility), which would represent an additional expansion of our existing facilities. In total, we expect to have more than 100 GWh of capacity by 2028. 
+ Partnership development and expansion. As discussed below under “Our Partnerships,” while we will continue to strengthen our partnerships with GM, Hyundai and Honda in the use of our battery technology, we intend to work closely with other OEMs to make our Li-Metal battery widely available over time. 
+ Cost reduction. Cost reduction remains an important underpinning of EV market growth and our future growth. Currently, we have no long-term supply arrangements, and expect to negotiate long-term supply contracts as volume grows. For more information, see “Our Suppliers” below. However, in addition to arrangements with suppliers, we plan to explore opportunities for partial vertical integration both upstream and downstream. Vertical integration is used by Li-ion battery cell makers to reduce their costs, increase their competitiveness and streamline product development and commercialization for OEMs, by acquiring upstream and downstream participants in their supply chains. Upstream, we intend to explore integrating vendors of key materials of our cells and providers of key equipment and engineering capabilities, such as cell assembly, anode processing, chemical processing and safety testing. Downstream, we plan to explore integrating providers of key engineering capabilities, such as battery state-of-health monitoring software, charging optimization software, battery module development and recycling. 
+ Continued battery innovation. We intend to continue leveraging our world-class science, engineering and manufacturing expertise to innovate future products that will continue to provide leading technology coupled with manufacturability. We continue to invest in research and development in areas such as cell chemistry and structure, battery materials, AI software and advanced manufacturing, to build on our intellectual property portfolio. 
+ Our Partnerships 
+ We intend to work closely with OEMs and other strategic partners to develop and produce our Li-Metal battery cells, with the aim of making them widely available in EVs over time. 
+ Existing JDAs 
+ We have maintained a strong partnership with GM since 2015, when GM led our Series B financing, and since then, GM has invested approximately $70 million in our company, including a $50 million investment in our Series D funding round and a $10 million investment in the private placement transaction in connection with the Business Combination (the “PIPE Financing”), via GM’s affiliates and subsidiaries. GM is one of the world’s largest car companies, and has voiced its desire to be a leader in EVs. GM has announced plans to launch more than 30 new EV models by 2025 and only sell zero-emission vehicles by 2035. Our collaboration initially involved close technical and research and development collaboration on SES’s battery technology. In February 2021, we entered into a JDA with GM, valued at over $50 million, under which we will work with GM to jointly develop an A-Sample battery cell. For more information on the GM entities party to the transaction, see “Certain Relationships and Related Transactions—SES Related Person Transactions—GM Joint Development Agreement.” 
+ We have also fostered a partnership with Hyundai, another global automobile leader. In December 2020, we entered into a pre-A-Sample JDA with Hyundai. In May 2021, Hyundai made an investment of $50 million in our Series D plus funding round and signed an A-Sample JDA, under which we and Hyundai are collaborating to jointly develop an A-Sample battery cell. Hyundai also purchased $50 million of our Class A common stock in the PIPE Financing. 
+ In December 2021, Honda became the third global automobile leader to enter into an A-Sample JDA with us. Honda purchased $75 million of our Class A common stock in the PIPE Financing as the single largest PIPE Financing investor. 
+ The JDAs with GM, Hyundai and Honda do not represent commitments by these OEMs to purchase our Li-Metal battery cells, and are focused only on development. Although the JDAs set timeframes for the attainment of certain development milestones, these timeframes are objectives only and may be subject to ongoing elaboration and change by the parties. The JDAs also do not prohibit GM, Hyundai, Honda or SES from entering into additional agreements with other third parties. To our knowledge, neither GM, Hyundai nor Honda has entered into additional agreements with other third parties for the development of A-Sample Li-Metal batteries. 
+ 
+8 
+
+  Other Investments and Partnerships 
+ In addition to the above investments from GM, Hyundai and Honda, we have received total investments from OEMs Geely and SAIC Motors of approximately $30 million and total investments from other strategic and financial investors, including SK, LG, Foxconn, Tianqi, Applied Materials, Temasek and Vertex, of approximately $165 million (in each case, inclusive of PIPE Financing). 
+ As discussed above under “Our Growth Strategy—Commercialization roadmap - Battery manufacturing at scale,” we expect to form strategic joint ventures with one or more battery makers or OEMs to support the build-out of our Expansion I Facility. We plan for our Expansion I Facility to be a joint venture with an OEM strategic partner and that we will supply our own coated anode and electrolyte to the facility, and for our Expansion II Facility to be 100% SES-owned and operated. We expect to use the proceeds from the Business Combination for our Expansion I Facility. We anticipate a combination of debt and equity financing to fund the remaining facilities. Like our current partners and stockholders, we believe that any and all future partners will provide us with important support and resources in developing and scaling our Li-Metal battery technology. 
+ Our Research and Development 
+ We conduct research and development at our facilities in Boston and Shanghai, and expect to eventually build additional facilities in other parts of the world. Research and development activities concentrate on making further improvements to our battery technology, including improvements to battery performance and cost. 
+ Our research and development efforts currently include, but are not limited to, programs in the following areas. 
+ 
+
+• | Scale-up: Our design is further being customized with and validated by OEMs. Based on our collaborations with OEMs, we believe that a roughly 100 Ah cell-size manufactured at GWh scale (five to seven cells-per-minute) is needed to achieve commercialization in EVs at a large, global scale. We are developing processes and equipment to scale up the manufacturing of current cell design from three to nine Ah capacity to approximately 100 Ah.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Module and pack design: Li-Metal cells must be integrated into modules and packs as part of their integration into vehicles. Our active development efforts are focused on the integration of our Li-Metal cells into modules to enable our Li-Metal cells perform as intended once they are integrated into modules and vehicles.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Advanced AI software and battery management systems (“BMS”): Software is critical to the ongoing monitoring of battery health and safety. We continue to develop advanced AI algorithms to diagnose battery cell-related health issues, develop advanced control algorithms and charging methods to enhance cycle life and safety, and port such software on to a BMS that can integrated into a battery pack.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Advanced materials and coatings: We continue to research and develop advanced electrolyte and anodes to further improve cycle life and safety. In addition, we continue to develop novel methods of laminating or depositing lithium metal anode that can be deployed at commercial GWh scale.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Cathode materials and design: We continue to develop our Li-Metal cells for a variety of different cathode materials, cathode design and cathode processing methods that can provide ultra-high energy density and/or significant cost-reduction.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Lithium metal recycling: Along with other battery components that are already being recycled today, Li-Metal foil will also need to be recycled in the future. We continue to explore methods of recycling that are productive and cost-effective.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Intellectual Property 
+ We rely on a combination of the intellectual property protections afforded by patent, trademark and trade secret laws in the United States and other jurisdictions, as well as license agreements and other contractual protections, to establish, maintain and enforce rights in our proprietary technologies. As of December 31, 2021, we have been granted 56 patents, with 61 patent applications pending, and have 44 registered or allowed trademarks, with 53 trademark applications pending. We also rely substantially on unpatented proprietary technology, including know-how or trade secrets, with 25 trade secrets as of December 31, 2021. 
+ We possess patents, licenses and/or know-how covering the following proprietary technologies: 
+ 
+
+• | Cell design, including physical format, component layout, application tuning, cell formation and support structures.
+--+---------------------------------------------------------------------------------------------------------------------
+
+
+• | Materials, including salt preparation and purification, design of synthetic solvents, state-of-the art electrolyte formulations, lithium foil production, separator composition and anodes.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+9 
+
+  
+• | Battery management, including charge/discharge profiles, rapid charging, safety systems and algorithms, telemetry harvesting and big data analysis.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Environmental, including low-impact production of cell materials and recyclability of spent materials.
+--+-------------------------------------------------------------------------------------------------------
+
+
+Our commercial success depends in part on our ability to obtain and maintain proprietary or intellectual property protection for our designs and technology. Our policy is to protect our proprietary and intellectual property position by, in addition to filing patent applications in various jurisdictions related to our proprietary technology, relying on trade secrets, know-how and continuing technological innovation. We may not be able to prevent unauthorized use of our intellectual property, which could harm our business and competitive position. For a more comprehensive discussion of the risks related to our intellectual property, please see “Risk Factors—Risks Relating to SES’s Business and Industry—Risks Relating to Intellectual Property.” 
+ Our Suppliers 
+ Currently, we are in product development and our product design has yet to be finalized, so our volume demand is limited and we do not have long-term supply arrangements. As volume demand grows, we expect to negotiate long-term supply contracts. For our current product development needs, we source from third-party suppliers for raw materials, components and equipment necessary to develop and manufacture our Li-Metal battery cells. See “—Our Growth Strategy—Commercialization roadmap—Cost reduction” above. 
+ Our Human Capital 
+ We believe that our employees are among the best in the EV battery industry. Currently, we employ approximately 126 employees globally. By headcount, approximately two-thirds of our employees are located in the United States, approximately one-third are located in China and a remaining handful of employees are located in each of South Korea and Singapore. All of our executive management is located in the United States, other than our Chief Legal & Corporate Officer, who is located in Singapore. Although we do not currently have definitive plans, as our joint development of Li-Metal batteries with certain U.S. and South Korean OEMs continues to progress, we would expect to launch future research facilities and, eventually, commercial production manufacturing facilities, in the United States and South Korea, while also significantly increasing our employee headcount in those locations. Currently, approximately 75% of our employees worldwide are engaged in research and development and related functions, with expertise in all aspects of the development process, including materials science, chemistry, engineering and software. More than half of these employees hold advanced engineering and scientific degrees, including many from the world’s top universities, and have extensive experience from large Li-ion companies. 
+ We understand that our industry leadership is ultimately rooted in people. Competition for qualified personnel in the technology space is intense, and our success depends in large part on our ability to recruit, develop and retain a productive and engaged workforce. Accordingly, attracting and retaining truly original thinkers and top performing doers, investing in our employees and their well-being, keeping them motivated, offering competitive compensation and benefits, promoting diversity and inclusion, and adopting progressive human capital management practices constitute core elements of our corporate strategy. 
+ We seek team members who are passionate about electric transportation and battery technologies, and have the humility and discipline to be building blocks in our fast-paced and challenging business operations. We value diversity and recognize the importance of fostering a positive, inclusive culture. As such, we have actively taken steps toward eliminating unconscious bias in our hiring and promotion processes while enabling us to add and promote team members who demonstrate behaviors aligned with our values. 
+ While SES has grown in size significantly, at its core it retains its early-stage start-up culture. It attracts and honors employees that want to make a dent in the universe. In addition to competitive compensation and benefits, we set challenging yet meaningful goals for our employees and help them push their limits, as we believe the best and brightest are fundamentally driven by the desire to solve tough, meaningful problems, be part of an exciting movement and make a real impact in the industry. 
+ The health and safety of our employees is paramount at SES. As part of our continuing goal to reduce workplace incidents, we are committed to a culture of safe work practices and improving safety in all of our locations. 
+ We intend to make significant investments in research and development and the recruitment of top technical and engineering talent to improve our battery technology. 
+ 
+10 
+
+  Our Facilities 
+ Our headquarters are located in Boston, and most of our executive management is located in the United States. Our operating facilities are located in Boston and Shanghai. Both properties are leased, with the Boston lease and the Shanghai lease each expiring in 2026. Our Boston facility focuses on chemistry, materials and algorithm research and development, as well as engaging with OEMs worldwide, including GM, Hyundai and Honda. Our Shanghai facility focuses on supply chain development, manufacturing process development, cell product development, software, BMS and module development. We are building our 1 GWh Pilot Facility in China for the development of pre-commercial-production battery cells, which we expect to be completed in 2023. We have also set up an office in Seoul focused on supply chain, customer relations and our collaboration with partners in the region. As our joint development of Li-Metal batteries with certain U.S. and South Korean OEMs continues to progress, we also expect to launch future research facilities and, eventually, commercial production manufacturing facilities, in the United States and South Korea, while also significantly increasing our headcount in those locations. Specifically, we expect to enter into a joint venture with one or both of our OEM partners to build our Expansion I Facility in the United States. We expect to build the first 10 GWh portion of our Expansion I Facility in the United States in 2023 and 2024, with plans for such facility to be operational by 2025. SES expects that this Expansion I Facility will be located in the United States, as the Expansion I Facility would target the U.S. automotive market (the largest EV market for its OEM partners). 
+ In addition to our 1 GWh Pilot Facility (which we are building in Shanghai) and our planned 30 GWh and 70 GWh facilities, we are planning to build a pre-production facility in South Korea. We continue to assess our ongoing facilities needs and may build new facilities or lease additional facilities in our current or other locations according to our manufacturing needs and the needs of any OEMs with whom we enter into collaborations. 
+Competition 
+ The battery market, like the EV market it services, is fast-growing, extremely competitive and driven by the innovation of both large incumbents and emerging entrants like SES. Contemporary Amperex Technology Co. (“CATL”), SKI, LG Energy Solutions, Panasonic and Samsung SDI are among the existing suppliers of batteries to the EV industry. Although their offerings tend to be conventional Li-ion, they could develop Li-Metal batteries that would directly compete with our offerings. Additionally, the efforts of OEMs, including Tesla, Nio, Rivian and Toyota, to develop their own EV battery production capabilities could reduce demand for SES’s technology if they are successful. Newer entrants, including Northvolt, Sila Nanotechnologies, Solid Power, QuantumScape, Ganfeng Lithium and WeLion, are supplying next-generation batteries that could compete with ours, and others could feasibly emerge. 
+ We acknowledge that incumbents and emerging entrants may have greater resources to invest in advancing their technologies, access to more potential customers, or strategic relationships with OEMs (or other third parties) that may give them a competitive edge. We further acknowledge that these disparities, where they exist, have the potential to harm our business, results of operations or financial condition. However, SES combines the technology innovation of emerging entrants with the practical execution capability of incumbents, and we believe that SES, with its determination and focus, will be able to be successful in the competitive Li-Metal space. 
+ Government Regulation and Compliance 
+ There are government regulations pertaining to battery safety, transportation of batteries, use of batteries in vehicles, factory safety and disposal of hazardous materials. We will ultimately have to comply with these regulations to sell our batteries into the market. For more information, see “Risk Factors—Risks Relating to SES’s Business and Industry—Risks Relating to Regulation and Legal Compliance” discussing regulations and regulatory risks related to export controls (including our export controls compliance program), environmental, health and safety, anti-corruption, anti-bribery, data collection, trade and tax law compliance. 

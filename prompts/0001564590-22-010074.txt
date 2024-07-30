@@ -1,0 +1,236 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business. 
+Overview 
+ We launched Wish with a simple mission—to bring an affordable and entertaining mobile shopping experience to billions of consumers around the world. Our platform combines technology and data science capabilities, an innovative and discovery-based mobile shopping experience, a comprehensive suite of merchant services, and a massive scale of users, merchants, and items. 
+ 
+We are revolutionizing e-commerce with a user experience that is mobile-first, discovery-based, deeply personalized, and entertaining. Our highly-personalized product feed enables our users to discover products they want to purchase by simply scrolling through our mobile app and browsing. Wish users engage with our app in a similar manner to how they engage with social media; scrolling through image-rich, highly-engaging, and interactive content. To enhance user engagement, we incorporate fresh gamified features, rich user-generated content including photos, videos, and reviews, and a wide range of relevant products to make shopping more entertaining. 
+ 
+We also built Wish to empower merchants around the world. Today, most of our merchants are based in China. We initially grew our platform focusing on merchants in China due to these merchants’ strength in selling quality products at competitive prices. We continue to expand our merchant base around the world. Through our diversified and global merchant base, we are able to offer greater depth and breadth of categories and products. We give our merchants immediate access to our global base of over 74 million monthly active users and a comprehensive suite of merchant services, including demand generation and engagement, user-generated content creation, data intelligence, promotional and logistics capabilities, and business operations support, all in a cost-efficient manner. 
+ 
+Local brick-and-mortar stores worldwide are experiencing challenges as the retail world is being transformed by ecommerce industry consolidation, and the COVID-19 pandemic. We launched Wish Local in 2019 to help these stores increase their online reach and discovery, gain foot traffic, and drive additional sales. Our Wish Local partners also serve as Wish Pickup locations for online Wish orders, which effectively gives us a local warehousing and fulfillment footprint around the world without owning any real estate.
+ 
+Our data science capabilities provide us with a unique competitive advantage and are core to our business operations. Our proprietary algorithms analyze a rich and growing data set of transactions and historical behaviors of both users and merchants to drive continuous optimization on the platform and inform key business decisions on a daily basis. Our data science enables personalization at the individual user level at a massive scale and drives significant advantages across all aspects of our business operations, including user acquisition, user experience, pricing strategies, user-generated content, merchant insights, and user and merchant support. 
+ 
+Our proprietary data and technology also fuel our powerful network effects. The scale of our user base and active global merchants means we accumulate significant data across user and merchant activities, which we believe strengthens our data advantage, and creates an even better experience for everyone on our platform, which in turn can attract more users and merchants. As more users come to Wish, driven by the affordable value proposition and differentiated shopping experience, we can drive more sales to our merchants. Our significant user base also drives our user-generated feedback loop of ratings, reviews, photos, and videos, which in turn drives greater user engagement. As more merchants succeed on Wish, more merchants join the platform to grow their businesses, broadening our product selection, which in turn improves the user experience. This flywheel effect has driven tremendous value to both users and merchants and has made Wish one of the largest ecommerce marketplaces in the world.
+ 4
+
+
+The Wish Platform 
+ Our global ecommerce platform connects over 74 million monthly active users in over 60 countries to approximately 250,000 active global merchants. We determine our number of active global merchants by counting the total number of merchants who have sold at least one order on the Wish platform, either on our mobile app, mobile web, or on a desktop, during the preceding 12 months.
+ 
+We seek to democratize ecommerce by making the Wish platform affordable, open, and accessible to all users and merchants in many countries around the world. We do this through our relentless focus on product, technology, and data science. For our users, we are revolutionizing the mobile shopping experience by making it affordable, personalized, and entertaining. For our merchants, we offer immediate, cost-efficient access to our global user base, scaled data, and technology platform, as well as a comprehensive suite of merchant services to help run their businesses and drive sales. To serve our global and diversified user and merchant base, we approach our platform development with a specific geographic focus, tailoring key features to solve for the needs of that locality, and enabling an authentic, localized experience.
+ 
+Value Proposition to Wish Users 
+ 
+We have democratized ecommerce by making it: 
+  
+• | Affordable. Price is the single most important determinant when making a purchase for a substantial portion of the global population, and we aim to serve the affordability needs of these value-conscious consumers. The merchants on our platform offer primarily unbranded products that can be deeply discounted as compared to branded alternatives across several categories. We have a number of policies which, in combination with our robust user-generated content, promote higher quality merchants and products on our platform. This allows us to offer a vast selection of high-quality items at competitive prices, a value proposition that attracts more than 74 million monthly active users to our platform.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Accessible. We built Wish to be mobile-first so any consumer around the world can easily access our shopping platform on a mobile device.
+--+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Everywhere. To better serve our global user base, we localize various features on our online platform and tailor our experience to each respective market through, for example, making it accessible in 42 different languages and providing country-specific payment methods. This localization is designed to improve the engagement of our large, diverse user base, in addition to connecting our users with more than 60,000 local brick-and-mortar Wish Local stores.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We have re-invented the online shopping experience to be: 
+  
+• | Mobile-First. Wish was built for mobile. Our application is image-rich, with minimal search input or text-based interactions. Over 90% of our user activity and purchases occur on our mobile app.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Discovery-Based. Our platform is designed to make it easy to navigate a vast selection of products when users do not have a specific item or brand in mind. Unlike other ecommerce platforms where consumers often visit with a predetermined purchase intent for specific items, our navigational and entertaining shopping experience gives us the ability to create purchase intent in our users across a diverse set of products and categories. Over 70% of the sales on our platform do not involve a search query and instead come from personalized browsing.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Personalized. No two users’ Wish interfaces and product feeds look the same. Utilizing big data technology, we enable customization on a massive scale. We deliver personalized and curated products to our users and help them discover desired products quickly.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 5
+
+
+ 
+• | Entertaining. We have transformed the user experience to make shopping on Wish as engaging and entertaining as browsing on social media. We utilize highly-personalized feeds with a wide range of relevant products as well as gamified, interactive, and social features to increase the length and frequency of a user’s sessions and drive increased engagement. Wish users spent on average approximately 11 minutes per day on our platform in 2021, an increase from over nine minutes per day on our platform in 2020.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Value Proposition to Wish Merchants 
+ 
+Accessible and Cost-Efficient Ecommerce Platform. We give our merchants immediate access to our global base of over 74 million monthly active users and a comprehensive suite of merchant services in a cost-efficient manner to help them run their businesses and grow sales. We seek to empower these highly capable merchants offering quality products at compelling values and unlock this supply of goods to consumers globally. 
+ In addition, we give our merchants the following merchant services:
+ 
+Demand Generation and Engagement
+  
+• | Global Reach for Online Merchants. Wish gives merchants immediate access to over 74 million monthly active users across more than 60 countries, with a significant user footprint in the United States and Europe. We help our merchants reach these users in a highly targeted and cost-efficient manner.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Promotion. Wish merchants can amplify their reach and sales by utilizing our native advertising tool, ProductBoost. We utilize data science to optimize ad placement, target users, and maximize the merchant’s return on ad spend.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+User-Generated Content Creation. User-generated content that is particular, authentic, and localized can meaningfully improve user engagement and increase the purchases of products on our platform. Our value-conscious users rely on user-generated content such as reviews, ratings, photos, and videos, rather than brand recognition, when making purchase decisions. Our data science prioritizes items with favorable reviews, higher ratings and shipping history, connecting buyers with high-quality merchants and enhancing both the user and merchant experience.
+Data Intelligence 
+  
+• | Data Insight. We provide our merchants a comprehensive data set to run their businesses through the Wish Merchant Dashboard. This dashboard helps our merchants improve their performance in terms of total impressions, overall sales, product assortment, service quality, fulfillment, shipping needs, and refunds, among others.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Revenue Impact. Our proprietary, state-of-the-art data science capabilities are designed to display products to users who are most likely to buy them, in turn driving more revenue to merchants.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Logistics 
+  
+• | Shipping Logistics. With ongoing changes to global postal regulations and increases in cross-border sales volume, logistics has become paramount for small merchants to succeed in ecommerce. We have developed a number of logistics programs to provide a set of reliable cross-border logistics solutions at competitive costs for our merchants. We believe that ensuring a consistent delivery experience for our users increases value to our merchants by boosting sales volumes and minimizing returns.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Wish Local Pick-Up. Through our Wish Local partnerships, we enable our online merchants to send their inventory to our more than 60,000 partner pick-up locations in close proximity to users to allow for quicker, localized pickup. These Wish Local stores effectively give us a local warehousing and fulfillment footprint around the world without owning any real estate.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 6
+
+
+Business Operations
+  
+• | Optimization Tools, Services, and Education. We provide tools, services, and ongoing education to our merchant base to help them improve their business operations and drive greater success.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Merchant Support. Wish assists merchants with international trade compliance, payment processing, user support, and certain other services.
+--+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Data Science 
+ 
+Our technology and data science capabilities drive all aspects of our business. Our data advantage comes from our rich and growing data set of historical and recent user and merchant behaviors and transactions, and deep understanding of our more than 74 million monthly active users, approximately 250,000 active global merchants, and approximately 900,000 items sold per day. All of this feeds into a proprietary data science algorithm that we continuously optimize for more intelligent insights and decision making. 
+ 
+Key examples of how we use data science to drive our business include:
+  
+• | User Acquisition: We leverage the power of our proprietary data to make decisions on what to show to whom, when, and through which acquisition channel, with a focus on maximizing our return on marketing investment and conversion.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Lifetime Value Maximization: Data science plays a critical role in maximizing lifetime value (“LTV”) of our users and optimizing the initial user acquisition investment. We use data science to determine the allocation of marketing investment across different users, marketing channels, and user acquisition and re-engagement strategies.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | User Personalization: Our proprietary algorithms utilize a rich and growing data set of historical and recent user behaviors that includes browsing data, past transactions, reviews, and preferences noted on Wish, to display the most relevant and personalized content. This data-driven approach enables efficient and enjoyable navigation and discovery on a mobile screen, creates purchase intent across a diverse set of products, and increases conversion to sales.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | User-Generated Content: Our platform offers mostly unbranded goods today. Our value-conscious users rely on user-generated content such as reviews, ratings, photos, and videos, rather than brand recognition, when making purchase decisions. This makes the user-generated content on our platform an important source of trust and quality for our largely unbranded product selection.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Merchant Insights: Our platform includes a merchant dashboard with built-in analytics to help merchants sell more products and track their performance. Our data capabilities help merchants better understand user behavior and preferences, enabling them to operate more intelligently and efficiently.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | ProductBoost: ProductBoost is our native advertising tool for merchants, which helps them promote their products on our platform. We utilize data science to improve the performance of ProductBoost and help maximize the merchants’ return on their ad spend.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Logistics: We leverage data science to improve transparency and logistics operational efficiency for our merchants, while also aiming at reducing shipping time and improving delivery reliability for our buyers.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | User and Merchant Support: We use data to understand what a user or merchant is likely to need help with in order to improve the quality of support and maximize cost efficiency of providing such support.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Dynamic Pricing: We utilize our data to dynamically vary prices across products to optimize conversion as well as our margin. This type of shopping environment is well suited to gauge user demand and conduct price discovery on a global level as well as on an individual user level. We take into account characteristics of the product and the user to estimate price sensitivity and vary pricing to achieve a margin target at the user and basket level, as opposed to on individual items.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 7
+
+
+Our Customers
+ 
+We generate revenue from marketplace and logistics services provided to our customers. We consider both the merchant and the user to be our customers. We provide a mix of marketplace services to merchants. We provide merchants access to our marketplace where merchants display and sell their products to users. We also provide ProductBoost services to help merchants promote their products within our marketplace. Our logistics offering for merchants, introduced in 2018, is designed for direct end-to-end single order shipment from a merchant’s location to the user. Logistics services include transportation and delivery of the merchant’s products to the user. Merchants are required to prepay for logistics services on a per order basis.
+Sales and Marketing
+ 
+Our sales and marketing capabilities represent a core competency that is essential to the success of the Wish platform. We are focused on continuing to acquire and retain new users and build brand awareness efficiently. Our advertising costs to acquire new users constituted 89% of our sales and marketing expenses, and sales and marketing expenses constituted 75% of our operating expenses, in 2021. We have extensive experience in cost-effective, data-driven digital marketing and user acquisition. We also design innovative marketing programs that help increase brand awareness by targeting people who we believe have a higher propensity to engage with our platform and buy from our merchants. We continue to partner with various social-media platforms to ensure we gain exposure with broader audiences.
+ 
+In 2021, we faced the headwinds of reduced retention and new buyer conversion and a rise in digital advertising costs. In response to rising digital advertising costs, which contributed to lower marketing efficiency, we decided to significantly reduce our digital advertising expenditures starting in the third quarter of 2021, as we focused our resources on other strategic initiatives. As discussed below under “Management’s Discussion and Analysis of Financial Condition and Results of Operations—Key Financial and Performance Metrics,” our monthly active users and last twelve months active buyers were negatively impacted by our decision to significantly reduce our digital advertising expenditures. Starting in the third quarter of 2021, in response to these headwinds, we commenced a number of initiatives that we believe will improve the user experience and increase retention, including (i) enhancing our product quality and selection, (ii) providing an unmatched fun and entertaining shopping experience, and (iii) improving the performance of the app.  We believe our continued strategy to improve users’ experience in our marketplace and provide a more differentiated and engaging user experience will position us for long-term sustainable growth.     
+ 
+We currently acquire new users through a variety of marketing channels including social media, search engine optimization and brand-oriented marketing campaigns. We rely on our data to understand consumer behavior and long term value of the consumer which guide our acquisition strategy. We also utilize data in determining how best to engage our users and seek to optimize the mode, timing and frequency of interactions across our mobile app, SMS text, mobile notifications, and emails.
+ 
+We have invested heavily in building a talented in-house marketing team, while also developing proprietary technologies that enable us to build data-driven and highly-personalized campaigns that can scale globally on digital platforms including Facebook, Instagram, and various Google properties. Our marketing efforts also focus on re-targeting of existing users, building our brand, generating awareness, and cultivating the Wish community. 
+ 
+Additionally, our user base has created additional opportunities for us to reach existing and new customers organically, a venue of demand generation that supplements our paid market efforts.
+ 8
+
+
+Finally, we also invest in efficient sales and marketing activities to identify and onboard high potential merchants around the world both for our online marketplace as well as Wish Local. Similar to our user acquisition strategies, we deploy digital performance marketing campaigns on social media and other channels to acquire new merchants. We supplement this effort with offline marketing activities that include attending trade shows and conducting seminars. We also leverage partnerships with third-party platforms for merchant referrals.
+ 
+Research and Development
+ 
+We have a technology and data-driven research and development culture that allows us to deliver a high-quality experience for our users and merchants. Our research and development talent is responsible for the design, development, testing, and delivery of our platform and user experience. The vast majority of our research and development talent is located in San Francisco and Toronto. We strive to create an environment that utilizes our employees’ talents and satisfies their intellectual curiosities while promoting the development of impactful and transformative technologies.
+ 
+As a company, we invest substantial resources in research and development to drive core technology innovation and bring new products to market. As of December 31, 2021, 44% of our total headcount was involved in research and development and related activities.
+ 
+Our Competition
+ 
+We compete for both users and merchants. For users, we compete on the basis of affordability and user experience. For merchants, we compete on the basis of providing profitable distribution, an end to end platform and global reach.
+ Our online competitors include large, global ecommerce platforms such as Amazon, Alibaba, Shein, and Shopify as well as more traditional discount retailers such as Walmart and Target. Our offline competitors also include scaled discount retailers that offer heavily discounted and off-season products, such as Dollar General and TJ Maxx. We are able to compete for users based on our massive product selection, low prices and daily discounts, deeply-personalized and differentiated shopping experience powered by our data science and optimized for the mobile device, and entertainment derived from various engaging and interactive features of our platform.
+ 
+Intellectual Property
+ 
+We rely on federal, state, common law, and international rights, as well as contractual restrictions, to protect our intellectual property. We control access to our proprietary technology through a combination of trademarks, domain names, copyrights, trade secrets, patents, and confidentiality agreements with employees and third parties. We pursue the registration of our copyrights, trademarks, service marks, and domain names in the United States and in certain locations outside the United States. Our success depends in part upon our ability to protect and use our core technology and intellectual property. We rely on a combination of trade secret, copyright, trademark and, to a lesser extent, patent laws, as well as confidentiality protection procedures to protect our intellectual property rights. 
+ 
+See Item 1A, "Risk Factors," for further discussion of risks related to protecting our intellectual property.
+ 9
+
+
+Government Regulations 
+ 
+As with any company operating on the Internet, we are subject to a growing number of local, national and international laws and regulations. These laws are often complex, sometimes contradict other laws, and are frequently still evolving. Laws may be interpreted and enforced in different ways in various locations around the world, posing a significant challenge to our global business. For example, U.S. federal and state laws, EU Directives and Regulations, and other national laws govern the processing of payments, consumer protection and the privacy of consumer information; other laws define and regulate unfair and deceptive trade practices. Still other laws dictate when and how sales or other taxes must be collected. The growing regulation of ecommerce worldwide could impose additional compliance burdens and costs on us or on Wish merchants, and could subject us to significant liability for any failure to comply. Additionally, because we operate internationally, we need to comply with various laws associated with doing business outside of the United States, including anti-money laundering, anti-corruption and export control laws. Recent trends globally toward increased protectionism and trade barriers can result in actions by governments around the world that may be disruptive to our businesses. 
+ 
+See Item 1A, "Risk Factors," for further discussion of risks related to government regulations and other legal obligations related to privacy, data protection, information security, and consumer protection.
+ 
+Legal Proceedings
+ 
+We are currently involved in, and may in the future be involved in, actual and threatened legal proceedings, claims, investigations and government inquiries arising in the ordinary course of our business, including legal proceedings, claims, investigations and government inquiries involving intellectual property, data privacy and data protection, torts, consumer protection, securities, employment, contractual rights or false or misleading advertising. We are also regularly subject to proceedings, claims, investigations and government inquiries seeking to hold us liable for the actions of merchants on our platform.
+ Although the results of the actual and threatened legal proceedings, claims, investigations and government inquiries in which we currently are involved cannot be predicted with certainty, we do not believe that there is a reasonable possibility that the final outcome of these matters will have a material adverse effect on our business or financial results. Regardless of the final outcome, however, litigation can have an adverse impact on us because of defense and settlement costs, diversion of management resources, harm to our reputation and brand, and other factors.
+ 
+See Item 1A, “Risk Factors,” for further discussion of risks related to legal proceedings. See also, Notes to Consolidated Financial Statements, Note 7. Commitments and Contingencies, “Legal Contingencies and Proceedings,” for further discussion of current litigation.     
+ 
+Human Capital
+ 
+We are continually investing in the engagement and retention of our global workforce by creating an inclusive workplace, providing market-competitive benefits to support our employees’ health and well-being, and fostering a learning environment in support of their growth and development. As of December 31, 2021, we had a total of 1218 full-time employees worldwide, of which 793 are in the US. 
+ 
+We also engage temporary employees and consultants as needed to support our operations. None of our employees in the United States are represented by a labor union or subject to a collective bargaining agreement. In certain countries in which we operate, we may be subject to, and need to comply with, local labor law requirements which may automatically make our employees subject to industry-wide collective bargaining agreements. We may be required to comply with the terms of these collective bargaining agreements. We have not experienced any work stoppages, and we consider our relations with our employees to be good.
+ 10
+
+
+Diversity and Inclusion
+ 
+We are committed to creating and maintaining a workplace free from discrimination or harassment on the basis of race, color, citizenship, religion, creed, national origin, ancestry, gender, sexual orientation, age, marital status, veteran status, disability, medical condition, or any other status protected by applicable law. Our global employment policies and compliance trainings prohibit such discrimination and harassment. Our management team and employees are also expected to exhibit and promote honest, ethical, and respectful conduct in the workplace. All of our employees must adhere to a code of business conduct and ethics that sets standards for appropriate behavior and are required to attend annual training on the code of business conduct and ethics.
+Employee Development and Training
+ 
+Our values-based culture is a critical component of our success. Our employees are critical to the success of our company, and we strive to create a supportive environment, where they can contribute, learn, and grow in their careers. Our culture promotes feedback, where we seek divergent points of view so that healthy debate can drive strong decision making. We encourage a culture where everyone feels a sense of agency and can contribute to the success of the company. We foster opportunities for our employees to grow in both formal and informal learning environments, inside and outside of the Company. We prioritize employee development and training, which we believe has a direct impact on employee growth, engagement, and retention. To continue to support managers and individual contributors at Wish, most of whom work remotely due to the on-going COVID-19 pandemic, we provide virtual training and development opportunities. We also support the well-being of our employees by providing regular mental health breaks and wellness benefits to support their overall health and ongoing well-being. We continue to optimize our organizational efficiency and collaboration by providing training on strengthening communication skills and leading effective meetings. We believe that employee development is a shared responsibility of employee and manager, and through both formal and informal methods, we strive to build trust and encourage knowledge sharing and mentorship. We have a robust talent calibration and succession planning process designed to assess our top talent and identify any skills gaps with development plans.
+Flexibility and Decentralization
+ 
+While we have distributed teams collaborating around the world, the COVID-19 pandemic pivoted the vast majority of our employees to work from home starting March 2020. Despite the easing of governmental stay-at-home mandates, in the first quarter of 2022, we made a decision to shift towards a primarily remote working environment in which most employees will have the option to work from home even after we reopen our offices. We believe this flexible location policy will unlock further opportunities to source, connect, and hire talent in more locations as well as enable us to retain talent, as employees can continue to work for Wish if they need or want to relocate.
+Information about Segment and Geographic Areas
+ 
+The segment and geographic information required herein is contained in Note 13 of Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
+ 11
+
+
+Corporate Information
+ 
+We were incorporated in the state of Delaware in June 2010 as ContextLogic Inc., d/b/a “Wish.” Our principal executive offices are located at One Sansome Street 33rd Floor, San Francisco, California 94104. Our telephone number is (415) 432-7323. Our website address is www.wish.com. 
+ We use various trademarks, trade names, and design marks in our business, including Wish™, Wish Shopping Made Fun™, W™, WishPost™, Wish Pickup™, Wish Local™, ProductBoost™, and ContextLogic™. This annual report also contains trademarks and trade names of other businesses that are the property of their respective holders. We do not intend our use or display of other companies’ trademarks and trade names to imply a relationship with, or endorsement or sponsorship of us by, these other companies.
+Available Information
+ 
+We file our annual reports on Form 10-K, quarterly reports on Form 10-Q, and current reports on Form 8-K with the SEC electronically. The SEC maintains a website that contains reports, proxy and information statements, and other information regarding issuers, including ContextLogic Inc. that file electronically with the SEC. The address of that website is https://www.sec.gov.
+ 
+You may obtain a free copy of our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports on our website at http://www.wish.com under the Investor Relations section. Such reports and other information are available on our website as soon as reasonably practicable after they are electronically filed with, or furnished to, the SEC. Our Corporate Governance Standards, the charters of our Audit Committee, Compensation Committee, and Nominating and Corporate Governance Committee, as well as our Worldwide Code of Business Conduct are also available on our website. Information on our website is not, and will not be deemed, a part of this report or incorporated into any other filings the Company makes with the SEC.
+ 
+Investors and others should note that we announce material financial and operational information to our investors using our Investor Relations website (https://ir.wish.com), press releases, SEC filings and public conference calls and webcasts. We also use the following channels to provide updates to the public about our business, activities, and other related matters, which could be deemed to be material information: www.twitter.com/WishShopping and www.linkedin.com/company/wishshopping. Information contained on or accessible through our websites are neither a part of nor incorporated by reference into this Annual Report on Form 10-K or any other report or document we file with or furnish to the SEC, and any references to our websites and the inclusion of our website addresses in this Annual Report on Form 10-K are intended to be inactive textual references only.
+ 12
+
+

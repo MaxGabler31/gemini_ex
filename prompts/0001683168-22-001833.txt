@@ -1,0 +1,358 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Overview
+    Phio Pharmaceuticals Corp. (“Phio,” “we,” “our” or the “Company”) is seeking to address the biggest challenges in immuno-oncology by creating new pathways to a cancer-free future for patients. We are developing therapeutics that leverage our INTASYL™ technology to target both tumor and immune cells by regulating genes to strengthen a patient’s immune system while weakening tumor defense mechanisms. With our INTASYL self-delivering RNAi technology, we aim to bring the benefits of RNA therapeutics into cancer care where other modalities may fall short.
+Our Development Pipeline
+ 
+We are developing a pipeline of immuno-oncology therapies using our INTASYL technology that has the ability to attack cancers in multiple ways. Our INTASYL-based therapeutics are used to: (1) strengthen immune cells, for example those administered as part of adoptive cell therapy (“ACT”), and (2) directly modify cells in the tumor microenvironment (the “TME”) to weaken a tumor’s defense. These two strategies allow for multiple therapeutic applications of our INTASYL products.
+ 
+
+
+
+
+
+2
+-
+
+ 
+
+In contrast to other RNA technologies and platforms, the self-delivering nature of our INTASYL platform makes it ideally suited for use with ACT treatments, as well as for direct therapeutic use. By using INTASYL technology during the manufacturing of ACT cell products we can improve the phenotype and function of these cells, potentially leading to better therapeutic outcomes. Multiple inhibitory mechanisms restrain immune cells from effectively eradicating tumors, including immune checkpoints, reduced cell fitness and cell persistence. Furthermore, the immunosuppressive TME can pose a formidable barrier to immune cell infiltration and function. By using INTASYL based drugs administered directly, we can also reprogram cells in the TME to help overcome these immunosuppressive mechanisms.
+ 
+INTASYL Use To Improve Adoptive Cell Therapy Products 
+ 
+ACT consists of the administration of immune cells with antitumor properties to patients to fight cancer after growing the cells in a lab to large numbers. These cells can be derived from unmodified (i.e. naturally occurring) immune cells, immune cells isolated from resected tumors or genetically engineered immune cells that recognize tumor cells. These cells have several shortcomings that inhibit their full therapeutic potential in patients with solid tumors.
+ 
+There are several types of ACT, including: a.) non-engineered cell therapy in which immune cells are grown from the patient’s tumor or blood, such as tumor infiltrating lymphocytes (“TILs”), or from donor blood or tissue such as natural killer (“NK”) cells, dendritic cells (“DC”) and macrophages, and b.) genetically engineered immune cells that are genetically modified to recognize specific tumor proteins and to remain in an activated state (such as T cell receptor technology (“TCRs”), chimeric antigen receptor (“CAR”) T cells, or CAR-NK cells).
+ 
+Multiple inhibitory mechanisms restrain immune cells used in ACT from effectively eradicating tumors, including immune checkpoints, reduced cell fitness and cell persistence, and other barriers to immune cell infiltration and function mainly in solid tumors. When used in ACT, we believe our INTASYL compounds can improve immune cell function, differentiation and metabolism, in order to make these immune cells more effective without the need for additional complicated manufacturing steps and/or genetic engineering.
+ 
+Our approach builds on well-established methodologies of ACT and involves the treatment of immune cells with our INTASYL compounds ex vivo while they are grown in the lab and before administering them to the patient. In contrast to other RNA technologies, our INTASYL compounds do not require a delivery vehicle to penetrate into the cells, therefore we are able to enhance the function of these cells by merely adding our INTASYL compounds during the expansion process and without the need for genetic engineering, complex delivery vehicles or formulations, or additional complex manufacturing steps, which in themselves may be detrimental to the cells. By adding INTASYL to the cell culture media used during the cell expansion, we can reduce or eliminate the expression of genes that make the immune cells less effective. For example, with our INTASYL compounds, we can reduce the expression of immunosuppressive proteins by the therapeutic immune cells, potentially enabling them to overcome tumor resistance mechanisms and thus improving their ability to destroy the tumor cells. In various types of immune cells tested to date, INTASYL treatment results in potent silencing with close to 100% transfection efficiency and while maintaining cell viability and cell growth rate. After expanding these cells and enhancing them with INTASYL ex vivo, they are returned to the patient for treatment.
+ 
+The table below sets forth the Company’s pipeline for its INTASYL product candidates for use in ACT: 
+ 
+
+
+
+
+
+3
+-
+
+ 
+
+Our lead product candidate, and our most advanced program being developed by the Company in ACT, is PH-762. PH-762 is an INTASYL compound that activates immune cells to better recognize and kill cancer cells by reducing the expression of the checkpoint protein PD-1, a clinically validated target for immunotherapy. Checkpoint proteins, such as PD-1, normally act as a type of “off switch” that prevent T cells, immune cells that protect the body from cancer cells and infections, from attacking certain cells in the body, such as cancer cells. The expression of PD-1 enables the cancer cell to evade the T cell. Reducing the expression of PD-1 can thereby reduce the ability of cancer cells to avoid T cell detection.
+ 
+Data has shown that PH-762 silences PD-1 checkpoint expression in T cells, thereby removing the “off switch” and enabling T cells to overcome tumor resistance mechanisms, and thus improving their ability to destroy tumor cells. Preclinical studies show that PH-762 can silence the expression of PD-1 in target human T cells in a potent and durable manner and can increase their tumor cell-killing ability. Patient derived T cells treated with PH-762, in comparison to untreated T cells, were shown to have increased tumor killing potency against tumor cells of the same patient. As a result, we believe that PH-762 in ACT is well-positioned to enhance therapeutic responses in cancer.
+ 
+In March 2021, the Company announced that it entered into a clinical development collaboration with AgonOx, Inc. (“AgonOx”), a private company developing a pipeline of novel immunotherapy drugs targeting key regulators of the immune response to cancer, in which the companies will collaborate on the development of novel T cell-based therapies using PH-762 and AgonOx’s “double positive” TIL (“DP TIL”) technology. Per the terms of the clinical development agreement, AgonOx will receive financial support from Phio to conduct a clinical trial in ACT with their DP TIL technology and PH-762, and Phio will be entitled to certain future development milestones and sales-based royalty payments from AgonOx’s DP TIL technology. AgonOx has demonstrated that their DP TIL enriched cell populations have increased tumor killing activity when compared to TILs that were not enriched prior to expansion. Preclinical data from our research collaboration with AgonOx has shown that treating DP TILs with PH-762 increases the tumor killing activity of the DP TILs even further (a two-fold increase). As a result, we expect the use of PH-762 treated DP TILs to enhance therapeutic responses in cancer. Based on these data, our clinical development collaboration will focus on conducting a clinical study for PH-762 treated DP TILs. The Company expects to start the clinical trial evaluating the use of PH-762 and DP TILs in ACT in the second quarter of 2022.
+ 
+PH-762 use in ACT is not limited to TILs, but can also be used on other forms of T cell-based cell therapy. We recently presented in vivo data showing that PH-762 significantly enhanced the antitumor efficacy of HER2-targeted CAR-T cells (“HER2CART”) in solid tumors. Compared to untreated HER2CART cells, HER2CART cells treated with PH-762 showed a statistically significant and durable inhibition of tumor growth. Analysis of the PH-762 treated HER2CART cells isolated from the tumors suggest that PH-762 enhances CAR-T function through multiple mechanisms including enhanced efficiency, degranulation and promotion of memory/stem populations. We believe that this data provides proof of concept for the application of PD-1 checkpoint silencing with INTASYL in CAR-T cells prior to ACT to enhance the therapeutic efficacy of CAR-T cell therapy in solid tumors.
+ 
+Our second product candidate in development for use in ACT is PH-894. PH-894 is an INTASYL compound that silences the epigenetic protein BRD4, which is an intracellular regulator of gene expression that impacts cell differentiation, and hence, cell function. Like other epigenetic targets, BRD4 is a protein that has been shown to be difficult to target with current drug modalities. Since BRD4 is an intracellular protein, antibody therapies cannot be used and small molecule inhibitors tested to date typically lack the required specificity. As our INTASYL compounds can target intracellular proteins as well as extracellular proteins with a high level of specificity, we believe that PH-894 has significant potential. In collaboration with the Karolinska Institutet in Sweden, PH-894 has been shown to improve T cell function and persistence by differentiating T cells into a more active state (stem-cell like memory phenotype). We have demonstrated that the application of PH-894 is shown to silence BRD4 in human T cells during expansion for ACT, which has the potential to confer superior anti-tumor activity.
+ 
+Our INTASYL compound PH-804 is also being developed for use in ACT. PH-804 targets the suppressive immune receptor TIGIT, which is a checkpoint protein present on immune cells, such as T cells and NK cells. Similar to PD-1, cancer cells can suppress the activity of these immune cells by activating TIGIT. This triggers an “off switch,” resulting in tumor immune evasion, which can be prevented by blocking or silencing TIGIT. PH-804 provides powerful dose-dependent silencing of TIGIT that can be seen in both T cells and NK cells and we have shown that PH-804 can silence the expression of TIGIT in these cells, overcoming their “off switch” and thereby becoming “weaponized” to kill cancer cells.
+ 
+
+
+
+
+4
+-
+
+Direct Therapeutic Use of INTASYL Towards the Tumor Microenvironment
+ 
+Cancer cells have evolved natural defenses that can suppress the immune system surrounding the tumor, in an area called the tumor microenvironment, which decreases the effectiveness of many traditional immunotherapies. Reprogramming different cell types in the TME, such as cancer cells and immune cells, may overcome these natural tumor defenses and decrease resistance to immunotherapy. An optimal treatment therapy should have the ability to address targets both inside and on the surface of tumor and immune cells, creating multiple ways to prevent tumors from evading immune detection. Our INTASYL compounds can target both intracellular and extracellular targets, and are also being developed for use as direct therapeutics to reprogram the TME, for example, by in situ transfection and activation of immune cells in the TME. Therefore, INTASYL-based drug therapy is a novel way of fighting cancer by reprogramming the cells in the TME to make cancer more responsive to a patient’s immune system and to other anti-cancer drugs.
+ 
+The table below sets forth the Company’s pipeline for its direct-to-tumor INTASYL product candidates: 
+ 
+
+
+Our most advanced program being developed by the Company in our direct to tumor therapy programs, is PH-762. We have shown that we can reprogram the TME with PH-762 and achieve local activation of immune cells. Preclinical studies conducted by the Company showed that local administration of PH-762 through intratumoral injection resulted in potent anti-tumoral effects. Treated animals showed a complete and statistically significant inhibition of tumor growth, whereas placebo treated animals displayed exponential tumor growth. Recently announced in vivo data showed that intratumoral treatment with PH-762 inhibits tumor growth in a dose dependent fashion in PD-1 responsive and refractory models. Furthermore, on target efficacy was supported by modulation of immune cell populations toward anti-tumor phenotypes. Importantly, local administration of PH-762 resulted in activity against distal untreated tumors, indicative of a systemic anti-tumor response. The Company believes this data further supports the potential for PH-762 to provide a strong local immune checkpoint blockade without the dose immune-related adverse effects seen with systemic antibody therapy.
+ 
+
+
+
+
+5
+-
+
+ 
+
+In January 2022, the Company was granted clinical trial authorization (CTA) by the French National Agency for the Safety of Medicines and Health Products to proceed with our first-in-human clinical trial for PH-762 to treat patients with melanoma at the Gustave Roussy Institute, one of the largest cancer centers in Europe. This first clinical trial with PH-762 will be a Phase 1b study to evaluate the safety, tolerability, pharmacokinetics and anti-tumor activity of PH-762 in a neoadjuvant setting in subjects with advanced melanoma. Currently, there are no neoadjuvant treatment options approved for these patients. The clinical study will feature a dose escalation of PH-762 monotherapy and is designed to allow for a data driven evaluation of the recommended Phase 2 dose. The Company expects to start patient enrollment in the first quarter of 2022.
+ 
+Our second direct to tumor product candidate is PH-894. In a study conducted in collaboration with the Karolinska Institutet, we demonstrated that PH-894 resulted in a strong, concentration dependent and durable silencing of BRD4 in T cells, and in various cancer cells. Data published with PH-894 in a hepatocellular carcinoma model showed potent and statistically significant anti-tumoral effects when administered locally. These data show that our PH-894 compound can reprogram T cells and other cells in the TME to provide enhanced immunotherapeutic activity. Recent in vivo data showed that local administration of PH-894 also resulted in a systemic anti-tumor response, similar to PH-762. PH-894 shows the power of our INTASYL compounds to modulate the expression of intracellular and/or commonly considered “undruggable” targets, a limitation for small molecule and antibody therapies. The Company currently expects to finalize investigational new drug (“IND”)-enabling studies for PH-894 in the second half of 2022. 
+ 
+We are also investigating the use of INTASYL to target multiple genes in a single formulation. New study data showed that PH-3861, a dual-targeting INTASYL towards PD-1 and BRD4, elicited complete cure of tumors in an in vivo hepatoma model and outperformed the efficacy of the small molecule and antibody control treatments toward the same targets. In addition, local INTASYL therapy was shown to induce a systemic anti-tumor response with clearance of untreated distal tumors. The animals which showed complete cure of their tumors were then rechallenged over two months after the original treatment of PH-3861 by re-implanting hepatoma cancer cells at a different location to the original tumor. All of the mice that were rechallenged with new tumors were cured again without requiring further treatment, while tumors grew steadily in the control group as expected. We believe that these data demonstrate that local administration of PH-3861 provides a durable and systemic anti-tumor immune response that can combat tumor growth.
+ 
+Our INTASYL Platform 
+ 
+Our development efforts are based on our broadly patented INTASYL technology platform. Our INTASYL compounds do not require a delivery vehicle to penetrate into tissues and cells and are designed to “silence” or down-regulate the expression of a specific gene which is over-expressed in cancer.
+ 
+Diseases are often related to the wrong protein being made, excessive amounts of a specific protein being made, or the correct protein being made but at the wrong location or time. Overall, RNA is involved in the synthesis, regulation and expression of proteins. RNA interference (“RNAi’) is a biological process in which specific RNA molecules inhibit gene expression or translation into proteins. RNAi offers a novel approach to drug development because RNAi compounds can be designed to silence any one of the thousands of human genes, many of which are “undruggable” by other modalities. The potential of RNAi as a powerful drug development platform has been shown by several RNAi based drugs becoming approved over the last few years.
+ 
+The first design of RNAi compounds to be pursued for the development of human therapeutics were short, double-stranded RNAs that included limited modifications, known as small-interfering RNA (“siRNA”). Since the initial discovery of RNAi, drug delivery has been the primary challenge in developing RNAi-based therapeutics. One solution to the delivery problem involves encapsulation of siRNA into lipid-based formulations, such as liposomes, to improve cellular uptake. Another approach is to use chemical conjugations of a ligand, such as GalNAC, for cell specific delivery limited to hepatocytes. We have developed an alternative approach where delivery and drug-like properties are built directly into the RNAi compound itself, whereby the RNAi uptake is neither dependent on complex formulation nor limited to addressing a specific cell type. These novel compounds are termed self-delivering RNAi compounds, or INTASYL.
+ 
+
+
+
+
+6
+-
+
+ 
+
+Our INTASYL compounds are hybrid oligonucleotide compounds that the Company believes combines the beneficial properties of both conventional RNAi and antisense technologies. In an attempt to combine the best properties of both technologies, INTASYL compounds have a single-stranded phosphorothioate region, a short duplex region, and contain a variety of nuclease-stabilizing and lipophilic chemical modifications. The combination of these features allows INTASYL compounds to achieve efficient spontaneous cellular uptake and potent, long-lasting intracellular activity.
+ 
+The key to therapeutic success with RNAi lies in delivering intact RNAi compounds to the target tissue and the interior of the target cells. To accomplish this, our chemically synthesized INTASYL compounds are optimized for stability and efficacy and have unique properties that improve tissue and cell uptake.
+ 
+We believe that our INTASYL platform uniquely positions the Company in the field of immuno-oncology for the following reasons:
+ 
+
+· | Targets multiple genes (i.e. multiple immunosuppression pathways) in a single therapeutic entity; 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+· | Results in a sustained, or long-term, effect in vivo; 
+· | Favorable clinical safety profile of INTASYL with local administration; 
+· | Efficient uptake of INTASYL by target cells, obviating the need for facilitated delivery (e.g. mechanical or formulation which can be detrimental to the cells); and
+· | Readily manufactured under current good manufacturing practices. 
+
+Intellectual Property
+ 
+We protect our proprietary information by means of United States and foreign patents, trademarks and copyrights. In addition, we rely upon trade secret protection and contractual arrangements to protect certain of our proprietary information and products. We have pending patent applications that relate to potential drug targets, compounds we are developing to modulate those targets, methods of making or using those compounds and proprietary elements of our drug discovery platform.
+ 
+Much of our technology and many of our processes depend upon the knowledge, experience and skills of key scientific and technical personnel. To protect our rights to our proprietary know-how and technology, we require all employees, as well as our consultants and advisors when feasible, to enter into confidentiality agreements that require disclosure and assignment to us of ideas, developments, discoveries and inventions made by these employees, consultants and advisors in the course of their service to us.
+ 
+We have also obtained rights to various patents and patent applications under licenses with third parties, which require us to pay royalties, milestone payments, or both. The degree of patent protection for biotechnology products and processes, including ours, remains uncertain, both in the United States and in other important markets, because the scope of protection depends on decisions of patent offices, courts and lawmakers in these countries. There is no certainty that our existing patents or others, if obtained, will afford us substantial protection or commercial benefit. Similarly, there is no assurance that our pending patent applications or patent applications licensed from third parties will ultimately be granted as patents or that those patents that have been issued or are issued in the future will stand if they are challenged in court. We assess our license agreements on an ongoing basis and may from time to time terminate licenses to technology that we do not intend to employ in our technology platforms, or in our product discovery or development activities.
+ 
+
+
+
+
+7
+-
+
+Patents and Patent Applications 
+ 
+We are actively seeking protection for our intellectual property and are prosecuting a number of patents and pending patent applications covering our compounds and technologies. A combined summary of these patents and patent applications is set forth below in the following table:
+
+ | Pending Applications | | Issued Patents
+--------------+----------------------+----+---------------
+United States | | 13 | | 48
+Canada | | 6 | | 4 
+Europe | | 24 | | 43
+Japan | | 10 | | 14
+Other Markets | | 16 | | 13
+
+ 
+Our portfolio includes 122 issued patents, 85 of which cover our INTASYL platform. There are 17 patent families broadly covering both the composition and methods of use of our self-delivering platform technology and uses of our INTASYL compounds targeting immune checkpoint, cellular differentiation and metabolism targets for ex vivo cell-based cancer immunotherapies. These patents are scheduled to expire between 2029 and 2040. Furthermore, there are 69 patent applications, encompassing what we believe to be important new RNAi compounds and their use as therapeutics, chemical modifications of RNAi compounds that improve the compounds’ suitability for therapeutic uses (including delivery) and compounds directed to specific targets (i.e., that address specific disease states). The patents and any patents that may issue from these pending patent applications will, if issued, be set to expire between 2022 and 2040, not including any patent term extensions that may be afforded under the Federal Food, Drug, and Cosmetic Act (“FFDCA”) (and the equivalent provisions in foreign jurisdictions) for any delays incurred during the regulatory approval process relating to human drug products (or processes for making or using human drug products).
+ 
+Key Intellectual Property License Agreements
+ 
+As we develop our own proprietary compounds, we continue to evaluate our in-licensed portfolio as well as the field for new technologies that could be in-licensed to further enhance our intellectual property portfolio and unique intellectual property position.
+ 
+Advirna LLC. On September 24, 2011, we entered into an agreement with Advirna, LLC (“Advirna”) pursuant to which Advirna assigned to us its existing patent and technology rights related to the INTASYL technology and we granted back to Advirna a license for use of the assigned patent and technology rights outside of human therapeutics and diagnostics. Under the terms of the agreement, in April 2012, the Company issued to Advirna shares of common stock equal to 5% of the Company’s fully-diluted shares outstanding at the time of issuance and paid a one-time milestone payment of $350,000 in 2014 upon the issuance of the first patent under the agreement. The Company also pays to Advirna an annual maintenance fee of $100,000 and is required to pay a low single-digit royalty on any license revenue received by the Company with respect to future licensing of the assigned Advirna patent and technology rights. To date, royalties owed to Advirna have been minimal.
+ 
+Our rights under the Advirna agreement will expire upon the later of: (i) the expiration of the last-to-expire of the “patent rights” (as defined therein) or (ii) the abandonment of the last-to-be abandoned of such patents, unless earlier terminated in accordance with the provisions of the agreement. We may terminate the Advirna agreement at any time upon 90 days’ written notice to Advirna, and Advirna may terminate the agreement upon 90 days’ prior written notice in the event that we cease using commercially reasonable efforts to research, develop, license or otherwise commercialize the patent rights or “royalty-bearing products” (as defined therein), provided that we may refute such claim within such 90-day period by showing budgeted expenditures for the research, development, licensing or other commercialization consistent with other technologies of similar stage of development and commercial potential as the patent rights or royalty-bearing products. Further, either party at any time may provide to the other party written notice of a material breach of the agreement. If the other party fails to cure the identified breach within 90 days after the date of the notice, the aggrieved party may terminate the agreement by written notice to the party in breach.
+ 
+
+
+
+
+8
+-
+
+Research and Development 
+ 
+Our research and development expense primarily consists of compensation and benefits for research and development personnel, facility-related expenses, supplies, external services, costs to acquire technology licenses, expenses associated with preclinical and clinical development activities and other operating costs.
+ 
+Total research and development expense for the years ended December 31, 2021 and 2020 was $8,886,000 and $3,716,000, respectively.
+ 
+Competition
+ 
+The biotechnology and pharmaceutical industries, including the immuno-oncology field, are a constantly evolving landscape with rapidly advancing technologies and significant competition. There are a number of competitors in the immuno-oncology field including large and small pharmaceutical and biotechnology companies, academic institutions, government agencies and other private and public research organizations.
+ 
+A variety of cell-based autologous and allogeneic approaches are being researched and developed for the treatment of cancer. We believe that competitors developing TIL-based and NK cell-based therapies in this field, our initial areas of focus in ACT, include, but are not limited to, Acepodia Inc., Achilles Therapeutics plc, AgonOx, Inc., Artiva Biotherapeutics, Inc., Caribou Biosciences, Inc., Century Therapeutics, Inc., Cytovia Therapeutics, Inc., Editas Medicine, Inc., Fate Therapeutics, Inc., Gamida Cell Ltd., Glycostem Therapeutics B.V., Instil Bio, Inc., Iovance Biotherapeutics, Inc., KSQ Therapeutics, Inc., Lyell Immunopharma, Inc., MiNK Therapeutics, Inc., Nkarta, Inc., ImmunityBio, Inc., NKGen Biotech, Inc., ONK Therapeutics Limited, Sanofi S.A., Shoreline Biosciences, Inc., Sorrento Therapeutics, Inc., SQZ Biotechnologies Company, Takeda Pharmaceutical Company Limited and Turnstone Biologics Corp. All of these companies are larger than us and have greater financial resources and human capital to develop competing products.
+ 
+A number of companies have taken the direct therapeutic approach to modulating gene expression in the field of immuno-oncology and are conducting research and development. We believe that competitors in this field include, but are not limited to, Portage Biotech Inc., Cytovation ASA, Targovax ASA, Lytix Biopharma AS, Checkmate Pharmaceuticals, Inc., Idera Pharmaceuticals, Inc., SillaJen, Inc., Duet Therapeutics, a wholly owned subsidiary of Scopus Biopharma Inc., OncoSec Medical Incorporated and Philogen S.p.A.
+ 
+Government Regulation
+ 
+Review and Approval of Drugs in the United States
+ 
+The United States and many other countries extensively regulate the preclinical and clinical testing, manufacturing, labeling, storage, record-keeping, advertising, promotion, export, marketing and distribution of drugs and biologic products. The U.S. Food and Drug Administration (“FDA”) regulates pharmaceutical and biologic products under the FFDCA, the Public Health Service Act and other federal statutes and regulations.
+ 
+To obtain approval of our future product candidates from the FDA, we must, among other requirements, submit data supporting safety and efficacy for the intended indication as well as detailed information on the manufacture and composition of the product candidate. In most cases, this will require extensive laboratory tests and preclinical and clinical trials. The collection of these data, as well as the preparation of applications for review by the FDA involve significant time and expense. The FDA also may require post-marketing testing to monitor the safety and efficacy of approved products or place conditions on any approvals that could restrict the therapeutic claims and commercial applications of these products. Regulatory authorities may withdraw product approvals if we fail to comply with regulatory standards or if we encounter problems at any time following initial marketing of our products.
+ 
+
+
+
+
+9
+-
+
+ 
+
+The first stage of the FDA approval process for a new biologic or drug involves completion of preclinical studies and the submission of the results of these studies to the FDA. These data, together with proposed clinical protocols, manufacturing information, analytical data and other information submitted to the FDA in an investigational new drug (“IND”) application, must become effective before human clinical trials may commence. Preclinical studies generally involve FDA regulated laboratory evaluation of product characteristics and animal studies to assess the efficacy and safety of the product candidate.
+ 
+After the IND becomes effective, a company may commence human clinical trials. These are typically conducted in three sequential phases, but the phases may overlap. Phase 1 trials consist of testing the product candidate in a small number of patients or healthy volunteers, primarily for safety at one or more doses. Phase 2 trials, in addition to safety, evaluate the efficacy of the product candidate in a patient population somewhat larger than Phase 1 trials. Phase 3 trials typically involve additional testing for safety and clinical efficacy in an expanded population at multiple test sites. A company must submit to the FDA a clinical protocol, accompanied by the approval of the Institutional Review Board (“IRB”) at the institutions participating in the trials, prior to commencement of each clinical trial.
+ 
+To obtain FDA marketing authorization, a company must submit to the FDA the results of the preclinical and clinical testing, together with, among other things, detailed information on the manufacture and composition of the product candidate, in the form of a new drug application (“NDA”), or, in the case of a biologic, a biologics license application (“BLA”).
+ 
+The amount of time taken by the FDA for approval of an NDA or BLA will depend upon a number of factors, including whether the product candidate has received priority review, the quality of the submission and studies presented, the potential contribution that the compound will make in improving the treatment of the disease in question and the workload at the FDA.
+ 
+The FDA may, in some cases, confer upon an investigational product the status of a fast track product. A fast track product is defined as a new drug or biologic intended for the treatment of a serious or life-threatening condition that demonstrates the potential to address unmet medical needs for this condition. The FDA can base approval of an NDA or BLA for a fast track product on an effect on a surrogate endpoint, or on another endpoint that is reasonably likely to predict clinical benefit. If a preliminary review of clinical data suggests that a fast track product may be effective, the FDA may initiate review of entire sections of a marketing application for a fast track product before the sponsor completes the application.
+ 
+We anticipate that our products will be manufactured by our strategic partners, licensees or other third parties. Before approving an NDA or BLA, the FDA will inspect the facilities at which the product is manufactured and will not approve the product unless the manufacturing facilities are in compliance with the FDA’s current good manufacturing practice regulations (“cGMP”), which are regulations that govern the manufacture, holding and distribution of a product. Manufacturers of biologics also must comply with the FDA’s general biological product standards. Our manufacturers also will be subject to regulation under the Occupational Safety and Health Act, the Nuclear Energy and Radiation Control Act, the Toxic Substance Control Act and the Resource Conservation and Recovery Act and other applicable environmental statutes. Following approval, the FDA periodically inspects drug and biologic manufacturing facilities to ensure continued compliance with the cGMP. Our manufacturers will have to continue to comply with those requirements. Failure to comply with these requirements subjects the manufacturer to possible legal or regulatory action, such as suspension of manufacturing or recall or seizure of product. Adverse patient experiences with the product must be reported to the FDA and could result in the imposition of marketing restrictions through labeling changes or market removal. Product approvals may be withdrawn if compliance with regulatory requirements is not maintained or if problems concerning safety or efficacy of the product occur following approval.
+ 
+The labeling, advertising, promotion, marketing and distribution of a drug or biologic product also must be in compliance with FDA and Federal Trade Commission requirements which include, among others, standards and regulations for off-label promotion, industry sponsored scientific and educational activities, promotional activities involving the internet, and direct-to-consumer advertising. We also will be subject to a variety of federal, state and local regulations relating to the use, handling, storage and disposal of hazardous materials, including chemicals and radioactive and biological materials. In addition, we will be subject to various laws and regulations governing laboratory practices and the experimental use of animals. In each of these areas, as above, the FDA has broad regulatory and enforcement powers, including the ability to levy fines and civil penalties, suspend or delay issuance of product approvals, seize or recall products and deny or withdraw approvals.
+ 
+We will also be subject to a variety of regulations governing clinical trials and sales of our products outside the United States. Whether or not FDA approval has been obtained, approval of a product candidate by the comparable regulatory authorities of foreign countries and regions must be obtained prior to the commencement of marketing the product in those countries. The approval process varies from one regulatory authority to another and the time may be longer or shorter than that required for FDA approval. In the European Union, Canada and Australia, regulatory requirements and approval processes are similar, in principle, to those in the United States.
+ 
+
+
+
+
+10
+--
+
+Review and Approval of Drugs in the European Union Including France
+ 
+In order to market any pharmaceutical product outside of the United States, a company must also comply with numerous and varying regulatory requirements of other countries and jurisdictions governing, among other things, research and development, testing, manufacturing, quality control, safety, efficacy, clinical trials, marketing authorization, packaging, storage, record keeping, reporting, export and import, advertising and other promotional practices involving pharmaceutical products, as well as commercial sales, distribution and post-approval monitoring and reporting of our products. Whether or not it obtains FDA approval for a pharmaceutical product, the company would need to obtain the necessary approvals by the comparable foreign regulatory authorities before it can commence clinical trials or marketing of the pharmaceutical product in those countries or jurisdictions. The approval process ultimately varies between countries and jurisdictions and can involve additional product testing and additional administrative review periods. The time required to obtain approval in other countries and jurisdictions might differ from and be longer and far more difficult than that required to obtain FDA approval. Regulatory approval in one country or jurisdiction does not ensure regulatory approval in another, but a failure or delay in obtaining regulatory approval in one country or jurisdiction may negatively impact the regulatory process in others.
+ 
+The United Kingdom (“UK”) formally left the European Union (“EU”) on January 31, 2020 and the transition period, during which EU laws continued to apply to the UK, expired on December 31, 2020. This means EU laws now only apply to the UK in respect of Northern Ireland as laid out in the Protocol on Ireland and Northern Ireland. Following the end of the transition period, the EU and the UK concluded a trade and cooperation agreement (“TCA”), which applied provisionally from January 1, 2021 and entered into force on May 1, 2021.
+ 
+The TCA includes provisions affecting the life sciences sector (including on customs and tariffs) but areas for further discussion between the EU and the UK remain. In addition, there are some specific provisions concerning pharmaceuticals. These include the mutual recognition of Good Manufacturing Practice (“GMP”) and issued GMP documents. The TCA does not, however, contain wholesale mutual recognition of UK and EU pharmaceutical regulations and product standards.
+ 
+Since January 1, 2021, the EU laws which have been transposed into UK law through secondary legislation continue to be applicable in the UK as “retained EU law”. As there is no general power to amend these regulations, the UK government has enacted the Medicines and Medical Devices Act 2021. The purpose of the act is to enable the existing regulatory frameworks in relation to human medicines, clinical trials of human medicines, veterinary medicines and medical devices to be updated. The powers under the act may only be exercised in relation to specified matters and must safeguard public health.
+ 
+Specified provisions of the Medicines and Medical Devices Act 2021 entered into force on February 11, 2021. The remaining provisions came into effect within two months of February 11, 2021 or will otherwise come into effect as stipulated in subsequent statutory instruments. The Medicines and Medical Devices Act 2021 supplements the UK Medical Devices Regulations 2002 (UK Regulations), which are based on the EU Medical Devices Directive as amended to reflect the UK’s post-Brexit regulatory regime. Notably, the UK Regulations do not include any of the revisions that have been made by the EU Medical Devices Regulation (EU) 2017/745, which, since May 26, 2021, now applies in all EU Member States.
+ 
+The UK’s Medicines and Healthcare products Regulatory Agency (“MHRA”) conducted a comprehensive consultation between September and November 2021 on proposals to develop a new UK regime for medical devices in the UK. The proposals include more closely aligning definitions for medical devices and in vitro medical devices with internationally recognized definitions and changing the classification of medical devices according to levels or risk. The proposals are intended to improve patient and public safety and increase the appeal of the UK market. The new regime is planned to come into force on July 1, 2023, which will align with the date from which the UK is due to stop accepting CE marked medical devices and require UKCA (UK Conformity Assessed) marking. It is envisaged that, in Northern Ireland, the amended regime could run in parallel with any existing or future EU rules in accordance with the Protocol on Ireland and Northern Ireland.
+ 
+
+
+
+
+11
+--
+
+Drug Development Process
+ 
+The conduct of clinical trials is currently governed by the EU Clinical Trials Directive 2001/20/EC (Clinical Trials Directive), and will be gradually replaced by the EU Clinical Trials Regulation (EU) No. 536/2014 (“CTR”). The CTR introduces a complete overhaul of the existing regulation of clinical trials for medicinal products in the EU. It entered into force on January 31, 2022.
+ 
+Under the current regime, which will expire after a transition period of one or three years, respectively, as outlined below in more detail, before a clinical trial can be initiated, it must be approved in each EU Member State in which the clinical trial is to be conducted. The approval must be obtained from two separate entities: the National Competent Authority (“NCA”) and one or more Ethics Committees. The NCA of the EU Member States in which the clinical trial will be conducted must authorize the conduct of the trial, and the independent Ethics Committee must grant a positive opinion in relation to the conduct of the clinical trial in the relevant EU Member State before the commencement of the trial. Any substantial changes to the trial protocol or other information submitted with the clinical trial applications must be submitted to or approved by the relevant NCA and Ethics Committees. Under the current regime all suspected unexpected serious adverse reactions to the investigated drug that occur during the clinical trial must be reported to the NCA and to the Ethics Committees of the EU Member State where they occur.
+ 
+A more unified procedure applies under the new CTR, which came into force on January 31, 2022. A sponsor is able to submit a single application for approval of a clinical trial through a centralized EU clinical trials portal. One national regulatory authority (the reporting EU Member State proposed by the applicant) takes the lead in validating and evaluating the application consult and coordinate with the other concerned Member States. If an application is rejected, it may be amended and resubmitted through the EU clinical trials portal. If an approval is issued, the sponsor may start the clinical trial in all concerned Member States. However, a concerned EU Member State may in limited circumstances declare an “opt-out” from an approval and prevent the clinical trial from being conducted in such Member State. The CTR also aims to streamline and simplify the rules on safety reporting, and introduces enhanced transparency requirements such as mandatory submission of a summary of the clinical trial results to the EU Database. While Member States will work in CTIS immediately after the system has gone live, the CTR provides for two transition periods for sponsors: For one year, until January 31, 2023, clinical trial sponsors can still choose whether to submit an initial clinical trial application in line with the current system (Clinical Trials Directive) or via CTIS. From January 31, 2023, submission of initial clinical trial applications via CTIS becomes mandatory, and by January 31, 2025, all ongoing trials approved under the current Clinical Trials Directive will be governed by the new Regulation and have to be transitioned to CTIS.
+ 
+Under both the current regime and the new CTR, national laws, regulations, and the applicable Good Clinical Practice and Good Laboratory Practice standards must also be respected during the conduct of the trials, including the International Council for Harmonization of Technical Requirements for Pharmaceuticals for Human Use guidelines on Good Clinical Practice (“GCP”) and the ethical principles that have their origin in the Declaration of Helsinki.
+ 
+Marketing Authorization Procedures
+ 
+In the EU and in Iceland, Norway and Liechtenstein (together, the European Economic Area or “EEA”), after completion of all required clinical testing, pharmaceutical products may only be placed on the market after obtaining a Marketing Authorization (“MA”). To obtain an MA of a drug under European Union regulatory systems, an applicant can submit a Marketing Authorization Application (“MAA”) through, amongst others, a centralized or decentralized procedure.
+ 
+The centralized procedure provides for the grant of a single MA by the European Commission (“EC”) that is valid for all EU Member States and, after respective national implementing decisions, in the three additional EEA Member States. The centralized procedure is compulsory for specific medicinal products, including for medicines developed by means of certain biotechnological processes, products designated as orphan medicinal products, advanced therapy medicinal products (“ATMP”) and medicinal products with a new active substance indicated for the treatment of certain diseases (AIDS, cancer, neurodegenerative disorders, diabetes, auto-immune and viral diseases).
+ 
+For medicinal products containing a new active substance not yet authorized in the EEA before May 20, 2004 and indicated for the treatment of other diseases, medicinal products that constitute significant therapeutic, scientific or technical innovations or for which the grant of a MA through the centralized procedure would be in the interest of public health at EU level, an applicant may voluntarily submit an application for a marketing authorization through the centralized procedure.
+ 
+
+
+
+
+12
+--
+
+ 
+
+Under the centralized procedure, the Committee for Medicinal Products for Human Use (“CHMP”), established at the European Medicines Agency (“EMA”), is responsible for conducting the initial assessment of a drug. The CHMP is also responsible for several post-authorization and maintenance activities, such as the assessment of modifications or extensions to an existing marketing authorization. Under the centralized procedure, the timeframe for the evaluation of an MAA by the EMA’s CHMP is, in principle, 210 days from receipt of a valid MAA. However, this timeline excludes clock stops, when additional written or oral information is to be provided by the applicant in response to questions asked by the CHMP, so the overall process typically takes a year or more, unless the application is eligible for an accelerated assessment. Accelerated assessment might be granted by the CHMP in exceptional cases when a medicinal product is of major interest from the point of view of public health and in particular from the viewpoint of therapeutic innovation. On request, the CHMP can reduce the time frame to 150 days if the applicant provides sufficient justification for an accelerated assessment. The CHMP will provide a positive opinion regarding the application only if it meets certain quality, safety and efficacy requirements. However, the EC has final authority for granting the MA within 67 days after receipt of the CHMP opinion.
+ 
+The decentralized procedure permits companies to file identical MA applications for a medicinal product to the competent authorities in various EU Member States simultaneously if such medicinal product has not received marketing approval in any EU Member State before. This procedure is available for pharmaceutical products not falling within the mandatory scope of the centralized procedure.
+ 
+The competent authority of a single EU Member State, known as the reference EU Member State, is appointed to review the application and provide an assessment report. Under this procedure, an applicant submits an application based on identical dossiers and related materials, including a draft summary of product characteristics, and draft labeling and package leaflet, to the reference EU Member State and concerned EU Member States. The reference EU Member State prepares a draft assessment report and drafts of the related materials within 120 days after receipt of a valid application. Subsequently each concerned EU Member State must decide whether to approve the assessment report and related materials. If an EU Member State cannot approve the assessment report and related materials on the grounds of potential serious risk to public health, the disputed points are subject to a dispute resolution mechanism and may eventually be referred to the EC, whose decision is binding for all EU Member States.
+ 
+All new MAAs must include a Risk Management Plan (“RMP”), describing the risk management system that the company will put in place and documenting measures to prevent or minimize the risks associated with the product. The regulatory authorities may also impose specific obligations as a condition of the MA. RMPs and Periodic Safety Update Reports (“PSURs”) are routinely available to third parties requesting access, subject to limited redactions.
+ 
+Marketing Authorizations have an initial duration of five years. After these five years, the authorization may subsequently be renewed on the basis of a reevaluation of the risk-benefit balance. Once renewed, the MA is valid for an unlimited period unless the EC or the national competent authority decides, on justified grounds relating to pharmacovigilance, to proceed with only one additional five-year renewal. Applications for renewal must be made to the EMA at least nine months before the five-year period expires.
+ 
+Data and Market Exclusivity in the European Union
+ 
+As in the United States, it may be possible to obtain a period of market and/or data exclusivity in the European Union that would have the effect of postponing the entry into the marketplace of a competitor’s generic, hybrid or biosimilar product (even if the pharmaceutical product has already received an MA) and prohibiting another applicant from relying on the MA holder’s pharmacological, toxicological and clinical data in support of another MA for the purposes of submitting an application, obtaining MA or placing the product on the market.
+ 
+New medicinal products authorized in the European Union, qualify for eight years of data exclusivity upon marketing authorization and an additional two years of market exclusivity. The overall ten-year period of market exclusivity can be extended to a maximum of eleven years if, during the first eight years of those ten years, the marketing authorization holder obtains an authorization for one or more new therapeutic indications which, during the scientific evaluation prior to their authorization, are held to bring a significant clinical benefit in comparison with existing therapies.
+ 
+The data exclusivity period prevents generic or biosimilar applicants from relying on the preclinical and clinical trial data contained in the dossier of the reference medicinal product when applying for a generic or biosimilar marketing authorization in the European Union during a period of eight years from the date on which the reference product was first authorized in the European Union. The market exclusivity period prevents a successful generic or biosimilar applicant from commercializing its product in the European Union until 10 years have elapsed from the initial authorization of the reference product in the European Union.
+ 
+
+
+
+13
+--
+
+Post-approval Regulation
+ 
+Similar to the United States, both marketing authorization holders and manufacturers of pharmaceutical products are subject to comprehensive regulatory oversight by the EMA, the EC and/or the competent regulatory authorities of the EU Member States.
+ 
+The holder of an EU marketing authorization for a pharmaceutical product must also comply with EU pharmacovigilance legislation and its related regulations and guidelines, which entail many requirements for conducting pharmacovigilance, or the assessment and monitoring of the safety of pharmaceutical products.
+ 
+Failure by us or by any of our third-party partners, including suppliers, manufacturers and distributors to comply with EU laws and the EU Member State laws implementing Directive 2001/83/EC on pharmaceutical products for human use and other core legislation relating to pharmaceutical products, and other EU Member State laws that apply to the conduct of clinical trials, manufacturing approval, marketing authorization of pharmaceutical products and marketing of such products, both before and after grant of marketing authorization, manufacturing of pharmaceutical products, statutory health insurance, bribery and anti-corruption or with other applicable regulatory requirements may result in administrative, civil or criminal penalties. These penalties could include delays or refusal to authorize the conduct of clinical trials or to grant marketing authorization, product withdrawals and recalls, product seizures, suspension, withdrawal or variation of the marketing authorization, total or partial suspension of production, distribution, manufacturing or clinical trials, operating restrictions, injunctions, suspension of licenses, fines and criminal penalties.
+ 
+Pricing and Reimbursement Environment
+ 
+Even if a pharmaceutical product obtains a marketing authorization in the European Union, there can be no assurance that reimbursement for such product will be secured on a timely basis or at all. The EU Member States are free to restrict the range of pharmaceutical products for which their national health insurance systems provide reimbursement, and to control the prices and reimbursement levels of pharmaceutical products for human use. An EU Member State may approve a specific price or level of reimbursement for the pharmaceutical product, or alternatively adopt a system of direct or indirect controls on the profitability of the company responsible for placing the pharmaceutical product on the market, including volume-based arrangements, caps and reference pricing mechanisms.
+ 
+To obtain reimbursement or pricing approval in some countries, including the EU Member States, we may be required to conduct studies that compare the cost-effectiveness of our product candidates to other therapies that are considered the local standard of care. There can be no assurance that any country will allow favorable pricing, reimbursement and market access conditions for any of our products, or that we will be feasible to conduct additional cost-effectiveness studies, if required.
+ 
+
+
+
+
+14
+--
+
+European Union Data Laws
+ 
+The collection and use of personal health data and other personal information in the European Union is governed by the provisions of the General Data Protection Regulation (“GDPR”), which came into force in May 2018, and related implementing laws in individual EU Member States. In addition, following the United Kingdom’s formal departure from the European Union on January 31, 2020 and the end of the transition period on December 31, 2020, the United Kingdom has become a “third country” for the purposes of EU data protection law. A “third country” is a country other than the EU Member States and the three additional European Economic Area countries (Norway, Iceland and Liechtenstein) that have adopted a national law implementing the GDPR. However, the TCA includes a provision, whereby the transfer of personal data from the EU to the United Kingdom will not be considered as a transfer to a “third country” for a period of four months starting from the entry into force of the TCA. This period will be extended by two further months, unless the EU or the United Kingdom objects. Under the GDPR, personal data can only be transferred to third countries in compliance with specific conditions for cross-border data transfers. Appropriate safeguards are required to enable transfers of personal data from the EU Member States. This status has a number of significant practical consequences, in particular for international data transfers, competent supervisory authorities and enforcement of the GDPR. The GDPR increased responsibility and liability in relation to personal data that we process.
+ 
+The GDPR imposes a number of strict obligations and restrictions on the ability to process (processing includes collection, analysis and transfer of) personal data, including health data from clinical trials and adverse event reporting. The GDPR also includes requirements relating to the consent of the individuals to whom the personal data relates, the information provided to the individuals prior to processing their personal data or personal health data, notification of data processing obligations to the national data protection authorities and the security and confidentiality of the personal data. The GDPR also prohibits the transfer of personal data to countries outside of the European Union that are not considered by the EU to provide an adequate level of data protection, except if the data controller meets very specific requirements. These countries include the United States, and following the end of the six month period as laid out in the TCA, it may include the United Kingdom if no adequacy decision is given prior to this. Following the Schrems II decision of the Court of Justice of the European Union on July 16, 2020, there is uncertainty as to the general permissibility of international data transfers under the GDPR. In light of the implications of this decision we may face difficulties regarding the transfer of personal data from the European Union to third countries. The European Data Protection Board has adopted draft recommendations for data controllers and processors who export personal data to third countries regarding supplementary measures to ensure compliance with the GDPR when transferring personal data outside of the EU. These recommendations were submitted to public consultation until December 21, 2020, however it is unclear when and in which form these recommendations will be published in final form.
+ 
+Failure to comply with the requirements of the GDPR and the related national data protection laws of the EU Member States may result in significant monetary fines, other administrative penalties and a number of criminal offenses (punishable by uncapped fines) for organizations and in certain cases their directors and officers as well as civil liability claims from individuals whose personal data was processed. Data protection authorities from the different EU Member States may still implement certain variations, enforce the GDPR and national data protection laws differently, and introduce additional national regulations and guidelines, which adds to the complexity of processing personal data in the European Union. Guidance developed at both EU level and at the national level in individual EU Member States concerning implementation and compliance practices are often updated or otherwise revised.
+ 
+There is, moreover, a growing trend towards required public disclosure of clinical trial data in the European Union which adds to the complexity of obligations relating to processing health data from clinical trials. Such public disclosure obligations are provided in the new EU Clinical Trials Regulation, EMA disclosure initiatives and voluntary commitments by industry. Failing to comply with these obligations could lead to government enforcement actions and significant penalties against us, harm to our reputation, and adversely impact our business and operating results. The uncertainty regarding the interplay between different regulatory frameworks, such as the Clinical Trials Regulation and the General Data Protection Regulation, further adds to the complexity that we face with regard to data protection regulation.
+ 
+New Legislation and Regulations
+ 
+From time to time, legislation is drafted, introduced and passed in the European Union, its Member States and other states of Europe that could significantly change the statutory provisions governing the testing, approval, manufacturing, marketing, coverage and reimbursement of pharmaceutical products. In addition to new legislation, pharmaceutical regulations and policies are often revised or interpreted by the EMA and national agencies in ways that may significantly affect our business and our products.
+
+15
+--
+
+Environmental Compliance 
+ 
+Our research and development activities involve the controlled use of potentially harmful biological materials as well as hazardous materials, chemicals and various radioactive compounds. We are subject to federal, state and local laws and regulations governing the use, storage, handling and disposal of these materials and specific waste products. We are also subject to numerous environmental, health and workplace safety laws and regulations, including those governing laboratory procedures, exposure to blood-borne pathogens and the handling of bio-hazardous materials. The cost of compliance with these laws and regulations could be significant and may adversely affect capital expenditures to the extent we are required to procure expensive capital equipment to meet regulatory requirements.
+Human Capital Management 
+ 
+As of December 31, 2021, we had twelve full-time and no part-time employees at our facility in Marlborough, Massachusetts. None of our employees are represented by a labor union or covered by a collective bargaining agreement, nor have we experienced any work stoppages.
+ 
+We expect to add additional employees in fiscal year 2022 to increase our expertise and resources available in our preclinical and clinical research and development. We continually evaluate our business needs and weigh the use of in-house expertise and capacity with outsourced expertise and capacity. The Company currently outsources substantial preclinical and clinical trial work to third party contract research organizations and drug manufacturing contractors.
+ 
+Our ability to identify, attract, retain and integrate additional qualified key personnel is also critical to our success and the competition for skilled research, product development, regulatory and technical personnel is intense. To attract qualified applicants to the Company, we offer a total rewards package consisting of base salary and cash target bonus based on geography and size of company, a comprehensive benefit package and equity compensation for every employee. Bonus opportunity and equity compensation increase as a percentage of total compensation based on level of responsibility. Actual bonus payout is based on performance.
+ 
+A large majority of Phio’s employees have obtained advanced degrees in their professions and we support our employees’ further development with individualized development plans, mentoring, coaching, group training, conference attendance and financial support including tuition reimbursement.
+ 
+Corporate Information 
+ 
+We were incorporated in the state of Delaware in 2011 as RXi Pharmaceuticals Corporation. On November 19, 2018, the Company changed its name to Phio Pharmaceuticals Corp., to reflect its transition from a platform company to one that is fully committed to developing groundbreaking immuno-oncology therapeutics. Our executive offices are located at 257 Simarano Drive, Suite 101, Marlborough, MA 01752, and our telephone number is (508) 767-3861.
+ 
+The Company’s website address is http://www.phiopharma.com. We make available on our website, free of charge, copies of our annual reports on Form 10-K, our quarterly reports on Form 10-Q and our current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, (the “Exchange Act”) as soon as reasonably practicable after these reports are filed electronically with, or otherwise furnished to, the Securities and Exchange Commission (the “SEC”). We also make available on our website the charters of our audit committee, compensation committee and nominating and corporate governance committee, as well as our corporate code of ethics and conduct.
+ 
+You may read and copy any materials the Company files with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Washington, DC 20549. You may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding Phio and other issuers that file electronically with the SEC. The SEC’s website address is http://www.sec.gov. The contents of these websites are not incorporated by reference into this report and should not be considered to be part of this report.
+ 
+
+
+
+
+16
+--
+

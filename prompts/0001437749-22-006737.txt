@@ -1,0 +1,545 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Diffusion Pharmaceuticals: Enhancing Oxygen, Fueling Life
+ 
+We are a biopharmaceutical company developing novel therapies that enhance the body’s ability to deliver oxygen to the areas where it is needed most. Our lead product candidate, TSC, is being developed to enhance the diffusion of oxygen to tissues with low oxygen levels, also known as hypoxia, a serious complication of many of medicine’s most intractable and difficult-to-treat conditions.
+Our Strategy
+ 
+Our goal is to become a leading biopharmaceutical company focused on the development and commercialization of novel therapies that enhance the body’s ability to deliver oxygen to areas where it is needed most and improve treatment outcomes for patients suffering from conditions complicated by hypoxia. To achieve this strategy, we are focused on the following key objectives:
+
+• | Demonstrate the effects of TSC on the oxygenation pathway. The results of our Oxygenation Trials – a series of three short-term, pharmacodynamic studies to evaluate the effects of TSC on different components of the oxygenation pathway that we expect to complete by the middle of 2022 – will be used to further inform the identification of potential indications appropriate for TSC and will guide the design of clinical trials aimed at supporting the commercialization of TSC as a treatment for conditions complicated by hypoxia. For additional information, see "Business — Our Lead Product Candidate: Trans Sodium Crocetinate -- The TSC Oxygenation Trials: Demonstrating Proof of Concept, Dose Response Relationships, and Potential Indications for Future Development.”
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Develop TSC as an adjunct treatment for hypoxic solid tumors. The prevalence of hypoxic regions across numerous primary solid tumor types is believed to directly contribute to treatment resistance, whether it be radiotherapy, chemotherapy, or immunotherapy, increasing the metastatic potential of these tumors and the probability of unsuccessful treatment. We believe TSC’s novel mechanism of action supports the objective of developing TSC as a treatment for hypoxic solid tumors because TSC’s ability to enhance the oxygenation of hypoxic tissues may increase the effectiveness of standard-of-care radiation therapy and chemotherapy. Accordingly, in November 2021, we announced our Hypoxic Solid Tumor Program and our intent to commence our Planned Phase 2 Hypoxic Solid Tumor Trial in the second half of 2022. The data obtained during 2021 and early 2022 from our Oxygenation Trials and COVID Trial regarding TSC’s effects on oxygenation, dose response characteristics, pharmacokinetics, and pharmacodynamics are being used to guide the design of this trial. Through the combination of this new data, our past experiences, and further analyses and discussions of all available data with our Scientific Advisory Board and other external advisors, we believe we now have the necessary information to design the Hypoxic Solid Tumor Program to be more efficient and increase our likelihood of success compared to the Company’s past efforts to develop TSC as a cancer treatment, which were terminated in 2019 due to financial constraints. For additional information, see "Business — Our Lead Product Candidate: Trans Sodium Crocetinate – Our Hypoxic Solid Tumor Program.”
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Accelerate development of TSC as a treatment for non-cancer indications. Beyond cancer, hypoxia is a complicating factor in many other intractable and difficult-to-treat conditions, including cardiovascular diseases, cerebrovascular diseases, respiratory diseases, skin and soft tissue diseases, and neurodegenerative diseases. We have previously undertaken clinical studies of TSC in a variety of non-cancer indications, including interstitial lung disease, COVID-19, stroke, and peripheral artery disease, and have evaluated TSC in preclinical models in an even wider range of indications. Data that we expect to obtain from our ongoing Altitude and ILD-DLCO Trials may identify additional, non-oncology development opportunities. Although our primary near-term focus will be our Hypoxic Solid Tumor Program, we will continue to explore pathways to progress TSC’s development in non-oncology indications through our preclinical studies. For additional information, see "Business — Our Lead Product Candidate: Trans Sodium Crocetinate – TSC’s Potential to Treat Other Conditions Complicated by Hypoxia.”
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+    1 
+
+  
+
+
+• | Maximize the commercial value of our pipeline. We have invested, and plan to continue to invest, significant time, effort, and resources into the development and maintenance of our intellectual property portfolio as we seek to retain worldwide development and commercial rights to our product candidates. In parallel with advancing our development programs, we will evaluate the commercial landscape for TSC with the intent of improving patient access to maximize our chances of commercial success, should the product be approved.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Opportunistically acquire or in-license additional product candidates that complement TSC and our overall strategy. We believe we can leverage what we have learned from the development of TSC and the significant skills and experience of our team to opportunistically identify and acquire or in-license novel product candidates that complement TSC and further our efforts to improve patient outcomes by enhancing standard-of-care therapy for conditions complicated by hypoxia. We also believe diversifying our asset portfolio through an acquisition or in-licensing would reduce our Company’s overall risk profile as an investment.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Lead Product Candidate: Trans Sodium Crocetinate
+ 
+Our lead product candidate, TSC, is being developed to enhance the diffusion of oxygen to tissues with low oxygen levels, also known as hypoxia.
+ 
+    2 
+
+  
+
+Hypoxia is a condition in which there is an insufficient supply of oxygen to meet the energy demands of the cells in a tissue (e.g., skeletal muscle). Hypoxia is associated with the pathophysiology of many of medicine’s most intractable and difficult-to-treat conditions, including cancers, cardiovascular diseases, cerebrovascular diseases, respiratory diseases, skin and soft tissue diseases, and neurodegenerative diseases. 
+ 
+All currently approved treatments for hypoxia work by augmenting or supplementing the systemic availability of oxygen. For example, respirators use pressure to push oxygen across the lungs into the blood to increase oxygen concentration, certain medications and devices such as external mechanical pumps are designed to improve cardiac output, and blood transfusions are used to increase the concentration of red blood cells and oxygen-carrying hemoglobin molecules.
+ 
+While these treatments are effective in certain circumstances, there are significant associated risks such as lung damage resulting from the use of respirators, toxic side effects and drug-to-drug interactions of medications that increase cardiac output, infections related to blood transfusions, and the risk of creating excessive oxygen-related tissue toxicity, or hyperoxia, by providing a patient with excessive amounts of oxygen, among others. In addition, in certain other indications, these currently approved therapies are ineffective in treating the associated hypoxia. For example, in the treatment of cancer, re-oxygenating hypoxic, cancerous tissue cells cannot typically be accomplished simply by increasing the systemic availability of oxygen.
+ 
+We believe TSC is the first therapy specifically designed to enhance the efficiency of the oxygen diffusion process. Furthermore, in animal models, TSC’s diffusion-enhancing mechanism of action has been observed to affect hypoxic tissue preferentially while avoiding excessive oxygen-related tissue toxicity.
+ 
+    3 
+
+  
+
+By supporting normal, physiologic levels of oxygen diffusion at the uptake and delivery points of the circulatory system, we believe TSC presents a significant opportunity to improve the current standard-of-care treatment for conditions complicated by hypoxia.
+ 
+
+
+TSC's Mechanism of Action
+ 
+Blood plasma is approximately 90% water. The water molecules in the plasma are constantly moving, bound together in a loosely organized matrix by hydrogen bonds. TSC was designed to enhance the level of organization among the water molecules by increasing the amount of hydrogen bonding. This creates a less dense matrix of water molecules, reducing the resistance to oxygen diffusion across the concentration gradient.
+ 
+
+
+Selected Preclinical Experiences
+ 
+TSC has been evaluated in a variety of preclinical models intended to mimic relevant human conditions known to be complicated by hypoxia. In these studies, a variety of positive effects have been observed in connection with TSC administration, including:
+
+• | Reducing hypoxia in rat brain tumors without hyper-oxygenation of normal tissue;
+--+---------------------------------------------------------------------------------
+
+
+• | Improving survival in a rat brain tumor model when added to radiotherapy, whether alone or in combination with chemotherapy;
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+
+• | Improving tissue oxygenation without hyper-oxygenation of normal tissue and reducing infarct size in a rat ischemic stroke model;
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Demonstrating a functional benefit in a rabbit ischemic stroke model, with or without tissue plasminogen activator at one-hour post-clot infection and with tissue plasminogen activator at three hours post-clot infection; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Improving levels of arterial partial pressure of blood oxygen in a rat model of acute respiratory distress syndrome.
+--+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+
+Positron emission tomography scans showing reduction in hypoxia in a rat C6 glioma brain tumor model 45 min after TSC administration.
+ 
+The TSC Oxygenation Trials: Demonstrating Proof of Concept, Dose Response Relationships, and Potential Indications for Future Development
+ 
+While our clinical trials evaluating TSC conducted prior to 2021 provided certain preliminary signals regarding TSC’s mechanism of action and dose response characteristics, none of those studies were designed to demonstrate proof of concept by directly measuring TSC’s effects on tissue oxygenation and a variety of questions remained regarding TSC’s dose response characteristics, pharmacokinetics, and pharmacodynamics.
+ 
+    4 
+
+  
+
+Given these identified gaps in our knowledge, in November 2020, we communicated our plan to design and execute our Oxygenation Trials, a series of short-term clinical studies using experimental models to evaluate the clinical effects of TSC on oxygenation, each designed to look at the effects of TSC on a different component of the oxygenation pathway. By quantifying the magnitude of effects of TSC on tissue oxygen levels and other direct clinical parameters assessing oxygen levels, and thereby demonstrating proof of concept of TSC’s effects on tissue oxygenation, as well as supplementing our knowledge of TSC’s dose response characteristics, pharmacokinetics and pharmacodynamics, we believe the data obtained from the Oxygenation Trials will allow us to significantly increase our clinical development strategy’s likelihood of success.
+ 
+TCOM Trial: TSC's Effects on Peripheral Tissue Oxygenation
+ 
+In March 2021, we initiated and completed enrollment in the first of the Oxygenation Trials, our TCOM Trial. In June 2021, we reported a positive trend in peripheral tissue oxygenation as compared to placebo among participants receiving TSC that persisted through the duration of the one-hour, post-dosing measurement period. Although the magnitude of this effect was not statistically significant due to limitations in the study design, the trends in the primary endpoint data indicated an improvement in peripheral oxygenation with TSC with no evidence of hyperoxygenation.
+ 
+The figure below was created during a supplemental analysis of the TCOM Trial results by subtracting the median response observed in the TCOM Trial’s placebo group from the median response observed in each TSC dosage group at each of the measurement times during the one-hour period following dosing. These data highlight the persistent increase in peripheral tissue oxygenation relative to the placebo group through the duration of the one-hour measurement period following TSC administration, particularly at the two highest doses tested.
+ 
+
+
+Effects of TSC on transcutaneous oxygen pressure.
+ 
+We believe the TCOM Trial provides clinical evidence to support the hypothesis that TSC enhances the passive diffusion of oxygen from areas of high concentration to areas of low concentration without causing hyperoxygenation and that the data obtained from the study represent a positive and meaningful step towards the accomplishing of the Oxygenation Trials’ strategic objectives originally set forth in November 2020. These data have and will continue to guide the next steps of our development strategy, including the design of our Hypoxic Solid Tumor Program.
+ 
+Altitude Trial: TSC's Effects Under Induced Hypoxic Conditions
+ 
+On November 22, 2021, we announced dosing of the first participants in our second Oxygenation Trial, the Altitude Trial. This study is a double-blind, randomized, placebo-controlled crossover study designed to evaluate the effects of TSC on maximal oxygen consumption and partial pressure of blood oxygen in normal healthy volunteers subjected to incremental levels of physical exertion while exposed to “simulated altitude.” The study will enroll 30 healthy volunteers and give each volunteer a single dose of TSC at one of three different doses. Due to enrollment delays experienced during early 2022 related to the omicron variant wave of the COVID-19 pandemic, we now anticipate completing dosing in the Altitude Trial in the second quarter of 2022, with topline results reported within two months of study completion.
+ 
+    5 
+
+  
+
+ILD-DLCO Trial: TSC's Effects on Oxygen Transfer Efficiency
+ 
+On December 16, 2021, we announced dosing of the first patients in our third and final Oxygenation Trial, the ILD-DLCO Trial. This study is a double-blind, randomized, placebo-controlled, crossover study designed to evaluate the effects of TSC on the diffusion of carbon monoxide through the lungs, or DLCO, in patients with previously diagnosed ILD who have a baseline DLCO test result that is abnormal. DLCO is used in the study as a surrogate measure of oxygen transfer efficiency, or uptake, from the alveoli of the lungs through the plasma, and onto hemoglobin within red blood cells. The study will enroll 27 patients with confirmed ILD who will be randomized in a 2:1 ratio to a single dose of TSC or placebo via IV bolus. The study is statistically powered to evaluate the difference in effect of TSC versus placebo on improvement in DLCO measurements. In addition, patients will undergo a standard six-minute walk test intended to assess functional improvement in exercise capacity. Due to enrollment delays experienced during early 2022 related to the omicron variant wave of the COVID-19 pandemic, the effect of the omicron variant on patients with pulmonary diseases such as ILD, and staffing issues at the facilities where the ILD-DLCO Trial is being conducted, we now anticipate completing dosing in the ILD-DLCO Trial by the middle of 2022, with topline results reported within two months of study completion.
+TSC's Demonstrated Clinical Safety Profile
+ 
+TSC has been observed to be safe and well-tolerated at most doses tested in over 220 subjects included to-date in clinical studies at a variety of doses administered via intravenous infusion. Our clinical studies have included patients with a variety of medical conditions often complicated by hypoxia, including patients afflicted with GBM, peripheral artery disease with intermittent claudication, stroke, COVID-19, and interstitial lung disease. In each of these conditions and many others, hypoxia is a significant contributor to morbidity and mortality, and a considerable treatment obstacle for medical providers.
+ 
+During 2021, we obtained additional data further demonstrating TSC's safety at higher doses and increased dosing frequencies from our COVID Trial and Oxygenation Trials. In the COVID Trial, completed in February 2021, TSC was administered on a different dosing regimen than any of our prior trials, with patients receiving an infusion multiple times per day for up to 15 days. In the TCOM Trial, based in part on a recommendation from the COVID Trial’s safety monitoring committee, arms evaluating even higher doses of TSC were included. No dose-limiting toxicities or serious adverse events were observed among any patients or participants in the either trial, including those who received the highest tested doses of TSC.
+ 
+Our Hypoxic Solid Tumor Program
+ 
+We believe TSC’s novel mechanism of action supports the objective of developing TSC as a treatment for hypoxic solid tumors because TSC’s ability to enhance the oxygenation of hypoxic tissues may increase the effectiveness of standard-of-care radiation therapy and chemotherapy.
+ 
+Solid tumors comprise approximately 90% of all adult cancers and, according to the American Cancer Society, it was expected that roughly 1.9 million new cancer cases would be diagnosed in the U.S. during 2021. It is also well-documented in the scientific literature that the prevalence of hypoxic regions across numerous primary solid tumor types directly contributes to treatment resistance, whether it be radiotherapy, chemotherapy, or immunotherapy, increasing the metastatic potential of these tumors and the probability of unsuccessful treatment.
+ 
+Many of the challenges faced by practitioners in treating some of the most fatal and difficult-to-treat tumor types, including GBM, pancreatic cancer, and other solid tumors, are a product of those tumors’ highly hypoxic nature. Cancerous tumors are specifically susceptible to developing hypoxia due to a combination of rapid growth, structural abnormalities of the tumor microvessels, and disturbed circulation within the tumor. Hypoxic conditions within the tumor microenvironment have numerous negative consequences for patient outcomes and treatment, including:
+ 
+•    increased resistance to ionizing radiation, chemotherapy, immunotherapy and other treatment methods;
+ •    a more clinically aggressive phenotype;
+ •    increased potential for invasive growth and tumor progression; and
+ •    increased regional and distal tumor metastasis.
+ 
+    6 
+
+  
+
+We have previously obtained and published evidence supporting TSC’s ability to enhance oxygenation of C6 glioma tumors in animals, as well as clinical evidence of TSC’s effects in unresectable GBM tumors from our previously completed Phase 2 clinical trial evaluating 59 patients with newly diagnosed GBM. This open-label, historically controlled trial demonstrated a favorable safety and tolerability profile for TSC when combined with standard of care treatment for GBM. Although not prospectively defined, a post hoc subgroup analysis of inoperable patients suggested a higher proportion of TSC-treated patients survived at two years compared to those in the historical control group.
+ 
+In November 2021, based on the available preclinical and clinical data and the significant unmet medical need, we announced our intention to focus near-term efforts on developing TSC as an adjunct to standard of care therapy for hypoxic solid tumors. Through the combination of our past experiences, new knowledge gained from our Oxygenation Trials and COVID Trial regarding TSC’s effects on oxygenation, dose response characteristics, pharmacokinetics, and pharmacodynamics, and further analyses and discussions of all available data with our Scientific Advisory Board and other external advisors, we believe we now have the necessary information to design the Hypoxic Solid Tumor Program to be more efficient and increase our likelihood of success compared to the Company’s past efforts to develop TSC as a cancer treatment, which were terminated in 2019 due to financial constraints.
+ 
+As part of the ongoing design of our Planned Phase 2 Hypoxic Tumor Trial – the first trial in our Hypoxic Solid Tumor Program which we currently expect to commence in the second half of 2022, subject to FDA feedback and the availability of clinical drug supply – we are currently drafting a trial protocol which we intend to file with the FDA. In parallel, we will continue our work to optimize the TSC manufacturing process and support the continued availability of high-quality drug product and undertake preclinical studies and other opportunities to continue developing data designed to demonstrate TSC’s potential uses in a broad spectrum of non-cancer indications.
+ 
+TSC's Potential to Treat Other Conditions Complicated by Hypoxia
+ 
+Beyond cancer, hypoxia is a complicating factor in many other intractable and difficult-to-treat conditions as well, including cardiovascular diseases, cerebrovascular diseases, respiratory diseases, skin and soft tissue diseases, and neurodegenerative diseases. In addition to our oncology programs past and present, we have previously conducted a variety of preclinical and clinical studies evaluating the effects of TSC in several of these other indications complicated by hypoxia, including COVID-19, stroke, and peripheral artery disease with intermittent claudication, and we intend to continue to pursue potential partnering opportunities in non-oncology indications.
+ 
+
+Certain medical conditions complicated by hypoxia.
+ 
+    7 
+
+  
+
+Our Phase 2 COVID-19 Trial
+ 
+We believe TSC’s oxygen-enhancing mechanism of action could potentially provide benefit patients suffering from respiratory indications, such as COVID-19.
+ 
+In September 2020, we announced the dosing of the first patients in our COVID Trial evaluating TSC in hospitalized COVID-19 patients at the National Institute of Infectious Diseases in Bucharest, Romania. The trial enrolled 24 patients divided into four sequential cohorts of six patients, with each patient in a cohort receiving the same intravenous doses of 0.25 mg/kg, 0.5 mg/kg, 1.0 mg/kg, or 1.5 mg/kg. All patients were administered intravenous doses of TSC every six hours for a minimum of five days and up to 15 days. On February 9, 2021, we completed dosing of the twenty-fourth and final patient in the trial.
+ 
+The primary endpoint of the COVID Trial was to evaluate the safety and tolerability of TSC administered every six hours for at least five and up to 15 days, a more frequent dosing regimen than had been used in our previous clinical studies. Secondary endpoints included pharmacokinetic measurement of TSC levels after dosing, relative improvements in blood oxygen levels, and certain other clinical parameters related to COVID-19, such as improvement in WHO ordinal scale by day 7 and through day 29, time on oxygen supplementation, and hospital length of stay.
+ 
+Data from the trial, evaluated by the study’s independent safety monitoring committee, indicated TSC was safe and well-tolerated and that no dose-limiting toxicities or serious adverse events were observed among any patients in the study, including those who received the highest dose administered in the trial. Additionally, while the COVID Trial was not designed or powered to evaluate efficacy, the safety monitoring committee also observed that patients receiving the highest dose administered had improved outcomes in the trial’s secondary and exploratory endpoints compared to those receiving lower doses. Further, no patients that received TSC required dialysis or developed acute kidney injury, nor were there any reports of pulmonary embolism or deep vein thrombosis. Based on their observations, the safety monitoring committee also recommended the Company consider testing of higher TSC doses and a continuous intravenous infusion in future studies.
+ 
+    8 
+
+  
+
+Product Development
+ 
+Research and Development
+ 
+In recent years, the majority of our research and development expenditures have been directed to the development of TSC. For example, during the year ended December 31, 2021, we incurred approximately $8.5 million in costs related to research and development of our products, a decrease of approximately $0.9 million compared to the year ended December 31, 2020. The majority of these costs were related to the development of TSC and related personnel, including costs associated with the Oxygenation Trials and the COVID Trial, which was completed in February 2021. We expect this trend to continue for the foreseeable future, including planned expenditures related to completion of the remaining Oxygenation Trials, the initiation of the Hypoxic Solid Tumor Program, and other costs associated with the conduct of additional, supportive preclinical studies and general research and development activities related to TSC and any other product candidates we may acquire or in-license in the future.
+ 
+    9 
+
+  
+
+As a development-stage company, we continuously evaluate opportunities to improve the value of our development pipeline, including potential acquisition and in-licensing opportunities. Our efforts include ongoing evaluation and modification of our development plans intended to maximize the probability of technical, developmental, and regulatory success while enhancing patient and stockholder value. These activities have, and we expect they will continue to be for the foreseeable future, focused on opportunities that are synergistic with our overall corporate strategy to develop novel treatments for the treatment of hypoxia and conditions complicated by hypoxia.
+ 
+Intellectual Property
+ 
+We believe that a strong intellectual property portfolio is critical to our success. We are committed to obtaining and maintaining appropriate patent and other protections for our products candidates and other technologies, preserving and protecting our trade secrets and other confidential and proprietary information, and fiercely defending our intellectual property portfolio against any potential infringement by third parties. We attempt to protect our intellectual property through among other things, the filing of applications for patent, trademark, and other appropriate intellectual property protections, the use of confidentiality agreements with consultants, contractors and other third parties, our employee policies regarding confidentiality, invention disclosure, and the assignment of inventions, as well as regular meetings of members of our internal development and legal teams, which contains key members of our management team. We are also committed to operating our business without infringing on the intellectual property of others.
+ 
+In general, patents extend for varying periods according to the date of patent filing or grant and the legal term of patents in various countries where patent protection is obtained, with term adjustments or extensions possible in certain cases based on patent office delays or pursuant to certain administrative and legislative exceptions. The actual protection afforded by a patent, which can vary from country to country, depends on the type of patent, the scope of its coverage and the availability of legal remedies in the country.
+ 
+We continue to invest significant time, effort, and resources into the development and maintenance of our patent portfolio. As of December 31, 2021, we owned 17 issued U.S. patents and more than 35 issued non-U.S. patents, and had numerous patent applications pending worldwide including issued patents and applications in major markets such as the U.S., E.U., China, Japan, and India. The normal life (i.e. with no adjustments or extensions) of our key issued patents related to the composition of matter of TSC extends to 2026, with potential patent term extensions to 2031, and the normal life of our patents related to an oral formulation of TSC extends to 2031, with potential patent term extensions to 2036. The normal life of our key issued patents related to methods of use of TSC extends to 2037, not including potential patent term extensions. For additional information regarding patent term extensions, see "Business — Government Regulation— The Hatch-Waxman Amendments — Patent Term Restoration and Marketing Exclusivity. In addition, TSC has been granted Orphan Drug designation by the FDA for the treatment of both GBM and metastatic brain cancer, which may provide us with a right of exclusivity under certain FDA regulations. For additional information regarding orphan and ultra-orphan designations, see "Business — Government Regulation — Certain Other FDA Regulations — The Orphan Drug Act of 1983.”
+ 
+Chemistry, Manufacturing, and Controls
+ 
+TSC is currently formulated as a freeze-dried, injectable product, requiring a sophisticated manufacturing process.
+ 
+    10 
+
+  
+
+We do not currently own or operate any facilities suitable for manufacturing TSC or any of our other product candidates on a scale required to support either clinical development or commercialization. We currently use third-party CMOs to manufacture API, other starting materials, and finished drug product for our preclinical studies and clinical trials and we intend to continue doing so for the foreseeable future. We anticipate this strategy will be scalable in a manner sufficient to support the production capacity required to support continued clinical development and ultimate commercialization. However, we do not have any formal agreements at this time with any CMO to cover commercial production of TSC or any other product candidate. Although the use of third party CMOs to manufacture pharmaceutical products is common within the industry, this dependence on third-party CMOs exposes our business to certain risks, including those described under the heading, “Risk Factors – Risks Related to Our Dependence on Third Parties.”
+Supply Chain Matters
+ 
+Recently, many companies across a variety of sectors have reported disruptions, shortages, and other supply chain-related issues. In the biopharmaceutical sector, delays and interruptions in the supply chain were particularly pronounced as CMOs redirected resources under the Defense Production Act and to otherwise support the COVID-19 vaccine roll-out across the globe.
+ 
+During 2021, we were able to effectively manage our supply of TSC and its component materials in a manner that avoided any significant interruptions to our clinical programs. We also took actions designed to increase the robustness of our drug supply and overall supply chain to mitigate risks related to the availability of our drug supply in the future. However, as constraints on the supply chain continue to impact the cost and general availability of manufacturing materials, related delays and shortages could affect the cost and timing of our available clinical study drug supply of TSC.
+ 
+Competition
+ 
+Currently, medical options to improve oxygenation without risk of hyper-oxygenation are limited and we believe that TSC's diffusion enhancing mechanism of action make it a first-in-class, novel, small molecule. However, there are several companies currently developing or marketing oxygen enhancing products, therapeutics, or devices that may nevertheless be competitive with TSC, if approved, including Hemoglobin Oxygen Therapeutics LLC, Hemotek Medical Inc., NuvOx Pharma LLC, Omniox, Inc., and VirTech Bio Inc. In addition, in the first quarter of 2021, we became aware of a third party affiliated with a former outside consultant of the Company which claims to be in early-stage development of a product candidate that purportedly may operate through a similar mechanism of action to TSC. It is unclear if this Company’s product candidate would, if developed and approved, actually be competitive with TSC.
+ 
+Our industry is highly competitive and subject to rapid and significant change. Potential competitors in the United States are numerous and include major pharmaceutical and specialty pharmaceutical companies, smaller biopharmaceutical companies, research universities, and others. The biopharmaceutical and pharmaceutical industries are characterized by rapidly advancing technologies, intense competition, and a strong emphasis on developing proprietary therapeutics. Numerous companies are engaged in the development, patenting, manufacturing, and marketing of health care products competitive with those that we are developing. Many of our competitors have longer operating histories, greater name recognition, substantially greater financial resources, and larger research and development staffs than we do, as well as substantially greater experience than us in developing products, obtaining regulatory approvals, and manufacturing and marketing pharmaceutical products. In addition, a significant amount of research is carried out at academic and government institutions. These institutions are aware of the commercial value of their findings and are aggressive in pursuing patent protection and negotiating licensing arrangements to collect royalties for use of technology that they have developed. One or more of these companies or other entities may have one or more products under development that would be competitive with TSC.
+ 
+Sales and Marketing
+ 
+We currently have no marketed products and, accordingly, currently have no sales or marketing personnel.
+ 
+    11 
+
+  
+
+Government Regulation
+ 
+Pharmaceuticals like TSC and other product candidates we may develop are highly regulated by governmental authorities in the U.S. and other countries at the federal, state, and local levels. These regulations are numerous and extensive in their scope, relating to, among other things, the research and development, manufacture, storage, quality control and testing, approval, labeling and packaging, promotion, marketing, and advertising, distribution, post-approval monitoring and reporting, export and import, and record keeping of pharmaceutical products.
+The FDA Drug Approval Process
+ 
+Generally, before a new pharmaceutical product can be marketed, considerable data demonstrating its quality, safety and efficacy must be obtained, organized into a format specific for each applicable regulatory authority, submitted for review, and approved by the competent regulatory authority. In the United States, the competent regulatory authority is the FDA, which, pursuant to the FDC Act, is responsible for the review and approval of all data required to support a license to commercially market pharmaceuticals such as TSC.
+ 
+The process of obtaining regulatory approvals and the subsequent compliance with FDA regulations requires the expenditure of substantial time and financial resources and failure to comply with the applicable requirements at any time during the product development process, approval process, or, if approved, following approval may subject an applicant to administrative or judicial sanctions. These sanctions could include, among other actions, the FDA’s refusal to approve pending applications, withdrawal of an approval, license revocation, a clinical hold, untitled or warning letters, voluntary or mandatory product recalls, market withdrawals, product seizures, total or partial suspension of production or distribution, injunctions, fines, refusals of government contracts, restitution, disgorgement and civil or criminal penalties, any of which could have a material adverse effect on our business, financial position, or results of operations.
+ 
+Process Overview
+ 
+The FDA drug approval process generally involves the following steps:
+ 
+
+• | completion of extensive preclinical laboratory studies , including studies conducted in accordance with GLP requirements;
+--+--------------------------------------------------------------------------------------------------------------------------
+
+
+• | submission to the FDA of an IND application, which must become effective before clinical trials involving human subjects or patients may begin;
+--+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | performance of adequate and well-controlled human clinical trials in accordance with applicable IND regulations, GCP requirements, and other clinical trial-related regulations to establish the safety and efficacy of the investigational product for each proposed indication, including approval by an IRB or independent ethics committee before each trial may be initiated;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | submission to the FDA of an NDA;
+--+---------------------------------
+
+
+• | a determination by the FDA within 60 days of its receipt of an NDA as to whether it will accept the filing for review;
+--+-----------------------------------------------------------------------------------------------------------------------
+
+
+• | satisfactory completion of one or more FDA pre-approval inspections of the manufacturing facility or facilities where the drug will be produced to assess compliance with cGMP requirements and to assure that the facilities, methods and controls are adequate to preserve the drug’s identity, strength, quality and purity;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | a potential FDA audit of the clinical trial sites that generated the data in support of the NDA;
+--+-------------------------------------------------------------------------------------------------
+
+
+• | payment of user fees for FDA review of the NDA; and
+--+----------------------------------------------------
+
+
+• | FDA review and approval of the NDA, including consideration of the views of any FDA advisory committee, prior to any commercial marketing or sale of the biologic or drug in the United States.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+    12 
+
+  
+
+The preclinical and clinical testing and approval process requires substantial time, effort, and financial resources and satisfaction of FDA pre-market approval requirements typically takes many years, though the actual time required may vary substantially based upon the type, complexity, and novelty of the applicable product or indication to be treated. We cannot be certain that any approvals for TSC or any product candidates we attempt to develop in the future will be granted on a timely basis or at all.
+ 
+Preclinical Studies
+ 
+Preclinical studies include laboratory evaluation of product chemistry, formulation, and toxicity, as well as animal trials to assess the characteristics and potential safety and efficacy of the drug. The results of preclinical testing are submitted to the FDA as part of an IND along with other information related to the drug, including information regarding its chemical make-up, manufacturing process, and quality controls, as well as a proposed clinical trial protocol. Long-term preclinical tests, such as animal tests of reproductive toxicity and carcinogenicity, may continue after the IND is submitted.
+Clinical Trials
+ 
+Following completion of preclinical studies and the submission on an IND to the FDA, a 30-day waiting period is required. If the FDA has neither commented on nor questioned the IND within this 30-day period, the clinical trial proposed in the IND may begin.
+ 
+Clinical trials involve the administration of an investigational new drug to healthy volunteers or patients under the supervision of a qualified investigator. These trials must be conducted in compliance with federal regulations as well as GCP, an international standard meant to protect the rights and health of patients and to define the roles of clinical trial sponsors, administrators, and monitors. Each trial is conducted under a protocol detailing the objectives of the trial, the parameters to be used in monitoring safety, and the effectiveness criteria to be evaluated. Each protocol involving testing on U.S. patients and subsequent protocol amendments must be submitted to the FDA as part of the IND.
+ 
+Clinical trials to support NDAs for marketing approval are typically conducted in three sequential phases, but the phases may overlap, especially in certain indications such as cancer.
+ 
+
+• | Phase 1 - In Phase 1 trials, an investigational new drug is introduced into healthy human subjects and is evaluated to assess pharmacological actions, side effects associated with increasing doses and, in certain cases, early evidence on efficacy.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Phase 2 - In Phase 2 trials, the drug is introduced to a limited patient population in a particular indication to determine metabolism, pharmacokinetics, the effectiveness of the drug for the indication, dosage tolerance and optimum dosage, and to identify potential adverse effects and safety risks.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Phase 3 - In Phase 3 trials, if a drug has demonstrated evidence of effectiveness and an acceptable safety profile in prior Phase 2 trials, the drug is introduced to a larger patient population in the relevant indication to obtain the additional information about clinical efficacy and safety in a larger number of patients, typically at geographically dispersed clinical trial sites, to permit the FDA to evaluate the overall benefit-risk relationship of the drug, and to provide adequate information for the labeling of the drug, if approved.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Not all drug development programs are required to follow the order and content of all three phases. For example, in August 2018, the FDA released a draft guidance entitled “Expansion Cohorts: Use in First-In-Human Clinical Trials to Expedite Development of Oncology Drugs and Biologics,” which outlines how drug developers can utilize an adaptive trial design commonly referred to as a seamless trial design in early stages of oncology drug development, i.e., the first-in-human clinical trial, to compress the traditional three phases of trials into one continuous trial called an expansion cohort trial. Information to support the design of individual expansion cohorts is included in IND applications and assessed by FDA. Expansion cohort trials can potentially bring efficiency to drug development and reduce developmental costs and time.
+ 
+    13 
+
+  
+
+Post-approval trials, sometimes referred to as Phase 4 clinical trials, may be conducted after initial marketing approval. These trials are used to gain additional experience from the treatment of patients in the intended therapeutic indication and are commonly intended to generate additional safety data regarding use of the product in a clinical setting. In certain instances, the FDA may mandate the performance of Phase 4 clinical trials as a condition of approval of an NDA.
+ 
+Progress reports detailing the results of the clinical trials, among other information, must be submitted at least annually to the FDA and written IND safety reports must be submitted to the FDA and the investigators 15 calendar days after the trial sponsor determines the information qualifies for reporting for serious and unexpected suspected adverse events, findings from other studies or animal or in vitro testing that suggest a significant risk for human subjects and any clinically important increase in the rate of a serious suspected adverse reaction over that listed in the protocol or investigator brochure. The sponsor also must notify the FDA of any unexpected fatal or life-threatening suspected adverse reaction as soon as possible but in no case later than seven calendar days after the sponsor’s initial receipt of the information.
+ 
+Phase 1, Phase 2, Phase 3, and other types of clinical trials may not be completed successfully within any specified period, if at all. The FDA or the sponsor may suspend or terminate a clinical trial at any time on various grounds, including a finding that the patients are being exposed to an unacceptable health risk.
+ 
+New Drug Application and FDA Review Process
+ 
+After completion of the required clinical testing, an NDA is prepared and submitted to the FDA containing data intended to provide substantial evidence that the drug is safe and effective in the relevant indication, and FDA approval of the NDA is required before commercial marketing of the product may begin in the United States. The NDA must include the results of all preclinical, clinical, and other testing and a compilation of data relating to the product’s pharmacology, chemistry, manufacturing, and controls. The cost of preparing and submitting an NDA is substantial, and the submission of most NDAs is also subject to substantial initial and ongoing fees.
+ 
+The FDA has 60 days from its receipt of an NDA to determine whether the NDA will be accepted for filing based on the agency’s threshold determination that it is sufficiently complete to permit substantive review. Once the submission is accepted for filing, the FDA begins an in-depth review subject to certain performance goals agreed upon by the FDA. Priority review can be applied in certain instances, including with respect to drugs that the FDA determines offer major advances in treatment or provide a treatment where no adequate therapy exists. The review process, whether standard or priority, may be extended by the FDA for three additional months to consider certain late-submitted information or information intended to clarify information already provided in the submission.
+ 
+Before approving an NDA, the FDA will typically inspect one or more clinical sites to assure compliance with GCP. Additionally, the FDA will inspect the facility or facilities at which the drug is manufactured to confirm compliance with cGMP. The FDA may also refer applications for novel drug products, or drug products that present difficult questions of safety or efficacy, to an advisory committee. This advisory committee is typically a panel that includes clinicians and other experts in the relevant indication or subject matter who review and evaluate the NDA and provide a recommendation to the FDA as to whether the application should be approved. The FDA is not bound by the recommendation of an advisory committee, but it generally follows such recommendations.
+ 
+After the FDA evaluates the NDA, the clinical sites, the manufacturing facilities, and, as needed, receives a recommendation from the advisory committee, it issues either an approval letter or a complete response letter. A complete response letter generally outlines the deficiencies in the submission and may require substantial additional testing, or information, in order for the FDA to reconsider the application. The FDA has committed to reviewing such resubmissions in two to six months depending on the type of new information included.
+ 
+    14 
+
+  
+
+FDA Approval Letter
+ 
+An FDA approval letter authorizes commercial marketing of the drug with specific prescribing information for specific indications. Moreover, product approval may require substantial post-approval testing and surveillance to monitor the drug’s safety or efficacy including, in certain cases, REMS as described in more detail under the heading “—Certain Other FDA Regulations – Risk Evaluation and Mitigation Strategies.” Once granted, product approvals may be withdrawn if compliance with regulatory standards is not maintained or problems are identified following initial marketing.
+ 
+Further, changes to some of the conditions established in an approved application, including changes in indications, labeling, or manufacturing processes or facilities, require submission and FDA approval of a new NDA or NDA supplement before the change can be implemented. An NDA supplement for a new indication typically requires clinical data similar to that in the original application, and the FDA uses similar procedures and actions in reviewing NDA supplements as it does in reviewing NDAs.
+ 
+The Hatch-Waxman Amendments
+ 
+The Drug Price Competition and Patent Term Restoration Act, commonly referred to as the Hatch-Waxman Amendments, is a 1984 U.S. federal law which established the modern system of generic drug regulation in the U.S. The Hatch-Waxman Amendments were enacted to encourage the manufacture of generic drugs by outlining the process for generic pharmaceutical manufacturers to file an abbreviated new drug application and to provide certain related protections to drug development innovators, namely a new kind of market exclusivity period and the ability to potentially extend patent life by a portion of the time a drug is under regulatory review by the FDA.
+Orange Book Listing and Abbreviated New Drug Applications
+ 
+In seeking approval for a drug through an NDA, applicants are required to list with the FDA each patent whose claims cover the applicant’s product. Upon approval of a drug, each of the patents listed in the application for the drug is then published in the FDA’s Approved Drug Products with Therapeutic Equivalence Evaluations, commonly known as the Orange Book. Drugs listed in the Orange Book can, in turn, be cited by potential generic competitors in support of approval of an ANDA.
+ 
+An ANDA provides for marketing of a drug product that has the same active ingredients in the same strengths and dosage form as the listed drug and has been shown through bioequivalence testing to be therapeutically equivalent to the listed drug. Other than the requirement for bioequivalence testing, ANDA applicants are not required to conduct, or submit results of, preclinical or clinical tests to prove the safety or effectiveness of their drug product. Drugs approved in this way are commonly referred to as “generic equivalents” to the listed drug and can often be substituted by pharmacists under prescriptions written for the original listed drug.
+ 
+An ANDA applicant is required to make certain certifications to the FDA concerning any such patents listed in the Orange Book for the approved reference drug intended to confirm that the proposed generic equivalent will not infringe on any intellectual property related to the reference drug, commonly referred to as a Paragraph IV certification. The ANDA process gives the owner of the reference drug an opportunity to assert a patent infringement claim if it believes its intellectual property rights are being infringed upon following the submission of a Paragraph IV certification.
+ 
+An ANDA will not be approved until all patents and non-patent exclusivity periods listed in the Orange Book for the reference drug have expired.
+ 
+Patent Term Restoration and Marketing Exclusivity
+ 
+Certain of our current and future product candidates, including TSC, may be eligible for patent term restoration and marketing exclusivity under the Hatch-Waxman Amendment.
+ 
+    15 
+
+  
+
+The Hatch-Waxman Amendments permit restoration of the patent term of up to five years as compensation for patent term lost during product development and the FDA regulatory review process. Patent term restoration, however, cannot extend the remaining term of a patent beyond a total of 14 years from the product’s approval date. The patent term restoration period is generally 50% of the amount of time between the effective date of an IND and the submission date of an NDA, plus the time between the submission date of an NDA and the approval of that application, except that the review period is reduced by any time during which the applicant failed to exercise due diligence. Only one patent applicable to an approved drug is eligible for such an extension and the application for the extension must be submitted prior to the expiration of the patent. The USPTO, in consultation with the FDA, reviews and approves the application for any patent term extension or restoration.
+ 
+Marketing exclusivity provisions under the FDC Act can also delay the submission or the approval of certain marketing applications. The FDC Act provides three years of marketing exclusivity for an NDA, or supplement to an existing NDA, if new clinical investigations, other than bioavailability studies, that were conducted or sponsored by the applicant are deemed by the FDA to be essential to the approval of the application, for example investigations related to new indications, dosages, or strengths of an existing drug. This three-year exclusivity covers only the modification for which the drug received approval on the basis of the new clinical investigations and does not prohibit the FDA from approving ANDAs for drugs containing the active agent for the original indication or condition of use. The FDC Act also provides a five-year period of non-patent marketing exclusivity within the United States to the first applicant to obtain approval of an NDA for a new chemical entity, meaning the FDA has not previously approved any other new drug containing the same active moiety, which is the molecule or ion responsible for the action of the drug substance.
+ 
+During the exclusivity period, the FDA may not accept for review an ANDA or a 505(b)(2) NDA submitted by another company for another drug based on the same active moiety, regardless of whether the drug is intended for the same indication as the original innovator drug or for another indication, where the applicant does not own or have a legal right of reference to all the data required for approval. However, an application may be submitted after four years if it contains a certification of patent invalidity or non-infringement to one of the patents listed with the FDA by the innovator NDA holder. Three-year and five-year exclusivity will not delay the submission or approval of a full NDA. However, an applicant submitting a full NDA would be required to conduct or obtain a right of reference to all of the nonclinical studies and adequate and well-controlled clinical trials necessary to demonstrate safety and efficacy.
+ 
+Certain Other FDA Regulations
+ 
+The Orphan Drug Act of 1983
+ 
+Under the Orphan Drug Act, the FDA may grant orphan designation to a drug product intended to treat a rare disease or condition, which is generally a disease or condition that affects fewer than 200,000 individuals in the United States, or more than 200,000 individuals in the United States and for which there is no reasonable expectation that the cost of developing and making the product available in the United States for this type of disease or condition will be recovered from sales of the product. Our lead product candidate, TSC, has been granted Orphan Drug designations by the FDA for the treatment of both GBM and metastatic brain cancer.
+ 
+Orphan drug designation must be requested before submitting an NDA. After the FDA grants orphan drug designation, the identity of the therapeutic agent and its potential orphan use are disclosed publicly by the FDA. For example, we previously announced that TSC was granted orphan drug designation by the FDA for the treatment of GBM and metastatic brain cancer in July 2011 and in December 2012, respectively. However, orphan drug designation on its own does not convey any advantage in or shorten the duration of the regulatory review and approval process but may result in certain financial and marketing incentives if approved.
+ 
+    16 
+
+  
+
+If a product that has orphan designation subsequently receives the first FDA approval for the disease or condition for which it has such designation, the product is entitled to orphan drug exclusivity, which means that the FDA may not approve any other applications to market the same drug for the same indication for seven years from the date of such approval, except in limited circumstances, such as a showing of clinical superiority to the product with orphan exclusivity by means of greater effectiveness, greater safety, or providing a major contribution to patient care, or in instances of drug supply issues. Competitors, however, may receive approval of either a different product for the same indication or the same product for a different indication. In the latter case, because health care professionals are free to prescribe products for off-label uses, the competitor’s product could be used for the orphan indication despite our orphan exclusivity. Orphan drug exclusivity could also block the approval of one of our products for seven years if a competitor obtains approval before we do for the same drug and same indication, as defined by the FDA, for which we are seeking approval, or if our product is determined to be contained within the scope of the competitor’s product for the same indication or disease. If we pursue marketing approval for an indication broader than the orphan drug designation we have received, we may not be entitled to orphan drug exclusivity. Orphan drug status in the E.U. has similar, but not identical, requirements and benefits.
+ 
+Expedited Development and Review Programs
+ 
+The FDA has a fast track program that is intended to expedite or facilitate the process for reviewing new drugs that meet certain criteria. Specifically, new drugs are eligible for fast track designation if they are intended to treat a serious or life-threatening condition and preclinical or clinical data demonstrate the potential to address unmet medical needs for the condition. Fast track designation applies to both the product and the specific indication for which it is being studied. The sponsor can request the FDA to designate the product for fast track status any time before receiving NDA approval, but ideally no later than the pre-NDA meeting. Any product submitted to the FDA for marketing, including under a fast track program, may be eligible for other types of FDA programs intended to expedite development and review, such as priority review and accelerated approval. Any product is eligible for priority review if it treats a serious or life-threatening condition and, if approved, would provide a significant improvement in safety and effectiveness compared to available therapies. The FDA will attempt to direct additional resources to the evaluation of an application for a new drug designated for priority review in an effort to facilitate the review.
+ 
+A product may also be eligible for accelerated approval, if it treats a serious or life-threatening condition and generally provides a meaningful advantage over available therapies. In addition, it must demonstrate an effect on a surrogate endpoint that is reasonably likely to predict clinical benefit or on a clinical endpoint that can be measured earlier than IMM that is reasonably likely to predict an effect on IMM or other clinical benefit. As a condition of approval, the FDA may require that a sponsor of a drug receiving accelerated approval perform adequate and well-controlled post-marketing clinical trials. If the FDA concludes that a drug shown to be effective can be safely used only if distribution or use is restricted, it will require such post-marketing restrictions, as it deems necessary to assure safe use of the product. If the FDA determines that the conditions of approval are not being met, the FDA can withdraw its accelerated approval for such drug.
+ 
+Additionally, a drug may be eligible for designation as a breakthrough therapy if the product is intended, alone or in combination with one or more other drugs, to treat a serious or life-threatening condition and preliminary clinical evidence indicates that the product may demonstrate substantial improvement over currently approved therapies on one or more clinically significant endpoints. The benefits of breakthrough therapy designation include the same benefits as fast track designation, plus intensive guidance from the FDA to ensure an efficient drug development program.
+ 
+Even if a product qualifies for one or more of these programs, the FDA may later decide that the product no longer meets the conditions for qualification or the time period for FDA review or approval may not be shortened. Furthermore, fast track designation, priority review, accelerated approval, and breakthrough therapy designation do not change the standards for approval, but may expedite the development or approval process.
+ 
+    17 
+
+  
+
+Rare Pediatric Disease Priority Review Voucher Program
+ 
+In 2012, Congress authorized the FDA to award priority review vouchers to sponsors of certain rare pediatric disease product applications. This program is designed to encourage development of new drug and biological products for prevention and treatment of certain rare pediatric diseases. Specifically, under this program, a sponsor who receives an approval for a drug or biologic for a “rare pediatric disease” may qualify for a voucher that can be redeemed to receive a priority review of a subsequent marketing application for a different product. The sponsor of a rare pediatric disease drug product receiving a priority review voucher may transfer (including by sale) the voucher to another sponsor. The voucher may be further transferred any number of times before the voucher is used, as long as the sponsor making the transfer has not yet submitted the application. The FDA may also revoke any priority review voucher if the rare pediatric disease drug for which the voucher was awarded is not marketed in the U.S. within one year following the date of approval.
+ 
+For purposes of this program, a “rare pediatric disease” is a (a) serious or life-threatening disease in which the serious or life-threatening manifestations primarily affect individuals aged from birth to 18 years, including age groups often called neonates, infants, children, and adolescents; and (b) a rare disease or condition within the meaning of the Orphan Drug Act. On December 27, 2020, the Rare Pediatric Disease Priority Review Voucher Program was extended. Under the current statutory sunset provisions, after September 30, 2024, FDA may only award a voucher for an approved rare pediatric disease product application if the sponsor has rare pediatric disease designation for the drug, and that designation was granted by September 30, 2024. After September 30, 2026, FDA may not award any Rare Pediatric Disease Priority Review Voucher.
+ 
+Disclosure of Clinical Trial Information
+ 
+Sponsors of clinical trials of FDA-regulated products are required to register and disclose to the public certain clinical trial information, including information related to the product, patient population, phase of investigation, study sites, investigators, and other aspects of the trial design. Sponsors are also obligated to discuss the results of their clinical trials after completion. However, disclosure of the results of these trials can be delayed until the new product or new indication being studied has been approved as competitors may otherwise use this or other publicly-available information to gain knowledge regarding the progress of development programs and gain a competitive advantage.
+Risk Evaluation and Mitigation Strategies and Other Post-Approval Requirements
+ 
+As a condition of NDA approval, the FDA may require a REMS to help ensure that the benefits of the drug’s continued approval outweigh the potential risks. In determining whether a REMS is necessary, the FDA must consider the size of the population likely to use the drug, the seriousness of the disease or condition to be treated, the expected benefit of the drug, the duration of treatment, the seriousness of known or potential adverse events, and whether the drug is a new molecular entity. If the FDA determines a REMS is necessary, the drug sponsor must agree to the REMS plan at the time of approval. REMS can include medication guides, communication plans for healthcare professionals, and elements to assure safe use. Elements to assure safe use can include, but are not limited to, special training or certification for prescribing or dispensing, dispensing only under certain circumstances, special monitoring requirements, and the use of patient registries. The requirement for a REMS can materially affect the potential market and profitability of a drug product.
+ 
+Even if the FDA does not require a REMS, once an NDA is approved, a product will be subject to certain post-approval regulations. For instance, the FDA closely regulates the post-approval marketing and promotion of drugs, including standards and regulations for direct-to-consumer advertising, off-label promotion, industry-sponsored scientific and educational activities, and promotional activities involving the internet. Adverse event reporting and the submission of periodic reports are also required following FDA approval of an NDA.
+ 
+    18 
+
+  
+
+Drug Approval Process and Other Regulations Outside of the U.S.
+ 
+In addition to regulations in the U.S., we are and will be subject to the regulations of other countries in which we conduct any of our clinical trials or engage in commercial sales or other distribution of our products, if approved. Whether or not we obtain FDA approval for conduct of a clinical trial or distribution of a product, we must obtain approval from the competent regulatory authority of any country or economic area in which we would seek to commence a clinical trial or market products. For example, conduct of the COVID Trial in Bucharest, Romania, required certain approvals from regulatory authorities in Romania and the E.U. Certain countries outside of the United States have a process similar to the FDA’s IND process which requires the submission of a CTA prior to the commencement of human clinical trials. In the E.U., for example, a CTA must be submitted to each country’s national health authority and an independent ethics committee, which operates similar to an IRB under U.S. regulations. Once the CTA is approved in accordance with a country’s requirements, the clinical trial may proceed in the applicable country. The approval process and requirements governing the conduct of clinical trials, product licensing, pricing, and reimbursement vary greatly from place to place, and the time may be longer or shorter than that required for FDA approval.
+ 
+In particular, in the E.U. a company may submit marketing authorization applications (comparable to an NDA submission in the US to the FDA) under either a centralized or decentralized procedure. The centralized procedure, which is compulsory for medicines produced by biotechnology or those medicines intended to treat AIDS, cancer, neurodegenerative disorders, or diabetes and is optional for medicines which are highly innovative, provides for the grant of a single marketing authorization that is valid for all E.U. member states. The decentralized procedure provides for mutual recognition of national approval decisions. Under this decentralized procedure, the holder of a national marketing authorization in any E.U. member state may submit an application to the remaining member states. Within ninety days of receiving the applications and assessments report, each member state must decide whether to recognize approval. If a member state does not recognize the marketing authorization, the disputed points are eventually referred to the European Commission, whose decision is binding on all member states. The E.U. also has procedures similar to those of the FDA pursuant to which a company may obtain marketing exclusivity for a product for up to 11 years and/or orphan drug designation and related exclusivity for up to ten years, as well as other expedited approval pathways available to certain drugs.
+ 
+In addition, in some non-U.S. jurisdictions, the proposed pricing for a product candidate must be approved before it may be lawfully marketed. The requirements governing drug pricing vary widely from country to country. For example, the E.U. provides options for its member states to restrict the range of medicinal products for which their national health insurance systems provide reimbursement and to control the prices of medicinal products for human use. A member state may approve a specific price for the medicinal product or it may instead adopt a system of direct or indirect controls on the profitability of the company placing the medicinal product on the market. There can be no assurance that any country that has price controls or reimbursement limitations for pharmaceutical products will allow favorable reimbursement and pricing arrangements for any of our product candidates. Historically, product candidates launched in the E.U. do not follow price structures of the U.S. and generally tend to be significantly lower.
+ 
+Certain Other Legislation and Regulations
+ 
+Current Healthcare Laws and Regulations
+ 
+Healthcare providers, physicians, and third party payors, including governmental payors such as Medicare and Medicaid, will play a significant role in the recommendation and prescription of any products for which we obtain marketing approval. Our future arrangements with third party payors, healthcare providers, and physicians may expose us to broadly applicable fraud and abuse and other healthcare laws and regulations that may constrain the business or financial arrangements and relationships through which we market, sell, and distribute any drugs for which we obtain marketing approval.
+ 
+These laws include, without limitation, state and federal anti-kickback, false claims, physician transparency, and patient data privacy and security laws and regulations, and other federal, state, and local regulations and legislation impacting the pharmaceutical and biopharmaceutical industries, including but not limited to those described below.
+ 
+
+• | Health Insurance Portability and Accountability Act - HIPAA imposes criminal and civil liability for, among other things, knowingly and willfully executing a scheme, or attempting to execute a scheme, to defraud any healthcare benefit program, including private payors, or falsifying, concealing, or covering up a material fact or making any materially false statements in connection with the delivery of or payment for healthcare benefits, items or services. Similar to the federal Anti-Kickback Statute, a person or entity does not need to have actual knowledge of the statute or specific intent to violate it in order to have committed a violation. HIPAA, as amended by HITECH and their respective implementing regulations, imposes, among other things, specified requirements on covered entities and their business associates relating to the privacy and security of individually identifiable health information, including mandatory contractual terms and required implementation of technical safeguards of such information. HITECH also created new tiers of civil monetary penalties, amended HIPAA to make civil and criminal penalties directly applicable to business associates, and gave state Attorneys General new authority to file civil actions for damages or injunctions in federal courts to enforce the federal HIPAA laws and seek attorneys’ fees and costs associated with pursuing federal civil actions.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+    19 
+
+  
+
+
+• | Affordable Care Act - The ACA was enacted in March 2010 and included measures intended to significantly change the way healthcare is financed in the U.S. by both governmental and private insurers which have and may continue to impact the pharmaceutical and biopharmaceutical industries, including expanded Medicare and Medicaid benefits, expansion of healthcare fraud and abuse laws, establishment of the CMS, annual reporting requirements for manufacturers and distributors. Since its enactment, there have been numerous judicial, administrative, executive, and legislative challenges to certain aspects of the Affordable Care Act, and we expect there will be additional challenges and amendments to the ACA in the future. In addition, subsequent legislation, including the Budget Control Act of 2011, American Taxpayer Relief Act of 2012, and Coronavirus Aid, Relief, and Economic Security Act of 2020, has limited and supplemented various provisions of the Affordable Care Act. While we cannot predict what effect further changes to the Affordable Care Act would have on our business, the Affordable Care Act is likely to continue to impact the regulatory regime to which we are subject for the foreseeable future, and we cannot predict the ultimate content, timing, or effect of any healthcare reform legislation or the impact of potential legislation on us.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | 21st Century Cures Act - The 21st Century Cures Act, which the U.S. House of Representatives passed in July 2015 and President Obama signed into law in December 2016, provides for a wide range of reforms that may impact our business, such as broadening the types of data required to support drug approval, extending protections from genetic competition, accelerating approval of breakthrough therapies, expanding the orphan drug product and compassionate use programs, and clarifying how manufacturers communicate about their products.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Anti-Kickback Laws - The federal Anti-Kickback Statute makes it illegal for any person, including a prescription drug manufacturer (or a party acting on its behalf), to knowingly and willfully solicit, receive, offer, or pay any remuneration, directly or indirectly, in cash or in kind, that is intended to induce or reward referrals, including the purchase, recommendation, order or prescription of a particular drug or any other good or service, for which payment may be made under a federal healthcare program, such as Medicare or Medicaid. Violations of this law are punishable by up to five years in prison, criminal fines, administrative civil money penalties, and exclusion from participation in federal healthcare programs. In addition, a person or entity does not need to have actual knowledge of the statute or specific intent to violate it.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | False Claims Laws - The federal False Claims Act imposes civil penalties, including through civil whistleblower or qui tam actions, against individuals or entities (including manufacturers) for, among other things, knowingly presenting, or causing to be presented, false or fraudulent claims for payment by a federal healthcare program or making a false statement or record material to payment of a false claim or avoiding, decreasing, or concealing an obligation to pay money to the federal government. The government may deem manufacturers to have “caused” the submission of false or fraudulent claims by, for example, providing inaccurate billing or coding information to customers or promoting a product off-label.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Medicare Prescription Drug, Improvement, and Modernization Act - The Medicare Prescription Drug, Improvement, and Modernization Act of 2003 imposes requirements on the distribution and pricing of prescription drugs for Medicare beneficiaries. Under Part D, Medicare beneficiaries may enroll in prescription drug plans offered by private entities which will provide coverage of outpatient prescription drugs. Part D plans include both stand-alone prescription drug benefit plans and prescription drug coverage as a supplement to Medicare Advantage plans, but plan sponsors are not required to pay for all covered Part D drugs, and each drug plan can develop its own drug formulary that identifies which drugs it will cover and at what tier or level. However, Part D prescription drug formularies must include drugs within each therapeutic category and class of covered Part D drugs, though not necessarily all the drugs in each category or class. Any reduction in payment that results from the these or similar regulations may result in a similar reduction in payments from non-governmental payors.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+    20 
+
+  
+
+
+• | The Physician Payments Sunshine Act - The Sunshine Act, enacted as part of the Affordable Care Act,, imposed new annual reporting requirements for certain manufacturers of drugs, devices, biologics, and medical supplies for which payment is available under Medicare, Medicaid, or the Children’s Health Insurance Program, for certain payments and “transfers of value” provided to physicians (defined to include doctors, dentists, optometrists, podiatrists and chiropractors) and teaching hospitals, as well as ownership and investment interests held by physicians and their immediate family members. Effective January 1, 2022, these reporting obligations will extend to include transfers of value made to certain non-physician providers such as physician assistants and nurse practitioners.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | State, Local, and Non-U.S. Legislation and Regulations - In addition, to the legislation summarized above, we may also be subject now or in the future to analogous state, local, and non-U.S. laws and regulations, such as state anti-kickback and false claims laws, which may be broader in scope and apply regardless of payor. Such laws are enforced by various state agencies and through private actions. For example, some state laws require pharmaceutical companies to comply with the pharmaceutical industry’s voluntary compliance guidelines and the relevant federal government compliance guidance, require drug manufacturers to report information related to payments and other transfers of value to physicians and other healthcare providers, and restrict marketing practices or require disclosure of marketing expenditures. Certain state and foreign laws also govern the privacy and security of health information in some circumstances and these data privacy and security laws may differ from both HIPAA and each other in significant ways, which would potentially increase our compliance burden.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The scope and enforcement of each of these laws is uncertain and subject to rapid change in the current environment of healthcare reform. Federal and state enforcement bodies have recently increased their scrutiny of interactions between healthcare companies and healthcare providers, which has led to a number of investigations, prosecutions, convictions, and settlements in the healthcare industry. If our operations are found to be in violation of any of these laws or any other related governmental regulations that may apply to us, we may be subject to significant civil, criminal, and administrative penalties, damages, fines, imprisonment, disgorgement, exclusion of drugs from government funded healthcare programs, such as Medicare and Medicaid, reputational harm, additional oversight, and reporting obligations if we become subject to a corporate integrity agreement or similar settlement to resolve allegations of non-compliance with these laws and the curtailment or restructuring of our operations.
+ 
+Future Healthcare Laws and Regulations
+ 
+In the United States and foreign jurisdictions, there have been a number of proposed changes regarding the healthcare system and its regulation that could prevent or delay marketing approval of our product candidates, restrict or regulate post-approval activities, and affect our ability to profitably sell any product candidates for which we obtain marketing approval. We expect that further implementation of current laws, as well as other healthcare reform measures that may be adopted in the future, may result in more rigorous coverage criteria and in additional downward pressure on the price that we, or any strategic collaborators, may receive for any approved products. Further, there has recently been heightened governmental scrutiny over the manner in which manufacturers set prices for their marketed products, which have resulted in several recent Congressional inquiries and proposed bills designed to, among other things, bring more transparency to product pricing, review the relationship between pricing and manufacturer patient programs, and reform government program reimbursement methodologies for products.
+U.S. Environmental, Health, and Safety Laws
+ 
+We are subject to numerous environmental, health, and safety laws and regulations. From time to time and in the future, our operations may involve the use of hazardous and flammable materials, including chemicals and biological materials, and may also produce hazardous waste products. Even if we contract with third parties for the disposal of these materials and waste products, we cannot completely eliminate the risk of contamination or injury resulting from these materials. In the event of contamination or injury resulting from the use or disposal of our hazardous materials, we could be held liable for any resulting damages, and any liability could exceed our resources. We also could incur significant costs associated with civil or criminal fines and penalties for failure to comply with such laws and regulations.
+ 
+    21 
+
+  
+
+In addition, we may incur substantial costs in order to comply with current or future environmental, health, and safety laws and regulations. Current or future environmental laws and regulations may impair our research, development or production efforts. In addition, failure to comply with these laws and regulations may result in substantial fines, penalties or other sanctions.
+ 
+Public Company Status
+ 
+As a public company, we incur significant legal, accounting and other expenses to comply with the reporting requirements of the Exchange Act and applicable requirements of SOX and the Dodd-Frank Act, as well as rules and regulations subsequently implemented by the SEC and Nasdaq, including the establishment and maintenance of effective disclosure and financial controls, changes in corporate governance practices and required filing of annual, quarterly and current reports with respect to our business and operating results. These requirements increase our legal and financial compliance costs and make some activities more time-consuming and costly. In addition, our management and other personnel devote significant time and attention to these public company requirements.
+Our People and Human Capital Resources
+ 
+As of December 31, 2021, we had 16 full-time employees, up from 12 employees as of December 31, 2020. We also regularly work with several independent consultants and other contract organizations to support our business and we regularly evaluate additional talent to help support our product manufacturing, development, financial, and other capabilities.
+Diversity and Inclusion
+ 
+We believe that an inclusive culture is required to understand and develop products that benefit all patients. By embracing differences, we aim to foster an environment of respect and trust in an effort to facilitate creativity, spark passion, and help us achieve better outcomes for all those who work at and with Diffusion. We are committed to creating and maintaining a workplace free from discrimination or harassment, including on the basis of any class protected by applicable law, and our recruitment, hiring, development, training, compensation, and advancement practices are based on qualifications, performance, skills, and experience without regard to gender, race, or ethnicity. Our management team and employees are expected to exhibit and promote honest, ethical, and respectful conduct in the workplace, including adhering to the standards for appropriate behavior set forth in our code of conduct.
+Compensation and Benefits
+ 
+We operate in a highly competitive environment for human capital, particularly as we seek to attract and retain talent with relevant experience in the biotechnology and pharmaceutical sectors. Therefore, we strive to provide a total rewards package to our employees that is competitive with our peer companies, including competitive pay, a comprehensive healthcare benefits package (including an 80% employer contribution to family medical coverage), 25 days of paid leave, a company-sponsored 401(k) savings plan, short-term and long-term disability, and other benefits, as well as remote working and flexible work schedules. We also offer every full-time employee the benefit of equity ownership in Diffusion through stock option grants. We believe these grants both help promote alignment between our employees and our stockholders and provide retention benefits, as the awards generally vest over a three-year period.
+ 
+We do not have any employees that are represented by a labor union or that have entered into a collective bargaining agreement with the Company.
+ 
+    22 
+
+  
+
+Safety and Wellness
+ 
+At Diffusion, we believe that health matters to everyone, and the safety health, and wellness of our employees is one of our top priorities. We are committed to developing and fostering a work environment that is safe, professional, and promotes teamwork, diversity, and trust in order to afford all of our employees the opportunity to contribute to the best of their abilities.
+ 
+Over the past two years, in response to the COVID-19 pandemic, we have taken certain measures and responded to changes in our operational needs, including actions designed to provide a safe work environment for our employees. These actions included investing in technology solutions to support increased work-from-home capabilities, shifting work schedules to reduce the number of people present in our offices, requiring mask wearing and social distancing, making hand sanitizer readily available, and other measures intended to comply with health and safety protocols as required by federal, state, and local governmental agencies, as well as guidance from the U.S. Centers for Disease Control and Prevention and similar public health authorities.
+ 
+Employee Development and Training
+ 
+We believe our people are among our most important assets. We focus on attracting, retaining, and cultivating talented individuals and believe in investing in our people to help them grow. Employees are encouraged to attend scientific, clinical, technological, and other relevant meetings and conferences and we strive to provide employees access to a broad set of internal resources intended to help them be successful, including a variety of training and educational materials. During 2021, we intend to implement a new, comprehensive employee evaluation program tied to the achievement of individual, team, and company goals to help further support, retain, and develop our people and further promote alignment of interests between our employees, future target customers, and our stockholders.
+Directors and Executive Officers
+ 
+The information set forth in "Part III — Item 10 — Directors, Officers, and Corporate Governance," of this Annual Report is incorporated herein by reference.
+ 
+Other Information About Our Company
+ 
+Corporate Information and History
+ 
+We were originally incorporated under the laws of the State of Nevada on January 10, 1995 and reincorporated under the laws of the State of Delaware on June 18, 2015 under the name, “RestorGenex Corporation.” On January 8, 2016, we completed the merger of our wholly owned subsidiary with and into Diffusion LLC, which was treated as a "reverse acquisition" under GAAP pursuant to which Diffusion LLC's historical results of operations replaced the Company's for all periods prior to the merger. Immediately following the closing of the merger, we changed our name from "RestorGenex Corporation" to "Diffusion Pharmaceuticals Inc."
+ 
+On May 6, 2021, we received a written notice from the Nasdaq Staff indicating that we were not in compliance with the Bid Price Rule because the bid price for our common stock had closed below $1.00 per share for the previous 30 consecutive business days. On November 3, 2021, after failing to regain compliance with the Bid Price Rule within 180 days of our receipt of the first notice, we received an additional notice from the Staff providing that, although the Company had not regained compliance with the Bid Price Rule by the previously stated deadline, in accordance with Nasdaq Listing Rule 5810(c)(3)(A), the Company would be granted an additional 180 calendar days, or until May 2, 2022, to regain compliance with the Bid Price Rule. As part of our efforts to regain compliance with the Bid Price Rule, on February 28, 2022, we filed a definitive proxy statement related to a special meeting of our stockholders scheduled for Thursday, April 14, 2022 at which our stockholders will vote upon proposal, approved and recommended for stockholder approval by the Board, to amend our Certificate of Incorporation to effect a reverse stock split of our outstanding shares of common stock by a ratio of any whole number between 1-for-2 and 1-for-50 at any time prior to December 31, 2022, the timing and implementation of which will be subject to the discretion of the Board. To regain compliance, the bid price for the Company’s common stock must close at $1.00 per share or more for a minimum of 10 consecutive business days.
+ 
+    23 
+
+  
+
+Our principal corporate office is located at 300 East Main Street, Suite 201, Charlottesville, Virginia 22902, and our telephone number is (434) 220-0718. Our website, www.diffusionpharma.com, including the Investor Relations section, investors.diffusionpharma.com, and our social media channels – Facebook (www.facebook.com/diffusionpharmaceuticalsinc/), Twitter (www.twitter.com/diffusionpharma) and LinkedIn (https://www.linkedin.com/company/diffusion-pharmaceuticals/) -- contain a significant amount of information about the Company. We encourage investors to visit these websites and social media channels as information is frequently updated and new information is shared. However, the information included on our website and available through our social media channels is not incorporated by reference into, and should not be considered part of, this Annual Report or any other filings we make with the SEC.
+ 
+Available Information
+ 
+We make available on or through our website certain reports that we file with or furnish to the SEC in accordance with Exchange Act. These include our Annual Reports on Form 10-K, our Quarterly Reports on Form 10-Q, and our Current Reports on Form 8-K, as well as any amendments to those reports, filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act. We make this information available free of charge as soon as reasonably practicable after we electronically file the information with, or furnish it to, the SEC. The SEC also maintains a website, www.sec.gov, that contains reports, proxy and information statements, and other information regarding the Company and other issuers that file electronically with the SEC. We also make available, free of charge and through our website, the charters of the committees of the Board, our Corporate Governance Guidelines, and our Code of Business Conduct and Ethics.
+ 
+    24 
+
+  
+
