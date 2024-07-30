@@ -1,0 +1,365 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Our Business
+Organizational History
+Trust Stamp was incorporated under the laws of the State of Delaware on April 11, 2016 as “T Stamp Inc.” The business was originally founded as “T Stamp LLC”, formed on November 9, 2015 as a Georgia limited liability company. In 2016, the Company effected a “hive down” business reorganization whereby the business of the Company was transferred into to a newly formed, wholly owned subsidiary, which was T Stamp Inc. (i.e. the Company). As of the date of this report, the Company is no longer a subsidiary of T Stamp LLC, and T Stamp LLC is no longer a majority owner of the Company.
+Overview
+Trust Stamp is an artificial intelligence company that develops proprietary identity solutions to help determine whether an individual is who they say they are and that they can be trusted, including Trust Stamp’s AI-powered facial biometrics that establish proof of life and are resistant to presentation attacks. In that example, a biometric capture can be converted into a tokenized identity (IT2) that is unique to the user but cannot be reverse engineered and rebuilt into the user’s face or other biometric data, does not constitute PII.
+Each IT2can be stored in an Identity LakeTM or submitted to a zero-knowledge-proof matcher and compared to all other hashes allowing our AI to predict if a single subject generated two or more IT2 even if the subject has passed conventional KYC using (e.g.) falsified identity documents. Using this technology, the users’ IT2 can be used for re-authentication purposes including account recovery, password-less login, new account creation etc. across the organization or even within a consortium of organizations all in a low-cost and low friction delivery that is fast and secure.
+Our technology is being used for enhanced due diligence, KYC/AML compliance and “second chance” approval for customer onboarding and account access together with the delivery of humanitarian and development services. Using our technology, an enterprise can approve more users, keep bad actors from accessing systems and services and retain existing users with a superior user experience.
+We utilize micro-service architecture and highly scalable cloud computing resources with cutting-edge tools, power and agility such as GPU processing, neural networks and a Quantum Ledger Database to process data faster and more effectively than has previously been possible, as well as delivering products at a disruptively low cost that allows usage across multiple industries, including:
+
+o | Banking/FinTech
+--+----------------
+
+
+o | Humanitarian & Development Services
+--+------------------------------------
+
+
+o | Biometrically Secured Email
+--+----------------------------
+
+
+o | KYC/AML Compliance
+--+-------------------
+
+
+o | Law Enforcement
+--+----------------
+
+
+o | P2P Transactions, Social Media, and Sharing Economy
+--+----------------------------------------------------
+
+
+o | Real Estate
+--+------------
+
+Our Background
+We entered the market building facial-biometric authentication systems for onboarding, fraud-detection & safety applications. This allowed us to raise capital, generate revenue to fund our core AI microservices, and refine our technology using live data with informed consent from users. Following usage based upon facial biometrics, we started the process of hashing biometric data from 3rd party biometric service providers, initially touchless palm, and fingerprint templates. Our business model is now focused on licensing Annual Recurring Revenue (ARR) generating pay-per-use services implementing our hashing technology, limiting future pilots to very-large-scale use cases, using execution partners for commoditized implementations, and deploying our hashing technology with sector leading channel partners.
+
+3
+
+
+
+Business Model
+Trust Stamp’s business model is that of a technology licensing company – we license our products to companies that in turn integrate our technology into products and services which they either sell or use for their own purposes. We focus on licensing ARR generating pay-per-use services including:
+
+o | Biometric identity authentication
+--+----------------------------------
+
+
+o | Identity document authentication and fraud detection
+--+-----------------------------------------------------
+
+
+o | Tokenization of personal data including vaccination and other medical records
+--+------------------------------------------------------------------------------
+
+
+o | Pay-per-use hashing services for biometric service providers, government, NGO, and enterprise users
+--+----------------------------------------------------------------------------------------------------
+
+
+o | Tokenized-Identity Lakes and consortiums comprising IT2 for matching and de-duplication
+--+----------------------------------------------------------------------------------------
+
+
+o | Zero-knowledge-proof and similar tools allowing IT2 to be used for matching or deduplication without the parties disclosing any underlying personal identifying information
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Digital payment authentication and implementation
+--+--------------------------------------------------
+
+
+o | Proprietary knowledge-based authentication tools
+--+-------------------------------------------------
+
+In addition, we have developed an encrypted e-mail product (Trusted Mail ® www.trustedmail.pro) using our facial recognition technology. This technology is held in a majority owned subsidiary entity: Trusted Mail Inc.
+The Market
+Trust Stamp considers itself to be in the identity authentication market which is primarily comprised of biometric authentication providers. Trust Stamp’s key sub-markets are identity authentication for the purpose of account opening, access and fraud detection and the creation of tokenized identities to facilitate financial & societal inclusion. Management has evaluated the market potential for its services in part by reviewing the following reports and articles, none of which were commissioned by the Company and none are to be incorporated by reference:
+
+o | By 2025, biometrics will annually authenticate over $3 trillion of payment transactions, according to a 2021 report published by Juniper Research on Mobile Payment Security in 2021-2025.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | The global biometric system market size is projected to grow from $36.6 billion in 2020 to $68.6 billion by 2025 according to the November 2020 report “Biometric System Market with COVID-19 Impact by Authentication Type, Offering, Type, Vertical and Region - Global Forecast to 2025” published by ReportLinker.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Annual online payment fraud losses from eCommerce, airline ticketing, money transfer and banking services, are estimated to cumulatively lose over $200 billion to online payment fraud between 2020 and 2024. Digital money transfer is the fastest growing payment fraud segment, with losses estimated to increase by 130% from 2020 to 2024 according to a 2020 report published by Juniper Research on Online Payment Fraud.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | According to the 2020 Year End Data Breach QuickView Report, 2020 saw 3,932 publicly disclosed breaches, exposing over 37 billion records.
+--+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | According to Grand View Research, the market size of the European Biometrics market was estimated to be USD 1.93 Billion in 2018 and is expected to grow at a CAGR of 17.5% to reach a market size of USD 5.97 Billion in 2025.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4
+
+
+
+According to a September 2019 article published by Forbes magazine on providing banking services to underserved populations:
+
+o | “Financial Inclusion” (i.e. providing banking and other financial services to those currently unbanked or underbanked) is a trillion-dollar opportunity
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | 1.7 billion people lack basic financial services including a bank account
+--+--------------------------------------------------------------------------
+
+
+o | 4 billion people are underbanked
+--+---------------------------------
+
+
+o | The GDP of emerging-market countries would surge $3.7 trillion by 2025, or 6%, if they adopted a single innovation—switching from cash to digital money stored on cellphones
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Providing the underbanked with access to credit and investments could create an additional $100 trillion in financial assets over the next 50 years
+--+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+One of the biggest contributors to current authentication problems is the use of passwords. Static passwords (i.e. the type of password that we typically use to login to various accounts and services every single day that, for the most part, remains the same from the moment it is created) have a number of weaknesses:
+oPlatforms often require regular changes;
+oEasily guessable, exacerbated by social media and data mining;
+oDiffering rules make complex passwords harder to remember;
+oBrute force attacks are easier for hacking; and
+oSingle passwords used on multiple accounts result in cascading data breaches.
+
+According to a 2015 report published by Oxford University Department of Computer Sciences and Mastercard, 21% of users forget passwords within 2 weeks, 25% of users fail to remember at least 1 password per day, and 1 out of 3 online transactions are abandoned at checkout due to a forgotten password.
+On top of this, stored biometric images and templates represent a growing and unquantified financial, security and PR liability and are the subject of growing governmental, media and public scrutiny, since biometric data cannot be “changed” once they are hacked, as they are intimately linked to the user’s physical features and/or behaviors.
+With biometric technologies becoming nearly ubiquitous, a range of risks are becoming more prevalent. The popularity of biometric authentication across financial services, employment, travel and healthcare settings inevitably means biometric databases are becoming more accessible to criminals, and the motivation to take over biometric credentials is booming. Even when operating as intended, biometric technology raises privacy concerns which have led to close attention from regulators. Multiple jurisdictions have placed biometrics in a special or sensitive category of personal data and demand much stronger safeguards around collection and safekeeping.
+To address this unprecedented danger, Trust Stamp has developed its IT2 solutions.
+Principal Products and Services
+Trust Stamp’s most important technology is the Irreversible Identity Token TM (also known as the IT2TM, Evergreen HashTM, EgHashTM and MyHashTM) combined with a data architecture that can use one or multiple sources of biometric or other identifying data. Once a “hash translation” algorithm is created, like-modality hashes are comparable regardless of their origin. The IT2 protects against system and data redundancy providing a lifelong “digital-DNA” that can store (or pivot to) any type of KYC or relationship data with fields individually hashed or (salted and) encrypted, facilitating selective data sharing. Products utilizing the IT2 are Trust Stamp’s primary products, accounting for the majority of its revenues during the year ended December 31, 2021.
+
+5
+
+
+
+IT2 Solutions
+The IT2 (for Irreversibly Transformed Identity Token) replace biometric templates and scans with meaningless numbers, letters and symbols in order to remove sensitive data from the reach of criminals using a proprietary process by which a deep neural network irreversibly converts biometric and other identifying data, from any source, into the secure tokenized identity. This IT2 is unique to the user, is different every time generated from a live subject and cannot be reverse engineered and rebuilt into the user’s face or other original identity data.
+
+​
+Each token can be stored and compared to all other tokens from the same modality allowing the Company’s AI-powered analytics to predict if a single subject has generated two or more tokens, even if the subject has passed conventional KYC using, e.g., falsified identity documents. Using this technology, the users’ IT2 can be used for re-authentication purposes including account recovery, password-less login, new account creation, and more across the organization or even within a consortium of organizations, all in a low-cost and low friction delivery that is fast and secure.
+
+6
+
+
+
+Our technology is being used for enhanced due diligence, KYC/AML compliance and “second chance” approval for customer onboarding and account access together with the delivery of humanitarian and development services. The solution allows organizations to approve more users, keep bad actors from accessing systems and services, and retain existing users with a superior user experience.
+
+Our hashing and matching technology can maximize the effectiveness of all types of identity data while rendering it safer to use, store and share. Whatever the source of identity data, it can be stored and compared as an IT2. See the chart below for examples.
+
+Distribution
+Through licensing we allow customers to utilize our technology in a wide variety of applications. Uses can include (e.g.):
+oThe provision of hashing / services to enterprises, NGOs, and government to overlay on third-party biometric and identity data
+oHash licensing, translation, and certification services for biometric vendors
+oManagement of zero-knowledge-proof services whether as a tributary between Identity Lakes or operating consortium lakes
+oTokenized identity creation for large scale deployments such as humanitarian and government identity programs.
+
+Trust Stamp enters into licensing agreements, typically as a hosted offering, on-premise solution or both, with its customers, pursuant to which the customer pays for the initial product development plus a license fee for the use of Trust Stamp’s technologies on a periodic and/or volume-based basis. In addition to consuming and paying for Trust Stamp’s services for their own use, some key customers also serve as channel partners by offering Trust Stamp products to their own customer base whether as stand-alone products or integrated into their own services as upgraded product offerings.
+
+7
+
+
+
+Competition
+We can work with any identity data from any source, potentially breaking vendor, and modality lock-in, but our primary market target is the biometric service industry which is growing exponentially while being threatened by a consumer, media, and legislative backlash against storing biometric data. The IT2 can potentially be overlaid on any biometric or other identity data provider.
+In general, we compete for customer budget with any company in the identity authentication industry and our business plan calls for our capturing a fraction of one percent of the projected expenditure for biometric authentication services. Major competitors in this space include companies such as NEXT Biometrics, Gemalto, IDEMIA, Synaptics, Cognitec, Innovatrics, Suprema, FaceTec, Rank One Computing, Acuant, Jumio, Onfido and Mitek. However, we believe that, due to the uniqueness of our technology solution, the Company does not at this time have any direct competitors for the core IT2 solutions upon which the growth in our business plan is focused.
+The commercial advantage of our solution is our ability to work across providers and modalities and we continue to pursue a first-mover advantage including our global-scale-partnership which is achieving a network-effect in the global Humanitarian and Development market. We believe that this combination will make it unattractive for a potential competitor to replicate the 6-years and multi-million dollars that we have already expended to try and circumvent our multiple (and continuing) patent filings and/or offer a parallel product based upon a different technology.
+We believe that given sufficient time and resources, we can augment any biometric modalities including face, hand, iris, voice, gait, and behavior together with any other identifying data which places us in a unique position versus providers of biometric services.
+We are unaware of any other provider being able to offer or support a proliferation of authentication modalities in this fashion, and therefore, we believe we there are no other companies that directly compete with us in this space. If our go-to-market strategy is successful, biometric service providers can be a channel distributer, and not necessarily a competitor.
+Growth Strategy
+Our business plan calls for our capturing a small fraction of one percent (1%) of the projected expenditure for biometric authentication services. Our strategy in this respect is to:
+
+o | Expand the scope and range of services that we provide to and through our existing clients
+--+-------------------------------------------------------------------------------------------
+
+
+o | Continue to add significant new clients for our current and future services
+--+----------------------------------------------------------------------------
+
+
+o | Offer our services via channel partners with substantial distribution networks
+--+-------------------------------------------------------------------------------
+
+
+o | Offer our technology on a “low code” basis, providing access via an orchestration layer and/or open-APIs to enable implementation by a broader range of clients
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | The addition of alternate authentication tools including non-facial-biometric options and non-biometric knowledge and device-based tools facilitating two and multi-factor authentication
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Offer our IT2 technology for use by other biometric and data services providers to protect and extend the usability of their data
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Provide ready-to-use / customizable platforms that leverage our IT2 technology in specialized markets
+--+------------------------------------------------------------------------------------------------------
+
+8
+
+
+
+Employees
+Given the geographic diversity of its team and to facilitate cost-effective administration, Trust Stamp secures the services of its permanent team members through a variety of administrative structures that include wholly owned subsidiaries, professional employer organizations and consulting contracts. The Company currently has 13 full-time and 1 part-time team members that work out of the United States, as well as 28 full-time and 4 part-time team members that work out of Malta. We have 7 full-time team members in Poland and Central Europe and 5 full-time and 4 part-time team members in the United Kingdom as well as 1 full-time team member in the Isle of Man. We have 16 full-time team members working in the Philippines, 12 full-time team members working in Rwanda, 1 part-time team member working in the Netherlands and 7 full-time team members working remotely in India. Our permanent team is augmented as needed by contract development and other staff on both long and short-term basis.
+Outsourcing
+We design and develop our own products. We use an outsourcing company - 10Clouds - for additional development staff as needed. In addition, we also utilize SourceFit, a company in the Philippines, for PEO services, representing approximately 2-3% of our operating expenses in 2021. As we increase our in-house resources, we anticipate reducing our reliance upon development staff outsourcing. Amazon Web Services provides cloud hosting and processing services, representing approximately 2-3% of our operating expenses in 2021.
+Key Customers
+Historically, the Company generated most of its income through a relationship with a SP500 bank, in which services were provided pursuant to a Master Software Agreement and statements of work. The scope of services provided to the SP500 bank has grown throughout the relationship and additional growth has been seen in 2020 and 2021. In 2019, 2020 and continuing into 2021 the Company has also expanded its customer base to include relationships with Mastercard, FIS and other customers. In 2020 we engaged in accelerator programs and invested in new business development staff and systems which have led to new customer engagements in 2021 and, while we value the relationship highly, management believes that we are no longer financially dependent on our relationship with the SP500 bank. As an example, the SP500 bank and Mastercard made up 45% of total revenue during the year ended December 31, 2021 compared to 64% of total revenue during the year ended December 31, 2020. 
+The Company has continued to expand its customer base, such as its contract with the U.S. Immigration and Customs Enforcement (“ICE”). On September 23, 2021, the Company was awarded a $3,920,764 contract with ICE. This engagement required an investment in productization, business development, and satisfying extensive due diligence processes. Alongside the revenue implications of this specific contract, it is believed that a successful execution may lead to an extension and additional contracts of the same nature with ICE as well as creating an advantage for pursuing new customers. Effective March 27, 2022, Trust Stamp agreed to a bilateral modification of the fixed price purchase order announced in September 2021 with U.S. Immigration and Customs Enforcement (“ICE”), a federal agency under the U.S. Department of Homeland Security. The modification (which covers software development and services related to rapid enrolment in the ICE alternative to detention program) increases the total contract award value to $7,176,364 from the original $3,920,764 and extends the delivery period until September 26, 2022 (subject to a right of early termination by ICE).
+Regulation
+Our business is not currently subject to any licensing requirements in any jurisdiction in which we operate other than the requirement to hold a business license in the City of Atlanta (with which we are in compliance). This does not mean that licensing requirements may not be introduced in one or more jurisdiction in which we operate, and such requirements could be burdensome and/or expensive or even impose requirements that we are unable to meet.
+We are subject to substantial governmental regulation relating to our technology and will continue to be for the lifetime of our Company. By virtue of handling sensitive PII and biometric data, we are subject to numerous statutes related to data privacy and additional legislation and regulation should be anticipated in every jurisdiction in which we operate. Example federal (US) and European statutes we could be subject to are:
+
+o | Health Insurance Portability and Accountability Act (HIPAA)
+--+------------------------------------------------------------
+
+9
+
+
+
+
+o | Health Information Technology for Economic and Clinical Health Act (HITECH)
+--+----------------------------------------------------------------------------
+
+
+o | The General Data Protection Regulation 2016/679 (GDPR)
+--+-------------------------------------------------------
+
+HIPAA and HITECH
+Under the administrative simplification provisions of the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), as amended by the Health Information Technology for Economic and Clinical Health Act “HITECH”), the U.S. Department of Health and Human Services (“HHS”) issued regulations that establish uniform standards governing the conduct of certain electronic healthcare transactions and requirements for protecting the privacy and security of protected health information (“PHI”), used or disclosed by covered entities and business associates. Covered entities and business associates are subject to HIPAA and HITECH. Our subcontractors that create, receive, maintain, transmit, or otherwise process PHI on behalf of us are HIPAA “business associates” and must also comply with HIPAA as a business associate.
+HIPAA and HITECH include privacy and security rules, breach notification requirements, and electronic transaction standards.
+The privacy rules cover the use and disclosure of PHI by covered entities and business associates. The privacy rules generally prohibit the use or disclosure of PHI, except as permitted under certain limited circumstances. The privacy rules also set forth individual patient rights, such as the right to access or amend certain records containing his or her PHI, or to request restrictions on the use or disclosure of his or her PHI.
+The security rules require covered entities and business associates to safeguard the confidentiality, integrity, and availability of electronically transmitted or stored PHI by implementing administrative, physical, and technical safeguards. Under HITECH’s Breach Notification Rule, a covered entity must notify individuals, the Secretary of the HHS, and in some circumstances, the media of breaches of unsecured PHI.
+In addition, we may be subject to state health information privacy and data breach notification laws, which may govern the collection, use, disclosure, and protection of health-related and other personal information. State laws may be more stringent, broader in scope, or offer greater individual rights with respect to PHI than HIPAA, and state laws may differ from each other, which may complicate compliance efforts.
+Entities that are found to be in violation of HIPAA as the result of a failure to secure PHI, a complaint about our privacy practices or an audit by HHS, may be subject to significant civil and criminal fines and penalties and additional reporting and oversight obligations if such entities are required to enter into a resolution agreement and corrective action plan with HHS to settle allegations of HIPAA non-compliance.
+GDPR
+The EU-wide General Data Protection Regulation imposes onerous accountability obligations requiring data controllers and processors to maintain a record of their data processing and policies. It requires data controllers to implement more stringent operational requirements for processors and controllers of personal data, including, for example, transparent and expanded disclosure to data subjects (in a concise, intelligible and easily accessible form) about how their personal information is to be used, imposes limitations on retention of information, increases requirements pertaining to health data and pseudonymized (i.e., key-coded) data, introduces mandatory data breach notification requirements and sets higher standards for data controllers to demonstrate that they have obtained valid consent for certain data processing activities. Fines for non-compliance with the GDPR will be significant—the greater of €20 million or 4% of global turnover. The GDPR provides that EU member states may introduce further conditions, including limitations, to make their own further laws and regulations limiting the processing of genetic, biometric or health data.
+
+10
+
+
+
+Intellectual Property
+Patents
+A summary of the Company’s issued patents and pending patent applications on March 31, 2022 is provided in the table below.
+
+Matter No. | Application/Patent No. | Filing/Issue Date | Title | Priority Information | Status 
+-------------+------------------------+----------------------+---------------------------------------------------------------------------------------+----------------------+---------------------------------------------------
+32742-148154 | 63/306,210 | 2/3/2022 | METAPRESENCE SYSTEMS AND PROCESSES FOR USING SAME | --- | PENDING​02/03/2023 Provisional Conversion Due 
+32742-148672 | 63/309,819 | 2/14/2022 | BIOMETRIC PRIVACY-ASSURED TIME AND LOCATION VERIFICATION | --- | PENDING​02/14/2023 Provisional Conversion Due 
+32742-147459 | 63/287,276 | 12/08/2021 | SHAPE OVERLAY FOR PROOF OF LIVENESS | --- | PENDING​12/08/2022 Provisional Conversion Due 
+32742-146364 | 63/256,347 | 10/15/2021 | OWNERSHIP VALIDATION FOR NFT CONTRACTS USING IRREVERSIBLY TRANSFORMED IDENTITY TOKENS | --- | PENDING​10/15/2022 Provisional Conversion Due 
+32742-144545 | 63/278,276 | 11/11/2021 | MULTI-FACTOR PROCESSES FOR ENHANCED DIGITAL SECURITY | --- | PENDING​11/11/2022 Provisional Conversion Deadline
+32742-145020 | 17/401,508 | 08/13/2021 | SYSTEMS AND METHODS FOR IDENTITY VERIFICATION VIA THIRD PARTY ACCOUNTS | 62/486,210 | PENDINGAwaiting Examination 
+32742-145019 | 17/401,504 | 08/13/2021 | SYSTEMS AND METHODS FOR LIVENESS-VERIFIED, BIOMETRIC-BASED ENCRYPTION | 62/667,133 | PENDINGAwaiting Examination 
+32742-142186 | 17/230,684 | 04/14/2021 | SYSTEMS AND PROCESSES FOR MULTIMODAL BIOMETRICS | 63/009,809 | PENDINGAwaiting Examination 
+32742-141508 | 17/205,713 | 03/18/2021 | SYSTEMS AND PROCESSES FOR TRACKING HUMAN LOCATION AND TRAVEL VIA BIOMETRIC HASHING | 62/991,352 | PENDINGAwaiting Examination 
+32742-139930 | 63/174,405 | 04/13/2021 | PERSONALLY IDENTIFIABLE INFORMATION ENCODER(NON-BIO) | --- | PENDING​04/13/2022 Provisional Conversion Deadline
+32742-139681 | 17/109,693 | 12/02/2020 | SYSTEMS AND METHODS FOR PRIVACY-SECURED BIOMETRIC IDENTIFICATION AND VERIFICATION | 62/942,311 | PENDINGAwaiting Examination 
+32742-130398 | 16/403,09311,288,530 | 05/03/201903/29/2022 | SYSTEMS AND METHODS FOR LIVENESS-VERIFIED IDENTITY AUTHENTICATION | 62/667,130 | ISSUED​09/29/2025: First Maintenance Fee Due 
+32742-118398 | 15/342,99410,924,473 | 11/03/201602/16/2021 | TRUST STAMP | 62/253,538 | ISSUED​08/16/2024: First Maintenance Fee Due 
+
+​
+​
+
+11
+
+
+
+
+Matter No. | Application/Patent No. | Filing/Issue Date | Title | Priority Information | Status 
+32742-142411 | 17/324,544 | 05/19/2021 | FACE COVER-COMPATIBLE BIOMETRICS AND PROCESSES FOR GENERATING AND USING SAME | 63/027,072 | PENDINGAwaiting Examination 
+32742-123473 | 15/955,27011,095,631 | 04/17/201808/17/2021 | SYSTEMS AND METHODS FOR IDENTITY VERIFICATION VIA THIRD PARTY ACCOUNTS | 62/486,210 | ISSUED​02/17/2025: First Maintenance Fee Due
+32742-136046 | 16/855,57611,263,439 | 04/22/202003/01/2022 | SYSTEMS AND METHODS FOR PASSIVE-SUBJECT LIVENESS VERIFICATION IN DIGITAL MEDIA | 15/782,940 | ISSUED​09/01/2025 First Maintenance Fee Due 
+32742-136047 | 16/855,580 | 04/22/2020 | SYSTEMS AND METHODS FOR PASSIVE-SUBJECT LIVENESS VERIFICATION IN DIGITAL MEDIA | 15/782,940 | ISSUED​08/08/2025 First Maintenance Fee Due 
+32742-136048 | 16/855,58811,263,440 | 04/22/202003/01/2022 | SYSTEMS AND METHODS FOR PASSIVE-SUBJECT LIVENESS VERIFICATION IN DIGITAL MEDIA | 15/782,940 | ISSUED​09/01/2025 First Maintenance Fee Due 
+32742-136049 | 16/855,59411,263,441 | 04/22/202003/01/2022 | SYSTEMS AND METHODS FOR PASSIVE-SUBJECT LIVENESS VERIFICATION IN DIGITAL MEDIA | 15/782,940 | ISSUED​09/01/2025 First Maintenance Fee Due 
+
+​
+​
+
+12
+
+
+
+
+Matter No. | Application/Patent No. | Filing/Issue Date | Title | Priority Information | Status 
+-------------+------------------------+----------------------+--------------------------------------------------------------------------------+--------------------------------+----------------------------------------------
+32742-136050 | 16/855,59811,263,442 | 04/22/202003/01/2022 | SYSTEMS AND METHODS FOR PASSIVE-SUBJECT LIVENESS VERIFICATION IN DIGITAL MEDIA | 15/782,940 | ISSUED​09/01/2025: First Maintenance Fee Due 
+32742-136051 | 16/855,606 | 04/22/2020 | SYSTEMS AND METHODS FOR PASSIVE-SUBJECT LIVENESS VERIFICATION IN DIGITAL MEDIA | 15/782,940 | PENDING​05/24/2022 Issue Fee Payment Due 
+32742-130397 | 16/406,978 | 05/08/2019 | SYSTEMS AND METHODS FOR ENHANCED HASH TRANSFORMS | 62/668,610 | PENDINGAwaiting Examination 
+32742-130399 | 16/403,10611,093,771 | 05/03/201908/17/2021 | SYSTEMS AND METHODS FOR LIVENESS-VERIFIED, BIOMETRIC-BASED ENCRYPTION | 62/667,133 | ISSUED02/17/2025: First Maintenance Fee Due 
+32742-135668 | 16/841,269 | 04/06/2020 | SYSTEMS AND PROCESSES FOR LOSSY BIOMETRIC REPRESENTATIONS | 62/829,825 | ISSUED ​04/12/2022 Expected Issue Date 
+32742-118149 | 15/782,94010,635,894 | 10/13/201704/28/2020 | SYSTEMS AND METHODS FOR PASSIVE-SUBJECT LIVENESS VERIFICATION IN DIGITAL MEDIA | 62/407,71762/407,85262/407,693 | ISSUED​10/28/2023: First Maintenance Fee Due 
+32742-142741 | 63/188,491 | 05/14/2021 | SECURE REPRESENTATIONS OF AUTHENTICITY AND PROCESSES FOR USING SAME | --- | PENDING​05/14/2022 Provisional Conversion Due
+32742-141468 | 63/177,494 | 04/21/2021 | INTEROPERABLE BIOMETRIC REPRESENTATION | --- | PENDING​04/21/2022 Provisional Conversion Due
+32742-147631 | 17/706,132 | 03/28/2022​ | SYSTEMS AND METHODS FOR LIVENESS-VERIFIED IDENTITY AUTHENTICATION | 16/403,093 | PENDING​Awaiting Examination 
+32742-149165 | 17/702,366 | 03/23/2022 | SYSTEMS AND PROCESSES FOR LOSSY BIOMETRIC REPRESENTATIONS | 16/841,269 | PENDING ​Awaiting Examination 
+32742-149164 | 17/702,361 | 03/23/2022 | SYSTEMS AND PROCESSES FOR LOSSY BIOMETRIC REPRESENTATIONS | 16/841,269 | PENDING ​Awaiting Examination 
+32742-149163 | 17/702,355 | 03/23/2022 | SYSTEMS AND PROCESSES FOR LOSSY BIOMETRIC REPRESENTATIONS | 16/841,269 | PENDING ​Awaiting Examination 
+
+​
+​
+
+13
+
+
+
+Trademarks
+The following is a summary of Trust Stamp’s issued and pending Trademarks as of March 31, 2022.
+​
+
+Serial / Registration Number | Filing Date | Trademark | Country | Status 
+------------------------------------------+----------------------+------------------+---------+--------------------------------------------------
+Serial: 88/674,108 | 10/30/2019 | TRUSTCARD | US | PENDING​SOU/3rd EOT Due: 05/10/2022 
+Serial: 90/041,950Registration: 6,494,610 | 7/8/2020 9/21/2021 | TRUSTED PAYMENTS | US | REGISTERED​Section 8 & 15 Renewal Due: 09/21/2027
+Serial: 87/411,586Registration: 5,329,048 | 4/14/2017 11/7/2017 | TRUST STAMP | US | REGISTERED​Section 8 & 15 Renewal Due: 11/07/2023
+Serial: 87/852,642Registration:5,932,877 | 3/27/2018 12/10/2019 | TRUSTED MAIL | US | REGISTERED​Section 8 & 15 Renewal Due: 12/10/2025
+Serial: 8/256,534Registration: 6,103,860 | 1/10/2019 9/26/2019 | IDENTITY LAKE | US | REGISTERED​Section 8 & 15 Renewal Due: 07/14/2026
+Serial: 88/708,795Registration: 6,252,645 | 11/27/2019 1/19/2021 | MYHASH | US | REGISTERED​Section 8&15 Renewal Due: 01/19/2027 
+Serial: 88/709,274Registration: 6,252,649 | 11/27/2019 1/19/2021 | TRUSTED PRESENCE | US | REGISTERED​Section 8&15 Renewal Due: 01/19/2027 
+
+​
+Subsidiaries and Affiliates
+Given the geographic diversity of our team and to facilitate cost-effective administration, Trust Stamp conducts various aspects of its operations through subsidiaries. All subsidiaries share resources across the entire Trust Stamp organization. The officers and directors of Trust Stamp have influence over the operations of all subsidiaries and employees across jurisdictions. Only one of our subsidiaries, Biometric Innovations Limited, has its own management team.
+
+14
+
+
+
+T Stamp Inc. Corporate Structure Chart
+​
+TStamp Incentive Holdings LLC. On April 9, 2019, management created a new entity, TStamp Incentive Holdings (“TSIH”) to which the Company issued 1,620,565 shares of Class A Common Stock that the Board of Directors of TSIH could use for employee stock awards in the future. The purpose of the entity was to provide an analogous structure to a traditional stock incentive plan. As of the date of this report, 282,565 shares of Class A Common Stock are still held by TSIH – however, all of these shares of Class A Common Stock have been allocated for issuance pursuant to RSUs that vested on January 2, 2022. The Company has no plans to issue additional equity securities to TSIH. As such, once these remaining shares are issued, it is expected this entity will become dormant going forward.
+Sunflower Artificial Intelligence Technologies. Based out of Poland, this entity acted as the contracting entity for development contractors in Poland and Central Europe but is now being dissolved as the contractors have entered into direct contracts with T Stamp Inc.
+Trusted Mail Inc. The developer of an encrypted e-mail product (Trusted Mail ®) using our Company’s facial recognition technology. The Trusted Mail technology is held by Trusted Mail, Inc., which is our majority-owned subsidiary.
+Biometric Innovations Limited (formerly “Trust Stamp Fintech Limited”). Biometric Innovations is our Company’s United Kingdom operating subsidiary. It was established to act as the contracting entity for development contractors in the UK, and has its own board and management team. The purpose of this entity was to establish beachhead operations in the country in order to service a contract entered by the Company with the National Association of Realtors and Property Mark. This entity serves as a sales and marketing function for the product “NAEA” which was developed for the contract between the listed parties. On June 11, 2020, the Company entered into a stock exchange transaction with Biometric Innovations Limited, becoming a 100% owner of the entity. The stock exchange transaction was not pursuant to any formal written agreement.
+Trust Stamp Cayman. Trust Stamp Cayman was established with the intention of taking advantage of enterprise grants which were offered by the Cayman National Government’s Enterprise Zone. No operations have been established at this entity as of the date of this report.
+Trust Stamp Malta Limited. Trust Stamp Malta Limited is a wholly owned subsidiary of T Stamp Inc. It operates an R&D Campus in the Republic of Malta, for which it has entered into a lease with a local commercial landlord in Malta, Vassallo Group Realty Ltd. The goal of Trust Stamp Malta Limited is to advance our biometric authentication technology. As part of the creation of this entity, we entered into an agreement with the government of Malta for a potential repayable advance of up to €800,000 to assist in covering the costs of 75% of the first 24 months of payroll costs for any employee who begins 36 months from the execution of the agreement on July 8, 2020.
+
+15
+
+
+
+Trust Stamp Rwanda Limited. The Company opened an office in Rwanda, Africa in April 2021 and signed a one-year lease for office space commencing May 1, 2021 The Company has established an R&D center in Rwanda together with a back-office facility for the purpose of our expansion into Africa.
+Metapresence Limited. Trust Stamp established Metapresence Limited on November 23, 2021 as a wholly-owned crypto-asset subsidiary in the Isle of Man. Metapresence Limited participates in The Digital Isle of Man Accelerator Program, which provides access to a range of government services including regulatory acceleration support and guided access into the regulatory sandbox, where flexible licensing conditions enable digital asset businesses to explore opportunities and adapt as the technology evolves.
+Non-Operational Subsidiaries
+AIID Payments Limited. Established by the Company to provide payments services to NGO’s and other non-profit and social-welfare entities and activities. As of the date of this report, the entity has no operations, and is essentially dormant.
+T Avatar LLC. Established by the Company to provide anonymized age-verification tools for minors participating in online activities. As of the date of this report, the entity has no operations, and is essentially dormant.
+Finnovation LLC. Established by the Company to provide an innovative FinTech, Blockchain and Digital Identity innovation incubator. As of the date of this report, this entity has no operations, and is essentially dormant.
+T Stamp LLC. As described above, the Company was originally founded as “T Stamp LLC”, formed on November 9, 2015 as a Georgia limited liability company. In 2016, the Company effected a “hive down” business reorganization whereby the business of the Company was transferred into to a newly formed, wholly owned subsidiary, which was T Stamp Inc. (i.e. the Company). As of the date of this report, the Company is no longer a subsidiary of T Stamp LLC, and T Stamp LLC is no longer a majority owner of the Company. On January 6, 2022 all shares held by T Stamp LLC were distributed to its members on a pro rata basis according to their respective membership interests. As such, as of the date of this report, the entity has no operations, and is essentially dormant.
+Available Information
+Our website is www.truststamp.ai. Available on this website, free of charge, are our annual reports, quarterly reports, and current reports on form 8-K and all amendments to those reports as soon as reasonably practicable after such material is electronically filed or furnished to the SEC.
+Alternatively, you may access these reports at the SEC’s website at www.sec.gov.
+
+

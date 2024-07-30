@@ -1,0 +1,94 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1: BUSINESS
+Overview
+
+
+
+Sysorex, Inc. is a technology company focused on Ethereum mining and the Ethereum blockchain and information technology solutions primarily in the public sector segments including federal, state and local governments. The Company has two wholly owned subsidiaries: TTM Digital Assets & Technologies, Inc. (“TTM Digital”) and Sysorex Government Services, Inc. (“SGS”). Following the Company’s Merger with TTM Digital in April 2021, the Company shifted its primary business focus to the mining of Ethereum and opportunities related to the Ethereum blockchain. In addition to the mining of Ethereum, the Company continues to operate its wholly owned subsidiary, SGS, a business that provides information technology products, solutions, and services to federal, state, and local government, including system integrators.
+
+
+
+The Company made the decision to divest certain mining equipment and the data center of the TTM Digital reporting unit (“TTM Assets”) and commenced discussions with a third party to execute an asset sale in the spring of 2022. On March 24, 2022, the Company executed with a third party an agreement which includes certain binding and non-binding provisions. Pursuant to the agreement, the Company and the third party agreed to certain terms related to the Company’s sale of approximately 75% of its Ethereum mining assets and certain associated real property. The TTM Assets to be sold will not include the Company’s Ether funds generated prior to and held at Closing (as hereinafter defined) and any graphics processing units or associated assets maintained and operated by the Company at a co-located facility in North Carolina. The definitive terms of the sale of Assets will be set forth in definitive transaction agreements (the “Definitive Documentation”) to be executed by the parties.
+
+
+
+The Closing of the TTM Asset sale transaction (the “Closing”) shall occur, subject to the satisfaction or waiver of the Closing conditions set forth in Definitive Documentation no later than May 24, 2022, unless mutually extended in writing by the parties, subject to the parties’ meeting certain Closing conditions to be agreed upon in the Definitive Documentation. Notwithstanding the foregoing, the Definitive Documentation shall also include an outside date that is not more than three (3) months after the date of the execution thereof unless mutually extended in writing by the parties to allow the parties to obtain regulatory approvals, required consents, and shareholders approvals.
+
+
+
+The Definitive Documentation will include certain other terms and conditions which are customary in asset sale and real property sale agreements.
+
+
+
+Even with the partial sale of TTM Assets, the Company intends to stay in the blockchain industry. The Company will continue to mine Ethereum and through the Ethereum blockchain expand into decentralized applications (dApps), targeting decentralized financing (DeFi), and Non-fungible tokens (NFTs). Through expansion within this space, Sysorex will develop intellectual property that becomes Company assets. Our plan is to target the largest potential customer, the U.S. Government, by developing decentralized solutions that reduces costs, increases security, and expands transparency using blockchain technology. On March 9, 2022, President Biden issued the “Executive Order on Ensuring Responsible Development of Digital Assets. This executive order provides the framework for U.S. Congress to establish laws and regulations around blockchain technology.
+
+
+
+TTM Digital
+
+
+
+TTM Digital is a digital asset technology and mining company that owns and operates a large number of specialized cryptocurrency mining processors and is currently focused on the Ethereum blockchain ecosystem. Following the reverse merger on April 14, 2021, the business of TTM Digital has become a business segment of the Company.
+
+
+
+TTM Digital was originally formed as a Delaware limited liability company on June 28, 2017, under the name of TTM Ventures LLC. Thereafter, on March 30, 2021, it filed a certificate of conversion to a non-Delaware entity with the Secretary of State of the State of Delaware together with Articles of Conversion and Articles of Incorporation with the Nevada Secretary of State filed on the same date. As a result, of such conversion, TTM Digital has become a Nevada corporation under the name of “TTM Digital Assets & Technologies, Inc.”
+
+
+
+TTM Digital has an evolving business model which is subject to various uncertainties. As digital assets and blockchain technology become more widely utilized on a mass scale, we anticipate that the services and products associated with the technologies will continue to evolve. To successfully continue in the industry, our business model may need to evolve to reflect the trends of the industry. Over time, we may modify aspects of our business model relating to our strategy. We cannot offer any assurance that we will be successful or that the future industry or business operation changes will not result in harm to our business. We may not be able to manage growth effectively, which could damage our reputation, limit our growth and negatively affect our operating results. Management cannot provide any assurances that we will identify all emerging trends and growth opportunities in this business sector, and we may lose out on those opportunities to current or future competitors. As anticipated, any such circumstances could have a material adverse effect on our business, prospects, or operations. There is a possibility of digital asset mining algorithms transitioning to proof-of-stake validation and other mining-related risks, which could make us less competitive and ultimately adversely affect our business and our ability to generate revenues. When and if Ethereum switches to “proof-of-stake” our GPUs will no longer be able to mine Ethereum. As a result, the Company has made the decision to divest certain mining equipment. The Company and a third party agreed to certain terms related to the Company’s sale of approximately 75% of its Ethereum mining assets. TTM Digital will continue to mine Ethereum until that point in time in which the network switches to “proof-of-stake”. At that time, instead of mining with GPUs, the amount of Ethereum accumulated in our treasury will be used to stake to the network in the “proof-of-stake model.” The proof-of-stake will earn the Company rewards based on the amount of Ethereum you have. The more ETH you have staked, the more chances you have algorithmically of being selected by the beacon chain as an attestor to earn rewards. On August 5, 2021, the London Hard Fork protocol (EIP 1559) went into effect which includes changes in Ethereum’s handling of transaction fees. EIP 1559 improves the efficiency of commissions, mainly on the user side. At the block level, EIP 1559's scheme allows the base fee to vary by up to 12.5% from block to block, allowing users to predict and pay a relatively accurate fee based on the rules to improve the user experience. This comes at the expense of Ethereum miners by not providing the base fee as part of the block reward for mining a block. EIP 1559 is designed to make Ethereum less inflationary by taking or “burning” ETH out of circulation, which is the excess ETH leftover from the lower transaction fee. These changes could have an impact on the Company’s future potential Ethereum revenue stream due to less Ethereum being distributed per mined block, if not offset by an increase in the value of ETH and/or additional transaction tipping, the process by which a user can pay an additional amount to ensure a transaction is processed very quickly. 
+
+
+
+1
+
+
+
+
+
+
+
+
+Sysorex Government Services 
+
+
+
+SGS is a provider of information technology solutions from multiple vendors, including hardware products, software, services, including warranty and maintenance support, offered through our dedicated sales force, ecommerce channels, existing federal contracts and service team. Since our founding, we have served our customers by offering products and services from key industry vendors such as Aruba, Cisco, Dell, GETAC, Lenovo, Microsoft, Panasonic, Samsung, Symantec, VMware and others. We provide our customers with comprehensive solutions incorporating leading products and services across a variety of technology practices and platforms such as cyber, cloud, networking, security, and mobility. We utilize our professional services, consulting services and partners to develop and implement these solutions. Our sales and marketing efforts in collaboration with our vendor partners, allow us to reach multiple customer public sector segments including federal, state and local governments, as well as educational institutions. 
+
+
+
+For the year ended December 31, 2021, our sales to federal, state and local governments accounted for approximately 100% of our SGS net sales. Our past customers have included, among others, federal and international government agencies and state and local governments. Although SGS has had many customers, two customers generated approximately 71% of SGS’s gross revenue during the year ended December 31, 2021. One customer accounted for 44% of SGS’s gross revenue in 2021; however, this customer may or may not continue to be a significant contributor to revenue in 2022. We plan to continue to focus our efforts on existing and potential government customers.
+
+
+
+SGS experiences variability in our net sales and operating results on a quarterly basis as a result of many factors. SGS experiences some seasonal trends in our sales of technology solutions to government and educational institutions. For example, the fiscal year-ends of U.S. Public Sector customers vary for those in the federal government space and those in the state and local government and educational institution (“SLED”) space. SGS generally sees an increase in our second quarter sales related to customers in the U.S. SLED sector and in our third quarter sales related to customers in the federal government space as these customers close out their budgets for their fiscal year (June 30th and September 30th, respectively). SGS may also experience variability in our gross profit and gross profit margin as a result of changes in the various vendor programs we participate in and its effect on the amount of vendor consideration we receive from a particular vendor or their authorized distributor/wholesaler, may be impacted by a number of events outside of our control.
+
+
+
+Employees
+
+
+
+As of April 12, 2022, we had 22 full-time employees. We believe our employee relations to be good.
+
+
+
+Corporate Information
+
+
+
+Our office is located at 13880 Dulles Corner Lane, STE 120, Herndon, Va. 20171 which is where our records are kept. Our website addresses are www.sysorexinc.com and www.ttmdigitalassets.com. Our telephone number is (703) 961-1125.
+
+
+
+
+
+2
+
+
+
+
+
+
+

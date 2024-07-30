@@ -1,0 +1,410 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1 - BUSINESS 
+GENERAL
+ 
+NetSol Technologies, Inc. (Nasdaq CM: NTWK) is a worldwide provider of IT and enterprise software solutions to the global finance and leasing industry. We believe that our solutions constitute mission critical applications for clients, as they encapsulate end-to-end business processes, facilitating faster processing and increased transactions.
+ 
+NETSOL’s primary sources of revenues have been licensing, subscriptions, modification, enhancement and support of its suite of financial applications, under the brand name NFS Ascent® to leading businesses in the global finance and leasing space. With constant innovation being a major part of NETSOL’s DNA, we have enabled NFS Ascent® deployment on the cloud with several implementations already live and some underway. This shift to the cloud will enable NETSOL’s new customers to opt for a subscription-based pricing model rather than the traditional licensing model.
+ 
+NETSOL’s clients include blue chip organizations, Dow-Jones 30 Industrials, Fortune 500 companies, financial institutions, global vehicle manufacturers through their captive finance companies (“auto captives”), unrelated automotive finance companies (“non-captives”), equipment finance and leasing companies, and banks. All of which are serviced by NETSOL’s strategically placed support and delivery locations around the globe.
+ 
+Founded in 1997, NETSOL is headquartered in Calabasas, California. NETSOL follows a global strategy for sales and delivery of its portfolio of solutions and services through its offices in the following locations:
+ 
+
+■ | North America | Los Angeles Area 
+--+-------------------+-----------------------------------------------------------------------------
+■ | Europe | London Metropolitan Area, Horsham, Flintshire 
+■ | Asia Pacific | Lahore, Karachi, Bangkok, Beijing, Shanghai, Tianjin, Jakarta and Sydney 
+
+
+1
+-
+
+OUR BUSINESS 
+ 
+Company Business Model
+ 
+NETSOL believes that our technology solutions offer our customers a return on their investment and allow us to thrive in a hyper competitive and mature global marketplace. Our solutions are bolstered by our people. NETSOL believes that people are the drivers of success; therefore, we invest heavily in our hiring, training and retention of top-notch staff to ensure not only successful selling, but also the ongoing satisfaction of our clients. Taken together, this “selling and attentive servicing” approach creates a distinctive advantage for NETSOL and a unique value for its customers. NETSOL continues to underpin its proven and effective business model which is a combination of affordable pricing through effective cost arbitrage, subject matter expertise, domain experience, scalability and proximity with its global and regional customers.
+Niche Market Focus
+ 
+Through our specialization in the leasing and financing space, we have gained a strong foothold in several global locations and a market leading position in the auto equipment finance segment. NETSOL has a significantly growing presence in the general asset finance space, including equipment and the big-ticket financing industry together with startups and banks.
+Subject Matter Expertise
+ 
+Our dual expertise in enterprise technology implementation and financial application development has helped us emerge as a global player in the finance and leasing industry and secure a broad footprint across the major markets of North America, Asia Pacific and Europe. The Asia Pacific region has particularly benefitted from the organic growth in the fast-developing leasing automation industry, which is still nascent per Western standards.
+Domain Experience
+ 
+NETSOL has a strong presence in the captive asset-finance domain. With a collective experience of over two decades in Asia Pacific and Europe and of nearly four decades in North America, NETSOL is one of the few players in this niche industry with a global presence.
+Proximity with Global and Regional Customers
+ 
+We have offices across the world, located strategically to maintain close contact and proximity with our customers in various key markets. This has not only helped us strengthen our customer relationships but also build a deeper understanding of local market dynamics. Simultaneously, we are able to extend services and even support development through a combination of onsite and off-site resources. This approach has allowed us to offer blended rates to our customers by employing a unique and cost-effective global development model.
+ 
+While our business model is built around the development, implementation and maintenance of our suite of financial applications, we have employed the same facilities and competencies to extend our offerings into related segments, including but not limited to:
+ 
+
+■ | IT consulting and services 
+--+---------------------------------------------------------------------
+■ | Solutions development and implementation 
+■ | Business intelligence 
+■ | Outsourcing services and software process improvement consulting 
+■ | Maintenance and support of existing systems 
+■ | Project management 
+■ | Technology/start-up incubation 
+■ | White labelled digital retailing for auto-captives 
+
+ 
+Our global operation is broken down into three regions: North America, Europe and Asia Pacific. All of the subsidiaries are seamlessly integrated to function effectively with global delivery capabilities, cross selling to multinational asset finance companies, leveraging of the centralized marketing and pre-sales organization, and a network of employees connected across the globe to support local and global customers and partners.
+ 
+
+2
+-
+
+OUR PRODUCTS AND SERVICES
+ 
+NFS Ascent®
+ 
+Covering the complete finance and leasing cycle starting from quotation origination through contract settlements, NFS Ascent® has been designed and developed for a highly flexible setting and is capable of dealing with multinational, multi-company, multi-asset, multi-lingual, multi-distributor and multi-manufacturer environments. The solution fully automates the entire financing/leasing cycle for companies of any size, including those with multi-billion-dollar portfolios. NFS Ascent® empowers financial institutions to effectively manage their complex lending portfolios, enabling them to thrive in hyper-competitive global markets.
+ 
+NFS Ascent® is built on cutting-edge, modern technology that enables auto, equipment and big-ticket finance companies, alongside banks, to run their retail and wholesale finance business with ease. With comprehensive domain coverage and powerful configuration engines, it is well architected to empower finance and leasing companies with a platform that supports their growth in terms of business volume and transactions.
+ 
+NETSOL’s next generation platform offers a technologically advanced solution for the asset finance and leasing industry. NFS Ascent’s® architecture and user interfaces were designed based on NETSOL’s collective experience with blue chip organizations and global Fortune 500 companies over the past 40 years combined with modern UX design concepts. The platform’s framework allows auto captive and asset finance companies to rapidly transform legacy driven technology into a state-of-the-art IT and business process environment.
+ 
+At the core of the NFS Ascent® platform is a lease accounting and contract processing engine, which allows for an array of interest calculation methods, as well as robust accounting of multi-billion-dollar lease portfolios in compliance with various regulatory standards. NFS Ascent®, with its distributed and clustered deployment across parallel application and high-volume data servers, enables finance companies to process voluminous data in a hyper speed environment.
+ 
+Our premier solution has been developed using the latest tools and technologies and its n-tier SOA architecture allows the system to greatly improve a myriad of areas including, but not limited to, scalability, performance, fault tolerance and security. NFS Ascent® empowers users with:
+ 
+
+● | Improvement in overall productivity within the delivery organization: 
+--+--------------------------------------------------------------------------
+
+
+○ | The features of the integrated Business Process Manager, Workflow Engine, Business Rule Engine and Integration Hub provide flexibility to our clients allowing them to configure certain parts of the application themselves rather than requesting customization. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+○ | The NFS Ascent® platform and the SOA architecture allow us to develop portals and mobile applications quickly by utilizing our existing services. 
+○ | The n-tier architecture allows us to intelligently distribute processing and eases application maintenance. The loose coupling between various modules and layers reduces the risk of regression in other parts of the system as a result of changes made in one part of the system and follows proven and accepted SOA principles. 
+
+
+● | Amplified customer satisfaction: 
+--+-----------------------------------------------------------------------------
+
+
+○ | NFS Ascent® and NFS Digital empower not only the finance company and dealerships, but the end customer as well with self-service digital tools allowing a seamless customer experience throughout the customer journey from origination through contract maturity. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3
+-
+
+NFS ASCENT® CONSTITUENT APPLICATIONS 
+ 
+Omni Point of Sale (Omni POS)
+ 
+A highly agile, easy-to-use, web-based application - also accessible through mobile devices - Ascent’s Omni POS system delivers an intuitive user experience, with features that enable rapid data capture. Information captured at the point of sale can be made available to anyone in an organization at any point in the lifecycle of each transaction.
+Contract Management System (CMS)
+ 
+Ascent’s Contract Management System (CMS) is a powerful, highly agile, functionally rich application for managing and maintaining detailed credit contracts throughout their lifecycle – from pre-activation and activation through customer management, asset financial management, billing and collections, finance and accounting, restructuring and maturity.
+Wholesale Finance System (WFS)
+ 
+The Ascent Wholesale Finance System (WFS) provides a powerful, seamless and efficient system for automating and managing the entire lifecycle of wholesale finance. With floor planning, dealer and inventory financing, it is ideal for a culture of collaboration. Dealers, distributors, partners and anyone in the supply chain are empowered to realize the benefits of financing – and leverage the advantages of real-time business intelligence. The system also supports asset and non-asset-based financing.
+Dealer Auditor Access System (DAAS)
+ 
+DAAS is a web-based solution that can be used in conjunction with WFS or any third-party wholesale finance system. It addresses the needs of dealer, distributor, and auditor access in a wholesale financing arrangement.
+ 
+NFS Ascent® deployed on the cloud 
+ 
+Our premier, next generation solution NFS Ascent® is also available on the cloud. With swift, seamless deployments and easy scalability, it is an extremely adaptive retail and wholesale platform for the global finance and leasing industry. This cloud-version of NFS Ascent® is offered via flexible, value-driven subscription-based pricing options without the need to pay any upfront license fees. Clients further benefit from a rapid deployment process and the ability to scale on demand.
+ 
+NFS Digital
+ 
+NETSOL is the pioneer in the global finance and leasing industry providing a full suite of digital transformation solutions. NFS Digital is a combination of our core strengths, domain, and technology. Our insight into the evolving landscape together with our valuable experience led us to define sound digital transformation strategies and compliment them with smart digital solutions so that our customers always remain competitive and relevant to the dynamic environment. Our digital transformation solutions are extremely robust and can be used with or without our core, next-gen solution (NFS Ascent®) to effectively augment and enhance our customer’s ecosystem.
+ 
+
+■ | Self-Point of Sale 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ | Our Self POS portal allows customers to go through the complete buying and financing process online and on their mobile devices including car configuration, generating quotations, and filling out applications. It is the ultimate origination application that enables users to compare, select and configure an asset using a mobile device anywhere, at any time and submit an accompanying financial product application. 
+■ | Mobile Account 
+ | mAccount is a powerful, self-service mobile solution. It empowers the dealer with a powerful backend system and allows the customer to setup a secure account and view information 24/7 to keep track of contract status, resolve queries and make payments, reducing inbound calls for customer queries and improving turnaround time for repayments. 
+
+
+4
+-
+
+
+■ | Mobile Point of Sale 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ | The mPOS application is a web and mobile-enabled platform featuring a customizable dashboard along with menu selling, application submission, loan calculator, work queues and detailed reporting. mPOS empowers the dealer to make the origination process quick and seamless, increasing overall productivity and system-wide efficiency. 
+■ | Mobile Dealer 
+ | mDealer provides more visibility and control over inventories – with minimal effort. Dealers can view their use of floor plan facility, stock status and financial conditions, while entering settlement requests or relocating assets. 
+■ | Mobile Auditor 
+ | mAuditor schedules visits, records audit exceptions and tracks assets for higher levels of transparency. It also enables the auditor to conduct audits and submit results in real-time through quick audit processing tools, providing visibility and saving significant time. 
+■ | Mobile Collector 
+ | mCollector empowers collections teams to do more, with an easy-to-use interface and intelligent architecture. The tool exponentially increases the productivity of field teams by enabling them to carry out all collection related tasks on the go. 
+■ | Mobile Field Investigator 
+ | By using Mobile Field Investigator (mFI), the applicant has access to powerful features that permit detailed applicant field verifications on the go. The application features a reporting dashboard that displays progress stats, action items and the latest notifications, enabling the client to achieve daily goals while tracking performance. 
+
+OtozTM Digital Auto Retail and Mobility Orchestration
+ 
+OtozTM provides a white-label SaaS platform to OEMs, finance companies, dealers, and start-ups that enables short and long-term on-demand mobility models (subscriptions, rental and car-sharing) and digital retail.
+ 
+Our turn-key platform helps automotive companies make a move into the digital era, addressing a range of customer segments with evolving needs by offering them a seamless, omni-channel, end-to-end car buying and usage experience. It enables both direct-to-consumer transactions as well as traditional dealer models with the option to add peer-to-peer market place functionalities for the future of EV pay-per-use and mobility orchestration.
+ 
+Digital auto-retail is not a one-size-fits-all. OtozTM offers a flexible, configurable, and scalable platform along with a proven launch strategy framework for auto companies that intend to launch and grow digital retail and mobility businesses quickly and seamlessly.
+ 
+OtozTM Ecosystem
+ 
+OtozTM is built on state-of-the-art technology, offering open Application Programming Interfaces, (“APIs”) and ecosystem partner integrations that are crucial to digital retail and mobility operations including finance and insurance providers, trade-in tools, KYC and fraud detection tools, CRM systems, website providers (Tier 1 – Tier 3), marketing toolkits, inventory feeds, pricing engines, payment processors, an insurance marketplace and vehicle delivery logistics providers.
+ 
+In addition, OtozTM is equipped with intelligent lead generation and product analytics capabilities, empowering dealerships with the tools to track customer journeys, personalize customer engagements, and convert qualified leads.
+ 
+
+5
+-
+
+
+OtozTM Platform
+ 
+A fully digital, white-label platform for digital auto retail and mobility orchestration that delivers an intuitive and elegant user experience.
+ 
+OtozTM platform consists of two portals:
+ 
+
+- | Dealer/Admin Tool 
+--+----------------------
+- | Customer Portal 
+
+ 
+Dealer/Admin Tool 
+ 
+
+■ | Account creation 
+--+-----------------------------------------------------------
+■ | Order management work queue 
+■ | User roles and rights 
+■ | Tax configurator 
+■ | Customer KYC reports 
+■ | Vehicle delivery scheduling 
+■ | Payment gateways 
+■ | Inventory management 
+■ | Finance and insurance products feed and prioritization 
+■ | Accessories/add-on management and association 
+■ | Dealer fee management 
+■ | Ecosystem APIs 
+■ | DMS integrations 
+
+Customer App 
+ 
+
+■ | Inventory search and selection 
+--+--------------------------------------------------------------------------------------------------
+■ | Multi-lender capabilities 
+■ | Deal builder and personalized pricing for purchase, lease, finance, subscription, and rentals 
+■ | Buy finance and insurance products 
+■ | Buy accessories 
+■ | License checks (paperless) 
+■ | Vehicle options and finance and insurance products 
+■ | Trade-in valuation 
+■ | Credit application and decision 
+■ | Paperless contracts and e-signing 
+■ | Digital payments 
+■ | Vehicle delivery and pick-up scheduling 
+
+Flex 
+ 
+Flex is a newly developed, API-based, ready-to-use calculation engine. It is a pure play SaaS product that is cloud-based and can be integrated seamlessly into an organization’s products, services and ecosystem. Our calculation engine intelligently adapts to demand by monitoring usage to maintain reliable and predictable performance at desired costs. It is a one-stop solution that guarantees precise calculations at all stages of the contract lifecycle through various calculation types.
+ 
+It is a comprehensive solution which creates an ecosystem of value across multiple functions, systems and industries to fuel growth and propel businesses into the future by increasing delivery efficiency and product management, centralization through a connected ecosystem resulting in a higher ROI and a larger market share.
+ 
+Flex proves versatility by covering all the calculation aspects ranging from the pricing for the end customer at inception, in-life financial modifications, the re-creation of the repayment plan, termination, amortizations/re-amortizations, among other calculation types. All the calculations are parameter-driven, which helps perform simple, multi-dimensional, or complex calculations based on the needs.
+ 
+Professional Services 
+ 
+NETSOL is also offering professional services to organizations in different regions in order to enable them to meet their business objectives. These services primarily consist of technical consultancy, web development, app development, digital marketing, cloud services, outsourcing and co-sourcing.
+
+6
+-
+
+
+Pertaining to its professional services offerings, NETSOL’s highly skilled and experienced professionals include skilled software programmers, well-versed business analysists, competent quality assurance engineers, technical and solution architects, project managers, cloud native developers and architects, mobile/web app developers and automation specialists.
+ 
+We enable businesses to employ the industry’s best talent to help them develop and refine their technology strategy, innovate, execute their roadmap and optimize service quality.
+ 
+Amazon Web Services 
+ 
+We have been expanding our footprint in the cloud services domain by offering services to the AWS community. We aim for our cloud services to be well recognized, expanding our reach to relevant prospects. Since AWS is the most comprehensive and highly adopted cloud offering, we are leveraging its power to ensure lower costs, increased agility, a secure environment, and innovative solutions across all domains.
+ 
+Our AWS customer offerings include: analytics, data pipeline and big data services; application modernization services; database migration and modernization; development operations; managed services; and, information security services.
+ 
+Artificial Intelligence 
+ 
+A dedicated team has been working with great enthusiasm under the leadership of Dr. Ali Ahmed, Chief Data Scientist at NETSOL, to develop artificial intelligence and machine learning solutions. With experience in Machine Learning, Scientific Computing and Computer Vision, Dr. Ahmed has extensive experience in developing and implementing algorithms for industrial solutions in predictive maintenance.
+ 
+This is a new service offering from NETSOL and by deploying AI solutions and leveraging cutting-edge technologies, we enable clients to optimize production, decrease downtime and provide a holistic view of their business processes.
+ 
+IMPLEMENTATION PROCESS
+ 
+The implementation process of our products can span from three to fifteen months depending upon the methodology, complexity and scope. The implementation process may also include related software services such as configuration, data migration, training, gaps development and any other additional third-party interfaces. Even after implementation, customers constantly seek enhancements and additions to improve their business processes and have changing requirements addressed at mutually agreed rates.
+ 
+Post implementation, our consultants may remain at the client site to assist the customer in smooth operations. After this phase, the regular maintenance and support services phase for the implemented software begins in exchange for agreed subscriptions or support fees. In addition to the daily rate paid by the customer for each consultant engaged, the customer also pays for all visa and transportation-related expenses, boarding of the consultants, and a living allowance. Our involvement in all the above steps is suitably priced to bring value to our customers and increase our profitability.
+ 
+Cloud-enabled solutions are offered via seamless and rapid deployments. The swift speed of implementations for our cloud-ready products enables businesses to be more responsive and attain a competitive advantage.
+ 
+
+7
+-
+
+PRICING AND REVENUE STREAMS
+ 
+The company’s revenue streams are the outcome of the following four main areas:
+ 
+
+■ | Product licensing 
+--+------------------------------------------------------
+■ | Subscription-based pricing 
+■ | Implementation and customization-related services 
+■ | Post implementation, support-related services 
+
+ 
+License fees can range to a multi-million-dollar fee for single or multiple module implementations. License revenue is realized with traditional, non-SaaS-based agreements, whereas SaaS-based agreements do not contain license fees and are offered via flexible, value-driven, subscription-based pricing. There are various attributes which determine the level of pricing complexity, a few of which are: number of contracts; size of the portfolio; IT budgets; business strategy of the customer; internal business processes followed by the customer; number of business users; amount of customization required; complexity of data migration and branch network of the customer.
+ 
+We recognize revenue from license contracts when the software has been delivered to the customer. Implementation-related services, including customization, configuration, data migration, training and third-party interfaces are recognized as the services are performed. Post implementation support services are then provided on a continued basis. The annual support fee, which typically is an agreed upon percentage of overall monetary value of the license, then becomes an ongoing revenue stream realized on a yearly basis. Revenue from software services includes fixed price and time and materials-based contracts and is recognized as the services are performed.
+ 
+Additionally, in order to avoid lumpiness in our revenues and to ensure a predictable revenue base over coming years, the business has shifted to a pricing strategy whereby the business is now offering its cloud-ready products at SaaS/subscription-based pricing models. Rapid deployments coupled with affordable prices/payment schedules is expected to lead the business towards volume-based selling. Moreover, this value-driven pricing plan is intended to decrease the initial buy-in cost for new customers by eliminating heavy license fees, reduce the sales cycles and provide an alternative to current customers seeking lower software usage and maintenance costs.
+ 
+ALLIANCES
+ 
+Daimler South East Asia Pte. Ltd. (“DSEA”), (through the regional office Daimler Financial Services (“DFS”) Africa Asia Pacific), has established a “Centre of Competence” (“CoC”) in Singapore to facilitate the regional companies in product related matters. The DSEA CoC is powered by highly qualified technical and business personnel. In conjunction with our Asia Pacific region, the CoC supports DFS companies in twelve different countries in Asia and Africa and this list can increase as more DFS companies from other countries opt for NFS Ascent®. In July 2004, the company entered into a Frame Agreement with DFS for the Asia Pacific and Africa region. This agreement was renewed in 2008, 2010, 2013 and most recently in January 2016. The agreement serves as a guideline for managing the business relationship with DFS and the use of licensed products of the company by DFS and its affiliated companies.
+ 
+We have strategic partnerships with Microsoft and CGI pertaining to cloud-hosting activities for our cloud-based products. NETSOL hosts its cloud version of Ascent, NFS Ascent® deployed on the cloud and LeasePak Cloud - SaaS in the high performance and cost-effective Microsoft Azure cloud environment. A quick start implementation program combined with hassle-free Microsoft Azure™ cloud connectivity ensures new clients see a time-to-value faster than ever before.
+ 
+NETSOL and CGI agreed to promote each other for their respective products and services amongst their respective existing customers across various regions. We also utilize CGI for managed services and cloud hosting-related activities for our engagements with their customers in Europe particularly.
+ 
+TECHNICAL AFFILIATIONS 
+ 
+We are a Microsoft Certified Silver Partner and an Oracle Certified Partner.
+ 
+MARKETING AND SELLING 
+ 
+We continue our optimism that we will experience ever increasing opportunities for our product and services offerings in 2022 and beyond. The objective of our marketing program is to create and sustain preference and loyalty for NETSOL. Marketing is performed at the corporate and business unit levels. The corporate marketing department has overall responsibility for communications, advertising, public relations and management of all digital owned and paid mediums including website, social media channels and collaboration with industry partners. In addition, corporate marketing oversees central marketing and communications programs for use by each of the business units.
+
+8
+-
+
+
+Our dedicated marketing personnel, within the regions, undertake a variety of marketing activities, including sponsoring focused client events to demonstrate our skills and products and participating in targeted conferences, webinars and holding private briefings with individual companies. We believe that the industry focus of our sales professionals and our business unit marketing personnel enhances their knowledge and expertise in these industries and will generate additional client engagements.
+ 
+GROWTH PROSPECTS FOR NFS ASCENT®
+ 
+Growth prospects for NFS Ascent® are linked to the constant innovation in the product and its growing customer base across different geographic and product markets. NETSOL is eyeing key international markets for growth in sales. Its sales strategy not only focuses on expansion into new geographic markets, including the Americas, Europe, and further penetration of our leading position in Asia Pacific, but also within existing markets into new verticals with targeting of Tier 2 and Tier 3 prospects as well.
+ 
+Growth in North America and Europe is expected to come from the potential market for replacement of legacy systems as well as acquisition of new customers. NFS Ascent® is aimed at providing a highly flexible and robust solution based on the latest technology and advanced architecture for North American and European customers looking to replace their legacy systems. We believe that NFS Ascent® can provide substantial competitive disruption to the market’s lagging technology provided by incumbent vendors. The existing customer base may also represent latent demand for increased service and support revenues by offering business process optimization, customization and upgrade services. With a market ready product with successful implementation, the prospects for NFS Ascent® in the region are positive.
+ 
+Further traction in Europe will come from NFS Ascent® deployed on the cloud, which will continue to allow the Europe division to support not only larger organizations, but also small and medium sized organizations including startups.
+ 
+Growth in NETSOL’s traditionally strong base in Asia Pacific is expected through diversification across market segments to include new customers in related banking and commercial lending areas. At the same time, the existing customer base is tapped for increased service and support revenues by offering enhanced features and new solutions to emerging customer needs. In addition, there is a potential for NFS Ascent® in Asia Pacific in the form of existing customers who are looking for replacement of their current system.
+ 
+In China, NETSOL is a leader in the leasing and finance enterprise solution domain. With this position, NETSOL continues to enjoy demand for the current NFS™ solution, as well as NFS Ascent®. NETSOL will continue strengthening its position within existing multinational auto manufacturers, as well as local Chinese captive finance and leasing companies.
+ 
+THE MARKETS 
+ 
+We provide our services primarily to clients in global commercial industries. In the global commercial area, our service offerings are marketed to clients in a wide array of industries including, automotive, banks and other financial lending service companies.
+ 
+The Asian continent, including Australia and New Zealand, from the perspective of marketing, are targeted by the Asia Pacific Region from our Bangkok, Beijing, Jakarta, Lahore, Shanghai, Tianjin and Sydney facilities. The marketing for our core offerings in the Americas and Europe is carried out from our Los Angeles Area and London Metropolitan Area and Horsham offices, respectively.
+ 
+PEOPLE AND CULTURE 
+ 
+We believe we have developed a strong corporate culture that is critical to our success. Our key values are delivering world-class quality solutions, client-focused timely delivery, leadership, long-term relationships, creativity, transparency and professional growth. The services provided by NETSOL require proficiency in many fields, such as software engineering, quality assurance, project management, business analysis, technical writing, sales and marketing, communication and presentation skills.
+
+9
+-
+
+
+Due to the growing demand for our core offerings and IT services, retention of technical and management personnel is essential. Our employee turnover was under 16.04 % in 2022 with a goal to maintain the turnover level under 18% during the 2023 fiscal year and onwards. In addition, we are committed to improving key performance indicators such as efficiency, productivity and revenue per employee. 
+ 
+To encourage all employees to build on our core values, we reward teamwork and promote individuals that demonstrate these values. We believe that our growth and success are attributable in large part to the high caliber of our employees and our commitment to maintain the values on which our success has been based. We support gender diversity on a global basis. We are an equal opportunity employer with the largest concentration of female employees in Lahore, Pakistan and our U.S. headquarters.
+ 
+NETSOL believes it should give back to the community and employees as much as possible. Certain subsidiaries of NETSOL are located in regions where basic services are not readily available. Where possible, NETSOL acts to not only improve the quality of life of its employees, but also the standard of living in these regions. Examples of such programs are as follows:
+ 
+
+■ | Literacy Program: Launched to educate children of our unskilled staff, the main objective of this program is to enable them to acquire basic reading, writing and arithmetic skills. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+■ | Higher Education and Science and Research Institutions: In order to support higher education in Pakistan, we have contributed endowments to NUST, Forman Christian College, and a few other universities who are focused on science and engineering. 
+■ | Noble Cause Fund: A noble cause fund has been established to meet medical and education expenses of the children of the lower paid employees. Our employees voluntarily contribute a fixed amount every month to the fund and NETSOL matches the employee subscriptions with an equivalent contribution amount. A portion of this fund is also utilized to support social needs of certain institutions and individuals, outside of NETSOL. 
+■ | Day Care Facility: NETSOL’s human resources are its key assets and thus we take numerous steps to ensure the provision of basic comforts to our employees. In Pakistan, the provision of outside pre-school childcare is a rarity. With this in mind, a children’s day care facility has been created near NETSOL’s offices providing employees with peace of mind knowing their children are nearby and being taken care of by qualified staff in a child friendly facility. Due to COVID-19 restrictions, the facility is temporarily closed. 
+■ | Preventative Health Care Program: In addition to the comprehensive out-patient and in-patient medical benefits, preventive health care has also been introduced. This phased program focuses on vaccination of our employees against such diseases as Hepatitis – A/B, Tetanus, Typhoid, Flu and COVID-19 on a routine basis. 
+
+ 
+There is significant competition for employees with the skills required to perform the services we offer. We run an elaborate training program for different cadres of employees to cover technical skills and business domain knowledge, as well as communication, management and leadership skills. We believe that we have been successful in our efforts to attract and retain the highest level of talent available, in part because of the emphasis on core values, training and professional growth. We intend to continue to recruit, hire and promote employees who share our vision.
+ 
+As of June 30, 2022, we had approximately 1,781 employees; comprised of 80.4 % technical staff and 19.6 % non-IT personnel.
+ 
+COMPETITION 
+ 
+No company dominates the IT market in the space in which we compete. A substantial number of companies offer services that overlap and are competitive with those offered by NETSOL.
+ 
+We compete chiefly against leading suppliers of IT solutions to the global asset finance and leasing industry, including, but not limited to, White Clarke Group, Alfa, Cassiopae, LineData, FIS, International Decision Systems (IDS) and Data Scan.
+ 
+In the IT-based business services areas, we compete with both smaller local firms and many global IT services providers, including, but not limited to, Wipro, InfoSys, Satyam Infoway, HCL and TCS (Tata Consulting).
+ 
+
+10
+--
+
+CUSTOMERS
+ 
+NETSOL’s solutions and services cater to a broad spectrum of finance and leasing businesses, from automotive captive finance companies to equipment finance and leasing companies to large regional banks.
+ 
+NETSOL’s customers include world renowned auto manufacturers through their finance arms. NETSOL is a strategic business partner for Daimler and BMW (which consists of a group of many companies in different countries), which accounts for approximately 31.6% and 7.5%, respectively, of our revenue for our fiscal year ended June 30, 2022. Other globally renowned auto captives that are customers of the company include Toyota, Nissan, Ford, and FIAT.
+ 
+Other customers include equipment finance and leasing companies and banks worldwide. Some of these clients include Motorcycle Group, SCI Lease Corp, Maple Commercial Finance and Yamaha Motor Finance.
+ 
+GLOBAL OPERATIONS AND GEOGRAPHIC DATA
+ 
+NETSOL divides its operations into three regions: the Americas, Europe and Asia Pacific. The regions consist of individual subsidiaries which operate as autonomous companies and are strategically managed on a regional basis.
+The Americas
+ 
+Mr. Peter Minshall, Executive Vice President at NetSol Technologies Americas, Inc. (NTA) is responsible for the entire portion of NTA’s business operations. He brings three decades of international experience in the financial services industry holding various senior leadership roles with Daimler Financial Services. Peter continues to be supported by Doug Jones as Vice President - Operations for NTA. Doug is a visionary, focused, and driven technology leader credited with shaping team performance to deliver best-in-class, leading web-based and embedded software applications for the finance and leasing industry. Peter is also supported by James Freto, who serves as Vice President – Sales for NTA. Prior to his appointment, Freto had been working for Fortune 500 financial product and services provider FIS as a Senior Sales Executive, selling origination and credit assessment solutions to mid to large-size financial institutions in the banking and asset finance segments. Freto brings directly applicable sales experience and subject matter expertise in key NETSOL markets. To augment the AWS team, in the United States, Rajnish Harjika serves as VP Technology, Cloud Services and Mark Timm serves as Senior Vice President of Cloud Services.
+ 
+OtozTM CEO and Co-founder, Mr. Naeem Ghauri, was also recently appointed as Chairman for NETSOL Technologies Pakistan and is also NETSOL’s President for the parent company NetSol Technologies, Inc. He is based in our Lahore, Pakistan office.
+ 
+
+11
+--
+
+Europe
+ 
+Mr. Asad Ghauri is the President of Asia Pacific (APAC) and Group Managing Director of Europe. Mr. Ghauri has a strong management team in the U.K. comprising of Chris Mobley and Chris Tobey.
+ 
+NetSol had previously acquired the remaining stake in Virtual Lease Services (VLS) - rebranded as Banking Works. Previously limited to being a UK-based portfolio and risk management servicing partner for business and consumer finance providers, Banking Works focuses on supporting financial services businesses to achieve their own transformation ambitions. Mark Cawood, an industry veteran, is the Managing Director, while Diane Roberts serves as Director Finance.
+ 
+Asia Pacific Region
+ 
+NetSol Technologies, Ltd., (“NetSol PK”) a majority owned subsidiary of the parent company is located in Lahore, Pakistan and is headed by Mr. Salim Ghauri as its CEO. Mr. Ghauri is a Co-founder of NetSol PK and has been with the company since 1996. NetSol PK is the “Center of Excellence” and a state-of-the-art facility for programming, R&D, global implementations and 24-hour support to our customers worldwide.
+ 
+NetSol Technologies (Beijing) Co. Ltd. (“NetSol Beijing”) is headed by Amanda Li as President. Ms. Li previously worked as a managing director for Sopra Banking Software where she was instrumental in developing business and driving sales. She has previous experience working for NETSOL as well.
+ 
+NETSOL Indonesia’s Country Head is Withoon Hardat. During his 12 years as NETSOL, before taking charge of the Indonesia office, he has served as Client Partner for the Thailand office as well as Director for Business Development for APAC.
+ 
+The Managing Director for NetSol Technologies Australia is Farooq Ghauri. He has played a vital role in the NETSOL’s global success through his hands-on leadership and unrelenting drive to meet the needs of NETSOL’s growing client base. Since he joined the company in 2004, Mr. Ghauri has worked in NETSOL’s Pakistan, China, Australia, Thailand and U.S. offices.
+ 
+The Global Sales Division is headed by Mr. Asad Ghauri as President of Sales from the NetSol PK office. Mr. Ghauri has been with NETSOL since 2000 and has over 20 years of experience in business and IT.
+ 
+The Asia Pacific region including Australia/New Zealand and the Middle East, is supported and clients are serviced from the APAC region offices located in Sydney, Beijing, Shanghai, Tianjin, Bangkok, Indonesia, Lahore and Karachi. Pakistan continues to be a nucleus of NETSOL’s delivery and research and development. With the continued growth of the Chinese market, our Beijing office continues to expand as both a sales and support facility. Finally, the Asia Pacific region maintains and will establish offices through the region as is necessary to support its customers and to explore potential new markets.
+ 
+Our APAC Region accounted for approximately 75.1% of our revenues in 2022. Information regarding financial data by geographic areas is set forth in Item 7 and Item 8 of this Annual Report on form 10-K. See note 21 of Notes to Consolidated Financial Statements under Item 8.
+ 
+INTELLECTUAL PROPERTY 
+ 
+NETSOL relies upon a combination of non-disclosure and other contractual arrangements, as well as common law trade secret, copyright and trademark laws to protect its proprietary rights. NETSOL enters into confidentiality agreements with its employees, generally requires its consultants and clients to enter into these agreements, and limits access to and distribution of its proprietary information. The NETSOL “N” logo and name, as well as the NFS logo and product name have been copyrighted and trademark registered in Pakistan. The NETSOL “N” logo has been registered with the U.S. Patent and Trademark Office. NFS Ascent® has been registered with the U.S. Patent and Trademark Office. The Company intends to trademark and copyright its intellectual property as necessary and in the appropriate jurisdictions.
+
+12
+--
+
+GOVERNMENTAL APPROVAL AND REGULATION 
+ 
+Current Company operations do not require specific governmental approvals. Like all companies, including those with multinational subsidiaries, we are subject to the laws of the countries in which we maintain subsidiaries and conduct operations. Pakistani law allows a tax exemption on income from exports of IT services and products up to 2025. While foreign based companies may invest in Pakistan, repatriation of their investment, in the form of dividends or other methods, requires approval of the State Bank of Pakistan.
+AVAILABLE INFORMATION
+ 
+Our website is located at www.netsoltech.com, and our investor relations website is located at http://ir.netsoltech.com. The following filings are available through our investor relations website after we file with the SEC: Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, and our Proxy Statements for our annual meetings of stockholders. These filings are also available for download free of charge on our investor relations website. We also provide a link to the section of the SEC’s website at www.sec.gov that has all of our public filings, including Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, all amendments to those reports, our Proxy Statements and other ownership related filings. Further, a copy of this Annual Report on Form 10-K is located at the SEC’s Public Reference Room at 100 F Street, NE, Washington D.C. 20549. Information on the operation of the Public Reference Room can be obtained by calling the SEC at 1-800-SEC-0330.
+ 
+We webcast our earnings calls and certain events we participate in or host with members of the investment community on our investor relations website. Additionally, we provide notifications of news or announcements regarding our financial performance, including SEC filings, investor events, press and earnings releases, and blogs as part of our investor relations website. Investors and others can receive notifications of new information posted on our investor relations website by signing up for e-mail alerts. Further corporate governance information, including our committee charters and code of conduct, is also available on our investor relations website at http://ir.netsoltech.com/governance-docs. The content of our websites is not intended to be incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the SEC, and any references to our websites are intended to be inactive textual references only.
+ 

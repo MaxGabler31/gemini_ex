@@ -1,0 +1,109 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Description of Business
+Organization
+ 
+Cytta Corp. (“Cytta” or the “Company”) was incorporated on May 30, 2006, under the laws of the State of Nevada. It is located in Las Vegas, Nevada. Since 2014, Cytta has focused on developing and marketing video compression-based software and hardware products, using technology based upon the SUPR (Superior Utilization of Processing Resources) video compression codec/algorithm and our IGAN (Incident Global Area Network) incident command system. Cytta currently develops, markets, and distributes proprietary video streaming products and services that improve how video is streamed, consumed, transferred, and stored in enterprise environments. 
+ 
+Cytta’s primary business focus is the development of video streaming products and services that utilize our SUPR compression codec/algorithm, our IGAN Incident Command System (ICS) and our related industry experience. We design and develop innovative and effective video compression-based software, and hardware products utilizing our software and video-streaming technological knowledge. We also offer a combination of technical and consulting services, proprietary software products, hardware products utilizing our software and system integration team to meet the needs of customers. Cytta places extreme value on satisfying our customers’ needs with innovative well-engineered, high-quality products and service solutions.
+ 
+Cytta’s proprietary SUPR Intelligence, Surveillance and Reconnaissance (ISR) technology is built around our SUPR proprietary video codec, the technology at the core of our products. SUPR is explicitly designed for streaming HD, 4K, and higher resolution video while significantly reducing required technical resources.  
+ 
+Cytta’s IGAN Incident Command System (ICS) system seamlessly streams and integrates all available video and audio sources during emergencies, enabling sharing of multiple video and audio inputs. The IGAN ICS introduces immediate real-time video and audio situational awareness, which is valuable for police, firefighters, first responders, emergency medical workers, industry, environmental and emergencies, security, military, and all their command centers in any emergency.
+ 
+We have created advanced video compression, video/audio collaboration software, and portable hardware systems that solve real world problems in large markets. We believe our products will enable and empower the world to consume higher quality video anywhere, anytime. Our ultimate goal is to deliver such high-quality video that it is not discernible from reality with the naked eye creating ‘Reality Delivered’ for the Metaverse.
+ 
+Our corporate website is located at http://cytta.com/, and the contents of our website are expressly not incorporated herein.
+ 
+Corporate Matters
+ 
+On September 30, 2020, the Company filed an Amended and Restated Certificate of Designation with the State of Nevada of the Company’s Series D Preferred Stock. Under the terms of the Amendment to Certificate of Designation of Series D Preferred Stock, 50,000 shares of the Company’s preferred shares are designated as Series D Preferred Stock. Each share of Series D Preferred Stock is convertible into one share of fully paid and non-assessable Common Stock. For so long as any shares of the Series D Preferred Stock remain issued and outstanding, the Holders thereof, voting separately as a class, shall have the right to vote on all shareholder matters equal to two times the sum of all the number of shares of other classes of Corporation capital stock eligible to vote on all matters submitted to a vote of the stockholders of the Corporation. On September 30, 2020, the Company issued 50,000 shares of Series D preferred Stock to a Company controlled by the Company’s CEO, in satisfaction of $1,347,894 of capital stock to be issued. As of September 30, 2021, there were 50,000 shares of Series D Preferred Stock issued and outstanding.
+
+4
+
+ 
+On June 2, 2021, the Company filed a Certificate of Designation with the State of Nevada. Under the terms of the Certificate of Designation 13,650,000 (as amended on June 10, 2021) were designated as Series E Preferred Stock. Each share of Series E Preferred Stock is convertible into one share of fully paid and non-assessable Common Stock at anytime by the holder. For so long as any shares of the Series E Preferred Stock remain issued and outstanding, the Holders thereof, voting separately as a class, shall have the right to vote one share on all matters submitted to a vote of the stockholders of the Corporation. During the year ended September 30, 2021, the Company sold 13,650,000 shares of Series E Preferred Stock at $0.05 per share and received $682,500. As of September 30, 2021, there were 13,650,000 shares of Series E Preferred Stock issued and outstanding. The Series E Preferred Stock automatically converts to common stock after the shares of common stock closing market price is at least $0.20 for twenty (20) consecutive trading days.
+ 
+Products
+ 
+SUPR (Superior Utilization of Processing Resources) Product
+ 
+Cytta’s proprietary, secure video compression technology offers, what we believe is, superior streaming in HD/4K/8K as compared to common open standard codec/algorithms. SUPR is an entirely unique, ground-up design that is a patented software codec/algorithm for video compression, which operates differently from MPEG-based codec/algorithms (H.264, H.265, VP9). SUPR performs exceptionally well in bandwidth-challenged environments where other video compression solutions cannot operate or do so poorly. 
+ 
+SUPR delivers video streaming for airborne ISR (Intelligence, Surveillance, and Reconnaissance) applications including environments where video streams are transmitted beyond line-of-sight. By utilizing a SUPR-enabled encoder onboard an aircraft, video can be securely streamed in high-definition to a SUPR-enabled decoder. Compared to MPEG-based video compression solutions, SUPR offers the following technological advantages:
+ 
+
+· | Clear and superior imagery in lower bandwidths 
+--+--------------------------------------------------------------------------------------------------------------------------------------------
+· | Lossless video stream 
+· | Lower video latency 
+· | Proprietary video stream 
+· | Fewer instances of blocking artifacts and pixilation issues as compared to MPEG-based codec/algorithms (H.264, H.265, VP9) and alternatives
+· | Processor operates more efficiently (SUPR utilizes only 2% of calculations per pixel vs. MPEG-based codec/algorithms (H.264, H.265, VP9) 
+· | Computer runs cooler during compression due to less processor-intense operation 
+
+IGAN (Incident Global Area Network) Product
+ 
+The IGAN (Incident Global Area Network) ICS (Incident Command System) system is designed to deliver communications composed of multiple streams of voice and video delivered with low latency and viewable by multiple parties over one unified secure communication system. IGAN seamlessly streams all relevant video and audio into a single web (or mobile app) interface. It is designed to work as a common interface for daily operations or can scale up to support hundreds of participants from separate organizations during an emergency. IGAN connects people-to-people, people-to-groups, and facilitates conferences independent of device or location. IGAN offers a distributed and easily customized solution for integrating disparate communications systems in multiple locations into a seamless and rapidly re-configurable solution.
+
+5
+
+ 
+IGAN’s distributed platform architecture allows individual communications systems to be located anywhere that a network connection can be established, and the interconnection of these systems can be controlled from any location or multiple locations. The robust platform is fully redundant such that if a site is lost, a backup is immediately established. IGAN is an IP-software multi-channel / multi-access communications and tactical conferencing solution for professional and mission critical applications. The solution is highly scalable to multiple users, and supports multiple channels and conferences. 
+ 
+IGAN is a secure, advanced ICS (Incident Command System) offering low latency, multidirectional communications, integrating multiple video and voice devices including video cameras, smartphones, tablets, computers, bodycams and 2-way radios. IGAN is a tool for video collaboration when requiring the integration of video feeds from sUAS (Small Unmanned Aerial Systems) unmanned drone operations and any other video source. IGAN is designed to upload a video feed in real-time. It then allows remote participants to not only see low latency remote aerial video, but to guide flight and other source video instruction such as video zoom on a target or areas of inspection.
+ 
+The IGAN ICS system resides in Cytta’s secure cloud or can be privately hosted on a customer’s server. The IGAN hosting architecture is offered two ways: 
+ 
+
+· | Cytta Cloud; where we manage (but do not store) daily operations. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+· | Customer Hosted; where we provide clients with a stand-alone server fully integrated with IGAN software, or we can install on an existing server within the client’s network. IGAN can also be installed in a mobile command vehicle making it a completely mobile solution for remote incident communications.
+
+ 
+IGAN operating through Cytta’s secure cloud offers secure FIPS (Federal Information Processing Standard) 140-2 and is CJIS (criminal justice information services) compliant. 
+ 
+IGAN offers the following technical advantages:
+ 
+
+· | Creates a unified communications system for sharing video and voice using advanced compression and SIP (Session Initiation Protocol) technologies.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------
+· | No client application program is required. Utilizes a web browser to join an IGAN session. 
+· | Multiple device flexibility in that any video device, 2-way radio, etc. can be added 
+· | Offers secure FIPS 140-2 and CJIS compliance 
+
+CYTTA PRODUCT LINES
+ 
+The video compression and streaming product lines are comprised of three main types of products, each aimed at the different phases of selling to and supporting the customer.
+Custom Software Development 
+ 
+Custom software development is a type of professional service product. Using software development and product management staff, solutions are created that are either based on a packaged system (and therefore are extensions of an existing product), or are new workflow systems that are intended to work stand alone or possibly in conjunction with other packaged products. Custom software is also developed to add future support to a customer’s system that is not being addressed via standard product upgrades or follow-on product development. Recent examples include adding specific configuration files to a customer’s SUPR software hardware product. Our custom software solutions are compatible with packaged systems, which is accomplished through the use of the common underlying software platform.
+Software Maintenance Plans (SMPs) 
+ 
+Our products follow industry norms for high-end software systems. SMPs (Software Maintenance Plans) are comprised of service promises and software upgrades such as the following:
+ 
+
+· | Phone, e-mail and back-office technical support
+--+------------------------------------------------
+· | Onsite troubleshooting 
+· | Software maintenance releases 
+· | Software upgrades 
+
+
+6
+
+Integrated Portable Hardware/Software Systems
+ 
+Our combined products are designed and built to create complete and integrated systems that are marketed to provide complete portable solutions to client requirements. Our integrated hardware/software products bring advantages to HD, 4K and 4K+ wireless live video streaming and a centralized video/audio interaction system to a variety of industries. 
+Competition
+ 
+Current and new competitors may be able to develop and introduce better or more desirable products in advance of us or at a lower cost. In addition, some of our current and potential competitors have longer and/or more established operating histories, greater industry experience, greater name recognition, established customer bases, and significantly greater financial, technical, marketing and other resources than we do. To be competitive, we must respond promptly and effectively to the challenges of technological change, evolving standards and regulations, and our competitors’ innovations by continually working to improve the design of our products, enhancing our products, as well as improving and increasing our marketing and distribution channels. Increased competition could result in a decrease in the desirability of our products, a decrease in the use of our products by customers, loss of market share and brand recognition, and a reduction in the projected revenues from our products. We cannot assure you that we will be able to compete successfully against current and future competitors. Competitive pressures faced by us could have a material adverse effect on our business, operating results and financial condition.
+Intellectual Property
+ 
+The original SUPR compression codec/algorithm and related industry knowhow and experience was acquired from Michael Collins, our current Chief Technology Officer, in 2013. Our current SUPR software codec/algorithm video compression technology is wholly owned by Cytta and is sold and licensed to customers, in all product configurations free of any encumbrances or limitations (other than normal software security requirements).
+Research and Development
+ 
+To maintain our level of continuous innovation, the Company conducts numerous internal Research and Development projects. Additionally, the unique needs and applications of our customers require that we conduct research and development and engineering in order to provide them with the needed solutions and products.
+Employees
+ 
+We currently employ seven (7) independent contractors in the United States to conduct our operations. The Company contracts with various independent contractors and consultants to fulfill additional needs, including accounting, investor relations, business development, permitting, and other corporate functions, and may increase staff further as we expand activities and bring new projects to market.

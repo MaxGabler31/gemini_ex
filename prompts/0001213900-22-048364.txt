@@ -1,0 +1,505 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Overview
+
+
+
+We are a provider of technologically-advanced telecom solutions to network operators, mobile device carriers, governmental units and other enterprises worldwide. We have assembled a portfolio of communications and portable infrastructure technologies, capabilities and products that enable the upgrading of latent 3G networks to 4G and 4G-LTE networks and will facilitate the rapid roll out of the 5G and 6G networks of the future. We focus on novel capabilities, including signal modulations, antennae, software, hardware and firmware technologies that enable increasingly efficient data transmission across the electromagnetic spectrum. Our product solutions are complemented by a broad array of services, including technical support, systems design and integration, and sophisticated research and development programs. While we compete globally on the basis of our innovative technology, the breadth of our product offerings, our high-quality cost-effective customer solutions, and the scale of our global customer base and distribution, our primary focus is on the North American telecom infrastructure and service market. We believe we are in a unique position to increase our near-term domestic sales as we are among the few U.S. based providers of telecommunications equipment and services.
+
+
+
+We provide the following categories of product offerings and solutions to our customers:
+
+
+
+
+● | Telecom and Network Products and Solutions. We design, develop, market and sell technologically-advanced products for telecom network operators, mobile device carriers and other enterprises, including the following: 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Wireless Transport Solutions. We offer a line of high-capacity packet microwave solutions that drive next-generation intellectual property (“IP”) networks. Our carrier-grade point-to-point packet microwave systems transmit broadband voice, video and data. Our solutions enable service providers, government agencies, enterprises and other organizations to meet their increasing bandwidth requirements rapidly and affordably. The principal application of our product portfolio is wireless network transport, including a range of products ideally suited to support the emergence of underlying small cell networks. Additional solutions include leased-line replacement, last mile fiber extension and enterprise networks. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | In-Band Full-Duplex Technologies. We have developed proprietary wireless transmission technologies that alleviate the performance limitations of the principal transmission technologies used by most networks today. Time Division Duplex (“TDD”) transmission technology used by many communications systems utilizes a single channel for transmission of data alternating between downlink or uplink, which limits capacity/throughput. Frequency Division Duplex (“FDD”) technologies in the marketplace today use two independent channels for downlink and uplink but require twice the spectrum. Neither TDD nor FDD can simultaneously transmit and receive on a single channel — a limitation that network advancements and 5G will require for optimal performance. In late 2021, we intend to commence offering products incorporating our proprietary In-Band Full-Duplex technologies that simultaneously transmit and receive data on a single channel, which resolves the limitation of current TDD and FDD transmissions by increasing network performance and doubling spectrum efficiency. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Edge Compute Capable Small Cell 4G LTE and 5G Access Radios. We offer both 4G/LTE and 5G New Radio (“NR”) based small cell radios that are designed to connect to other access radios or to connect directly to mobile devices such as mobile phones and other Internet-of-things devices. Recently, we developed we believe the world’s first fully-virtualized 5G core network on a microcomputer the size of a credit card, enabling, for the first time, the ability to have the 5G network collocated on the network edge with the small cell communicating with the devices themselves. The small cells support edge-based application hosting and enable third-party service integration. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Tethered Drones and Aerostats. We design, manufacture, sell and provide logistical services for specialized tethered aerial monitoring and communications platforms serving national defense and security customers for use in applications such as intelligence, surveillance, and reconnaissance (“ISR”) and tactical communications. We focus primarily on a suite of tethered aerostats known as the Winch Aerostat Small Platform, which are principally designed for military and security applications and provide secure and reliable aerial monitoring for extended durations while being tethered to the ground via a high-strength armored tether. Our recently-acquired HoverMast line of quadrotor-tethered drones feature uninterruptible ground-based power, fiber optic communications for cyber immunity, and the ability to operate in GPS-denied environments while delivering dramatically-improved situational awareness and communications capabilities to users. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+We are also developing processes that we believe will advance the state-of-the-art in silicon photonic (“SiP”) devices for use in advanced data interconnects, communication networks and computing systems. We believe our novel approach will allow us to overcome the limitations of current SiP optical modulators, dramatically increase computing bandwidth, and reduce drive power while offering lower operating costs.
+
+
+
+Our engineering and management teams have extensive experience in optical systems and networking, digital signal processing, large-scale application-specific integrated circuit design and verification, SiP design and integration, system software development, hardware design, high-speed electronics design and network planning, installation, maintenance, and servicing. We believe this broad expertise in a wide range of advanced technologies, methodologies, and processes enhances our innovation, design and development capabilities, and has enabled us, and we believe will continue to enable us, to develop and introduce future-generation communications and computing technologies. In the course of our product development cycles, we engage with our customers as they design their current and next-generation network equipment in order to gauge current and future market needs.
+
+
+
+
+
+
+
+
+
+
+
+
+Our Business
+
+
+
+Through a series of acquisitions, we have expanded our service offerings and geographic reach over the past three years. On November 27, 2019, we completed the acquisition of ComSovereign Corp. (“ComSovereign”) in a stock-for-stock transaction with a total purchase price of approximately $80.0 million (the “ComSovereign Acquisition”). ComSovereign had been formed in January 2019 and, prior to its acquisition by our company, had completed five acquisitions of companies with unique products in development for, or then being marketed to, the telecommunications market. As a result of our acquisitions, our company is comprised of the following principal businesses, each of which was acquired to address a different opportunity or sector of the North American telecom infrastructure and service market. Our subsidiary holdings are held in two divisions, Telecommunications and Drones. Our Power division has been idled.
+
+
+
+Our Telecommunications business is comprised of the following:
+
+
+
+
+● | DragonWave-X LLC. DragonWave-X, LLC and its operating subsidiaries, DragonWave Corp. and DragonWave-X Canada, Inc. (collectively, “DragonWave”), are a Dallas-based manufacturer of high-capacity microwave and millimeter wave point-to-point telecom backhaul radio units. DragonWave and its predecessor have been selling telecom backhaul radios since 2012 and its microwave radios have been installed in over 330,000 locations in more than 100 countries worldwide. According to a report of the U.S. Federal Communications Commission, as of December 2019, DragonWave was the second largest provider of licensed point-to-point microwave backhaul radios in North America. DragonWave was acquired by ComSovereign in April 2019 prior to the ComSovereign Acquisition. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+On May 23, 2022, Syntronic Production Services Canada Inc. acquired certain assets and employees from DragonWave X Canada, Inc. in returns for assuming employment liabilities and the assumption of a lease in Kanata, Ontario, Canada, through an Asset Purchase Agreement.
+
+
+
+
+● | Virtual NetCom, LLC. Virtual NetCom, LLC (“VNC”) is an edge compute focused wireless telecommunications technology developer and equipment manufacturer of both 4G LTE Advanced and 5G NR capable radio equipment. VNC designs, develops, manufactures, markets, and supports a line of network products for wireless network operators, mobile virtual network operators, cable TV system operators, and government and business enterprises that enable new sources of revenue, and reduce capital and operating expenses. VNC also has developed rapidly deployable, tactical systems that can be combined with the tethered aerostats and drones offered by our Drone Aviation subsidiary and enabled and operated in nearly any location in the world. We acquired VNC in July 2020. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Fastback. Skyline Partners Technology LLC, which does business under the name Fastback Networks (“Fastback”), is a manufacturer of intelligent backhaul radio (“IBR”) systems that deliver high-performance wireless connectivity to virtually any location, including those challenged by Non-Line of Sight limitations. Fastback’s advanced IBR products allow operators to economically add capacity and density to their existing cellular networks and expand service coverage density with small cells. These solutions also allow operators to both provide temporary cellular and data service utilizing mobile/portable radio systems and provide wireless Ethernet connectivity. We acquired Fastback in January 2021. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Silver Bullet Technology, Inc. Silver Bullet Technology, Inc. (“Silver Bullet”) is a California-based engineering firm that designs and develops next generation network systems and components, including large-scale network protocol development, software-defined radio systems and wireless network designs. ComSovereign acquired Silver Bullet in March 2019 prior to the ComSovereign Acquisition. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Lextrum, Inc. Lextrum, Inc. (“Lextrum”) is a Tucson, Arizona-based developer of full-duplex wireless technologies and components, including multi-reconfigurable radio frequency (“RF”) antennae and software programs. This technology enables the doubling of a given spectrum band by allowing simultaneous transmission and receipt of radio signals on the same frequencies. ComSovereign acquired Lextrum in April 2019 prior to the ComSovereign Acquisition. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | VEO Photonics, Inc. VEO Photonics, Inc. (“VEO”), based in San Diego, California, is a research and development company innovating SiP technologies for use in copper-to-fiber-to-copper switching, high-speed computing, high-speed ethernet, autonomous vehicle applications, mobile devices and 5G wireless equipment. ComSovereign acquired VEO in January 2019 prior to the ComSovereign Acquisition. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | RF Engineering & Energy Resource, LLC. RF Engineering & Energy Resource, LLC (“RF Engineering”) is a Michigan-based provider of high-quality microwave antennas and accessories. By providing one of the industry’s lowest cost of ownership, RF Engineering has continued to innovate and expand, and it recently announced the industry’s first Universal Licensed Microwave Antenna. Supporting frequencies from (6-42 GHz), customers can now reduce sparing costs and safely future-proof their networks by leveraging this new Universal plug and play architecture. We acquired RF Engineering in July 2021. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | SAGUNA Networks Ltd. SAGUNA Networks Ltd. (“SAGUNA”) based in Yokneam, Israel, is the software developer behind the award-winning SAGUNA Edge Cloud, which transforms communication networks into powerful cloud-computing infrastructures for applications and services, including augmented and virtual reality, Internet of Things (“IoT”), edge analytics, high-definition video, connected cars, autonomous drones and more. SAGUNA allows these next-generation applications to run closer to the user in a wireless network, dramatically cutting down on latency, which is a fundamental and critical requirement of 5G networks. SAGUNA’s Edge Cloud operates on general purpose computing hardware but can be optimized to support the latest artificial intelligence and machine learning features through dedicated accelerators. We acquired SAGUNA in October 2021. SAGUNA was idled in June, 2022. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Our Drone business is comprised of the following:
+
+
+
+
+● | Drone Aviation. Lighter Than Air Systems Corp., which does business under the name Drone Aviation (“Drone Aviation”), is based in Jacksonville, Florida and develops and manufactures cost-effective, compact and enhanced tethered unmanned aerial vehicles, including Lighter-Than-Air aerostats and drones that support surveillance sensors and communications networks. We acquired Drone Aviation in June 2014. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Sky Sapience Ltd. Sky Sapience Ltd. (“SKS”) is an Israeli-based manufacturer of drones with a patented tethered hovering technology that provides long-duration, mobile and all-weather ISR capabilities to customers worldwide for both land and marine-based applications. Its innovative technologies include fiber optic tethers that enable secure, high-capacity communications, including support for commercial 4G and 5G wireless networks. SKS’s flagship HoverMast line of quadrotor-tethered drones feature uninterruptible ground-based power, fiber optic communications for cyber immunity, and the ability to operate in GPS-denied environments while delivering dramatically-improved situational awareness and communications capabilities to users. We acquired SKS in March 2021. SKS was idled in June 2022. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | RVision, Inc. RVision, Inc. (“RVision”) is a California-based developer of technologically-advanced video and communications products and physical security solutions designed for government and private sector commercial industries. It has been serving governments and the military for nearly two decades with sophisticated, environmentally-rugged optical and infrared cameras, hardened processors, custom tactical video hardware, software solutions, and related communications technologies. It also has developed nano-defractive optics with integrated, artificial intelligence-driven electro-optical sensors and communication network connectivity products for smart city/smart campus applications. We acquired RVision in April 2021. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Industry
+
+
+
+We participate in the large and growing global market for connectivity and essential communications infrastructure. This market is being driven by the growth in demand for data-intensive bandwidth and the necessity for reduced latency (the time it takes to send data from one point to another) associated with the continued demand of smartphones, tablets and machine-to-machine (M2M) communication, as well as the proliferation of data centers, big data, cloud-based services, streaming media content and IoT. In addition, video and gaming distribution over the broadband IP network is transforming how content is managed and consumed overall. This increase in data usage and demand is taxing available broadband of many service providers, which requires far more efficient technologies to meet demand. For example, in reaction to the COVID-19 pandemic, in certain regions Netflix reduced the quality of videos from high definition to standard definition in order to free up additional bandwidth required by workers performing online functions from their homes.
+
+
+
+Today’s cellular networks are predominantly based on 4G technologies. These networks constantly undergo expansion of coverage and densification with additional sites to cater to higher demands for speeds and to make more services available per given area. According to certain publications and as of the fourth quarter 2019, 33 operators across 18 countries, representing 8% of the global mobile connections base (excluding cellular IoT), have launched commercial 5G mobile services, and 77 operators have announced plans to launch 5G services in the coming months. These investments in 5G radio network infrastructure, and consequently, associated wireless data hauling, are expected to gradually increase during the next several years. In order to allocate spectrum resources for 4G and 5G, some operators are shutting down their 2G and/or 3G network (a “network sunset”) in order to re-allocate radio access network frequency bands to 4.5 and 5G services. These market dynamics of network expansion and densification have resulted in higher demand for wireless hauling capacity at increased density, requiring more sophisticated services over the network at far higher volumes than were available in recent years. Such services include the many 5G use cases, which among others, include enhanced mobile broadband, mission critical services, IoT and Industrial IoT, gigabit broadband to homes, multi gigabits services to enterprises and more.
+
+
+
+The term “5G” is misunderstood by most consumers who believe it is simply another layer of technology over the top of current 4G LTE infrastructures. However, this is not the case. While 4G LTE Advanced is a part of a large platform upon which 5G rests, according to many industry studies, significantly more 4G LTE/A will be required before 5G becomes a reality. 5G is an entirely new infrastructure that must be standardized for widespread adoption and must be agile enough to accommodate wireless devices of all kinds, not just cellular smartphones. The 5G enhancements specific to “IoT” will enable the connection of the internet to telemedical devices, gaming, video and television, smart-home devices, such as thermostats, alarms, lighting and garage doors, smartphones, driverless cars and traffic signals, laptops, desktops, Wi-Fi, logistic reporting devices on semi-tractor trucks and trains and a plethora of other use cases. It must do so seamlessly and with a fraction of the current “round-trip” response time of data. This requires that data centers be closer to the network’s “edge” where the devices connect to the wireless small cells. As a result, data centers and many of the other functions will require virtualization and eventually artificial intelligence (AI) algorithms and machine learning to route data requests to these virtualized data centers to keep latency to a minimum.
+
+
+
+
+
+
+
+
+
+
+
+There are several major trends that we expect to drive network deployments and investment. The GSM Association (“GSMA”), a mobile telecom association to which most large infrastructure participants and mobile carriers are members, nearly mirrors our findings and impressions in its report on the state of mobile internet connectivity. Many of these trends and findings follow.
+
+
+
+The Challenges of Connectedness
+
+
+
+It is said in business that to remain static is to die. To understand the need for technological advancements and infrastructure growth in the cellular telecommunications industry, one must first understand the market factors driving these changes. In 2018, nearly 300 million people connected to mobile internet data for the first time. This increased the total number of internet connected users to more than 3.5 billion people worldwide. This type of connectivity now drives the global economy as more and more diverse commerce is conducted through wireless data access. However, since lower-income countries and regions have only approximately 40% of their population connected to the internet compared to 75% in high-income regions, these lower income areas are finding it increasingly difficult to raise their social and economic status. Getting these deficient regions (and the approximately 4 billion people inhabiting those regions who are unable to connect to the internet) connected is only one challenge. The other and equally difficult challenge is the density of urban areas in the higher income areas and the sophistication of the electronic communications and computing devices in those areas that require increasingly faster data. We plan to target both challenges by providing economical solutions and infrastructure building blocks to lower-income geographic areas around the world, which we expect we will initially sell through our resellers, distributors and other partners, while leading the world in innovative new technologies to make the realization of 5G and the next generations (“nG”) a reality.
+Evolving Network Architecture and Technology
+
+
+
+The pace of change in networking has increased in recent years as consumers and data-driven businesses utilize more bandwidth with increasingly-complex mobile and connected devices. Cellular networks are now experiencing exponential growth in network infrastructures, which is revolutionizing how consumers connect to each other and changing the network architecture needed to support consumer demand. This trend requires better network coverage, greater broadband access, increased capacity and larger data storage capacity.
+
+
+
+Our customers are working to transition their networks to become faster, more responsive, and more efficient. We believe the following findings will continue to impact our company and the industry during 2021 and beyond.
+
+
+
+
+(1) | Coverage Gaps Declining: Less than 10% of people globally (approximately 750 million) now have no access to a mobile broadband network as compared to approximately 24% only five years ago. 
+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(2) | Usage Gaps an Issue: Approximately 3.3 billion people live in areas in which internet coverage exists but do utilize it. In other words, the usage gap is four times greater than the coverage gap. 
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(3) | Affordability: Mobile broadband usage is becoming more affordable across all regions, but its affordability is still short of the desired 2% or less of monthly per capita income. This cost of usage is keeping some users from participating online. There is also a perception in many low-income regions that internet usage will not contribute enough to their security, safety, and commerce to warrant the expense. In addition, device cost remains high and thus a barrier to entry. 
+----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(4) | Prevalence of Use: Social media and instant messaging account for the majority of mobile usage. Online calls, news links, video streaming services such as YouTube and Vimeo, and gaming are the other most prevalent activities. 
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(5) | Macro Level: The mobile industry contributed $4 trillion dollars to the global gross domestic product (GDP) last year (or almost 5% of the total GDP). A recent study conducted by Dr. Raul Katz and Fernando Collorda for the International Telecommunication Union, a specialized agency of the United Nations for information and communication technologies, concluded that a 10% increase in mobile broadband connectivity would lead to an increase in GDP of roughly 2% in both developed and underdeveloped regions. 
+----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(6) | Micro Level: Gallup and GSMA polls both found that mobile ownership and internet connectivity is associated with an improvement in people’s lives, as evidenced by increases in net positive emotions and average life evaluations (not the same as longevity). 
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Transition from Traditional to the IoT
+
+
+
+The IoT is rapidly evolving from an industry trend to a tangible, mature, established technology. Many operators have begun early transitions, or perhaps more accurately — are beginning to build a framework, to operable 5G networks and have announced trials and pre-standard deployments of 5G technology. This technology is primarily higher frequency, millimeter wave radios and higher order (more efficient) modulation methods, such as 4096 QAM. The number of 5G-enabled devices is expected to continue to increase during 2022 and accelerate beyond that. The primary benefits of 5G are expected to include:
+
+
+
+
+● | enhanced mobile broadband to support significant improvement in data rates and user experience in both the uplink and downlink; 
+--+------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | massive M2M communications capabilities to support the expected billions of connections between machines as well as short bursts of information to other systems; and
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | low latency, high reliability to support applications that are critical or are needed in real time, like factory machines, virtual reality, and augmentation.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Wireless operators will need to both acquire and launch new spectrum for 5G, as well as continue their strategy of re-allocation of spectrum from one generation to another. Some of this spectrum will be at much higher frequencies and will use new technologies to deliver exceptional amounts of bandwidth to subscribers. 5G also requires significant fiber infrastructure to connect wireless access points to each other to improve the response time of the network. As wireless operators transition toward 5G, they must also manage the fundamental network deployment issues of site acquisition, power, backhaul and in-building wireless proliferation.
+
+
+
+In addition to investment required by wireless operators, the transition to 5G could also spark an investment cycle by cable operators as they upgrade their networks to compete with fixed wireless broadband, which could become a viable alternative to traditional broadband internet access.
+
+
+
+Our Growth Strategy
+
+
+
+Under the leadership of our senior management team, we intend to address and exploit the large and growing market for internet connectivity and essential communications infrastructure as we continue to build our sales, marketing, and operations groups to support our planned growth while focusing on increasing operating margins through cost control measures. While organic growth will be our primary focus in driving our business forward, we expect acquisitions and select teaming and partnering arrangements with other companies will play a strategic role in strengthening our existing product and service lines and providing cross-selling opportunities. We are pursuing several growth strategies, including:
+
+● | Continue to Innovate and Extend our Technology Leadership. Mobile broadband infrastructure innovations are required to dramatically improve the commercial viability of both the 4G LTE and 5G buildouts. It is well documented that more 4G infrastructure is required for 5G to be viable. However, with the huge increase in radio access network components required for an IoT/5G buildout, relative capital costs must come down to allow data to remain affordable. This requires doing more with less through “innovation.” We expect our continued investments in research and development will enable us to continue to provide innovative products to the marketplace. For example, in 2022 we expect to demonstrate initial products incorporating our patented In-Band Full-Duplex technology, which is expected to almost double the efficiency, and as a result, the data throughput, of wireless spectrum channels. We also continue to pursue VEO’s SiP research, discoveries and developments, which we believe will not only eliminate the current log-jam many internet providers and data centers experience by providing significantly greater data speed and throughput in the switch that converts data bits from voltage modulations in the copper used in radios to light modulations that are used in fiber, and vice versa, but will also form the technological basis for the future of chip-to-chip light computing. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Enhance Sales Growth. We intend to generate additional growth opportunities by: 
+--+-------------------------------------------------------------------------------------
+
+
+● | Growing our customer base and geographic markets. We intend to drive new customer growth by expanding our direct sales force focused on the mobile infrastructure markets. The initial focus of our direct sales program will be North America, with foreign sales coming through licensed channel partners and advisory personnel. In addition, we expect to leverage our existing base of resellers and more than 700 legacy customers to help proliferate the knowledge globally of our technical superiorities and increase our customer base. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Increasing penetration within existing customers. We plan to continue to increase our product penetration within our existing customer base by expanding the breadth of our product and service offerings to provide for continued cross-selling opportunities. For example, while we believe DragonWave is well known for its microwave backhaul radio products, we have recently added additional millimeter wave frequency designs that can be offered to existing customers, as well as new customers. Further, the Fastback IBR radio products have seen a strong increase in customer demand over other lines and we plan to continue to feed that demand over the coming year. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Focus on Innovation to Solve Critical Problems. We plan to build on our legacy of innovation and on our portfolio of patents and patent applications by continuing to invest in research and development. We expect to focus on expanding the functionality of our backhaul and access equipment products, while investing in capabilities that address new market opportunities. We believe this strategy will enable new high-growth opportunities and allow us to continue to deliver differentiated high-value products and services to our customers. We also intend to utilize our deep industry expertise to offer unique perspectives to solve customers’ challenges. We intend to focus our investment on high-growth markets. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Become a Preferred Partner to our Customers. We plan to expand our position within the telecom industry by developing and enhancing value-creating partner relationships with our customers, suppliers and distributors, as well as our channel and technology partners. We intend to expand these relationships by innovating, collaborating and selling with our customers. We expect to meet our commitments and maintain our product quality while collaborating with our customers to ensure we are providing solutions to their key network challenges. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Pursue Strategic Relationships. We expect to continue to pursue strategic technology and distribution relationships, alliances and acquisitions that will help us align with the strategic priorities of our customers. We intend to continue to invest in technologies to ensure interoperability across the ecosystems that support our customers’ most critical business processes through our partner programs. We continue to work with current industry partners while exploring a range of new partnerships to expand the products and services we offer. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Grow Revenues and Market Share through Selective Acquisitions. Though not our strategy, we continue to explore the potential acquisition of private companies or technologies that can enhance our earnings and offer complementary products and services or expand our geographic and industry reach. We believe such acquisitions can help us to accelerate our revenue growth, leverage our existing strengths and capture and retain more work in-house as a prime contractor for our customers, thereby contributing to our profitability. We also believe that increased scale will enable us to bid and take on larger contracts. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Increase Operating Margins by Leveraging Operating Efficiencies. We believe that by centralizing administrative functions, consolidating insurance coverage, and eliminating redundancies across our newly acquired businesses, we will be positioned to offer more integrated end-to-end solutions and improve operating margins. We will also seek to reduce our manufacturing costs to increase our margins. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Products
+
+
+
+All our products enhance or directly contribute to the overall telecommunication infrastructure and fall within the following three product groups:
+
+
+
+Micro and Millimeter Microwave Technologies and Products
+
+
+
+We design, manufacture, and sell best-in-class (as defined by power, signal efficiency and range), microwave packet radio equipment for telecommunications and data. Our Harmony-branded line of backhaul radios are data efficient and offer one of the most powerful, longest-range solutions for backhaul in the industry. The Fastback Intelligent Backhaul Radio (“IBR”) offers a unique and patented “point-to-any-point” microwave backhaul solution that solves critical issues across both private and public networks. Our line of radio models have the following characteristics:
+
+● | Harmony MC: Our Harmony MC radios are high-capacity packet microwave radios that build upon the Harmony Enhanced family of radios by delivering a multi-carrier channel system and doubling the capacity available in a single microwave outdoor unit. Because the radio and modem are integrated into a single highly compact outdoor unit, Harmony EnhancedMC is a zero-footprint solution that eliminates rack congestion and minimizes colocation space. The ultra-high power increases the overall system gain and allows for deployment of smaller dishes, higher order modulations or increased link availability. Our Harmony MC radios also achieve the highest degree of spectral efficiency (with 4096 QAM capability, 112-megahertz (MHz) channel support, and leading system gain) in the marketplace, delivering more capacity per channel with a longer reach than any other all-outdoor microwave system. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Fastback IBR: The Fastback IBR fuses advanced radio frequency and software-defined radio technologies; sophisticated switching and LTE silicon, proprietary architecture, signal processing and antenna array design — all in a single device. The result is an intelligent, versatile, and easily installed radio device that delivers multiple “firsts” in backhaul operation. The IBR is packed with advances, including highest speed with lowest latency, breakthroughs in transmission to ease set-up and mitigate interference, on-board power to simplify install, and a compact design that guarantees deployment in any location or environment. These innovations address customers’ real-world challenges of network densification, both technically and economically. From macrocell upgrades in line of site (“LOS”) and non-line of site (“nLOS”) conditions, to new connectivity across fully-obstructed NLOS environments, the IBR has proven its ability to delivery carrier grade reliability. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+Engineering efforts are underway now with two additional enhancements — full-duplex and transpositional modulation waveforms that will be programmed to significantly enhance the spectral efficiency of our microwave radios, and, we believe, will far exceed our competitor’s offerings. These enhancements have the following characteristics:
+
+
+
+
+● | In-Band Full-Duplex Technology: During 2022, we expect to demonstrate our first microwave products incorporating our proprietary in-band full-duplex technology that was innovated by our Lextrum subsidiary. This technology, which is useful in almost any wireless communication system, functions by essentially doubling the data throughput on existing antennae by sending and receiving simultaneously on the same frequency. This capability is critical in backhaul networks (tower-to-tower applications) and is a fundamental component of 5G wireless technology if it is to operate most efficiently. Following commercial rollout of this technology in our own products, Lextrum expects to begin licensing its technology for use to other radio designers and manufacturers, which we believe will generate license and royalty fee revenues commencing in late 2022. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Transpositional Modulation Technology: In the late 2022, we also expect to demonstrate our first microwave products incorporating the transpositional modulation (TM) technology. This technology dramatically increases the capacity of an existing network through unique patented engineering and algorithm solutions while not requiring a new standard for integration. Its performance has been shown to increase waveform speed and capacity, and it can be used simultaneously and transparently with existing telecom waveforms with no appreciable interference with any co-existing modulation type. TM technology is the only known form of modulation that allows a single carrier to transmit two or more independent signals simultaneously in the same wave without destroying the integrity of the individual bit streams, thereby enabling transmission of significantly more data than existing modulations. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tethered Drones and Aerostats
+
+
+
+Through our Drone Aviation and SKS subsidiaries, we design, develop, market, sell and provide logistical services for specialized tethered aerial monitoring and communications platforms serving national defense, security, and commercial customers for use in applications including ISR and communications. Through Drone Aviation, we focus primarily on the development of a tethered aerostat known as the WASP, which is principally designed for military and security applications where it provides secure and reliable aerial monitoring for extended durations while being tethered to the ground via a high strength armored tether. Through SKS, we offer our HoverMast line of quadrotor-tethered drones that feature uninterruptible ground-based power, fiber optic communications for cyber immunity, and the ability to operate in GPS-denied environments while delivering dramatically improved situational awareness and communications capabilities to users. HoverMast is utilized by the Israeli government for border patrol and coastal applications and is also deployed in several international markets.
+
+
+
+
+
+
+
+
+
+
+
+Our core aerostat products are designed to provide real-time, semi-persistent situational awareness to various military and national security customers such as the U.S. Department of Defense and units of the U.S. Department of Homeland Security, such as the U.S. Customs and Border Protection, to improve security at the nation’s ports and borders. The WASP tethered aerostat system provides customers with tactical, highly-mobile and cost-effective aerial monitoring and communications capabilities in remote or austere locations where existing infrastructure is lacking or not accessible. Current WASP products include the WASP tactical aerostat and WASP Lite, a rapidly-deployable, compact aerostat system. WASP aerostats are either self-contained on a trailer that can be towed by a military all-terrain vehicle (MATV) or a mine-resistant ambush-protected vehicle (MRAP) or other standard vehicle, operated from the bed of a pickup truck or UTV or mounted to a building rooftop. They are designed to provide semi-persistent, mobile, real-time day/night high-definition video for ISR, detection of improvised explosive devices, border security and other governmental and civilian uses. The HoverMast 100 model system sold by SKS has been mounted in permanent locations, as well as on mobile platforms such as certain long-bed pickup trucks and marine vessels. With its imbedded fiber optic tether system, the HoverMast offers a myriad of optical sensors, signal collection devices and communication radios and has had a sophisticated mounted airborne radar. We believe our Drone Aviation and SKS products also can also be utilized for disaster response missions by supporting two-way and cellular communications and acting as a repeater or provider of wireless networking.
+
+
+
+Both the WASP and WASP Lite aerostat systems employ a tethered envelope filled with helium gas for lift to carry either a stabilized ISR or communications payload, a portable ground control station and a datalink between the ground station and the envelope. Hovering between 500 and 1,500 feet above the ground, the systems provide surveillance and communications capabilities with relatively low acquisition and operating costs. The systems require an operational crew of a minimum of two people, have relatively simple maintenance procedures, and feature quick retrieval and helium top-off for re-inflation. The HoverMast system can deploy and recover the tethered drone unit at heights ranging from 15 feet to 330 feet in minutes. SKS was idled in June, 2022.
+
+
+
+Our Services
+
+
+
+In addition to our products, we offer maintenance and support services, as well as a selection of other professional services. We utilize a multi-tiered support model to deliver services that leverage the capabilities of our own direct resources, channels partners and other third-party organizations.
+
+
+
+Our professional services are provided primarily by our Silver Bullet subsidiary, which engineers, designs and develops a broad range of next-generation network systems and system components, including:
+
+
+
+
+● | hardware and software design and development, including ISR, embedded designs, high-speed digital and radio frequency (RF), printed circuit board design, field-programmable gate array (FPGA) and application-specific integrated circuit (ASIC) designs; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | large-scale network protocol development and software-defined radio systems; and 
+--+-------------------------------------------------------------------------------------
+
+
+● | wireless communications designs in tactical communication systems, automotive telematics, cellular communication systems, municipal/public networks, security systems, seismic detection, and consumer electronics. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+We believe a broad range of services is essential to the successful customer deployment and ongoing support of our products, and we employ remote technical support engineers, spare parts planning and logistics staff and professional services consultants with proven network experience to provide our services.
+
+
+
+
+
+
+
+
+
+
+
+Customers
+
+
+
+We manufacture and sell our portfolio of telecommunications-related products on a global basis to over 700 legacy customers. Our customers include a large percentage of mobile cellular carriers, large international corporations, governments, and private network users. We believe our diversified customer base provides us an opportunity to leverage our skills, experience and varied product lines across markets and reduces our exposure to a single end market. Additionally, we believe the diversity of our customer base is an important strength of our company.
+
+
+
+We believe there has been a trend on the part of customers to consolidate their lists of qualified suppliers to companies that can meet certain technical, quality, delivery and other standards while maintaining competitive prices. We believe we have positioned our offerings and resources to compete effectively in this environment. As an industry participant in the telecommunications microwave backhaul segment, we have established close working relationships with many of our customers on a global basis. These relationships allow us to better anticipate and respond to the needs of these customer when designing new products and technical solutions. By working with customers in developing new products and technologies, we can identify and act on trends and leverage knowledge about next-generation technology across our portfolio of products. In addition, we have concentrated our efforts on service, procurement and manufacturing improvements designed to increase product quality and performance and lower product lead-time and cost.
+
+
+
+Manufacturing, Suppliers and Vendors
+
+
+
+The manufacturing of our microwave radios and other network communications products is outsourced to principally two third-party contract manufacturers, Benchmark Electronics, Inc. (“Benchmark”) and SMC, LLC (“SMC”), which are well-established contract manufacturers with expertise in the telecom equipment industry. This approach allows us to reduce our costs as we reduce our manufacturing overhead and inventory and allows us to adjust quickly to changing customer demand. SMC provides Printed Circuit Board (“PCB”) component mounting services for our Fastback IBR radio assembly. Benchmark assembles our DragonWave radio products using design specifications, quality assurance programs and standards that we establish, and it procures components and assembles our products based on our demand forecasts. These forecasts represent our estimates of future demand for our products based upon historical trends and analysis from our sales and product management functions as adjusted for overall market conditions.
+
+
+
+The manufacturing agreement we entered with Benchmark does not provide for any minimum purchase commitments and had an initial term of two years, which now automatically renews for one-year terms, unless either party gives written notice to the other party not less than 90 days prior to the last day of the applicable term. Additionally, this agreement may be terminated by either party (i) with advance written notice provided to the other party, subject to certain notice period limitations, or (ii) with written notice, subject to applicable cure periods, if the other party has materially breached its obligations under the agreement. Our SMC agreement provides us with a great deal of flexibility and provisions therein allow us to limit or increase output.
+
+
+
+We believe that these contract manufacturing relationships allow us to operate our business efficiently by focusing our internal efforts on the development of our technologies and products providing us with substantial scale-up capacity. We regularly test quality on-site at Benchmark’s facility and SMC’s facility, and we obtain full quality inspection reports. We also maintain non-disclosure agreements with Benchmark and SMC.
+
+
+
+We and our contract manufacturing partners purchase a wide variety of raw materials for the manufacture of our network communications products, including (i) precious metals such as gold, silver and palladium, (ii) aluminum, steel, copper, titanium and metal alloy products and (iii) plastic materials. We also purchase a wide variety of mechanical and electronic components for the manufacturing of such products. Such raw materials and components are generally available throughout the world and are purchased domestically, when possible, from a variety of suppliers. We are generally not dependent upon any one source for raw materials or components. We do not anticipate substantial difficulties in obtaining raw materials or components necessary to produce our network communications products.
+
+
+
+However, certain materials and equipment for our Drone Aviation and SKS products are custom made for those products and are available only from a limited number of suppliers. Failure of a supplier could cause delays in delivery of the products if another supplier cannot promptly be found or if the quality of such replacement supplier’s components is inferior or unacceptable. For a discussion of certain risks related to raw materials and components, see “Risk Factors” in this report.
+
+
+
+
+
+
+
+
+
+
+
+Competition
+
+
+
+The telecommunications and mobile broadband markets are highly competitive and rapidly evolving. We compete with domestic and international companies, many of which have substantially greater financial and other resources than we do. We encounter substantial competition in most of our markets, although we believe we have few competitors that compete with us in performance capabilities across all our product lines and markets. Our principal competitors in one or more of our product lines or markets include Ericsson, Nokia, Cambium, Ceragon, Aviat and Huawei. We also compete with internally-developed network solutions of certain network equipment manufacturers, including Facebook, Google, AT&T, Verizon and T-Mobile. Finally, we face competition from working groups and associations that are the result of joint developments among certain of the competitors listed above. Consolidation in the telecommunications and mobile broadband industry has increased in recent years, and future consolidation could further intensify the competitive pressures that we face.
+
+
+
+The principal competitive factors upon which we compete include performance, power consumption, rapid innovation, breadth of product line, availability, product reliability, reputation, level of integration and cost, multi-sourcing and selling price. We believe that we compete effectively by offering higher levels of customer value through high speed, high density, low power consumption, broad integration of wireless radio functions, software intelligence for configuration, control and monitoring, cost-efficiency, ease of deployment and collaborative product design. We cannot be certain we will continue to compete effectively.
+
+
+
+We may also face competition from companies that may expand into our industry and introduce additional competitive products. The same standardization that allows for the integration of our products into wireless infrastructure systems carries the side effect of lowing the competitive threshold for new market entrants. Existing and potential customers and strategic partners are also potential competitors. These customers may internally develop or acquire additional competitive products or technologies, selectively or through consolidation of the companies in our industry, which may cause them to reduce or cease their purchases from us.
+
+
+
+Research and Development
+
+
+
+We generally implement our product development strategy through product design teams and collaborative initiatives with customers, which can also result in our company obtaining approved vendor status for our customers’ new products and programs. We focus our research and development efforts primarily on those product areas that we believe have the potential for broad market applications and significant sales within a one–to–three–year period. We seek to have our products become widely accepted within the industry for similar applications and products manufactured by other potential customers, which we believe will provide additional sources of future revenue. By developing application-specific products, we can decrease our exposure to standard products, which are more likely to experience greater pricing pressure.   
+Intellectual Property
+
+
+
+Our success and ability to compete depend substantially upon our core technology and intellectual property rights. We generally rely on patent, trademark and copyright laws, trade secret protection and confidentiality agreements to protect our intellectual property rights. These agreements acknowledge our exclusive ownership of intellectual property developed for us and require that all proprietary information remain confidential.
+
+
+
+
+We maintain a program designed to identify technology that is appropriate for patent and trade secret protection, and we file patent applications in the United States and, when appropriate, certain other countries for inventions that we consider significant. As of June 30, 2022, we had approximately 130 patents granted in the United States and foreign jurisdictions that expire between 2022 and 2040. As of such date, we also had approximately 25 patent applications pending in the United States and foreign jurisdictions. We also continue to acquire patents through acquisitions or direct prosecution efforts and engage in licensing transactions to secure the right to use third parties’ patents. Although our business is not materially dependent upon any one patent, our patent rights and the products made and sold under our patents, taken as a whole, are a significant element of our business.
+
+
+
+
+
+
+
+
+
+
+
+In addition to patents, we also possess other intellectual property, including trademarks, know-how, trade secrets, design rights and copyrights. We control access to and use of our software, technology, and other proprietary information through internal and external controls, including contractual protections with employees, contractors, customers and partners. Our software is protected by U.S. and international copyright, patent, and trade secret laws. Despite our efforts to protect our software, technology and other proprietary information, unauthorized parties may still copy or otherwise obtain and use our software, technology, and other proprietary information. In addition, we have expanded our international operations, and effective patent, copyright, trademark, and trade secret protection may not be available or may be limited in foreign countries.
+
+
+
+Regulation
+
+
+
+As our customers operate around the world and, to a limited degree, we rely upon non-U.S. manufacturers to make our products, our business and ability to successfully compete for business in our industry may become dependent upon global supply, manufacturing and customer relationships that are affected by the trade and tariff policies of each country in which we operate. Increased tariffs on parts and components imposed by the countries in which our product components may be sourced can increase our production costs, and increased tariffs imposed by the countries in which our products are sold can increase the cost of our products to our customers.
+
+
+
+Certain of our products and services are subject to export controls, including the Export Administration Regulations of the U.S. Department of Commerce and economic and trade sanctions regulations administered by the Office of Foreign Assets Controls of the U.S. Treasury Department, and similar laws and regulations that apply in other jurisdictions in which we distribute or sell our products and services. Export control and economic sanctions laws and regulations include restrictions and prohibitions on the sale or supply of certain products and services and on the transfer of parts, components and related technical information and know-how to certain countries, regions, governments, persons, and entities. U.S. regulators may also impose new restrictions on previously non-controlled emerging or foundational items and technologies for which exports to countries such as China are deemed to present undesirable national security risks. Even without such legislative or regulatory action, we would be prohibited from exporting our products to any foreign recipient if we have knowledge that a violation of U.S. export regulations has occurred, is about to occur or is intended to occur in connection with the item. Different countries may implement their own export control regulatory systems, which can affect the flow of parts, components, finished products and related technologies throughout the supply chain to and from suppliers, manufacturers, distributors, and customers.
+
+
+
+In addition, various countries regulate imports of certain products through permitting, licensing and transaction review procedures, and may enact laws that could limit our ability to produce or distribute our products or the ability of our customers to produce or distribute products into which our products are incorporated. The exportation, re-exportation, transfers within foreign countries and importation of our products and the parts, components, and technologies necessary to manufacture our products, including by our partners, must comply with these laws and regulations. Among these regulations are rules in the United States and other countries that prohibit companies such as Huawei from supplying products and services for national telecommunications networks. The U.S. government is developing regulatory mechanisms through which it may block imports into the United States of certain information and communications products and services designed, developed, manufactured or supplied by entities owned by, controlled by or subject to the jurisdiction or direction of a foreign adversary where the transaction presents an undue risk to U.S. information and communications technology or services, critical infrastructure or the digital economy of the United States, or other unacceptable risks to the national security of the United States or the security and safety of United States persons. U.S. government procurement supply chain risk management regulations prohibit U.S. government agencies from directly or indirectly contracting to obtain certain telecommunications and video surveillance equipment, systems or services produced or performed by certain designated Chinese companies, and this prohibition is expected to be extended to prohibit U.S. government agencies from contracting with entities that use such equipment, systems or services, and to prohibit the use of U.S. government grant or loan proceeds to acquire such equipment, systems or services.
+
+
+
+
+
+
+
+
+
+
+We are also subject to various domestic and international anti-corruption laws, such as the U.S. Foreign Corrupt Practices Act and similar anti-bribery and anti-kickback laws and regulations in other places where we do business. These laws and regulations generally prohibit companies and their intermediaries from offering or making improper payments to governmental, political, and certain international organization officials for the purpose of obtaining, retaining or directing business. Our exposure for violating these laws and regulations increases as our international presence expands and as we increase sales and operations in foreign jurisdictions.
+
+
+
+In addition, we are subject to, or are expected to facilitate our customers’ compliance with, environmental, health and safety laws and regulations in each of the jurisdictions in which we operate or sell our products. These laws and regulations govern, among other things, the handling and disposal of hazardous substances and wastes, employee health and safety and the use of hazardous materials in, and the recycling of, our products.
+
+
+
+Employees
+
+
+
+As of December 31, 2021, we employed 144 full-time employees, consisting of 6 employees in research and development, 55 employees in operations, which includes manufacturing, supply chain, quality control and assurance, and 83 employees in executive, sales, general and administrative positions. At such date, we had six part-time employees, consisting of one employee in research and development, four employees in operations, and one employee in executive, sales, general and administrative. As of June 30, 2022, we were down to only 44 employees. As a result in this reduction of workforce, the Company may face claims from terminated employees. We have never had a work stoppage, and none of our employees is represented by a labor organization or under any collective bargaining arrangements. In general, we consider our employee relations to be good. All employees are subject to contractual agreements that specify requirements on confidentiality and restrictions on working for competitors, as well as other standard matters.

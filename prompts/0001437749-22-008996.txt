@@ -1,0 +1,226 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+ 
+Imageware Systems, Inc., a Delaware corporation, has its principal place of business at 11440 West Bernardo Court, Suite 300, San Diego, California 92127. We maintain a corporate website at www.imageware.io. Our common stock, par value $0.01 per share (“Common Stock”), is currently listed for quotation on the OTCQB marketplace under the symbol “IWSY”. As used in this Annual Report, “we”, “us”, “our”, “Imageware”, “Imageware Systems” or the “Company” refers to Imageware Systems, Inc. and all of its subsidiaries.
+ 
+Overview
+ 
+Imageware Systems, Inc. (“Imageware,” the “Company,” “we,” “our”) provides biometric solutions to identify, verify, and authenticate people based on their true identity, rather than on what keys and codes they have. A pioneer in the field, Imageware was the first multimodal biometric solution provider in history and holds dozens of patents, including some of the most cited patents in the industry. Our Cloud-based and on-premises solutions provide faster, more accurate identification to better secure communities, data, and assets. In fact, governments, law enforcement agencies, and public and private enterprises worldwide trust Imageware with critical identity solutions which manage millions of identities every day.
+Recent Developments
+ 
+December 2021 Credit Facility 
+ 
+On December 29, 2021 (the “Closing Date”), the Company entered into a Term Loan and Security Agreement (the “Agreement”) with certain funds and separate accounts managed by Nantahala Capital Management, LLC (collectively, “Nantahala”), as lenders, and other lenders set forth on the signature pages thereto (together with Nantahala, the “Lenders”), pursuant to which the Lenders will provide to the Company a secured term loan credit facility in an aggregate amount of up to $2,500,000 (the “Credit Facility”).  All loans (each a “Loan", and collectively, the “Loans”) under the Credit Facility will bear interest at a rate of 12% for the initial six months after the Closing Date, and at 17% thereafter until the maturity date of 12 months from the Closing Date (the “Maturity Date”).  All amounts borrowed by the Company under the Credit Facility are secured by a first-priority lien on all the assets of the Company.  On the Closing Date, the Company received an initial draw-down on the Credit Facility of $600,000. As of April 12, 2022, the Company received two subsequent draw-downs aggregating $1,050,000. The Company expects to use the proceeds from the Credit Facility for working capital requirements and corporate purposes.
+ 
+The Company may prepay amounts borrowed under the Credit Facility in whole or in part, at a price equal to 105% of the principal amount borrowed under the Credit Facility (including any interest capitalized thereon), subject to additional prepayment terms pursuant to the Agreement, a copy of which is filed as an Exhibit to the Company’s Current Report on Form 8-K, filed with the Securities and Exchange Commission (the “SEC”) on January 4, 2022. In addition, pursuant to the Agreement, at any time after the Closing Date, each Lender shall have the right, but not the obligation, on mutually agreed upon terms, to exchange each such Lender’s pro rata portion of shares of the Company’s Series D Convertible Preferred Stock, par value $0.01 (“Series D Preferred”) held by such Lender for a mutually agreed upon portion of any subsequent Delayed Draw Loan (as defined in the Agreement) (an “Exchange”). Upon the Company's receipt by a Lender of a notice stating a Lender's intent to participate in an Exchange, the Company is required to offer to all holders of Series D Preferred the opportunity, but not the obligation, to exchange each such holder’s pro rata portion of shares of the Company's Series D Preferred held by such holder for participation in any subsequent Delayed Draw Loan, upon substantially similar terms as those provided in the applicable notice of Exchange by a Lender.
+ 
+Strategic Review and Going Concern
+ 
+On August 12, 2021, the Company retained an investment bank to initiate a review of available alternatives to maximize shareholder value, which may include, among other alternatives, (i) a merger, consolidation, or other business combination or a purchase involving all or a substantial amount of the business, securities or assets of the Company, and/or  (ii) the private placement of securities to meet its working capital requirements or otherwise as necessary in connection with the consummation of any of the above transactions.  To date, the Company has not received any offers or other indications of interest on terms and conditions acceptable to the Board of Directors (“Board”), nor has the Board received any committed financing arrangements to support our projected cash shortfall to address our projected working capital requirements during the next twelve months, including commitments to purchase additional debt and/or equity securities, or other agreements, and no assurances can be given that we will be successful in raising additional capital through the issuance of debt and/or equity securities, or entering into any other transaction that addresses our ability to continue as a going concern.   The consummation of a transaction will likely involve substantial dilution to the Company’s stockholders and may result in the loss of your entire investment. In the event the Company is unable to consummate one or more transactions in the near term, the Company will not be able to continue as a going concern.
+ 
+
+  -1- 
+
+  
+
+New Products 
+ 
+In February 2021, we released a new and improved Imageware Authenticate (formerly, GoVerifyID) solution, enabling users to leverage multimodal biometrics on a central server or in the Cloud to log into applications and services.
+ 
+In October 2021, we completed Imageware Capture, the first module of the new Law Enforcement 2.0 solution. Imageware Capture facilitates the fastest capture of biographic and biometric detail such as face, fingerprint, palm print, iris, and Scars, Marks and Tattoos (“SMTs”) in the industry.
+ 
+In December 2021, we completed Imageware Investigate, the second module of the new Law Enforcement 2.0 solution. Imageware Investigate enables law enforcement professionals to rapidly create digital lineups.
+ 
+Coronavirus (COVID-19) Pandemic
+ 
+On March 11, 2020, the World Health Organization declared the novel strain of coronavirus (“COVID-19”) a global pandemic and recommended containment and mitigation measures worldwide. As of April 12, 2022, the global outbreak of COVID-19 continues to evolve, and the extent to which COVID-19 may impact our business and markets we serve will depend on future developments, which are highly uncertain and cannot be predicted with confidence, such as the continued duration of the outbreak, travel restrictions and social distancing in the United States and other countries, business closures or business disruptions, and the effectiveness of actions taken both in the United States and other countries. We are continuing to vigilantly monitor the situation with our primary focus on health and safety of our employees and clients.
+Products and Solutions
+ 
+Our patented Imageware Biometric Engine® is one of the most accurate and fastest biometrics matching engines in the industry, capable of our patented biometrics fusion. We are a “biometrics first” company, leveraging unique human characteristics to provide unparalleled accuracy for identification while protecting your identity. 
+ 
+Our product portfolio, called the Imageware Identity Platform, is built around three key areas: Enroll & Identify, Badge & Credential, and Authenticate. All of these areas are built on top of the Imageware Biometric Engine. The Platform is a fully-modular, customizable, and pre-integrated portfolio of capabilities to support state and local law enforcement, Federal agencies, and enterprises alike.
+ 
+Enroll & Identify
+ 
+The Enroll & Identify area includes four key modules: Imageware Proof, Imageware Capture, Imageware Identify, and Imageware Investigate.
+ 
+Imageware Proof enables an entity to prove someone’s identity from their biometrics, government issued ID, and 3rd party databases (such as credit bureau data). Imageware Capture enables the fastest capture of biographic and biometric detail (such as face, fingerprint, palm print, iris, and SMT’s) in the industry. Imageware Identify enables a user to identify someone from their biometrics in seconds. Imageware Investigate enables an officer to create digital lineups very quickly.
+Badge & Credential
+ 
+The Badge & Credential area includes two key modules: Imageware Credential (formerly EPI Suite) and Imageware Digital ID. Imageware Credential enables a user to design, build, and print badges for access control systems. This includes tickets, smart badges, wristbands, Personal Identity Verification (“PIV”) cards, and more. Imageware Digital ID is a decentralized identity service that enables self-sovereign identity underpinned by blockchain technology tied to biometrics.
+ 
+Authenticate
+ 
+The Authenticate area includes Imageware Authenticate, which enables users to leverage multimodal biometrics hosted in a central server or cloud to log in to services and applications from any device. Imageware Authenticate is easily integrated into existing solutions leveraging OpenID Connect (“OIDC”), Security Assertion Mark-up Language (“SAML”), or OAuth2 protocols, and includes a software development kit (“SDK”) for partners and customers to easily embed into their existing applications.
+ 
+  -2- 
+
+  
+
+Imageware Biometric Engine
+ 
+The Imageware Biometric Engine® is a patented biometric identity and authentication database built for multi-biometric enrollment, management and authentication. It is hardware agnostic and can utilize different types of biometric algorithms from any vendor. It allows different types of biometrics to be operated at the same time on a seamlessly integrated platform. It is also offered as an SDK, enabling developers and system integrators to implement biometric solutions or integrate biometric capabilities, into existing applications.
+Imageware Law Enforcement
+ 
+Our modules are leveraged across many industries and use cases with minimal customization needed. One of the key areas includes our Law Enforcement 2.0 solution which enables state, local and federal agencies to quickly capture, archive, search, retrieve, and share digital images, fingerprints and other biometrics, as well as criminal history records on a stand-alone, networked, wireless or browser-based platform. Our Imageware Law Enforcement 2.0 solution includes Imageware Capture, Imageware Identify, Imageware Investigate, Imageware Credential, and Imageware Authenticate. Other modules can also be easily leveraged as needed.
+Maintenance and Customer Support
+ 
+Maintenance and support enrollment entitles software license customers to technical support services, including telephone and email support, problem resolution services, and the right to receive unspecified product upgrades, maintenance releases and patches released during the term of the support period. Maintenance and support service fees are an important source of recurring revenue, and we invest continuing resources into providing maintenance and support services.
+Customers
+ 
+We have a wide variety of domestic and international customers. Most of our Law Enforcement 2.0 customers are government agencies at the federal, state and local levels in the United States and Canada, but we also have clients outside of North America. For the year ended December 31, 2021, three customers accounted for approximately 51% or $1,787,000 of total revenue and had trade receivables of approximately $172,000 as of the end of the year.  For the year ended December 31, 2020, two customers accounted for approximately 61% or $2,921,000 of total revenue and had trade receivables of approximately $250,000 as of the end of the year.
+Our Strategy
+ 
+Our strategy is to be a “biometric first” cybersecurity company bringing the highest level of security to systems, data and places by identifying and authenticating people through biometrics. We sell to governments, law enforcement and public safety, as well as enterprises, through key partners and large systems integrators and with our own direct sales team.
+ 
+With recent COVID-19 events, remote work and social distancing have quickly been brought to the forefront of society. And while the impact of these events will be seen in the coming years, many problems have been immediately realized by corporations and government agencies, who are diligently looking for solutions to operate in a new business environment.
+ 
+Within a matter of weeks, corporations and government agencies have had to heavily rely upon remote access technologies to enable work continuity through the pandemic. This increase in employees remotely accessing sensitive corporate systems has increased the risk of both cybercrime and unintentional information leaks. This risk is also increased by the fact that many employees now use a mixture of personal and corporate owned devices on the job, a trend known as, Bring Your Own Device (“BYOD”).
+ 
+  -3- 
+
+  
+
+Verification of an individual through biometrics is an effective way to authenticate users accessing sensitive information and systems. Imageware Authenticate provides this functionality and is already integrated in many of the authentication systems leveraged by large companies and agencies to manage the identities of their employees and users. We will market and sell Imageware Authenticate as a solution for protecting corporate data to the most relevant business verticals during this time of increased susceptibility to broad cyberattacks, such as malware, viruses, trojans, ransomware infections and phishing attacks.
+ 
+Additionally, social distancing and the need to limit personal contact throughout everyday life is driving governments and corporations to deploy new ways to continue work and commerce while minimizing contact points between individuals. We believe this trend will increase the acceptance and use of biometrics as a means of contactless and touchless authentication for health, retail, finance/banking, government services, higher education and transportation.
+ 
+Scaling out biometrics across these verticals is going to require new methods and solutions to support the increased number of users and transactions. With our decades of experience innovating and scaling government grade biometric solutions and our years executed strategy of creating multimodal, vendor agnostic solutions, Imageware has had a rich portfolio of products and solutions to address these new challenges brought on by the pandemic. 
+ 
+Additionally, the law enforcement community continues to be an important market and customer base. Over the past few years, innovation within our law enforcement product line has been static, which has resulted in revenue being primarily driven from support and maintenance. Recently, Imageware released the Law Enforcement 2.0 solution, with the first two modules, Imageware Capture and Imageware Investigate, launched in October 2021 and December 2021, respectively. The law enforcement market will immediately benefit from this solution. Beyond the law enforcement vertical, the modules in the Law Enforcement 2.0 solution can be leveraged to service other verticals such as financial services, telecommunications, education,, hospitality and entertainment.
+ 
+We believe the increasing demand for biometric technology will drive demand for our solutions. In the coming year, we will work to develop additional modules within the Imageware Identity Platform. This platform combines all of our products into a modular, end-to-end, Cloud-based platform. Our platform allows a customer to create and manage a verified digital identity, issue both physical and digital credentials, and leverage biometrics for both identification and authentication. We have built out a multi-year strategic roadmap for additional modules to include into the Imageware Identity Platform and open additional use cases, industries, and high value sales for the Company.
+ 
+Sales and Marketing
+ 
+We market and sell our products in most major world markets directly through our sales force and indirectly through channel partners, including resellers, distributors and systems integrators. Our sales force includes both field, and inside sales, which provides us a lower-cost channel for additional sales into existing customers and for expanding our customer base.
+International Operations
+ 
+We are a global company. We are headquartered in San Diego, California with a remote office in Ottawa, Canada. Our main business operations are based in San Diego, California. We regularly seek out opportunities to efficiently expand our operations in international locations that offer highly talented resources as a way to maximize our global competitiveness.
+Software Licenses
+ 
+The bulk of our revenue presently is generated from new subscription and historical maintenance payments for our software solutions for Law Enforcement, Badging, Identity Management, and Multi-Factor Authentication (“MFA”). We currently have four primary revenue sources:
+ 
+- Annual Maintenance of our Law Enforcement Solution;
+ 
+- Perpetual license revenue of our Badging Solution;
+ 
+- Term Subscriptions of our Imageware Authenticate solution; and 
+ 
+- Professional Services fees associated with implementation and training for our customers.
+ 
+We are actively engaged in simplifying our revenue sources, migrating our existing customers’ annual maintenance, and perpetual license agreements to more consistent and sustainable subscription models.
+ 
+  -4- 
+
+  
+
+Software as a Service Business Model
+ 
+We also provide an on-demand SaaS offering for Imageware Authenticate and all solutions in the Law Enforcement 2.0 solution. SaaS offerings will be offered on a subscription term-limited basis. We are exploring offering additional products as SaaS offerings on a subscription term-limited basis.
+Competition
+ 
+Biometric Market
+ 
+The market to provide biometric systems to the identity management market is evolving and we face competition from a number of sources. We believe that the strength of our competitive position is based on:
+
+● | Our ability to provide a system which enables the enrollment, management and authentication of multiple biometrics managing population databases of unlimited sizes;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Searches can be 1:1 (verification), 1:N (identification), and N:N (database integrity); and
+--+--------------------------------------------------------------------------------------------
+
+
+● | The system is technology and biometric agnostic, enabling the use of biometric devices and algorithms from any vendor, and the support of the following biometric types: finger, face, iris, palm and voice.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Our multifactor-biometric product faces competition from Duo, HYPR, Daon and Aware Inc., none of which have offerings with the scope and flexibility of our Biometric Engine and its companion suite of products or relevant patent protection. 
+ 
+Credential Market
+ 
+Due to the breadth of our software offering in the secure credential market space, we face differing degrees of competition in certain market segments. The strength of our competitive position is based upon:
+
+● | Our strong brand reputation with a customer base, which includes small and medium-sized businesses, Fortune 1000 corporations and large government agencies;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The ease of integrating our technology into other complex applications;
+--+------------------------------------------------------------------------
+
+
+● | The leveraged strength that comes from offering customers software tools, packaged solutions and web-based service applications that support a wide range of hardware peripherals; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The ease of hacking traditional NFC access control systems.
+--+------------------------------------------------------------
+
+ 
+Our software faces competition from a number of companies, like HID Global, ASSA ABLOY, Gemalto, as well as small, regionally based companies.
+ 
+The Law Enforcement and Public Safety Markets
+ 
+Due to the fragmented nature of the law enforcement and public safety market and the modular nature of our product suite, we face different degrees of competition with respect to each Law Enforcement module. We believe the principal bases on which we compete with respect to all of our products are:
+
+● | The unique ability to integrate our modular products into a complete biometric, LiveScan, imaging and investigative system;
+--+----------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our reputation as a reliable systems supplier;
+--+-----------------------------------------------
+
+
+● | The usability and functionality of our products;
+--+-------------------------------------------------
+
+
+● | The responsiveness, availability and reliability of our customer support; and
+--+------------------------------------------------------------------------------
+
+
+● | Hardware agnostic across many biometric vendors.
+--+-------------------------------------------------
+
+ 
+  -5- 
+
+  
+
+Our law enforcement product line faces competition from other companies such as DataWorks Plus, Idemia, Gemalto and NEC. Internationally, there are often a number of local companies offering solutions in most countries.
+ 
+Intellectual Property
+ 
+We rely on trademark, patent, trade secret and copyright laws and confidentiality and license agreements to protect our intellectual property. We have several federally registered trademarks, including the trademark Imageware and Biometric Engine, as well as trademarks for which there are pending trademark registrations with the United States, Canadian and other International Patent & Trademark Offices.
+ 
+We hold several issued patents and have several other patent applications pending for elements of our products. We believe we have the foundational patents regarding the use of multiple biometrics and continue to be an IP leader in the biometric arena. It is our belief that this intellectual property leadership will create a sustainable competitive advantage.
+ 
+We are an early pioneer of patents related to multi-modal biometrics and currently are a worldwide leader in multi-modal biometric patents, with 27 issued patents worldwide and 14 pending or allowed patent applications worldwide as well. The Company’s patents are as follows:
+ 
+US Issued Patents – 17
+ US Allowed Patents – 1
+ US Patent Applications – 3
+ 
+International Issued Patents – 10
+ International Patent Applications – 10
+ 
+Total Worldwide Issued Patents – 27
+ Total Worldwide Allowed Patents – 1
+ Total Worldwide Patent Applications – 14
+ 
+Employees
+ 
+We had a total of 26 full-time employees as of December 31, 2021, of which 22 employees are based in the United States and four employees are based in Canada. Our employees are not covered by any collective bargaining agreement, and we have never experienced a work stoppage. We believe that our relations with our employees are good.
+Environmental Regulation
+ 
+Our business does not require us to comply with any particular environmental regulations.
+ 
+Additional Available Information
+ 
+We make available, free of charge, at our corporate website www.imageware.io copies of our annual reports filed with the SEC on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy statements, and all amendments to these reports, as soon as reasonably practicable after such material is electronically filed with or furnished to the SEC pursuant to Section 13(a) or 15(d) of the Exchange Act. We also provide copies of our Forms 8-K, 10-K, 10-Q, and proxy statements at no charge to investors upon request. Additionally, all reports filed by us with the SEC are available free of charge via EDGAR through the SEC website at www.sec.gov.
+ 

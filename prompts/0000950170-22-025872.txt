@@ -1,0 +1,1088 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+OUR COMPANY
+ 
+We are a leading, global manufacturer of capital equipment, including thermal processing and wafer polishing, and related consumables used in fabricating semiconductor devices, such as silicon carbide (SiC) and silicon power devices, analog and discrete devices, electronic assemblies, and light-emitting diodes (LEDs). We sell these products to semiconductor device and module manufacturers worldwide, particularly in Asia, North America and Europe. Our strategic focus is on semiconductor growth opportunities in power electronics, sensors and analog devices leveraging our strength in our core competencies in thermal and substrate processing. We are a market leader in the high-end power chip market (SiC substrates, 300mm horizontal thermal reactors, and electronic assemblies used in power, RF, and other advanced applications), developing, and supplying essential equipment and consumables used in the semiconductor industry.
+ 
+We categorize each of our subsidiaries into one of two reportable segments, based primarily on the industries they serve:
+ 
+
+Reportable Segment | % of 2022Consolidated NetRevenue | 
+Semiconductor | | 83 | %
+Material and Substrate | | 17 | %
+
+ 
+These reportable segments are comprised of the following four wholly-owned subsidiaries:
+ 
+Semiconductor:
+ 
+•Bruce Technologies, a Massachusetts corporation based in North Billerica, Massachusetts, acquired in July 2004; and
+ •BTU, a Delaware corporation based in North Billerica, Massachusetts, with operations in China, Malaysia and the UK, acquired in January 2015. 
+ 
+Material and Substrate:
+ 
+•PR Hoffman, an Arizona corporation based in Carlisle, Pennsylvania, acquired in July 1997; and
+ •Intersurface Dynamics, a Connecticut corporation based in Bethel, Connecticut, acquired in March 2021.
+ 
+Our strategic focus in the semiconductor industry is the development of equipment for thermal processing and deposition for semiconductor manufacturing, specifically focusing on substrate, fabrication, packaging and surface-mount technology (“SMT”). The markets we serve are experiencing technological advances and are, historically, cyclical. Therefore, future profitability and growth depend on our ability to invest in, develop and/or acquire and market new technology products and on our ability to adapt to cyclical trends.
+ 
+Integrated circuits, optoelectronic, sensor, and discrete (O-S-D) components, such as power chips, LEDs, and some MEMS, are semiconductor devices fabricated on silicon and compound semiconductor wafer substrates, such as silicon carbide. Semiconductor chips are part of the circuitry of many products including inverters, onboard charging, computers, telecommunications devices, automotive electronics and sensors, consumer electronics, and industrial automation and control systems. LEDs manufactured using our equipment are used in industrial, commercial and residential lighting. Our thermal processing and consumable products currently address the diffusion and deposition steps used in the fabrication of semiconductors, LEDs, MEMS and the polishing of newly sliced silicon and compound semiconductor wafers, as well as the packaging and assembly of the electronic components and assemblies. Our reflow ovens provide key thermal processing steps for both semiconductor packaging and electronics assembly. Key
+
+end-markets for these packages and assemblies include: electric vehicles and charging infrastructure, renewable energy, communications, automotive electronics and sensors, computing and networking, and consumer and industrial electronics.
+ 
+Our Material and Substrate segment provides solutions to the lapping and polishing marketplace for SiC power chip applications, LED, optics, ceramics and photonics. Lapping and polishing are the processes of abrading components with a high degree of precision for flatness, parallelism, and surface finish. Common applications for this technology are silicon wafers for semiconductor products, compound substrates, like silicon carbide wafers, for LED and power device applications, sapphire substrates for LED lighting and mobile devices, various glass and silica components for 3D image transmission, quartz and ceramic components for telecommunications devices, medical device components and optical and photonics applications.
+ 
+We believe our product portfolio, developed through a track record of technological innovation as well as the successful integration of key acquisitions, provides exceptional value to semiconductor manufacturing by increasing yields, efficiency and throughput. We have been providing manufacturing solutions to the semiconductor industry for over 30 years and have leveraged our semiconductor technology and industry presence to capitalize on growth opportunities. Our customers use our equipment to manufacture semiconductor chips, silicon and compound semiconductor wafers and MEMS, which are used in end markets such as telecommunications (5G), consumer and industrial electronics (IoT and embedded devices), computing (data centers), automotive electronics and sensors (xEV), and mobile devices (smart devices). To complement our research and development efforts, we also sell our equipment to, and coordinate certain development efforts with, research institutes, universities and customers.
+ 
+The semiconductor industry is cyclical and historically has experienced significant fluctuations. Our revenue is impacted by these broad industry trends.
+ 
+In March 2020, the outbreak of COVID-19 was recognized as a pandemic by the World Health Organization, and the outbreak became increasingly widespread, including in all of the markets in which we operate. We continue to monitor the impact of COVID-19 on all aspects of our business. We are a company operating in a critical infrastructure industry, as defined by the U.S. Department of Homeland Security. Consistent with federal guidelines and with foreign government, state and local orders to date, we have continued to operate across our footprint throughout the COVID-19 pandemic. Following the onset of COVID-19 and its negative effects on our business, most prominently reflected in our second, third and fourth quarter fiscal 2020 results, global economic conditions improved during fiscal 2021, resulting in increased demand for our products and services, which led to our earnings for fiscal 2021 substantially exceeding our fiscal 2020 results. There remain many unknowns and we continue to monitor the expected trends and related demand for our products and services and have and will continue to adjust our operations accordingly.
+   On March 28, 2022, the Chinese government issued a mandatory shutdown in Shanghai, the location of one of our manufacturing facilities. The factory was allowed to partially reopen in May 2022 and was fully reopened on June 1, 2022. Upon reopening on June 1, 2022, the factory was able to operate at near full capacity for the entire month of June. We were able to make up the shipments missed in the fourth quarter and are now operating at normal capacity levels. Additionally, given the uncertainty surrounding the COVID-19 pandemic and the emergence of variations thereof, there can be no assurance that our Shanghai facility will be allowed to remain open on a consistent basis.
+ 
+For information regarding net revenue, operating income and identifiable assets attributable to each of our two reportable segments, see Note 18 of the Notes to Consolidated Financial Statements included in “Item 8. Financial Statements and Supplementary Data” and “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” in this Annual Report. For information on the products of each reportable segment, see “Semiconductor Products” and “Material and Substrate Products” within this “Item 1. Business” section. For information regarding risks to our business, see “Item 1A. Risk Factors.”
+ 
+Our fiscal year is from October 1 to September 30. Unless otherwise stated, references to the years 2022, 2021 and 2020 relate to the fiscal years ended September 30, 2022, 2021 and 2020, respectively.
+ 
+
+ACQUISITION
+ 
+On March 3, 2021, we acquired 100% of the issued and outstanding capital stock of Intersurface Dynamics, a Connecticut-based manufacturer of substrate process chemicals used in various manufacturing processes, including semiconductors, silicon and compound semiconductor wafers, and optics, for a cash purchase price of $5.3 million. Intersurface Dynamics’ results of operations are included in our Material and Substrate segment from the date of acquisition.
+GROWTH AND INVESTMENT STRATEGY
+ 
+We continue to invest in research and development and have introduced new products in fiscal 2022, with additional new products expected in fiscal 2023, to expand our offerings and addressable market. As we move past the pandemic interruptions, we have a renewed objective to grow our revenue and expand our operations through organic growth, while at the same time pursuing strategic acquisitions. Historically, we have grown our business primarily through acquisitions, including the businesses that currently comprise our two reportable segments in the Semiconductor and Material and Substrate industries: Bruce Technologies, BTU, PR Hoffman and Intersurface Dynamics. The businesses we own and operate today have provided substantial returns on our original investments. Our acquisition of BTU demonstrates our ability to unlock value in a company, to grow revenue and improve the performance of acquired assets. Our 2021 acquisition of Intersurface Dynamics bolstered our offerings in the substrate consumables space and incorporated wafer processing coolants and chemicals to our existing consumable and machine product lines. While we continue to believe this inorganic growth strategy is the backbone of who Amtech is as a company, we also have a complimentary strategy of pursuing organic growth, particularly during times when we lacked sufficient capital resources to pursue growth through acquisitions. We intend to accomplish these parallel objectives through the pursuit of the following strategies:
+ 
+Grow consumables revenue to reduce vulnerability to semiconductor business cycles. The semiconductor industry is highly cyclical, and the conditions of this industry remain volatile. All participants have been subject to these fluctuations in demand, but they can be particularly problematic for equipment suppliers who rely on capacity expansion for many orders. These sharp business cycles not only impact short-term financial results but can also weaken the strength of suppliers as they reduce their organizations to align with the reduced production demand. Our line of consumables products, including templates, carriers, polishing-related chemicals and spare parts, generates continuous revenue streams regardless of capacity expansions as they are used in equipment already in service. In an effort to minimize both the financial shortfalls and organizational harm of these business cycles, we are seeking to increase the consumables portion of our business. Our initial focus is on aggressively growing the consumable business in our Materials and Substrate division, which was approximately 15% of our consolidated revenue in fiscal 2022. In addition, we are working to transform the aftermarket sales business in our Semiconductor division, leveraging the strength of our expansive installed base to increase higher-margin sales of replacement parts and services. Similar efforts will be made at our Material and Substrate segment, though the existing installed base is on a much smaller scale.
+ 
+Increase the portion of our product line portfolio tied to high-growth, megatrend end markets such as EV.  We believe the opportunity for organic growth through strategic alignment to projects tied to megatrends is an opportunity that exists across all our divisions. In the Material and Substrate division, processing of SiC substrates is directly tied to the production of power modules used in electric vehicles and in other green technology applications such as wind and solar power. Our Semiconductor division has multiple intersections with EV production, including the use of our diffusion furnaces and surface-mount technology reflow products to manufacture power semiconductors and our high-temp furnaces used in Direct Bond Copper (DBC) applications used in power modules. In order to increase the portion of our business tied to these high-growth megatrends, we are employing multiple tactics and strategies, including strategic selling and customer-centric product development.
+ 
+Enhance and invest in legacy business operations. Our legacy business is key to funding both organic and inorganic growth opportunities across our divisions. Throughout 2022, we have been re-enforcing Amtech’s core values, purpose and methods across all divisions and locations, including an emphasis on continuous improvement and problem-solving. We have increased cross-divisional sharing of resources and expertise, such as best practices and global sourcing. This strategy has been developed by our CEO and CFO, in conjunction with our Vice President of Operations, Vice President of Sales and Customer Service, Segment Managers and Corporate Director of Strategic
+
+Marketing, to ensure these advancements are implemented uniformly across all Amtech operations. Additionally, we have made capacity investments at several of our locations and expect to make future investments upon the expiration of the two-year leaseback of our Massachusetts facility (see Note 8). We are also evaluating our management information systems and needs in order to allow for greater efficiencies and to ensure our infrastructure can support our future growth plans. During fiscal 2023, we intend to focus on further investments to strengthen and expand our manufacturing capacity, including evaluating back-up and alternative manufacturing sites as well as contract manufacturing, to meet anticipated growth demands from the Silicon Carbide industry segment, and to both increase our efficiency and reduce single-point failure risks to our business.
+ 
+Pursue strategic acquisitions that complement our strong platform. As discussed above, we have historically pursued an acquisition strategy consistent with our focus of maintaining market leadership and technology innovation that addresses the continued growth in the semiconductor industry. As part of this strategy, we continually evaluate potential technology, product and business acquisitions or joint ventures that we believe will increase our existing market share in the semiconductor and SiC industries and expand our addressable market. In evaluating these opportunities, our objectives include enhancing our earnings and cash flows, adding complementary product offerings, expanding our geographic footprint, improving our production efficiency and expanding our customer base. As a result, we continue to manage our balance sheet to maintain adequate liquidity so that we may react quickly as these opportunities arise. During 2021, we completed the acquisition of Intersurface Dynamics, which incorporated numerous coolants and chemical products to our existing consumable and machine product lines.
+ 
+SEMICONDUCTOR AND MATERIAL AND SUBSTRATE OPERATIONS
+
+We provide diffusion and reflow thermal systems as well as wafer polishing equipment and related services to leading semiconductor manufacturers. Our products include horizontal diffusion furnaces used to produce semiconductors, such as analog, sensors, and discrete devices, and MEMS, as well as double-sided lapping and polishing equipment, double-sided lapping and polishing carriers, and single side polishing templates.
+ 
+As demand for increasingly sophisticated electronic devices continues, new technologies such as electric vehicles, artificial intelligence, advanced power management, advances in consumer electronics, 5G communications, and IoT will help drive future growth. Electronic equipment continues to become more complex, yet end users demand smaller, lighter and less expensive devices. This trend, in turn, requires increased performance and reduced cost of ownership requirements of electronic assemblies, printed circuit boards and semiconductors. In response to these developments, manufacturers are increasingly employing more sophisticated production and assembly techniques requiring more advanced manufacturing equipment, such as that supplied by our subsidiary, BTU.
+ 
+Although the semiconductor market has experienced significant growth over the past fifteen years, it remains cyclical by nature. The market is characterized by short-term periods of under or over utilization of capacity for most semiconductors, including microprocessors, memory, power management chips and other logic devices. When capacity utilization decreases due to the addition of excess capacity, semiconductor manufacturers typically slow their purchasing of capital equipment. Conversely, when capacity utilization increases, so does capital spending. We believe the continued expansion of our consumable product offerings, primarily in our Material and Substrate segment, will enable us to partially offset some of these cyclical effects.
+ 
+SEMICONDUCTOR PRODUCTS
+ 
+Our furnace equipment is manufactured in our facilities in Massachusetts and China. The following paragraphs describe the products that comprise our current product lines in our semiconductor business:
+ 
+Horizontal Diffusion Furnaces. Through Bruce Technologies, we produce and sell 200mm and 300mm horizontal diffusion and deposition furnaces. Our horizontal furnaces currently address several steps in the semiconductor manufacturing process, including diffusion, high temperature oxidation (used in silicon power chips), and annealing.
+ 
+Our horizontal furnaces generally consist of three large modules: the load station, where the loading of the wafers occurs; the furnace section, which is comprised of one to four thermal reactor chambers; and the gas distribution cabinet, where the flow of gases into the reactor chambers is controlled and is often configured through a range of options to meet the requirements of our customers’ particular process needs. The horizontal furnaces utilize a
+
+combination of existing industry and proprietary technologies and are sold primarily to semiconductor customers. Our products are capable of processing all currently existing wafer sizes.
+ 
+Continuous Thermal Processing Systems. Through BTU, we produce and sell thermal processing systems used in the solder reflow and curing stages of printed circuit board assembly as well as systems for the thermal processes used in advanced semiconductor packaging. Our printed circuit board assembly products are used primarily in the advanced, high-density segments of the market that utilize surface mount technology.
+ 
+Flip-chip reflow provides the physical and electronic bond of the semiconductor device to its package. Our range of convection reflow systems, utilizing patented closed loop convection technology, are rated at up to 400°C and operate in air or nitrogen atmospheres. These products are manufactured at our ISO 9001:2015 certified facility in Shanghai, China and utilize forced impingement convection technology to transfer heat to the substrate. Using configurable heating elements of up to eight kilowatts, they can process substrates in dual lane, dual speed configurations, thereby enabling our customers to double production without increasing the machine’s footprint. These products are available in four models based on the heated lengths of thermal processing chambers. Heated length is based on the required production rate and loading requirements.
+ 
+High-Temperature Belt Furnace. We also produce and sell high-temperature belt furnaces, which have been manufactured in Massachusetts for over six decades with ISO 9001:2015 quality certification safe-guarding that each unit is subject to exacting build and test criteria. These furnaces operate at temperatures up to 1180°C and are capable of processing in controlled atmospheres, such as nitrogen, argon and hydrogen. Applications include direct bond copper, furnace brazing, annealing, glass to metal sealing, sintering and heat-treating for diverse markets including automotive, semiconductors, aerospace and medical.
+ 
+Aqua Scrub Flux Management. In 2021, we began offering our innovative Aqua Scrub Flux Management technology for our reflow ovens. The system continuously extracts flux-laden oven atmosphere from the reflow oven process chamber which is then passed through the Aqua Scrub system removing flux and returning clean atmosphere back to the reflow oven chamber. The aqueous-based scrubbing solution utilizes industry standard detergents for the rinse agent concentrate making it environmentally friendly. The system can be easily retrofitted to existing reflow ovens in the field due to its stand-alone design and small footprint.
+ 
+Selective Soldering. In March 2021, BTU entered into a distribution agreement with Hentec Industries, making BTU the exclusive distributor for Hentec products in Asia. BTU’s primary focus will be on the Hentec selective soldering product lines.
+ 
+FUTURE SEMICONDUCTOR PRODUCTS
+ 
+The following paragraphs describe products currently in the final stages of development that we expect to begin offering to customers during fiscal year 2023 as part of our Semiconductor product lines:
+ 
+Reflow. Our BTU division has begun a project to replace the current Pyramax reflow product with a next-generation platform. This updated platform will address areas of the market not currently served by the Pyramax line and provide existing customers with additional enhancements and capabilities. This next-generation platform will be launched in mid-2023 with full production commencing early 2024.
+ 
+APEX Host Management System. Our horizontal diffusion furnaces utilize a supervisory software system called APEX. We are nearing the final stages of a project to replace the current version, as it runs on a Unix operating system. This updated version will provide several new enhancements to our horizontal diffusion product line. This version will also provide an upgrade option for our existing base of customers.
+ 
+MATERIAL AND SUBSTRATE PRODUCTS
+ 
+Our Material and Substrate segment manufactures the products described below in Pennsylvania and Connecticut and sells them under our PR Hoffman and Intersurface Dynamics brand names.
+ 
+
+Substrate Carriers. We manufacture carriers in a variety of sizes and materials. Sizes range from 3 to 38 inches in diameter using a variety of special steels, laminates and extruded polymer raw materials. Silicon wafers, compound semiconductor wafers, and large optics require these special insert carriers. These carriers combine the strength of hardened steel as the processing backbone with a softer plastic material in the work holes known as an insert. Inserts are permanently molded into the work holes via a pressurized process. These inserted work holes provide smoother processing, improved wafer total thickness variation (TTV) and improved wafer edge quality. Insert carriers are available for all wafer sizes from 75mm to 450mm and can be made from hardened and tempered carbon steel or specialized stainless steel when metal contamination is a processing concern. Insert carriers are widely accepted as the industry solution for both prime wafer and reclaim wafer manufacturers when dual sided lapping or polishing are utilized in their front-end wafer process.
+ 
+Substrate Polishing Templates. Our polishing templates are used to securely hold silicon carbide, silicon, sapphire or other wafer materials in place during single-sided wax-free polishing processes. Polishing templates are customized for specific applications and are manufactured to extremely tight tolerances. We offer a variety of options to provide the best solution for each specific process. Polishing templates are manufactured for all brands of tools and virtually any wax-free customer process. Critical front-end wafer surface specifications are finalized during the polishing process.
+ 
+Double-Sided Lapping and Polishing Machines. Double-sided lapping and polishing machines are designed to process materials such as silicon wafers, sapphire and other wafer-like materials, precision optics, computer disks, ceramic components, specialty metal products to exact tolerances of thickness, flatness, parallelism and surface finish. On average, we believe that we offer our surface processing systems with a lower cost of ownership than systems offered by our competitors. We target the compound substrate, semiconductor, optical sapphire, glass, quartz, ceramics, medical, computer disk and metal-working markets. Our largest double-sided polishing machine was introduced in fiscal 2022, and has the capacity to handle 8-inch wafers, representing a 25% increase over our next largest tool. In addition, several enhancements have been added to provide our customers the ability to use the system for compound semiconductor substrates such as SiC. True 4-way planetary motion allows us to increase material removal rate and provide better flatness. We designed this new system with increased downforce to provide the necessary pressure when lapping or polishing compound semiconductors. We have also developed other enhancements, such as chilled base plates to keep the system at lower temperatures during the processing cycles.
+ 
+Single-Sided Polisher. We have developed a new single-side batch polisher to specifically to address the challenges in polishing compound semiconductor substrates, such as silicon carbide. Silicon carbide material is much harder than traditional silicon and requires additional capabilities not found on existing batch polishing systems in the market. Our single-side polishing equipment was designed to handle SiC wafers with a low cost of ownership and has enhanced throughput and cost of ownership when compared to single wafer CMP systems.
+ 
+Substrate Process Chemicals. Through Intersurface Dynamics, we produce and sell substrate process chemicals which are used to achieve specific surface morphologies on a variety of materials. Our substrate process chemical customers include some of the world's largest manufacturers of semiconductor devices, silicon wafers, precision optics, ophthalmic lens, advanced displays and flat glass. We offer three different product lines: Tensor Series Products, Vector Series Products, and Challenge Series Products. Tensor Series Products are used by manufacturers of integrated circuits in applications such as cleaning, etching, dicing and CMP. Vector Series Products were designed specifically for grinding, sawing, lapping, cleaning, etching and polishing semiconductor materials such as silicon wafers. Challenge Series Products address similar processes for manufacturers of precision optics, technical ceramics and advanced displays helping to achieve optimum yields.
+
+MANUFACTURING, RAW MATERIALS AND SUPPLY CHAIN
+
+Our semiconductor manufacturing activities consist primarily of engineering design to meet specific and evolving customer needs and procurement and assembly of various commercial and proprietary components into finished thermal processing systems in North Billerica, Massachusetts and Shanghai, China.
+ 
+Our manufacturing activities in the polishing business include laser-cutting and other fabrication steps in producing lapping and polishing consumables, including carriers, templates, gears, wear items and spare parts in our ISO 9001:2015 certified facility in Carlisle, Pennsylvania, from raw materials manufactured to our specifications by our
+
+suppliers. These products are engineered and designed for specific applications and to meet the increasingly tight tolerances required by our customers. Many items, such as proprietary components for our semiconductor equipment and lapping plates, are purchased from suppliers who manufacture these items to our specifications. Additional manufacturing activities related to our polishing and lapping machines include procurement and assembly of various commercial and proprietary components into finished polishing and lapping machines.
+ 
+Final assembly and tests of our machines are performed within our manufacturing facilities. Quality control is maintained through inspection of incoming materials and components, in-process inspection during equipment assembly, testing of assemblies and final inspection and, when practical, operation of manufactured equipment prior to shipment.
+ 
+Since much of our polishing supplies know-how relates to the manufacture of these products, our Carlisle facility is equipped to perform a significantly higher percentage of the fabrication steps required in the production of its products. However, injection molding for our insert carriers and the manufacture of raw cast iron plates and machine motors are subcontracted out to various third parties. Our polishing supplies business relies on key suppliers for certain materials, including specialized steel mills in Germany and Japan, an injection molding machine, a single-sourced pad supplier from Japan and an adhesive manufacturer. To minimize the risk of production and service interruptions and/or shortages of key parts, we seek to maintain appropriate inventory levels of key raw materials and parts.
+ 
+Beginning in 2019 and throughout 2022, we experienced increased lead-times for various parts and services across both our reportable segments. In response to these increased lead-times, we have increased the amount of on-hand inventory and purchase order commitments related to long lead-time items. We have also increased on-hand inventory of certain parts as part of a strategy to mitigate supply chain risk. Despite these strategic increases, there can be no assurance that we will have enough inventory on-hand at the time we receive orders and that we will not incur delays in production time. Additionally, we may order items prior to receiving a customer order, which could result in increased inventory reserve expenses.
+ 
+During 2021 and 2022, we were also affected by the global shipping container shortage, which resulted in logistical challenges primarily related to shipments to and from China and, to a lesser extent, in other geographies including the U.S. and Europe. These challenges led to shipment delays to our customers as well as increased freight charges for both customer and vendor shipments. While improving, we expect these shipping trends to continue into fiscal 2023.
+ 
+CUSTOMERS AND SEASONALITY
+ 
+Our customers are primarily manufacturers of semiconductor substrates and devices and electronic assemblies. Additionally, our Material and Substrate segment also serves customers in the ceramics and optics industries. During 2022, 64% of our net revenue came from customers outside of North America. This group represented 73% of revenues in 2021. In 2022, net revenue was distributed among customers in different geographic regions as follows:
+•North/South America 36% (27% of which is in the United States)
+ •Asia 44% (including 17% in China, 14% in Taiwan and 7% in Malaysia)
+ •20% in Europe (including 10% in Austria and 4% in Germany)
+ 
+Two Semiconductor customers accounted for 14% and 12% of our net revenues in 2022. In 2021, two Semiconductor customers accounted for 14% and 13% of our net revenues.
+ 
+Our business is not seasonal in nature, but is cyclical based on the capital equipment investment patterns of semiconductor manufacturers. These expenditure patterns are based on many factors, including capacity utilization, anticipated demand, the development of new technologies and global and regional economic conditions. Historically, these cycles typically last between 10-17 quarters, with each complete cycle made up of a contraction phase of about 4-6 quarters, followed by an expansion phase of approximately 6-11 quarters.
+
+
+
+SALES AND MARKETING
+ 
+Due to the highly technical nature of our products, we market our products primarily by direct customer contact through our sales personnel and through a network of domestic and international independent sales representatives and distributors that specialize in semiconductor equipment and supplies. Our promotional activities include direct sales contacts, participation in trade shows, advertising in trade magazines and digital marketing including website SEO and pay-per-click advertising.
+ 
+We use a mix of direct sales, representatives and distributors globally. Manufacturer representatives provide sales coverage in specific geographic regions and are paid a commission when products are sold. Sales to distributors are generally on terms comparable to sales to end-user customers, as our distributors generally quote their customers after first obtaining a quote from us and have an order from the end-user before placing an order with us. Our sales to distributors are not contingent on their future sales and do not include a general right of return. Historically, returns have been rare. Distributors of our semiconductor equipment do not stock a significant amount of our products, as the inventory they hold is generally limited to parts needed to provide timely repairs to customers. Our manufacturer representatives and distributors are closely managed by our global sales team.
+ 
+Historically, each of our segments have been responsible for their own sales and marketing activities, including managing sales personnel and representative and distributor relationships, however, as we continue to refocus and grow our organization, we are developing opportunities for increased collaboration and teamwork across our divisions. These cross-segment collaboration opportunities will continue to be a focus at all levels and departments of our organization, as we believe they can lead to greater efficiencies while reducing operating costs. These efforts are further coordinated by our Vice President of Sales and Customer Service, who oversees all sales and marketing activities at each division.
+ 
+RESEARCH, DEVELOPMENT AND ENGINEERING
+ 
+The markets we serve are characterized by rapidly-evolving industry standards and technological change. To compete effectively, we must continually maintain or exceed the pace of such change by improving our products and our process technologies and by developing new technologies and products that are competitive based on price and performance. To assure that these technologies and products address current and future customer requirements, we obtain as much customer cooperation and input as possible, thus increasing the efficiency and effectiveness of our research and development efforts. In addition, we look for strategic acquisitions that will provide us with new technologies to compete effectively in the markets in which we operate.
+
+RD&E expenses may vary from period to period depending on the engineering projects in process. Expenses related to engineers working on strategic projects or sustaining engineering projects are recorded in RD&E. However, from time to time we add functionality to our products or develop new products during engineering and manufacturing to fulfill specifications in a customer’s order, in which case the cost of development, along with other costs of the order, are charged to cost of goods sold.
+
+In 2022, 2021 and 2020, we recorded RD&E expense of $6.4 million, $6.0 million and $3.3 million, respectively. We plan to continue to develop new products and invest in upgrades to existing products to stay competitive in the markets we serve. As a result, we saw increased RD&E expenses in 2021 and 2022 and expect to continue to increase our capital expenditures and RD&E expenses in fiscal 2023 and beyond for these upgrades as well as for the development of new products. As a result of these RD&E efforts, we introduced several new products as well as upgraded products during fiscal 2022, with additional products expected in fiscal 2023. We periodically receive research grants for research and development of products, which are netted against our research, development and engineering costs. Grants received were immaterial in 2022, 2021 and 2020.
+ 
+COMPETITION
+ 
+We compete in several distinct equipment markets for semiconductor devices, semiconductor substrates, MEMS, semiconductor packaging, and electronics assembly, as well as the markets for supplies used in power semiconductor applications. Each of these markets is highly competitive. Our ability to compete depends on our ability to continually
+
+improve our products, processes and services, as well as our ability to develop new products that meet constantly evolving customer requirements. Significant competitive factors for succeeding in these markets include the product’s technical capability, productivity, cost-effectiveness, overall reliability, ease of use and maintenance, contamination and defect control and the level of technical service and support.
+ 
+The Semiconductor and MEMS Markets. Equipment produced by our Semiconductor reportable segment primarily competes with those produced by other original equipment manufacturers. Some of these manufacturers are well-established firms that are much larger and have substantially greater financial and other resources than we have with which to pursue development, engineering, manufacturing, marketing and distribution of their products. Additionally, these manufacturers may generally be better situated to withstand adverse economic or market conditions. Competitors of our horizontal diffusion furnaces include Centrotherm GmbH and CVD Equipment, Inc.
+ 
+Our principal competitors for printed circuit board assembly equipment and advanced semiconductor packaging vary by product application. The principal competitors for solder reflow systems are ITW/EAE Vitronics-Soltec, Heller, Folungwin, ERSA, Shenzhen JT Automation Equipment Co., Ltd. and Rehm. The principal competitors for advanced semiconductor packaging are ITW/EAE Vitronics-Soltec and Heller. Our in-line, controlled atmosphere furnaces compete primarily against products offered by Centrotherm and SierraTherm/Schmid Thermal Systems. We also face competition from emerging low-cost Asian manufacturers and other established European manufacturers.
+ 
+Although price is a factor in buying decisions, we believe that technological leadership, process capability, throughput, safer designs, uptime, mean time-to-repair, cost of ownership and after-sale support have become increasingly important factors to purchasers of our products. As such, we believe we compete primarily on the basis of these criteria, rather than on the basis of price alone.
+ 
+General Industrial Lapping and Polishing Machines, Supplies and Semiconductor Substrate Markets. Our Material and Substrate reportable segment experiences price competition for wafer carriers from foreign manufacturers for which there is very little publicly available information. As a result, we are intensifying our efforts to reduce the cost of our carriers and will compete with other manufacturers of carriers by continuing to update our product line to keep pace with the rapid changes in our customers’ requirements and by providing a high level of quality and customer service. We produce steel carriers, including insert carriers, on advanced laser-cutting tools, which reduces our costs and lead times and increases our control over quality. Competitors of our lapping and polishing machines and consumable supplies include Lapmaster Wolters (aka PSS), Speedfam Co. Ltd., Hamai Co., Ltd., Onse, Inc. and Eminess Technologies, Inc. Our new single-sided polishing machine, introduced in fiscal 2022, will compete with products offered by Gigamat, Applied Materials, Inc. and Revasum, Inc. However, we believe the automation options available with our new machine will differentiate our product from others in the market. Our strategy to enhance our sales of wafer carriers and templates includes developing new applications in close collaboration with our customers, continuous improvement of our existing products and providing a high level of customer support and products that deliver greater value to our customers.
+
+The competitive landscape in the substrate process chemical industry is varied, ranging from large multinational companies to small regional or regionally-focused companies. Intersurface Dynamics competes with much larger companies, such as Entegris, Inc. and Cabot. Our acquisition of Intersurface Dynamics coupled with PR Hoffman's product line allows us to be our customers' sole provider for their polishing processes, by providing the machinery, carriers, templates and slurry.
+
+
+HUMAN CAPITAL
+ 
+The Amtech Values
+ 
+Amtech is focused on growth: company growth and employee growth. To encourage that growth, Amtech’s Chief Executive Officer and Chief Financial Officer developed Amtech’s core values, which are communicated to employees on a regular basis. These core values include the following:
+ 
+•360° Accountability – Hold yourself and others accountable, even if they are at levels above you in the organization; accountability is not one direction.
+ •Goal Oriented – Actions and work are driven by established goals, whether self-created or management-driven.
+ •Sense of Urgency – We perform our work each day with a sense of immediate action and speed, without sacrificing quality. We look for and resolve problems quickly and proactively.
+ •Trust in Each Other – We can be confident in our expectations of each other in terms of performance, commitment, and follow-through.
+ 
+Amtech’s Employees
+ 
+Our employees are critical to our success as a leading, global manufacturer of capital equipment and related consumables used in fabricating semiconductor devices. To continue producing and delivering high-quality products and services to our customers, and to compete and succeed in the highly competitive and continually evolving markets in which we operate, it is critical that we continue to attract, retain and develop a diverse group of talented individuals at all levels of our organization.
+ 
+Our management seeks to align employment levels with the needs of our business. We believe we have the appropriate human capital resources to successfully operate and execute our growth and investment strategy. As of September 30, 2022, we employed 327 people. We also employ individuals on a temporary full-time basis and use the services of contractors as necessary. Of our 327 total employees, 36% were engaged in manufacturing, 20% were engaged in sales and service, 14% were engaged in research, development and engineering, and 30% were engaged in other roles. Our employees were based out of the following locations:
+ •Tempe, Arizona corporate offices — 11
+ •Bethel, Connecticut manufacturing plant — 6
+ •North Billerica, Massachusetts manufacturing plant — 99
+ •Carlisle, Pennsylvania manufacturing plant — 49
+ •Shanghai, China manufacturing plant — 142
+ •Other Asia-Pacific offices — 11
+ •UK office — 9
+ 
+Of the 49 people employed at our Carlisle, Pennsylvania facility, 24 were represented by the United Auto Workers Union - Local 1443. We have a three-year agreement with this union, which expires on September 30, 2025. We expect this agreement to be renewed prior to expiration. We have never experienced a work stoppage or strike, and other than employees at the Carlisle facility, no other employees are represented by a union. At select business units, we have hired certain highly specialized employees under employment contracts that specify a term of employment, pay and other benefits. We consider our employee relations to be good.
+ 
+
+Talent Acquisition and Retention
+    The future growth and success of our company largely depends on our ability to attract, train and retain qualified professionals. As part of our effort to do so, we offer competitive rewards, compensation and benefits, including an employee equity award program, performance-based bonuses, health and wellness benefits, retirement benefits, flexible schedules and holiday and paid time off. We understand that effective compensation and benefits programs are important in retaining high-performing and qualified individuals. Management is currently working with a consulting firm to study the competitiveness of our compensation programs for non-executive employees relative to their roles and responsibilities and the geographies they work in. Additionally, we continue to assess our healthcare and retirement benefits each year in order to provide competitive benefits to our employees.
+    We know that retention of high-performing employees benefits us and our customers. We are committed to helping our employees develop in their careers and thrive within the Company. Management provides regular performance reviews to ensure our employees are receiving timely and constructive feedback, as well as rewards based on their performance. These performance reviews also assess each employee’s performance as it relates to Amtech’s Values. We believe these programs and efforts contribute to attracting and retaining a talented and driven workforce.
+    Turnover
+    In 2022, our total employee turnover was 12.4%, of which approximately 71.1% was voluntary. Approximately 14.8% of voluntary turnover were employees that retired from the workforce. The average tenure of our employees is approximately 10 years and approximately 46.5% of our employees have been employed with us for more than 10 years. In 2021, our total employee turnover was 14.9%, of which approximately 75.0% was voluntary. Approximately 18.2% of voluntary turnover were employees that retired from the workforce.
+   Diversity, Equity, and Inclusion
+    Amtech is dedicated to building a diverse workforce, fostering a culture built on the principle of inclusion, and maintaining a workplace free from discrimination. We strongly believe that a diversity of experience, perspectives and backgrounds will lead to a better environment for our employees and better products and service for our customers. Amtech’s commitment to diversity covers our Board of Directors, our leadership team and all teams and functions across our global locations.
+   Health and Safety
+    It is our highest priority to keep our employees, customers and suppliers safe. We provide our employees with ongoing safety training to ensure safety policies and procedures are communicated and implemented in an effective and timely manner.
+   During the ongoing COVID-19 pandemic, it is and has been our top priority to protect the safety and well-being of our employees and their families, our customers and our communities. Our commitment to this was evidenced by our response to the pandemic. We implemented work-from-home options for all our office personnel, where possible, and added additional shifts to reduce personnel in the building. Additionally, at all of our facilities we followed enhanced safety and health protocols, including performing health checks and temperature screenings, practicing social distancing, providing personal protective equipment and increasing facility cleanings.
+PATENTS
+
+The following table shows our material patents and the expiration date of each patent:
+ 
+
+Product | Countries | Expiration Date orPending Approval
+Ultrafast gas bearing-based reactive ion etching | Europe | 2030 
+Convection furnace thermal profile enhancement | United States | 2023 
+Lapping machine adjustable mechanism | Various | 2027 
+RFID-containing carriers used for silicon wafer quality | United States | 2030 
+Polishing machine wafer holder | Various | 2037 
+Devices, Systems and Methods for Flux Removal from Furnace Process Gas | Various | 2038 
+
+ 
+To our knowledge, there are currently no pending lawsuits against us regarding infringement of any existing patents or other intellectual property rights or any material unresolved claims made by third parties that allege we are infringing the intellectual property rights of such third parties.
+ 
+AVAILABLE INFORMATION
+ 
+We file our annual report on Form 10-K, quarterly reports on Form 10-Q, Current Reports on Form 8-K, proxy statements, and other documents (including registration statements) with the SEC under the Securities Exchange Act of 1934 or the Securities Act of 1933, as applicable. Our SEC filings are available to the public on the SEC’s website at www.sec.gov and through The Nasdaq Global Select Market, 165 Broadway, New York, New York 10006, on which our common stock is listed.
+AMTECH WEBSITE
+ 
+In addition to the information contained in this Report, extensive information about Amtech can be found at www.amtechsystems.com, including information about our management team, products and services, and corporate governance practices. The corporate governance information on our website includes our Code of Conduct, Corporate Governance guidelines and the charters for each of the committees of the Board. In addition, amendments to these documents and waivers granted to directors and executive officers under the Code of Conduct, if any, will be posted in this area of the website. In addition, our filings with the SEC, as well as Section 16 filings made by any of our executive officers or directors with respect to Amtech's common stock, are available free of charge on our website as soon as reasonably practicable after the filing is electronically filed with, or furnished to, the SEC.
+ 
+These details about our website and its content are only for information. The contents of our website are not, nor shall they be deemed to be, incorporated by reference in this Report. Further, our references to website URLs are intended to be inactive textual references only.
+ 
+
+ITEM 1. Consolidated Financial Statements
+AMTECH SYSTEMS, INC. AND SUBSIDIARIES
+ Consolidated Balance Sheets
+ (in thousands, except share and per share data)
+ 
+
+ | September 30, | 
+Assets | 2022 | | | 2021 | 
+Current Assets | | | | | 
+Cash and cash equivalents | $ | 46,874 | | | $ | 32,836 | 
+Accounts receivable - Net | | 25,013 | | | | 22,502 | 
+Inventories | | 25,488 | | | | 22,075 | 
+Income taxes receivable | | — | | | | 1,046 | 
+Other current assets | | 5,561 | | | | 2,407 | 
+Total current assets | | 102,936 | | | | 80,866 | 
+Property, Plant and Equipment - Net | | 6,552 | | | | 14,083 | 
+Right-of-Use Assets - Net | | 11,258 | | | | 8,646 | 
+Intangible Assets - Net | | 758 | | | | 858 | 
+Goodwill | | 11,168 | | | | 11,168 | 
+Deferred Income Taxes - Net | | 79 | | | | 631 | 
+Other Assets | | 783 | | | | 661 | 
+Total Assets | $ | 133,534 | | | $ | 116,913 | 
+Liabilities and Shareholders’ Equity | | | | | 
+Current Liabilities | | | | | 
+Accounts payable | $ | 7,301 | | | $ | 8,229 | 
+Accrued compensation and related taxes | | 4,109 | | | | 2,881 | 
+Accrued warranty expense | | 871 | | | | 545 | 
+Other accrued liabilities | | 900 | | | | 903 | 
+Current maturities of finance lease liabilities and long-term debt | | 107 | | | | 396 | 
+Current portion of long-term operating lease liabilities | | 2,101 | | | | 531 | 
+Contract liabilities | | 7,231 | | | | 1,624 | 
+Income taxes payable | | 6 | | | | — | 
+Total current liabilities | | 22,626 | | | | 15,109 | 
+Finance Lease Liabilities and Long-Term Debt | | 220 | | | | 4,402 | 
+Long-Term Operating Lease Liabilities | | 9,395 | | | | 8,389 | 
+Income Taxes Payable | | 2,849 | | | | 3,277 | 
+Other Long-Term Liabilities | | 76 | | | | 102 | 
+Total Liabilities | | 35,166 | | | | 31,279 | 
+Commitments and Contingencies (Note 16) | | | | | 
+Shareholders’ Equity | | | | | 
+Preferred stock; 100,000,000 shares authorized; none issued | | — | | | | — | 
+Common stock; $0.01 par value; 100,000,000 shares authorized; shares issued and outstanding: 13,994,154 and 14,304,492 in 2022 and 2021, respectively | | 140 | | | | 143 | 
+Additional paid-in capital | | 124,458 | | | | 126,380 | 
+Accumulated other comprehensive (loss) income | | (1,767 | ) | | | 14 | 
+Retained deficit | | (24,463 | ) | | | (40,903 | )
+Total Shareholders’ Equity | | 98,368 | | | | 85,634 | 
+Total Liabilities and Shareholders’ Equity | $ | 133,534 | | | $ | 116,913 | 
+
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 50
+
+
+AMTECH SYSTEMS, INC. AND SUBSIDIARIES
+ Consolidated Statements of Operations
+ (in thousands, except per share data)
+ 
+
+ | Years Ended September 30, | 
+ | 2022 | | | 2021 | | | 2020
+Revenue, net | $ | 106,298 | | | $ | 85,205 | | $ | 65,463 | 
+Cost of sales | | 66,787 | | | | 50,675 | | | 41,022 | 
+Gross profit | | 39,511 | | | | 34,530 | | | 24,441 | 
+Selling, general and administrative | | 28,300 | | | | 24,740 | | | 21,397 | 
+Research, development and engineering | | 6,390 | | | | 5,979 | | | 3,312 | 
+Gain on sale of fixed assets | | (12,465 | ) | | | — | | | — | 
+Severance expense | | — | | | | 86 | | | 217 | 
+Operating income (loss) | | 17,286 | | | | 3,725 | | | (485 | )
+Loss on sale of subsidiary | | — | | | | — | | | (2,793 | )
+Interest income (expense) and other, net | | 1,499 | | | | (291 | ) | | 162 | 
+Income (loss) from continuing operations before income taxes | | 18,785 | | | | 3,434 | | | (3,116 | )
+Income tax provision | | 1,418 | | | | 1,926 | | | 791 | 
+Income (loss) from continuing operations, net of tax | | 17,367 | | | | 1,508 | | | (3,907 | )
+Loss from discontinued operations, net of tax | | — | | | | — | | | (11,816 | )
+Net income (loss) | $ | 17,367 | | | $ | 1,508 | | $ | (15,723 | )
+Income (Loss) Per Basic Share: | | | | | | | 
+Basic income (loss) per share from continuing operations | $ | 1.24 | | | $ | 0.11 | | $ | (0.28 | )
+Basic loss per share from discontinued operations | $ | — | | | $ | — | | $ | (0.83 | )
+Net income (loss) per basic share | $ | 1.24 | | | $ | 0.11 | | $ | (1.11 | )
+Income (Loss) Per Diluted Share: | | | | | | | 
+Diluted income (loss) per share from continuing operations | $ | 1.22 | | | $ | 0.11 | | $ | (0.28 | )
+Diluted loss per share from discontinued operations | $ | — | | | $ | — | | $ | (0.83 | )
+Net income (loss) per diluted share | $ | 1.22 | | | $ | 0.11 | | $ | (1.11 | )
+Weighted average shares outstanding - basic | | 14,014 | | | | 14,189 | | | 14,159 | 
+Weighted average shares outstanding - diluted | | 14,184 | | | | 14,340 | | | 14,159 | 
+
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 51
+
+
+AMTECH SYSTEMS, INC. AND SUBSIDIARIES
+ Consolidated Statements of Comprehensive Income (Loss)
+ (in thousands)
+ 
+
+ | Years Ended September 30, | 
+ | 2022 | | | 2021 | | | 2020
+Net income (loss) | $ | 17,367 | | | $ | 1,508 | | $ | (15,723 | )
+Foreign currency translation adjustment | | (1,781 | ) | | | 660 | | | 1,790 | 
+Reclassification adjustment for net foreign currency translation losses included in net loss | | — | | | | — | | | 8,797 | 
+Comprehensive income (loss) | $ | 15,586 | | | $ | 2,168 | | $ | (5,136 | )
+
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 52
+
+
+AMTECH SYSTEMS, INC. AND SUBSIDIARIES
+ Consolidated Statements of Shareholders’ Equity
+ (in thousands)
+ 
+
+ | Common Stock | | | Treasury Stock | | | | Accumulated | | | | | | 
+ | | | | | | | | | | Additional | | | Other | | | | | Total | 
+ | | | | Par | | | | | | Paid-in | | | Comprehensive | | | Retained | | Shareholders’ | 
+ | Shares | | | Value | | | Shares | Cost | | Capital | | | Income (Loss) | | | Deficit | | Equity | 
+Balances at September 30, 2019 | | 14,269 | | | $ | 143 | | — | | $ | — | | | $ | 125,098 | | $ | (11,233 | ) | $ | (26,556 | ) | $ | 87,452 | 
+Net loss | | — | | | | — | | — | | | — | | | | — | | | — | | | (15,723 | ) | | (15,723 | )
+Translation adjustment | | — | | | | — | | — | | | — | | | | — | | | 10,587 | | | — | | | 10,587 | 
+Stock compensation expense | | — | | | | — | | — | | | — | | | | 326 | | | — | | | — | | | 326 | 
+Repurchase of treasury stock | | — | | | | — | | (366 | ) | | (2,000 | ) | | | — | | | — | | | — | | | (2,000 | )
+Retirement of treasury stock | | (366 | ) | | | (4 | ) | 366 | | | 2,000 | | | | (1,864 | ) | | — | | | (132 | ) | | — | 
+Stock options exercised | | 160 | | | | 2 | | — | | | — | | | | 875 | | | — | | | — | | | 877 | 
+Balances at September 30, 2020 | | 14,063 | | | $ | 141 | | — | | $ | — | | | $ | 124,435 | | $ | (646 | ) | $ | (42,411 | ) | $ | 81,519 | 
+Net income | | — | | | | — | | — | | | — | | | | — | | | — | | | 1,508 | | | 1,508 | 
+Translation adjustment | | — | | | | — | | — | | | — | | | | — | | | 660 | | | — | | | 660 | 
+Stock compensation expense | | — | | | | — | | — | | | — | | | | 401 | | | — | | | — | | | 401 | 
+Stock options exercised | | 241 | | | | 2 | | — | | | — | | | | 1,544 | | | — | | | — | | | 1,546 | 
+Balances at September 30, 2021 | | 14,304 | | | $ | 143 | | — | | $ | — | | | $ | 126,380 | | $ | 14 | | $ | (40,903 | ) | $ | 85,634 | 
+Net income | | — | | | | — | | — | | | — | | | | — | | | — | | | 17,367 | | | 17,367 | 
+Translation adjustment | | — | | | | — | | — | | | — | | | | — | | | (1,781 | ) | | — | | | (1,781 | )
+Stock compensation expense | | — | | | | — | | — | | | — | | | | 543 | | | — | | | — | | | 543 | 
+Repurchase of treasury stock | | — | | | | — | | (434 | ) | | (4,115 | ) | | | — | | | — | | | — | | | (4,115 | )
+Retirement of treasury stock | | (434 | ) | | | (4 | ) | 434 | | | 4,115 | | | | (3,184 | ) | | — | | | (927 | ) | | — | 
+Stock options exercised | | 124 | | | | 1 | | — | | | — | | | | | | | — | | | — | | | | 
+Balances at September 30, 2022 | | 13,994 | | | $ | 140 | | — | | $ | — | | | $ | 124,458 | | $ | (1,767 | ) | $ | (24,463 | ) | $ | 98,368 | 
+
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 53
+
+
+AMTECH SYSTEMS, INC. AND SUBSIDIARIES
+ Consolidated Statements of Cash Flows
+ (in thousands)
+ 
+
+ | Years Ended September 30, | 
+ | 2022 | | | 2021 | | | 2020
+Operating Activities | | | | | | | 
+Net income (loss) | $ | 17,367 | | | $ | 1,508 | | $ | (15,723 | )
+Adjustments to reconcile net income (loss) to net cash provided by (used in) operating activities: | | | | | | | 
+Depreciation and amortization | | 1,729 | | | | 1,398 | | | 1,258 | 
+Write-down of inventory | | 102 | | | | 544 | | | 733 | 
+(Reversal of) provision for allowance for doubtful accounts | | (32 | ) | | | 44 | | | 24 | 
+Deferred income taxes | | 592 | | | | (65 | ) | | 218 | 
+Non-cash share-based compensation expense | | 543 | | | | 401 | | | 326 | 
+Loss on sales of subsidiaries | | — | | | | — | | | 13,709 | 
+Gain on sale of fixed assets | | (12,465 | ) | | | — | | | — | 
+Other, net | | — | | | | 43 | | | 55 | 
+Changes in operating assets and liabilities: | | | | | | | 
+Accounts receivable | | (2,479 | ) | | | (11,023 | ) | | 1,359 | 
+Inventories | | (3,684 | ) | | | (5,180 | ) | | (913 | )
+Contract and other assets | | (2,203 | ) | | | (686 | ) | | 324 | 
+Accounts payable | | (1,080 | ) | | | 5,472 | | | (3,620 | )
+Accrued income taxes | | 623 | | | | 353 | | | (2,701 | )
+Accrued and other liabilities | | 584 | | | | 829 | | | 4,658 | 
+Contract liabilities | | 5,607 | | | | 400 | | | (1,371 | )
+Net cash provided by (used in) operating activities | | 5,204 | | | | (5,962 | ) | | (1,664 | )
+Investing Activities | | | | | | | 
+Purchases of property, plant and equipment | | (1,135 | ) | | | (3,012 | ) | | (2,676 | )
+Proceeds from sale of property, plant and equipment | | 19,908 | | | | — | | | — | 
+Net cash disposed of in sales of subsidiaries | | — | | | | — | | | (9,940 | )
+Acquisition, net of cash and cash equivalents acquired | | — | | | | (5,082 | ) | | — | 
+Net cash provided by (used in) investing activities | | 18,773 | | | | (8,094 | ) | | (12,616 | )
+Financing Activities | | | | | | | 
+Proceeds from the exercise of stock options | | 720 | | | | 1,546 | | | 877 | 
+Repurchase of common stock | | (4,115 | ) | | | — | | | (2,000 | )
+Payments on long-term debt | | (4,872 | ) | | | (380 | ) | | (379 | )
+Net cash (used in) provided by financing activities | | (8,267 | ) | | | 1,166 | | | (1,502 | )
+Effect of Exchange Rate Changes on Cash, Cash Equivalents and Restricted Cash | | (1,672 | ) | | | 656 | | | 1,718 | 
+Net Increase (Decrease) in Cash, Cash Equivalents and Restricted Cash | | 14,038 | | | | (12,234 | ) | | (14,064 | )
+Cash, Cash Equivalents and Restricted Cash, Beginning of Year* | | 32,836 | | | | 45,070 | | | 59,134 | 
+Cash, Cash Equivalents and Restricted Cash, End of Year | $ | 46,874 | | | $ | 32,836 | | $ | 45,070 | 
+Supplemental Cash Flow Information: | | | | | | | 
+Income tax payments, net | $ | 386 | | | $ | 1,868 | | $ | 2,116 | 
+Interest paid, net of capitalized interest | $ | 164 | | | $ | 241 | | $ | 265 | 
+Supplemental Non-cash Financing and Investing Activities: | | | | | | | 
+Transfer of inventory to property, plant, and equipment | $ | 169 | | | $ | 39 | | $ | 37 | 
+Leased assets obtained in exchange for new operating lease liabilities | $ | 3,686 | | | $ | 3,680 | | $ | 5,262 | 
+Leased assets obtained in exchange for new finance lease liabilities | $ | 42 | | | $ | 160 | | $ | — | 
+Accrued for asset retirement obligation | $ | — | | | $ | 36 | | $ | — | 
+
+ 
+* Includes Cash, Cash Equivalents and Restricted Cash that are included in Held-For-Sale Assets on the Consolidated Balance Sheets for periods prior to January 22, 2020.
+ The accompanying notes are an integral part of these consolidated financial statements.
+
+
+Notes to Consolidated Financial Statements
+ For the Years Ended September 30, 2022, 2021 and 2020
+ 
+1. Summary of Operations and Significant Accounting Policies
+ Description of Business – Amtech is a leading, global manufacturer of capital equipment, including thermal processing and wafer polishing, and related consumables used in fabricating semiconductor devices, such as silicon carbide (SiC) and silicon power devices, analog and discrete devices, electronic assemblies and light-emitting diodes (LEDs). We sell these products to semiconductor device and module manufacturers worldwide, particularly in Asia, North America and Europe.
+ We serve niche markets in industries that are experiencing technological advances, and which historically have been very cyclical. Therefore, future profitability and growth depend on our ability to develop or acquire and market profitable new products and on our ability to adapt to cyclical trends.
+ Our fiscal year is from October 1 to September 30. Unless otherwise stated, references to the years 2022, 2021 and 2020 relate to the fiscal years ended September 30, 2022, 2021 and 2020, respectively.
+ In March 2020, the outbreak of COVID-19 was recognized as a pandemic by the World Health Organization, and the outbreak became increasingly widespread, including in all of the markets in which we operate. We continue to monitor the impact of COVID-19 on all aspects of our business. We are a company operating in a critical infrastructure industry, as defined by the U.S. Department of Homeland Security. Consistent with federal guidelines and with foreign government, state and local orders to date, we have continued to operate across our footprint throughout the COVID-19 pandemic. Following the onset of COVID-19 and its negative effects on our business, most prominently reflected in our second, third and fourth quarter fiscal 2020 results, global economic conditions improved during fiscal 2021, resulting in increased demand for our products and services, which led to our earnings for fiscal 2021 substantially exceeding our fiscal 2020 results. There remain many unknowns and we continue to monitor the expected trends and related demand for our products and services and have and will continue to adjust our operations accordingly.
+  On March 28, 2022, the Chinese government issued a mandatory shutdown in Shanghai, the location of one of our manufacturing facilities. The factory was allowed to partially reopen in May 2022 and was fully reopened on June 1, 2022. Upon reopening on June 1, 2022, the factory was able to operate at near full capacity for the entire month of June. We were able to make up the shipments missed in the fourth quarter and are now operating at normal capacity levels. Additionally, given the uncertainty surrounding the COVID-19 pandemic and the emergence of variations thereof, there can be no assurance that this facility will be allowed to remain open on a consistent basis.
+
+ Principles of Consolidation – The consolidated financial statements include the accounts of the Company and our wholly-owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation.
+ Use of Estimates – The preparation of consolidated financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenue and expenses during the reporting period. Actual results could differ from those estimates.
+
+ Reclassifications – Certain reclassifications have been made to prior year financial statement footnotes to conform to the current year presentation. These reclassifications had no effect on the previously reported consolidated financial statements for any period.
+
+ Divestitures – Significant accounting policies associated with a decision to dispose of a business are discussed below:
+ Discontinued Operations – A business is classified as discontinued operations if the disposal represents a strategic shift that will have a major effect on operations or financial results and meets the criteria to be classified as held for sale or is disposed of by sale or otherwise. Significant judgments are involved in determining whether a business meets the criteria for discontinued operations reporting and the period in which these criteria are met. If a business is reported as a discontinued operation, the results of operations through the date of sale, including any gain or loss recognized on the disposition, are presented on a separate line of the Consolidated Statement of Operations. Interest on debt directly attributable to the discontinued operation is allocated to discontinued operations.
+   Assets Held for Sale – An asset or business is classified as held for sale when (i) management commits to a plan to sell and it is actively marketed; (ii) it is available for immediate sale and the sale is expected to be completed within one year; and (iii) it is unlikely significant changes to the plan will be made or that the plan will be withdrawn. In isolated instances, assets held for sale may exceed one year due to events or circumstances beyond our control. The assets and related liabilities are aggregated and reported on separate lines of the Consolidated Balance Sheets.
+
+ Cash and Cash Equivalents – We consider all highly liquid investments with a maturity of three months or less when purchased to be cash equivalents. Our cash and cash equivalents consist of amounts invested in U.S. money market funds and various U.S. and foreign bank operating and time deposit accounts.
+ We maintain our cash, cash equivalents and restricted cash in multiple financial institutions. Balances in the United States, which account for approximately 84% and 83% of total cash balances as of September 30, 2022 and 2021, respectively, are primarily invested in AAA-rated U.S Treasury and U.S. Government Agency repo money market mutual funds, which have a constant net asset value and consist of direct U.S. Treasuries and/or U.S. Government Agencies with repurchase agreements backed by U.S. Treasury or U.S. Government Agency collateral only, or are in financial institutions insured by the FDIC. The remainder of our cash is maintained with financial institutions with reputable credit in China, the United Kingdom and Malaysia. We maintain cash in bank accounts in amounts which at times may exceed federally insured limits. We have not experienced any losses on such accounts.
+
+ Accounts Receivable and Allowance for Doubtful Accounts – Accounts receivable are recorded at the sales price of products sold to customers on trade credit terms. Accounts receivable are considered past due when payment has not been received from the customer within the normal credit terms extended to that customer. A valuation allowance is established for accounts when collection is no longer probable. Accounts are written off against the allowance when the probability of collection is remote. Historically, these write-offs have been immaterial.
+
+ Inventories – We value our inventory at the lower of cost (first-in, first-out method) or net realizable value. Inventory cost includes the purchase price of parts or finished goods, labor, overhead and any freight cost incurred to receive the inventory into our manufacturing facilities. We regularly review inventory quantities and record a write-down to net realizable value for excess and obsolete inventory. The write-down is primarily based on historical inventory usage adjusted for expected changes in product demand and production requirements. Our industry is characterized by customers in highly-cyclical industries, rapid technological changes, frequent new product developments and rapid product obsolescence. Changes in demand for our products could result in further write-downs.
+
+ Property, Plant and Equipment – Property, plant and equipment are recorded at cost upon acquisition. We begin depreciation and amortization when an asset is both in the location and condition for its intended use. Maintenance and repairs are charged to expense as incurred. The cost of property retired or sold and the related accumulated depreciation and amortization are removed from the applicable accounts when disposition occurs and any gain or loss is recognized. Depreciation and amortization are computed using the straight-line method over the estimated useful life of the asset. Useful lives for equipment and machinery range from three to seven years; for leasehold improvements from three to fifteen years; for furniture and fixtures from five to ten years; and for buildings from 20 to 30 years.
+ Reviews are regularly performed to determine whether facts and circumstances exist which indicate that the useful life is shorter than originally estimated or the carrying amount of assets may not be recoverable. Impairment, if any, is based on the excess of the carrying amount over the estimated fair value of those assets.
+
+ Leases – We determine if a contract or arrangement is, or contains, a lease at inception. Balances related to operating leases are included in right-of-use ("ROU") assets in our Consolidated Balance Sheets. Balances related to financing leases are immaterial and are included in property, plant and equipment and finance lease liabilities and long-term debt in our Consolidated Balance Sheets. ROU assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments arising from the lease.
+ ROU assets and lease liabilities are recognized at commencement date based on the present value of lease payments over the lease term. As none of our leases provide an implicit rate, we use our incremental borrowing rate based on the information available at commencement date in determining the present value of lease payments. The ROU asset includes any prepaid lease payments and additional direct costs and excludes lease incentives. Our lease terms may
+  include options to extend or terminate the lease, which we include in the recognition of the ROU asset and lease liability, when it is reasonably certain that we will exercise that option.
+ We lease office space, buildings, land, vehicles and equipment. We made an accounting policy election not to separate non-lease components from lease components for all existing classes of underlying assets with the exception of land and buildings. Lease agreements with an initial term of 12 months or less with no renewal options are not recorded on the balance sheet. Instead, we recognize the lease expense as incurred over the lease term. Our lease agreements do not contain any material residual value guarantees or material restrictive covenants. We have one lease that requires the underlying asset to be returned to its original condition at the end of the lease term. The related asset retirement obligation, which is immaterial, is reflected within other long-term liabilities in our Consolidated Balance Sheets.
+
+Certain lease agreements include one or more options to renew, with individual option terms that can extend the lease term from one to five years. The exercise of lease renewal options is at our sole discretion. Some equipment leases also include options to purchase the leased property. The estimated life of assets and leasehold improvements are limited by the expected lease term, unless there is a transfer of title or purchase option reasonably certain of exercise. 
+ In June 2022, we entered into a sale-leaseback transaction to facilitate a future move of our Massachusetts operations, pursuant to which we sold the property to a third party and agreed to lease the property back for two years. To determine whether the transfer of the property should be accounted for as a sale, we evaluated whether we transferred control to the third party in accordance with the revenue recognition guidance set forth in ASC 606. The transfer was deemed to be a sale at market terms. Therefore, we recognized the transaction price for the sale based on the cash proceeds received, derecognized the carrying amount of the underlying assets and recognized a gain in the Consolidated Statements of Operations for the difference between the carrying value of the asset and the transaction price. We then accounted for the leaseback in accordance with our lease accounting policy.
+Intangible Assets – Intangible assets acquired in business combinations are capitalized and subsequently amortized on a straight-line basis over their estimated useful life. We regularly perform reviews to determine if facts and circumstances exist which indicate that the useful lives of our intangible assets are shorter than originally estimated or the carrying amount of these assets may not be recoverable. Impairment, if any, is based on the excess of the carrying amount over the estimated fair value of those assets. Patent costs consist primarily of legal and filing fees incurred to file patents on proprietary methods and technology we developed. Patent costs are expensed when incurred, as they are insignificant.
+
+ Goodwill – Goodwill is recorded when the purchase price paid for an acquisition exceeds the estimated fair value of net identified tangible and intangible assets acquired. Goodwill is not subject to amortization but is tested for impairment annually or when it is determined that it is more likely than not that the fair value of a reporting unit is less than its carrying amount. If it is concluded that there is a potential impairment, we would recognize an impairment charge for the amount by which the carrying amount exceeds the reporting unit’s fair value (although the loss would not exceed the total amount of goodwill allocated to the reporting unit).
+ Revenue Recognition – We recognize revenue when a customer obtains control of promised goods or services in an amount that reflects the consideration expected to be received in exchange for those goods or services. A performance obligation is a promise in a contract to transfer a product or service to the customer. The transaction price of a contract is allocated to each distinct performance obligation based upon the relative standalone selling price ("SSP") for each performance obligation and is recognized as revenue upon satisfaction of the performance obligation. To record revenue properly, we apply the following five steps:
+ 1) Identify the contract with the customer
+ A contract with a customer exists when (i) we enter into an enforceable contract with a customer that defines each party’s rights regarding the goods or services to be transferred and identifies the related payment terms, (ii) the contract has commercial substance, and (iii) we determine that collection of substantially all consideration for goods and services that are transferred is probable based on the customer’s intent and ability to pay the promised consideration.
+   2) Identify the performance obligations in the contract
+ Performance obligations are identified based on the goods and services that will be transferred to the customer that are both (i) capable of being distinct, whereby the customer can benefit from the good or service either on its own or together with other available resources, and (ii) are distinct in the context of the contract, whereby the transfer of the good or service is separately identifiable from other promises to the customer in the contract. To the extent a contract includes multiple promised goods and services, we must apply judgment to determine whether promised goods and services are capable of being distinct and distinct in the context of the contract. If these criteria are not met, the promised goods and services are accounted for as a combined performance obligation.
+ Our equipment sales consist of multiple promises, including the delivery of the system itself and obligations that are not delivered simultaneously with the system, such as installation services and training. In most cases, these services require minimal effort and are immaterial in the context of the contract. Therefore, equipment and related services are treated as one performance obligation. Customers who purchase new systems are provided an assurance-type warranty, generally for periods of 12 to 36 months. Assurance-type warranties are not considered a performance obligation.
+ We account for shipping and handling activities that occur after control of the related good transfers as fulfillment activities instead of assessing such activities as performance obligations.
+ Our remaining performance obligations as of September 30, 2022, have an original duration of one year or less. Our obligations for returns and/or refunds are immaterial in all periods presented.
+ 3) Determine the transaction price
+ The transaction price is determined based on the consideration to which we will be entitled in exchange for transferring goods and services to the customer.
+ The transaction price is based on the price reflected in the individual customer’s purchase order.
+ Occasionally, our customers earn a commission on the purchase and/or resale of our products. These payments to customers are recorded as a reduction of revenue and are less than 5% of our total revenues.
+ 4) Allocate the transaction price to performance obligations in the contract
+ If the contract contains a single performance obligation, the entire transaction price is allocated to the single performance obligation. Contracts that contain multiple performance obligations require an allocation of the transaction price to each distinct performance obligation.
+ When required, the SSP for each performance obligation is based on observable data from standalone sales. To determine the SSP for labor-related performance obligations, we use directly observable inputs based on the standalone sale prices for these services.
+ 5) Recognize revenue when, or as, we satisfy a performance obligation
+ We satisfy performance obligations either over time or at a point in time. Revenue is recognized over time if either (i) the customer simultaneously receives and consumes the benefits provided by our performance, (ii) our performance creates or enhances an asset that the customer controls as the asset is created or enhanced, or (iii) our performance does not create an asset with an alternative use to the entity and we have an enforceable right to payment for performance completed to date. If we do not satisfy a performance obligation over time, the related performance obligation is satisfied at a point in time by transferring the control of a promised good or service to a customer. For over time recognition, we are required to select a single revenue recognition method for the performance obligation that faithfully depicts our performance in transferring control of the goods and services.
+ Equipment and related product revenues (e.g., furnace systems, system add-ons, machinery, consumables and spare parts) are recognized at a point in time, when they are shipped or delivered, depending on contractual terms.
+58
+   Revenue for maintenance services are recognized over time based on hours incurred, as the hours incurred align to the maintenance activities performed.
+ We exclude from the transaction price all sales taxes that are assessed by a governmental authority and that are imposed on and concurrent with a specific revenue-producing transaction and collected from a customer (for example, sales, use, value added, and certain excise taxes). Sales taxes are presented on a net basis (excluded from revenues) in our Consolidated Statements of Operations. Our remaining performance obligations as of September 30, 2022, have an original duration of one year or less. Our customers generally have payment terms of 60-90 days. We do not have any payment terms that exceed one year from the point we have satisfied the related performance obligations.
+ Management reviews disaggregated revenue at the reportable segment level. Revenue-generating transactions vary between our reportable segments due to several factors. For example, lead times vary among our reportable segments and among our products. Most of the revenue for our Material and Substrate segment results from the sale of consumables, rather than equipment sales. These consumables have a much shorter production period than equipment produced by our other reportable segment. Due to these variations between reportable segments, management determined that disaggregated revenue by reportable segment sufficiently depicts how economic factors affect the nature, amount, timing and uncertainty of our revenue and cash flows. See Note 18 for additional information on our reportable segments.
+
+ Contract Assets – Contract assets consist of amounts we are not legally able to invoice but have completed the related performance obligation. These amounts generally arise from variances between the contractual payment terms and the transaction price assigned to the open performance obligations (e.g., we have recognized revenue in an amount greater than the amount that is billable under the contract). There were no contract assets at September 30, 2022 and 2021.
+
+ Contract Liabilities – Contract liabilities are reflected in current liabilities on the Consolidated Balance Sheets as all performance obligations are expected to be satisfied within the next 12 months. Contract liabilities include customer deposits and deferred profit, if any. Contract liabilities relate to payments invoiced or received in advance of completion of performance obligations under a contract. Contract liabilities are recognized as revenue upon the fulfillment of performance obligations. Contract liabilities consist of customer deposits as of September 30, 2022 and 2021. Of the $1.6 million contract liabilities recorded at September 30, 2021, the entire $1.6 million was recorded as revenue for the year ended September 30, 2022. Of the $1.2 million contract liabilities recorded at September 30, 2020, the entire $1.2 million was recorded as revenue for the year ended September 30, 2021. Of the $1.4 million contract liabilities recorded at September 30, 2019, the entire $1.4 million was recorded as revenue for the year ended September 30, 2020.
+
+ Warranty – A limited warranty is provided free of charge, generally for periods of 12 to 36 months to all purchasers of our new products and systems. Accruals are recorded for estimated warranty costs at the time revenue is recognized, generally upon shipment or acceptance, as determined under the revenue recognition policy above. On occasion, we have been required and may be required in the future to provide additional warranty coverage to ensure that the systems are ultimately accepted or to maintain customer goodwill. While our warranty costs have historically been within our expectations and we believe that the amounts accrued for warranty expenditures are sufficient for all systems sold through September 30, 2022, we cannot guarantee that we will continue to experience a similar level of predictability with regard to warranty costs. In addition, technological changes or previously unknown defects in raw materials or components may result in more extensive and frequent warranty service than anticipated, which could result in an increase in our warranty expense.
+ 59
+  The following is a summary of activity in accrued warranty expense at our continuing operations, in thousands:
+  
+ | Years Ended September 30, | 
+ | 2022 | | | 2021 | | | 2020
+Beginning balance | $ | 545 | | | $ | 380 | | $ | 556 | 
+Additions for warranties issued during the period | | 821 | | | | 250 | | | 393 | 
+Reductions in the liability for payments made under the warranty | | (36 | ) | | | (9 | ) | | (433 | )
+Changes related to pre-existing warranties | | (459 | ) | | | (76 | ) | | (121 | )
+Currency translation adjustment | | — | | | | — | | | (15 | )
+Ending balance | $ | 871 | | | $ | 545 | | $ | 380 | 
+
+ Shipping Expense – Shipping expenses at our continuing operations of $2.4 million, $0.8 million and $0.5 million for 2022, 2021 and 2020, respectively, are included in selling, general and administrative expenses.
+
+ Advertising Expense – Advertising costs are expensed as incurred. Advertising expenses at our continuing operations of $0.4 million, $0.2 million and $0.3 million for 2022, 2021 and 2020, respectively, are included in selling, general and administrative expenses.
+
+ Stock-Based Compensation – We measure compensation costs relating to share-based payment transactions based upon the grant-date fair value of the award. Those costs are recognized as expense over the requisite service period, which is generally the vesting period, with forfeitures recognized as they occur. We estimate the fair value of stock option awards on the date of grant using the Black-Scholes option-pricing model. The Black-Scholes model requires us to apply estimates, including expected stock price volatility, expected life of the option and the risk-free interest rate.
+ Research, Development and Engineering Expenses – RD&E expenses consist of the cost of employees, consultants and contractors who design, engineer and develop new products and processes as well as materials and supplies used in producing prototypes. RD&E expenses may vary from period to period depending on the engineering projects in process. Expenses related to engineers working on strategic projects or sustaining engineering projects are recorded in RD&E. However, from time to time we add functionality to our products or develop new products during engineering and manufacturing to fulfill specifications in a customer’s order, in which case the cost of development, along with other costs of the order, are charged to cost of goods sold. When certain contract requirements are met, governmental research and development grants are netted against research, development and engineering expenses. The following is a summary of our research, development and engineering expense, thousands:
+  
+ | Years Ended September 30, | 
+ | 2022 | | 2021 | | | 2020
+Research, development and engineering | $ | 6,390 | | $ | 5,979 | | $ | 3,689 | 
+Grants earned | | — | | | — | | | (377 | )
+Net research, development and engineering | $ | 6,390 | | $ | 5,979 | | $ | 3,312 | 
+
+ Foreign Currency Transactions and Translation – We use the U.S. dollar as our reporting currency. Our operations in the UK, China and other countries are primarily conducted in their functional currencies, the Euro, Renminbi, or the local country currency, respectively. Accordingly, assets and liabilities of the subsidiaries are translated into U.S. dollars at the exchange rate in effect at the balance sheet dates. Income and expense items are translated at the average exchange rate for each month within the year. The resulting translation adjustments are recorded directly in accumulated other comprehensive income (loss), net of tax - foreign currency translation adjustments as a separate component of shareholders’ equity. Net foreign currency transaction gains/losses, including transaction gains/losses on intercompany balances that are not of a long-term investment nature and non-functional currency cash balances, are reported as a separate component of non-operating (income) expense in our Consolidated Statements of Operations.
+
+ Income Taxes – We file consolidated federal income tax returns in the United States for all subsidiaries except those in China and the UK, where separate returns are filed. We account for income taxes under the asset and liability method, which requires the recognition of deferred tax assets and deferred tax liabilities for the expected future tax
+60
+  consequences of events that have been included in the financial statements. Under this method, we determine deferred tax assets and deferred tax liabilities on the basis of the differences between the financial statement and tax bases of assets and liabilities by using enacted tax rates in effect for the year in which the differences are expected to reverse. The effect of a change in tax rates on deferred tax assets and deferred tax liabilities is recognized in income in the period that includes the enactment date.
+ We recognize deferred tax assets to the extent that we believe that these assets are more likely than not to be realized. In making such a determination, we consider all available positive and negative evidence, including future reversals of existing taxable temporary differences, projected future taxable income, tax-planning strategies, carryback potential if permitted under the tax law and results of recent operations. If we determine that we would not be able to realize our deferred tax assets in the future in excess of their net recorded amount, we would make an adjustment to the deferred tax asset through recognizing a valuation allowance, which would increase the provision for income taxes.
+We record uncertain tax positions in accordance with ASC 740 on the basis of a two-step process in which (1) we determine whether it is more likely than not that the tax positions will be sustained on the basis of the technical merits of the position and (2) for those tax positions that meet the more-likely-than-not recognition threshold, we recognize the largest amount of tax benefit that is more than 50 percent likely to be realized upon ultimate settlement with the related tax authority. We recognize interest and penalties related to uncertain tax benefits on the income tax expense line in the accompanying consolidated statement of operations. Accrued interest and penalties are included on the income taxes payable long-term line in the Consolidated Balance Sheets.
+
+ Concentrations of Credit Risk – Our customers are primarily manufacturers of semiconductor substrates and devices and electronic assemblies. Financial instruments that potentially subject us to significant concentrations of credit risk consist principally of cash and trade accounts receivable. Credit risk is managed by performing credit evaluations of the customers’ financial condition, by requiring significant deposits where appropriate, and by actively monitoring collections. Letters of credit are required of certain customers depending on the size of the order, type of customer or its creditworthiness, and country of domicile.
+ As of September 30, 2022, one Semiconductor customer individually represented 12% of accounts receivable. As of September 30, 2021, one Semiconductor customer individually represented 14% of accounts receivable.
+ Refer to Note 20 for information regarding revenue and assets in other countries subject to fluctuation in foreign currency exchange rates.
+
+ Fair Value of Financial Instruments – We group our financial assets and liabilities measured at fair value on a recurring basis into three levels, based on the markets in which the assets and liabilities are traded and the reliability of the assumptions used to determine fair value. These levels are:
+ Level 1 – Valuation is based upon quoted market price for identical instruments traded in active markets.
+ Level 2 – Valuation is based on quoted market prices for similar instruments in active markets, quoted prices for identical or similar instruments in markets that are not active, and model-based valuation techniques for which all significant assumptions are observable in the market.
+ Level 3 – Valuation is generated from model-based techniques that use significant assumptions not observable in the market. Valuation techniques include use of discounted cash flow models and similar techniques.
+ It is our policy to use observable inputs whenever reasonably practicable in order to minimize the use of unobservable inputs when developing fair value measurements. When available, we use quoted market prices to measure fair value. If market prices are not available, the fair value measurement is based on models that use primarily market-based parameters including interest rate yield curves, option volatilities and currency rates. In certain cases, where market rate assumptions are not available, we are required to make judgments about assumptions market participants would use to estimate the fair value of a financial instrument. Changes in the underlying assumptions used, including discount rates and estimates of future cash flows, could significantly affect current or future valuations.
+ 61
+  Cash, Cash Equivalents and Restricted Cash – Included in cash and cash equivalents and restricted cash in the Consolidated Balance Sheets are money market funds invested in treasury bills, notes and other direct obligations of the U.S. Treasury and foreign bank operating and time deposit accounts. Cash equivalents are classified as Level 1 in the fair value hierarchy.
+ Receivables and Payables – The recorded amounts of these financial instruments, including accounts receivable and accounts payable, approximate their fair value because of the short maturities of these instruments.
+ Debt – Due to the relatively short-term nature of the debt, we believe that the carrying value approximated fair value. We paid this debt in full on June 23, 2022 upon the closing of the sale of our Massachusetts manufacturing facility (see Note 8).
+
+ Recently Issued Accounting Pronouncements
+ There were no new accounting pronouncements issued or effective as of September 30, 2022 that had or are expected to have a material impact on our consolidated financial statements.
+
+
+2. Acquisition
+ On March 3, 2021, we acquired 100% of the issued and outstanding capital stock of Intersurface Dynamics, a Connecticut-based manufacturer of substrate process chemicals used in various manufacturing processes, including semiconductors, silicon and compound semiconductor wafers, and optics, for a cash purchase price of $5.3 million. The total fair value of net assets acquired was approximately $0.7 million, including $0.4 million of identifiable intangible assets consisting of customer relationships and trade name, which are amortized using the straight-line method over their estimated useful lives of ten and three years, respectively. Goodwill acquired approximated $4.5 million, which was recorded in our Material and Substrate segment. Intersurface Dynamics's results of operations are included in our Material and Substrate segment from the date of acquisition. Our historical results would not have been materially affected by the acquisition of Intersurface Dynamics.
+
+3. Cybersecurity Incident
+ On April 12, 2021, we detected a data incident in which attackers acquired data and disabled some of the technology systems used by one of our subsidiaries. Upon learning of the incident, we immediately engaged external counsel and retained a team of third-party forensic, incident response, and security professionals to investigate and determine the full scope of this incident. We also notified law enforcement officials and confirmed that the incident is covered by our insurance. We completed the investigation of the data incident with assistance from our outside professionals, and indications were that the unauthorized third-party gained access to certain personal information relating to employees and their beneficiaries for some of our operations. There was no indication of any misuse of this information.
+  Despite this disruption, production continued in our facilities. Our previously disabled subsidiary network is now back up and running securely. Working alongside our security professionals, we were able to bring our subsidiary’s systems online with enhanced security controls. We have deployed an advanced next generation anti-virus and endpoint detection and response tool, as well as Managed Detection & Response services. We remain committed to protecting the security of the personal information entrusted to us and providing high-quality products and service to our customers.
+  We recorded approximately $1.1 million of expense related to this incident, which was included in selling, general and administrative expenses, during 2021. The expense was primarily related to third-party service providers, including security professionals as well as legal and response teams. We may make additional investments in the future to further strengthen our cybersecurity. We filed an insurance claim during 2021 related to the incident. During 2022, we signed a final settlement agreement with our insurer resulting in total reimbursement of approximately $0.6 million, which included $0.4 million received during the quarter ended December 31, 2021 and $0.2 million received during the quarter ended March 31, 2022. No portion of the reimbursement remains outstanding as of September 30, 2022.
+
+ 
+62
+
+
+4. Earnings Per Share & Diluted Earnings Per Share
+ Basic EPS is computed by dividing net income (loss) available to common shareholders by the weighted average number of common shares outstanding for the period. Diluted EPS is computed similarly to basic EPS except that the denominator is increased to include the number of additional common shares that would have been outstanding if potentially dilutive common shares had been issued. In the case of a net loss, diluted EPS is calculated in the same manner as basic EPS.
+ For the years 2022, 2021 and 2020, options for 189,000, 101,000 and 642,000 weighted average shares, respectively, were excluded from the diluted EPS calculations because they were anti-dilutive. These shares could become dilutive in the future.
+ A reconciliation of the denominators of the basic and diluted EPS calculations follows, in thousands, except per share amounts:
+    
+ | Years Ended September 30, | 
+ | 2022 | | 2021 | | | 2020
+Numerator: | | | | | | 
+Net income (loss) from continuing operations | $ | 17,367 | | $ | 1,508 | | $ | (3,907 | )
+Net loss from discontinued operations | $ | — | | $ | — | | $ | (11,816 | )
+Net income (loss) | $ | 17,367 | | $ | 1,508 | | $ | (15,723 | )
+Denominator: | | | | | | 
+Weighted-average shares used to compute basic EPS | | 14,014 | | | 14,189 | | | 14,159 | 
+Common stock equivalents (1) | | 170 | | | 151 | | | — | 
+Weighted-average shares used to compute diluted EPS | | 14,184 | | | 14,340 | | | 14,159 | 
+Basic income (loss) per share from continuing operations | $ | 1.24 | | $ | 0.11 | | $ | (0.28 | )
+Basic loss per share from discontinued operations | $ | — | | $ | — | | $ | (0.83 | )
+Net income (loss) per basic share | $ | 1.24 | | $ | 0.11 | | $ | (1.11 | )
+Diluted income (loss) per share from continuing operations | $ | 1.22 | | $ | 0.11 | | $ | (0.28 | )
+Diluted loss per share from discontinued operations | $ | — | | $ | — | | $ | (0.83 | )
+Net income (loss) per diluted share | $ | 1.22 | | $ | 0.11 | | $ | (1.11 | )
+
+ (1) The number of common stock equivalents is calculated using the treasury stock method and the average market price during the period.
+
+
+ 
+5. Severance
+ The table below details the severance activity for the years ended September 30, 2022 and 2021. The activity during 2021 is the result of staff reductions in our Semiconductor and Material and Substrate operations. The outstanding obligations as of September 30, 2022 and 2021 are as follows, in thousands:
+
+ | Years Ended September 30, | 
+ | 2022 | | | 2021 | 
+Balance at beginning of the year | $ | 17 | | | $ | 102 | 
+Severance expense, net of adjustments | | — | | | | 86 | 
+Cash payments | | (17 | ) | | | (171 | )
+Balance at the end of the year | $ | — | | | $ | 17 | 
+
+ 
+63
+
+
+6. Inventories
+ The components of inventories are as follows, in thousands:
+  
+ | September 30, | 
+ | 2022 | | 2021 | 
+Purchased parts and raw materials | $ | 15,377 | | $ | 12,647
+Work-in-process | | 6,146 | | | 4,865 
+Finished goods | | 3,965 | | | 4,563 
+ | $ | 25,488 | | $ | 22,075
+
+7. Property, Plant and Equipment
+ The following is a summary of property, plant and equipment, in thousands:
+  
+ | September 30, | 
+ | 2022 | | | 2021 | 
+Land | $ | 189 | | | $ | 3,240 | 
+Buildings | | 717 | | | | 5,396 | 
+Building and leasehold improvements | | 2,694 | | | | 4,622 | 
+Equipment and machinery | | 7,238 | | | | 6,261 | 
+Furniture and fixtures | | 2,307 | | | | 2,458 | 
+ | | 13,145 | | | | 21,977 | 
+Accumulated depreciation and amortization | | (6,593 | ) | | | (7,894 | )
+ | $ | 6,552 | | | $ | 14,083 | 
+
+ Depreciation was $1.6 million, $1.2 million and $0.8 million in 2022, 2021 and 2020, respectively.
+
+ 
+8. Sale and Leaseback of Real Estate
+ On June 23, 2022, BTU completed the sale and leaseback of its building in Massachusetts (the “Property”). The sale price was $20.6 million, of which $0.7 million was deducted at closing for commission and other closing expenses. Simultaneously with the closing, BTU entered into a two-year leaseback of the Property. The lease terms include annual base rent of $1.5 million in an absolute triple net lease. In connection with the sale, BTU recognized a pre-tax gain on sale of $12.5 million, which is recorded within operating expenses on the Consolidated Statement of Operations. This sale-leaseback transaction resulted in a net cash inflow of approximately $14.9 million, after repayment of the existing mortgage and settlement of related sale expenses.
+64
+
+
+
+9. Leases
+ The following table provides information about the financial statement classification of our lease balances reported within the Consolidated Balance Sheets as of September 30, 2022 and 2021, in thousands:
+
+ | September 30, | 
+ | 2022 | | 2021 | 
+Assets | | | | 
+Right-of-use assets - operating | $ | 11,258 | | $ | 8,646
+Right-of-use assets - finance | | 149 | | | 174 
+Total right-of-use assets | $ | 11,407 | | $ | 8,820
+Liabilities | | | | 
+Current | | | | 
+Operating lease liabilities | $ | 2,101 | | $ | 470 
+Finance lease liabilities | | 71 | | | 61 
+Total current portion of long-term lease liabilities | | 2,172 | | | 531 
+Long-term | | | | 
+Operating lease liabilities | | 9,395 | | | 8,279
+Finance lease liabilities | | 76 | | | 110 
+Total long-term lease liabilities | | 9,471 | | | 8,389
+Total lease liabilities | $ | 11,643 | | $ | 8,920
+
+ The following table provides information about the financial statement classification of our lease expenses reported in the Consolidated Statements of Operations for the years ended September 30, 2022 and 2021, in thousands:
+  
+ | | Years Ended September 30, | 
+Lease cost | Classification | 2022 | | 2021 | | | 2020
+Operating lease cost | Cost of sales | $ | 822 | | $ | 536 | | $ | 208
+Operating lease cost | Selling, general and administrative expenses | | 359 | | | 256 | | | 84 
+Operating lease cost | Research, development and engineering | | 14 | | | — | | | — 
+Finance lease cost | Cost of sales | | | | | | | | 16 
+Finance lease cost | Selling, general and administrative expenses | | 71 | | | 17 | | | 8 
+Short-term lease cost | Cost of sales | | — | | | 191 | | | 164
+Total lease cost | | $ | 1,270 | | $ | 1,005 | | $ | 480
+
+ Future minimum lease payments under non-cancelable leases as of September 30, 2022 are as follows, in thousands:
+  
+ | Operating Leases | | Finance Leases | | | Total
+2023 | $ | 2,535 | | $ | 76 | | $ | 2,611 
+2024 | | 2,136 | | | 57 | | | 2,193 
+2025 | | 978 | | | 9 | | | 987 
+2026 | | 861 | | | 9 | | | 870 
+2027 | | 773 | | | 3 | | | 776 
+Thereafter | | 7,863 | | | — | | | 7,863 
+Total lease payments | | 15,146 | | | 154 | | | 15,300
+Less: Interest | | 3,650 | | | 7 | | | 3,657 
+Present value of lease liabilities | $ | 11,496 | | $ | 147 | | $ | 11,643
+
+ 65
+  Operating lease payments include $6.2 million related to options to extend lease terms that are reasonably certain of being exercised.
+ The following table provides information about the remaining lease terms and discount rates applied as of September 30, 2022 and 2021:
+  
+ | September 30, | 
+ | 2022 | | | 2021 
+Weighted average remaining lease term | | | | 
+Operating leases | 12.65 years | | | 16.92 years
+Finance leases | 2.45 years | | | 2.79 years 
+Weighted average discount rate | | | | 
+Operating leases | | 4.17 | % | | 4.17 | %
+Finance leases | | 4.17 | % | | 4.17 | %
+
+10. Intangible Assets
+  Intangible assets consist of the following, in thousands:
+  
+ | | September 30, | 
+ | Useful Life | 2022 | | | 2021 | 
+Customer lists | 6-10 years | $ | 1,609 | | | $ | 1,609 | 
+Trade names | 3-15 years | | 879 | | | | 879 | 
+ | | | 2,488 | | | | 2,488 | 
+Accumulated amortization | | | (1,730 | ) | | | (1,630 | )
+Intangible assets, net | | $ | 758 | | | $ | 858 | 
+
+ During each fiscal year, we periodically assessed whether any indicators of impairment existed related to our intangible assets. As of each interim period end during each fiscal year, we concluded that a triggering event had not occurred that would more likely than not reduce the fair value of intangible assets below their carrying value.
+ Amortization expense related to intangible assets at our continuing operations was $0.1 million, $0.2 million and $0.3 million in 2022, 2021 and 2020, respectively.  Future amortization expense for the remaining unamortized balance as of September 30, 2022 is estimated as follows, in thousands:
+  
+Years Ending September 30, | AmortizationExpense | 
+2023 | $ | 100
+2024 | | 98 
+2025 | | 97 
+2026 | | 97 
+2027 | | 97 
+Thereafter | | 269
+Total | $ | 758
+
+11. Goodwill
+ The changes in the carrying amount of goodwill, by reportable segment, for the year ended September 30, 2022 are as follows, in thousands:
+  
+ | Semiconductor | | Material and Substrate | | | Total Goodwill
+Goodwill | $ | 5,905 | | $ | 5,263 | | $ | 11,168
+Accumulated impairment losses | | — | | | — | | | — 
+Balance at September 30, 2021 | | 5,905 | | | 5,263 | | | 11,168
+Goodwill acquired during 2022 | | — | | | — | | | — 
+Impairment of goodwill during 2022 | | — | | | — | | | — 
+Balance at September 30, 2022 | $ | 5,905 | | $ | 5,263 | | $ | 11,168
+Goodwill | $ | 5,905 | | $ | 5,263 | | $ | 11,168
+Accumulated impairment losses | | — | | | — | | | — 
+Balance at September 30, 2022 | $ | 5,905 | | $ | 5,263 | | $ | 11,168
+
+ On March 3, 2021, we acquired Intersurface Dynamics, which has been integrated into our Material and Substrate segment. Under the purchase method of accounting, the purchase price for the acquisition was allocated to the tangible and identifiable intangible assets acquired and liabilities assumed based on their estimated fair values. The excess purchase price over fair value of net assets acquired of approximately $4.5 million was recorded as goodwill in the Material and Substrate segment. The primary driver for this acquisition was to bolster our offerings in the substrate consumables space and incorporate wafer processing coolants and chemicals to our existing consumable and machine product lines.
+ During each fiscal year, we periodically assessed whether any indicators of impairment existed which would require us to perform an interim impairment review. As of each interim period end during each fiscal year, we concluded that a triggering event had not occurred that would more likely than not reduce the fair value of our reporting units below their carrying values. We performed our annual test of goodwill for impairment as of September 30. The results of the goodwill impairment test indicated that the fair values of our Semiconductor and Material and Substrate reporting units were in excess of the carrying values, and, thus, we did not require an impairment charge. While the quantitative analysis indicated no impairment of Semiconductor and Material and Substrate segment goodwill existed as of September 30, 2022, if the future performance of these reporting units fall short of our expectations or if there are significant changes in operations due to changes in market conditions, we could be required to recognize material impairment charges in future periods.
+
+ 
+12. Income Taxes
+ Income Tax Provision
+ The following note related to income taxes summarizes the results from both continuing and discontinued operations. The components of income (loss) before provision for income taxes are as follows, in thousands:
+
+ | Years Ended September 30, | 
+ | 2022 | | 2021 | | | 2020
+Domestic | $ | 15,275 | | $ | (3,320 | ) | $ | (18,652 | )
+Foreign | | 3,510 | | | 6,754 | | | 3,673 | 
+ | $ | 18,785 | | $ | 3,434 | | $ | (14,979 | )
+
+   The components of the provision for income taxes are as follows, in thousands:
+  
+ | Years Ended September 30, | 
+ | 2022 | | | 2021 | | | 2020
+Current: | | | | | | | 
+Domestic federal | $ | — | | | $ | — | | $ | (239 | )
+Foreign | | 711 | | | | 1,999 | | | 1,407 | 
+Foreign withholding taxes | | 255 | | | | 292 | | | 201 | 
+Domestic state | | 77 | | | | (300 | ) | | (59 | )
+Total current | | 1,043 | | | | 1,991 | | | 1,310 | 
+Deferred: | | | | | | | 
+Domestic Federal | | (39 | ) | | | — | | | — | 
+Foreign | | 414 | | | | (65 | ) | | (566 | )
+Total deferred | | 375 | | | | (65 | ) | | (566 | )
+Total provision | $ | 1,418 | | | $ | 1,926 | | $ | 744 | 
+
+ The CARES Act, which was signed into law on March 27, 2020, included a provision for a five-year carryback of net operating losses. We have assessed the benefit of the provision and utilized a portion of the 2019 net operating loss carryback to offset income from 2018. The income tax provision as of and for the year ended September 30, 2020 reflects such impact.
+ Due to the tax treatment relating to the sale of Tempress, we realized an income tax benefit of $11.1 million, which is reflected in our discontinued operations in 2020. We realized income tax expense of $0.2 million for the sale of R2D, which is reflected in our continuing operations in 2020. The income tax (benefit) expense is fully offset by a valuation allowance.
+ A reconciliation of actual income taxes to income taxes at the expected U.S. federal corporate income tax rate is as follows, in thousands, except percentages:
+  
+ | Years Ended September 30, | 
+ | 2022 | | | 2021 | | | 2020
+Federal statutory rate | | 21.0 | % | | | 21.0 | % | | 21.0 | %
+Tax expense (benefit) at the federal statutory rate | $ | 3,945 | | | $ | 722 | | $ | (3,146 | )
+Effect of permanent book-tax differences | | 11 | | | | 54 | | | 145 | 
+State tax provision | | 554 | | | | 24 | | | 34 | 
+Valuation allowance for net deferred tax assets | | (3,138 | ) | | | 842 | | | 3,775 | 
+Uncertain tax items | | 55 | | | | (276 | ) | | (47 | )
+Tax rate differential | | 535 | | | | 267 | | | 222 | 
+Other items | | (544 | ) | | | 293 | | | (239 | )
+ | $ | 1,418 | | | $ | 1,926 | | $ | 744 | 
+
+ 68
+  Deferred Income Taxes and Valuation Allowance
+ Deferred income taxes reflect the tax effects of temporary differences between the financial statement and tax bases of assets and liabilities by using enacted tax rates in effect for the year in which the differences are expected to be realized. The components of deferred tax assets and deferred tax liabilities are as follows, in thousands:
+
+ | September 30, | 
+ | 2022 | | | 2021 | 
+Deferred tax assets: | | | | | 
+Net operating loss carryforwards | $ | 17,180 | | | $ | 20,650 | 
+Accruals and reserves | | 1,441 | | | | 1,250 | 
+Foreign tax credit | | 811 | | | | 1,207 | 
+Operating lease liabilities | | 2,492 | | | | 1,119 | 
+Foreign service fee | | 1,579 | | | | 1,635 | 
+Other assets | | 467 | | | | 1,092 | 
+Total deferred tax assets | | 23,970 | | | | 26,953 | 
+Valuation allowance | | (20,000 | ) | | | (23,292 | )
+Deferred tax assets, net of valuation allowance | | 3,970 | | | | 3,661 | 
+Deferred tax liabilities: | | | | | 
+Goodwill and identifiable intangible assets | | (321 | ) | | | (499 | )
+Property and equipment, net | | (758 | ) | | | (1,201 | )
+Operating lease, right-of-use assets | | (2,494 | ) | | | (1,119 | )
+Prepaid assets | | (318 | ) | | | (211 | )
+Total deferred tax liabilities | | (3,891 | ) | | | (3,030 | )
+Total deferred tax assets (liabilities) | $ | 79 | | | $ | 631 | 
+
+ Changes in the deferred tax valuation allowance are as follows, in thousands:
+  
+ | Years Ended September 30, | 
+ | 2022 | | | 2021 | 
+Balance at the beginning of the year | $ | 23,292 | | | $ | 21,733
+(Reductions) additions to valuation allowance | | (3,292 | ) | | | 1,559 
+Balance at the end of the year | $ | 20,000 | | | $ | 23,292
+
+ The deferred tax valuation allowance decreased by $3.3 million and increased by $1.6 million for the years ended September 30, 2022 and 2021, respectively. In assessing the realizability of deferred tax assets, we consider whether it is more likely than not that some portion or all of the deferred tax assets will be realized. The ultimate realization of deferred tax assets is dependent upon the generation of future taxable income during the periods in which those temporary differences become deductible. We consider the scheduled reversal of deferred tax liabilities, projected future income and tax planning strategies in making this assessment. We have established valuation allowances on all net U.S. deferred tax assets, after considering all of the available objective evidence, both positive and negative, historical and prospective, with greater weight given to historical evidence, and determined it is not more likely than not that these assets will be realized. We have established a partial valuation allowance on certain foreign deferred tax assets that we consider it is more likely than not will not be realized.
+ We intend to permanently reinvest undistributed earnings of our foreign subsidiaries. It is not practicable to estimate the amount of tax that might be payable on the undistributed amounts.
+ 69
+  Net Operating Losses
+ As of September 30, 2022, we have federal net operating loss carryforwards of approximately $10.0 million that expire at various times between 2032 and 2035. The utilization of those federal net operating losses is limited to approximately $0.8 million per year. Additionally, we have federal net operating loss carryforwards of approximately $68.0 million that have an indefinite carryforward period. The utilization of those federal net operating losses is limited to 80% of taxable income after 2021. We have no foreign net operating loss carryforwards as of September 30, 2022. We have approximately $14.0 million of state net operating loss carryforwards, with various expiration dates and limitations on utilization, depending on the state. As of September 30, 2022, we have approximately $0.8 million of Foreign Tax Credit carryforwards that expire in 2030 and 2031.
+Uncertain Tax Positions
+ We have included all of our liabilities for uncertain tax positions with income taxes payable long-term. A reconciliation of the beginning and ending amount of our unrecognized tax benefits is summarized as follows (in thousands):
+
+ | Years Ended September 30, | 
+ | 2022 | | 2021 | | | 2020
+Balance at beginning of the year | $ | 949 | | $ | 1,225 | | $ | 1,272 | 
+Additions related to tax positions taken in prior years | | 55 | | | — | | | — | 
+Reductions due to resolution of uncertain tax position | | — | | | (276 | ) | | (47 | )
+Balance at the end of the year | $ | 1,004 | | $ | 949 | | $ | 1,225 | 
+
+ Approximately $1.0 million of our total unrecognized tax benefits, inclusive of penalties and interest, represents the amount that, if recognized, would favorably affect our effective income tax rate in future periods. We report accrued interest and penalties related to unrecognized tax benefits in income tax expense. We recognized a net (benefit) expense for interest and penalties of $0.1 million, $(0.1) million and $4,000 for 2022, 2021 and 2020, respectively. Income taxes payable long-term on the Consolidated Balance Sheets includes a cumulative accrual for potential interest and penalties of $0.7 million and $0.6 million as of September 30, 2022 and 2021, respectively. We do not expect that the amount of our tax reserves for uncertain tax positions will materially change in the next 12 months other than the continued accrual of interest and penalties.
+ Tax Return Matters
+ We file income tax returns in China and other foreign jurisdictions, as well as the U.S. and various states in the U.S. We have not signed any agreements with the Internal Revenue Service, any state or foreign jurisdiction to extend the statute of limitations for any fiscal year. As such, the number of open years is the number of years dictated by statute in each of the respective taxing jurisdictions. U.S. Federal tax returns generally have a 3-year statute of limitations. Therefore, U.S. federal returns for tax years ending on or after September 30, 2019 remain open for examination. In addition, the statute for a tax year for which a loss was carried back to remains open for the same period as the year the loss originated. Because the Company filed a net operating loss carryback claim for the tax year ended September 30, 2016 for a loss originating in the tax year ended September 30, 2019, the statute for the carryback claim in 2016 will remain open until 2023. Furthermore, the IRS may adjust attribute carryforwards utilized in an open year even though the year the attributes originated may be closed. State and foreign statutes are generally 3 to 5 years but vary by jurisdiction. These open years contain certain matters that could be subject to differing interpretations of applicable tax laws and regulations as they relate to the amount, timing, or inclusion of revenues and expenses, or the sustainability of income tax positions of Amtech and our subsidiaries.
+
+ 
+70
+
+
+13. Long-Term Debt
+ We had a mortgage note secured by BTU’s real property in Massachusetts, which was paid in full upon the closing of the sale of this facility in June 2022 (see Note 8). Our remaining long-term debt consists of an equipment finance agreement. Annual maturities relating to our long-term debt as of September 30, 2022 are as follows (in thousands):
+  
+ | AnnualMaturities | 
+2023 | $ | 36 
+2024 | | 38 
+2025 | | 
+2026 | | 
+2027 | | 25 
+Thereafter | | — 
+Total long-term debt | $ | 180
+
+ Interest expense on long-term debt was $0.1 million, $0.2 million and $0.2 million in 2022, 2021 and 2020, respectively.
+
+ 
+14. Equity and Stock-Based Compensation
+ Stock Repurchase Plans
+  The following table summarizes information related to our stock repurchase plans, in thousands, except share and per share amounts:
+  
+Name of Stock Repurchase Plan | Date Approved by Board | Plan Term | Amount Authorized ($) | | Amount Used for Repurchases ($) | Average Price Paid per Share ($) | Shares Repurchased (#) | | Amount Available for Repurchases ($) | | Plan Status | Fiscal Year of Repurchases | 
+2022 Stock Repurchase Plan | 2/10/2022 | 1 year | | 5,000 | | 1,400 | 9.78 | | | 143,430 | | | 3,600 | | Open | | 2022
+2021 Stock Repurchase Plan | 2/9/2021 | 1 year | | 4,000 | | 2,700 | 9.31 | | | 291,383 | | | — | | Expired | | 2022
+2020 Stock Repurchase Plan | 2/4/2020 | 1 year | | 4,000 | | 2,000 | 5.46 | | | 366,000 | | | — | | Expired | | 2020
+2019 Stock Repurchase Plan | 11/29/2018 | 1 year | | 4,000 | | — | | — | | | — | | | — | | Expired | NA 
+
+ All repurchased shares have been retired.
+ Stock-Based Compensation Expense
+ Stock-based compensation expenses of $0.5 million, $0.4 million and $0.3 million for 2022, 2021 and 2020, respectively, are included in selling, general and administrative expenses. As of September 30, 2022, total compensation cost related to non-vested stock options not yet recognized is $0.7 million, which is expected to be recognized over the next 1.19 years on a weighted-average basis.
+Amtech Equity Compensation Plans
+ The 2022 Plan, under which 1,000,000 shares could be granted, was adopted by the Board of Directors in November 2021, and approved by the shareholders in March 2022.
+ The 2007 Plan, under which 500,000 shares could be granted, was adopted by the Board in April 2007, and approved by the shareholders in May 2007. The 2007 Plan was amended in 2009, 2014 and 2015 to add 2,500,000 shares. The
+71
+  plan was also amended in 2019 to extend the term of the plan and allow for the grant of restricted stock units. Upon the adoption of the 2022 Plan, no further awards will be granted from the 2007 Plan. Previously issued awards will remain outstanding in accordance with their terms.
+ The Non-Employee Directors Stock Option Plan was approved by the shareholders in 1996 for issuance of up to 100,000 shares of common stock to directors. The Non-Employee Directors Stock Option Plan was amended in 2005, 2009 and 2014 to add 400,000 shares. The plan was also amended in 2020 to extend the term of the plan. Upon the adoption of the 2022 Plan as stated above, no further awards will be granted from the Non-Employee Directors Stock Option Plan. Previously issued awards will remain outstanding in accordance with their terms.
+ Equity compensation plans as of September 30, 2022 are summarized in the table below:
+  
+Name of Plan | SharesAuthorized | | SharesAvailable for Grant | | | OptionsOutstanding | | PlanExpiration
+2022 Plan | | 1,000,000 | | | 946,000 | | | 54,000 | Mar. 2032
+2007 Plan | | 3,000,000 | | | — | | | 397,341 | Mar. 2024
+Non-Employee Directors Stock Option Plan | | 500,000 | | | — | | | 138,000 | Mar. 2024
+ | | | | 946,000 | | | 589,341 | 
+
+Stock Options
+ Stock options issued under the terms of our equity compensation plans have, or will have, an exercise price equal to or greater than the fair market value of the common stock at the date of the option grant and expire no later than 10 years from the date of grant. Options issued under the plans vest over 1 to 3 years. We estimated the fair value of stock option awards on the date of grant using the Black-Scholes option pricing model using the following assumptions:
+
+ | Years Ended September 30,
+ | 2022 | 2021 | 2020 
+Risk free interest rate | 2% | 1% | 1% 
+Expected life | 5 years | 6 years | 6 years
+Dividend rate | 0% | 0% | 0% 
+Volatility | % | % | 58% 
+
+ The following table summarizes our stock option activity during 2022, 2021 and 2020:
+  
+ | Years Ended September 30, | 
+ | 2022 | | | 2021 | | | 2020 | 
+ | Options | | | WeightedAverageExercisePrice | | | Options | | | WeightedAverageExercisePrice | | Options | | | WeightedAverageExercisePrice
+Outstanding at beginning of period | | 608,269 | | | $ | 6.48 | | | | 696,665 | | $ | 7.00 | | | 1,068,665 | | $ | 7.04
+Granted | | 135,500 | | | $ | 12.80 | | | | 204,000 | | $ | 6.25 | | | 32,500 | | $ | 5.34
+Exercised | | (124,475 | ) | | $ | 5.78 | | | | (241,320 | ) | $ | 6.40 | | | (160,375 | ) | $ | 5.47
+Forfeited/expired | | (29,953 | ) | | $ | 6.92 | | | | (51,076 | ) | $ | 13.01 | | | (244,125 | ) | $ | 7.94
+Outstanding at end of period | | 589,341 | | | $ | 8.06 | | | | 608,269 | | $ | 6.48 | | | 696,665 | | $ | 7.00
+Exercisable at end of period | | 358,343 | | | $ | 6.92 | | | | 403,853 | | $ | 6.87 | | | 611,542 | | $ | 7.19
+Weighted average grant-date fair value of options granted during the period | $ | 6.39 | | | | | | $ | 3.33 | | | | | $ | 2.89 | | 
+
+ 72
+  The following table summarizes information for stock options outstanding and exercisable as of September 30, 2022:
+  
+ | Options Outstanding | | Options Exercisable 
+Range of Exercise Prices | NumberOutstanding | | RemainingContractualLife(in years) | | WeightedAverageExercisePrice PerShare | | NumberExercisable | WeightedAverageExercisePrice PerShare | 
+$2.95-$4.90 | | 62,000 | | 5.72 | | $ | 4.64 | | 62,000 | $ | 4.64 
+$5.07-$5.52 | | 86,883 | | 5.80 | | $ | 5.38 | | 66,717 | $ | 5.39 
+$5.67-$5.67 | | 113,958 | | 8.13 | | $ | 5.67 | | 38,626 | $ | 5.67 
+$5.75-$7.01 | | 77,000 | | 2.20 | | $ | 6.70 | | 77,000 | $ | 6.70 
+$7.40-$9.98 | | 114,000 | | 4.98 | | $ | 8.75 | | 84,000 | $ | 9.12 
+$9.99-$9.99 | | 6,000 | | 8.87 | | $ | 9.99 | | 6,000 | $ | 9.99 
+$10.22-$10.22 | | 24,000 | | 9.42 | | $ | 10.22 | | — | | — 
+$10.71-$10.71 | | 6,000 | | 2.52 | | $ | 10.71 | | 6,000 | $ | 10.71
+$11.51-$11.51 | | 18,000 | | 8.48 | | $ | 11.51 | | 18,000 | $ | 11.51
+$15.43-$15.43 | | 81,500 | | 9.13 | | $ | 15.43 | | — | | — 
+$2.95-$15.43 | | 589,341 | | 6.30 | | $ | 8.06 | | 358,343 | $ | 6.92 
+
+ The aggregate intrinsic values of options outstanding and options exercisable as of September 30, 2022 were approximately $1.0 million and $0.7 million, respectively, which represents the total pre-tax intrinsic value, based on our closing stock price of $8.50 per share as of September 30, 2022, the last business day of our fiscal year, which would have been received by the option holders had all option holders exercised their options as of that date. The total intrinsic value of stock options exercised during the fiscal years ended September 30, 2022, 2021 and 2020 was $0.8 million, $0.8 million and $0.1 million, respectively.
+
+ 
+15. Benefit Plans
+ We have retirement plans covering substantially all our employees. The principal plans are our defined contribution plan that covers substantially all of our employees in the United States and the multi-employer pension plan for hourly union employees in Pennsylvania. Expense related to both plans is insignificant.
+ Defined Contribution Plan – Domestic employees of Amtech and its subsidiaries who meet certain eligibility requirements may participate, at the employee’s option, in the 401(k) Plan. The 401(k) Plan is a defined contribution plan subject to the provisions of ERISA. We match employee contributions to the 401(k) Plan equal to 60% of the participants' elective deferrals, up to 3.6% of the participants’ eligible compensation each payroll period. Employees are auto-enrolled upon eligibility at a 6% contribution rate, however, an employee may opt out at their election. The match expense was $0.4 million in 2022 and $0.3 million in 2021 and 2020.
+ Pension Plan – Our hourly union employees in Pennsylvania participate in a multi-employer pension plan, the NIGPP, in accordance with the union agreement between PR Hoffman and the United Automobile, Aerospace and Agriculture Implement Workers of America. The agreement was renewed in 2022 for a three-year term that expires September 30, 2025. Every company participating in the plan pays a contribution per hour worked for each employee of the company that is eligible to participate in the NIGPP. Our contributions to the NIGPP were $38,000, $39,000 and $44,000 in 2022, 2021 and 2020, respectively.
+
+16. Commitments and Contingencies
+ Purchase Obligations – As of September 30, 2022, we had unrecorded purchase obligations in the amount of $20.0 million. These purchase obligations consist of outstanding purchase orders for goods and services. While the amount represents purchase agreements, the actual amounts to be paid may be less in the event that any agreements are renegotiated, canceled or terminated.
+ Legal Proceedings and Other Claims – From time to time, we are a party to claims and actions for matters arising out of our business operations. We regularly evaluate the status of the legal proceedings and other claims in which we are involved to assess whether a loss is probable or there is a reasonable possibility that a loss, or an additional loss, may have been incurred and determine if accruals are appropriate. If accruals are not appropriate, we further evaluate
+73
+  each legal proceeding to assess whether an estimate of possible loss or range of possible loss can be made for disclosure. Although the outcome of claims and litigation is inherently unpredictable, we believe that we have adequate provisions for any probable and estimable losses. It is possible, nevertheless, that our consolidated financial position, results of operations or liquidity could be materially and adversely affected in any particular period by the resolution of a claim or legal proceeding. Legal expenses related to defense, negotiations, settlements, rulings and advice of outside legal counsel are expensed as incurred.
+ Employment Contracts – We have employment contracts and change in control agreements with, and severance plans covering, certain officers and management employees under which severance payments would become payable in the event of specified terminations without cause or terminations under certain circumstances after a change in control. If severance payments under the current employment contracts or severance plans were to become payable, the severance payments would generally range from six to twelve months of salary.
+
+ 
+17. Cash Flows
+ Non-cash investing activities may include capital expenditures in accounts payable, representing additions purchased at period end but not yet paid in cash. Non-cash investing activities for the year ended September 30, 2022 included $0.2 million of capital expenditures in accounts payable. There were no non-cash capital expenditures in accounts payable for the year ended September 30, 2021. Non-cash investing activities for the year ended September 30, 2020 included $80,000 of capital expenditures in accounts payable.
+
+18. Reportable Segments
+ Upon the acquisition of Intersurface Dynamics in 2021 (see Note 2), we evaluated our organizational structure and concluded that we have two reportable segments following the acquisition.
+ Amtech has two operating segments that are structured around the types of product offerings provided to our customers. In addition, the operating segments may be further distinguished by the Company’s respective brands. These two operating segments comprise our two reportable segments discussed below. Our two reportable segments are as follows:
+ Semiconductor – We design, manufacture, sell and service thermal processing equipment and related controls for use by leading semiconductor manufacturers, and in electronics, automotive and other industries.
+ Material and Substrate – We produce consumables and machinery for lapping (fine abrading) and polishing of materials, such as sapphire substrates, optical components, silicon wafers, numerous types of crystal materials, ceramics and metal components. Our Material and Substrate segment includes our former SiC/LED segment in addition to Intersurface Dynamics, as they sell complementary products to a similar market.
+ Information concerning our reportable segments is as follows, in thousands:
+  
+ | Years Ended September 30, | 
+ | 2022 | | | 2021 | | | 2020
+Net revenue: | | | | | | | 
+Semiconductor | $ | 87,982 | | | $ | 72,086 | | $ | 54,516 | 
+Material and Substrate | | 18,316 | | | | 13,119 | | | 10,304 | 
+Non-segment related | | — | | | | — | | | 643 | 
+ | $ | 106,298 | | | $ | 85,205 | | $ | 65,463 | 
+Operating income (loss): | | | | | | | 
+Semiconductor | $ | 20,672 | | | $ | 8,585 | | $ | 4,168 | 
+Material and Substrate | | 3,728 | | | | 278 | | | 684 | 
+Non-segment related | | (7,114 | ) | | | (5,138 | ) | | (5,337 | )
+ | $ | 17,286 | | | $ | 3,725 | | $ | (485 | )
+
+ 74
+    
+ | Years Ended September 30, | 
+ | 2022 | | 2021 | | | 2020
+Capital expenditures: | | | | | | 
+Semiconductor | $ | 452 | | $ | 2,264 | | $ | 912 
+Material and Substrate | | 411 | | | 695 | | | 1,724
+Non-segment related | | 272 | | | 53 | | | 39 
+ | $ | 1,135 | | $ | 3,012 | | $ | 2,675
+Depreciation and amortization expense: | | | | | | 
+Semiconductor | $ | 1,101 | | $ | 905 | | $ | 821 
+Material and Substrate | | 565 | | | 438 | | | 197 
+Non-segment related | | 63 | | | 55 | | | 60 
+ | $ | 1,729 | | $ | 1,398 | | $ | 1,078
+
+
+ | September 30, | 
+ | 2022 | | 2021 | 
+Identifiable assets: | | | | 
+Semiconductor | $ | 75,622 | | $ | 70,631 
+Material and Substrate | | 22,032 | | | 19,541 
+Non-segment related* | | 35,880 | | | 26,741 
+ | $ | 133,534 | | $ | 116,913
+
+ * Non-segment related assets include cash, property and other assets.
+
+
+ 19. Major Customers and Sales by Country
+ In 2022, two Semiconductor customers accounted for 14% and 12% of net revenues. In 2021, two Semiconductor customers accounted for 14% and 13% of net revenues. In 2020, one Semiconductor customer accounted for 11% of net revenues.
+ Our net revenues for 2022, 2021 and 2020 were to customers in the following geographic regions:
+  
+ | Years Ended September 30, | 
+ | 2022 | | | 2021 | | 2020
+United States | | 27 | % | | 22 | % | 28 | %
+Other | | 9 | % | | 5 | % | 7 | %
+Total Americas | | 36 | % | | 27 | % | 35 | %
+China | | 17 | % | | 29 | % | 25 | %
+Malaysia | | 7 | % | | 3 | % | 5 | %
+Taiwan | | | % | | | % | 15 | %
+Other | | 6 | % | | 11 | % | 7 | %
+Total Asia | | 44 | % | | 58 | % | 52 | %
+Germany | | | % | | | % | 3 | %
+Austria | | 10 | % | | 3 | % | — | %
+Other | | | % | | | % | 10 | %
+Total Europe | | 20 | % | | 15 | % | 13 | %
+ | | 100 | % | | 100 | % | 100 | %
+
+ 
+75
+
+
+20. Geographic Regions
+ We have continuing operations in the United States and China, as well as satellite offices in Europe and Asia. Revenues, operating income (loss) and identifiable assets by geographic region are as follows, in thousands:
+
+ | Years Ended September 30, | 
+ | 2022 | | 2021 | | | 2020
+Net revenue: | | | | | | 
+United States* | $ | 89,197 | | $ | 58,937 | | $ | 48,089 | 
+China | | 13,854 | | | 22,828 | | | 13,510 | 
+Other | | 3,247 | | | 3,440 | | | 3,864 | 
+ | $ | 106,298 | | $ | 85,205 | | $ | 65,463 | 
+Operating income (loss): | | | | | | 
+United States* | $ | 14,163 | | $ | (4,174 | ) | $ | (5,814 | )
+China | | 2,003 | | | 6,958 | | | 4,744 | 
+Other | | 1,120 | | | 941 | | | 585 | 
+ | $ | 17,286 | | $ | 3,725 | | $ | (485 | )
+
+ * United States revenue includes $22.7 million, $19.7 million and $14.9 million in 2022, 2021 and 2020, respectively, related to the products manufactured in our China facility but sold through our Massachusetts facility.
+  
+ | September 30, | 
+ | 2022 | | 2021 | 
+Net property, plant and equipment: | | | | 
+United States | $ | 4,981 | | $ | 11,990
+China | | 1,571 | | | 2,093 
+ | $ | 6,552 | | $ | 14,083
+
+21. Supplementary Financial Information
+ The following is a summary of the activity in our allowance for doubtful accounts, in thousands:
+  
+ | Years Ended September 30, | 
+ | 2022 | | | 2021 | | | 2020
+Balance at beginning of year | $ | 188 | | | $ | 159 | | $ | 172 | 
+Provision | | (34 | ) | | | 44 | | | 86 | 
+Write offs | | 6 | | | | (2 | ) | | (26 | )
+Adjustment (1) | | (46 | ) | | | (13 | ) | | (73 | )
+Balance at end of year | $ | 114 | | | $ | 188 | | $ | 159 | 
+
+ (1) Primarily foreign currency translation adjustments.
+
+ Our net accounts receivable as of September 30, 2022, 2021 and 2020 was $25.0 million, $22.5 million and $11.2 million, respectively.
+
+ 
+22. Discontinued Operations and Disposals
+ Discontinued Operations
+ In April 2019, we announced that the Board determined that it was in the long-term best interest of Amtech to exit the solar business segment and focus our strategic efforts on our non-Solar segments in order to more fully realize the opportunities presented in those areas. The Board made its decision, effective March 28, 2019, after analyzing current market conditions and the strategic outlook for its Solar segment, which operates in a highly competitive market among lower cost manufacturers, particularly in China.
+ The divestiture of our solar business included our Tempress and SoLayTec subsidiaries, which comprised substantially all of our Solar segment. We adopted a plan to sell our Solar operations on or before March 31, 2020. As such, we
+76
+  classified substantially all of the Solar segment as held for sale in our Consolidated Balance Sheets and reported its results as discontinued operations in our Consolidated Statements of Operations. SoLayTec was sold in fiscal 2019.
+ Effective January 22, 2020 (“Tempress Sale Date”), we completed the sale of Tempress for nominal consideration to a third party located in the Netherlands. In connection with this sale transaction, we provided an unsecured term loan to Tempress in the principal sum of $2.25 million, to be used to fund Tempress’ working capital requirements and to facilitate the restructuring of Tempress’ operations. We forgave $0.5 million of the loan in accordance with the terms of the loan agreement. The balance of the loan was paid in full during 2020. We recorded a pre-tax loss on sale of approximately $10.9 million, of which approximately $7.2 million was the recognition of previously recorded accumulated foreign currency translation losses. The total pre-tax loss did not have a material effect on our cash balances at our continuing operations. We also recognized a significant tax benefit relating to this loss, which can be carried over to future years. Effective on the Tempress Sale Date, Tempress is no longer included in our consolidated financial statements.
+ Operating results of our discontinued solar operations were as follows, in thousands:
+  
+ | Year Ended September 30, | 
+ | 2020 | 
+Revenue, net | $ | 7,442 | 
+Cost of sales | | 5,969 | 
+Gross profit | | 1,473 | 
+Selling, general and administrative | | 1,814 | 
+Research, development and engineering | | 540 | 
+Restructuring charges | | 37 | 
+Operating loss | | (918 | )
+Loss on sale of subsidiary | | (10,916 | )
+Interest expense and other, net | | (29 | )
+Loss from discontinued operations before income taxes | | (11,863 | )
+Income tax benefit | | (47 | )
+Net loss | $ | (11,816 | )
+
+ Amtech’s Consolidated Statement of Cash flows combines cash flows from discontinued operations with cash flows from continuing operations within each cash flow statement category. The following table summarizes selected cash flow information for discontinued operations, in thousands:
+  
+ | Year Ended September 30, | 
+ | 2020 | 
+Loss from discontinued operations, net of tax | $ | (11,816 | )
+Depreciation and amortization | $ | 180 | 
+Reversal of allowance for doubtful accounts, net | $ | (62 | )
+Loss on sale of subsidiary | $ | (10,916 | )
+Purchases of property, plant and equipment | $ | 1 | 
+
+Other Disposal
+ R2D – On December 13, 2019 (“R2D Sale Date”), we finalized the sale of R2D to certain members of R2D’s management team. Upon the sale, we recognized a loss of approximately $2.8 million, which we reported as loss on sale of subsidiary in our Consolidated Statements of Operations for the year ended September 30, 2020. Effective on the R2D Sale Date, R2D is no longer included in our consolidated financial statements. R2D did not meet the discontinued operations or held-for-sale criteria.
+

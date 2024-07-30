@@ -1,0 +1,1025 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business.
+Our Company
+
+
+
+Overview
+
+
+
+We were originally formed as a Delaware corporation on March 17, 2016, for the purpose of effecting a merger, share exchange, asset acquisition, stock purchase, reorganization, recapitalization or other similar business combination with one or more businesses. On October 29, 2021, we consummated a business combination (the “Business Combination”) with AutoLotto, Inc. (“AutoLotto”). Following the closing of the Business Combination (the “Closing”) we changed our name from “Trident Acquisitions Corp.” to “Lottery.com Inc.” and the business of AutoLotto became our business. Tony DiMatteo and Matt Clemenson, the co-founders of AutoLotto, continue to lead our Company as Chief Executive Officer and Chief Revenue Officer, respectively.
+
+
+
+We are a leading provider of domestic and international lottery products and services. As an independent third-party lottery game service, we offer a platform that we architected, developed, and operate to enable the remote purchase of legally sanctioned lottery games in the U.S. and abroad (the “Platform”). Our revenue generating activities consist of (i) offering the Platform via our Lottery.com app and our websites to users located in the U.S. and international jurisdictions where the sale of lottery games is legal and our services are enabled for the remote purchase of sanctioned lottery games (our “B2C Platform”); (ii) selling credits (“LotteryLink Credits”) that can be exchanged for flexible promotion packages that include our marketing collateral, prepaid advertising, development services, account management, and prepaid lottery games for use in promotions to our third-party master affiliate marketing partners for use by them and by their sub-affiliates in undertaking affiliate marketing activities and promoting our B2C Platform (“LotteryLink”); (iii) offering an internally developed, created, and operated business-to-business application programming interface (“API”) of the Platform to enable our commercial partners, in permitted U.S. and international jurisdictions, to purchase certain legally operated lottery games from us and to resell them to users located within their respective jurisdictions (“B2B API”); and (iv) delivering global lottery data, such as winning numbers and results, and subscriptions to data sets of our proprietary, anonymized transaction data pursuant to multi-year contracts to commercial digital subscribers (“Data Service”).
+
+
+
+We currently derive substantially all of our revenue from service fees paid to us by users of our B2C Platform, the sale of our LotteryLink Credits, revenue share arrangements with commercial partners participating in our B2B API, and subscription fees from users of our Data Service. We intend to pursue growth through the implementation of new products and features within our B2C Platform services, expansion of our B2C Platform offering into new domestic and international jurisdictions, expansion of our LotteryLink program and the sale of additional LotteryLink Credits, entry into additional agreements with new commercial partners for our B2B API, execution of strategic acquisitions and other synergistic opportunities, including gaining access to complementary and new technology through such acquisitions, and investment in and development of new technology, and enhancement of our existing technology in each of our business lines, including distributed ledger technology. In December 2021, we finalized the acquisition of the domain name https://sports.com and are exploring opportunities for the intended strategic entry into legal sports gaming verticals, which may include the distribution of sports lottery games. We also expect to grow our brand and commitment to social awareness through our affiliation with WinTogether, a registered 501(c)(3) charitable trust (“WinTogether”).
+
+
+
+As a provider of lottery products and services we are required to comply with, and our business is subject to, regulation in each jurisdiction in which we offer or market our B2C Platform, or a commercial partner offers users access to lottery games through the B2B API. In addition, we must also comply with the requirements of federal and other domestic and foreign regulatory bodies and governmental authorities in jurisdictions in which we operate or with authority over our business. For example, currently, in the U.S., users of our B2C Platform are required to be physically located, at the time of purchase, in the state or jurisdiction of the lottery authority offering the lottery game that they purchase on our Platform. We verify their location through geofencing technology integrated into our Platform. A user physically located in one U.S. jurisdiction may not purchase a lottery game sold by a lottery authority in another U.S. jurisdiction. Internationally, we operate our B2C Platform in jurisdictions in which such service is lawful through commercial agreements with operators who have obtained approvals from the relevant government regulators, if and as required, and users may only access lottery games if they are physically located in the jurisdiction of the commercial partner at the time of purchase, as verified by geofencing technology. Our business is additionally subject to multiple other domestic and international laws, including those relating to the transmission of information, privacy, security, data retention, and other consumer focused laws, and, as such, may be impacted by changes in such laws or changes in how such laws are interpreted. For more information, see “Item 1. Business — Regulation and Compliance” below.
+
+
+
+
+
+1
+
+
+
+
+
+
+
+B2C Platform
+
+
+
+Our B2C Platform operates independently from any lottery authority, operator, or other provider of lottery games and enables users to purchase draw lottery games remotely from a mobile device or computer. As of December 31, 2021, our B2C Platform was available to users in 12 U.S. jurisdictions and multiple international jurisdictions.
+
+
+
+To use our B2C Platform, a user must first create an account and respond to several compliance questions to confirm they are eligible to play. The requirements are designed to be a low friction experience for the user. Once they complete the registration process, a user can begin playing the draw lottery games offered in their jurisdiction, including choosing the number of plays, and whether to select their own numbers or to play randomly selected draw numbers. Following the completion of payment, the purchase is immediately confirmed, and the user receives a digital representation of their draw lottery game in their app or web-based account, including confirmation of their draw numbers. The confirmation is not delayed by our subsequent acquisition of the physical lottery game from the lottery authority. At this point, we fulfill the purchase of the physical lottery game ticket by either employing couriers to directly acquire the draw lottery game ticket from brick-and-mortar retailers for delivery to us, or by utilizing electronic lottery terminals licensed by us (or by our affiliates or retail partners, as applicable) from the relevant lottery authority pursuant to official retail lottery licenses issued by such lottery authorities. As described in further detail below, in either event, prior to the applicable draw, we securely hold the physical lottery game ticket on the user’s behalf.
+
+
+
+If a user elects to play randomly selected draw numbers, such draw numbers are immediately assigned by us and not by the lottery authority, to ensure that the user receives immediate confirmation of their actual lottery game, without the delay that would otherwise be necessitated if the random draw numbers were assigned by the lottery authority. To generate these numbers, we deploy a pseudo random number generator (“pRNG”), being an algorithm that uses mathematical formulas to produce sequences of random numbers. We rely on the Cryptographic Module Validation Program to validate the cryptographic modules of its pRNG. The Cryptographic Module Validation Program is a joint effort between the National Institute of Standards and Technology under the Department of Commerce and the Canadian Centre for Cyber Security, a branch of the Communications Security Establishment, to promote the use of validated cryptographic modules and to validate cryptographic modules to Federal Information Processing Standard 140-2 and 140-3, as tested by third party laboratories. The use of the validated pRNG ensures that the randomly selected draw numbers are truly random.
+
+
+
+Whether selected by the user or at random, the user’s draw lottery game numbers are securely retained in the Platform and queued for fulfillment by us with the lottery authority via the electronic lottery terminals or deployment of couriers. The original draw lottery game tickets are generally considered “bearer instruments” under relevant law, meaning that the individual that holds, or “bears”, the lottery game ticket, or “instrument”, is deemed the owner, as there is no other process to prove or designate ownership, and accordingly, their safe keeping on behalf of the user is of the utmost importance. We secure the original draw lottery game tickets in our physical, restricted entry safes; the original draw lottery game tickets do not leave the jurisdiction of original sale and are physically delivered to a user only for the claims and redemption process. We monitor all lottery games that our users play and automatically notify a user by push notification and/or email if they are a winner.
+
+
+
+For a user who wins a prize less than $600, subject to applicable laws in each jurisdiction, we are able to instantly deposit the prize amount into the user’s account and subsequently redeem the winning lottery game ticket on behalf of the user. In accordance with Federal tax reporting requirements, for a user who wins a prize of $600 or more, we provide the user with the original lottery game ticket for their direct claim and redemption. Unless otherwise required by law, we charge a service fee on all lottery games purchased on our B2C Platform but do not take a commission from our user’s prizes.
+
+
+
+We currently hold a retail lottery license issued by the Texas Lottery Commission.
+
+
+
+For more information, see “Item 1. Business — Our Services — B2C Platform.”
+
+
+
+
+
+2
+
+
+
+
+
+
+
+LotteryLink
+
+
+
+In the third quarter of 2021, the Company launched its affiliate marketing program, which it has branded LotteryLink.
+
+
+
+In general, affiliate marketing is a cost-effective advertising model in which a B2C vendor compensates independent third-party marketers for successfully generating new consumers to the B2C vendor’s online platforms and converting them to users. The independent third-party marketers are referred to as “Affiliates”; the Affiliate with the direct relationship with the B2C vendor is referred to as the “Master Affiliate” and any Affiliates that only have a direct relationship with the Master Affiliate, and not directly with the B2C vendor, are referred to as “Sub-Affiliates”. In an effort to ensure that their products reach a broad array of potential customers, B2C vendors work directly and indirectly with Affiliates across multiple industries and marketing channels who undertake promotional and marketing initiatives and activities to direct consumers to our B2C Platform. The B2C vendor pays the Affiliates a commission to incentivize their promotional activities. Affiliates purchase promotional materials from the B2C vendor for such promotional activities and are otherwise generally limited in the type and scope of marketing materials and collateral that they may use in their promotional activities.
+
+
+
+As part of LotteryLink, we pay each of our Affiliates a percentage of the revenues derived from each new customer they refer to us and, if such customer is located in a jurisdiction in which they may lawfully use our B2C Platform, is converted to a user. These commissions are paid for a contractually specified duration of such user’s activity on the B2C Platform.
+
+
+
+In support of their promotional activities, our Master Affiliates purchase credits, referred to as a LotteryLink Credit, from the Company that can be redeemed for flexible promotion packages, consisting of marketing collateral, prepaid advertising, development services, account management, and prepaid lottery games that can be used in promotions. The Company may introduce additional redemption opportunities for LotteryLink Credits in the future. A Master Affiliate may allocate its LotteryLink Credits to its Sub-Affiliates for such Sub-Affiliate’s redemption from the Company. The LotteryLink Credits are intended to help our Affiliates reach new customers and convert such customers to users of our B2C Platform.
+
+
+
+B2B API
+
+
+
+Our B2B API provides a secure distribution interface through which our authorized third-party omni-channel and multi-product commercial partners acquire access through our Platform to certain legally operated lottery games by integrating our B2B API into their existing back-office functionality and user facing websites and applications to enable our commercial partners to purchase such draw lottery games from us for resale to users within their permitted jurisdictions. Our B2B API is enabled in the U.S. and internationally.
+
+
+
+Each time a commercial partner, on behalf of a user, requests a play from us via the B2B API, such commercial partner acquires the rights to the number of requested plays, and is provided with either pre-selected numbers as requested by the commercial partner’s user, or is randomly assigned numbers by the pRNG that is communicated via the B2B API to the commercial partner. In either event, the commercial partner automatically receives a digital representation of the purchased draw lottery games, including draw numbers, without delay for the subsequent acquisition of the physical lottery game by us.
+
+
+
+We fulfill the acquisition of the draw lottery games by utilizing the electronic lottery terminals installed in our, or our affiliate’s or retail partner’s locations under the authority of the applicable lottery authority pursuant to official retail licenses from such lottery authorities. The original lottery game tickets are securely stored by us in physical, restricted entry safes located in the jurisdiction of original sale. The original lottery game ticket does not leave the jurisdiction of original sale and is only physically delivered to a winning user if and when such user is required to present such original lottery game ticket for the claims and redemption process. Neither we nor our commercial partners ever take a commission from our users’ prizes. Our commercial partners charge a service fee and, in international jurisdictions, a mark-up, on their purchase price of the lottery game to their users. We receive a share of our commercial partners’ revenue on each lottery game purchased.
+
+
+
+For more information, see “Item 1. Business — Our Services — B2B API.”
+
+
+
+
+
+3
+
+
+
+
+
+
+
+Data Service
+
+
+
+We deliver daily results of domestic and international lottery games from more than 40 countries to over 400 digital publishers and media organizations, pulled from real time primary source data. In some instances, we charge a subscription fee or per-record fee to use our Data Service, and in other instances, the Data Service is included within a bundle of other provided services, such as affiliate marketing agreements. We additionally rely on this information to make winning lottery numbers and results for all U.S. in-state and multi-state games available through our websites, apps, and APIs. We additionally enter into commercial agreements pursuant to which in consideration of pre-paid fees we provide data sets of our proprietary, anonymized transaction data pursuant to multi-year contracts and in accordance with the requirements of our Terms of Service.
+For more information, see “Item 1. Business — Our Services — Data Service.”
+
+
+
+The WinTogether Platform
+
+
+
+We are affiliated with WinTogether, which supports charitable, educational, and scientific causes. We operate https://wintogether.org (the “WinTogether Platform”) on behalf of WinTogether, which offers sweepstakes that support charitable causes selected by the trustees of WinTogether and incentivizes participants to donate to those chosen causes by entering donors into sweepstakes for the chance to win cash prizes, luxury items, and exceptional experiences. In exchange for operating the WinTogether Platform and the sweepstakes on behalf of WinTogether, we receive a fee from the gross donations from each sweepstakes. While the revenue received from our services relating to the WinTogether Platform are currently nominal, we believe that this may be a scalable source of revenue in the future, as well as a mechanism to increase our brand reputation and recognition by sweepstake participants, which could result in the acquisition and monetization of new users to our B2C Platform.
+For more information, see “Item 1. Business — Our Services — The WinTogether Platform.”
+
+
+
+Our Industry
+
+
+
+Lottery Market Size
+
+
+
+According to the World Lottery Association, in 2020, the global lottery game market was valued at $318 billion in worldwide gross sales in 2020, and global Gross Gaming Revenue (“GGR”), or the difference between gross sales and the amount paid out in winnings, totaled $105 billion. Technavio, a market research company, forecasted the global lottery market to grow to more than $550 billion in worldwide gross sales in 2025. Historically, governmental agencies have operated lotteries under a mandate to generate funds to support or fund social causes from the net proceeds from such lotteries. The social causes may include educational initiatives, cultural undertakings, sports and leisure, and other social or environmental causes. Alternatively, the net proceeds from lotteries may be directed to governmental treasuries for general disbursement. According to the World Lottery Association, the total amount of money that global lottery members of the World Lottery Association paid a total of $84.3 billion to social causes and to governmental treasuries in 2020. This amount represents 26.6 cents for every dollar of sales.
+Lottery Market Segmentation
+
+
+
+The global lottery game market is generally divided into three main categories of products (i) draw, or terminal-based, games; (ii) instant win, or “scratcher” games; and (iii) sports lottery games. In addition to the three main categories, the regulatory authorities that license lottery games may also offer other forms of games of chance and casino-style games.
+
+
+
+
+
+4
+
+
+
+
+
+
+
+Draw Games
+
+
+
+Draw, or terminal-based, games are the oldest and most common forms of lottery games. Some of the popular domestic and international draw games include Mega Millions®, Powerball®, Il Gioco del Lotto®, elGordo®, Euro Jackpot®, and €uro-Millions®. In the U.S., prices for such draw games typically begin at $1 per game and additional options, including bonus plays, extra draws, and second chance draws, are generally available for an additional cost.
+
+
+
+When a player plays a draw game, they acquire a set of numbers, letters, symbols, or a combination thereof; the goal is to match those numbers, letters, and symbols to those drawn by the lottery authority on a specified date and time. Depending on the rules of the draw game, the numbers, letters, and symbols may be designated by the player or selected by a random number generator. Draw games are sold by officially licensed retailers with valid agreements with the applicable lottery authority and transacted through electronic terminals installed by such lottery authority for the purpose of selling the lottery game and printing the lottery game ticket, validating sold lottery game tickets, and performing other administrative functions.
+
+
+
+Draw games have historically been purchased in person directly from traditional licensed brick-and-mortar retail locations, such as convenience stores, tabletop games retailers, or gas stations. According to Technavio, purchases from these retailers contributed over 93.7% to the overall draw game lottery market in 2019, and 93.3% in 2020. These retailers process the transaction via the electronic terminals and provide the player with bearer documentation evidencing their purchase. Alternatively, in jurisdictions in which online lottery game sales — or iLottery — is legal, the player may alternatively complete the entire transaction remotely from their mobile device or computer (“Online Lottery”). Online Lottery requires state legislative and regulatory approval for the account funding, acquisition, and play of lottery games to be managed online, without the requirement to physically be in or near a brick-and-mortar retail seller of lottery games. For more information, see “Item 1. Business — Our Industry — Global Market Trends.”
+
+
+
+According to industry forecasts by Technavio, sales of draw lottery games comprised 54.5% of the overall global lottery market in 2020 and are anticipated to grow at approximately 9.0% CAGR between 2020 and 2025, forecasting an increase of approximately 54% in worldwide legal gross sales, from $194 billion in worldwide legal gross sales in 2020 to nearly $300 billion in worldwide legal gross sales in 2025. In the U.S., draw lottery games are offered in all 46 states and 3 territories in which lottery games are legal.
+
+
+
+Instant Win Games
+
+
+
+Instant win, or “scratch” lottery games are designed to be quick and easy to play. These games have the numbers, letters, symbols, or a combination thereof concealed on a scratch card. To play, the player removes or scratches off the covering to instantly reveal their winning status. Games are often thematically linked to popular interests, such as sporting events, specific board games, or other specialized interests or activities. Popular titles include Crossword Connect®, Deuces Wild®, and Monopoly Millionaires’ Club®. In the U.S., prices for scratch lottery games typically range from $1 to as much as $50 per scratch card. Scratch lottery games are sold by licensed retail outlets and are additionally available for online play in jurisdictions that authorize Online Lottery. Online scratch lottery games typically have all the elements of a physical scratch lottery game, but in digitized form, and often with additional visual and entertainment elements.
+
+
+
+The market for this game-type has experienced growth attributed to the relatively low retail price of scratch lottery games and the opportunity to instantly win prizes. Sales of scratch lottery games comprised 26.6% of the overall global lottery market in 2020; according to industry forecasts by Technavio, the scratch lottery games market is expected to increase approximately 58%, from $95 billion in worldwide legal gross sales in 2020 to $150 billion in worldwide legal gross sales in 2025. In the U.S., scratch games are offered in all but two jurisdictions — North Dakota and Wyoming — in which lottery games are legal.
+
+
+
+
+
+5
+
+
+
+
+
+
+
+According to Eilers & Krejcik, a global gaming industry research firm, in the U.S., in 2021, instant ticket sales increased to $17.5 billion, or by 9%, as compared to 2020, due to a unique combination of strong discretionary income growth from real wage growth and U.S. federal and state income support, relatively restricted competing entertainment and gaming options, and stable growth trends leading into the COVID-19 pandemic.
+
+
+
+We are not currently engaged in the deployment of scratch lottery games through the B2C Platform.
+
+
+
+Sports Lotteries
+
+
+
+Sports lotteries are a variant of pari-mutuel betting, in which users pay a fixed price to select a sporting event’s outcome and the users with the most accurate prediction of such outcome win prizes.
+
+
+
+Sales of sports lottery games comprised 18.9% of the overall global lottery market in 2020; according to industry forecasts by Technavio, the sports lotteries market is expected to increase approximately 51%, from $67 billion in worldwide legal gross sales in 2020 to $101 billion in worldwide legal gross sales in 2025.
+
+
+
+We are not currently engaged in the deployment of sports lottery games. In December 2021, we finalized the acquisition of https://sports.com and are exploring opportunities for the intended strategic entry into legal sports gaming verticals, which may include the distribution of sports lottery games.
+
+
+
+Geographic Distribution
+
+
+
+Legalized lottery products are operated by national, state, provincial, or municipal governmental authorities and their licensees in more than 100 countries under separate, regulated regimes. In North America, in-state and multi-state sanctioned lottery products are offered in 46 U.S. states and 3 U.S. jurisdictions, including the District of Columbia, Puerto Rico, and the U.S. Virgin Islands, as well as every Canadian province and Mexico.
+
+
+
+Lotteries have varying degrees of governmental and regulatory acceptance across the globe, with certain countries, states, provinces, territories or even municipalities prohibiting lotteries, and other jurisdictions endorsing all or only certain forms of lotteries at the national or state, provincial, territorial, or municipal level. According to Technavio, in 2020, the Asia-Pacific region comprised 37.1% market share of all lottery sales, Europe comprised 31.9%, the Middle East and Africa region comprised 3.4%, South America comprised 2.3%, and North America comprised more than 25% market share of all lottery sales. Lottery sales include all forms of lottery games, including draw, scratch, and sports lottery games, as well as revenues from the sale, lease or license of lottery systems, terminals, or vending machines.
+
+
+
+In the U.S., the Multi-State Lottery Association (“MUSL”) is a non-profit association owned and operated by its U.S. state and territory member lottery associations that, amongst other activities, assists its members in the development and issuance of multi-jurisdictional draw and scratch lottery games, including Powerball®, MegaMillions® and Monopoly Millionaires’ Club®. MUSL games are multi-jurisdictional — or “multi-state” — meaning one type of lottery game may be offered for play in multiple jurisdictions, subject to the applicable laws and regulations of each such jurisdiction, as opposed to in-state games, which are games developed for play by a state lottery authority within its jurisdiction.
+
+
+
+According to Eilers & Krejcik, in 2021, total U.S. lottery sales increased to $106 billion, or by 17%, as compared to 2020, reflecting the largest amount on record as a result of record sales of both instant ticket and draw-based sales. In 2021, in the U.S., instant ticket sales increased 13% from 2020 to $72 billion, and draw-based sales increased by 24% to $33 billion as compared to 2020. These sales increases built on an already impressive year for lottery sales during 2020, when spending on lottery games increased by 11% from 2019. Whereas the 10-year average annual growth rate on lottery game spending between 2010 and 2019 was approximately 4%, the average annual lottery spending grew by approximately 14% between 2019 and 2021.
+
+
+
+In addition, Eilers & Krejcik reported that, as of February 2022, 38% of adults in the U.S. have access to operational online sports lottery betting. The U.S. total sports betting market, excluding tribal sports betting markets but including sports lottery betting, had total gross sales of $57.7 billion in 2021, which represents an increase of 167% from 2020. Total sports betting GGR in 2021 was $4.3 billion, or an increase of 178%, as compared to 2020. Total sports betting gross hold percentage, or the amount of total sales that are not paid out in winnings, was 7.5% in 2021 as compared to 7.2% in 2020. Online sports lottery betting accounted for 87% of total sports betting gross sales and 83% of GGR in 2021, as compared to 80% and 73%, respectively, in 2020.
+
+
+
+
+
+6
+
+
+
+
+
+
+
+Global Market Trends
+
+
+
+Many national, state, provincial, territorial, and municipal governments rely on revenues from the sale of lottery games for a significant source of public program funding, including recreational programs, educational programs, and environmental efforts. When under revenue pressure due to factors that may include increased expenses, decreased access to general revenues, and other impacts to annual budgets and tax revenues, including events such as the impact of the COVID-19 pandemic, these entities often look to revenue from gaming, including lottery game sales, as a continued and potentially increased revenue opportunity for governmental authorities.
+
+
+
+Traditionally, lottery games have only been sold by government licensees at brick-and-mortar facilities, such as convenience stores, grocery stores, and small retailers, which restricted players’ ability to purchase lottery games to those times when they were physically within the retailer’s licensed location, and accordingly potentially restricted a player’s opportunities to play and the governmental authority’s lottery derived revenues. However, as of December 31, 2021, Online Lottery had been authorized under regulations in 15 jurisdictions, being Arizona, Connecticut, Georgia, Illinois, Kentucky, Michigan, New Hampshire, New York, North Carolina, North Dakota, Pennsylvania, Rhode Island, South Dakota, Virginia, and the District of Columbia. Access to in-state or multi-state draw games are available in all of these jurisdictions. Online versions of instant win, or “scratcher” tickets are authorized in eight of these jurisdictions. In New York and Virginia, Online Lottery is available, but only through subscriptions in which a player must subscribe for automatic purchase of games on a recurring basis for multiple weeks of play.
+
+
+
+According to Eilers & Krejcik Gaming, in 2021, Online Lottery gross sales in the U.S. increased more than 28% year-on-year to $5.1 billion, due to improved same-store sales growth across most U.S. states and incremental growth from new jurisdictions that introduced Online Lotteries. In 2021, Online Lotteries represented approximately 5% of total U.S. lottery game sales.
+
+
+
+In jurisdictions in the U.S. in which Online Lottery is legal, a player is required to undergo account verification requirements and to transfer funds from their payment provider or linked bank account to their account, and then can only play the games that are available. There is typically a minimum amount of funds that must be transferred to the player’s account, regardless of the amount that the player wishes to play. The player must have an account with each lottery authority to play in that lottery authority’s jurisdiction. Winning players may be notified by either an email or a push notification or both and, to the extent permitted by law and in accordance with Federal reporting requirements, receive redemption of prizes less than $600 directly to their accounts.
+
+
+
+The States of New York and New Jersey have introduced a licensed lottery courier program to register lottery couriers within such jurisdictions and govern the operation of lottery couriers’ activities, regulated by the New York State Gaming Commission and the New Jersey Lottery Commission, respectively. They are the only two jurisdictions with such privileged licensing regimes and we are not aware of any other jurisdiction introducing a similar program. While such licensing creates an additional financial burden as well as a potential timing delay in advancing operations in those jurisdictions, upon receipt of licensure, it provides certainty to the ability to operate in such jurisdiction. The Company intends to apply for a lottery courier license in each of New York and New Jersey in 2022.
+
+
+
+Our Services
+
+
+
+B2C Platform
+
+
+
+Our Platform, which deploys distributed ledger technology to ensure data security, provides registered B2C Platform users with the ability to purchase in-state and multi-state lottery draw games directly via a mobile device or computer, to securely maintain their acquired lottery game ticket(s), to obtain comprehensive multi-jurisdiction lottery result information, and, to the extent allowed by applicable law, to automatically redeem a winning lottery game of less than $600. The mobile application is offered for mobile devices that operate under iOS and Android and can be downloaded for free from the Apple App Store and Google Play stores, respectively, and other mobile download sites. We publish material updates of our mobile applications on an ongoing basis to provide new functionality and upgraded performance. In addition to our mobile application, we offer our https://play.lottery.com site to users located within authorized and enabled U.S. and international jurisdictions for the remote purchase of lottery games in permitted jurisdictions, and additionally maintain our https://lottery.com site to support a variety of general functions and information delivery.
+
+
+
+
+
+7
+
+
+
+
+
+
+
+We offer our B2C Platform to users located in California, Colorado, Georgia, Michigan, Minnesota, New Hampshire, Ohio, Oregon, Pennsylvania, Texas, Washington, and the District of Columbia. We anticipate being able to offer this service in up to five additional jurisdictions by the end of 2022, subject to regulatory approval in certain jurisdictions in which it is required. Additionally, our B2C Platform is available to users in international jurisdictions.
+
+
+
+To register on our B2C Platform and purchase a lottery game, a user must create an account, be the greater of 18 years old or the age of majority in the jurisdiction in which they are situated, and be physically located within such jurisdiction, as verified by internally and externally deployed geofencing technology. Individuals that are not physically located within one of the jurisdictions where our services are offered, as verified by geofencing technology, are not permitted to register to purchase a lottery game. In the U.S., a user may only purchase tickets offered by the lottery authority of the jurisdiction in which such user is situated.
+
+
+
+Our registration and user interfaces are designed to be easy to use and provide for the creation of an account and purchase of a lottery game with minimum friction and without the creation of a mobile wallet or requirement to pre-load minimum funds. Purchases may be completed on our B2C Platform in the U.S. by use of major credit cards, linked financial institution accounts, other enabled payment providers, or credits from past winnings, and internationally by use of certain major credit cards or credits from past winnings.
+
+
+
+In accordance with the terms of our Responsible Gaming Policy, users are limited to purchasing up to 50 lottery games per game. For more information, see “Item 1. Business — Regulation and Compliance — Responsible and Underage Gaming.”
+
+
+
+Once a user of our B2C Platform has created an account and completed several required, simple compliance requirements, they select the draw lottery game they would like to play, whether they would select their own numbers or play randomly selected draw numbers, the number of games they would like to play, and complete the payment processing requirements, following which the acquisition is immediately confirmed and the user receives a digital representation of their draw lottery game, including their draw numbers, in their app or web-based account, without delay for our acquisition of the physical lottery game. If a user elects to play randomly selected draw numbers, such draw numbers are immediately assigned by our pRNG.
+
+
+
+The user’s random or pre-selected lottery game numbers are retained in the Platform and queued for fulfillment by us. We fulfill the acquisition of draw lottery games by either employing couriers that directly acquire the draw lottery games from brick-and-mortar retailers, or by leveraging electronic lottery terminals installed under the authority of the applicable lottery authority pursuant to a retail license received by us or a commercial partner, which process lottery game sales in bulk, daily, for us.
+
+
+
+The original draw lottery game tickets are considered bearer instruments and, accordingly, their safekeeping is of the utmost importance. We store and safeguard original draw lottery game tickets in physical, restricted entry safes; they do not leave the jurisdiction of their original sale and are only physically delivered to a user, if required, for the claims and redemption process. Unlike purchases from traditional brick-and-mortar lottery retailers, in which lottery game tickets are susceptible to being lost, damaged, stolen or — as a bearer instrument — claimed by a person other than the purchaser, lottery games purchased through our B2C Platform are securely maintained and linked to the user using rigorous technical requirements. The importance of this safekeeping cannot be understated. In 2021, a winner of a $26 million dollar California Lottery prize advised that they destroyed the winning draw lottery game ticket in the laundry; according to California Lottery officials, if someone loses a ticket, they must provide evidence of ownership, such as a photograph or digital representation of the front and back of the ticket, otherwise their claim will fail. Our Platform, with its secure maintenance of the original lottery ticket, which safeguards against destruction, loss or theft, is designed to prevent events such as this.
+
+
+
+
+
+8
+
+
+
+
+
+
+
+We monitor all lottery games that our users play and automatically notify a user by push notification and email if they are a winner. We monitor all draws and notify users via the app or their web-based account of winning lottery games. In the event a user wins a prize in an amount that is less than $600, subject to applicable laws in each jurisdiction, we are able to distribute a payout of the prize amount to the user’s account immediately following public announcement of the draw, which funds may then be deployed by the user to purchase additional lottery games or be transferred by the user from their account to their linked financial institution. We then redeem the winning game from the lottery authority on the user’s behalf. In the event that a user wins a prize of $600 or more, we provide the user their original lottery game ticket for their direct claim and redemption directly from the lottery authority. Under federal U.S. law, lottery prizes of $600 or more are subject to certain federal and applicable tax withholdings as reported on a Form W-2G, and the residency of the prize winner must be reported on federal and applicable state income tax returns, which is the basis for the prizes over this threshold being collected directly from the lottery authority.
+
+
+
+We do not take any portion of a user’s winnings. Our revenue is the retail value of the acquired lottery game and the service fee charged to the user, which we impose on each lottery game purchased from our B2C Platform. The amount of the service fee is based upon several factors, including the retail value of the lottery game purchased by a user, the number of lottery games purchased by a user, and whether such user is located within the U.S. or internationally.
+
+
+
+Currently, in the U.S., the minimum service fee is $0.50 for the purchase of a $1 lottery game and $1 for the purchase of a $2 lottery game; the service fee for additional lottery games purchased in the same transaction is 6% of the face value of all lottery games purchased. For example, the service fee for the purchase of five $2 tickets is $1.60, being the $1 base service fee, plus 6% of the aggregate value of the face value of all lottery games purchased. In 2021, our domestic B2C Platform users purchased an average of 3.9 lottery games per transaction at an average service fee of $0.37 per lottery game. In 2021, we had an average gross profit per domestic B2C Platform user of approximately $26.64. We did not incur any expenses on digital marketing in 2021. In 2020, the average customer acquisition cost was $4.01 per new user. Our average customer acquisition costs per new user include digital marketing costs but exclude non-digital marketing costs and any new users who are referred to us by an Affiliate. Between 2020 and 2021, we had a year-over-year retention rate of domestic B2C Platform users of 72%, excluding any users acquired from an Affiliate or the API, which resulted in an average lifetime user value of $95.14, which was calculated as the quotient of the average gross profit per user divided by the difference of one less the retention rate.
+
+
+
+Internationally, we impose a mark-up on the cost imposed on the sale of each lottery game together with a service fee charged to the user. In 2021, our international B2C Platform users purchased an average of 2.1 lottery games per transaction at an average service fee of $2.30 per lottery game. We typically charge a higher service fee on lottery games in our international jurisdictions, and, as a result, in 2021, the annual gross profit on these sales was 97% higher as compared to domestic sales. In 2021, our average gross profit per international user of our B2C Platform was $31.77. The Company did not incur any expenses on digital marketing in 2021, and accordingly the average customer acquisition cost during 2021 remained $4.26 per new user, unchanged from 2020. The year-over-year retention rate on the B2C Platform was slightly lower internationally, at 69%, resulting in a user lifetime value of $102.48. Although revenues from our international jurisdictions currently comprise approximately 10% of our total revenues in 2021, we are focused on the growth of this business organically and through the pursuit of strategic acquisitions and other synergistic opportunities.
+
+
+
+In 2021, we delivered approximately 2.6 million lottery games to users of our B2C Platform worldwide, our B2C Platform hosted approximately 37,000 daily average users, including approximately 11,000 daily average repeat users.
+
+
+
+
+
+9
+
+
+
+
+
+
+
+LotteryLink
+
+
+
+Our success relies, in part, on our ability to attract new customers to our B2C Platform and convert such customers to ongoing users of the B2C Platform. To further this objective, in the third quarter of 2021, we launched our global affiliate marketing program, LotteryLink.
+
+
+
+In general, affiliate marketing is a cost-effective advertising model in which a B2C vendor compensates independent third-party marketers for successfully generating new consumers to the B2C vendor’s online platforms and converting them to users. The independent third-party marketers are referred to as “Affiliates”; the Affiliate with the direct relationship with the B2C vendor is referred to as the “Master Affiliate” and any Affiliates that only have a direct relationship with the Master Affiliate, and not directly with the B2C vendor, are referred to as “Sub-Affiliates”. In an effort to ensure that their products reach a broad array of potential customers, B2C vendors work directly and indirectly with Affiliates across multiple industries and marketing channels who undertake promotional and marketing initiatives and activities to direct consumers to our B2C Platform. The B2C vendor pays the Affiliates a commission to incentivize their promotional activities. Affiliates purchase promotional materials from the B2C vendor for such promotional activities and are otherwise generally limited in the type and scope of marketing materials and collateral that they may use in their promotional activities.
+
+
+
+As part of LotteryLink, we pay each of our Affiliates a percentage of the revenues derived from each new customer they refer to us and, if such customer is located in a jurisdiction in which they may lawfully use our B2C Platform, is converted to a user. These commissions are paid for a contractually specified duration of such user’s activity on the B2C Platform.
+
+
+
+In support of their promotional activities, our Master Affiliates purchase credits, referred to as a LotteryLink Credit, from the Company that can be redeemed for flexible promotion packages, consisting of marketing collateral, prepaid advertising, development services, account management, and prepaid lottery games that can be used in promotions. The Company may introduce additional redemption opportunities for LotteryLink Credits in the future. A Master Affiliate may allocate its LotteryLink Credits to its Sub-Affiliates for such Sub-Affiliate’s redemption from the Company. The LotteryLink Credits are intended to help our Affiliates reach new customers and convert such customers to users of our B2C Platform.
+
+
+
+As of March 28, 2022, we had an agreement with one Master Affiliate.
+
+
+
+B2B API
+
+
+
+In 2019, we made our Platform available to third-party commercial partners through our B2B API, which provides a secure distribution interface between us and authorized, regulated, third-party commercial partners for the acquisition of authorized lottery games from us and resale of such lottery draw games within their regulated and authorized jurisdictions. Our B2B API is enabled in the U.S. and internationally.
+
+
+
+Through this indirect distribution model, third-party omni-channel and multi-product regulated commercial partners sell authorized lottery games in permitted jurisdictions by inclusion of the B2B API on their existing back-office functionality and user facing websites and applications, which enables their acquisition from us and subsequent resale to users of authorized lottery games. Acquisition of lottery games is fulfilled directly via the B2B API. The commercial partner is responsible for purchaser verification, payment processing, and delivery of the digital representation of the draw lottery game to the end-user, and we are responsible for lottery game ticket fulfillment, certain regulatory and compliance functions, and the claims and redemption process. The bearer instruments evidencing lottery games sold through the B2B API are securely stored by us in restricted access safes and do not leave the jurisdiction of their original sale. They are not delivered to the commercial partner and if delivery to the user is required, such user is required to travel to the jurisdiction of issuance for possession.
+
+
+
+Neither we nor our commercial partners take a portion of a user’s winnings. Together with our third-party commercial partner, we agree on the amount of the mark-up on the cost to be imposed on the sale of each lottery game purchased through the B2B API, if any, together with a service fee to be charged to the user. We receive up to 50% of the net revenues from such mark-up and service fee pursuant to our commercial agreement with each commercial partner. In the U.S., our commercial partners do not charge a mark-up; our average gross revenue generated by a lottery game sale by a commercial partner in 2021 was $2.59. With respect to our international (non-U.S.) operations our average gross revenue was $3.96. We currently do not charge our commercial partners a fee for the use of the B2B API.
+
+
+
+
+
+10
+
+
+
+
+
+
+
+In 2021, we had agreements to acquire and sell lottery games through the B2B API with three international third-party commercial partners, including a French betting solution, and one U.S. third-party commercial partner, which operates a proprietary mobile wallet for use at traditionally coin-operated machines, such as arcade games, vending machines, and laundry machines, which enabled our offerings on its mobile application. Collectively, these agreements provided us with access to over 420,000 unique points of sale for users to acquire lottery games from via our B2B API.
+
+
+
+In 2021, we delivered over 333,485 lottery games to end users of our B2B API, worldwide.
+
+
+
+Data Services
+
+
+
+In 2018, we acquired TinBu, LLC (“TinBu”), a digital publisher and provider of lottery data results, jackpots, results, and other data, as a wholly-owned subsidiary. Through TinBu, our Data Service delivers daily results of over 800 domestic and international lottery games from more than 40 countries, including the U.S., Canada, and the United Kingdom, to over 400 digital publishers and media organizations.
+
+
+
+Our technology pulls real time primary source data, and, in some instances, we acquire data from dedicated data feeds from the lottery authorities. Our data is constantly monitored to ensure accuracy and timely delivery. We are not required to obtain licenses or approvals from the lottery authorities to pull this primary source data or to acquire the data from such dedicated feeds. Commercial acquirers of our Data Service pay a subscription for access to the Data Service and, for acquisition of certain large data sets, an additional per record fee.
+
+
+
+We additionally enter into multi-year contracts pursuant to which we sell proprietary, anonymized transaction data pursuant to multi-year agreements and in accordance with our Terms of Service in consideration of a fee and in other instances provide the Data Service within a bundle of provided services.
+
+
+
+The WinTogether Platform
+
+
+
+We are affiliated with WinTogether, a registered 501(c)(3) charitable organization formed in April 2020, to support charitable, educational, and scientific causes. Our founders formed WinTogether and our Chief Executive Officer and President continue to act as Trustees. We operate the WinTogether Platform on behalf of WinTogether, which offers sweepstakes that support charitable causes selected by the trustees of WinTogether and incentivizes participants to donate to those causes by entering those who donate into a sweepstakes for a chance to win cash prizes, luxury items, and exceptional experiences. When a participant donates to a campaign cause on the WinTogether Platform, they are automatically entered to win a prize; the number of entries a participant receives is based on the value of their donation; provided, however, in accordance with the sweepstakes requirements of most jurisdictions and the terms of service for each sweepstakes, no purchase or donation is required for entry into the sweepstakes offered on the WinTogether Platform.
+
+
+
+Unlike lottery games and other games of chance, participation in sweepstakes is generally permissible, subject to compliance with certain regulatory requirements, in every state within the U.S. and many international jurisdictions. Sweepstakes offered on the WinTogether Platform are open to participants within the U.S. and internationally, unless void in a jurisdiction or local law prohibits the offering or entry into a sweepstakes.
+
+
+
+In our three campaigns that took place during 2021, WinTogether raised gross proceeds of approximately $70,000.
+
+
+
+We are the operator and administrator of all sweepstakes on the WinTogether Platform. In consideration of our operation of the WinTogether Platform and administration of the sweepstakes, we receive a percentage of the gross donations to a campaign, from which we pay a dividend to certain holders of our Notes (as defined below) on behalf of LDC Crypto (as further described below), and all administration costs associated with the sweepstakes, including those of third-party service providers. The balance of the gross donations from each campaign are donated to the named charitable cause. In the sweepstakes we have conducted to date, the partnering charitable organization received at least 60% of gross donations.
+
+
+
+
+
+11
+
+
+
+
+
+
+
+Prior to July 2018, we issued a series of convertible promissory notes (the “Notes”), which had several conversion rights upon the occurrence of certain events, one of which was an “initial coin offering” by AutoLotto or one of its wholly owned subsidiaries that resulted in net proceeds of $20,000,000 or more (the “Notes Conversion Threshold”). In July 2018, LDC Crypto Universal Public Company PLC (“LDC Crypto”), an indirectly wholly-owned subsidiary of AutoLotto, by a combination of the conversion of the outstanding Notes and new subscriptions, issued revenue participation interests (the “Digital Securities”) in an initial offering with net proceeds in excess of the Note Conversion Threshold on an exempt private placement basis in the U.S. to U.S. persons in reliance of Rule 506 of Regulation D and outside the U.S. to non-U.S. persons in reliance of Rule 903 of Regulation S. The Digital Securities were issued pursuant to a private placement memorandum (the “PPM”), a subscription agreement and related documents and were issued as “smart contracts” ERC20-based standard digital assets. Under the PPM, LDC Crypto offered up to 285,000,000 Digital Securities to be sold at multiple closings. In February 2022, LDC Crypto and LDC WinTogether, Inc., a wholly-owned subsidiary of the Company, executed an Assignment and Assumption Agreement, whereby LDC WinTogether, Inc. assumed the liabilities and obligations of LDC Crypto, including the Digital Securities. Each Digital Security entitles its holder the right to receive as a dividend its pro rata share of 7% of the net revenues from each campaign, paid on a periodic basis by AutoLotto on behalf of LDC WinTogether, Inc.
+
+
+
+We expect that participation in sweepstakes offered on the WinTogether Platform will continue to grow as we and WinTogether’s Trustees continue to develop WinTogether’s offerings. In addition to the benefit of the philanthropic opportunities generated by the WinTogether Platform, and notwithstanding that the revenues for our services relating to WinTogether are currently immaterial, we view WinTogether’s operation as a scalable source of revenue, as well as a mechanism to increase our brand reputation and recognition by visitors to the WinTogether Platform, as it includes a link to our mobile app and website, which may result in the acquisition and monetization of new users to the B2C Platform.
+
+
+
+Competitive Strengths
+
+
+
+We believe our definitional brand name, early entry in the growing Online Lottery industry, strength of our distribution ecosystem, and experienced management team collectively contribute to our success as a leading provider of products and services for the domestic and international lottery industry and strengthens our differentiation from our competitors.
+Definitional Brand Name
+
+
+
+We believe that the simplicity and definitional nature of our “Lottery.com” domain and brand names provide us with a memorable, distinctive and easily identifiable brand by our users. In 2021, approximately 9.7 million unique visitors to our web-based properties, such as https://play.lottery.com, generated 14.4 million web sessions. These web sessions were driven 47% from organic search compared to directly entered URL traffic of 38%. In 2021, our iOS and Android apps were downloaded approximately 233,000 times.
+Early Entrant in Growing Mobile and Online Industry
+
+
+
+We have offered our services via our Platform since 2016. We are one of the early market entrants in the mobile and online delivery of lottery games, which we believe offers us a significant advantage over many of our competitors, including state operated Online Lottery and third-party lottery game delivery services, and that this experience provides us with a developed understanding of consumer objectives, an existing connection to shifting demographics, and the ability to capitalize on the growth of lottery gaming in multiple jurisdictions.
+
+
+
+We believe that consumers are demanding an improved and more entertaining experience from their lottery game products, which we believe our mobile delivery affords over Online Lottery offerings, through its engaging and modern digital experience, simplicity of design, speed of access, and utility. Additionally, as users travel from one permitted jurisdiction to another in which we offer our services, they can continue to use our same app or online functionality, rather than having to download a new app or online functionality in each state for Online Gaming, if offered, which would typically require them to pre-fund the mobile wallet of each app.
+
+
+
+
+
+12
+
+
+
+
+
+
+
+We also believe that the demographics of the traditional brick-and-mortar lottery game market are aging and have developed a maturing customer base. Online and mobile sales, however, tap into a new demographic of typically younger users more inclined to engage through these channels because of their deep adoption of mobile devices, which offers the opportunity to expand the total lottery game market by reaching into new and underserved markets. This transition may have been amplified by the accelerated user traffic to online channels resulting from the COVID-19 pandemic. In 2020, we sold approximately 1.3 million unique lottery games; in 2021, we sold approximately 2.9 million unique lottery games, representing a 123% year-over-year increase, which we attribute to in part to the shift in consumer purchasing habits to mobile and online purchases due to the COVID-19 pandemic. As an early entrant in the delivery of digitized representation of lottery games with an established and growing user base in both the U.S. and abroad, we believe we are well positioned to capitalize on this shift in consumer preference from in-store to digital purchases.
+
+
+
+We rely on technology services to closely monitor and track amendments, additions, and impositions of regulations in all jurisdictions regarding the authorization of lottery and work to maintain effective relationships with applicable legislative and regulatory authorities in each jurisdiction in which we operate or anticipate operating in. We use this information in the development of our strategic expansion and growth framework and model, but additionally, and importantly, to create strong working relationships with the regulatory authorities in the jurisdictions in which we do business, to ensure transparent regulatory compliance and promote each jurisdiction’s objective for economic benefit through the sale of lottery games.
+
+
+
+Strong Distribution Ecosystem
+
+
+
+In addition to the organic growth of users of our B2C Platform and purchasers of lottery games from third-party commercial partners on our B2B API, we believe we have opportunities to increase our distribution ecosystem and create non-organic growth through existing and new affiliate marketing partners, which direct users to our B2C Platform in consideration of a percentage of the gross profits derived from users acquired as a direct result of such affiliates’ marketing efforts over a contractually determined period. We do not pay additional fees to such affiliates.
+
+
+
+We have entered into affiliate marketing agreements with prominent media organizations and digital publishers, including AccuWeather Inc., ICARO Media Group (“ICARO”), and Coinstar, pursuant to which each organization and publisher monetizes its existing customer base and technology by marketing our business in consideration of payment of a percentage of gross profits. We intend to enter into similar agreements with other media organizations, digital publishers, and online content creators through LotteryLink.
+
+
+
+Experienced Management Team
+
+
+
+Our management team includes leaders and pioneers in consumer, lottery, and gaming industries.
+
+
+
+Tony DiMatteo and Matt Clemenson, our Co-Founders and Chief Executive Officer and Chief Revenue Officer, respectively, together have been at the forefront of developing innovative online products and blockchain solutions and establishing strategic partnerships with market participants throughout their careers, including developing technology solutions at Hotwire, Inc. and LesConcierges, Inc.
+
+
+
+Our management team additionally includes Ryan Dickinson, Chief Financial Officer and President, and Katie Lever, Chief Legal Officer and Chief Operating Officer. Each member of our leadership team draws from more than 15 years of prior experience in technology, gaming, or internet-related industries in both consumer and business-to-business product development, including leadership roles with AccuWeather, Scientific Games Corporation, and Bally Technologies. We believe our team is well-positioned to continue to deliver competitive and unique technology, while executing on a substantial expansion in domestic and international markets.
+
+
+
+
+
+13
+
+
+
+
+
+
+
+Our Growth Strategy
+
+
+
+Our strategic objectives include increasing penetration within our existing domestic jurisdictions, expanding our operations into new domestic jurisdictions, growing our international footprint, pursuing strategic acquisitions and other synergistic opportunities, introducing new revenue generating products, and enhancing our technology infrastructure.
+Increase B2C Platform Penetration in Existing Domestic Jurisdictions
+
+
+
+As of December 31, 2021, we offered our services in 12 jurisdictions in the U.S. and directly or indirectly sold more than $7.2 million in lottery games in these jurisdictions in that year. For the year ended December 31, 2021, our domestic revenues generated from our B2C Platform and B2B API in these jurisdictions represented less than 0.1% of total sales of lottery games in the U.S. Even if we were not to undertake our planned expansion of offerings in up to five additional jurisdictions by the end of 2022, continued penetration into our existing domestic jurisdictions through a combination of organic growth and marketing activities represents a significant growth opportunity for us.
+Expand B2C Platform Operations into New Domestic Jurisdictions
+
+
+
+In the U.S., only Alabama, Hawaii, Nevada, and Utah, do not have any form of legalized lottery. There is legalized lottery in the other states and jurisdictions within the U.S., including the District of Columbia, Puerto Rico and the U.S. Virgin Islands.
+
+
+
+By the end of 2022, we plan on completing a launch of our B2C Platform in up to five additional jurisdictions, subject to regulatory approval in those jurisdictions in which it is required. We have determined targeted jurisdictions based on a combination of factors including total addressable market, regulatory environment, legality of sports betting and ease of market entry. By the end of 2023, we intend to offer our B2C Platform in a total of 32 jurisdictions within the U.S. The balance of the jurisdictions may pose greater or prohibitive market entry challenges.
+
+
+
+Once we launch our B2C Platform in a new domestic jurisdiction, we intend to promptly expand our marketing initiatives in that jurisdiction, which we believe is one of the most cost effective and efficient ways to increase non-organic growth. Generally, we are prohibited from directly marketing our services in those jurisdictions in which lottery is illegal or our services are prohibited, and in those jurisdictions in which both lottery and our services are legal and permitted, we focus our marketing expense on those jurisdictions in which we are currently operating or immediately intend to operate in.
+
+
+
+Grow B2C Platform Operations in International Markets
+
+
+
+We believe that revenue from international B2C Platform users will be instrumental to our continued success and growth. Generally, sales of lottery games in international markets are less constrained by regulation and oversight by regulatory authorities within those jurisdictions than in similar situations within the U.S.
+
+
+
+We currently sell certain in-state and multi-state draw lottery games issued by the Texas State Lottery to users of our B2C Platform in various countries worldwide. In the future, subject to certain regulatory factors, we may sell in-state lottery games issued by other U.S. lottery authorities to international users from our B2C Platform. Subject to regulatory requirements, we intend to sell lottery games from other international markets and proprietary lottery game products from our B2C Platform to international users; accordingly, we believe that our pursuit of strategic acquisitions and the products that we intend to develop will be particularly important to our international market.
+
+
+
+See “Item 1. Business — Our Growth Strategy — Pursue Strategic Acquisitions and Other Synergistic Opportunities” and “— Introducing New Revenue Generating Products.”
+
+
+
+
+
+14
+
+
+
+
+
+
+
+Pursue Strategic Acquisitions and Other Synergistic Opportunities
+
+
+
+In order to reinforce our position as a leading provider of products and services for the domestic and international lottery industry, while developing opportunities in other synergistic growth oriented operations, we intend to selectively pursue strategic opportunities with businesses whose user bases, content, products, and distribution channels are competitive or complementary to our existing domestic and international B2C Platform, B2B API, Data Services and LotteryLink operations, as well as strategic opportunities with businesses that provide differentiating offerings to these operations, which we anticipate may include sports betting and real money games of chance.
+
+
+
+For example, in June 2021, we acquired 100% of the equity of Global Gaming Enterprises, Inc., a Delaware corporation (“Global Gaming”), which holds 80% of the equity of each of Medios Electronicos y de Comunicacion, S.A.P.I de C.V. (“Aganar”) and JuegaLotto, S.A. de C.V. (“JuegaLotto”). JuegaLotto is federally licensed by the Mexico regulatory authorities with jurisdiction over the ability to commercialize lottery games in Mexico through an authorized federal gaming portal and to commercialize games of chance in other countries throughout Latin America. Aganar has been operating in the licensed Online Lottery market in Mexico since 2007 and has certain rights to sell Mexican National Lottery draw games, instant win tickets, and other games of chance online with access to a federally approved online casino and sportsbook gaming license and additionally issues a proprietary scratch lottery game in Mexico under the brand name Capalli.
+
+
+
+We believe that Mexico and Latin America are important strategic markets for us. As of December 31, 2020 (the date of the most recently available data), Latin America’s estimated lottery game market was approximately $9.1 billion across 26 countries and the TAM in such countries included 664 million people. We believe that the acquisition of Global Gaming and the ownership of the majority of the equity of Aganar and JuegaLotto will position us to penetrate and capitalize on this large market, which may provide us with the opportunity to offer our B2C Platform to users located within the borders of Mexico, offer certain Mexican lottery games to users outside of Mexico through both our B2C Platform and our B2B API, and leverage Aganar internal expertise in the creation and distribution of private label lottery games. We believe that the resulting synergies will increase our daily average users, repeat users, and positively impact our gross margins and net revenues.
+
+
+
+We believe there are additional opportunities to acquire complementary and synergistic businesses that are less able to adequately achieve reasonable scale on their own as a result of internal deficiencies, including technological implementation, management expertise, or funding requirements. Many businesses that we have identified as potential acquisition candidates operate in jurisdictions with sizable TAM, such as Eastern Europe or Africa, and we believe they will favorably view the opportunity to execute a business combination with us due to factors that include our definitional brand name, growing domestic and international presence, and technological offerings.
+
+
+
+Introducing New Revenue Generating Products
+
+
+
+We believe our ability to retain our existing and attract new users, affiliates, partners, and data subscribers, and to expand our operations in existing and new jurisdictions depends, in part, on our continued ability to create new revenue generating products, such as offering a fee-based subscription service of exclusive products, providing the opportunity to acquire fractional shares of lottery games, and launching our own, proprietary lottery game products.
+
+
+
+For example, we anticipate that users of our B2C Platform will support a fee-based subscription service that offers subscribers access to participate in exclusive lottery game pools, premium lottery prediction data, and other select features and functionality for a fixed monthly price. We have conceptualized and are developing this product offering and anticipate launching it on Project Nexus. See “Item 1. Business — Develop Technology and Functionality.”
+
+
+
+We believe that offering users a fractional share product will be a significant revenue generating opportunity for us in many international jurisdictions in which users have less disposable income as compared to users within the U.S. Unlike a lottery pool, which is generally a familiar concept and in which multiple lottery game tickets are acquired to provide the opportunity and the winnings of all such tickets are shared by the pool participants, fractional share participants provide for multiple participants to participate in a lottery game by purchasing a share — or fraction — of one ticket at a proportionate fraction of the price and participating in, a proportionate fraction of any prize. This provides an opportunity for those who may not want to expend the full purchase price of a lottery game to participate at less expense. Given the lower up-front cost and lower risk of loss, we expect that this will attract additional users who may not wish to commit the discretionary income to acquire a single lottery game. We have conceptualized and are developing this product offering and anticipate launching it on Project Nexus. See “Item 1. Business — Develop Technology and Functionality.”
+
+
+
+We also believe that there is a considerable opportunity to offer our own, proprietary lottery game products in non-U.S. jurisdictions that permit non-governmental authorities to issue lottery games and other games of chance. We are conceptualizing this product.
+
+
+
+
+
+15
+
+
+
+
+
+
+
+Develop Technology and Functionality
+
+
+
+We are developing a proprietary, blockchain-enabled online gaming platform, which we have named Project Nexus. Project Nexus, the initial phase of which is expected to be implemented in the second quarter of 2022, is designed and developed to handle high levels of user traffic and transaction volume, while maintaining expediency, security, and reliability in processing lottery game sales, the retail requirements of the B2C Platform, the administrative and back-office functionality required by the B2B API, and the claims and redemption process. Project Nexus is designed to minimize the Company’s use of electricity and other resources to reduce the Company’s environmental and natural resources impact. We continually assess our technological offerings and will continue to commit our resources to the improvement of the scope and functionality of Project Nexus, its applications, and our information technology infrastructure.
+
+
+
+We believe that development of our technology and functionality will allow us to more fully monitor our existing B2C Platform, Lottery Link, B2B API Platform, and Data Services operations, analyze user preferences and purchase behavior to determine enhanced functionality requirements, and concurrently ensure the strength and reliability of our transactional security systems, which, together, will improve our Platform’s service, increase loyalty and experience, and facilitate sales growth and increased revenues. We are committed to maintaining a strong security system and providing reliable and uncompromising services and information.
+
+
+
+We view distributed ledger technology as an important future functionality of the lottery industry and currently deploy distributed ledger technology in our Platform and will deploy it in Project Nexus to encode the data transfer system and ensure transactional security. A distributed ledger can be described as a ledger of any transaction or contract maintained in decentralized form across different locations and people, eliminating the need for a central authority to keep a check against manipulation. In this manner, a central authority is not needed to authorize or validate any transactions. All information on the ledger is securely and accurately stored using a cryptographic hash and can only be accessed using keys and cryptographic signatures. Once the information is stored, it becomes an immutable database, which the rules of the network govern and cannot be altered retroactively, which means that the data entered is irreversible.
+
+
+
+Distributed ledger technology is, by design, inherently resistant to cyber-attack because all distributed copies must be attacked simultaneously for an attack to be successful, and, for the same reason, these records are, by design, resistant to malicious changes by a single party. Distributed ledger technology is also very efficient and reduces operational inefficiencies because of the inherent speed that a transaction takes to complete.
+
+
+
+We believe that a decentralized application for the distribution of lottery games that is verified through the distributed ledger technology and inherently not subject to alteration will improve the security of and enhance the transparency and trust in our Platform, Project Nexus, products, and services, which is why we have leveraged this technology.
+
+
+
+Our Platform currently leverages, and Project Nexus is anticipated to leverage, distributed ledger technology by preserving a cryptographic ledger of the user identification, draw identification, ticket identification, and game numbers into an immutable ledger. The distributed ledger is append-only and keeps a complete record of all changes to the provided data that cannot be deleted, modified, or overwritten. There are no APIs or other methods to alter any committed data in place. Each transaction writes one or more blocks to the distributed ledger in a transaction. Each block contains entry objects representing the transaction data along with certain other information, which are then sequenced and hash-chained to guarantee data integrity. Distributed Ledger blocks are sequenced and chained together with cryptographic hashing techniques, which enables transactional data integrity using a cryptographic verification method.
+
+
+
+
+
+16
+
+
+
+
+
+
+
+We intend to further leverage distributed ledger technology in our future offerings, which may include (i) deploying critical user mechanics, such as user identify, geolocation, and administration of promotional draws on blockchain technology and (ii) increasing acceptance of alternative forms of permitted payment methods, which will enable a broader base of users to the B2C Platform. Notwithstanding our best efforts to continue to evaluate distributed ledger technology and the opportunity to deploy it in our technological developments, these efforts may have limited or no success.
+
+
+
+User Support Operations
+
+
+
+We value our B2C Platform users and have a dedicated Customer Happiness Team that provides high-quality user support services, including service consulting, and complaint processing. We also have a service team dedicated to the claims and redemption process, which monitors the winning results of all lottery products that we offer and initiates the prize collection process as soon as a user wins a prize. We give users detailed instructions and are available to answer inquiries throughout the process, which we believe is especially helpful to first-time prize winners. Our functionality includes an identity verification process to ensure prizes are distributed to the correct users. Since our inception, there have not been any legal claims brought against us by users in connection with lottery prize distribution.
+Sales, Marketing and Branding
+
+
+
+Our sales and marketing team conducts various traditional and online marketing programs and promotional activities, including in-game events and announcements, online and traditional advertising, sign-up promotions, and offline promotions that capitalize on our brand name and reputation.
+
+
+
+Additionally, through LotteryLink, we are party to several agreements with Affiliates whereby they have agreed to direct their customers to our B2C Platform and, upon conversion to our users, we have agreed to pay the Affiliates a percentage of the gross profit derived from such acquired users for a determined period. In the third quarter of 2021, we began the sale and transfer of LotteryLink Credits to a master Affiliate for use in providing affiliate marketing collateral to other Affiliates.
+
+
+
+We believe that we may generate additional revenue in the future by these Affiliates purchasing more LotteryLink Credits.
+
+
+
+During 2021, we did not conduct any digital marketing campaigns. In early 2022, we launched marketing campaigns with existing major media channels and relevant sponsorships and entered into new agreements with the intent of strengthening our brand name recognition in those jurisdictions in which our services are permitted, which may result in an increase of our historical domestic average customer acquisition cost of $4.01 per new user since 2020.
+
+
+
+Competition
+
+
+
+In our view, our competitive advantage is our prominent brand name and URL, our proprietary technology, and the synergies we gain from our collective operations of our B2C Platform, LotteryLink, B2B API, and Data Services. Additionally, because of the significant TAM and low penetration of companies optimizing the digitized delivery of lottery games, all industry competitors have significant room for growth without driving significant increases in the market’s user acquisition costs. It is our belief that for at least the near future, competition for new users will remain low between us and our direct competitors, including those jurisdictions that now or in the future offer Online Lottery, because of the significant potential growth in this segment, potential shift in opportunity from existing players, and new players’ change in purchasing habits from purchasing lottery games in brick-and-mortar outlets to mobile and online delivery functionality.
+
+
+
+
+
+17
+
+
+
+
+
+
+
+B2C Platform
+
+
+
+We believe that the main competitors to our B2C Platform are JackPocket, Inc., Lotto Direct Limited doing business as TheLotter, Shoutz, Inc. operating as LotteryHUB, Lotto.com Inc., and MidoLotto operated by Lottery Now Inc. These online lottery platforms allow users to buy lottery games at their convenience and with a proscribed geographic reach, which we believe is further driving demand for the service.
+
+
+
+Increased marketing efforts by us and our competitors is driving the growing overall popularity of lottery games purchased online or through a mobile device, contributing to the overall growth of the market. We, and our competitors, are using social media platforms such as Facebook, Instagram, and Twitter to connect with users to market, create awareness, and increase penetration.
+
+
+
+LotteryLink
+
+
+
+We do not believe that LotteryLink currently has direct competitors in the lottery affiliate marketing space.
+
+
+
+B2B API
+
+
+
+We believe that the primary competitor to our B2B API is NeoGames S.A.’s neoplay®, which offers an open API of interactive instant games from any game provider.
+
+
+
+Data Services
+
+
+
+We believe that our main competitors in our Data Services operations are Gaming Solutions International and Numadata.
+
+
+
+The WinTogether Platform
+
+
+
+The primary competitors to WinTogether are Omaze, Inc. and Prizeo US, LLC. We believe that because our B2C Platform offerings generate significant user traffic to our mobile application and website, we are able to capitalize on this traffic and capture new participants who would not otherwise have knowledge of WinTogether and its objectives but for their use of our B2C Platform.
+Regulation and Compliance
+
+
+
+We are subject to a variety of laws in the U.S. and abroad that affect our business, including state, territorial, and federal laws regarding lotteries, gaming, sweepstakes, consumer protection, electronic marketing, data protection and privacy, competition, taxation, intellectual property, export, and national security, all of which are continuously evolving. The scope and interpretation of the laws that are or may be applicable to us are often evolving or new and uncertain and may conflict with each other, particularly those governing our international operations.
+
+
+
+Lottery and gaming laws are generally based upon declarations of public policy designed to protect consumers from fraud and other misdeeds and the viability and integrity of the games, while raising revenues for the particular country, state, or other authorizing jurisdiction. To accomplish these goals, stringent laws and regulations may be established to ensure that participants in the industry meet certain standards of character and responsibility, which may require participants to:
+
+
+
+
+● | ensure that games are conducted fairly and honestly;
+--+-----------------------------------------------------
+
+
+● | establish procedures designed to prevent cheating and fraudulent practices;
+--+----------------------------------------------------------------------------
+
+
+● | establish and maintain anti-money laundering practices and procedures;
+--+-----------------------------------------------------------------------
+
+
+● | establish and maintain responsible accounting practices and procedures;
+--+------------------------------------------------------------------------
+
+
+● | ensure that lottery games are sold only at the price established by the applicable lottery regulator;
+--+------------------------------------------------------------------------------------------------------
+
+
+● | report prizes awarded and withhold certain amounts for taxes and other specified liabilities;
+--+----------------------------------------------------------------------------------------------
+
+
+
+
+
+
+18
+
+
+
+
+
+
+
+
+● | file periodic reports with regulators;
+--+---------------------------------------
+
+
+● | establish programs to promote responsible gaming and comply with other social responsibility practices; and
+--+------------------------------------------------------------------------------------------------------------
+
+
+● | enforce minimum age requirements.
+--+----------------------------------
+
+
+
+
+State and federal laws in the U.S. govern and, in some cases, limit our business practices. For example, the Interstate Wagering Amendment to 18 U.S.C. § 1301 limits our ability to purchase lottery games for a user located in one state from a lottery authority located in another state, except under certain limited circumstances, such as where the lottery authorities in the respective states allow the sales. Therefore, for our users located within the U.S., we only purchase lottery games for users geolocated to be physically situated within the U.S. state or jurisdiction where the lottery game they are purchasing is being conducted, unless an exception were to be authorized by the applicable lottery authorities. For more information, see “Item 1A. Risk Factors — Regulatory and Compliance Risks — If the Interstate Wagering Amendment is interpreted or applied to prohibit transmissions to foreign countries, it could have a negative impact on our business, financial condition, and results of operations.”
+
+
+
+In addition, the Wire Act provides that anyone engaged in the business of betting or wagering that knowingly uses a wire communication facility for the transmission in interstate or foreign commerce of bets or wagers or information assisting in the placing of bets or wagers on any sporting event or contest, or for the transmission of a wire communication that entitles the recipient to receive money or credit as a result of bets or wagers, or for information assisting in the placing of bets or wagers, may be fined or imprisoned, or both. The Wire Act provides, however, that it shall not be construed to prevent the transmission in interstate or foreign commerce of information for use in news reporting of sporting events or contests, or for the transmission of information assisting in the placing of bets or wagers on a sporting event or contest from a state or foreign country where betting on that sporting event or contest is legal into a state or foreign country in which such betting is legal. In late 2011, the Office of Legal Counsel (the “OLC”) in the U.S. Department of Justice (the “DOJ”) issued an opinion that concluded the conduct prohibited by the Wire Act was limited to sports gambling; however, in January 2019, the OLC issued a new opinion (the “2019 Opinion”) that concluded that the restrictions in the Wire Act on the transmission in interstate or foreign commerce of bets and wagers was not limited to sports gambling but applied to all bets and wagers, including those involving state lotteries. Reinterpretation of the federal Wire Act by the OLC threatened certain online lottery sales, leading to litigation in which the First Circuit Court of Appeals (the “First Circuit”) determined that the Wire Act applies only to interstate wire communications related to sporting events or contests and not lottery games. Finding that the declaratory judgment was an adequate remedy at law, however, the First Circuit declined to set aside the 2019 Opinion under the Administrative Procedure Act. In addition to the First Circuit’s decision, the U.S. Circuit Court of Appeals for the Fifth Circuit (the “Fifth Circuit”) has previously held the Wire Act prohibitions apply only to sports gambling. Because many of the Company’s operations occur outside the jurisdictions of the First Circuit and Fifth Circuit, and because the First Circuit did not set aside the 2019 Opinion, we are still monitoring the potential impact of the 2019 Opinion on our business. For more information, see “Item 1A. Risk Factors — Regulatory and Compliance Risks — If there is a final determination on the applicability of the Wire Act to our operations and it is determined or codified that the Wire Act extends to transmission of lottery games in interstate or foreign commerce, certain of our operations that are not currently restricted by statute or practice to a state’s territorial boundaries may be negatively impacted or eliminated, which may have a material adverse effect on our business, financial conditions, and results of operations.”
+
+
+
+In Minnesota, the sale of scratch Online Lottery tickets is prohibited. In Virginia, lottery courier services are prohibited by law. Some states limit the charges that we can impose and collect. We only purchase lottery games on behalf of our users and customers where our services are permitted and in accordance with applicable laws. The scope and interpretation of the laws that are or may be applicable to our services and the fees we charge are subject to interpretation and may change.
+
+
+
+
+
+19
+
+
+
+
+
+
+
+Our compliance with local, territorial and federal laws is based on our interpretation of existing state and federal laws regarding lottery services such as ours. We have obtained legal advice and notified certain lottery authorities in U.S. jurisdictions where we do business of the services that we offer, but in most cases, we have not received definitive determinations of the laws applicable to our services. There is a risk that existing or future laws in the states and jurisdictions in which we operate may be interpreted in a manner that is not consistent with our business model. Future laws that permit certain lottery services may be accompanied by restrictions or taxes that make it impractical or less feasible to operate in certain jurisdictions.
+
+
+
+Other laws and regulations may be adopted or construed to apply to us that could restrict our business model, including privacy, taxation, marketing, anti-money laundering, anti-corruption, copyright, currency exchange, export, and antitrust laws, as well as laws governing public companies.
+
+
+
+The growth of electronic commerce may prompt calls for stronger consumer protection laws that may impose additional burdens on companies such as ours conducting business through the Internet and mobile devices. It is likely that scrutiny and regulation of our industry may increase, and we will be required to devote additional resources to compliance with applicable regulations. While we believe that we are currently in compliance in all material respects with all applicable laws and regulatory requirements, we cannot assure that our activities or our users’ activities will not become the subject of any regulatory or law enforcement investigation, proceeding, or other governmental action or that any such investigation, proceeding, or action, as the case may be, would not have a materially adverse impact on us or our business, financial condition or results of operations.
+
+
+
+For more information, see “Item 1A. Risk Factors — Regulatory and Compliance Risks — Our business model and the conduct of our operations may have to vary in each U.S. jurisdiction where we do business to address the unique features of applicable law to ensure we remain in compliance with that jurisdiction’s laws. Our failure to adequately do so may have an adverse impact on our business, financial condition, and results of operations.”
+
+
+
+Licensing
+
+
+
+We currently hold a license issued by the Texas Lottery Commission to conduct the retail sale of lottery tickets in the State of Texas. We may determine or be required to secure additional licenses from other regulatory authorities with jurisdiction over our operations in new markets in which we contemplate expansion including, without limitation, the States of New York and New Jersey. Such licensure may impose additional obligations on us and our operations, which may include continuous disclosure to and investigation by the applicable regulatory authority into the financial stability, integrity, and business experience of our company, its affiliates, and their respective significant stockholders, directors, officers, and key employees. In markets in which we have not previously operated or in newly regulated markets, licensing regimes may impose licensing requirements or conditions with which we have not previously been required to comply, which may include locating technical infrastructure within the relevant territory, establishing real-time data interfaces with the regulatory authority, implementing consumer protection and privacy measures, or additional approvals or certifications of our technology, all of which may present operational challenges and material costs. Certain stockholders may be required to be licensed.
+
+
+
+To the extent that any stockholder, director, officer, or key employee is required to submit to required background checks and provide disclosure, and such individual fails to do so or they or we do not successfully do so, this may jeopardize the grant of a license, provide grounds for termination of an existing license, or result in the imposition of penalties. Generally, any person or entity who fails or refuses to apply for a governmental license, finding of suitability, registration, permit, or approvals within the prescribed period after being advised by a competent authority that they are required to do so may be denied or found unsuitable, as applicable, which may result in our determining or being required to sever our relationship with such person or entity. Further, we may be subject to disciplinary action or suffer revocation of licensure if, following notification that a person or entity is disqualified or unsuitable, we (a) pay them any dividend or interest upon our shares; (b) allow them to exercise, directly or indirectly, any voting right conferred through the shares they hold; (c) pay them remuneration in any form for services rendered or otherwise; or (d) if required, fail to pursue all lawful efforts to require them to relinquish their shares.
+
+
+
+Furthermore, our Charter provides that any of our securities held by a person or entity that is disqualified or unsuitable, as such terms are defined in our Charter, are subject to redemption by us as and to the extent required by a regulatory authority or deemed necessary or advisable by our Board in its sole and absolute discretion. If a gaming authority requires the Company, or our Board deems it necessary or advisable, to cause any such securities be subject to redemption, we will deliver a redemption notice (as described in the Charter) to such person or entity or its affiliate(s) (as applicable) and we will purchase the number and type of securities specified in the redemption notice for the redemption price determined in accordance with the Charter and set forth in the redemption notice.
+
+
+
+
+
+20
+
+
+
+
+
+
+
+Data Protection and Privacy
+
+
+
+Because we handle, collect, store, receive, transmit, and otherwise process certain personal information of our users, customers, and employees, we are also subject to federal, state, and international laws related to the privacy and protection of such data. Regulations such as the General Data Protection Regulation of the European Union and the California Consumer Privacy Act could affect our business, and the potential impact is still being determined. Other states are considering similar laws, which could impact our business.
+Responsible and Underage Gaming
+
+
+
+We are committed to compliance with the underage and responsible gambling requirements set forth in the domestic and international statutes and regulations governing our operations. We take our corporate responsibility to our users and the regulators with authority over our business very seriously, and we are focused on maintaining a safe and responsible gaming environment. We support and are members of the National Council on Problem Gaming, whose mission is to lead state and national stakeholders in the development of comprehensive policy and programs for all those affected by problem gaming. We continue to evaluate and develop our technology to meet the statutory requirements regarding responsible gaming and self-exclusion, as well as our own self-imposed objectives regarding corporate social responsibility.
+
+
+
+All of the U.S. jurisdictions and most of the international jurisdictions in which we operate prohibit sales of lottery tickets to persons under 18 years of age. We have instituted know-your-customer requirements to aid our efforts in identifying minors and preventing them from using our services.
+
+
+
+Many jurisdictions, especially international jurisdictions, are imposing more stringent rules with regard to underage and responsible gambling. This trend could continue to spread, and both U.S. and international jurisdictions may strengthen underage and responsible gambling requirements.
+
+
+
+Compliance
+
+
+
+We are in the process of developing a comprehensive internal compliance program, which will ensure compliance with legal requirements imposed in connection with our activities and with legal requirements generally applicable to all publicly traded companies. We have recently hired a Vice President of Compliance specifically in furtherance of this objective. While we are firmly committed to full compliance with all applicable laws, we cannot ensure that our compliance program will prevent the violation of one or more laws or regulations, or that a violation by us, an employee, a customer or other third-party will not result in enforcement action, the imposition of a monetary fine or suspension or revocation of one or more of our licenses, which could have a material adverse effect on us or on our results of operations, cash flow, or financial condition.
+
+
+
+Because we do business in international jurisdictions, our operations are subject to anti-corruption laws and regulations, such as the U.S. Foreign Corrupt Practices Act of 1977, the U.K. Bribery Act of 2010 and other anti-corruption laws that may apply where we operate. As we continue to expand globally, we are likely to be subject to additional laws and restrictions, which increases the risk that we will inadvertently violate one of those laws or restrictions.
+
+
+
+Employees
+
+
+
+We had a total of 43 and 20 full time and 7 and 5 part time employees as of December 31, 2021, and 2020, respectively. In 2021, 40 of our employees were located within the U.S. and 10 were located within Mexico and in 2020, all of our employees were located within the U.S. We do not have any labor contracts.
+
+
+
+
+
+21
+
+
+
+
+
+
+
+Our ability to maintain a trained management team and other employees is critical to the success of our business. We are committed to attracting, developing, and retaining a diverse team of employees, whose varied backgrounds and experience will further our innovative and creative environment. We value an internal culture of philanthropy, diversity, and innovation, which we believe creates a strong and committed team that furthers our strategic objectives.
+
+
+
+As we continue our organizational growth, we are in the process of developing learning functionality to ensure our employees’ skills, abilities and attributes continue to develop with our business’ requirements and human resources and compliance best practices.
+
+
+
+Intellectual Property
+
+
+
+We rely on a combination of trademark, copyright, and trade secret protection laws in the U.S. and other jurisdictions, as well as confidentiality procedures and contractual provisions, to protect our intellectual property and our brand.
+
+
+
+We have been using the LOTTERY.COM trademark since 2017; in February 2021, the LOTTERY.COM logo was registered on the Supplemental Register of the U.S. Patent and Trademark Office. The registration of our LOTTERY.COM, AUTOLOTTO, LOTTERYLINK, WINTOGETHER and SPORTS.COM word marks and SPORTS.COM logo are pending with the U.S. Patent and Trademark Office. We are also using and/or have common-law trademark rights in the trademarks AUTOLOTTO, LOTTERY.LINK, WINTOGETHER, SPORTS.COM, and TAP TICKET. We will continue to evaluate the filing of trademark applications in the U.S. and internationally, as appropriate.
+
+
+
+While we currently do not own any patent applications or issued patents, we will continue to evaluate our technology to determine whether it is appropriate to file patent applications in the U.S. or internationally.
+
+
+
+We seek to protect our intellectual property rights by implementing policies that require our employees and independent contractors involved in development of intellectual property to enter into agreements acknowledging that all intellectual property generated or conceived by them on our behalf are our property and assigning to us any rights that they may claim or otherwise have in those works or property, to the extent allowable under applicable law.
+
+
+
+Notwithstanding our best efforts to protect our technology and proprietary rights through registrations, licenses, and contracts, unauthorized parties may still seek to use our intellectual property and technology without rights thereto. We may also face allegations that we have infringed the intellectual property rights of third parties, including our competitors and non-practicing entities.
+
+
+
+Available Information
+
+
+
+Our Internet address is www.lottery.com. Our website and the information contained therein or linked thereto are not part of this Annual Report on Form 10-K.
+
+
+

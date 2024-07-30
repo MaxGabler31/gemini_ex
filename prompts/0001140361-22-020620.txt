@@ -1,0 +1,298 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+GENERAL
+ 
+ePlus inc., sometimes referred to in this Annual Report on Form 10-K as “we,” “our,” “us,” “ourselves,” or “ePlus.”, was founded in 1990. We conduct our operations through two business segments. Our technology segment sells IT hardware products, third-party software and maintenance contracts, our own and third-party advanced professional and managed services, and our proprietary software. Our financing segment operations primarily consist of the financing of IT equipment, software, and related services. Both segments sell to commercial entities, state and local governments, government contractors, and educational institutions.
+OUR BUSINESS
+    We are a leading solutions provider that delivers actionable outcomes for organizations by using IT and consulting solutions to drive business agility and innovation. Leveraging our engineering talent, we assess, plan, deliver, and secure solutions comprised of leading technologies and consumption models aligned with our customers’ needs. Our expertise and experience enable ePlus to craft optimized solutions that take advantage of the cost, scale, and efficiency of private, public and hybrid cloud in an evolving market. We also provide consulting, professional, and managed services, IT staff augmentation, and complete lifecycle management services including flexible financing and solutions in the areas of security, cloud, networking, data center, collaboration, and emerging technologies. We have been in the business of selling, leasing, financing, and managing IT and other assets for over 31 years.
+ 
+Our primary focus is to deliver secure integrated solutions that address our customers’ business needs, leveraging the appropriate technologies, both on-premise and in the cloud while mitigating risk. Our approach is to lead with advisory consulting to understand our customers’ needs, and then design, deploy, and manage solutions aligned to their objectives. Underpinning the broader areas of Cloud, Security, Networking, Data Center and Collaboration are specific skills in orchestration and automation, application modernization, DevSecOps, zero-trust architectures, data management, data visualization, analytics, network modernization, edge compute and other advanced and emerging technologies. These solutions are comprised of world class leading technologies from partners such as Amazon Web Services, Arista Networks, Check Point, Cisco Systems, Citrix, Commvault, Crowdstrike, Dell EMC, F5 Networks, Fortinet, Gigamon, HPE, Juniper Networks, Lenovo, Microsoft, NetApp, Nutanix, NVIDIA, Oracle, Palo Alto Networks, Pure Storage, Rubrik, Splunk, Varonis, and VMware, among many others. We possess top-level engineering certifications with a broad range of leading IT technologies that enable us to offer multi-vendor IT solutions that are optimized for each of our customers’ specific requirements. Our cloud/hosted, proprietary software solutions are focused on giving our customers more control over their IT supply chain, by automating and optimizing the procurement and management of their owned, leased, and consumption-based assets. These solutions have expanded to include private marketplace experiences to our customers such as those on AWS.
+ 
+Our scale and financial resources have enabled us to continue investing in engineering and technology resources to stay on the forefront of technology trends. Our expertise in core and emerging technologies, buttressed by our robust portfolio of consulting, professional, and managed services, has enabled ePlus to remain a trusted advisor for our customers. In addition, we offer a wide range of consumption options including “as-a-service”, leasing and financing for technology and other capital assets. We believe our lifecycle approach offering of integrated solutions, services and financing, asset management and our proprietary supply chain software, is unique in the industry. This broad portfolio enables us to deliver a bespoke customer experience that spans the continuum from fast delivery of competitively priced products, services, subsequent management, and upkeep, through to end-of-life disposal services. This approach permits ePlus to deploy sophisticated solutions enabling our customers’ business outcomes.
+ 
+Our go-to-market strategy focuses primarily on diverse end-markets for middle market to large enterprises. For the year ended March 31, 2022, the percentage of revenue by customer end market within our technology segment includes 29% for the telecommunications, media and entertainment industry, 16% for healthcare, 14% for the technology industry, 14% for state and local government, and educational institutions (“SLED”), and 9% for financial services. Sales to Verizon Communications Inc. represented 24%, 19%, and 15% of our net sales for the years ended March 31, 2022, 2021, and 2020, respectively. We sell to customers in the United States (“US”), which accounts for most of our sales, and to customers in select international markets including the United Kingdom (“UK”), the European Union (“EU”), India, Singapore, and Israel. Our technology segment accounted for 95% of our net sales, and 74% of our operating income, while our financing segment accounted for 5% of our net sales, and 26% of our operating income for the year ended March 31, 2022.
+ 
+
+
+
+OUR INDUSTRY BACKGROUND AND MARKET OPPORTUNITY
+ 
+We have identified and focused on several specific trends that we believe will create higher growth in the broader US IT market:
+ 
+MULTI-CLOUD STRATEGY
+ 
+Over the past several years, public, private and hybrid cloud architectures and cloud-enabled frameworks have become a core foundation of modern IT. Our strategy is to assist our customers in aligning cloud strategy with business objective, creating an enterprise cloud foundation, enabling multi-cloud capabilities, accelerating cloud migrations, modernizing the datacenter, and extending capabilities to the cloud, and optimizing cloud deployments along with their associated costs and security. We focus on being a guide to customers on their Journey to Modernization of applications, data, and platforms. This strategy leverages our strength in deploying private clouds, extending them to public cloud and incorporating the necessary elements of networking, security, and automation. By understanding our customers’ environment, applications, and business requirements, we deploy solutions that leverage the most appropriate technology on the most appropriate platform with the most appropriate consumption model. For example, we may build a private cloud solution to host mission critical applications, while utilizing a public cloud solution for development, collaboration, or disaster recovery. As the market matures, we will continue to build and acquire skills that align with agile development (DevOps), application refactoring, and analytics. Our cloud strategy is tightly aligned with all our key strategic initiatives, including data center, security, networking, collaboration, and emerging technology.
+INCREASING SOPHISTICATION AND INCIDENCES OF IT SECURITY BREACHES AND CYBER-ATTACKES
+ 
+Over the last decade, cyber-attacks have become more sophisticated, numerous, and invasive. Organizations are finding it increasingly difficult to effectively safeguard their information assets and business operations from a constant stream of advanced threats. Cyber-threats have shifted from uncoordinated individual efforts to highly coordinated and well-funded attacks by criminal organizations and nation-state actors. Additional drivers include data privacy concerns of both user data and machine data as companies continue to pursue digital transformation via data science and analytics. We believe our customers are focused on maturing all aspects of cyber security, including information and physical security, data protection, threat management and compliance requirements related to industry and government regulations. To meet current and future security threats, enterprises must identify their risks, select, and implement security controls and technology solutions that leverage integrated products and services to help monitor, mitigate, and remediate security threats and attacks while ensuring a data-centric security model that is scalable to meet today’s digital demands on premise, at the edge and in the cloud. Our ability to provide value-added and expert services to our customers in these areas helps us to create greater value for the customer via a security posture that extends across all digital technologies within an organization. The complex nature of security controls and their consumption opens opportunity for ePlus to engage in recurring subscription models with our customers that include both technology and the operational services designed and executed to help mitigate risk and mature an organizations’ cyber security posture.
+DISRUPTIVE TECHNOLOGIES ARE CREATING COMPLEXITY AND CHALLENGES FOR CUSTOMERS AND VENDORS
+ 
+The rapid evolution of disruptive technologies, and the speed by which they impact organizations’ IT platforms, has made it difficult for customers to effectively design, procure, implement, and manage their own IT systems. Disruption also increases the likelihood of security gaps leaving organizations vulnerable to attacks both internal and external. Moreover, increased budget pressures, fewer internal resources, a fragmented vendor landscape and fast time-to-value expectations make it challenging for customers to design, implement and manage secure, efficient, and cost-effective IT environments. Customers are increasingly turning to IT solutions providers such as ePlus to implement complex IT offerings, including managed services, security architecture, software-defined infrastructure, cloud platforms, converged and hyper-converged infrastructures, big data analytics, and data protection.
+ 
+CUSTOMER IT DECISION-MAKING IS SHIFTING FROM IT DEPARTMENTS TO LINE-OF-BUSINESS PERSONNEL
+ 
+As IT consumption shifts from legacy, on-premise infrastructure purchased upfront to agile “on-demand” and “as-a-service” solutions, customer procurement decisions are shifting from traditional IT personnel to lines-of-business personnel, which is changing the customer engagement model and types of consultative services required to fulfill customer needs. Many of these service delivery models are beginning to transition to recurring annuity revenue streams payable over time, rather than upfront revenue. Our partners are also evolving by developing more annuity models through subscription and consumption-based models operating both on-premises and the cloud, which further enables our offerings.
+LACK OF SUFFICIENT INTERNAL IT RESOURCES AT MID-SIZED AND LARGE ENTERPRISES, AND SCARCITY OF IT PERSONNEL IN CERTAIN HIGH-DEMAND DISCIPLINES
+ 
+We believe that IT departments at mid-sized and large enterprises are facing pressure to deliver business outcomes that rely on emerging technologies but lack the properly-trained staff and the ability to hire personnel with high in-demand disciplines such as security and data analytics. At the same time the prevalence of security threats, increased use of cloud platforms, software-defined networking, new architectures, rapid software development frameworks, the proliferation of mobile devices, dispersed workforces, employees working from home, bring-your-own-device (BYOD) policies, and complexity of multi-vendor solutions have made it difficult for IT departments to implement high-quality IT solutions.
+REDUCTION IN THE NUMBER OF IT SOLUTIONS PROVIDERS
+ 
+We believe that customers are seeking to reduce the number of solutions providers they do business with to improve supply chain and internal efficiencies, enhance accountability, improve supplier management practices, and reduce costs. As a result, customers are required to select IT solutions providers that can deliver complex multi-vendor IT solutions. Vendor and tooling consolidation is also trending whereby solutions providers can bundle and enhance the value of offerings while simplifying technology footprints.
+INCREASING NEED FOR THIRD-PARTY SERVICES
+ 
+We believe that customers are relying on third-party service providers, such as ePlus, to manage significant aspects of their IT environment, from design, implementation, pre- and post-sales support, to maintenance, engineering, cloud management, security operations, and other services.
+COMPETITION
+ 
+The market for IT solutions is highly competitive, subject to macro-economic cycles, and the entry of new competitors. Additionally, the market is subject to disruption from consolidation of existing market participants that will create larger competitors, by the introduction of disruptive technologies, and by other activities of industry participants. We expect to continue to compete in all areas of our business against local, regional, national, and international firms, including vendors, consulting firms, international, national, and regional resellers, and service providers. Some of our competitors are direct marketers with little value-add and sell products as commodities, which can place downward pressure on product pricing. In addition, many IT vendors may sell or lease directly to our customers, and our continued ability to compete effectively may be affected by the policies of such vendors. Some Original Equipment Manufacturers (OEMs) are building and launching their own adoption and managed services to better ensure customer satisfaction and retainment. We face indirect competition from potential customers’ reluctance to move away from legacy systems, processes, and solutions providers. As IT consumption shifts from IT personnel and legacy infrastructure to line-of-business based outcomes using off-premise, on-demand, and cloud solutions, the legacy resale model is shifting from an upfront sale to a recurring revenue model.
+ 
+The leasing and financing markets are also competitive and subject to changing economic conditions and market activities of leading industry participants. We expect to continue to compete against local, regional, national, and international firms, including banks, specialty finance companies, private-equity asset managers, vendors’ captive finance companies, and third-party leasing companies. Banks and other large financial services companies sell directly to business customers, particularly larger enterprise customers, and may provide other financial or ancillary services that we do not provide. Vendor captive leasing companies may use internal transfer pricing to effectively lower lease rates and/or bundle equipment sales and leasing to provide highly competitive packages to customers. Third-party leasing companies may have deep customer relationships with contracts in place that are difficult to displace; however, these competitors typically do not provide the breadth of product, service, and software offerings that we provide to our customers. Our competitors also may have access to more capital to fund more originations than us and may be better able to adapt to a rapidly changing interest rate environment.
+ 
+In all our markets, some of our competitors have longer operating histories and greater financial, technical, marketing, and other resources than we do. In addition, some of these competitors may be able to respond more quickly to new or changing opportunities, technologies, and customer requirements. Many current and potential competitors also have greater name recognition and engage in more extensive promotional marketing and advertising activities, offer more attractive terms to customers, and adopt more aggressive pricing policies than we do.
+ 
+
+
+
+OUR SOLUTIONS
+ 
+TECHNOLOGY SEGMENT
+ 
+
+• | IT sales: Our offerings consist of hardware, perpetual and subscription software, maintenance, software assurance, and internally provided and outsourced services. We believe that our customers view technology purchases as integrated solutions, rather than discrete product and service categories, and the majority of our sales are derived from integrated solutions involving our customers’ data center, cloud, network, security, and collaboration infrastructure. We hold various technical and sales-related certifications from leading manufacturers and software publishers, which authorizes us to market their products and enables us to provide advanced professional and managed services. We actively engage with emerging vendors to offer their technologies to our customers. Our flexible platform and customizable catalogs facilitate the addition of new vendors’ products with minimal incremental effort. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Advanced professional and managed services: We provide a range of advanced professional and managed services to help our customers improve productivity, profitability, and revenue growth while reducing operating costs. Our solutions and services include the following: 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Managed services proactively monitors and manages a broad range of technologies on-premises and in the cloud with services such as managed infrastructure, service desk, and Managed Power Protection. These solutions are built in a flexible subscription model to monitor, manage, and maximize business critical technologies—including cloud, security, data center, mobility, and collaboration based on a an ITIL Framework with SOC 1/2 and HIPAA accreditation; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Professional services focus on cloud infrastructure, unified communications, collaboration, networking, storage, hyper-converged infrastructure, and virtual desktop infrastructure, supported by security and managed services solutions; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Security solutions help safeguard our customers’ business and information assets through the appropriate application of governance, technology and supporting services:
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Governance, Risk, and Compliance (GRC) services help ensure customers are meeting governance and compliance requirements by leveraging regulatory frameworks, industry best practices, and supporting controls - thereby allowing customers to effectively identify, assess, and mitigate risk. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Technology Introduction and Deployment services help customers rapidly adopt and integrate key security controls and embrace efficiencies across technology types like network, endpoint, data, and cloud.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Managed Security Services help customers strengthen their information security profile with industry-leading tools, technology, and expertise - often at a fraction of the cost of in-house security resources. Services include Security Operations Center (SOC), Vulnerability Management, Managed Detection and Response (MDR), and Incident Response (IR). 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Cloud Consulting Services is a global team of architects and consultants focused on assessing customer workloads for cloud, assisting with the selection of the appropriate cloud solution, design and build of cloud platforms, application modernization and migration, automation, and ongoing management and optimization of cloud platforms. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Cloud Hosted Services provide cloud-hosted offerings including Cloud Managed Backup and Cloud Disaster Recovery. These data protection offerings, delivered under SOC 2 Type 2 and HIPAA frameworks, are focused on delivering confidence to our customers in their ability to rapidly recover when incidents such as ransomware occur. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Staff augmentation services provide customers with flexible headcount options, which may range from service desk to infrastructure to software developer skills. Staff augmentation allows customers to access talent, fill specific technology skill gaps, or provide short-term or long-term IT professional help, which also includes services, such as Virtual Chief Information Officer (vCIO) and Virtual Chief Information Security Officer (vCISO), used to complement existing personnel and build three-to-five-year IT roadmaps. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Service desk provides outsourced functions including but not limited to server and desktop support to respond to our customers’ business demands while minimizing overhead. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Project management services enhance productivity and collaboration management and enable successful implementations and adoption of solutions for our customers.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FINANCING SEGMENT
+ 
+We specialize in financing arrangements, including sales-type and operating leases; loans, and consumption-based financing arrangements; and underwriting and management and disposal of IT equipment and assets. Our financing operations include sales, pricing, credit, contracts, accounting, risk management, and asset management.
+ 
+We primarily finance IT equipment, communication-related equipment, and medical equipment. We may also finance industrial machinery and equipment, office furniture and general office equipment, transportation equipment, and other general business equipment. We offer our solutions both directly and through vendors.
+ 
+We offer enhanced financing solutions, and our business process services approach automates a significant portion of the IT procurement process and reduces our customers’ cost of doing business. The solution incorporates value-added services at every step in the process, including:
+ 
+
+• | Front-end processing, such as procurement, order aggregation, order automation, vendor performance measurement, ordering, reconciliation, and payment;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Lifecycle and asset ownership services, including asset management, change management, and property tax filing; and
+--+--------------------------------------------------------------------------------------------------------------------
+
+
+• | End-of-life services such as equipment audit, removal, and disposal.
+--+---------------------------------------------------------------------
+
+OUR COMPETITIVE STRENGTHS
+ 
+BROAD SKILLSETS THAT CAN SCALE TO SUPPORT LARGE ADDRESSABLE MARKET 
+
+
+We sell IT solutions focusing on the data center, cloud, network, security, virtualization, and mobility segments of the industry, facilitated by our professional and managed service solutions. We primarily target our sales efforts toward middle-market and large commercial entities, state and local governments, education, and healthcare customers throughout the US and in certain markets in Europe and Asia. We believe IT departments in these organizations are facing pressure to deliver higher service levels with fewer resources, increasing their reliance on third-parties who can provide complex, multi-vendor technology solutions, such as our company.
+BROAD AND DIVERSE CUSTOMER BASE ACROSS A WIDE RANGE OF END MARKETS
+ 
+We have a broad and diverse customer base of over 3,500 customers across a wide range of end-markets, including education, financial services, healthcare, media and entertainment, state and local government, technology, and telecommunications.
+DIFFERENTIATED BUSINESS MODEL SERVING ENTIRE IT LIFECYCLE – PROCUREMENT, SOLUTIONS, SERVICES, SOFTWARE, FINANCING
+ 
+We believe we are a trusted IT advisor, delivering differentiated products and services to enable our customers to meet increasingly complex IT requirements. We are able to provide complete, turn-key solutions aligned to the entire IT lifecycle – procurement, products, services, software, and financing. We provide upfront assessments, design and configuration capabilities, installation and implementation, and ongoing services to support our customers’ solutions.
+DEEP EXPERTISE IN ADVANCED TECHNOLOGY TO ADDRESS CLOUD, SECURITY, SOFTWARE DEFINED NETWORKING, WIFI/5G, AND OTHER EMERGING IT TRENDS
+ 
+We believe our customers choose us for their complex IT infrastructure needs based on our track record of delivering best-of-breed solutions, value-added services, and close relationships with both established and emerging vendors. We focus on obtaining and maintaining top-level engineering certifications and professional services expertise in advanced technologies of strategic vendors that we leverage to help our customers achieve positive business outcomes. Across our company, our employees collectively hold nearly 5,000 certifications or accreditations. In particular, our highly skilled, experienced personnel include account executives, pre-sales and inside-sales staff trained on our broad solutions capabilities and category-focused subject-matter experts. Our approximately 375 technical employees hold nearly 3,000 certifications, with over 1,100 different titles, among over 100 vendors, with a heavy concentration in our top vendor partners.
+STRATEGIC ABILITY TO DESIGN AND INTEGRATE CLOUD SOLUTIONS ACROSS MULTIPLE VENDORS
+ 
+We believe our expertise across both data center and cloud architectures allows us to provide differentiated offerings in assisting our customers with their journey to the cloud. Combined with our established practices in networking and security, we are uniquely poised to help customers adopt a multi-cloud strategy utilizing our cloud cost management and FinOps framework to help overcome the inherent challenges. We leverage our strategic partnerships with leading vendors such as Amazon Web Services, Cisco Systems, Dell EMC, Hewlett Packard Enterprise, Microsoft, NetApp, Rubrik, and VMware in conjunction with our professional, managed and lifecycle services to help our customers achieve their desired business outcomes.
+STRATEGIC INVESTMENTS IN EXPERIENCED CYBER SECURITY PRACTICIONERS TO GUIDE CUSTOMERS RISK MITIGATION STRATEGIES
+ 
+We believe our organizational structure and resources in both security advisory services and technology teams best enable our consulting teams to deliver clear business outcomes for our customers looking to identify and mitigate risk to their organizations. While developing threats, new regulations and cyber liability insurance premiums continue to increase, putting pressure on stake holders and shareholders, we continue to invest in our service delivery capabilities and align with industry leading cyber security OEMs to help ensure our customers are accelerating their security programs and leveraging the latest capabilities to harden defenses and ensure preparedness against threats to their business.
+PROVEN TRACK RECORD OF SUCCESSFULLY INTEGRATING ACQUISITIONS AND ACCELERATING GROWTH
+ 
+We view acquisitions as an important factor in our strategic growth plan. Since 1997, we have successfully integrated nearly 30 acquisitions. Most recently, we have been active in tuck-in acquisitions to broaden our product offerings, sector reach, and geographic footprint.
+ 
+We generally integrate acquired firms into the ePlus platform immediately, which allows us to maintain customer and vendor relationships, retain key employees from acquired firms, and accelerate growth.
+ 
+We continue to review new acquisition opportunities to expand our global footprint and expand our offerings.
+ 
+FINANCIAL PERFORMANCE CHARACTERIZED BY GROWTH AND PROFITABILITY
+ 
+We have focused on achieving top-line revenue growth while maintaining industry-leading gross margins – with a compound annual growth rate of 6.4% on net sales and 9.3% for consolidated gross profit, respectively, from fiscal year 2018 to fiscal year 2022.
+ 
+Through our organic expansion and acquisitions, we have increased our employee base by 26.7% from March 31, 2018 to March 31, 2022. The increase in our employee base has largely been in customer facing roles, which represented 91.3% of the total increase in headcount over the same period, as we continue to build our sales and services team while leveraging our operational infrastructure.
+ 
+GROWTH STRATEGY
+ 
+Our goal is to continue to grow as a leading provider of technology solutions. The key elements of our strategy include the following:
+ 
+BE OUR CUSTOMERS’ PARTNER OF CHOICE FOR COMPREHENSIVE IT AND LIFECYCLE SOLUTIONS, INCLUDING CONSULTING, MANAGED AND PROFESSIONAL SERVICES, AND FINANCING
+ 
+
+
+
+We seek to become the primary provider of IT solutions and flexible financing solutions for each of our customers, whether on-premise, cloud, hybrid or as a service provider. We strive to provide excellent customer service, pricing, availability, and advanced professional and managed services in an efficient manner. We believe the increasing complexity of the IT ecosystem and the emergence of new technologies, vendors, licensing, and service options are factors that will lead to a growing demand from existing customers. We have many experienced pre-sales engineers who engage with customers about the most advanced technologies. Our account executives are trained on our broad solutions capabilities with access to many category-focused subject-matter experts, which allow them to sell in a consultative business outcome-based manner that increases the likelihood of cross-selling our solutions. Our account executives are supported by experienced and professional inside sales representatives. We believe that our bundled offerings are an important differentiating factor from our competitors.
+ 
+We focus on gaining top-level engineering certifications and professional services expertise in advanced technologies of strategic vendors. This expertise helps our customers develop their cloud capabilities including private, public, and hybrid deployments. We provide virtual desktop infrastructure, unified communications, collaboration, networking, security, storage, big data, mobility, converged and hyper-converged infrastructures, and managed services offerings, all of which remain in high demand. We believe our ability to deliver advanced professional services provides benefits in two ways. First, we gain recognition and mindshare of our strategic vendor partners and become the “go-to” partner in selected regional markets as well as the national market. This significantly increases direct and referral sales opportunities for our products and services and allows us to offer competitive pricing levels. Second, within our existing and potential customer base, our advanced professional services are a key differentiator against competitors who cannot provide services or advanced services for these key technologies or across multiple vendor product lines.
+ 
+Our managed services portfolio expanded this year to include Managed SDWAN, Service Desk, Carrier Expense Management, Cloud Cost Optimization, Vulnerability Management as a Service (VMaas), Managed Unified Communication Manager (UCM), Hyperflex, Nutanix and Aruba monitoring and management. We have further increased our breadth and depth of engineering expertise through the integration of recent acquisitions, supplementing our Cisco service offerings, expanding our Netapp Enhanced Maintenance Support (EMS) portfolio, and adding support for additional market leading security solutions. We have also enhanced our Managed Services and consolidated all ePlus annuity-based service solutions into a single service management platform to enhance customer experience. Likewise, we have increased automation of Service Level Target reporting to ensure remediation and response are top-of-mind.
+ 
+BUILD OUR GEOGRAPHIC FOOTPRINT
+    We intend to increase our direct sales and go-to-market capabilities in each of our geographic areas. We actively seek to acquire new account relationships through personal relationships, electronic commerce, leveraging our partnerships with vendors, and targeted demand-generation activities to increase awareness of our solutions. We also seek to broaden our customer base, expand our geographic reach, and improve our technology and professional services delivery capabilities. During the last fiscal year, we continued to expand our sales and delivery capabilities across multiple international markets as we see more demand for solutions within this market.
+RECRUIT, RETAIN, AND DEVELOP EMPLOYEES
+ 
+Based on our prior experience, capital structure, and business systems and processes, we believe we are well positioned to hire experienced sales representatives and engineers, make strategic acquisitions that expand our customer facing talent, broaden our customer base, expand our geographic reach, scale our existing operating structure, and/or enhance our product and service offerings. While the current labor market is challenging, part of our growth strategy is to hire purposefully and enhance our technical and skill base through strategic acquisitions. Once recruited, we believe that that our culture, competitive performance-based compensation, policies, and labor practices contribute to strong relations with our employees. We offer a range of affordable and flexible benefits options to assist with health and well-being. As our employees are an important resource to us, we invest in their ongoing professional development. Our education program provides financial support for employees who want to participate in undergraduate and graduate studies, continuing education, skill building including technical certifications, and other professional enrichment related to their position with ePlus. 
+IMPROVE OPERATIONAL EFFICIENCIES
+ 
+We continue to invest in our internal technology infrastructure and software platforms to optimize our operations and engage in process re-engineering efforts to become more streamlined and cost effective.
+RESEARCH AND DEVELOPMENT
+ 
+We incur software development costs associated with maintaining, enhancing, or upgrading our proprietary software, which may be performed by internal or external IT development resources or by an offshore software-development company that we use to supplement our internal development team or various US-based consultants.
+SALES AND MARKETING
+ 
+We focus our sales and marketing efforts on becoming the primary provider of IT solutions for each of our customers. We actively seek to acquire new account relationships through personal relationships, electronic commerce, and leveraging our partnerships with vendors and targeted demand-generation activities to increase awareness of our solutions. We target middle-market and large commercial entities and state and local governments, and educational institutions. We undertake direct marketing and leverage digital marketing and social media campaigns to target certain markets in conjunction with our primary vendor partners, who may provide financial reimbursement, outsourced services, and personnel to assist us in these efforts.
+    Our sales representatives are compensated by a combination of salary and commission, with commission becoming the primary component of compensation as the sales representatives gain experience. To date, we acquired a majority of our customers through the efforts of our direct sales force and acquisitions. We market to different areas within a customer’s organization, including business units as well as the IT department, or finance department, depending on the solutions.
+ 
+As of March 31, 2022, our sales force consisted of 588 sales, marketing and sales support personnel organized regionally across the US, UK, India, and Singapore.
+ 
+INTELLECTUAL PROPERTY RIGHTS
+ 
+Our success depends in part upon proprietary business methodologies and technologies that we have licensed and modified. We own certain software programs or have entered into software licensing agreements to provide services to our customers. We rely on a combination of copyrights, trademarks, service marks, trade secret protection, confidentiality and nondisclosure agreements, and licensing arrangements to establish and protect our intellectual property rights. We seek to protect our documentation and other written materials and confidential corporate information under trade secret and copyright laws, which afford only limited protection.
+ 
+For example, we currently have patents in the US and Canada. We cannot provide assurance that any patents, as issued, will prevent the development of competitive products or that our patents will not be successfully challenged by others or invalidated through the administrative process or litigation.
+ 
+In the US, our registered trademarks include e+®, ePlus®, Docpak®, Viewmark®, OneSource®, Where Technology Means More® and GRIT: Girls Re-Imagining Tomorrow ®. We also have registered IGXGlobal®, and IGXGlobal an ePlus Technology, inc. Company® and certain variations thereon in the UK and the EU. We intend to use and protect these and our other marks, including common-law marks, as we deem necessary. We have over 20 registered copyrights, in addition to unregistered copyrights in our website content, software, marketing and other written materials. We believe our trademarks and copyrights have significant value and are an important factor in the marketing of our products.
+ 
+Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to copy aspects of our products or to obtain and use information that we regard as proprietary. Our means of protecting our proprietary rights may not be adequate, and our competitors may independently develop similar technology, duplicate our products or design around our proprietary intellectual property.
+ 
+FINANCIAL AND RISK MANAGEMENT ACTIVITIES
+ 
+Inventory Management: We have drop-shipment arrangements with many of our vendors and distributors, which permit us to offer products to our customers without taking physical delivery of the equipment. Ingram Micro, Arrow Electronics, and TD SYNNEX are our largest distributors. Using the distribution systems available, we frequently sell products that are shipped from the vendors or distributors directly to our customers’ location, which assists us in reducing inventory and minimizing shipping costs. For the year ended March 31, 2022, our three largest distributors accounted for over 35% of our purchases related to our technology segment net sales.
+ 
+Risk Management and Process Controls: We use and maintain conservative underwriting policies and disciplined credit approval processes in both our technology and financing segments. We have an executive management review process and other internal controls in place to evaluate transactions’ potential risk.
+ 
+In our technology segment, we manage our risk by using conservative credit quality analysis and periodic monitoring of customer financial results or third-party risk evaluation tools; monitoring customer accounts receivable balances and payment history; proactively pursuing delinquent accounts; ensuring we have appropriate contractual terms and conditions; perfecting security interests when practicable; requiring prepayment or deposits if indicated; performing fraud checks for new accounts; and evaluating general economic as well as industry specific trends. Our systems automatically decrease trade credit lines based on assigned risk ratings.
+ 
+
+
+
+In our financing segment, we manage our risk in assets we finance by assigning the contractual payments due under the financing arrangement to third-parties and the continued monitoring of our customers’ credit profile. We also use agency purchase orders to procure equipment for lease to our customers and otherwise take measures to minimize our inventory of financed assets. When our technology segment is the supplier of the assets being financed, we retain certain procurement risks. Our financing arrangements with our customers are generally fixed rate.
+ 
+As a result of COVID-19, we have tightened our credit lines with many of our customers, particularly in the customer end markets under significant duress such as retail. Some customers have requested extended terms which we are assessing on a case by case basis. In our financing segment, we reduced our exposure by transferring certain transactions on a non-recourse basis.
+    Credit Risk Loss Experience: During the fiscal year ended March 31, 2022, we decreased our allowance for credit losses by $102 thousand and incurred actual credit losses of $545 thousand. During the fiscal year ended March 31, 2021, we increased our allowance for credit losses by $1,436 thousand and incurred actual credit losses of $178 thousand.
+    BACKLOG
+ 
+We rely on our vendors or distributors to fulfill a large majority of our shipments to our customers. As of March 31, 2022, we recorded customer commitments to purchase products or services that remain open until either executed or canceled (“open orders”) of $973.0 million and deferred revenue of $116.9 million. As of March 31, 2021, we had open orders of $476.8 million and deferred revenues of $99.1 million. We expect that most of the open orders and approximately 74% of deferred revenue as of March 31, 2022, will be recognized within the next 12 months. Our backlog has increased year over year due to supply chain issues, including a shortage of IT products, that is causing delays in fulfilling some orders.
+HUMAN CAPITAL
+    Our employees are an important resource for us, and their collective dedication and talent enable us to be a trusted advisor to our customers.
+ 
+As of March 31, 2022, we employed a total of 1,577 employees, including 1,524 in the US, 29 in India, 21 in the UK, and 3 in Singapore. We believe we have a good relationship with our employees. More than one-third of our employees have a tenure of six or more years, and over 20% have a tenure of more than 10 years. None of our employees are represented by a labor union.
+OUR CULTURE
+ 
+In the early days of the COVID-19 pandemic, our Chief Executive Officer introduced the motto of “Be Safe, Be Smart, and Be Kind.” to convey the timeless qualities that embody the culture we have spent 30 years building and which have been even more important during these past two years. We are committed to providing a workplace free of unlawful harassment or discrimination based on race, color, religion/religious creed, sex (including pregnancy, childbirth, or related medical conditions), gender, gender expression, gender identity, transgender, sexual orientation, national origin (including ancestry), age, marital status (including same-sex marriages), genetic information/predisposition/carrier status, physical or mental disability or medical condition, military/veteran status, or any other legally protected characteristic. Through our policies, our training, and the everyday actions of our leadership, we expect our employees to treat each other, our customers, and all our business partners with respect and equality for all persons consistent with the “Be Safe, Be Smart, and Be Kind” motto.
+ 
+Corporate social responsibility is also an important part of our culture and we focus efforts around supporting the communities in which we live and work. A sample of our efforts include participating in One Tree Planted, Habitat for Humanity, and Be the Match. Since 2017, we have sponsored GRIT: Girls Re-Imagining Tomorrow® in partnership with Cisco Systems, Inc. GRIT introduces diverse groups of middle school girls to technology-focused career possibilities, with an emphasis on cyber security and artificial intelligence. In 2022, GRIT kicked off a new program year at six schools across the country, with more than 90 students participating.
+ 
+
+
+
+FUNCTIONAL AREAS OF OUR EMPLOYEE BASE
+ 
+The functional areas of our employees are as follows:
+ 
+
+ | As of March 31, | | Change
+----------------------+-----------------+-------+-------
+ | 2022 | | 2021 
+Sales and marketing | | 588 | | 589 | (1 | )
+Professional services | | 666 | | 662 | 4 | 
+Administration | | 229 | | 217 | 12 | 
+Internal IT | | 88 | | 85 | 3 | 
+Management | | 6 | | 7 | (1 | )
+ | | 1,577 | | 1,560 | 17 | 
+
+COVID-19 SAFETY
+ 
+During the past two years, in response to the COVID-19 pandemic, we implemented a flexible work from home strategy for all our offices, designed to help keep our employees, their families, and our communities safer. We provided training and support to our employees during this time, especially for those who performed essential services onsite with customers and in our integration centers, supporting our customers, many of which are in critical infrastructure sectors themselves.
+ATTRACTING TALENT
+ 
+While we operate in a competitive labor environment, we believe that that our culture, policies and labor practices, and our competitive performance-based compensation contribute to strong relations with our employees. We offer a range of affordable and flexible benefits options to assist with health and well-being. Each new employee receives a welcome box equipped with ePlus branded gifts to jump start their ePlus spirit. We have continued the flexible work from home strategy we adopted during the COVID-19 pandemic, and we anticipate evolving to varied hybrid models for the future of work.
+TRAINING AND DEVELOPMENT
+ 
+As our employees are an important resource to us, we invest in their ongoing professional development. Our education program provides financial support for employees who want to participate in undergraduate and graduate studies, continuing education, skill building including technical certifications, and other professional enrichment related to their position with ePlus. New employees are assigned approximately 30 short training videos during their first eight months of employment, covering soft skills, compliance, and our specific business. All employees have access to ePlus University, which offers thousands of on-demand courses, from business and technical skills to leadership to compliance. We also provide live and recorded presentations from numerous in-house leaders and experts in a variety of topics, as well as in-person workshops on management skills and leadership. All employees are supported in, and expected to, remain current in the knowledge areas relevant to their position.
+ 
+We value our employees’ growing their career and technical knowledge. Across our company, our employees collectively hold nearly 5,000 certifications or accreditations. In particular, our highly skilled, experienced personnel include account executives, pre-sales and inside-sales staff trained on our broad solutions capabilities and category-focused subject-matter experts. Our approximately 375 technical employees hold nearly 3,000 certifications, with over 1,100 different titles, among over 100 vendors, with a heavy concentration in our top vendor partners.
+ 
+We recognize our employee successes in many ways. We award top performers in our sales and services departments with awards and gifts, including a “President’s Club” trip, which we expect to resume in summer 2022 after a two-year COVID-19-induced hiatus. We also promote employee engagement and recognition through our ePlus Recognition platform where employees can announce and/or thank other employees for their efforts and receive awards. In addition, we recognize support staff with our annual Executive Choice Awards, and our CEO Degrees of Excellence award, which recognizes employees who perform an exceptional act of community service. During the most recent fiscal year, each employee (except for our executive officers) received two special cash bonuses. In addition, we have developed career paths for most functional areas to illustrate the many career paths within ePlus.
+ 
+US SECURITIES AND EXCHANGE COMMISSION REPORTS
+ 
+Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and all amendments to those reports, filed with or furnished to the US SEC, are available free of charge through our Internet website, www.eplus.com, as soon as reasonably practical after we have electronically filed such material with, or furnished it to, the SEC. The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC at www.sec.gov. The contents on or accessible through these websites are not incorporated into this filing. Further, our references to the URLs for these websites are intended to be inactive textual references only.
+EXECUTIVE OFFICERS
+ 
+The following table sets forth the name, age and position of each person who was an executive officer of ePlus on March 31, 2022. There are no family relationships between any directors or executive officers of ePlus.
+    
+Name | Age | Position 
+-----------------+-----+-------------------------------------------------------------
+Mark P. Marron | 60 | Chief Executive Officer, President, and Director 
+Elaine D. Marion | 54 | Chief Financial Officer 
+Darren Raiguel | 51 | Chief Operating Officer and ePlus Technology, inc. President
+
+ 
+
+The business experience of each executive officer of ePlus is described below:
+ 
+MARK MARRON – CHIEF EXECUTIVE OFFICER, PRESIDENT AND DIRECTOR
+ 
+Mark P. Marron became the Chief Executive Officer and President of ePlus inc. on August 1, 2016. He began his career at ePlus in 2005 as Senior Vice President of Sales and became Chief Operating Officer in 2010. A 30-year plus industry veteran, he was formerly with NetIQ where he held the position of Senior Vice President of Worldwide Sales and Services. Prior to joining NetIQ, Mr. Marron served as General Manager of Worldwide Channel Sales for Computer Associates International Inc., a provider of software and services that enables organizations to manage their IT environments. Mr. Marron has extensive experience throughout North America, Europe, the Middle East, and Africa and holds a Bachelor of Science degree in Computer Science from Montclair State University.
+ELAINE MARION – CHIEF FINANCIAL OFFICER
+ 
+Elaine D. Marion joined us in 1998. Ms. Marion became our Chief Financial Officer on September 1, 2008. From 2004 to 2008, Ms. Marion served as our Vice President of Accounting. Prior to that, she was the Controller of ePlus Technology, inc., a subsidiary of ePlus, from 1998 to 2004. Ms. Marion currently serves on the Advisory Board of the School of Business at the University of Mary Washington and as chair of the George Mason University School of Business Dean’s Advisory Council. Ms. Marion is a graduate of George Mason University, where she earned a Bachelor of Science degree in Business Administration with a concentration in Accounting.
+DARREN RAIGUEL– CHIEF OPERATING OFFICER AND EPLUS TECHNOLOGY INC. PRESIDENT
+ 
+Darren S, Raiguel joined the company in 1997 as an account executive and has held numerous management positions in the organization for well over a decade. Mr. Raiguel became our Executive Vice President of Technology Sales, and in May 2018 was promoted to Chief Operating Officer of ePlus inc. and President of ePlus Technology, inc. Mr. Raiguel received a Bachelor of Business Administration degree from Temple University, with dual majors in Marketing and Finance. He has participated in numerous industry organizations, councils, and advisory boards throughout his career.
