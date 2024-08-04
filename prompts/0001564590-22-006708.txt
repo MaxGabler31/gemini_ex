@@ -1,0 +1,913 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+ References to “Plus,” the “Company,” “we,” “us” and “our” refer to Plus Therapeutics, Inc. and its consolidated subsidiaries. References to “Notes” refer to the Notes to Consolidated Financial Statements included herein (refer to Item 8).
+ General
+ Plus Therapeutics, Inc. is a U.S. pharmaceutical company developing innovative, targeted radiotherapeutics for adults and children with rare and difficult-to-treat cancers. Our novel radioactive drug formulations and therapeutic candidates are designed to deliver safe and effective doses of radiation to tumors. To achieve this, we have developed innovative approaches to drug formulation, including encapsulating radionuclides such as Rhenium isotopes with nanoliposomes and microspheres. Our formulations are intended to achieve elevated patient absorbed radiation doses and extended retention times such that the clearance of the isotope occurs after significant radiation decay, which will contribute and provide less normal tissue/organ exposure and improved safety margins. 
+ Traditional approaches to radiation therapy for cancer such as external beam radiation have many disadvantages including continuous treatment for 4-6 weeks (which is onerous for patients), that the radiation damages healthy cells and tissue, and that the amount of radiation delivered is very limited and, therefore, is frequently inadequate to fully destroy the cancer.
+ Our targeted radiotherapeutic platform and unique investigational drugs have the potential to overcome these disadvantages by directing higher, more powerful radiation doses at the tumor—and only the tumor—potentially in a single treatment. By minimizing radiation exposure to healthy tissues while simultaneously maximizing efficacy, we hope to reduce the toxicity of radiation for patients, improving their quality and life expectancy. Our radiotherapeutic platform, combined with advances in surgery, nuclear medicine, interventional radiology, and radiation oncology, affords us the opportunity to target a broad variety of cancer types.
+ Our lead radiotherapeutic candidate, Rhenium-186 NanoLiposome (“186RNL”) is designed specifically to target central nervous system (CNS) cancers including recurrent glioblastoma, leptomeningeal metastases, and pediatric brain cancers by direct localized delivery utilizing approved standard-of-care tissue access such as with conduction enhanced delivery (“CED”) and intraventricular brain catheters (Ommaya reservoir).  Our recently acquired radiotherapeutic candidate, Rhenium-188 NanoLiposome Biodegradable Alginate Microsphere (“188RNL-BAM”) is designed to treat many solid organ cancers including primary and secondary liver cancers.
+ 
+Our headquarters and manufacturing facilities are located in Texas and are in proximity to world-class cancer institutions and researchers. Our dedicated team of engineers, physicians, scientists, and other professionals are committed to advancing our targeted radiotherapeutic technology for the benefit of cancer patients and healthcare providers worldwide and our current pipeline is focused on treating rare and difficult-to-treat cancers with significant unmet medical needs.
+ Pipeline
+ 
+Our most advanced investigational drug, 186RNL, is a patented radiotherapy potentially useful for patients with central nervous system (CNS) and other cancers.  Preclinical study data describing the use of 186RNL for several cancer targets have been published in peer-reviewed journals. Besides glioblastoma, leptomeningeal metastases, and pediatric brain cancer, 186RNL has been reported to have potential applications for head and neck cancer, ovarian cancer, breast cancer and peritoneal metastases. 
+ The 186RNL technology was part of a licensed radiotherapeutic portfolio that we acquired from NanoTx, Corp. (“NanoTx”) on May 7, 2020. The licensed radiotherapeutic has been evaluated in preclinical studies for several cancer targets and we have an active $3.0 million award from U.S. National Institutes of Health/National Cancer Institute which will provide financial support for the continued clinical development of 186RNL for recurrent glioblastoma through the completion of a Phase 2 clinical trial including enrollment of up to 55 patients. Thus far, 23 patients have been treated in the Phase 1 clinical trial and the Phase 2 clinical trial has not yet been initiated.
+ 
+We are currently conducting the ReSPECT-GBM and ReSPECT-LM clinical trials for recurrent glioblastoma (“GBM”) and leptomeningeal metastases (“LM”), respectively. In addition, we anticipate seeking FDA IND approval for the ReSPECT-PBC clinical trial for pediatric brain cancer (“PBC”) in late 2022 or early 2023.
+ 186RNL versus External Beam Radiation Therapy
+ 186RNL is a novel injectable radiotherapy designed to deliver targeted, high dose radiation directly into glioblastoma tumors in a safe, effective, and convenient manner that may ultimately prolong patient survival.  186RNL is composed of the radionuclide Rhenium-186 and a nanoliposomal carrier, and is infused in a highly targeted fashion, directly into the tumor via precision brain mapping and CED. Potential benefits of 186RNL compared to standard external beam radiotherapy or EBRT include:
+6 
+
+
+
+
+ 
+•The 186RNL radiation dose delivered to patients may be up to 20 times greater than what is possible with commonly used external beam radiation therapy (“EBRT”). 
+•186RNL can be visualized in real-time during administration, possibly giving clinicians better control of radiation dosing and distribution. 
+•186RNL potentially more effectively treats a bulk tumor and microscopic disease that has already invaded healthy tissue. 
+•186RNL is infused directly into the targeted tumor, bypassing the blood brain barrier, which reduces radiation exposure to healthy cells, in contrast to EBRT which passes through normal tissue to reach the tumor, continuing its path through the tumor, hence being less targeted and selective.
+•186RNL is given during a single, short, in-patient hospital visit, and is available in all hospitals with nuclear medicine and neurosurgery, while EBRT requires out-patient visits 5 days a week for approximately 4-6 weeks. 
+
+ ReSPECT-GBM Trial for Recurrent GBM
+ Glioblastoma is the most common, complex, and aggressive primary brain cancer in adults. Annually in the U.S., there are 12,900 GBM cases diagnosed and approximately 10,000 patients succumb to the disease each year. The average life expectancy with primary glioblastoma is less than 24 months, with a one-year survival rate of 40.8% and a five-year survival rate of only 6.8%. GBM often causes and presents with headaches, seizures, vision changes and other significant neurological complications. Despite the best available medical treatments to eliminate the initial brain tumor, some microscopic disease frequently remains, with tumor regrowth within months.  Approximately 90% or more of patients with primary GBM experience tumor recurrence. Complete surgical removal of GBM is not typically possible and GBM is often resistant or quickly develops resistance to most available therapies. Even today, the treatment of GBM remains a significant challenge and it has been nearly a decade since the FDA approved a new therapy for this disease. 
+ For recurrent GBM, there are few currently approved treatments that in the aggregate, provide only marginal survival benefit. Furthermore, these therapies are associated with significant side effects, which limit dosing and prolonged use.
+ While EBRT has been shown to be safe and effective in many malignancies including glioblastoma, the maximum possible administered dose is limited by toxicity to the normal tissues surrounding the malignancy. In contrast, targeted radiopharmaceuticals that precisely deliver radiation in the form of beta particles such as Iodine-131 for thyroid cancer, are known to be very safe and effective and minimize exposure to normal cells and tissues. 
+ Interim results from our ongoing Phase 1/2a ReSPECT-GBM trial (ClinicalTrials.gov NCT01906385), suggest beta particle energy from our lead investigational drug 186RNL may also have utility in treating GBM and other malignancies. More specifically, the preliminary data from our Phase 1/2a ReSPECT-GBM trial indicates that radiation, in the form of high energy beta particles or electrons, can be effective against GBM. Thus far, we have been able to deliver up to 740 Gy of absorbed radiation to tumor issue without significant or dose limiting toxicities. In comparison, current EBRT protocols for recurrent glioblastoma typically recommend a total maximum dose of about 35 Gy.
+ In September 2020, the U.S. Food and Drug Administration (“FDA”) granted both Orphan Drug designation and Fast Track designations to 186RNL for the treatment of patients with GBM.
+ 
+186RNL is presently under clinical investigation in a multicenter, sequential cohort, open-label, volume and dose escalation study of the safety, tolerability, and distribution of 186RNL given by CED to patients with recurrent or progressive malignant glioma after standard surgical, radiation, and/or chemotherapy treatment (NCT01906385). The study uses a modified Fibonacci dose escalation, followed by a planned expansion at the maximum tolerated dose (MTD) / maximum feasible dose (MFD) to determine efficacy. The trial is funded through Phase 2 in large part by a NIH/NCI grant. The planned enrollment in the NIH/NCI grant is 21 patients in the dose-escalation part of the study and 34 patients in the expansion cohort. The study is in its 8th dosing administration cohort and is under development and internal review to potentially advance to a Phase 2 or registration trial. 
+ 
+At the Society for Neuro-Oncology Annual Meeting in November 2021, we presented patient data which at that time included the results for 22 patients treated in the ReSPECT-GBM trial. The trial, thus far, has shown that CED in recurrent GBM patients is feasible. Median absorbed dose to the tumor volume across all subjects in the first eight cohorts (n=22) was 267.5 Gy (range 8.9-740). In a subset of patients in whom tumor coverage was greater than or equal to 75%, the median absorbed dose was 405 Gy (range 146-593). By contrast, the median absorbed doses to the whole brain and the total body across all subjects were 0.55 Gy (range 0.001-2.728) and 0.09 Gy (range 0.001-0.182), respectively. Small doses, as delivered to the body, are typically well-tolerated. Based on observed and reported patient protocol activity and all available adverse event (AE) data, 186RNL has been well-tolerated. No AEs with an outcome of death or study drug-related serious AEs have been reported. Furthermore, no patient was discontinued 
+ 7 
+
+
+from the study because of an AE. All AEs have been mild or moderate (Grade 1 or 2) in intensity, except for one case of Grade 3 vasogenic edema, which was considered by the investigator to be unrelated to the study drug. AEs considered by the investigator to be at least possibly related to 186RNL have included Grade 1 to 2 skin and soft tissue infection, intermittent cephalgia, neck and jaw pain, nausea with or without vomiting, constipation, increased lethargy, difficulty walking (gait disturbance), worsening double vision, and dysuria. Scalp discomfort and tenderness related to the surgical procedure has also been reported. 
+ In the 22 subjects with recurrent GBM receiving a single administration of 186RNL, the mean & median overall survival (“OS”) for all 22 patients as of November 2021 was 48.1 & 33.1 weeks, respectively, with 7 patients alive. In a subset of 13 patients receiving a presumed therapeutic absorbed radiation dose to the tumor (>100 Gy), the mean & median OS was 64.8 & 47.1 weeks, respectively, with 7 of 13 patients alive. In contrast, in 9 patients receiving a presumed sub-therapeutic absorbed radiation dose to the tumor (<100 Gy), the mean and median OS was 23.9 & 22.3 weeks, respectively. A Kaplan-Meier curve comparing patients with presumed therapeutic vs. sub-therapeutic radiation dose to the tumor showed a statistically significant difference between the groups (p=.0002). It is hypothesized that targeted infusion of 186RNL into the tumor by CED, which allows us to bypass the blood-brain barrier and normal brain and external tissues, significantly spares normal tissues from radiation exposure and potential toxicity and concentrates radiation to the tumor and surrounding region of interest. 
+ 
+ReSPECT-LM Clinical Trial for Leptomeningeal Metastases
+ LM is a rare complication of cancer in which the disease spreads to the membranes (meninges) surrounding the brain and spinal cord. The incidence of LM is growing and occurs in approximately 5% of people with late-stage cancer, or 110,000 people in the U.S. each year. It is highly lethal with an average 1-year survival of just 7%. LM occurs with cancers that are most likely to spread to the central nervous system. The most common cancers to spread to the leptomeninges are breast cancer, lung cancer, melanoma and gastrointestinal cancers---though most solid tumors have the potential for LM spread.
+ 
+The ReSPECT-LM Phase 1 clinical trial (ClinicalTrials.gov NCT05034497) is predicated in part upon preclinical studies in which tolerance to doses of 186RNL as high as 1,075 Gy was shown in animal models with LM without significant observed toxicity. Furthermore, treatment led to marked reduction in tumor burden in both C6 and MDA-231 LM models.
+ In October 2021, the FDA announced clearance of our Investigational New Drug (“IND”) application for 186RNL for the treatment of LM. Subsequently, in November 2021, the FDA granted a Fast Track designation for 186RNL for the treatment of leptomeningeal metastases. The Company initiated the trail and began screening patients for the ReSPECT-LM Phase 1 clinical trial in Q4 2021. 
+ The ReSPECT-LM multi-center, sequential cohort, open-label, dose escalation study is evaluating the safety, tolerability, and distribution of 186RNL via intrathecal infusion to the ventricle of patients with LM after standard surgical, radiation, and/or chemotherapy treatment. The primary endpoint of the study is the incidence and severity of adverse events and dose limiting toxicities.
+ ReSPECT-PBC Clinical Trial for Pediatric Brain Cancer
+ 
+In August 2021, we announced plans for treating pediatric brain cancer at the 2021 American Association of Neurological Surgeons (AANS) Annual Scientific Meeting. In July 2021, we reported that we had received FDA feedback pertaining to a pre-IND meeting briefing package in which the FDA stated that we are not required to perform any additional preclinical or toxicology studies. 
+ 
+Currently, the Company plans to investigate the use of 186RNL in 2 pediatric brain cancers. High-grade glioma (“HGG”) is a rare, fast-growing CNS tumor that forms in glial cells of the brain and spinal cord. It can be found almost anywhere within the CNS, but is most commonly within the supratentorium in children ages 15-19. HGG tumors in children act differently from those in adults, causing headaches, seizures, and difficulty achieving developmental milestones depending on the tumor location. Approximately 360-400 children are diagnosed with HGG annually in North America and the 5-year survival rate is approximately 20%. In contrast, ependymoma is a rare, slow- or fast-growing (depending on the grade) primary CNS tumor that forms in ependymal cells in the brain and spinal cord—and may spread throughout the CNS, though infrequently. All ependymomas can recur, but patients are often tumor-free for years before testing shows tumor regrowth, either at the initial tumor site or elsewhere within the CNS. Symptoms depend on tumor location and size, usually including irritability, sleeplessness, vomiting, nausea, back pain, arm/leg weakness, and headaches.
+ Approximately 250 children are diagnosed with ependymoma annually in the U.S. while 71% of children with Grade II and 57% with Grade III survive 5 years from diagnosis.
+ 8 
+
+
+Based on the aggregate preclinical and clinical work completed to date in adult recurrent glioblastoma, we hypothesize that 186RNL may offer potential clinical benefit for PBCs, such as high-grade glioma and ependymoma. We intend to submit an IND application to the FDA for 186RNL for the treatment of PBC (high-grade glioma and ependymoma) in late 2022 or early 2023.
+ Rhenium-188 NanoLiposome Biodegradable Alginate Microsphere Technology
+ In January 2022, we announced that we licensed Biodegradable Alginate Microsphere (“BAM”) patents and technology from The University of Texas Health Science Center at San Antonio (“UT Health Science Center at San Antonio”) to expand our tumor targeting capabilities and precision radiotherapeutics pipeline. We intend to combine our Rhenium NanoLiposome technology with the BAM technology to create a novel radioembolization technology. Initially, we intend to utilize the Rhenium-188 isotope, 188RNL-BAM for the intra-arterial embolization and local delivery of a high dose of targeted radiation for a variety of solid organ cancers such as hepatocellular cancer, hepatic metastases, pancreatic cancer and many others.
+ Preclinical data from an ex vivo embolization experiment in which Tc-BAM was intra-arterially delivered to a bovine kidney perfusion model was presented at the recent 2021 Society of Interventional Radiology (“SIR”) Annual Scientific Meeting. The study concluded that the technology required for radiolabeling BAM could successfully deliver, embolize and retain radiation in the target organ. 188RNL-BAM is a preclinical investigational drug we intend to further develop and move into clinical trials. Specifically, in 2022, we intend to transfer the 188RNL-BAM technology from UT Health Science Center at San Antonio, fabricate and scale the drug product, and complete certain preclinical studies to support a future FDA IND submission. Our likely initial clinical target is liver cancer which is the 6th most common and 3rd deadliest cancer worldwide. It is a rare disease with increasing U.S. annual incidence (42,000) and deaths (30,000). 
+ Licensing
+ 
+On December 31, 2021, we entered into a Patent and Technology License Agreement (the “UTHSA License Agreement”) with UT Health Science Center at San Antonio, pursuant to which UT Heath Science Center at San Antonio granted us an irrevocable, perpetual, exclusive, fully paid-up license, with the right to sublicense and to make, develop, commercialize and otherwise exploit certain patents, know-how and technology related to the development of BAM containing nanoliposomes loaded with imaging and/or therapeutic payloads.  Therapeutic payloads may include radiotherapeutics, chemotherapeutics, or thermotherapeutics.  
+ The BAM technology is delivered into the vascular system via standard interventional vascular catheters that are placed precisely in the vessels feeding tumors.  Once injected, BAM blocks all blood flow to the tumors and simultaneously delivers very high doses of cytotoxic compounds including radiation for an extended time. Many days later, the BAM are physiologically metabolized and excreted from the body.  
+ The Company currently anticipates that it will initially focus on developing 188RNL-BAM as a next-generation radioembolization therapy for liver cancer, in which BAM blocks the hepatic artery segments that supply blood to the malignant tumor while also providing 188RNL radiotherapy directly to the tumor and surrounding tissue.  According to the American Cancer Society, liver cancer is a rare disease with an increasing annual incidence and 5-year overall survival of only 20%.  Per internal Company estimates, the global opportunity for localized embolization, chemoembolization, and radioembolization therapies for primary (hepatocellular carcinoma) and secondary (typically metastatic colorectal cancer, for example) liver cancer is $1.3 billion.
+ 
+The financial terms of the exclusive license agreement are primarily success-based with milestone and royalty payments contingent on achieving key clinical, regulatory and sales milestones.
+ The initial inventions and work behind the licensed patents and technologies were developed and led by William Phillips MD, Professor of Nuclear Medicine and team at UT Health Science Center at San Antonio. The 188RNL-BAM technology incorporates Rhenium-188, or 188Re, a unique isotope for radiotherapeutic embolization owing to its emission of a high energy electron (beta particle), half-life and a path length. 188Re also emits gamma energy that permits high quality, real-time imaging of the BAM construct delivery localization and confirmation. BAMs are not permanent and are anticipated to degrade over time, allowing restoration of blood flow, decreasing radiation resistance, and allowing for safer physiological clearance of 188Re through the kidneys, which may minimize bone marrow toxicity.
+ The transaction terms included an upfront payment in cash.  Furthermore, we may pay development and sales milestone payments and a tiered single-digit royalty on U.S. and European sales.  In addition, we may be obligated to pay an annual maintenance fee starting 2024.
+ On March 29, 2020, we entered into a Patent and Know-How License Agreement (the “NanoTx License Agreement”) with NanoTx, pursuant to which NanoTx granted us an irrevocable, perpetual, exclusive, fully paid-up license, with the right to sublicense and to make, develop, commercialize and otherwise exploit certain patents, know-how and technology related to the development of radiolabeled nanoliposomes.
+ 9 
+
+
+The transaction terms included an upfront payment of $400,000 in cash and $300,000 in our voting stock (the “Equity Compensation”). Furthermore, we may pay up to $136.5 million in development and sales milestone payments and a tiered single-digit royalty on U.S. and European sales. 
+ 
+The licensed drug portfolio is anchored around nanoliposome-encapsulated radionuclides for several cancer targets. The lead drug asset is 186RNL, initially being developed for recurrent GBM.  186RNL is infused directly into the brain tumor via precision brain mapping and CED catheters to administer very high therapeutic doses of radiation to patients whose cancer has recurred following initial surgical resection and treatment with chemotherapy and radiation.
+ 
+The licensed radiolabeled nanoliposome platform was developed by a multi-institutional consortium based in Texas at the Mays Cancer Center / UT Health Science Center at San Antonio MD Anderson Cancer Center led by Dr. Andrew Brenner, MD, PhD, who is the Kolitz Chair in Neuro-Oncology Research and Co-Leader of the Experimental and Developmental Therapeutics Program. The technology was previously owned by NanoTx and funded by both the National Institutes of Health/National Cancer Institute (NIH/NCI) and the Cancer Prevention and Research Institute of Texas (CPRIT).  There is an active $3M award from NIH/NCI which will financially support the continued clinical development of 186RNL for recurrent glioblastoma.
+ Manufacturing 
+ 
+We have a dedicated nanoparticle research & development facility located in San Antonio, Texas. The facility and processes are designed to comply with current good manufacturing practices (“cGMP”) per FDA and EMA regulations for the manufacture of drug candidates for clinical trials, research, and development. As described below, upon completion of the research and development phase of a drug candidate, certain parts of the manufacturing processes for such candidate may be transferred to contract manufactures to support clinical trials and commercial release. Upon approval of our drug candidates, our manufacturing capabilities will include validated manufacturing processes for the drug product as well as a quality assurance product release process with the ability to ultimately scale-up the process to meet increasing market demands. We believe our strategic investments in our analytical, development and manufacturing capabilities, including personnel with expertise from drug discovery through drug development, will allow us to advance our product candidates more quickly. Expertise gained in manufacturing our drug products may be applied to other formulations in the future, further leveraging our capabilities. Our San Antonio facility enables us to develop drug substances, and drug products, in a cost-effective manner while retaining control over the intellectual property, process and timing of development activities. The use of a qualified Contract Drug Manufacturing Organization (“CDMO”) will be utilized to perform various manufacturing processes as we deem appropriate to meet our operational objectives.  In addition, we have entered into master services agreements (“MSAs”) with third parties, including Piramal Pharma Solutions, Inc. (“Piramal”), ABX Advanced Biochemical Compounds GmbH, IsoTherapeutics Group, LLC, and Radiomedix, Inc. in connection with the development, manufacture, and supply of our 186RNL drug product. 
+ Competition 
+ We will compete primarily on the basis of the safety and efficacy of our therapies across a broad range of clinical indications to address significant unmet medical and market needs, supported by our brand name, pricing, products, published clinical data, regulatory approvals, and reimbursement. We believe that our continued success depends on our ability to:
+
+• | develop and innovate our product and technology platforms;
+--+-----------------------------------------------------------
+
+
+• | initiate new and advance existing clinical development programs;
+--+-----------------------------------------------------------------
+
+
+• | secure and maintain regulatory agency approvals;
+--+-------------------------------------------------
+
+
+• | build and expand our commercial footprint;
+--+-------------------------------------------
+
+
+• | produce high quality products per our specifications and in line with customer expectations;
+--+---------------------------------------------------------------------------------------------
+
+
+• | achieve improved economies of scale;
+--+-------------------------------------
+
+
+• | generate and protect intellectual property;
+--+--------------------------------------------
+
+
+• | hire and retain key talent; and
+--+--------------------------------
+
+
+• | successfully execute acquisition, licensing, and partnership activities.
+--+-------------------------------------------------------------------------
+
+ 
+Competition for 186RNL may come from a single or combination therapy in the future.  
+ Recurrent Glioblastoma
+ 
+Bayer, VBL Therapeutics, Kintara Therapeutics, Istari Oncology, Medicenna, MediciNova, Chimerix, PharmAbcine, VBI Vaccines, Ziopharm Oncology, Bristol Myers Squibb, ImmunoCellular, Novartis, EnGeneIC, Berg, Bexion, and others have reported drug development programs at various clinical stages for recurrent glioblastoma and Plus Therapeutics continues to monitor their progress.
+ 10 
+
+
+Leptomeningeal Metastases
+ AngioChem, Merck, Bristol Myers Squibb, Roche, Y-mAbs, Kazia, AstraZeneca, Pfizer, and others have reported drug development programs at various clinical stages for leptomeningeal metastases and Plus Therapeutics continues to monitor their progress.
+Pediatric Brain Cancer
+ AstraZeneca, Bristol Myers Squibb, Chimerix, Celgene, Eli Lilly, Nektar Therapeutics, Istari Oncology, Novartis, NovoCure, Takeda, Y-mAbs, Cellectar, and others have reported drug development programs at various clinical stages for pediatric brain cancer and Plus Therapeutics continues to monitor their progress.
+ Competition for 188RNL-BAM may come from a single or combination therapy in the future.  
+ Liver Cancer
+ Boston Scientific, SIR-TEX, Terumo, ABK Biomedical, and others have reported radioembolization therapy product development programs for liver cancer and Plus Therapeutics continues to monitor their progress.
+Intellectual Property 
+ Our success depends in large part on our ability to protect our proprietary technology, and to operate without infringing on the proprietary rights of third parties. We rely on a combination of patent, trade secret, copyright and trademark laws, as well as confidentiality agreements, licensing agreements and other agreements, to establish and protect our proprietary rights. Our success also depends, in part, on our ability to avoid infringing patents issued to others.
+ 
+We license the proprietary formulation and proprietary methods of manufacture of the nanoliposome-encapsulated radionucleotides. 186RNL and 188RNL are covered by U.S. Patent No. 7,718,160, (the “‘160 Patent”) which will expire in December 2026.  Patent term extension, codified in 35 U.S.C. §156, provides a means of recapturing time lost during the regulatory approval process.  Based upon this regulation, we will apply for patent term extension for the ‘160 Patent for the time equal to the regulatory review period for 186RNL.  This has the potential to extend patent coverage for this product for at least another 5 years. The ‘160 Patent covers the method of manufacture of 186RNL and product-by-process claims.  The patent family also contains granted patents in Canada (Patent No. 2,490,959), Europe (Patent No. EP1536843), and Australia (Patent No. 2003241598), which are expected to expire in May 2023.  We are not aware of any valid patent claims that would be infringed by 186RNL or 188RNL.
+ 
+188RNL is also covered by U.S. Patent Appl. No. 17/611,929 titled Radiotherapeutic Microspheres. This application was filed on November 17, 2021, and is expected to expire on May 21, 2040, not including any patent term adjustment or patent term extension. The patent family also contains applications in Israel (IL288275), China (CN202080037924), Saudi Arabia (SA521430917), Korea (KR102021704215), Europe (EP2020809701), Australia (AU2020280044), Malaysia (MYPI2021006914), Singapore (SG11202112919), Brazil (BR112021023449), New Zealand (NZ782354), and Canada (CA3140856).
+ 
+188RNL is also covered by U.S. Patent Appl. No. 63/157,546 titled Loading Alginate Microspheres. This application was filed March 5, 2021. 
+ 
+We also own PCT Application No. PCT/US2021/059969, titled Radiolabeled Liposomes and Methods of Use Thereof, which is directed to methods of treating cancer comprising administering 186Re and 188Re nanoliposomes via convection-enhanced delivery.  This application was filed on November 18, 2021, and is expected to expire in November 2041, not including any patent term adjustment or patent term extension. 
+ We also own U.S. Patent Appl. No. 63/302,953, titled Radiolabeled Liposomes and Methods for Treating Leptomeningeal Metastases, which is directed to methods of treating cancer comprising administering 186Re and/or 188Re nanoliposomes via an intraventricular reservoir.  This application was filed on January 25, 2022, and is expected to expire in January 2043, not including any patent term adjustment or patent term extension. 
+ Government Regulation and Product Approval 
+ Government authorities in the United States, at the federal, state and local level, and in other countries and jurisdictions, including the European Union, extensively regulate, among other things, the research, development, testing, manufacture, quality control, approval, packaging, storage, recordkeeping, labeling, advertising, promotion, distribution, marketing, post-approval monitoring and reporting, and import and export of pharmaceutical products. The processes for obtaining regulatory approvals in the United States and in foreign countries and jurisdictions, along with compliance with applicable statutes and regulations and other regulatory authorities, require the expenditure of substantial time and financial resources. Our nanoparticle oncology drug candidates 
+ 11 
+
+
+must receive regulatory approvals from the EMA and the FDA and from other government authorities prior to sale of the product candidates in their respective jurisdictions.
+ FDA Approval Process
+ In the United States, pharmaceutical products are subject to extensive regulation by the FDA. Manufactures of pharmaceutical products may also be subject to state and local regulation. The Federal Food, Drug, and Cosmetic Act, or the FDC Act, and other federal and state statutes and regulations, govern, among other things, the research, development, testing, manufacture, storage, recordkeeping, approval, labeling, promotion and marketing, distribution, post-approval monitoring and reporting, sampling, and import and export of pharmaceutical products. Failure to comply with applicable U.S. requirements may subject a company to a variety of administrative or judicial sanctions, such as the imposition by the FDA or an institutional review board, or IRB, of a clinical hold, FDA refusal to approve pending new drug applications, or NDAs, or supplements, withdrawal of approval, warning or untitled letters, product recalls, product seizures, total or partial suspension of production or distribution, injunctions, fines, civil penalties, and criminal investigation, penalties, or prosecution.
+ Product development for a new product or certain changes to an approved product in the United States typically involves:
+  
+• | Completion of preclinical laboratory studies, formulation studies, and animal studies, some in compliance with the FDA’s Good Laboratory Practices, or GLP, regulations, and the Animal Welfare Act administered and enforced by the United States Department of Agriculture;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Submission to the FDA of an investigational new drug application, or IND, to support human clinical testing, which must become effective before clinical testing may commence;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Approval by an IRB before each trial may be initiated at each clinical site;
+--+-----------------------------------------------------------------------------
+
+
+• | Performance of adequate and well-controlled clinical trials under protocols submitted to the FDA and reviewed and approved by each IRB, conducted in accordance with federal regulations and current Good Clinical Practices, or GCP, to establish the safety and effectiveness of the drug for each indication for which FDA approval is sought;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Submission of an NDA to the FDA;
+--+---------------------------------
+
+
+• | Satisfactory completion of an FDA Advisory Committee review, if applicable;
+--+----------------------------------------------------------------------------
+
+
+• | Satisfactory completion of an FDA inspection of the manufacturing facilities at which the product candidate is produced to assess compliance with current good manufacturing practices, or cGMP, and to assure that the facilities, methods and controls are adequate; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | FDA review and approval of the NDA.
+--+------------------------------------
+
+  Satisfaction of FDA pre-market approval requirements typically takes many years and the actual time required may vary substantially based upon the type, complexity, and novelty of the product or disease.
+ Preclinical tests include laboratory evaluation of product chemistry, formulation, and toxicity, as well as animal trials to assess the characteristics and potential safety and efficacy of the product candidate. The conduct of some preclinical tests must comply with federal regulations and requirements, including as applicable, GLP and the Animal Welfare Act. The results of preclinical testing are submitted to the FDA as part of an IND along with other information, including information about product chemistry, manufacturing and controls, and a proposed clinical trial protocol. Additional preclinical tests, such as animal tests of reproductive toxicity and carcinogenicity, may continue after the IND is submitted. A 30-day waiting period after the submission of each IND is required prior to the commencement of clinical testing in humans. If the FDA has neither commented on nor questioned the IND within this 30-day period, the clinical trial proposed in the IND may begin. 
+ Clinical trials involve the administration of the investigational drug product to healthy volunteers or patients under the supervision of a qualified investigator. Clinical trials must be conducted: (i) in compliance with federal regulations; (ii) in compliance with GCP, an international standard meant to protect the rights and health of patients and to define the roles of clinical trial sponsors, administrators, and monitors; as well as (iii) under protocols detailing the objectives of the trial, the parameters to be used in monitoring safety, and the effectiveness criteria to be evaluated. Each protocol involving testing on U.S. patients and subsequent protocol amendments must be submitted to the FDA as part of the IND.  Foreign studies conducted under an IND generally must meet the same requirements that apply to studies being conducted in the United States. The informed written consent of each study patient must be obtained before the patient may begin participation in the clinical trial. The study protocol, study plan, and informed consent forms for each clinical trial must be reviewed and approved by an IRB for each clinical site, and the study must be conducted under the auspices of an IRB for each trial site. Investigators and IRBs must also comply with FDA regulations and guidelines, including those regarding oversight of study patient informed consent, complying with the study protocol and investigational plan, adequately monitoring the clinical trial, and timely reporting of adverse events.
+ 12 
+
+
+Clinical trials to support drug products for marketing approval are typically conducted in three sequential phases, but the phases may overlap. Phase 1 involves the initial introduction of the drug product into healthy human subjects or patients.  In Phase 1 trials, the product is tested to assess safety, metabolism, pharmacokinetics, pharmacological actions, side effects associated with increasing doses, and, if possible, early evidence on effectiveness. Phase 2 usually involves trials in a limited patient population to determine the effectiveness of the drug for a particular indication, dosage tolerance, and optimal dosage, and to identify common adverse effects and safety risks. If a compound demonstrates evidence of effectiveness and an acceptable safety profile in Phase 2 evaluations, Phase 3 trials are undertaken to obtain the additional information about clinical efficacy and safety in a larger number of patients, typically at geographically dispersed clinical trial sites, to permit the FDA to evaluate the overall benefit-risk relationship of the drug and to provide adequate information for the labeling of the product. In most cases, the FDA requires two adequate and well-controlled Phase 3 clinical trials to demonstrate the efficacy of the drug product. A single Phase 3 trial with other confirmatory evidence may be sufficient in certain instances.
+ The decision to suspend or terminate development of a product candidate may be made by either a health authority body, such as the FDA, by an IRB, or by a company for various reasons and during any phase of clinical trials. The FDA may order the temporary or permanent discontinuation of a clinical trial at any time or impose other sanctions if it believes that the clinical trial either is not being conducted in accordance with FDA requirements or presents an unacceptable risk to the clinical trial patients. In most cases, in addition to sponsor oversight clinical trials are also overseen by an independent data safety monitoring board, or DSMB, which is a separate, independent group of qualified experts organized by the trial sponsor to evaluate at designated points in time whether or not a trial may move forward and/or should be modified. These decisions are based on unblinded access to data from the ongoing trial and generally involve determinations regarding the benefit-risk ratio for study patients and the scientific integrity and validity of the clinical trial.
+ In addition, the manufacturer of an investigational drug in a Phase 2 or Phase 3 clinical trial for a serious or life-threatening disease is required to make available, such as by posting on its website, its policy on evaluating and responding to requests for expanded access to such investigational drug.
+ After completion of the required clinical testing, a drug product application is prepared and submitted to the FDA to request marketing approval for the product candidate in specific indications. FDA approval of the drug product is required before marketing of the product may begin in the United States. The drug product must include all relevant results of preclinical, clinical, and other testing and a compilation of data relating to the product candidate’s pharmacology, chemistry, manufacture, and controls, including negative or ambiguous results as well as positive findings. To support marketing approval, the data submitted must be sufficient in quality and quantity to establish the safety and effectiveness of the product candidate to the satisfaction of the FDA. The cost of preparing and submitting a drug product application is substantial. Under the Prescription Drug User Fee Act, or PDUFA, the submission of most drug product applications is subject to a substantial application user fee, and the applicant under an approved drug product is also subject to an annual program fee for each prescription product, subject to certain limited deferrals, waivers and reductions that may be available. These fees are typically increased annually. The FDA has 60 days from its receipt of an NDA to determine whether the application will be accepted for filing based on the agency’s threshold determination that it is sufficiently complete to permit substantive review. The FDA may refuse to accept for filing any NDA that it deems incomplete or not properly reviewable at the time of submission, in which case the NDA will have to be updated and resubmitted.  Once the submission is accepted for filing, the FDA begins an in-depth review. The FDA has agreed to certain performance goals in the review of NDAs. The FDA’s PDUFA review goal is to review 90% of priority applications within six months of filing and 90% of standard applications within 10 months of filing. Priority review may be granted to an application for a product candidate that the FDA determines has the potential to treat a serious or life-threatening condition and, if approved, would be a significant improvement in safety or effectiveness compared to available therapies. The review process for both standard and priority review may be extended by the FDA for three additional months to consider certain late-submitted information, or information intended to clarify information already provided in the submission.
+ The FDA may also refer applications for drug candidates that present difficult questions of safety or efficacy, to an advisory committee—typically a panel that includes clinicians and other experts—for review, evaluation, and a recommendation as to whether the application should be approved. The FDA is not bound by the recommendation of an advisory committee, but it consider such recommendations carefully when making decisions. Before approving an NDA, the FDA will typically inspect one or more clinical sites to assure compliance with GCP. Additionally, the FDA will inspect the facility or the facilities at which the drug product is manufactured. The FDA will not approve the product unless compliance with cGMP is satisfactory and the NDA contains data that provide substantial evidence that the drug candidate is safe and effective in the intended indication.  
+ After the FDA evaluates the NDA and the manufacturing facilities, it issues either an approval letter or a complete response letter. A complete response letter generally outlines the deficiencies in the submission and may require substantial additional testing, or information, in order for the FDA to reconsider the application. If and when those deficiencies have been addressed to the FDA’s satisfaction in a resubmission of the NDA, the FDA may issue an approval letter. The FDA has committed to reviewing such resubmissions in two or six months depending on the type of information included. Notwithstanding the submission of any requested 
+ 13 
+
+
+additional information, the FDA ultimately may decide that the application does not satisfy the regulatory criteria for approval and deny approval of a resubmitted NDA.  
+ An approval letter authorizes commercial marketing of the drug candidate with specific prescribing information for specific indications. As a condition of approval, the FDA may require a risk evaluation and mitigation strategy, or REMS, to help ensure that the benefits of the drug candidate outweigh the potential risks. REMS can include medication guides, communication plans for healthcare professionals, and elements to assure safe use, or ETASU. ETASU can include, but are not limited to, special training or certification for prescribing or dispensing, dispensing only under certain circumstances, special monitoring, and the use of patient registries. The requirement for a REMS can materially affect the potential market and profitability of the product. Moreover, product approval may require substantial post-approval testing and surveillance to monitor the product’s safety or efficacy.
+ Once granted, product approvals may be withdrawn if compliance with regulatory standards is not maintained or problems are identified following initial marketing. For example, quality control and manufacturing procedures must conform, on an ongoing basis, to cGMP requirements, and the FDA periodically inspects manufacturing facilities to assess compliance with cGMP. Accordingly, manufacturers must continue to spend time, money and effort to maintain cGMP compliance. Changes to some of the conditions established in an approved application, including changes in indications, labeling, or manufacturing processes or facilities, require submission and FDA approval of a new NDA or NDA supplement before the change can be implemented.  An NDA supplement for a new indication typically requires clinical data similar to that in the original application, and the FDA uses the same procedures and actions in reviewing NDA supplements as it does in reviewing an NDA.
+ Expedited Programs 
+ In the United States, a product may be granted Fast Track designation if it is intended for the treatment of a serious or life-threatening condition and demonstrates the potential to address unmet medical needs for such condition. With Fast Track designation, the sponsor may be eligible for more frequent opportunities to obtain the FDA’s feedback, and the FDA may initiate review of sections of an NDA before the application is complete. This rolling review is available if the applicant provides and the FDA approves a schedule for the remaining information. Even if a product receives Fast Track designation, the designation can be rescinded and provides no assurance that a product will be reviewed or approved more expeditiously than would otherwise have been the case, or that the product will be approved at all.
+ The FDA may designate a product candidate as a breakthrough therapy if it finds that the product candidate is intended, alone or in combination with one or more other product candidates or approved products, to treat a serious or life-threatening disease or condition, and preliminary clinical evidence indicates that the product candidate may demonstrate substantial improvement over existing therapies on one or more clinically significant endpoints. For product candidates designated as breakthrough therapies, more frequent interaction and communication between the FDA and the sponsor can help to identify the most efficient path for clinical development. Product candidates designated as breakthrough therapies by the FDA may also be eligible for 6 month priority review. The receipt of a breakthrough therapy designation for a product candidate may not result in a faster development process, review or approval compared to product candidates considered for approval under conventional FDA procedures and, in any event, does not assure ultimate approval by the FDA. In addition, even if one or more of our product candidates qualify as breakthrough therapies, the FDA may later decide that the product candidates no longer meet the conditions for designation. 
+ Accelerated approval under FDA regulations allows a product designed to treat a serious or life-threatening disease or condition that provides a meaningful therapeutic advantage over available therapies to be approved on the basis of either an intermediate clinical endpoint or a surrogate endpoint that is reasonably likely to predict clinical benefit. Approvals of this kind typically include requirements for confirmatory clinical trials to be conducted with due diligence to validate the surrogate endpoint or otherwise confirm clinical benefit and for all promotional materials to be submitted to the FDA for review prior to dissemination.
+ The FDA may grant priority review to a product candidate, which sets the target date for FDA action on the application at six months from FDA filing, or eight months from the sponsor’s submission. Priority Review may be granted where a product is intended to treat a serious or life-threatening disease or condition and, if approved, has the potential to provide a safe and effective therapy where no satisfactory alternative therapy exists or a significant improvement in safety or efficacy compared to available therapy. If criteria are not met for Priority Review, the standard FDA review period is ten months from FDA filing or 12 months from sponsor submission. Priority Review designation does not change the scientific/medical standard for approval or the quality of evidence necessary to support approval. 
+ 
+Orphan Drug Designation
+ Under the Orphan Drug Act, the FDA may grant orphan drug designation to drug candidate products intended to treat a rare disease or condition that affects fewer than 200,000 individuals in the United States, or if it affects more than 200,000 individuals in the United States, there is no reasonable expectation that the cost of developing and making a product available in the United States for such disease or condition will be recovered from sales of the product in the United States.
+ 14 
+
+
+After the FDA grants orphan drug designation, the generic identity of the drug product and its potential orphan use are disclosed publicly by the FDA. Orphan drug designation does not convey any advantage in, or shorten the duration of, the regulatory review and approval process. However, orphan drug designation does entitle a party to financial incentives, such as opportunities for grant funding towards clinical trial costs, tax credits for certain research and user fee waivers under certain circumstances. In addition, if a product receives the first FDA approval for the indication for which it has orphan designation, the product is entitled to seven years of market exclusivity, which means the FDA may not approve any other application for a biologic for the same indication for a period of seven years, except in limited circumstances, such as a showing of clinical superiority over the product with orphan exclusivity. The FDA can revoke a product’s orphan drug exclusivity under certain circumstances, including when the product sponsor is unable to assure the availability of sufficient quantities of the product to meet patient needs. Orphan drug exclusivity does not prevent the FDA from approving a different drug for the same disease or condition, or the same biologic for a different disease or condition. 
+ Rare Pediatric Disease Priority Review Voucher Program
+ Under the Rare Pediatric Disease Priority Review Voucher program, the FDA may grant Rare Pediatric Disease designation for serious and life-threatening diseases that primarily affect children ages 18 years or younger and fewer than 200,000 individuals in the United States.  The FDA may award a priority review voucher to the sponsor of an approved marketing application for a product that treats or prevents a Rare Pediatric Disease. The voucher entitles the sponsor to priority review of one subsequent marketing application.
+ A voucher may be awarded only for an application that:
+  
+• | is a human drug application for the prevention or treatment of a Rare Pediatric Disease and does not contain an active ingredient (including any ester or salt of the active ingredient) that has been previously approved in any other application;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | FDA deems eligible for priority review;
+--+----------------------------------------
+
+
+• | is an original NDA or BLA;
+--+---------------------------
+
+
+• | relies on clinical data derived from studies examining a pediatric population and dosages of the drug intended for that population;
+--+------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | does not seek approval for an adult indication in the original rare pediatric disease product application; and
+--+---------------------------------------------------------------------------------------------------------------
+
+
+• | is approved after September 30, 2016.
+--+--------------------------------------
+
+ Before NDA or IND approval, the FDA may designate a product in development as a product for a rare pediatric disease, but such designation is not required to receive a voucher.
+ To receive a rare pediatric disease priority review voucher, a sponsor must notify the FDA, upon submission of the NDA or IND, of its intent to request a voucher. If the FDA determines that the NDA or IND is a rare pediatric disease product application, and if the NDA or IND is approved, the FDA will award the sponsor of the NDA or IND a voucher upon approval of the NDA or IND. The FDA may revoke a rare pediatric disease priority review voucher if the product for which it was awarded is not marketed in the U.S. within 1 year of the product’s approval.
+ The voucher, which is transferable to another sponsor, may be submitted with a subsequent application and entitles the holder to priority review of the application. The sponsor submitting the priority review voucher must notify the FDA of its intent to submit the voucher with the application at least 90 days prior to submission of the application and must pay a priority review user fee in addition to any other required user fee. The FDA must take action on an application under priority review within six months of receipt of the application.
+ The Rare Pediatric Disease Priority Review Voucher program was renewed as part of the 2021 Coronavirus Response and Relief Supplemental Consolidated Appropriations Act, allowing a product that is designated as a product for a rare pediatric disease prior to September 30, 2024 to be eligible to receive a rare pediatric disease priority review voucher upon approval of a qualifying NDA after September 30, 2024.  After September 30, 2026, the FDA may not award any rare pediatric disease priority review vouchers.
+ Disclosure of Clinical Trial Information
+ Sponsors of clinical trials of the FDA-regulated products are required to register and disclose certain clinical trial information. Information related to the product, patient population, phase of investigation, trial sites and investigators, and other aspects of the clinical trial is then made public as part of the registration. Sponsors are also obligated to discuss the results of their clinical trials after completion. Disclosure of the results of these trials can be delayed in certain circumstances for up to two years after the date of 
+ 15 
+
+
+completion of the trial. Competitors may use this publicly available information to gain knowledge regarding the progress of development programs.
+ Pediatric Information
+ Under the Pediatric Research Equity Act, or PREA, certain NDAs must include an assessment, generally based on clinical trial data, of the safety and effectiveness of the product candidate in relevant pediatric populations. The FDA may waive or defer the requirement for a pediatric assessment, either at a company’s request or by its own initiative, including waivers for certain products not likely to be used in a substantial number of pediatric patients. Products with orphan drug designation are exempt from these requirements for orphan-designated indications with no formal waiver process required.  Any original NDA submitted on or after August 18, 2020 for a new active ingredient must contain reports on molecularly targeted pediatric cancer investigations, unless the requirement is waived or deferred, if the drug that is the subject of the application is intended for the treatment of an adult cancer and is directed at a molecular target that the FDA has determined is substantially relevant to the growth or progression of a pediatric cancer.  This requirement applies even if the adult cancer indication does not occur in the pediatric population, and even if the drug is for an adult indication for which orphan designation has been granted. 
+ Under the Pediatric Research Equity Act, or PREA, certain NDAs must include an assessment, generally based on clinical trial data, of the safety and effectiveness of the product candidate in relevant pediatric populations. The FDA may waive or defer the requirement for a pediatric assessment, either at a company’s request or by its own initiative, including waivers for certain products not likely to be used in a substantial number of pediatric patients. Products with orphan drug designation are exempt from these requirements for orphan-designated indications with no formal waiver process required.  Any original NDA submitted on or after August 18, 2020 for a new active ingredient must contain reports on molecularly targeted pediatric cancer investigations, unless the requirement is waived or deferred, if the drug that is the subject of the application is intended for the treatment of an adult cancer and is directed at a molecular target that the FDA has determined is substantially relevant to the growth or progression of a pediatric cancer.  This requirement applies even if the adult cancer indication does not occur in the pediatric population, and even if the drug is for an adult indication for which orphan designation has been granted.
+ Patent Term Restoration
+ After approval, owners of relevant drug patents may apply for up to a five-year patent extension as compensation for patent term lost during product development and the FDA regulatory review process. The allowable patent term extension is calculated as one half of the drug’s testing phase—the time between the effective date of an IND and NDA submission—and all of the review phase—the time between NDA submission and approval, up to a maximum of five years. The time can be shortened if the FDA determines that the applicant did not pursue approval with due diligence. The total patent term after the extension may not exceed 14 years.  Only one patent applicable to an approved product is eligible for the extension and the application for the extension must be submitted prior to the expiration of the patent. The United States Patent and Trademark Office, or USPTO, in consultation with the FDA, reviews and approves the application for any patent term extension or restoration.
+ For patents that might expire during the application phase, the patent owner may request an interim patent extension. An interim patent extension increases the patent term by one year and may be renewed up to four times. For each interim patent extension granted, the post-approval patent extension is reduced by one year. The director of the USPTO must determine that approval of the drug covered by the patent for which a patent extension is being sought is likely. Interim patent extensions are not available for a drug for which an NDA has not been submitted.
+ Market Exclusivity
+ In the United States and elsewhere, certain regulatory exclusivities and patent rights can provide an approved drug product with protection from certain competitors’ products for a period of time and within a certain scope.  In the United States, those protections include regulatory exclusivity under the Hatch-Waxman Act, which provides periods of exclusivity for a branded drug product that would serve as an RLD for a generic drug applicant filing an ANDA under section 505(j) of the FD&C Act or as a listed drug for an applicant filing an NDA under section 505(b)(2) of the FD&C Act. If such a product is a “new chemical entity” (“NCE”) generally meaning that the active moiety has never before been approved in any drug, there is a period of five years from the product’s approval during which the FDA may not accept for filing any ANDA or 505(b)(2) application for a drug with the same active moiety. An ANDA or 505(b)(2) application may be submitted after four years, however, if the sponsor of the application makes a Paragraph IV certification (as described above). Such a product that is not an NCE may qualify for a three-year period of exclusivity if its NDA contains new clinical data (other than bioavailability studies), derived from studies conducted by or for the sponsor, that were necessary for approval. In this instance, the three-year exclusivity period does not preclude filing or review of an ANDA or 505(b)(2) application; rather, the FDA is precluded from granting final approval to the ANDA or 505(b)(2) application until three years after approval of the RLD. This three-year exclusivity applies only to the conditions of approval that required submission of the clinical data.
+ 16 
+
+
+Post-Approval Regulation
+ Once approved, drug products are subject to continuing extensive regulation by the FDA.  If ongoing regulatory requirements are not met, or if safety problems occur after a product reaches market, the FDA may take actions to change the conditions under which the product is marketed, such as requiring labeling modifications, restricting distribution, or even withdrawing approval.  In addition to FDA regulation, our business is also subject to extensive federal, state, local and foreign regulation.  
+ Good Manufacturing Practices.  Companies engaged in manufacturing drug products or their components must comply with applicable cGMP requirements, which include requirements regarding organization and training of personnel, building and facilities, equipment, control of components and drug product containers, closures, production and process controls, packaging and labeling controls, holding and distribution, laboratory controls and records and reports.  The FDA inspects equipment, facilities and manufacturing processes before approval and conducts periodic re-inspections after approval.  If, after receiving approval, a company makes a material change in manufacturing equipment, location, or process (all of which are, to some degree, incorporated in the NDA), additional regulatory review and approval may be required. Failure to comply with applicable cGMP requirements or the conditions of the product’s approval may lead the FDA to take enforcement actions, such as issuing a warning letter, or to seek sanctions, including fines, civil penalties, injunctions, suspension of manufacturing operations, imposition of operating restrictions, withdrawal of FDA approval, seizure or recall of products, and criminal prosecution.  Although we periodically monitor FDA compliance of the third parties on which we rely for manufacturing our product candidates, we cannot be certain that our present or future third-party manufacturers will consistently comply with cGMP or other applicable FDA regulatory requirements.
+ Sales and Marketing.  Once a product is approved, the advertising, promotion and marketing of the product will be subject to close regulation, including with regard to promotion to healthcare practitioners, direct-to-consumer advertising, communications regarding unapproved uses, industry-sponsored scientific and educational activities and promotional activities involving the internet.  In addition to FDA restrictions on marketing of pharmaceutical products, state and federal fraud and abuse laws have been applied to restrict certain marketing practices in the pharmaceutical industry.  Failure to comply with applicable requirements in this area may subject a company to adverse publicity, investigations and enforcement action by the FDA, the Department of Justice, the Office of the Inspector General of the Department of Health and Human Services, and/or state authorities.  This could subject a company to a range of penalties that could have a significant commercial impact, including civil and criminal fines and agreements that materially restrict the manner in which a company promotes or distributes drug products. 
+ Other Requirements.  Companies that manufacture or distribute drug products pursuant to approved NDAs must meet numerous other regulatory requirements, including adverse event reporting, submission of periodic reports, and record-keeping obligations.
+Other U.S. Healthcare Laws and Compliance Requirements
+ In the United States, our activities are potentially subject to regulation by various federal, state and local authorities in addition to the FDA, including but not limited to, the Centers for Medicare and Medicaid Services, or CMS, other divisions of the U.S. Department of Health and Human Services (e.g., the Office of Inspector General), the U.S. Department of Justice, or DOJ, and individual U.S. Attorney offices within the DOJ, and state and local governments. For example, sales, marketing and scientific/educational grant programs must comply with the anti-fraud and abuse provisions of the Social Security Act, the false claims laws, the privacy provisions of the Health Insurance Portability and Accountability Act, or HIPAA, and similar state laws, each as amended.
+ The federal Anti-Kickback Statute prohibits, among other things, any person or entity, from knowingly and willfully offering, paying, soliciting or receiving any remuneration, directly or indirectly, overtly or covertly, in cash or in kind, to induce or in return for purchasing, leasing, ordering or arranging for the purchase, lease or order of any item or service reimbursable under Medicare, Medicaid or other federal healthcare programs. The term remuneration has been interpreted broadly to include anything of value. The Anti-Kickback Statute has been interpreted to apply to arrangements between pharmaceutical manufacturers on one hand and prescribers, purchasers, and formulary managers on the other. There are a number of statutory exceptions and regulatory safe harbors protecting some common activities from prosecution. The exceptions and safe harbors are drawn narrowly and practices that involve remuneration that may be alleged to be intended to induce prescribing, purchasing or recommending may be subject to scrutiny if they do not qualify for an exception or safe harbor. Failure to meet all of the requirements of a particular applicable statutory exception or regulatory safe harbor does not make the conduct per se illegal under the Anti-Kickback Statute. Instead, the legality of the arrangement will be evaluated on a case-by-case basis based on a cumulative review of all of its facts and circumstances. Our practices may not in all cases meet all of the criteria for protection under a statutory exception or regulatory safe harbor.
+ Additionally, the intent standard under the Anti-Kickback Statute was amended by the Affordable Care Act, or ACA, to a stricter standard such that a person or entity no longer needs to have actual knowledge of the statute or specific intent to violate it in 
+ 17 
+
+
+order to have committed a violation. In addition, the ACA codified case law that a claim including items or services resulting from a violation of the federal Anti-Kickback Statute constitutes a false or fraudulent claim for purposes of the federal False Claims Act (discussed below).
+ The civil monetary penalties statute imposes penalties against any person or entity who, among other things, is determined to have presented or caused to be presented a claim to a federal health program that the person knows or should know is for an item or service that was not provided as claimed or is false or fraudulent.
+ The federal False Claims Act prohibits, among other things, any person or entity from knowingly presenting, or causing to be presented, a false claim for payment to, or approval by, the federal government or knowingly making, using, or causing to be made or used a false record or statement material to a false or fraudulent claim to the federal government. As a result of a modification made by the Fraud Enforcement and Recovery Act of 2009, a claim includes “any request or demand” for money or property presented to the U.S. government. Recently, several pharmaceutical and other healthcare companies have been prosecuted under these laws for allegedly providing free product to customers with the expectation that the customers would bill federal programs for the product. Other companies have been prosecuted for causing false claims to be submitted because of the companies’ marketing of the product for unapproved, and thus generally non-reimbursable, uses.
+ HIPAA created new federal criminal statutes that prohibit knowingly and willfully executing, or attempting to execute, a scheme to defraud or to obtain, by means of false or fraudulent pretenses, representations or promises, any money or property owned by, or under the control or custody of, any healthcare benefit program, including private third-party payors and knowingly and willfully falsifying, concealing or covering up by trick, scheme or device, a material fact or making any materially false, fictitious or fraudulent statement in connection with the delivery of or payment for healthcare benefits, items or services.
+ Also, many states have similar fraud and abuse statutes or regulations that apply to items and services reimbursed under Medicaid and other state programs, or, in several states, apply regardless of the payor. We may be subject to data privacy and security regulations by both the federal government and the states in which we conduct our business. HIPAA, and its implementing regulations, imposes requirements relating to the privacy, security and transmission of individually identifiable health information. In addition, state laws govern the privacy and security of health information in specified circumstances, many of which differ from each other in significant ways and may not have the same effect, thus complicating compliance efforts.
+ Additionally, the federal Physician Payments Sunshine Act within the ACA, and its implementing regulations, require that certain manufacturers of drugs, devices, biological and medical supplies for which payment is available under Medicare, Medicaid or the Children’s Health Insurance Program (with certain exceptions) to report information related to certain payments or other transfers of value made or distributed to physicians and teaching hospitals, or to entities or individuals at the request of, or designated on behalf of, the physicians and teaching hospitals and to report annually certain ownership and investment interests held by physicians and their immediate family members. The reported data are posted in searchable form on a public website on an annual basis. Failure to submit required information may result in civil monetary penalties. Effective January 1, 2022, we are required to report on transfers of value to physician assistants, nurse practitioners or clinical nurse specialists, certified registered nurse anesthetists, and certified nurse-midwives.
+ In order to distribute products commercially, we must comply with state laws that require the registration of manufacturers and wholesale distributors of drug and biological products in a state, including, in certain states, manufacturers and distributors who ship products into the state even if such manufacturers or distributors have no place of business within the state. Some states also impose requirements on manufacturers and distributors to establish the pedigree of product in the chain of distribution, including some states that require manufacturers and others to adopt new technology capable of tracking and tracing product as it moves through the distribution chain. Several states have enacted legislation requiring pharmaceutical and biotechnology companies to establish marketing compliance programs, file periodic reports with the state, make periodic public disclosures on sales, marketing, pricing, clinical trials and other activities, and/or register their sales representatives, as well as to prohibit pharmacies and other healthcare entities from providing certain physician prescribing data to pharmaceutical and biotechnology companies for use in sales and marketing, and to prohibit certain other sales and marketing practices. All of our activities are potentially subject to federal and state consumer protection and unfair competition laws.
+ If our operations are found to be in violation of any of the federal and state healthcare laws described above or any other governmental regulations that apply to us, we may be subject to penalties, including without limitation, civil, criminal and/or administrative penalties, damages, fines, disgorgement, exclusion from participation in government programs, such as Medicare and Medicaid, injunctions, private “qui tam” actions brought by individual whistleblowers in the name of the government, or refusal to allow us to enter into government contracts, contractual damages, reputational harm, administrative burdens, diminished profits and future earnings, and the curtailment or restructuring of our operations, any of which could adversely affect our ability to operate our business and our results of operations.
+ 18 
+
+
+Coverage, Pricing and Reimbursement
+ 
+Significant uncertainty exists as to the coverage and reimbursement status of any product candidates for which we obtain regulatory approval. In the United States and markets in other countries, sales of any products for which we receive regulatory approval for commercial sale will depend, in part, on the extent to which third-party payors provide coverage, and establish adequate reimbursement levels for such products. In the United States, third-party payors include federal and state healthcare programs, private managed care providers, health insurers and other organizations. The process for determining whether a third-party payor will provide coverage for a product may be separate from the process for setting the price of a product or for establishing the reimbursement rate that such a payor will pay for the product. Third-party payors may limit coverage to specific products on an approved list, also known as a formulary, which might not include all of the FDA-approved products for a particular indication. Third-party payors are increasingly challenging the price, examining the medical necessity and reviewing the cost-effectiveness of medical products, therapies and services, in addition to questioning their safety and efficacy. We may need to conduct expensive pharmaco-economic studies in order to demonstrate the medical necessity and cost-effectiveness of our product candidates, in addition to the costs required to obtain the FDA approvals. Our product candidates may not be considered medically necessary or cost-effective. A payor’s decision to provide coverage for a product does not imply that an adequate reimbursement rate will be approved. Further, one payor’s determination to provide coverage for a product does not assure that other payors will also provide coverage for the product. Adequate third-party reimbursement may not be available to enable us to maintain price levels sufficient to realize an appropriate return on our investment in product development.
+ 
+Different pricing and reimbursement schemes exist in other countries. In the EU, governments influence the price of pharmaceutical products through their pricing and reimbursement rules and control of national health care systems that fund a large part of the cost of those products to consumers. Some jurisdictions operate positive and negative list systems under which products may only be marketed once a reimbursement price has been agreed. To obtain reimbursement or pricing approval, some of these countries may require the completion of clinical trials that compare the cost-effectiveness of a particular product candidate to currently available therapies. Other member states allow companies to fix their own prices for medicines, but monitor and control company profits. The downward pressure on health care costs has become very intense. As a result, increasingly high barriers are being erected to the entry of new products. In addition, in some countries, cross-border imports from low-priced markets exert a commercial pressure on pricing within a country.
+ The marketability of any product candidates for which we receive regulatory approval for commercial sale may suffer if the government and third-party payors fail to provide adequate coverage and reimbursement. In addition, emphasis on managed care in the United States has increased and we expect will continue to increase the pressure on healthcare pricing. Coverage policies and third-party reimbursement rates may change at any time. Even if favorable coverage and reimbursement status is attained for one or more products for which we receive regulatory approval, less favorable coverage policies and reimbursement rates may be implemented in the future.
+ Healthcare Reform
+ The ACA has substantially changed some aspects of healthcare financing and delivery by both governmental and private insurers. The ACA has affected existing government healthcare programs and resulted in the development of new programs.
+ Among the ACA provisions of importance to the pharmaceutical and biotechnology industries, in addition to those otherwise described above, are the following:
+  
+• | an annual, nondeductible fee on any entity that manufactures or imports certain specified branded prescription drugs and biologic agents apportioned among these entities according to their market share in some government healthcare programs, that began in 2011;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | an increase in the statutory minimum rebates a manufacturer must pay under the Medicaid Drug Rebate Program, retroactive to January 1, 2010, to 23.1% and 13% of the average manufacturer price for most branded and generic drugs, respectively and capped the total rebate amount for innovator drugs at 100% of the Average Manufacturer Price, or AMP (which cap is now set to be removed effective January 1, 2024, which could increase our rebate liability particularly as we could be subject to an additional rebate in the amount that our AMP has exceeded the pace of inflation, if any);
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• | a Medicare Part D coverage gap discount program, in which manufacturers must agree to offer 70% point-of-sale discounts off negotiated prices of applicable brand drugs to eligible beneficiaries during their coverage gap period, as a condition for the manufacturers’ outpatient drugs to be covered under Medicare Part D; 
+• | extension of manufacturers’ Medicaid rebate liability to covered drugs dispensed to individuals who are enrolled in Medicaid managed care organizations; 
+
+ 
+19 
+
+
+
+ 
+• | expansion of eligibility criteria for Medicaid programs by, among other things, allowing states to offer Medicaid coverage to additional individuals beginning in 2014 and by adding new mandatory eligibility categories for individuals with income at or below 133% of the federal poverty level, thereby potentially increasing manufacturers’ Medicaid rebate liability;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | expansion of the entities eligible for discounts under the 340B drug discount program; and
+--+-------------------------------------------------------------------------------------------
+
+
+• | a new Patient-Centered Outcomes Research Institute to oversee, identify priorities in, and conduct comparative clinical effectiveness research, along with funding for such research.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ The Tax Cuts and Jobs Act was signed into law in December 2017, which eliminated certain requirements of the ACA, including the individual mandate. We cannot predict whether these challenges will continue or whether other proposals will be made or adopted, or what impact these efforts may have on us.  It is possible that the ACA, as currently enacted or may be amended in the future, as well as other healthcare reform measures that may be adopted in the future, may result in additional reductions in Medicare and other healthcare funding, more rigorous coverage criteria, and new payment methodologies and in additional downward pressure on coverage and payment and the price that we receive for any approved product. Any reduction in reimbursement from Medicare or other government programs may result in a similar reduction in payments from private payors. The implementation of cost containment measures or other healthcare reforms may prevent us from being able to generate revenue, attain profitability or commercialize our products. We cannot be sure whether additional legislative changes will be enacted in the United States or outside of the United States, or whether regulatory changes, guidance or interpretations will be changed, or what the impact of such changes on the marketing approvals of our product candidates, if any, may be.
+ Other legislative changes relating to reimbursement have been adopted in the U.S. since the ACA was enacted. For example, on August 2, 2011, the Budget Control Act of 2011, among other things, created the Joint Select Committee on Deficit Reduction to recommend to Congress proposals for spending reductions. The Joint Select Committee did not achieve a targeted deficit reduction, which triggered the legislation’s automatic reductions. In concert with subsequent legislation, this has resulted in aggregate reductions to Medicare payments to providers of, on average, 2% per fiscal year through 2030 (with the exception of a temporary suspension from May 1, 2020 through March 31, 2022 due to the COVID-19 pandemic). The law provides for 1% Medicare sequestration in the second quarter of 2022 and allows the full 2% sequestration thereafter until 2030. To offset the temporary suspension during the COVID-19 pandemic, in 2030, the sequestration will be 2.25% for the first half of the year, and 3% in the second half of the year. As long as these cuts remain in effect, they could adversely impact payment for any products we may commercialize in the future. We expect that additional federal healthcare reform measures will be adopted in the future, any of which could limit the amounts that federal and state governments will pay for healthcare products and services, and in turn could significantly reduce the projected value of certain development projects and reduce our profitability.
+ Additional legislative changes, regulatory changes, or guidance could be adopted, which may impact the marketing approvals and reimbursement for our product candidates. For example, there has been increasing legislative, regulatory, and enforcement interest in the United States with respect to drug pricing practices. There have been several Congressional inquiries and proposed and enacted federal and state legislation and regulatory initiatives designed to, among other things, bring more transparency to product pricing, evaluate the relationship between pricing and manufacturer patient programs, and reform government healthcare program reimbursement methodologies for drug products. If healthcare policies or reforms intended to curb healthcare costs are adopted or if we experience negative publicity with respect to pricing of our products or the pricing of pharmaceutical drugs generally, the prices that we charge for any approved products may be limited, our commercial opportunity may be limited and/or our revenues from sales of our products may be negatively impacted.  CMS issued a final regulation, which became effective on April 1, 2016, to implement the changes to the Medicaid Drug Rebate Program under the ACA. On December 31, 2020, CMS issued a final regulation that modified prior Medicaid Drug Rebate program regulations to permit reporting multiple best price figures with regard to value‑based purchasing arrangements (beginning in 2022); provide definitions for “line extension,” “new formulation,” and related terms, with the practical effect of expanding the scope of drugs considered to be line extensions that are subject to an alternative rebate formula (beginning in 2022); and revise best price and average manufacturer price exclusions of manufacturer-sponsored patient benefit programs, specifically regarding applicability of such exclusions in the context of pharmacy benefit manager “accumulator” programs (beginning in 2023).
+ Federal law also requires that a company that participates in the Medicaid Drug Rebate Program report average sales price information each quarter to CMS for certain categories of drugs that are paid under the Medicare Part B program. For calendar quarters beginning January 1, 2022, manufacturers are required to report the average sales price for certain drugs under the Medicare program regardless of whether they participate in the Medicaid Drug Rebate Program. Manufacturers calculate average sales price based on a statutorily defined formula as well as regulations and interpretations of the statute by CMS. CMS uses these submissions to determine payment rates for drugs under Medicare Part B. Starting in 2023, manufacturers must pay refunds to Medicare for single source drugs or biologicals, or biosimilar biological products, reimbursed under Medicare Part B and packaged in single-dose containers or single-use packages, for units of discarded drug reimbursed by Medicare Part B in excess of 10 percent of total allowed 
+ 20 
+
+
+charges under Medicare Part B for that drug. Manufacturers that fail to pay refunds could be subject to civil monetary penalties of 125 percent of the refund amount.
+Statutory or regulatory changes or CMS guidance could affect the pricing calculations for our approved products, and could negatively impact our results of operations. For example, Congress could enact a Medicare Part B inflation rebate, under which manufacturers would owe additional rebates if the average sales price of a drug were to increase faster than the pace of inflation. In addition, Congress could enact a drug price negotiation program under which the prices for certain high Medicare spend single source drugs would be capped by reference to the non-federal average manufacturer price. This or any other legislative change could impact the market conditions for our products. We further expect continued scrutiny on government price reporting and pricing more generally from Congress, agencies, and other bodies.
+ The Foreign Corrupt Practices Act
+ The Foreign Corrupt Practices Act, or FCPA, prohibits any U.S. individual or business from paying, offering, or authorizing payment or offering of anything of value, directly or indirectly, to any foreign official, political party or candidate for the purpose of influencing any act or decision of the foreign entity in order to assist the individual or business in obtaining or retaining business. The FCPA also obligates companies whose securities are listed in the United States to comply with accounting provisions requiring the company to maintain books and records that accurately and fairly reflect all transactions of the corporation, including international subsidiaries, and to devise and maintain an adequate system of internal accounting controls for international operations.
+Additional Regulation
+ In addition to the foregoing, state and federal laws regarding environmental protection and hazardous substances, including the Occupational Safety and Health Act, the Resource Conservancy and Recovery Act and the Toxic Substances Control Act, affect our business. These and other laws govern our use, handling and disposal of various biological, chemical and radioactive substances used in, and wastes generated by, our operations. If our operations result in contamination of the environment or expose individuals to hazardous substances, we could be liable for damages and governmental fines. We believe that we are in material compliance with applicable environmental laws and that continued compliance therewith will not have a material adverse effect on our business. We cannot predict, however, how changes in these laws may affect our future operations.
+Europe / Rest of World Government Regulation
+ In addition to regulations in the United States, we will be subject to a variety of regulations in other jurisdictions governing, among other things, clinical trials and any commercial sales and distribution of our product candidates. Whether or not we obtain FDA approval of a product, we must obtain the requisite approvals from regulatory authorities in foreign countries prior to the commencement of clinical trials or marketing of the product in those countries. Certain countries outside of the United States have a similar process that requires the submission of a clinical trial application much like the IND prior to the commencement of human clinical trials. In the EU, for example, a clinical trial application must be submitted to each country’s national health authority and an independent ethics committee, much like the FDA and IRB, respectively. Once the clinical trial application is approved in accordance with a country’s requirements, clinical trial development may proceed. 
+ The requirements and process governing the conduct of clinical trials, product licensing, pricing and reimbursement vary from country to country. In all cases, the clinical trials are conducted in accordance with GCP and the applicable regulatory requirements and the ethical principles that have their origin in the Declaration of Helsinki.
+ To obtain regulatory approval of an investigational drug product under EU regulatory systems, we must submit a marketing authorization application. The application used to file the drug product in the United States is similar to that required in the EU, with the exception of, among other things, country-specific document requirements.
+ For other countries outside of the EU, such as countries in Eastern Europe, Latin America or Asia, the requirements governing the conduct of clinical trials, product licensing, pricing and reimbursement vary from country to country. In all cases, again, the clinical trials are conducted in accordance with GCP and the applicable regulatory requirements and the ethical principles that have their origin in the Declaration of Helsinki.
+ If we or our potential collaborators fail to comply with applicable foreign regulatory requirements, we may be subject to, among other things, fines, suspension or withdrawal of regulatory approvals, product recalls, seizure of products, operating restrictions and criminal prosecution.
+ 21 
+
+
+Employees and Human Capital
+            As of December 31, 2021, we had 14 full-time employees. Of these full-time employees, seven were engaged in research and development, and seven were engaged in management, finance and administration. From time to time, we also employ independent contractors to support our operations. Our employees are not represented by any collective bargaining agreements and we have never experienced an organized work stoppage.
+Diversity and Inclusion
+ 
+We are committed to our continued efforts to increase diversity and foster an inclusive work environment. We recruit the best qualified employees regardless of gender, ethnicity, or other protected traits and it is our policy to fully comply with all laws (domestic and foreign) applicable to discrimination in the workplace. Our diversity, equity and inclusion principles are also reflected in our employee training and policies. We continue to enhance our diversity, equity and inclusion policies which are guided by our executive leadership team.
+Workforce Health and Safety
+ In response to the COVID-19 pandemic, we instituted a remote work protocol to help ensure the safety of our employees, our community, and to adhere to federal, state, and local requirements and the Center for Disease Control (CDC) recommendations of social distancing and limited public exposure in connection with the COVID-19 pandemic. We did not implement any furlough, layoff, or salary reductions during this time. We continue to evaluate our ability to operate in light of recent resurgences of COVID-19 and the advisability of continuing operations based on federal, state and local guidance, evolving data concerning the pandemic and the best interests of our employees, third parties with whom we collaborate, and our stockholders.
+Compensation and Benefits
+ 
+We believe that we must offer and maintain market competitive compensation and benefit programs for our employees in order to attract and retain qualified personnel. In addition to cash compensation, we provide equity compensation, a company-matched 401(k) Plan, healthcare and insurance benefits, health savings and flexible spending accounts, paid time off, family leave, and employee assistance programs.
+Corporate Information 
+ We were initially formed as a California general partnership in July 1996 and incorporated in the State of Delaware in May 1997. We were formerly known as Cytori Therapeutics, Inc., before that as MacroPore Biosurgery, Inc. and before that as MacroPore, Inc. On July 20, 2019 we changed our name from Cytori Therapeutics, Inc. to Plus Therapeutics, Inc.  Our corporate offices are located at 4200 Marathon Blvd., Suite 200, Austin, TX. Our telephone number is (737) 255-7194. We maintain a website at www.plustherapeutics.com. 
+Item 1. Financial Statements
+Report of Independent Registered Public Accounting Firm
+ 
+Shareholders and Board of Directors 
+ Plus Therapeutics, Inc. 
+ Austin, Texas 
+ 
+Opinion on the Consolidated Financial Statements
+ We have audited the accompanying consolidated balance sheets of Plus Therapeutics, Inc. (the “Company”) (formerly Cytori Therapeutics, Inc.) as of December 31, 2021 and 2020, the related consolidated statements of operations and comprehensive loss, stockholders’ equity, and cash flows for the years then ended and the related notes (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2021 and 2020, and the results of its operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States of America.
+Basis for Opinion
+ These consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s consolidated financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (“PCAOB”) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+ 
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+ 
+Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion.
+ 
+Critical Audit Matters
+ 
+Critical audit matters are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. We determined that there are no critical audit matters.
+ 
+/s/ BDO USA, LLP
+ We have served as the Company’s auditor since 2016.
+ Austin, Texas
+February 24, 2022
+ 
+57 
+
+
+
+PLUS THERAPEUTICS, INC.
+ CONSOLIDATED BALANCE SHEETS
+ (in thousands, except share and par value data)
+ 
+ 
+ | As of December 31, | 
+------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------+---------
+ | 2021 | | | 2020 | 
+Assets | | | | | | | 
+Current assets: | | | | | | | 
+Cash and cash equivalents | $ | 18,400 | | | $ | 8,346 | 
+Other current assets | | 1,324 | | | | 829 | 
+Total current assets | | 19,724 | | | | 9,175 | 
+Property and equipment, net | | 1,477 | | | | 1,820 | 
+Operating lease right-use-of assets | | 341 | | | | 636 | 
+Goodwill | | 372 | | | | 372 | 
+Intangible assets, net | | 51 | | | | 86 | 
+Other assets | | 16 | | | | 16 | 
+Total assets | $ | 21,981 | | | $ | 12,105 | 
+Liabilities and Stockholders’ Equity | | | | | | | 
+Current liabilities: | | | | | | | 
+Accounts payable and accrued expenses | $ | 4,151 | | | $ | 2,081 | 
+Operating lease liability | | 111 | | | | 123 | 
+Term loan obligation, current | | 1,608 | | | | 6,335 | 
+Total current liabilities | | 5,870 | | | | 8,539 | 
+Noncurrent operating lease liability | | 269 | | | | 528 | 
+Term loan obligation | | 5,005 | | | | — | 
+Warrant liability | | 1 | | | | 7 | 
+Total liabilities | | 11,145 | | | | 9,074 | 
+Commitments and contingencies (Note 7) | | | | | | | 
+Stockholders’ equity: | | | | | | | 
+Preferred stock, $0.001 par value; 5,000,000 shares authorized; 1,952 and 1,954 shares issued and outstanding in 2021 and 2020, respectively | | — | | | | — | 
+Common stock, $0.001 par value; 100,000,000 shares authorized; 15,510,025 and 6,749,028 shares issued and outstanding in 2021 and 2020, respectively | | 16 | | | | 7 | 
+Additional paid-in capital | | 457,730 | | | | 436,535 | 
+Accumulated deficit | | (446,910 | ) | | | (433,511 | )
+Total stockholders’ equity | | 10,836 | | | | 3,031 | 
+Total liabilities and stockholders’ equity | $ | 21,981 | | | $ | 12,105 | 
+
+See Accompanying Notes to these Consolidated Financial Statements
+ 58 
+
+
+PLUS THERAPEUTICS, INC.
+ CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+ (in thousands, except share and per share data)
+ 
+ 
+ | For the Years Ended December 31, | 
+------------------------------------------------------------------------------------------------------------------------+----------------------------------+-----------
+ | 2021 | | | 2020 | 
+Development revenue: | | | | | | | 
+Government contracts and other | $ | — | | | $ | 303 | 
+ | | — | | | | 303 | 
+Operating expenses: | | | | | | | 
+Research and development | | 5,323 | | | | 2,700 | 
+In process research and development acquired | | 250 | | | | 781 | 
+General and administrative | | 6,853 | | | | 6,406 | 
+Loss on disposal of property and equipment | | 66 | | | | — | 
+Total operating expenses | | 12,492 | | | | 9,887 | 
+Operating loss | | (12,492 | ) | | | (9,584 | )
+Other income (expense): | | | | | | | 
+Interest income | | 19 | | | | 50 | 
+Interest expense | | (932 | ) | | | (1,107 | )
+Change in fair value of liability instruments | | 6 | | | | 2,400 | 
+Total other expense | | (907 | ) | | | 1,343 | 
+Net loss | $ | (13,399 | ) | | $ | (8,241 | )
+Net loss per share, basic and diluted | $ | (1.11 | ) | | $ | (1.86 | )
+Basic and diluted weighted average shares used in calculating net loss per share attributable to common stockholders | | 12,089,186 | | | | 4,427,835 | 
+
+See Accompanying Notes to these Consolidated Financial Statements
+ 
+
+59 
+
+
+
+PLUS THERAPEUTICS, INC.
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+ FOR THE YEARS ENDED DECEMBER 31, 2021 and 2020
+ (in thousands, except share data)
+ 
+ 
+ | Convertible | | | | | | | | Additional | | | | | | Total 
+ | preferred stock | | | Common stock | | | paid-in | Accumulated | | stockholders’ | 
+ | Shares | | | Amount | | | Shares | Amount | | capital | | deficit | | | equity
+Balance at December 31, 2019 | | 1,959 | | | $ | — | | 3,880,588 | | $ | 4 | | $ | 426,426 | | $ | (425,270 | ) | $ | 1,160 | 
+Share-based compensation | | — | | | | — | | — | | | — | | | 247 | | | — | | | 247 | 
+Issuance of common stock, net of offering costs of $0.6 million | | — | | | | — | | 2,150,113 | | | 2 | | | 3,880 | | | | | | 3,882 | 
+Issuance of common stock for exercise of warrants | | — | | | | — | | 487,521 | | | 1 | | | 1,097 | | | — | | | 1,098 | 
+Reclassification of warrant liabilities | | — | | | | — | | — | | | — | | | 4,504 | | | — | | | 4,504 | 
+Issuance of common stock for in process research and development acquired from NanoTx Therapeutics | | — | | | | — | | 230,769 | | | — | | | 381 | | | — | | | 381 | 
+Conversion of Series B convertible preferred stock into common stock | | (5 | ) | | | — | | 37 | | | — | | | — | | | — | | | — | 
+Net loss | | — | | | | — | | — | | | — | | | — | | | (8,241 | ) | | (8,241 | )
+Balance at December 31, 2020 | | 1,954 | | | | — | | 6,749,028 | | | 7 | | | 436,535 | | | (433,511 | ) | | 3,031 | 
+Share-based compensation | | — | | | | — | | — | | | — | | | 606 | | | — | | | 606 | 
+Sale of common stock, net of offering costs of $0.3 million | | — | | | | — | | 7,864,379 | | | 8 | | | 18,573 | | | — | | | 18,581 | 
+Issuance of common stock for exercise of warrants | | — | | | | — | | 896,500 | | | 1 | | | 2,016 | | | — | | | 2,017 | 
+Conversion of Series B convertible preferred stock into common stock | | (2 | ) | | | — | | 118 | | | — | | | — | | | — | | | — | 
+Net loss | | — | | | | — | | — | | | — | | | — | | | (13,399 | ) | | (13,399 | )
+Balance at December 31, 2021 | | 1,952 | | | $ | — | | 15,510,025 | | $ | 16 | | $ | 457,730 | | $ | (446,910 | ) | $ | 10,836 | 
+
+See Accompanying Notes to these Consolidated Financial Statements
+ 
+
+60
+
+
+
+PLUS THERAPEUTICS, INC.
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+ (in thousands)
+ 
+ 
+ | For the Years Ended December 31, | 
+-------------------------------------------------------------------------------------+----------------------------------+--------
+ | 2021 | | | 2020 | 
+Cash flows used in operating activities: | | | | | | | 
+Net loss | $ | (13,399 | ) | | $ | (8,241 | )
+Adjustments to reconcile net loss to net cash used in operating activities: | | | | | | | 
+Depreciation and amortization | | 395 | | | | 366 | 
+Amortization of deferred financing costs and debt discount | | 546 | | | | 584 | 
+In process research and development acquired | | 250 | | | | 781 | 
+Change in fair value of liability instruments | | (6 | ) | | | (2,400 | )
+Loss on disposal of property and equipment | | 66 | | | | | 
+Share-based compensation expense | | 606 | | | | 247 | 
+Inventory write off | | — | | | | 107 | 
+Non-cash lease expense | | 24 | | | | 3 | 
+Increases (decreases) in cash caused by changes in operating assets and liabilities: | | | | | | | 
+Accounts receivable | | — | | | | 1,169 | 
+Other current assets | | (496 | ) | | | 126 | 
+Other assets | | — | | | | 58 | 
+Accounts payable and accrued expenses | | 1,734 | | | | (1,234 | )
+Other long-term liabilities | | — | | | | — | 
+Net cash used in operating activities | | (10,280 | ) | | | (8,434 | )
+Cash flows from (used in) investing activities: | | | | | | | 
+Purchases of property and equipment and intangible assets | | (144 | ) | | | (93 | )
+Proceeds from sale of property and equipment | | 62 | | | | | 
+In process research and development acquired from NanoTx Therapeutics | | — | | | | (400 | )
+Net cash used in investing activities | | (82 | ) | | | (493 | )
+Cash flows from financing activities: | | | | | | | 
+Principal payments of long-term obligations | | (268 | ) | | | (5,307 | )
+Payment of financing lease liability | | (8 | ) | | | (117 | )
+Proceeds from exercise of warrants | | 2,017 | | | | 1,098 | 
+Proceeds from sale of common stock | | 18,675 | | | | 4,007 | 
+Net cash provided by (used in) financing activities | | 20,416 | | | | (319 | )
+Net increase (decrease) in cash and cash equivalents | | 10,054 | | | | (9,246 | )
+Cash and cash equivalents at beginning of period | | 8,346 | | | | 17,592 | 
+Cash and cash equivalents at end of period | $ | 18,400 | | | $ | 8,346 | 
+Supplemental disclosure of cash flows information: | | | | | | | 
+Cash paid during period for: | | | | | | | 
+Interest | $ | 388 | | | $ | 567 | 
+Supplemental schedule of non-cash investing and financing activities: | | | | | | | 
+Unpaid offering cost | $ | 219 | | | $ | 125 | 
+Issuance costs paid in common stock | $ | — | | | $ | 463 | 
+Common stock issued in payment for in process research and development | $ | — | | | $ | 381 | 
+Reclassification of warrants liability to equity | $ | — | | | $ | 4,504 | 
+
+See Accompanying Notes to these Consolidated Financial Statements
+ 61
+
+
+PLUS THERAPEUTICS, INC.
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ DECEMBER 31, 2021
+  
+1. | Organization and Operations
+---+----------------------------
+
+ The Company Plus Therapeutics, Inc. is a clinical-stage pharmaceutical company focused on the development, manufacture and commercialization of complex and innovative treatments for patients battling cancer and other life-threatening diseases. Principles of Consolidation The accompanying consolidated financial statements include the Company’s accounts and those of its subsidiaries. All significant intercompany transactions and balances have been eliminated in consolidation.  Certain Risks and Uncertainties The Company’s prospects are subject to the risks and uncertainties frequently encountered by companies in the early stages of development and commercialization, especially those companies in rapidly evolving and technologically advanced industries such as the biotech/medical device field. The Company’s future viability largely depends on its ability to complete development of new products and receive regulatory approvals for those products. No assurance can be given that the Company’s new products will be successfully developed, regulatory approvals will be granted, or acceptance of these products will be achieved. Liquidity  The Company incurred net losses of $13.4 million for the year ended December 31, 2021, and as of December 31, 2021, the Company had an accumulated deficit of $446.9 million and cash and cash equivalents of $18.4 million. Additionally, the Company used net cash of $10.3 million to fund its operating activities for the year ended December 31, 2021. In addition, as discussed in Note 14, the full magnitude of the coronavirus pandemic on the Company’s financial condition, liquidity and future results of operations is uncertain. The Company expect that its research and development expenditures will increase in absolute dollars in 2022.          As disclosed in more detail in Note 12, the Company had entered into various financing agreements during 2020 through January 2022, and raised capital by issuing its common stock. The Company believes its current cash and cash equivalents will be sufficient to fund its operations for at least the next 12 months from the date these consolidated financial statements are issued.     The Company continues to seek additional capital through strategic transactions and from other financing alternatives. If sufficient capital is not raised, the Company will at a minimum need to significantly reduce or curtail its research and development and other operations, and this would negatively affect its ability to achieve corporate growth goals.
+  
+2. | Summary of Significant Accounting Policies
+---+-------------------------------------------
+
+ Use of Estimates The preparation of consolidated financial statements in conformity with U.S. generally accepted accounting principles requires management to make estimates and assumptions affecting the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenue and expenses during the reporting period.  The most significant estimates and critical accounting policies involve reviewing assets for impairment, determining the assumptions used in measuring share-based compensation expense, valuing warrants and valuing allowances for doubtful accounts. Actual results could differ from these estimates. Management’s estimates and assumptions are reviewed regularly, and the effects of revisions are reflected in the consolidated financial statements in the periods they are determined to be necessary. Cash and cash equivalents The Company considers all highly liquid investments with maturities of three months or less at the time of purchase to be cash equivalents.
+ 62
+
+
+ Cash and cash equivalents include cash in readily available checking and savings accounts.  The Company held no investments as of December 31, 2021 and 2020.  The Company maintains deposits in federally insured financial institutions in excess of federally insured limits. The Company has not experienced any losses in such accounts and believes it is not exposed to significant risk on its cash balances due to the financial position of the depository institution in which those deposits are held. 
+   Financial Instruments  Financial instruments include cash equivalents, accounts receivable, other current assets, accounts payable, accrued expenses, other liabilities and long-term debt. The carrying values of cash equivalents, accounts receivable, other current assets, accounts payable, accrued expenses, other liabilities generally approximate fair value due to the short-term nature of these instruments. Based on level 3 inputs and the borrowing rates current available for loans with similar terms, the Company believes the fair value of the long-term debt is materially consistent with its carrying value.    Property and Equipment Property and equipment are stated at cost, net of accumulated depreciation. Depreciation expense, which includes the amortization of capitalized leasehold improvements, is provided for on a straight-line basis over the estimated useful lives of the assets, or the life of the lease, whichever is shorter, and range from three to five years. When assets are sold or otherwise disposed of, the cost and related accumulated depreciation are removed from the accounts and the resulting gain or loss, if any, is included in operations. Maintenance and repairs are charged to operations as incurred. Impairment The Company assesses its property and equipment for potential impairment when there is a change in circumstances that indicates carrying values of assets may not be recoverable. Such long-lived assets are deemed to be impaired when the undiscounted cash flows expected to be generated by the asset (or asset group) are less than the asset’s carrying amount. Any required impairment loss would be measured as the amount by which the asset’s carrying value exceeds its fair value and would be recorded as a reduction in the carrying value of the related asset and a charge to operating expense.  The Company recognized no impairment losses during any of the periods presented in these financial statements. Goodwill  The Company’s goodwill represents the excess of the cost over the fair value of net assets acquired from its business combinations. The determination of the value of goodwill arising from business combinations requires extensive use of accounting estimates and judgments to allocate the purchase price to the fair value of the net tangible and intangible assets acquired.  Goodwill is not amortized; however, it is assessed for impairment using fair value measurement techniques on an annual basis or more frequently if facts and circumstance warrant such a review. Goodwill is considered to be impaired if the Company determines that the carrying value of the reporting unit exceeds its fair value.
+ The Company performs its impairment test annually during the fourth quarter by comparing the Company’s estimated fair value, calculated from the Company’s market capitalization, to its carrying amount. The Company’s annual evaluation for impairment of goodwill consists of one reporting unit. The Company completed its most recent annual evaluation for impairment as of December 31, 2021 and determined that no impairment existed.     Warrant Liability   Warrants are accounted for in accordance with the applicable authoritative accounting guidance as either liabilities or as equity instruments depending on the specific terms of the agreements. Liability-classified instruments are recorded at fair value at each reporting period with any change in fair value recognized as a component of change in fair value of warrant liabilities in the consolidated statements of operations and comprehensive loss.    Revenue Recognition  The Company did not have any revenue or related costs during 2021. Prior to 2021, the Company earned revenue for performing tasks under research and development agreements with governmental agencies like BARDA. Revenue derived from reimbursement of direct out-of-pocket expenses for research costs associated with government contracts were recorded as government contract and other within development revenue.  Government contract revenue was recorded at the gross amount of the reimbursement.  The costs associated with these reimbursements were reflected as a component of research and development 
+ 63
+
+
+ expense in the Company’s statements of operations.  The Company recognized $0.3 million in BARDA revenue for the year ended December 31, 2020.
+ The BARDA Agreement was terminated by the U.S. Department of Health and Human Services effective in December 2019 and the contract close out process was completed during 2020. Research and Development Research and development expenditures, which are charged to operations in the period incurred, include costs associated with the design, development, testing and enhancement of the Company’s products, regulatory fees, the purchase of laboratory supplies, and pre-clinical and clinical studies as well as salaries and benefits for our research and development employees. Also included in research and development expenditures are costs incurred to support the government reimbursement contract, including $0.3 million qualified expenses that were incurred for the years ended December 31, 2020, related to the BARDA Agreement. There was no BARDA related costs during the year ended December 31, 2021.    Acquired In-Process Research and Development (IPR&D)   Acquired IPR&D represents the value assigned to research and development assets that have not reached technological feasibility. Upon the acquisition of IPR&D, the Company completes an assessment of whether the acquisition constitutes the purchase of a single asset or group of assets. The Company considers multiple factors in this assessment, including the nature of the technology acquired, the presence or absence of separate cash flows, the development process and stage of completion, quantitative significance, and the Company's rationale for entering into the transaction.   If the Company acquires a business as defined under applicable accounting standards, then the acquired IPR&D is capitalized as an intangible asset on the consolidated balance sheets and recorded at fair value. If the Company acquires an asset or group of assets that do not meet the definition of a business under applicable accounting standards, then the acquired IPR&D is expensed as research and development in the consolidated statements of operations and comprehensive loss on its acquisition date. Future costs to develop these assets are recorded to research and development expense as they are incurred until such time that the asset or group of assets reaches technological feasibility, if ever. Deferred Financing Costs and Other Debt-Related Costs Deferred financing costs are capitalized, recorded as an offset to debt balances and amortized to interest expense over the term of the associated debt instrument using the effective interest method.  If the maturity of the debt is accelerated because of default or early debt repayment, then the amortization would be accelerated. Income Taxes Income taxes are accounted for under the asset and liability method.  Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases and operating loss and tax credit carry forwards.  Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income (loss) in the years in which those temporary differences are expected to be recovered or settled.  Due to our history of losses, a full valuation allowance has been recognized against our deferred tax assets. The Company’s policy is to recognize interest and penalties related to income tax matters in income tax expense. For the years ended December 31, 2021 and 2020, the Company has not recorded any interest or penalties related to income tax matters. The Company does not foresee any material changes to unrecognized tax benefits within the next twelve months. Share-Based Compensation The Company recognizes the fair value of all share-based payment awards in our statements of operations over the requisite vesting period of each award, which approximates the period during which the employee and non-employee director is required to provide service in exchange for the award. The Company estimates the fair value of these options using the Black-Scholes option pricing model using assumptions for expected volatility, expected term, and risk-free interest rate.  Expected volatility is based primarily on historical volatility and is computed using daily pricing observations for recent periods that correspond to the expected term of the options. The expected term is calculated based on historical data for and applied to all employee awards as a single group as the Company does not expect (nor does historical data suggest) substantially different exercise or post-vesting termination behavior amongst our employee population. The risk-free interest rate is the interest rate for treasury instruments with maturities that approximate the expected term.
+ 64
+
+
+ Segment Information For the years ended December 31, 2021 and 2020, the Company is managed as a single operating segment, therefore we report our results in one operating segment. Loss Per Share Basic per share data is computed by dividing net income or loss applicable to common stockholders by the weighted average number of common shares outstanding during the period. Diluted per share data is computed by dividing net income or loss applicable to common stockholders by the weighted average number of common shares outstanding during the period increased to include, if dilutive, the number of additional common shares that would have been outstanding as calculated using the treasury stock method. Potential common shares were related entirely to outstanding but unexercised options, warrants and convertible preferred stocks for all periods presented. The Company excluded all potentially dilutive securities from the calculation of diluted loss per share attributable to common stockholders for the years ended December 31, 2021 and 2020, as their inclusion would be antidilutive.   Concentration Risk  Although the Company’s contracts with its vendors are not exclusive, the Company currently uses sole source providers for core materials used in its clinical trials.   Recently Issued and Recently Adopted Accounting Pronouncements Recently Issued Accounting Pronouncements In June 2016, the FASB issued ASU 2016-13, Financial Instruments -- Credit Losses (Topic 326), Measurement of Credit Losses on Financial Instruments. The standard amends the impairment model by requiring entities to use a forward-looking approach based on expected losses to estimate credit losses for most financial assets and certain other instruments that aren’t measured at fair value through net income. For available-for-sale debt securities, entities will be required to recognize an allowance for credit losses rather than a reduction in carrying value of the asset. Entities will no longer be permitted to consider the length of time that fair value has been less than amortized cost when evaluating when credit losses should be recognized. This new guidance is effective in the first quarter of 2023 for calendar-year SEC filers that are smaller reporting companies as of the one-time determination date. Early adoption is permitted. The Company plans to adopt the new guidance on January 1, 2023, and it does not expect that adoption of this standard will have a material impact on its consolidated financial statements and related disclosures.  In August 2020, the FASB issued ​ASU No. 2020-06​, ​Debt -- Debt with Conversion and Other Options (Subtopic 470-20) and Derivatives and Hedging - Contracts in Entity’s Own Equity (Subtopic 815-40)​ (“ASU 2020-06”). ​ASU 2020-06 eliminates the beneficial conversion and cash conversion accounting models for convertible instruments. It also amends the accounting for certain contracts in an entity’s own equity that are currently accounted for as derivatives because of specific settlement provisions. In addition, ASU 2020-06 modifies how particular convertible instruments and certain contracts that may be settled in cash or shares impact the diluted EPS computation. The amendments in ASU 2020-06 are effective for smaller reporting companies as defined by the SEC for fiscal years beginning after December 15, 2023, including interim periods within those fiscal years. Early adoption is permitted, but no earlier than fiscal years beginning after December 15, 2020. The Company is currently evaluating the impact of ASU 2020-06 on its financial statements. Recently Adopted Accounting Pronouncements In December 2019, the FASB issued ASU No. 2019-12, Income Taxes, Simplifying the Accounting for Income Taxes (“ASU 2019-12”). The new guidance eliminates certain exceptions related to the approach for intraperiod tax allocation, the methodology for calculating income taxes in an interim period and the recognition of deferred tax liabilities for outside basis differences. It also clarifies and simplifies other aspects of the accounting for income taxes. ASU 2019-12 became effective for the Company on January 1, 2021. Adoption of ASU 2019-12 did not have a material impact on the Company’s consolidated financial statements.  
+ 3.       Fair Value Measurements   Fair value measurements are market-based measurements, not entity-specific measurements.  Therefore, fair value measurements are determined based on the assumptions that market participants would use in pricing the asset or liability.  We follow a three-level hierarchy to prioritize the inputs used in the valuation techniques to derive fair values.  The basis for fair value measurements for each level within the hierarchy is described below:
+ 65
+
+
+  
+• | Level 1: Quoted prices in active markets for identical assets or liabilities.
+--+------------------------------------------------------------------------------
+
+
+• | Level 2: Quoted prices for similar assets or liabilities in active markets; quoted prices for identical or similar instruments in markets that are not active; and model-derived valuations in which all significant inputs are observable in active markets.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Level 3: Valuations derived from valuation techniques in which one or more significant inputs are unobservable in active markets.
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+   Warrants issued by the Company in connection with the sale of common stock in a registration offering in September 2019 (“Series U Warrants”) were classified as liabilities at issuance. The Series U warrants were marked to market at each subsequent reporting date as non-operating income or loss in the statement of operations. As described in more detail in Note 12, during 2020 the Company amended the terms of 3,522,500 Series U Warrants such that those amended Series U Warrants met the requirements to be classified within stockholders’ equity and were no longer required to be re-measured at fair value at each balance sheet date.    Expected volatility was computed using daily pricing observations of traded shares of the Company for recent periods that correspond to the expected term of the warrants. The Company believes this method produces an estimate that is representative of our expectations of future volatility over the expected term of these warrants. The Company currently has no reason to believe future volatility over the expected remaining life of these warrants is likely to differ materially from historical volatility. The expected life is based on the remaining contractual term of the warrants. The risk-free interest rate is the U.S. Treasury bond rate as of the valuation date. Because some of the inputs to our valuation model are either not observable or are not derived principally from or corroborated by observable market data by correlation or other means, the warrant liability is classified as Level 3 in the fair value hierarchy. Fluctuations in the fair value of the warrants are impacted by unobservable inputs. Significant increases (decreases) in this input in isolation would result in a significantly higher (lower) fair value measurement.    The Company estimated the fair value of the liability-classified Series U Warrants on the issuance date as well as at each subsequent balance sheet date with the Black Scholes model. The assumptions used in the Black Scholes option pricing model to determine the fair value of the Series U warrants were as follows:
+    
+ | As of December 31, 2021 | | | As of December 31, 2020 | 
+-----------------------------------+-------------------------+------------+---+-------------------------+-----------
+Expected term | | 2.75 years | | | 3.75 years | 
+Common stock market price | $ | 1.05 | | | $ | 2.02 | 
+Risk-free interest rate | | 0.91 | % | | | 0.24 | %
+Expected volatility | | 143.2 | % | | | 149.0 | %
+Resulting fair value (per warrant) | $ | 0.58 | | | $ | 1.56 | 
+
+   The following table summarizes the change in our Level 3 warrant liability value (in thousands):    
+ | Years ended December 31, | 
+---------------------------------+--------------------------+---
+Warrant liability | 2021 | | | 2020 | 
+Beginning balance | $ | 7 | | | $ | 6,929 | 
+Change in fair value of warrants | | (6 | ) | | | (2,418 | )
+Reclassification to equity | | — | | | | (4,504 | )
+Ending balance | $ | 1 | | | $ | 7 | 
+
+   On September 30, 2020, the Company committed to issue 180,701 shares to Lincoln Park as a committee fee (“Commitment Shares”) in connection with the 2020 Purchase Agreement, and these shares were issued on October 2, 2020. The change in fair value of the Commitment Shares between September 30, 2020 and the issuance date, in the amount of $18,000 and calculated using the closing stock prices on respective dates, was recorded in change in fair value of liability-classified instruments on the statement of operations and comprehensive income/loss for the year ended December 31, 2020.    Nonfinancial Assets and Liabilities The Company applies fair value techniques on a non-recurring basis, if and when necessary, associated with: (1) valuing potential impairment losses related to goodwill which are accounted for pursuant to the authoritative guidance for intangibles—goodwill and other; and (2) valuing potential impairment losses related to long-lived assets which are accounted for pursuant to the authoritative guidance for property, plant and equipment.
+ 
+66
+
+
+
+    
+5. | Loss per Share
+---+---------------
+
+   The following were excluded from the diluted loss per share calculation for the periods presented because their effect would be anti-dilutive:    
+ | For the Year Ended December 31,
+--------------------------+--------------------------------
+ | 2021 | | 2020
+Outstanding stock options | | 1,170,890 | | 531,336 
+Preferred stock | | 422,867 | | 422,985 
+Outstanding warrants | | 2,141,378 | | 3,113,625
+Total | | 3,735,135 | | 4,067,946
+
+
+. | Composition of Certain Financial Statement Captions
+--+----------------------------------------------------
+
+   Other Current Assets As of December 31, 2021 and 2020, other current assets were comprised of the following (in thousands):    
+ | December 31, | 
+------------------+--------------+------
+ | 2021 | | 2020 | 
+Prepaid services | $ | 622 | | $ | 131
+Prepaid insurance | | 695 | | | 639
+Other | | 7 | | | 59 
+ | $ | 1,324 | | $ | 829
+
+   Property and Equipment, net As of December 31, 2021 and 2020, property and equipment, net, were comprised of the following (in thousands):    
+ | December 31, | 
+------------------------------+--------------+-------
+ | 2021 | | | 2020 | 
+Office and computer equipment | $ | 1,231 | | | $ | 1,525 | 
+Leasehold improvements | | 1,661 | | | | 1,682 | 
+ | | 2,892 | | | | 3,207 | 
+Less accumulated depreciation | | (1,415 | ) | | | (1,387 | )
+ | $ | 1,477 | | | $ | 1,820 | 
+
+   Depreciation expense totaled $0.4 million for each of the years ended December 31, 2021 and 2020, respectively.   Intangible Assets, net   As of December 31, 2021, intangible assets included the net book value of costs incurred for software upgrades.   Accounts Payable and Accrued Expenses As of December 31, 2021 and 2020, accounts payable and accrued expenses were comprised of the following (in thousands):    
+ | December 31, | 
+------------------------------------+--------------+------
+ | 2021 | | 2020 | 
+Accounts payable | $ | 2,611 | | $ | 789 
+Accrued payroll and bonus | | 781 | | | 738 
+Accrued professional fees | | 189 | | | 276 
+Accrued vacation and compensation | | 252 | | | 245 
+Finance lease obligation -- current | | — | | | 10 
+Other current liabilities | | 122 | | | 23 
+Accrued R&D studies | | 196 | | | — 
+ | $ | 4,151 | | $ | 2,081
+
+ 67
+
+
+   
+  
+. | Commitments and Contingencies
+--+------------------------------
+
+ Leases At the inception of a contractual arrangement, the Company determines whether the contract contains a lease by assessing whether there is an identified asset and whether the contract conveys the right to control the use of the identified asset in exchange for consideration over a period of time. If both criteria are met, the Company calculates the associated lease liability and corresponding right-of-use asset upon lease commencement using a discount rate based on the rate implicit in the lease or an incremental borrowing rate commensurate with the term of the lease. Lease renewable options are included in the estimation of lease term when it is reasonably certain that the Company will exercise such options.  
+ The Company records lease liabilities within current liabilities or long-term liabilities based upon the length of time associated with the lease payments. The Company records its operating lease right-of-use assets as long-term assets. Right-of-use assets for financing leases are recorded within property and equipment, net in the Balance Sheet. Leases with an initial term of 12 months or less are not recorded on the Balance Sheet. Instead, the Company recognizes lease expense for these leases on a straight-line basis over the lease term.  The Company leases laboratory, office and storage facilities in San Antonio, Texas, under operating lease agreements that expire in 2025. The Company also leases certain office space in Austin, Texas under a month-to-month operating lease agreement.  On March 1, 2021, the Company entered into a lease agreement for office space in Charlottesville, Virginia (the “Charlottesville Lease”). The Charlottesville Lease has a term of 12 months and is renewable for four additional one-year periods. The minimum lease payment is $30,000 for the first twelve months, subject to a 3% annual increase if and when the lease is renewed. The lease commencement date is April 1, 2021. The Company measured the operating lease right-of-use asset and related lease liability related to the Charlottesville Lease as of the lease commencement date.  
+ In addition, the Company has entered into leases for certain equipment under various operating and finance leases. The lease agreements generally provide for periodic rent increases, and renewal and termination options. The Company’s lease agreements do not contain any material variable lease payments, residual value guarantees or material restrictive covenants. During 2021, contractual terms of all finance leases had expired and the Company did not have any right-of-use assets or lease liabilities relating to finance leases as of December 31, 2021.  The lease agreements generally provide for periodic rent increases, and renewal and termination options. The Company’s lease agreements do not contain any material variable lease payments, residual value guarantees or material restrictive covenants. Certain leases require the Company to pay taxes, insurance, and maintenance. Payments for the transfer of goods or services such as common area maintenance and utilities represent non-lease components. The Company elected the package of practical expedients and therefore does not separate non-lease components from lease components. The table below summarizes the Company’s lease liabilities and corresponding right-of-use assets (in thousands, except years and rates):  
+ | | 2021 | | | 2020 | 
+-----------------------------------------------------------------+------+------+------+---+------+--
+Assets | | | | | | 
+Operating | $ | 341 | | $ | 636 | 
+Financing | | — | | | 7 | 
+Total leased assets | $ | 341 | | $ | 643 | 
+Liabilities | | | | | | 
+Current: | | | | | | 
+Operating | $ | 111 | | $ | 123 | 
+Financing | — | | 10 | 
+Noncurrent: | | | | | | 
+Operating | 269 | | 528 | 
+Total lease liabilities | $ | 380 | | $ | 661 | 
+Weighted-average remaining lease term (years) - operating leases | 2.86 | | 6.57 | 
+Weighted-average remaining lease term (years) - finance leases | — | | 0.42 | 
+Weighted-average discount rate - operating leases | | 9.00 | % | | 7.79 | %
+Weighted-average discount rate - finance leases | | N/A | | | 5.00 | %
+
+ 68
+
+
+     The table below summarizes the Company’s lease costs from its consolidated statements of operations, and cash payments from its consolidated statements of cash flows.    
+ | Year Ended December 31, | 
+-----------------------------------------------------------------------------+-------------------------+-----
+ | | 2021 | | | 2020
+Lease expense: | | | | | 
+Operating lease expense | $ | 211 | | $ | 210 
+Finance lease expense: | | | | | 
+Depreciation of right-of-use assets | | 7 | | 127 | 
+Interest expense on lease liabilities | — | | 4 | 
+Total lease expense | $ | 218 | | $ | 341 
+Cash payment information: | | | | | 
+Operating cash used for operating leases | $ | 206 | | $ | 204 
+Financing cash used for financing leases | 8 | | 117 | 
+Total cash paid for amounts included in the measurement of lease liabilities | $ | 214 | | $ | 321 
+
+   Total rent expenses for each of the years ended December 31, 2021 and 2020 was $0.2 million, which includes leases in the table above, month-to-month operating leases, and common area maintenance charges.    The Company’s future minimum annual lease payments under operating and financing leases at December 31, 2021 are as follows (in thousands):    
+ | | Operating Leases | | 
+2022 | $ | 159 | | 
+2023 | | 137 | | 
+2024 | | 113 | | 
+2025 | | 18 | | 
+Thereafter | | | — | 
+Total minimum lease payments | $ | | 427 | 
+Less: amount representing interest | | | (47 | )
+Present value of obligations under leases | | | 380 | 
+Less: current portion | | | (111 | )
+Noncurrent lease obligations | $ | | 269 | 
+
+         Piramal Master Services Agreement On January 8, 2021, the Company entered into a Master Services Agreement (the “MSA”) with Piramal Pharma Solutions, Inc. (“Piramal”), for Piramal to perform certain services related to the development, manufacture, and supply of the Company’s 186RNL-Liposome Intermediate Drug Product. The MSA includes the transfer of analytical methods, development of microbiological methods, process transfer and optimization, intermediate drug product manufacturing, and stability studies for the Company, which has been initiated at Piramal’s facility located in Lexington, Kentucky.     The MSA has a term of five years and will automatically renew for successive one-year terms unless either party notifies the other no later than six months prior to the original term or any additional terms of its intention to not renew the MSA.  The Company has the right to terminate the MSA for convenience upon thirty days’ prior written notice.  Either party may terminate the MSA upon an uncured material breach by the other party or upon the bankruptcy or insolvency of the other party.  Other Commitments and Contingencies
+ The Company has entered into agreements with various research organizations for pre-clinical and clinical development studies, which have provisions for cancellation. Under the terms of these agreements, the vendors provide a variety of services including conducting research, recruiting and enrolling patients, monitoring studies and data analysis. Payments under these agreements typically include fees for services and reimbursement of expenses. The timing of payments due under these agreements is 
+ 69
+
+
+ estimated based on current study progress.  As of December 31, 2021, the Company did not have any clinical research study obligations.  
+Legal proceedings On June 22, 2021, the Company was named as a defendant in an action brought by Lorem Vascular, Pte. Ltd. (“Lorem”) in the District Court for the District of Delaware. The complaint alleges false representations were made to Lorem regarding the manufacturing facility in the United Kingdom (the “UK Facility”) that Lorem purchased from the Company under the Equity Purchase Agreement, dated March 29, 2019, between the Company and Lorem (the “Lorem Agreement”). Lorem also claims that false representations were made regarding the UK Facility’s certification to sell and distribute devices in the European Union and export such devices to China. In connection with these allegations, Lorem claims entitlement to at least $6,000,000 in compensatory damages and operational costs and expenses (collectively, the “Lorem Claim”). The Company believes that the claims from Lorem are without merit and intends to vigorously defend the case and on August 12, 2021, the Company filed a Motion to Dismiss asking the District Court to dismiss the Lorem Claim. Lorem filed an opposition on September 9, 2021, which the Company responded to on September 30, 2021. On February 7, 2022, a hearing was held on the Company’s Motion to Dismiss and the presiding judge ruled against the Motion to Dismiss.  The Company is moving forward with discovery in this case.
+       The Company is subject to various claims and contingencies related to legal proceedings.  Due to their nature, such legal proceedings involve inherent uncertainties including, but not limited to, court rulings, negotiations between affected parties and governmental actions.  Management assesses the probability of loss for such contingencies and accrues a liability and/or discloses the relevant circumstances, as appropriate.  
+  
+. | Term Loan Obligations
+--+----------------------
+
+ On May 29, 2015, the Company entered into the Loan and Security Agreement (the “Loan and Security Agreement”), pursuant to which Oxford Finance, LLC (“Oxford”) funded an aggregate principal amount of $17.7 million (the “Term Loan”), subject to the terms and conditions set forth in the Loan and Security Agreement. The Term Loan accrues interest at a floating rate of at least 8.95% per annum, comprised of a three-month LIBOR rate with a floor of 1.00% plus 7.95%.  Pursuant to the Loan and Security Agreement, as amended, the Company is required to make interest only payments through May 1, 2021 and thereafter it is required to make payments of principal and accrued interest in equal monthly installments sufficient to amortize the Term Loan through June 1, 2024, the maturity date. At maturity of the Term Loan, or earlier repayment in full following voluntary prepayment or upon acceleration, the Company is required to make a final payment in an aggregate amount equal to approximately $3.2 million. In connection with the Term Loan, on May 29, 2015, the Company issued to Oxford warrants to purchase an aggregate of 188 shares of the Company’s common stock at an exercise price of $5,175 per share. These warrants became exercisable as of November 30, 2015 and will expire on May 29, 2025 and, following the authoritative accounting guidance, are equity classified and its respective fair value was recorded as a discount to the debt. From September 2017 to March 2019, the Company entered into a total of seven amendments to the Term Loan which, amongst other things, extended the interest only period, required repayment of $3.1 million using the proceeds received from sale of the Company’s former UK and Japan subsidiaries in April 2019, increased the final payment, increased the final payment fee upon maturity or early repayment of the Term Loan, and increased the minimum liquidity covenant level to $2.0 million. On March 29, 2020, the Company entered into the Ninth Amendment of the Loan and Security Agreement (the “Ninth Amendment”), pursuant to which Oxford agreed to defer the start date of principal repayment from May 1, 2020 to May 1, 2021 and extended the term of the Term Loan from September 1, 2021 to June 1, 2024.  The principal repayment start date was further deferred to November 1, 2021. In addition, pursuant to the Ninth Amendment, on April 1, 2020, the Company made a $5.0 million paydown of principal upon execution of the Ninth Amendment and $0.3 million of related final payment. After giving effect to this payment, $4.3 million of principal remains outstanding under the Term Loan. In addition, an amendment fee of $1.0 million will be payable in connection with the Amendment at the earlier of the maturity date, acceleration of the loans and the making of certain prepayments. All other major terms remained consistent.   Under authoritative guidance, the Ninth Amendment does not meet the criteria to be accounted for as a troubled debt restructuring. In addition, the Company performed a quantitative analysis and determined that the terms of the new debt and original debt instrument are not substantially different. Accordingly, the Ninth Amendment is accounted for as debt modification. A new effective interest rate that equates the revised cash flows to the carrying amount of the original debt is computed and applied prospectively. The Term Loan, as amended, is collateralized by a security interest in substantially all of the Company’s existing and subsequently acquired assets, including its intellectual property assets, subject to certain exceptions set forth in the Loan and Security Agreement, as amended. The intellectual property asset collateral will be released upon the Company achieving a certain liquidity level when the total principal outstanding under the Loan and Security Agreement is less than $3 million. As of 
+ 70
+
+
+ December 31, 2021, there was $4.0 million principal amount outstanding under the Term Loan, excluding the $3.2 million final payment fee, and the Company was in compliance with all of the debt covenants under the Loan and Security Agreement.
+ The Company’s interest expense for the year ended December 31, 2021 and 2020 was $0.9 million and $1.1 million, respectively. Interest expense is calculated using the effective interest method; therefore it is inclusive of non-cash amortization in the amount of $0.5 million and $0.6 million for the year ended December 31, 2021 and 2020, respectively, related to the amortization of the debt discount, deferred financing costs, and accretion of final payment. The Loan and Security Agreement, as amended, contains customary indemnification obligations and customary events of default, including, among other things, the Company’s failure to fulfill certain obligations under the Term Loan, as amended, and the occurrence of a material adverse change, which is defined as a material adverse change in the Company’s business, operations, or condition (financial or otherwise), a material impairment of the prospect of repayment of any portion of the loan. In the event of default by the Company or a declaration of material adverse change by its lender, under the Term Loan, the lender would be entitled to exercise its remedies thereunder, including the right to accelerate the debt, upon which the Company may be required to repay all amounts then outstanding under the Term Loan, which could materially harm the Company’s financial condition. As of December 31, 2021, the Company has not received any notification or indication from Oxford to invoke the material adverse change clause. 
+ Additional details relating to the outstanding Term Loan as of December 31, 2021 and 2020 are presented in the following table (in thousands):    
+Year ended December 31, 2021 | | | | | | | | | | | 
+-----------------------------+----------------------+--------+-----------------+------+----------------------------+---+-------------------------+----------------------------------+--------------+---+------
+Origination Date | Original Loan Amount | | Interest Rate** | | Current Monthly Payment*** | | Amended expiration date | Remaining Principal (Face Value) | 
+May 2015 | $ | 17,700 | | 8.95 | % | $ | 134 | | June 1, 2024 | $ | 4,021
+
+
+Year ended December 31, 2020 | | | | | | | | | | | 
+-----------------------------+----------------------+--------+-----------------+------+--------------------------+---+-------------------------+----------------------------------+--------------+---+------
+Origination Date | Original Loan Amount | | Interest Rate** | | Current Monthly Payment* | | Amended expiration date | Remaining Principal (Face Value) | 
+May 2015 | $ | 17,700 | | 8.95 | % | $ | 32 | | May 31, 2024 | $ | 4,289
+
+
+* | Monthly payment as of December 2020, which reflects interest only
+--+------------------------------------------------------------------
+
+
+** | 3 month LIBOR rate with a floor of 1% plus 7.95%
+---+-------------------------------------------------
+
+
+*** | Monthly payment as of December 2021, which reflects principal and interest
+----+---------------------------------------------------------------------------
+
+   As of December 31, 2021, the future contractual principal and final fee payments on all of our debt obligations are as follows (as thousands):    
+Years Ending December 31, | | 
+--------------------------+---+------
+2022 | $ | 1,608
+2023 | | 1,608
+2024 | | 3,996
+Total | $ | 7,212
+
+
+Reconciliation of Face Value to Book Value as of December 31, 2021 | | | 
+--------------------------------------------------------------------+---+-------+--
+Total debt obligations, including final payment fee (Face Value) | $ | 7,212 | 
+Less: Debt discount | | (599 | )
+Total obligation | | 6,613 | 
+Less: Current portion | | 1,608 | 
+Term loan obligation | $ | 5,005 | 
+
+
+. | Income Taxes
+--+-------------
+
+ The Company has recorded a full valuation allowance against its net deferred tax assets and due to our net losses for the years ended December 31, 2021 and 2020, there was no provision or benefit for income taxes recorded.  
+71
+
+
+   A reconciliation of the total income tax provision tax rate to the statutory federal income tax rates of 21% for the years ended December 31, 2021 and 2020, respectively, is as follows:    
+ | 2021 | | | 2020
+-------------------------------------------------------+------+-------+----+-----
+Income tax expense (benefit) at federal statutory rate | | (21.0 | )% | | (21.0 | )%
+Change in valuation allowance | | 0.9 | % | | 23.6 | % 
+Income tax expense (benefit) at state statutory rate | | (0.6 | )% | | (8.9 | )%
+Stock compensation | | 0.7 | % | | 6.9 | % 
+NOLs expiring and adjustments to NOL | | 20.3 | % | | 6.0 | % 
+Research credit | | (0.8 | )% | | (1.1 | )%
+Return to provision | | 0.5 | % | | 1.0 | % 
+Change in state rate | | — | | | (0.5 | )%
+Mark to market adjustment | | — | | | (6.1 | )%
+Other, net | | — | | | 0.1 | % 
+ | | 0.0 | % | | 0.0 | % 
+
+   The tax effects of temporary differences that give rise to significant portions of our deferred tax assets and deferred tax liabilities as of December 31, 2021 and 2020 are as follows (in thousands):    
+ | 2021 | | | 2020 | 
+--------------------------------------------------------------------------+------+----------+---+------+--
+Deferred tax assets: | | | | | | | 
+Accrued expenses | $ | 41 | | | $ | 128 | 
+Stock based compensation | | 164 | | | | 168 | 
+Net operating loss carryforwards | | 95,310 | | | | 95,114 | 
+Income tax credit carryforwards | | 8,864 | | | | 8,756 | 
+Property and equipment, principally due to differences in depreciation | | 19 | | | | 16 | 
+Intangible assets | | 451 | | | | 556 | 
+Other, net | | 82 | | | | 182 | 
+ | | 104,931 | | | | 104,920 | 
+Valuation allowance | | (104,857 | ) | | | (104,742 | )
+Total deferred tax assets, net of allowance | | 74 | | | | 178 | 
+Deferred tax liabilities: | | | | | | | 
+Other | | (74 | ) | | | (178 | )
+Total deferred tax liability | | (74 | ) | | | (178 | )
+Net deferred tax assets (liability) | $ | — | | | $ | — | 
+
+   The Company has established a valuation allowance against its net deferred tax assets due to the uncertainty surrounding the realization of such assets. The Company periodically evaluates the recoverability of the deferred tax assets. At such time as it is determined that it is more likely than not that deferred tax assets are realizable, the valuation allowance will be reduced. The Company has recorded a full valuation allowance of $104.9 million as of December 31, 2021 as it does not believe it is more likely than not our net deferred tax assets will be realized. The Company increased its valuation allowance by approximately $0.1 million during the year ended December 31, 2021. At December 31, 2021, we had federal, and state tax loss carry forwards of approximately $395.7 million, and $175.8 million, respectively. The federal and state net operating loss carry forwards begin to expire in 2023 and 2028, respectively, if unused. The federal net operating loss carryover includes $45.5 million of net operating losses generated after 2017. Federal net operating losses generated from 2018 onwards carryover indefinitely and may generally be used to offset up to 80% of future taxable income. At December 31, 2020, we had federal and state tax credit carry forwards of approximately $6.5 million and $5.5 million, respectively, before reduction for uncertain tax positions. The Company has not performed a formal research and development credit study with respect to these credits.  The federal credits will begin to expire in 2022, if unused, and the state credits carry forward indefinitely.  Pursuant to the Internal Revenue Code (“IRC”) of 1986, as amended, specifically IRC §382 and IRC §383, The Company’s ability to use net operating loss and R&D tax credit carry forwards (“tax attribute carry forwards”) to offset future taxable income is limited if we experience a cumulative change in ownership of more than 50% within a three-year testing period. The Company has not completed an ownership change analysis pursuant to IRC Section 382 for taxable years ended after December 31, 2007. If ownership changes within the meaning of IRC Section 382 are identified as having occurred subsequent to 2007, the amount of remaining tax attribute carry forwards available to offset future taxable income and income tax expense in future 
+ 72
+
+
+ years may be significantly restricted or eliminated.  Further, the Company’s deferred tax assets associated with such tax attributes could be significantly reduced upon realization of an ownership change within the meaning of IRC §382.
+     The Company follows the provisions of income tax guidance which provides recognition criteria and a related measurement model for uncertain tax positions taken or expected to be taken in income tax returns. The guidance requires that a position taken or expected to be taken in a tax return be recognized in the financial statements when it is more likely than not that the position would be sustained upon examination by tax authorities. Tax positions that meet the more likely than not threshold are then measured using a probability weighted approach recognizing the largest amount of tax benefit that is greater than 50% likely of being realized upon ultimate settlement. The Company has not recognized any liability for uncertain tax positions as of December 31, 2021 and 2020. Following is a tabular reconciliation of the unrecognized tax benefits activity during the years ended December 31, 2021 and 2020 (in thousands):    
+ | 2021 | | | 2020 | 
+------------------------------------------------+------+-------+---+------+--
+Unrecognized Tax Benefits – Beginning | $ | 2,223 | | | $ | 2,234 | 
+Gross decreases – tax positions in prior period | | (44 | ) | | | (44 | )
+Gross increase – current-period tax positions | | 69 | | | | 33 | 
+Unrecognized Tax Benefits – Ending | $ | 2,248 | | | $ | 2,223 | 
+
+   The unrecognized tax benefit amounts are reflected in the determination of the Company’s deferred tax assets. If recognized, none of these amounts would affect the Company’s effective tax rate, since it would be offset by an equal reduction in the deferred tax asset valuation allowance.  The Company does not foresee material changes to its liability for uncertain tax benefits within the next twelve months. The Company did not recognize interest related to unrecognized tax benefits in interest expense and penalties in operating expenses as of December 31, 2021. The Company’s material tax jurisdictions are the United States and California. To its knowledge, the Company is currently not under examination by the Internal Revenue Service or any other taxing authority. The Company’s tax years for 2018 (federal) and 2017 (CA) remain open to examination by the taxing authority.  While not open to examination, the tax attributes generated in tax years 2002 (federal) and 1997 (CA) and forward are subject to adjustment by the taxing authorities if utilized in tax years which are still open to examination.  
+  
+. | Employee Benefit Plan
+--+----------------------
+
+ The Company implemented a 401(k) retirement savings and profit sharing plan (the “Plan”) effective January 1, 1999. During 2021, the Company commenced safe harbor matching contribution for up to 4% of eligible employee contributions. Total matching contribution under the Plan amounted to approximately $40,000 for the year ended December 31, 2021.  The Company made no matching contribution to the Plan in 2020. 
+ 11.     License Agreements  UT Health Science Center at San Antonio (“UTHSA”) License Agreement  On December 31, 2021, the Company entered into a Patent and Know-How License Agreement (the “UTHSA License Agreement”) with The University of Texas Health Science Center at San Antonio, pursuant to which UTHSA granted the Company an irrevocable, perpetual, exclusive, fully paid-up license, with the right to sublicense and to make, develop, commercialize and otherwise exploit certain patents, know-how and technology related to the development of biodegradable alginate microspheres (BAM) containing nanoliposomes loaded with imaging and/or therapeutic payloads. Pursuant to the UTHSA License Agreement, the Company is required to make an upfront payment of $250,000, which was recorded as in process research and development acquired in the statement of operations for the year ended December 31, 2021. The upfront payment was paid in cash in January 2022.  Furthermore, the Company may pay up to $30.3 million in development and sales milestone payments and a tiered single digit royalty on U.S. and European sales. In addition, the Company is obligated to pay a $50,000 annual maintenance fee starting 2024, as well as low single digit of sales-based royalty under the UTHSA License Agreement.   NanoTx License Agreement  On March 29, 2020, the Company and NanoTx, Corp. (“NanoTx”) entered into a Patent and Know-How License Agreement (the“NanoTx License Agreement”), pursuant to which NanoTx granted the Company an irrevocable, perpetual, exclusive, fully 
+ 73
+
+
+ paid-up license, with the right to sublicense and to make, develop, commercialize and otherwise exploit certain patents, know-how and technology related to the development of radiolabeled nanoliposomes.
+ On May 7, 2020, all closing conditions under the NanoTx License Agreement were satisfied and the Company paid an upfront payment of $400,000 in cash and issued 230,769 shares of its common stock to NanoTx. Cash and the fair value of common stock issued totaled $781,000 and is recorded as in-process research and development expenses, pursuant to authoritative literature for asset acquisition, in the consolidated statement of operations and comprehensive loss for the year ended December 31, 2020.  Pursuant to the terms of the NanoTx License Agreement, the Company may be required to pay up to $136.5 million in development and sales milestone payments and a tiered single-digit royalty on U.S. and European sales. 
+ 12. Stockholders’ Equity Preferred Stock The Company has authorized 5,000,000 shares of preferred stock, par value $0.001 per share. The Company’s Board of Directors is authorized to designate the terms and conditions of any preferred stock the Company issues without further action by the common stockholders. On September 21, 2021, Series A 3.6% Convertible Preferred Stock was eliminated. There were no shares of Series A 3.6% Convertible Preferred Stock immediately prior to September 21, 2021, or December 31, 2020. There were 1,014 and 1,016 shares of Series B Convertible Preferred Stock outstanding as of December 31, 2021 and December 31, 2020, respectively. There were 938 shares of Series C Preferred Stock outstanding as of each of December 31, 2021 and December 31, 2020. As of December 31, 2021, there were 938 outstanding shares of Series C Preferred Stock that can be converted into an aggregate of 416,889 shares of common stock, and 1,014 shares of Series B Convertible Preferred Stock that can be converted into an aggregate of 5,978 shares of common stock.       Warrants    On September 25, 2019, the Company completed an underwritten public offering. The Company issued 289,000 shares of its common stock, along with pre-funded warrants to purchase 2,711,000 shares of its common stock and Series U Warrants to purchase 3,450,000 shares of its common stock at $5.00 per share. The Series U Warrants have a term of five years from the issuance date. In addition, the Company issued warrants to H.C. Wainwright & Co., LLC, as representatives of the underwriters, to purchase 75,000 shares of its common stock at $6.25 per share with a term of 5 years from the issuance date, in the form of Series U Warrants (the “Representative Warrants”). In accordance with authoritative guidance, the pre-funded warrants are classified as equity. The Series U Warrants and the Representative Warrants are classified at issuance as liabilities due to a contingent obligation for the Company to settle the Series U Warrants with cash upon certain change in control events. Between April and September 2020, the Company entered into revised warrant agreements with the holders of 3,447,500 Series U Warrants (the “Warrant Amendments”). In return for reducing the strike price of the warrants to $2.25 per share, the warrant holders agreed to amend the settlement provisions upon a fundamental transaction such that the warrants would meet the requirements to be classified within stockholders’ equity. In September 2020, the Company entered into revised warrant agreements for the Representative Warrants that reduced the strike price of the warrants to $2.81 per share, and the warrant holders agreed to amend the settlement provisions upon a fundamental transaction such that the Representative Warrants would meet the requirements to be classified within stockholders’ equity. Accordingly, approximately $4.5 million of warrant liability was reclassified to stockholders’ equity on the respective effective date of the Warrant Amendments. In addition, approximately $0.7 million of other income representing change in the fair value of amended warrants from April 1, 2020 to the respective effective date of the Warrant Amendments is recorded in the consolidated statement of operations for the year ended December 31, 2020. As of December 31, 2021, there were 2,141,000 outstanding Series U Warrants (of which 2,138,500 warrants were equity classified) which can be exercised into an aggregate of 2,141,000 shares of common stock.  Common Stock Lincoln Park Purchase Agreements  On September 30, 2020, the Company entered into the 2020 Purchase Agreement and registration rights agreement pursuant to which Lincoln Park committed to purchase up to $25.0 million of the Company’s common stock. Under the terms and subject to the conditions of the 2020 Purchase Agreement, the Company had the right, but not the obligation, to sell to Lincoln Park, and Lincoln Park was obligated to purchase up to $25.0 million of the Company’s common stock. Such sales of common stock by the Company were subject to certain limitations, and may occur from time to time, at the Company’s sole discretion, over 
+ 74
+
+
+ the 36-month period commencing on November 6, 2020, subject to the satisfaction of certain conditions.
+ The 2020 Purchase Agreement provided that the number of shares the Company may sell to Lincoln Park on any single business day in a regular purchase is 50,000, but that amount could be increased up to 100,000 shares, depending upon the market price of the Company’s common stock at the time of sale and subject to a maximum limit of $500,000 per regular purchase. The purchase price per share for each such regular purchase was based on prevailing market prices of the Company’s common stock immediately preceding the time of sale as computed under the 2020 Purchase Agreement. In addition to regular purchases, the Company could also direct Lincoln Park to purchase other amounts as accelerated purchases or as additional accelerated purchases if the closing sale price of the common stock exceeded certain threshold prices as set forth in the 2020 Purchase Agreement. There are no trading volume requirements or restrictions under the Lincoln Park Purchase Agreement. There is no upper limit on the price per share that Lincoln Park must pay for common stock under a regular purchase or an accelerated purchase and in no event will shares be sold to Lincoln Park on a day when the Company’s common stock closing sale price is less than $0.25 per share. On June 16, 2020, the Company received stockholder approval to permit issuances of the Company’s common stock (including the issuance of more than 19.99% of the Company’s common stock) to Lincoln Park pursuant to the 2020 Purchase Agreement.  Based on the closing price of the Company’s common stock of $1.05 per share on March 16, 2020, the maximum number of shares the Company can issue and sell under the 2020 Purchase Agreement is approximately 23.8 million shares.  Accordingly, the Company requested and received stockholder approval for the issuance of up to 23.8 million shares of the Company’s common stock under the 2020 Purchase Agreement. The Company would seek additional stockholder approval before issuing more than 23.8 million shares.
+   Lincoln Park had no right to require the Company to sell any shares of common stock to Lincoln Park, but Lincoln Park was obligated to make purchases as the Company directed, subject to certain conditions.   During the year ended December 31, 2020, the Company issued 353,113 shares, excluding 180,701 shares issued as a commitment fee, of common stock under the 2020 Purchase Agreement for total net proceeds of approximately $0.7 million. During the year ended December 31, 2021, the Company issued 5,685,186 shares of its common stock under the 2020 Purchase Agreement for net proceeds of approximately $12.5 million. As described in Note 15, subsequent to January 1, 2022, the Company issued approximately 5,665,000 shares of its common stock for net proceeds of $7.0 million. The Company no longer had any additional shares of common stock registered to sell under the 2020 Purchase Agreement.  At-the-market Issuances   On January 14, 2022, the Company entered into an Equity Distribution Agreement (the “2022 Distribution Agreement”) with Canaccord Genuity LLC (the “Agent”), pursuant to which the Company may issue and sell, from time to time, shares of its common stock having an aggregate offering price of up to $5,000,000 Share, with the Agent acting as an agent for sales. The Agent will use its commercially reasonable efforts to sell the Shares requested by the Company to be sold on its behalf. The Company has no obligation to sell any of the Shares. The Company has no obligation to sell any of the Shares. The Company may instruct the Agent not to sell the Shares if the sales cannot be effected at or above the price designated by us from time to time and the Company may at any time suspend sales pursuant to the 2022 Distribution Agreement. As described in Note 15, subsequent to January 1, 2022, the Company issued 1,000,000 shares under the 2022 Distribution Agreement for net proceeds of approximately $0.9 million. 
+   On October 23, 2020, the Company entered into the 2020 Distribution Agreement with Canaccord Genuity LLC (“Canaccord”), pursuant to which the Company issued and sold the ATM Shares, depending on market demand, with Canaccord acting as an agent for sales. The Company had no obligation to sell any of the ATM Shares and it could instruct Canaccord not to sell the ATM Shares if the sales could not be effected at or above the price the Company designated from time to time and the Company could at any time suspend sales pursuant to the 2020 Distribution Agreement.
+   During the year ended December 31, 2020, the Company issued 1,616,331 shares under the 2020 Distribution Agreement for net proceeds of approximately $3.2 million. During the year ended December 31, 2021, the Company issued 2,179,193 shares under the 2020 Distribution Agreement for net proceeds of $6.3 million. As of December 31, 2021, there were no remaining shares that may be issued and sold under the 2020 Distribution Agreement.
+ 75
+
+
+  
+13. | Stock-based Compensation
+----+-------------------------
+
+ On February 6, 2020, the Company amended the Company’s 2015 New Employee Incentive Plan (the “2015 Plan”) to increase the total number of shares of common stock reserved for issuance under the plan by 250,000 shares. Awards may only be granted under the 2015 Plan to employees who were not previously an employee or director of the Company, or following a bona fide period of non-employment, as a material inducement to entering into employment with the Company. As of December 31, 2021, there were 90,389 shares of common stock remaining and available for future issuances under the 2015 Plan. On June 16, 2020, the stockholders of the Company approved the Company’s 2020 Stock Incentive Plan (the “2020 Plan”), which replaced the Company’s 2014 Equity Incentive Plan. The 2020 Plan provides for the award or sale of shares of common stock (including restricted stock), the award of stock units and stock appreciation rights, and the grant of both incentive stock options to purchase common stock. The 2020 Plan provides for the issuance of up to 550,000 shares of common stock, and the number of shares available for issuance will be increased to the extent that awards granted under the 2020 Plan and the Company’s 2014 Equity Incentive Plan are forfeited or expire (except as otherwise provided in the 2020 Plan). On May 17, 2021, the stockholders of the Company approved an amendment and restatement to the 2020 Plan to increase the total number of shares of common stock reserved for issuance under the 2020 Plan by 1,000,000 shares. As of December 31, 2021, there were 640,212 shares of common stock remaining and available for future issuances under the 2020 Plan. Stock Options Generally, options issued under the 2020 Plan are subject to a two-year or four-year vesting schedule with 25% of the options vest on one year anniversary of the grant date, and have a contractual term of 10 years.             A summary of activity for the year ended December 31, 2021 is as follows:    
+ | Options | | | Weighted Average Exercise Price | | | Weighted Average Remaining Contractual Term (years) | Aggregate Intrinsic Value
+-------------------------------------------------+---------+-----------+---+---------------------------------+---+-------+-----------------------------------------------------+--------------------------
+Balance as of December 31, 2020 | | 531,336 | | | $ | 10.01 | | | | 
+Granted | | 680,227 | | | $ | 2.52 | | | | 
+Cancelled/forfeited | | (40,673 | ) | | $ | 16.69 | | | | 
+Balance as of December 31, 2021 | | 1,170,890 | | | $ | 5.01 | | 9.00 | $ | -
+Vested and expected to vest at December 31, 2021 | | 378,010 | | | $ | 10.37 | | 8.70 | $ | -
+Exercisable at December 31, 2021 | | 1,089,944 | | | $ | 5.16 | | 9.00 | $ | -
+
+   The Company settles exercises of stock options with newly issued shares of its common stock.  There were no stock options exercised in 2021 or 2020.  The fair value of each option awarded during the years ended December 31, 2021 and 2020 was estimated on the date of grant using the Black-Scholes-Merton option valuation model based on the following weighted-average assumptions:    
+ | December 31, 2021 | | | December 31, 2020 | 
+------------------------+-------------------+---------+---+-------------------+----------
+Expected term | | 6 years | | | 5.8 years | 
+Risk-free interest rate | | 1.00 | % | | | 0.58 | %
+Expected volatility | | 127.0 | % | | | 128.6 | %
+Dividends | | 0 | % | | | 0 | %
+Resulting fair value | $ | 2.23 | | | $ | 1.87 | 
+
+   The weighted average risk-free interest rate represents the interest rate for treasury constant maturity instruments published by the Federal Reserve Board. If the term of available treasury constant maturity instruments is not equal to the expected term of an employee option, we use the weighted average of the two Federal Reserve securities closest to the expected term of the employee option. The dividend yield has been assumed to be zero as the Company (a) has never declared or paid any dividends and (b) does not currently anticipate paying any cash dividends on its outstanding shares of common stock in the foreseeable future. The following table summarizes share-based compensation recognized during the years ended December 31, 2021 and 2020 in the statement of operations and comprehensive loss: 
+ 76
+
+
+    
+ | Years ended December 31, | 
+-------------------------------+--------------------------+----
+ | 2021 | | 2020 | 
+Research and development | $ | 75 | | $ | 32 
+General and administrative | | 531 | | | 215
+Total share-based compensation | $ | 606 | | $ | 247
+
+   As of December 31, 2021, the total compensation cost related to non-vested stock options and stock awards not yet recognized for all our plans is approximately $1.5 million, which is expected to be recognized as a result of vesting under service conditions over a weighted average period of 2.9 years.
+ 14. COVID-19 Pandemic and CARES Act    A novel strain of coronavirus (COVID-19) was declared a global pandemic by the World Health Organization in March 2020.  COVID-19 has presented substantial public health and economic challenges and is affecting economies, financial markets and business operations around the world. International and U.S. governmental authorities in impacted regions have taken action in an effort to slow the spread of COVID-19, including issuing varying forms of “stay-at-home” orders, and restricting business functions outside of one’s home. In response, the Company put restrictions on employee travel and working from its executive offices with many employees continuing their work remotely.  While the Company has implemented additional health and safety precautions and protocols in response to the pandemic and government guidelines, the Company has not experienced a significant impact on its business and operations.  However, the Company may experience disruptions that could adversely impact its business operations as well as its preclinical studies and clinical trials. The Company is currently continuing the clinical trials it has underway in sites across the U.S., and, although there has been no significant impact to date, the Company expects that COVID-19 precautions may directly or indirectly impact the timeline for some of its clinical trials.  Some of the Company’s clinical trial sites, including those located in areas severely impacted by the pandemic, have placed new patient enrollment into clinical trials on hold.  In addition, some clinical trial sites have imposed limited accessibility to conduct clinical monitoring and training on-site. The Company considered the impacts of COVID-19 on the assumptions and estimates used to prepare its consolidated financial statements and determined that there were no material adverse impacts on the Company’s results of operations and financial position at December 31, 2021. The full extent to which the COVID-19 pandemic will directly or indirectly impact its business, results of operations and financial condition, will depend on future developments that are highly uncertain, including as a result of new information that may emerge concerning COVID-19 and the actions taken to contain or treat it, as well as the economic impact on local, regional, national and international markets.     In response to the COVID-19 pandemic, the CARES Act was signed into law on March 27, 2020.  The CARES Act, among other things, includes tax provisions relating to refundable payroll tax credits, deferment of employer’s social security payments, net operating loss utilization and carryback periods, modifications to the net interest deduction limitations and technical corrections to tax depreciation methods for qualified improvement property (QIP).  The CARES Act had no material impact on the Company’s income tax provision for the year ended December 31, 2021.  The Company continues to evaluate the impact of the CARES Act on its financial position, results of operations and cash flows. 
+           15. Subsequent Events    From January 1, 2022 through the date of filing of this Form 10-K, the Company issued approximately 5,665,000 shares of its common stock for net proceeds of $7.0 million under the 2020 Purchase Agreement.  In addition, the Company issued 1,000,000 shares under the 2022 Distribution Agreement for net proceeds of approximately $0.9 million. 
+ 
+
+77
+
+
+

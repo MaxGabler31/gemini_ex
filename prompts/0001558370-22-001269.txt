@@ -1,0 +1,722 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1.    Business
+Overview
+Grand Canyon Education, Inc., a Delaware corporation (“GCE”) is a publicly traded education services company dedicated to serving colleges and universities. GCE has developed significant technological solutions, infrastructure and operational processes to provide services to these institutions on a large scale. GCE’s most significant university partner is Grand Canyon University (“GCU”), an Arizona non-profit corporation that operates a comprehensive regionally accredited university that offers graduate and undergraduate degree programs, emphases and certificates across nine colleges both online and on ground at its campus in Phoenix, Arizona. As of December 31, 2021, GCE provided education services and support to more than 108,100 students enrolled in GCU’s programs, emphases and certificates.
+In January 2019, GCE began providing education services to numerous university partners across the United States through our wholly owned subsidiary, Orbis Education Services LLC (“Orbis Education”), which we acquired on January 22, 2019 (the “Acquisition”). See Note 3 – Acquisition to consolidated financial statements for a full description of the Acquisition. Since the Acquisition, GCE, together with Orbis Education, has continued to add additional university partners. In the healthcare field, we work in partnership with a growing number of top universities and healthcare networks across the country, offering healthcare-related academic programs at off-campus classroom and laboratory sites located near healthcare providers and developing high-quality, career-ready graduates who enter the workforce ready to meet the demands of the healthcare industry. In addition, we have begun providing certain services to a university partner to assist them in expanding their online graduate programs. As of December 31, 2021, GCE provided education services to 27 university partners across the United States.
+We plan to continue to add additional university partners and to roll out additional programs with both our existing partners and with new partners. We may engage with both new and existing university partners to offer healthcare programs, online only or hybrid programs, or as is the case for our most significant partner, GCU, both healthcare and other programs. In addition, we have centralized a number of services that historically were provided separately to university partners of Orbis Education; therefore, we refer to all university partners as “GCE partners” or “our partners”. We do disclose significant information for GCU, such as enrollments, due to its size in comparison to our other university partners.
+Our Business 
+GCE is an education services company with 27 university partners as of December 31, 2021. We have invested over $265 million in the last 13 years to develop systems that automate key processes and enable us to scale these processes to hundreds of thousands of students. GCE is capable of supporting not just core academic functions, technology and marketing but many additional key processes that surround those functions, such as faculty recruiting and training, admissions, financial aid, accounting, and technical support. We provide these services to our university partners pursuant to master services agreements that define the scope of our engagement, the types of services provided and other key terms of the engagement.
+Suite of Services
+The following describes the various services that we are capable of providing to university partners. Services actually provided to a given university partner depend upon the nature of programs supported by GCE, existing university infrastructure, and university partner preferences.
+Technology and Academic Services
+We provide technology and academic services that relate to the ongoing maintenance of our university partners’ educational infrastructure, including online course delivery and management, student records, assessment, customer 
+
+5
+
+
+
+relations management and other internal administrative systems. These services also include curriculum conversion, support for content development, support for faculty and related training and development, technical support, rent and occupancy costs for university partners’ simulation and skills labs, and assistance with state regulatory compliance. We have established secure, reliable and scalable technology systems that provide a high-quality educational environment and that give us the capability to grow our university partners’ programs and enrollment.
+Technology Services may include the following:
+
+● | Learning Management System (“LMS”) - GCE designed and offers to its university partners a new LMS, called Halo. GCU started utilizing Halo in the Fall of 2021 and is continuing to transition its students to the new LMS from the prior LMS, LoudCloud, with a goal to complete transition by the Fall of 2022. The basic functionality includes an interactive course syllabus, discussion questions and forums, instruction interaction, class quizzes, group assignments, written assignment submission and rubrics, grading, participation, attendance and integration with our student information system. The functions in Halo have been reimagined to work more intuitively with new user interface design and more seamless ways of accomplishing the same tasks. Halo was designed as a “cloud native” application taking advantage of all the performance and reliability features of the cloud. Halo supports small classes that are instructor led, highly interactive and collaborative. Rich content that originates from a myriad of sources, including direct advisement from industry, is coupled with a robust discussion environment. Students most often respond to the content and discussion through written work. The writing assignments are designed to promote critical thinking which is often connected to solving real world problems. This platform can easily and reliably scale as student populations increase. The platform provides in-depth analytics that allow us to closely monitor student success and the quality of instructional resources. GCE also designed its previous learning management system, LoudCloud which GCU used since 2011. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Internal administration - We utilize a commercial customer relations management development platform to distribute, manage, track, and report on all interactions with prospective student leads as well as all active and inactive students. This software is scalable to capacity levels well in excess of current requirements. We also utilize a commercial software package to track Title IV funds, student records, grades, accounts receivable, accounts payable and general ledger. We have done significant internal software development around these systems to increase the productivity of our employees and provide students an exceptional educational experience. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Infrastructure - We operate two data centers, one at GCU’s campus and one at another Phoenix-area location. All of our servers are networked, and we have redundant data backup. We manage our technology environment internally. Our wide area network is fully redundant to ensure maximum uptime, bandwidth capacity and network performance. Student access is load balanced for optimal performance. Real-time monitoring provides current system status across network, server, and storage components. We provide cybersecurity services, support and incident response for all infrastructure and software that we utilize.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Support - We provide 18/7 technical support for students and faculty. There are two systems utilized by GCE to provide these services.
+--+---------------------------------------------------------------------------------------------------------------------------------------
+
+​
+Academic Services may include the following:
+
+● | Program and Curriculum – GCE has a curriculum content department that provides design and conversion services to our university partners. In collaboration with our university partners, we assist with the program and course design by providing curricular assistance and recommendations with respect to content and techniques that make use of the available technologies and methods embodied in the learning management system. GCE developed a proprietary system to support these services. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Faculty and Related Training and Development – GCE provides faculty support including recruitment, training and oversight services to its university partners. Under the direction of our university partners and their academic leadership, we recruit and screen candidates, and schedule faculty based on university partner-created requirements. We evaluate all faculty according to university partner standards and provide evaluation results, if requested. Many of the health sciences 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+6
+
+
+
+
+specific faculty development resources are accredited by the International Association for Continuing Education and Training (“IACET”) and the American Nurses Credentialing Center (“ANCC”) allowing faculty to earn continuing education credits.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Class Scheduling – GCE has a class scheduling department and has developed a proprietary system to provide these services to our university partners. Our scheduling software provides students the ability to set their class schedule and flexibility to make changes and create opportunities to complete courses in a myriad of online or onsite options. We optimize class size prior to course starts based on university partner standards, in order to maximize class resources and faculty utilization.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Skills and Simulation Lab Sites – GCE secures, develops and finances off-campus classroom and laboratory sites for use in various programs offered by our university partners, including the accelerated Bachelor of Science in Nursing (ABSN). Off-campus classroom and laboratory sites are branded for specific university partners and all classrooms, faculty, counselors, staff and specialized equipment are centralized and made accessible to every university partner student. The laboratories contain the latest in skills and simulation learning technology; including computer-based scenarios, hands-on work with physical simulators and internally developed Mixed Reality (“MR”) with state-of-the-art technology, which help students gain unique experiences in an alternative clinical setting. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Counseling Services and Support
+We provide counseling services and support including one-on-one admissions, schedule and financial counseling and other support for prospective and current students of our university partners. We offer financial aid processing as well.
+Counseling Services and Support may include the following:
+
+● | Admissions Services – GCE provides prospective students with transparent information on program requirements, finance options, degree time to completion and net price calculator results in alignment with university partners’ standards. GCE has developed a robust proprietary system to efficiently evaluate transcripts and build schedules for prospective students. GCE processes applications in alignment with university partners’ admission standards and provides reports on those students selected for admission.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Financial Aid – GCE provides financial aid services, including awarding, certifying, originating and disbursing Title IV program funds to students. We deliver Title IV program credit balance refunds to students, process return of Title IV program funds to the federal government when appropriate and provide financial aid counseling and entrance and exit loan counseling to students. Additionally, we prepare required reports, including but not limited to enrollment reporting to the National Student Loan Data system and the Integrated Postsecondary Education Data System. Additionally, GCE has built a proprietary system called the Financial Transparent Degree Plan Calculator, which provides students the cost of their entire program. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Counseling Services – GCE provides proactive services to our university partners’ students throughout their matriculation such as schedule building, and financial aid counseling. We provide students an assigned advisor who proactively works with students throughout their matriculation process. We assist students with program changes and communicate with those students throughout their program to help with retention. We provide students with the ability to access a variety of administrative services both telephonically and via the Internet. For example, students can apply for financial aid, pay their tuition, order their transcripts, and apply for graduation online. We believe this online accessibility provides the convenience and self-service capabilities that students value. GCE assesses levels of satisfaction using student surveys. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Field Experience Counseling – For university partner students pursuing programs that lead to external credentials (e.g., teaching, nursing, counseling, theology, etc.), GCE leverages a growing nationwide network of approved healthcare facilities, schools, preceptors, and supervisors to ensure that all students are able to meet program-specific requirements. Each student is assigned a counselor before or during their first course, and several prescribed appointments with their counselor are scheduled throughout the student’s program to ensure that all state-specific progression 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+7
+
+
+
+
+requirements are met well in advance of deadlines. GCE assists in gathering all required documentation, verifying it as official, and storing it as part of the student’s record. 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Marketing and Communication
+We provide marketing and communication services that include lead acquisition, digital communication strategies, brand identity advertising, media planning and strategy, video, data science and analysis, marketing to potential students and other promotional and communication services.
+GCE’s marketing leadership team approaches the marketplace with an outlook that applies the latest advancements in integrated marketing strategy and new and emerging technologies while leveraging GCE’s buying power. This methodology embraces proven traditional and online solutions that are developed in conjunction with our university partners. 
+Marketing and Communication services may include the following:
+
+● | Lead Acquisition – GCE’s marketing team employs experts across a wide breadth of digital marketing channels. These include Search Engine Optimization, Search Engine Marketing, Social Media Optimization, organic content and strategic acquisition funnels across a variety of mobile markets.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Digital Communications Strategy – GCE’s subject matter experts utilize best-in-class technologies through marketing automation, integrated email, SMS text messaging and social media. GCE develops effective communication strategies that encompass the entire student lifecycle from prospect through alumni.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Brand Identity – GCE’s award-winning team of specialists have proven track records of developing strong brands and ensuring the right image is exposed to the consumer. GCE specializes in storytelling shaped by logo creation, positioning taglines, campaign and content development, custom music, and sonic branding.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Media Planning and Strategy –GCE offers full-service media planning and strategies that are built to grow sophisticated brands through traditional and digital media platforms. GCE understands today’s culture and how content is consumed in the everchanging world of media. GCE creates robust strategies that build long lasting connections with proven results.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Video – GCE’s team of in-house video experts specialize in high-quality content expanding across a wide variety of marketing channels. Capabilities include broadcast-quality commercials, explainer videos, mini- and full-length documentaries, original programming, animations, motion graphics, and short, stackable video content for a variety of social media channels. GCE enhances its internal team with preferred partners to help offset workload and provide scalability of production requirements.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Business Intelligence and Data Science – GCE employs a team of in-house data analysis professionals who apply descriptive and prescriptive analytics to help understand the marketplace and facilitate important business decisions. GCE specializes in all aspects of data analytics and science, including predictive modeling, data mining and visualization to enrich today’s technology and data-driven marketplace, while providing the information required for success.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Market Research – GCE’s market research professionals survey market, population and job data for various locations across the country in order to make data-driven recommendations for new sites, partnerships, and educational offerings that will maximize reach and impact and provide education and career training to the areas where it will be most impactful.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+8
+
+
+
+Back-Office Services
+In addition, we currently provide certain requested back-office services to GCU that include finance, human resources, audit, and other corporate functions.
+
+● | Finance and accounting - Finance and accounting services include administration of payroll, accounts payable, general ledger, student accounting, financial reporting, budgeting and taxes at the direction of GCU.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Human Resources - Human resources services include administration of performance management, personnel policies, recruitment and onboarding of new personnel, and benefit plan design and procurement, among others.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Audit - Audit services include development and administration of a GCU approved annual internal audit plan and execution of the audit plan for the service period.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Procurement - Procurement services include management of purchasing and vendor relationships, including travel services, review of vendor contracts, and maintenance of contracts in the procurement system.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Social Responsibility and Human Capital Development
+Social responsibility and human capital development are significant focuses of the Company. Our efforts are led by our Chief Executive Officer and a portion of his compensation is tied to our success in these areas. To this end, our business was created and continues to evolve to meet the needs of the local community in which we operate as well as those outside our community. We started by identifying what we believe to be the educational challenges that our country is facing and then worked to find solutions to these challenges. We believe these challenges include: 
+
+● | University education is too expensive;
+--+---------------------------------------
+
+
+● | Students are taking on too much debt;
+--+--------------------------------------
+
+
+● | Bachelor degrees are taking too long to complete;
+--+--------------------------------------------------
+
+
+● | Programs are not targeted enough toward careers. Recent surveys show that a large percentage of college students would change majors if starting over, and a significant number of recent graduates are under employed or are in jobs that don’t required degrees; 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | As tuition increases, diversity decreases;
+--+-------------------------------------------
+
+
+● | Universities have inadequate counseling and support services, especially for distanced learners;
+--+-------------------------------------------------------------------------------------------------
+
+
+● | Most university professors have no formal training in teaching, learning or course design;
+--+-------------------------------------------------------------------------------------------
+
+
+● | Universities are under significant financial pressure, which has only been enhanced during 2020 and 2021 due to the pandemic and a declining number of high school graduates attending college.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+We provide the capital, technology and expertise to our university partners to lessen the challenges in each of the areas listed above (see Item 1. Business – Suite of Services). We work with these university partners to develop hybrid educational models that allow them the ability to decrease tuition or increase scholarships to their students which will often lower the debt their students incur. We work with our university partners and thousands of high schools across the country on dual credit, online prerequisite courses and other programs that shorten the time to completion thereby lowering cost and debt levels. We focus with our university partners and their local communities to develop programs where there are skills shortages such as health care, teacher education, science, technology, engineering and math. GCE provides expanded academic counseling services and support to the students of our university partners which has proven to increase retention and completion. Our faculty services and curriculum development teams assist not only our university partners but other universities and K12 schools in improving their online education pedagogy. And our business model has helped our university partners as changes in the educational landscape and the pandemic has put pressure on their financial condition.
+​
+
+9
+
+
+
+Community Involvement by GCE and its Employees. Examples of activities in which we and our employees participate include:
+
+● | Improving Our Neighborhood and Increased Home Values - Together with Habitat for Humanity and in concert with our largest university partner, we are participating in the largest home renovation project in the country in the West Phoenix area surrounding GCU’s campus. As of December 31, 2021, 392 homes have been completed in which 27,900 hours have been logged by volunteers. These efforts, combined with GCE and GCU’s expanded presence in the community, have contributed to a significant increase in home values of 527% since 2011 in the 85017 zip code.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Furthering Job Creation - We, along with GCU have launched a number of new business enterprises that have reduced costs, provided management opportunities for recent graduates and employment opportunities for students and neighborhood residents, while spurring economic growth in the area.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Special Olympics - We participate in the annual Plane Pull Challenge, which benefits Special Olympics Indiana (SOIN) athletes. The “Orbeasts” go head-to-head in a tug of war with a Boeing FedEx 757 jetliner in SOIN’s largest single-day fundraiser. This event offers a unique opportunity for organizations to team build and work together to raise important funds for SOIN athletes. The vision of Special Olympics Indiana is that sport will open hearts and minds towards people with intellectual disabilities and create inclusive communities across the state and throughout the world.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | Youth Opportunity Foundation - Our employees volunteer and donate time and funds to the Youth Opportunity Foundation which provides advocacy, clinical treatment, education and workforce development for at-risk young people in underprivileged areas.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | Covid-19 Response: Our employees and the students of our university partners volunteered at COVID Point of Distribution sites (“POD”), including the GCU POD, which was being jointly operated by GCU and GCE at no cost to the state of Arizona, and other PODs including those run by our hospital partners. The students of our university partners assisted the clinical staff at the PODs in clinical positions including vaccine dilution, vaccine administration and patient observation or in non-clinical positions such as checking in vaccine recipients, documenting vaccinations, traffic flow and sitting with recipients after administration. Our employees also performed these non-clinical roles. These volunteers, especially the students of our university partners, allowed other direct caregivers to be reassigned from vaccine administration back to the bedside to care for the influx of COVID patients. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+GCE also invests in the following activities that benefit the community.
+
+● | Funding of Student Tuition Organizations - GCE contributes to private school tuition organizations, which are entities that allocate financial contributions toward tuition assistance and scholarships for disadvantaged students to attend Arizona private schools. In each of 2021 and 2020, we contributed $5.0 million to these organizations. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Encouraging Employee Giving - We participate in Donate to Elevate, a program that encourages employees to participate in the Arizona individual tax credit program, which allows individual taxpayers to contribute money in lieu of state income tax payments to benefit private schools and other non-profit entities in Arizona, as well as local public schools and public charter schools. Employees are encouraged to designate tax dollars to the school or program of their choice.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Students Inspiring Students - GCE continues to support GCU’s free tutoring/mentoring program that serves Phoenix-area K-12 schools. Students who seek academic assistance in the GCU Learning Lounge may become eligible to receive the Students Inspiring Students full-tuition scholarship. To serve our clients and community, we seek donations to fund this neighborhood scholarship program.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+10
+
+
+
+
+● | Sponsoring K-12 Educational Development - GCE supports GCU’s K-12 Educational Development Department through sponsorship of GCU’s Canyon Professional Development and K-12 Targeted School Assistance programs. Canyon Professional Development offers professional development opportunities for educators and administrators, and their student/parent engagement programs aim to help students become college ready. K-12 Targeted School Assistance programs also offer tutoring and mentorship and more to community schools to improve learning environments and outcomes. Both initiatives elevate public, private, charter and home schools in the form of scholarships, program discounts, professional development, events, and more.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Continuing Community Involvement - GCE and our employees partner in countless other community events and projects throughout the year. We offer our full-time employees a maximum of 16 hours of PTO annually for community service. This time is used to volunteer at an approved charitable organization. Over 40 organizations are approved for employee volunteerism, including Habitat for Humanity. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+In addition, GCE has historically partnered in countless community events and projects throughout the year, helping organizations such as the Phoenix Rescue Mission, Feed My Starving Children, Arizona Foster Care, Boy/Girl Scouts, Goodwill Arizona, St. Vincent de Paul, Young Life, Elevate Phoenix, Back to School Clothing Drive and St. Mary’s Food Bank. Our employees also went out into our surrounding neighborhoods to participate in programs such as Serve the City, Canyon Kids, Salute Our Troops, Colter Commons senior home visits and the Run to Fight Children’s Cancer.
+We believe that we must have the best talent, including employees who possess a diverse range of experiences, backgrounds and skills, in order to anticipate and meet the needs of our business and those of our university partners. Over time, we have hired, developed and retained a diverse management and workforce that reflects our surrounding community and that is a key component in GCE’s success and an important part of our culture. We provide employees with training, development, and educational resources that promote learning and lead to real career advancement opportunities. We believe that our success in attracting, retaining, and developing human capital is directly correlated to our ability to provide employees both an interesting and engaging work experience as well as opportunities for meaningful involvement in the surrounding community. Our employees take advantage of these opportunities and share our commitment to and enthusiasm for community service projects, as well as charitable organizations throughout the Phoenix area. Through these activities, our employees have the opportunity to volunteer and provide servant leadership that benefits the surrounding neighborhoods and West Phoenix community.
+Our Commitment to Diversity. A growing body of evidence suggests that diverse teams improve financial outcomes and support innovation, resiliency, and productivity. GCE’s commitment to fostering diversity in its community is evident in the following:
+
+● | Our Diversity Statement - Grand Canyon Education is a faith-friendly shared services provider that embraces a world-view which outlines a responsibility to both charity and stewardship which simply stated is, ‘to love others as yourself’. We are a community of people who value the pursuit of truth and find great understanding in the convergence of differing viewpoints, backgrounds and ideas. We welcome employees from all walks of life which has contributed to a growing diversity within our population. Our diversity encompasses a multitude of dimensions, including age, disability, national origin, race, color, religion, gender, veteran status and more. Our Christian perspective compels us to treat every individual equally with respect and compassion. All community members deserve a comfortable space to express their feelings, so that every voice is heard. All members of the Company will be welcomed, valued, and provided safety in this community. Finally, diversity not only enriches the workplace and the educational endeavors of our partners, it is critical to it. Maintaining a diverse environment requires a measure of tolerance and understanding commensurate with the dignity and value of all human life. In sum, GCE values diversity because it values every employee and university partners’ students entrusted to its care. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our Diverse Leadership - Our ability to attract and retain diverse talent is reflected at both the Board and management levels. Three of our six directors are women and two directors identify with an underrepresented diverse ethnicity. In addition, for all of our employees at the level of manager and above 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+11
+
+
+
+
+totaling 556 persons, 67.6% are held by women and other diverse persons, collectively, an increase of 2.6% over 2020.
+---------------------------------------------------------------------------------------------------------------------
+
+
+● | Our Diverse Workforce - As of December 31, 2021, for all of our employees totaling 4,955, 78.3% are women and other diverse persons, collectively, an increase of 2.9% over 2020. As of December 31, 2021, GCE employed approximately 3,675 professional and administrative personnel, including technical and academic advisors, counseling advisors, marketing and communication professionals, and personnel that handle financial aid processing, information technology, human resources, corporate accounting, finance, and other administrative functions. In addition, at December 31, 2021, GCE employed approximately 1,275 part-time employees most of whom are student workers. None of our employees are a party to any collective bargaining or similar agreement with us. We consider our relations with our employees to be strong. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our Hiring Practices and Policies - GCE ensures company diversity through hiring policies and practices that support diversity such as the Equal Employment Opportunity Policy, Nondiscrimination and Anti-Harassment Policy and Complaint Procedure, and the Disability Accommodation Policy. We post all open positions to a variety of diversity-related job boards to ensure we attract diverse candidates. We also collect and analyze employee demographic data to identify current trends and areas of opportunity in regard to our diversity efforts. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Diversity Training - We provide employees and management with regular diversity training. New hires all complete anti-discrimination and harassment training within 3 months of starting at GCE. Thereafter, all employees complete the training every other year, while management undertakes it annually. We have also provided Implicit Bias Training to all employees. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Employee Learning and Development (ELD) Services. We provide learning and development support to our employees through numerous ELD initiatives. Onboarding Programs provide new employees a foundation from which one can progress in his or her career at GCE. Leadership Development, Team Development, Advanced Skills, and Self-Development Programs help employees improve their skills, assist management in identifying potential talent for leadership roles, and support those employees already in leadership roles.  Finally, our Compliance Curriculum ensures that employee stays current with regulatory and other compliance requirements. These programs and curricula are offered virtually as both synchronous and self-paced. 
+​
+Employee Tuition Benefit – GCE promotes the concept of lifelong learning and supports this concept by offering its employees a generous Tuition Benefit program through its university partner, GCU. After 3 months of continuous service, fulltime employees admitted to GCU receive a 100% tuition reduction on undergraduate and graduate programs Additionally, the tuition benefit is available for an eligible employee’s spouse or up to two children with no more than two participants receiving the benefits at any one time. An eligible employee’s spouse or child admitted to GCU receives a 100% tuition reduction on undergraduate programs and a 50% tuition reduction on graduate programs.
+Working to Mitigate COVID-19. During 2020 and 2021, GCE has taken numerous steps to protect our employees and mitigate the spread of the virus, including implementation of remote work arrangements, restrictions on employee travel, and guidance to those employees experiencing symptoms. We are continuing to communicate with government and health officials, and to adapt our efforts and responses as needed.
+Environmental Awareness
+Online education is inherently more environmentally friendly than traditional campus education with a reduction in greenhouse gas (“GHG”) production caused by traveling to and from a brick-and-mortar campus. It also increases student capacity while eliminating the need for construction of a physical campus. A majority of our university partners’ students are enrolled in hybrid or online educational models. In addition, a significant number of our university partners’ students utilize an ebook format versus paper textbooks.
+
+12
+
+
+
+GCE owns a four-story 325,000 square foot administrative building, which includes office space for approximately 2,700 employees, and a parking garage at our headquarters in Phoenix, Arizona. We constructed these facilities in 2016 and, as with every one of our projects over the past 12 years, we designed them to maximize energy efficiency and minimize electricity usage and environmental impact, which ultimately lowers our operating costs. Our headquarters building includes the following design features:
+
+● | North/South Building Orientation - GCE’s office building is orientated with north/south exposure in order to minimize direct sun and thereby reduce power usage. Exterior courtyards were arranged to ensure summer shade thus creating outdoor areas that can be used by our employees throughout the year. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Use of Window Glazing - Our building utilizes significant window glazing to allow for daylighting thus reducing the need for supplemental electrical lighting. As a result, the building is designed to use just .41 watts per square foot of electrical energy for lighting, which is half of what a typical environmentally efficient building uses. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Reducing Water Consumption - Water usage is another environmental factor for office space that is magnified by the Arizona weather. GCE’s office building utilizes numerous water conservation methods including push-tap faucets, waterless urinals, and a rooftop rainwater collection system for irrigating the landscaping below, which significantly reduces our water consumption. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Other Design Features - Additional environment-friendly design features include low VOC paints, use of recycled building materials, interior and exterior LED light bulbs, motion sensor lighting and implementation of an energy-efficient VRF mechanical system.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+In addition to our efficient facilities, we have undertaken other measures to minimize our environmental impact, including, among others:
+
+● | implementing a Trip Reduction Program, which provides incentives to employees who participate in carpooling or take public transportation to work;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | providing a telecommute option for a significant number of positions; and
+--+--------------------------------------------------------------------------
+
+
+● | participating in a recycling program aimed at minimizing the volume of waste products generated by GCE.
+--+--------------------------------------------------------------------------------------------------------
+
+Due to our significant investment in infrastructure, since March 2020, when the World Health Organization declared the COVID-19 a global pandemic, approximately 90% of our diverse workforce is continuing to work remotely and is expected to continue doing so for the foreseeable future. This has not only allowed our employees to remain physically safe but has also resulted in savings in the areas of waste, janitorial costs, and travel costs related to business travel and commuting. 
+Our off-campus classroom and laboratory sites are all designed with the same efficient footprint in the 31 sites opened as of December 31, 2021. 
+Climate Disclosures
+We do not operate in a high-risk industry for climate risks. We believe that we have low climate risk with respect to our physical environment (e.g., fires, drought, hailstorms, increasing weather pattern changes). Approximately 90% of our workforce is continuing to work remotely for the foreseeable future. We have insurance policies in place to cover any damage for our property, plant and equipment.
+
+13
+
+
+
+We are evaluating emissions reduction requirements with key suppliers for costs such as information security systems, communication and marketing costs, travel costs, and continued expansion of our off-campus classroom and laboratory sites. We currently do not have any regulatory emissions reporting obligations.
+We do not have significant risk from a transition to a low-carbon economy, which could result in changing customer behavior. Our customers are university partners located in the United States.
+Corporate Governance
+We believe that effective corporate governance is critical to our ability to create long term value for our stockholders. The following highlights certain key aspects of our corporate governance framework:
+
+● | We Have an Independent and Diverse Board - Five of our six directors are independent. Three of our six directors are diverse persons, and two of our directors identify with an under-represented diverse ethnicity. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We Have Majority Voting for Directors - We have adopted majority voting for directors pursuant to which nominees who fail to achieve an affirmative majority of votes cast must submit their resignation.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We Hold Annual Elections for Directors - We do not have a staggered board.
+--+---------------------------------------------------------------------------
+
+
+● | We Assess Board Performance - We conduct regular evaluations of our Board and Committees.
+--+------------------------------------------------------------------------------------------
+
+
+● | Our Independent Directors Meet Without Management - Our independent directors meet regularly in executive sessions without management present.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We Have a Stock Ownership Policy - We require both our named executive officers and our directors to maintain a meaningful ownership stake at levels specified in our stock ownership policy.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our Key Committees are Independent - We have fully independent Audit, Compensation and Nominating and Corporate Governance Committees.
+--+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We Do Not Have a “Poison Pill” - We do not maintain a stockholder rights plan.
+--+-------------------------------------------------------------------------------
+
+Cybersecurity Controls
+
+● | Our Audit Committee is tasked with oversight of the cybersecurity controls in place at the Company.
+--+----------------------------------------------------------------------------------------------------
+
+
+● | The Company employs a dedicated Chief Information Security Officer (“CISO”), with an experienced and competent security team, and works closely with the Chief Risk Officer to provide risk reporting and ensure security and compliance. The Company regularly engages third party experts to perform cybersecurity assessments. These assessments are normally performed on an annual basis. Reports are sent to the Audit Committee monthly, and Security, Risk and Compliance updates are provided quarterly. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The Company has implemented policies and procedures for all employees including:
+--+---------------------------------------------------------------------------------
+
+
+o | Information security/cybersecurity policies, which are internally available for all employees;
+--+-----------------------------------------------------------------------------------------------
+
+
+o | Information security/cybersecurity awareness training;
+--+-------------------------------------------------------
+
+
+o | A clear escalation process which employees can follow in the event an employee notices something suspicious; and
+--+-----------------------------------------------------------------------------------------------------------------
+
+14
+
+
+
+
+o | Information security/cybersecurity is part of the employee performance evaluations and/or disciplinary actions.
+--+----------------------------------------------------------------------------------------------------------------
+
+
+● | The Company maintains a cyber insurance policy. The Company has not had a security breach and has not incurred any expenses for a security breach in the past three years. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Seasonality
+Our service revenue normally fluctuates due to changes in our university partners’ enrollment which tends to be higher in the Spring and Fall periods and lower in the Summer. Our expenses do not normally fluctuate significantly during the year which results in fluctuations in operating income between quarters. See “Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations – Seasonality.” 
+Competition
+There are dozens of companies that seek to partner with non-profit schools and state universities to assist in the development and operation of their educational programs. These companies provide various services that traditional institutions historically have not had the experience or organizational capability to fully support. These services include marketing and recruitment, enrollment management, curriculum development, online course design, student retention support, technology infrastructure, and student and faculty call center support. Among the largest companies in this sector are Pearson Online Learning Services, Wiley Education Services, and 2U.
+The education services market, particularly with regard to those companies that help traditional universities develop new degree programs often delivered online, has historically been characterized by a full-service, revenue-sharing model, based on the premise that most traditional institutions are not only operationally unprepared to offer these programs at scale but also are not equipped to make the significant upfront investments necessary to develop these programs organically. In recent years, an alternative unbundled fee-for-service model has emerged, in which the companies offer the same services, or some subset of services, for the market price of those services. Finally, other industry providers affiliate with university partners to offer massive open online courses, which are aimed at unlimited participation and open access via the web at little or no cost to the student.
+The education services market is changing and expanding. It is highly fragmented and subject to evolving technology, shifting needs of students and educators and introductions of new delivery modalities. We believe that the competitive factors in the education services market include:
+
+● | reputation and brand awareness;
+--+--------------------------------
+
+
+● | quality of university partner base and performance track record;
+--+-----------------------------------------------------------------
+
+
+● | the effectiveness of marketing and sales efforts;
+--+--------------------------------------------------
+
+
+● | robustness and evolution of technology solutions;
+--+--------------------------------------------------
+
+
+● | breadth and depth of services offerings;
+--+-----------------------------------------
+
+
+● | convenient, flexible and dependable access to programs and classes;
+--+--------------------------------------------------------------------
+
+
+● | level of student support services;
+--+-----------------------------------
+
+
+● | quality of student and faculty experience;
+--+-------------------------------------------
+
+
+● | cost of programs; and
+--+----------------------
+
+
+● | the time necessary to earn a degree.
+--+-------------------------------------
+
+​
+Proprietary Rights
+We have developed and own, or are licensed to use, intellectual property that is or will be the subject of copyright, trademark, service mark, patent, trade secret, or other protections. This intellectual property includes but is not limited to technology, courseware materials and business know-how and internal processes and procedures developed to respond to the requirements of operating a post-secondary educational institution with a significant online campus and to comply with the rules and regulations of various education regulatory agencies. We rely on a combination 
+
+15
+
+
+
+of copyrights, trademarks, service marks, trade secrets, domain names, and agreements to protect our intellectual property. We protect our intellectual property by signing agreements with employees, independent contractors, consultants, companies, and any other third party that creates intellectual property for us that assign any intellectual property rights to us. In addition, we seek to maintain the confidentiality of our proprietary information through the use of confidentiality agreements with employees, independent contractors, consultants and companies with which we conduct business. While our intellectual property rights are important to us, we do not believe that the loss of any individual property right or group of related rights would have a material adverse effect on our overall business.
+Available Information
+We were incorporated as a Delaware corporation in 2008 and completed our initial public offering in November 2008. Our principal executive offices are located at 2600 West Camelback Road, Phoenix, Arizona 85017, our telephone number is (602) 247-4400 and our Internet address is www.gce.com.
+We make available free of charge on our website our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, Forms 3, 4, and 5 filed on behalf of directors and executive officers, and all amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, as soon as reasonably practicable after such reports are electronically filed with, or furnished to, the Securities and Exchange Commission (hereafter, the SEC). In addition, our earnings conference calls are web cast live via our website. In addition to visiting our website, you may obtain any document we file with the SEC at www.sec.gov. The contents of these websites are not incorporated into this filing and our references to the URLs for these websites are intended to be inactive textual references only.
+REGULATION OF OUR EDUCATION SERVICES BUSINESS
+Institutions of higher education in America are subject to extensive regulation by state post-secondary, licensure and certification agencies, accrediting commissions, and the federal government through the United States Department of Education (“ED”) under the Higher Education Act (“HEA”). The regulations, standards, and policies of these agencies cover the vast majority of operations of colleges and universities, including educational programs, facilities, instructional and administrative staff, administrative procedures, marketing, recruiting, financial operations, athletics and financial condition.
+The HEA and the regulations promulgated thereunder are frequently revised, repealed or expanded. Congress historically has reauthorized and amended the HEA in regular intervals, approximately every five to seven years. The re-authorization process is currently under way. The re-authorization of the HEA could alter the regulatory landscape of the higher education industry, and thereby impact the manner in which we conduct business and serve our university partners. In addition, ED is independently conducting an ongoing series of rulemakings intended to assure the integrity of the Title IV programs. ED also frequently issues formal and informal guidance instructing institutions of higher education and other covered entities how to comply with various federal laws and regulations. ED guidance is subject to frequent change and may impact our business model.
+Prior to July 1, 2018, GCE, operated GCU. On July 1, 2018, GCE sold GCU to an independent, Arizona non-profit corporation (the “Transaction”). See Note 2 – The Transaction to consolidated financial statements for a full description of the Transaction. As a result of the Transaction, we no longer own and operate an institution of higher education, nor do we directly participate in Title IV programs. Instead, we operate as an education service company to institutions of higher education that do participate in Title IV programs. Nevertheless, we are required to comply with certain regulations promulgated by ED for the following reasons:
+
+● | Our operations are subject to regulation by ED due to our university partners’ participation in the federal student financial aid programs under Title IV of the HEA. Those Title IV programs include educational loans with below-market interest rates that are issued by the federal government under the Federal Direct Loan program (the “FDL Program”), as well as grant programs for students with demonstrated financial need. To participate in the Title IV programs, a school must receive and maintain authorization by the
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+16
+
+
+
+
+appropriate state agency or agencies, be accredited by an accrediting commission recognized by ED, and be certified as an eligible institution by ED.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | As a third-party servicer under the HEA and the related regulations, we also have a direct relationship with ED. ED regulates our operations insofar as we are performing certain functions classified as third-party servicer functions under relevant regulations and sub-regulatory guidance. A “Third-party servicer” is any person or entity used by “any eligible institution of higher education to administer, through either manual or automated processing, any aspect of such institution’s student assistance programs.” Third-party servicers must comply with a number of regulatory requirements. For example, they must conduct and submit to ED compliance audits under 34 C.F.R. § 668.23. In addition, they must comply with the requirements of 34 C.F.R. § 668.25, which among other things, requires third-party servicers, in their contracts with institutions, to be contractually obligated to, among other things: 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Comply with all statutory provisions of or applicable to Title IV of the HEA, including the requirement to use any funds that the servicer administers under any Title IV, HEA program and any interest or other earnings thereon solely for the purposes specified in and in accordance with that program;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Refer to the Office of Inspector General of ED for investigation any information indicating there is reasonable cause to believe that the institution might have engaged in fraud or other criminal misconduct in connection with the institution’s administration of any Title IV, HEA program or an applicant for Title IV, HEA program assistance might have engaged in fraud or other criminal misconduct in connection with his or her application; and
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Be jointly and severally liable with the institution to the Secretary for any violation by the servicer of any statutory provision of or applicable to Title IV of the HEA, any regulatory provision prescribed under that statutory authority, and any applicable special arrangement, agreement, or limitation entered into under the authority of statutes applicable to Title IV of the HEA.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+We are also subject to a number of data security and privacy regulations given our role as a third-party service provider, the compliance with which can materially impact our business model. In addition, as more fully described below, we are subject to some of the regulations imposed on our university partners by virtue of the nature of the services we provide.
+This area is evolving, however, and the scope of services covered by regulations may change.
+
+REGULATION OF OUR UNIVERSITY PARTNERS
+Our current university partners and all likely future university partners are required to be authorized by appropriate state post-secondary, licensure, and certification authorities. In addition, in order to participate in the federal student financial aid programs, our university partners will need to be accredited by an accrediting commission recognized by ED. Accreditation is a private, non-governmental process for evaluating the quality of educational institutions and their programs in areas including student performance, governance, integrity, educational quality, faculty, physical resources, administrative capability and resources, and financial stability. The HEA requires accrediting commissions recognized by ED to review and monitor many aspects of an institution’s operations and to take appropriate action if the institution fails to meet the accrediting commission’s standards.
+While we no longer own and operate an institution of higher education, nor do we directly participate in Title IV programs, regulatory matters that materially affect GCU and our other university partners will, necessarily, have a material impact on us. The following section describes regulatory matters that affect our university partners and that may affect us as an education service company to institutions of higher education generally.
+
+17
+
+
+
+State Post-Secondary Education Regulation
+Our university partners are authorized to offer education by the relevant state authorizing agencies for the state in which the client is located. For example, GCU, our most significant university partner, is authorized to offer programs by the Arizona State Board for Private Postsecondary Education, the regulatory agency governing private post-secondary educational institutions in the State of Arizona, where it is located. This authorization is very important to our university partners and, as a result, to our business. To maintain their state authorization, our university partners must continuously meet standards relating to, among other things, educational programs, facilities, instructional and administrative staff, marketing and recruitment, financial operations, addition of new locations and educational programs, and various operational and administrative procedures. Our university partners’ failure to comply with the requirements of a state regulatory agency could result in our university partners’ losing their ability to offer educational programs, which would cause our university partners to lose their eligibility to participate in the Title IV programs and could force them, and us, to cease operations. Alternatively, a state regulatory body could restrict our university partners’ ability to offer new or certain degree and non-degree programs, which may impair our ability to grow.
+State regulatory requirements for online education have historically varied among the states. To address this issue and to meet new ED requirements many schools have applied and sought to become an approved institutional participant in the State Authorization Reciprocity Agreement (“SARA”). SARA is an agreement among member states, districts and territories that establishes comparable national standards for interstate offering of post-secondary distance education courses and programs. It is intended to make it easier for students to take online courses offered by post-secondary institutions based in another state. SARA is overseen by a national council (NC-SARA) and administered by four regional education compacts. GCU has been granted membership in SARA in Arizona (AZ-SARA), which is administered by the Western Interstate Commission for Higher Education (referred to as W-SARA). There is a yearly renewal for participating in NC-SARA and AZ-SARA and institutions must agree to meet certain requirements to participate. As of December 31, 2021, all states other than California are members of SARA.
+Any state that does not participate in SARA may impose regulatory requirements on out-of-state higher education institutions operating within their boundaries, such as those having a physical facility or conducting certain academic activities within the state. GCU, for example, currently enrolls students in all 50 states and the District of Columbia. Although it is currently licensed, authorized, in-process, or exempt in all non-SARA jurisdictions in which it operates, if it fails to comply with state licensing or authorization requirements for a state, or fails to obtain licenses or authorizations when required, it could lose its state license or authorization by that state or be subject to other sanctions, including restrictions on our activities in, and fines and penalties imposed by, that state, as well as fines, penalties, and sanctions imposed by ED. The loss of licensure or authorization by a university partner in any non-SARA state could prohibit us from recruiting prospective students or offering services to current students in that state on behalf of such university partner, which could significantly affect our business.
+Individual state laws establish standards in areas such as instruction, qualifications of faculty, administrative procedures, marketing, recruiting, financial operations, and other operational matters. To the extent required with respect to an educational service category covered by our contractual relationship, we expect to assist our university partners in meeting these requirements. Some states limit schools’ ability to offer educational programs and award degrees to residents of those states. Some states also prescribe financial regulations that are different from those of ED and may require the posting of surety bonds. While we are not directly subject to those laws, those laws may inhibit our university partners from expanding or operating in those states, limiting our ability to serve our university partners, which could significantly affect our business. In addition, state laws can indirectly regulate how GCE provides its services to its university partners. For example, some states have considered new requirements that would dictate what information GCE must convey to students and prospective students and impose reporting requirements related to the nature of our services. To the extent such requirements were ultimately enacted into law, they could significantly affect our business.
+State Professional Licensure
+Many states have specific requirements that an individual must satisfy in order to be licensed as a professional in specified fields, including fields such as healthcare, education, and counseling. These requirements vary by state and 
+
+18
+
+
+
+by field. A student’s success in obtaining licensure following graduation typically depends on several factors, including the background and qualifications of the individual graduate, as well as the following factors, among others:
+
+● | whether the institution and the program were approved by the state in which the graduate seeks licensure, or by a professional association;
+--+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | whether the program from which the student graduated meets all requirements for professional licensure in that state;
+--+----------------------------------------------------------------------------------------------------------------------
+
+
+● | whether the institution and the program are accredited and, if so, by what accrediting commissions; and
+--+--------------------------------------------------------------------------------------------------------
+
+
+● | whether the institution’s degrees are recognized by other states in which a student may seek to work.
+--+------------------------------------------------------------------------------------------------------
+
+Many states also require that graduates pass a state test or examination as a prerequisite to becoming certified in certain fields, such as nursing and teaching. Many states will certify individuals if they have already been certified in another state.
+Prior to opening a new off-campus classroom and laboratory site, university partners often require approval from the applicable state board to offer its programs at that location. This can delay the site opening and timing can vary based on the state and the university partner.
+Although not directly regulated by these entities, we must be mindful of the requirements placed by state professional licensure bodies on our university partner institutions to ensure those institutions maintain that licensure.
+Accreditation
+Accreditation is a private, non-governmental process for evaluating the quality of educational institutions and their programs in areas including student performance, governance, integrity, educational quality, faculty, physical resources, administrative capability and resources, and financial stability. To be recognized by ED, accrediting commissions must adopt specific standards for their review of educational institutions, conduct peer-review evaluations of institutions, and publicly designate those institutions that meet their criteria. An accredited school is subject to periodic review by its accrediting commissions to determine whether it continues to meet the performance, integrity and quality required for accreditation.
+Our most significant university partner, GCU has been regionally accredited by the HLC and its predecessor since 1968, most recently obtaining reaccreditation in 2017 for the ten-year period through 2027. The HLC is an accrediting agency recognized by the Secretary of Education and accredits entire institutions of higher education. The HLC has historically been categorized as a regional accreditor. Institutional accreditation by a recognized accreditation agency is one of the prerequisites for an institution of higher education to be eligible to disburse Title IV aid to students. In addition, GCU holds a number of programmatic accreditations related to the conduct of specific programs of the college. Other colleges and universities depend, in part, on an institution’s accreditation (institutional, and, in some cases, programmatic) in evaluating transfers of credit and applications to graduate schools. Employers rely on the accredited status of institutions when evaluating candidates’ credentials, and students and corporate and government sponsors under tuition reimbursement programs look to accreditation for assurance that an institution maintains quality educational standards.
+University partners other than GCU may be accredited by different accrediting bodies that are likely to have standards that are different from those of the HLC. Moreover, other university partners may also hold various programmatic accreditations that set additional requirements related to specific programs. As we work with university partners in different regions we will need to work with those accrediting bodies and tailor our services to meet the requirements of those accreditors.
+Regulation of Federal Student Financial Aid Programs
+To be eligible to participate in the Title IV programs, an institution must comply with specific requirements contained in the HEA and the regulations issued thereunder by ED. An institution must, among other things, be licensed 
+
+19
+
+
+
+or authorized to offer its educational programs by the state in which it is physically located and maintain institutional accreditation by an accrediting commission recognized by ED.
+The substantial amount of federal funds disbursed to schools through the Title IV programs and the large number of students and institutions participating in these programs have caused Congress to require ED to exercise considerable regulatory oversight over educational institutions. As a result, our university partners are subject to extensive oversight and review. Because ED periodically revises its regulations and changes its interpretations of existing laws and regulations, we cannot predict with certainty how the Title IV program requirements will be applied in all circumstances to our university partners or to us directly.
+Significant regulations and other factors relating to the Title IV programs that could adversely affect us include the following:
+Congressional action. Congress must reauthorize the HEA on a periodic basis, usually every five to six years, and the most recent reauthorization through September 30, 2013, occurred in August 2008. The reauthorized HEA reauthorized all of the Title IV programs in which institutions participate but made numerous revisions to the requirements governing the Title IV programs, including provisions relating to student loan default rates and the formula for determining the maximum amount of revenue that institutions are permitted to derive from the Title IV programs. In addition, members of Congress periodically introduce legislation that would impact Title IV programs and the higher education industry generally. Because a significant percentage of our revenue is indirectly derived from the Title IV programs, any action by Congress that significantly reduces Title IV program funding or the ability of our university partners to participate in the Title IV programs could reduce the ability of some students to finance their education at our university partner institutions and materially decrease their student enrollment.
+Eligibility and certification procedures. Each institution must apply periodically to ED for continued certification to participate in the Title IV programs. Such recertification generally is required every six years, but may be required earlier, including when an institution undergoes a change in control. To the extent ED suspends, limits, modifies, conditions, or terminates any client institution’s eligibility to participate in the Title IV programs, that action is likely to have a negative impact on our business. Indeed, this could range from disallowing the institution from adding new programs or terminating the institution from Title IV eligibility.
+
+
+The Transaction resulted in a change in control of our most significant university partner, GCU, following which it began operating as a non-profit university and necessitating the application by GCU to ED for approval of the change in control and for a new program participation agreement. In November 2019, GCU received a new provisional program participation agreement, which granted GCU the ability to participate in the Title IV programs on a provisional basis through September 30, 2022. ED also informed GCU at that time, however, that GCU does not satisfy ED’s definition of a nonprofit institution and, as a result, that ED will continue to treat GCU as a proprietary institution for purposes of its continued participation in Title IV programs.
+Administrative capability. ED regulations specify extensive criteria by which an institution must establish that it has the requisite “administrative capability” to participate in the Title IV programs. To meet the administrative capability standards, an institution must, among other things:
+
+● | comply with all applicable Title IV program requirements;
+--+----------------------------------------------------------
+
+
+● | have an adequate number of qualified personnel to administer the Title IV programs;
+--+------------------------------------------------------------------------------------
+
+
+● | have acceptable standards for measuring the satisfactory academic progress of its students;
+--+--------------------------------------------------------------------------------------------
+
+
+● | not have student loan cohort default rates above specified levels;
+--+-------------------------------------------------------------------
+
+
+● | have various procedures in place for awarding, disbursing and safeguarding Title IV funds and for maintaining required records;
+--+--------------------------------------------------------------------------------------------------------------------------------
+
+
+● | administer the Title IV programs with adequate checks and balances in its system of internal controls;
+--+-------------------------------------------------------------------------------------------------------
+
+
+● | not be, and not have any principal or affiliate who is, debarred or suspended from federal contracting or engaging in activity that is cause for debarment or suspension;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | provide financial aid counseling to its students;
+--+--------------------------------------------------
+
+20
+
+
+
+
+● | refer to ED’s Office of Inspector General any credible information indicating that any student, parent, employee, third-party servicer or other agent of the institution has engaged in any fraud or other illegal conduct involving the Title IV programs;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | submit all required reports and consolidated financial statements in a timely manner; and
+--+------------------------------------------------------------------------------------------
+
+
+● | not otherwise appear to lack administrative capability.
+--+--------------------------------------------------------
+
+As an education services company, we assist our university partners with some facets of these criteria. As such, we must be mindful of, and compliant with, the administrative capability requirements. If an institution fails to satisfy any of these criteria, ED may:
+
+● | require the institution to repay Title IV funds its students previously received;
+--+----------------------------------------------------------------------------------
+
+
+● | transfer the institution from the advance method of payment of Title IV funds to heightened cash monitoring status or the reimbursement system of payment;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | place the institution on provisional certification status; or
+--+--------------------------------------------------------------
+
+
+● | commence a proceeding to impose a fine or to limit, suspend or terminate the institution’s participation in the Title IV programs.
+--+-----------------------------------------------------------------------------------------------------------------------------------
+
+Imposition of these sanctions could have a negative impact on our ability to conduct our business.
+Financial responsibility. The HEA and ED regulations establish extensive standards of financial responsibility that institutions must satisfy in order to participate in the Title IV programs. ED evaluates institutions for compliance with these standards on an annual basis based on the institution’s annual audited consolidated financial statements, as well as when the institution applies to ED to have its eligibility to participate in the Title IV programs recertified. The most significant financial responsibility standard is the institution’s composite score, which is derived from a formula established by ED based on three financial ratios:
+
+● | equity ratio, which measures the institution’s capital resources, financial viability and ability to borrow;
+--+-------------------------------------------------------------------------------------------------------------
+
+
+● | primary reserve ratio, which measures the institution’s ability to support current operations from expendable resources; and
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+
+● | net income ratio, which measures the institution’s ability to operate at a profit or within its means.
+--+-------------------------------------------------------------------------------------------------------
+
+​
+ED assigns a strength factor to the results of each of these ratios on a scale from negative 1.0 to positive 3.0, with negative 1.0 reflecting financial weakness and positive 3.0 reflecting financial strength. ED then assigns a weighting percentage to each ratio and adds the weighted scores for the three ratios together to produce a composite score for the institution. The composite score for an institution’s most recent fiscal year must be at least 1.5 for the institution to be deemed financially responsible without the need for further ED oversight. In addition to having an acceptable composite score, an institution must, among other things, provide the administrative resources necessary to comply with Title IV program requirements, meet all of its financial obligations, including required refunds to students and any Title IV liabilities and debts, be current in its debt payments, and not receive an adverse, qualified, or disclaimed opinion by its accountants in its audited consolidated financial statements.
+As an education service company, we are not directly subject to this regulation. However, if ED were to determine that a university partner institution did not meet the financial responsibility standards due to a failure to meet the composite score or other financial responsibility factors, ED could impose a range of sanctions on the institution, such as requiring the institution to post a letter of credit, accept provisional certification (which would hamper the ability of the institution to add new programs), comply with additional ED monitoring requirements, agree to receive Title IV program funds under an arrangement other than ED’s standard advance funding arrangement, such as the reimbursement system of payment or heightened cash monitoring, and comply with or accept other limitations on the ability to increase the number of programs it offers or the number of students it enrolls, any of which sanctions on our university partners could also adversely affect our business. In addition, because other regulators may use the composite score for their purposes, a poor composite score could have additional effects. For example, NC-SARA utilizes the composite score in determining whether an institution is eligible to participate in SARA. 
+
+21
+
+
+
+Our most significant university partner, GCU, calculated its composite score following the Transaction with respect to its fiscal years ending June 30, 2021 and June 30, 2020. As of June 30, 2021 and 2020, GCU’s composite score was 1.9 and 1.5, respectively, using the proprietary school calculation methodology. If GCU’s future composite scores do not exceed 1.5, ED could impose sanctions. If any such sanctions were imposed, it could have a negative impact on our ability to conduct our business.
+Return of Title IV funds for students who withdraw. When a student who has received Title IV program funds withdraws from school, the institution must determine the amount of Title IV program funds the student has “earned” and then must return the unearned Title IV program funds (a “return to Title IV”) to the appropriate lender or ED in a timely manner, which is generally no later than 45 days after the date the institution determined that the student withdrew. If such payments are not timely made, the institution will be required to submit a letter of credit to ED equal to 25% of the Title IV funds that the institution should have returned for withdrawn students in its most recently completed fiscal year. Under ED regulations, the letter of credit requirement is triggered by late returns of Title IV program funds for 5% or more of the withdrawn students (and involving more than two student refunds) in the audit sample in the institution’s annual Title IV compliance audit for either of the institution’s two most recent fiscal years or in a ED program review. To the extent our services for a university partner include conducting returns to Title IV, as they do with GCU, we would likely be jointly and severally liable to ED, along with the relevant university partner, for return of those funds.
+The “90/10 Rule.” A requirement of the HEA, commonly referred to as the “90/10 Rule,” that is applicable only to proprietary, post-secondary educational institutions, provides that an institution loses its eligibility to participate in the Title IV programs if the institution derives more than 90% of its revenue for each of two consecutive fiscal years from Title IV program funds. For purposes of the 90/10 Rule, revenue is calculated under a complex regulatory formula that requires cash basis accounting and other adjustments to the calculation of an institution’s revenue under generally accepted accounting principles that appears in its consolidated financial statements. Under the 90/10 Rule, an institution becomes ineligible to participate in the Title IV programs as of the first day of the fiscal year following the second consecutive fiscal year in which it exceeds the 90% threshold, and its period of ineligibility extends for at least two consecutive fiscal years. If an institution exceeds the 90% threshold for two consecutive fiscal years and it and its students have received Title IV funds during the subsequent period of ineligibility, the institution will be required to return those Title IV funds to the applicable lender or the ED. If an institution’s rate exceeds 90% for any single fiscal year, it will be placed on provisional certification for at least two fiscal years. 
+Using the ED’s cash-basis, regulatory formula under the 90/10 Rule as currently in effect, GCU, our most significant client, derived approximately 69.7% and 71.8% of its 90/10 Rule revenue from Title IV program funds for the fiscal years ended June 30, 2021 and 2020, respectively. Accordingly, even if ED continues to treat GCU as a proprietary institution for Title IV purposes, we do not expect this rule to have any material impact on GCU.
+In March 2021, the $1.9 trillion American Rescue Plan Act of 2021 (“ARPA”) was signed into law. Among other things, the ARPA also includes a provision that amends the 90/10 rule. The ARPA amends the 90/10 rule by treating other “Federal funds that are disbursed or delivered to or on behalf of a student to be used to attend such institution” in the same way as Title IV funds are currently treated in the 90/10 rule calculation. This means that institutions subject to the 90/10 Rule will be required to limit the combined amount of Title IV funds and applicable “Federal funds” revenue in a fiscal year to no more than 90% in a fiscal year as calculated under the rule. Consequently, the ARPA change to the 90/10 rule is expected to increase the 90/10 rule calculations at GCU. The ARPA does not identify the specific Federal funding programs that will be covered by this provision, but it is expected to include funding from federal student aid programs such as the veterans’ benefits programs. GCU has informed us that it does not believe any change to the 90/10 rule calculation being currently discussed will have a material impact on its calculation.
+The ARPA states that the amendments to the 90/10 rule apply to institutional fiscal years beginning on or after January 1, 2023 and are subject to the HEA’s negotiated rulemaking process which may not commence earlier than October 1, 2021. The ED has started the negotiated rulemaking process and completed the first round of negotiations on January 21, 2022. We cannot predict the additional changes to the 90/10 rule or other regulations that might occur as a result of negotiated rulemaking to be conducted during 2021 and 2022 as required by the ARPA. 
+
+22
+
+
+
+Student loan defaults. Under the HEA, an educational institution may lose its eligibility to participate in some or all of the Title IV programs if defaults by its students on the repayment of their federal student loans exceed certain levels. For each federal fiscal year, ED calculates a rate of student defaults for each institution (known as a “cohort default rate”). The rate is calculated by determining the rate at which borrowers who became subject to their repayment obligation in one federal fiscal year default in that same year or by the end of the second year following the first federal fiscal year (known as the “three-year method”).
+ED applies legal thresholds to measure an institution’s compliance. If ED notifies an institution that its cohort default rates exceeded 30%, for each of its three most recent federal fiscal years, the institution’s participation in the FDL Program and the Pell grant program would end 30 days after that notification, unless the institution appeals that determination in a timely manner on specified grounds and according to specified procedures. In addition, an institution’s participation in the FDL Program would end 30 days after notification by ED that its most recent cohort default rate, is greater than 40%, unless the institution timely appeals that determination on specified grounds and according to specified procedures. An institution whose participation ends under either of these provisions may not participate in the relevant programs for the remainder of the fiscal year in which the institution receives the notification or for the next two fiscal years. If an institution’s cohort default rate for any single federal fiscal year equals or exceeds 30%, ED may place the institution on provisional certification status.
+While we cannot directly influence a university partner’s cohort default rates, and do not provide default rate management services, in the course of performing services for a university partner we would work to assist such university partner in ensuring that its cohort default rates do not present a compliance risk under this regulation. Nonetheless, if a university partner institution exceeded the threshold under the three-year method, the sanction imposed could have a negative impact on our ability to conduct our business. While GCU’s cohort default rates have historically been significantly below these levels, we cannot assure you that this will continue to be the case.
+Incentive compensation rule. An institution that participates in the Title IV programs may not provide any commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any person or entity engaged in any student recruitment, admissions, or financial aid awarding activity. In its program participation agreement with ED, each higher education institution agrees that it will not “provide any commission, bonus, or other incentive payment based in any part, directly or indirectly, upon success in securing enrollments or the award of financial aid, to any person or entity who is engaged in any student recruitment or admission activity, or in making decisions regarding the award of Title IV, HEA program funds.” Pursuant to this rule, we are prohibited from offering our covered employees, who are those employees involved with or responsible for recruiting or admissions activities, any bonus or incentive-based compensation based on the successful recruitment, admission or enrollment of students into a postsecondary institution. We are also precluded from offering our covered employees who work on financial aid matters (if any), any bonus or incentive-based compensation based on the award of financial aid to students enrolled in a postsecondary institution.
+In addition, the incentive compensation rule raises a question as to whether companies like ours, as an entity, are prohibited from entering into tuition revenue-sharing arrangements with university partners. On March 17, 2011, ED issued official agency guidance, known as a “Dear Colleague Letter,” or a DCL, providing guidance on this point. The DCL states that “[t]he Department generally views payment based on the amount of tuition generated as an indirect payment of incentive compensation based on success in recruitment and therefore a prohibited basis upon which to measure the value of the services provided” and that “[t]his is true regardless of the manner in which the entity compensates its employees.” But the DCL also provides an important exception to the ban on tuition revenue-sharing arrangements between institutions and third parties. According to the DCL, ED does not consider payment based on the amount of tuition generated by an institution to violate the incentive compensation ban if the payment compensates an “unaffiliated third party” that provides a set of “bundled services” that includes recruitment services, such as those we provide. Example 2-B in the DCL is described as a “possible business model” developed “with the statutory mandate in mind.” Example 2-B describes the following as a possible business model:
+“A third-party that is not affiliated with the institution it serves and is not affiliated with any other institution that provides educational services, provides bundled services to the institution including marketing, enrollment application assistance, recruitment services, course support for online delivery of courses, the provision of 
+
+23
+
+
+
+technology, placement services for internships, and student career counseling. The institution may pay the entity an amount based on tuition generated for the institution by the entity’s activities for all the bundled services that are offered and provided collectively, as long as the entity does not make prohibited compensation payments to its employees, and the institution does not pay the entity separately for student recruitment services provided by the entity.”
+The DCL guidance indicates that an arrangement that complies with Example 2-B will be deemed to be in compliance with the incentive compensation provisions of the HEA and ED’s regulations. Our business model and contractual arrangements with our university partners closely follow Example 2-B in the DCL. In addition, we assure that none of our “covered employees” is paid any bonus or other incentive compensation in violation of the rule.
+Because the bundled services rule was promulgated in the form of agency guidance issued by ED in the form of a DCL and is not codified by statute or regulation, the rule could be altered or removed without prior notice, public comment period or other administrative procedural requirements that accompany formal agency rulemaking. Similarly, a court could invalidate the rule in an action involving our company or our university partners, or in action that does not involve us at all. The revision, removal or invalidation of the bundled services rule by Congress, ED or a court could require us to change our business model.
+
+
+
+In addition, we have requested guidance from ED that our specific model is proper under the incentive compensation rule and that our company is not an “affiliate” of GCU for purposes of the DCL. We are awaiting a response to this guidance request. See “Risk Factors – Risks Related to Our Business - If we are determined to have paid improper incentive compensation to our covered employees, or tuition sharing arrangements are deemed to violate the incentive compensation regulations, our business will be impaired.”
+Borrower Defense to Repayment regulations. ED has long had a regulation that establishes standards for borrowers that govern their ability to raise defenses to their obligation to repay certain Title IV loans, which defenses were based on certain acts or omissions of the institution that relate to the making of the loan for enrollment at the school or the provision of educational services for which the loan was provided and that gave rise to a cause of action under state law against the school. This regulation currently applies to all loans first disbursed prior to July 1, 2017.
+In 2016, ED published a regulatory package related to “Borrower Defense to Repayment.” This was a highly consequential rule that, among other things, would make it easier for borrowers – individually or in groups – to extinguish, in whole or in part, their student loans based on whether:
+
+● | The borrower or a governmental agency, has obtained against the school a nondefault, favorable contested judgment based on state or federal law in a court of administrative tribunal;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The institution failed to perform its obligations under the terms of a contract with the student; or
+--+-----------------------------------------------------------------------------------------------------
+
+
+● | The school or any of its representatives (including contractors) or any institution, organization, or person with whom the school has an agreement to provide educational programs, or to provide marketing, advertising, recruiting or admissions services, made a substantial misrepresentation (as defined by ED regulations) that the borrower reasonably relied on to the borrower’s detriment when the borrower decided to attend, or to continue attending, the school or decided to take out a Direct Loan.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+These regulations also established separate procedures for claims initiated for individual borrowers and claims initiated for groups of borrowers as well as separate procedures in the event that the institution is open or closed. The rules established varying, borrower-favorable statutes of limitations for the initiation of claims and, in some cases, imposed an unlimited statute of limitations. If the ED official or hearing official approves the borrower’s defense to repayment through the applicable administrative process established in the proposed regulations, ED may discharge the borrower’s obligation to repay some or all of the borrower’s student loans, may return to the borrower amounts already paid by the borrower toward the discharged portion of the loan, and may initiate a separate proceeding to collect the discharged and returned amounts from the institution.
+
+24
+
+
+
+Although ED attempted to prevent the effectiveness of these regulations, an October 2018 court decision mandated that the Borrower Defense to Repayment regulations that were originally published by ED in 2016 are now in effect and apply to loans first disbursed after July 1, 2017, and (because of recent regulatory developments) prior to July 1, 2020.
+On September 23, 2019, ED published new regulations related to the “Borrower Defense to Repayment” regulations. These regulations, which were effective July 1, 2020 modify the existing regulations to now permit borrowers to raise as a defense to repayment on a student loan any statement, act, or omission to a borrower that is false, misleading, or deceptive; made with knowledge of its false, misleading, or deceptive nature or with a reckless disregard for the truth; and directly and clearly related to the making of a Direct Loan for enrollment at the school or the provision of educational services for which the loan was made. Among other things, the new regulations modify the procedures and standards for borrowers to assert through an ED-administered process a defense to the borrowers’ obligation to repay certain Title IV loans first disbursed on or after July 1, 2020, based on certain acts or omissions by the institution or a covered party. The procedures establish a process for students to obtain a loan discharge by establishing by a preponderance of the evidence that the institution made a misrepresentation of material fact, upon which the borrower reasonably relied in deciding to obtain a covered loan, where such misrepresentation directly and clearly relates to enrollment or continuing enrollment at the institution or to the provision of educational services for which the loan was made, and where the borrower was financially harmed by the misrepresentation. The regulations establish revised definitions for misrepresentation and financial harm, identify a nonexclusive list of items that may be evidence that a misrepresentation occurred, identify a list of items that do not constitute a basis for a defense to repayment. The regulations also set forth rules on a limitations period for submitting claims and circumstances for extending this period, on the requirements for submitting an application for a discharge, on the consideration of the application by ED, on the opportunities for the institution to respond and submit evidence, and on the process for discharging the borrower’s loan and for ED to seek recovery of the discharged amounts from the institution.
+In addition to revising the claims for defenses to repayment, the 2019 Borrower Defense to Repayment regulations that became effective on July 1, 2020, revises the financial responsibility regulations that were a part of the 2016 version of those regulations. The 2019 regulation shortens and reduces the scope of the list of events that could result in ED determining that an institution has failed ED’s financial responsibility standards and requiring a letter of credit or other form of acceptable financial protection and the acceptance of other conditions or requirements. Specifically, the regulations establish revised lists of mandatory triggering events and discretionary triggering events. The regulation also establishes discretionary triggering events for which ED may determine that an institution is not able to meet its financial or administrative obligations if the events are likely to have a material adverse effect on the financial condition of the institution. The regulations require the institution to notify ED of the occurrence of a mandatory or discretionary event in accordance with procedures established by ED, typically within 10 days of the occurrence of the event with certain exceptions. ED may make a determination that an institution fails to meet the financial responsibility standards based on the occurrence of one or more mandatory or discretionary triggers and impose a letter of credit and/or other conditions upon the institution. As with the 2016 version of this rule, the 2019 version of the regulations could require institutions we service – like GCU – to submit a letter of credit or other form of acceptable financial protection and accept other conditions or requirements. This could put financial strain on our university partners and negatively affect our business.
+Note, the borrower defense to repayment regulations discussed herein were and are extensive and this does not attempt to discuss all the facets of any of the versions of these regulations. Moreover, as discussed below, the ED is currently undergoing a regulatory process designed to revise these regulations. While we are watching this process closely, we cannot determine what the outcome will be or the effect of these regulations on out university partners or on GCE.
+Compliance reviews. Our client institutions are subject to announced and unannounced compliance reviews and audits by various external agencies, including ED, its Office of Inspector General, state licensing agencies, the applicable state approving agencies for financial assistance to veterans, and accrediting commissions. As part of ED’s ongoing monitoring of institutions’ administration of the Title IV programs, the HEA also requires institutions to annually submit to ED a Title IV compliance audit conducted by an independent certified public accountant in accordance with applicable federal and ED audit standards. In addition, to enable ED to make a determination of an 
+
+25
+
+
+
+institution’s financial responsibility, each institution must annually submit audited financial statements prepared in accordance with ED regulations.
+As a third-party servicer, not only are our university partners subject to reviews and audits that may require our involvement, but we are also subject to program reviews from ED and the Office of the Inspector General. Further, we also have an obligation to annually submit to ED a Title IV compliance audit conducted by an independent certified public accountant in accordance with applicable federal and ED audit standards.
+Gainful employment rules. Under the HEA, proprietary schools are eligible to participate in Title IV programs in respect of educational programs that lead to “gainful employment in a recognized occupation,” with the limited exception of qualified programs leading to a bachelor’s degree in liberal arts. ED attempted to define this in a series of regulations from 2010 to 2016. On July 1, 2019, ED rescinded the previously enacted gainful employment regulations. While this change was effective July 1, 2020, ED also permitted institutions to enact this change as early as July 1, 2019, so long as any such institution made manifest its intention to be subject to the rescinded regulations. It is our understanding that GCU had made manifest that intention and, as of July 1, 2019, is no longer subject to the gainful employment rules. While GCU largely complied with the previously published gainful employment rules, the previously published draft rates did indicate that four current degree programs were in the “Zone” – that is, potentially faced sanctions in the future if GCU could not reform the program to comply with the regulations – including three undergraduate education programs and the Masters in Theology. 
+As discussed below, the Department is currently engaged in a negotiated rulemaking on the gainful employment rule. While we are watching this process closely, we cannot determine what the outcome will be or the effect of these regulations on out university partners or on GCE.
+Substantial misrepresentation. The HEA prohibits an institution that participates in Title IV programs from engaging in “substantial misrepresentation” of the nature of its educational program, its financial charges, or the employability of its graduates. ED has defined a misrepresentation as any statement made by the institution or a third party that provides educational programs, marketing, advertising, recruiting, or admissions services to the institution that is false, erroneous or has the likelihood or tendency to deceive. A substantial misrepresentation is any misrepresentation on which the person to whom it was made could reasonably be expected to rely, or has reasonably relied, to that person’s detriment.
+The regulation also covers statements made by any representative of an institution, including agents, employees and subcontractors, and statements made directly or indirectly to any third party, including state agencies, government officials or the public, and not just to students or prospective students. Therefore, we are subject to this regulation.
+Considering the breadth of the definition of “substantial misrepresentation,” it is possible that despite our efforts to prevent such misrepresentations, our employees or contractors may make statements that could be construed as substantial misrepresentations for which our university partners would be held responsible by ED. We and our employees and subcontractors, as agents of our university partners, must use a high degree of care to comply with such rules and are prohibited by contract from making any false, erroneous or misleading statements about our university partners. To avoid an issue under the misrepresentation rule and similar rules, we assure that all marketing materials are approved in advance by our university partners before they are used by our employees and we carefully monitor our subcontractors.
+
+Additionally, matters regarding substantial misrepresentation, and defining what constitutes “aggressive recruiting,” are currently the subject of negotiated rulemaking. While we are watching this process closely, we cannot determine what the outcome will be or the effect of these regulations on out university partners or on GCE.
+Despite our best efforts, we may face complaints from students and prospective students of our university partners over statements made by us and our agents throughout the conduct of our services which would expose our university partners, and derivatively us, to increased risk of enforcement action and applicable sanctions or other penalties and increased risk of private qui tam actions under the Federal False Claims Act. Also, if ED determines that an institution (including its contractors) has engaged in substantial misrepresentation, ED may revoke an institution’s 
+
+26
+
+
+
+program participation agreement, impose limitations on the institution’s participation in Title IV programs, deny applications from the institution for approval of new programs or locations or other matters, or initiate proceedings to fine the institution or limit, suspend, or terminate its eligibility to participate in Title IV programs. Similar rules apply under state laws or are incorporated in institutional accreditation standards and the Federal Trade Commission, or FTC, applies similar rules prohibiting any unfair or deceptive marketing practices to the education sector. If ED or another regulator determines that statements made by us or on our behalf are in violation of the regulations, we could be subject to sanctions and other liability, which could have a material adverse effect on our business.
+
+Negotiated Rulemaking. The ED periodically issues new regulations and guidance that can have an adverse effect on our partner institutions.  The ED has changed its regulations, and may make other changes in the future, in a manner which could require us to incur additional costs in connection with providing the services that we provide our partners affect their ability to remain eligible to participate in the Title IV programs, impose restrictions on their participation in the Title IV programs, affect the rate at which students enroll in our partners’ programs, or otherwise have a significant impact on our business and results of operations.  We cannot predict the timing and content of any new regulations or guidance that the ED may seek to impose or whether and to what extent the ED under the new administration may issue new regulations and guidance that could adversely impact our partner institutions.  
+​
+In May 2021, the ED announced its intention to establish negotiated rulemaking committees to prepare proposed regulations on an extensive range of topics including without limitation changes of ownership and change in control of institutions of higher education, certification procedures for participation in the Title IV programs, standards of administrative capability, ability to benefit standards, borrower defense to repayment, discharges for borrowers with a total and permanent disability, closed school loan discharges, discharges for false certification of student eligibility, loan repayment plans, the public service loan forgiveness program, mandatory pre-dispute arbitration and prohibition of class action lawsuits provisions in institutional enrollment agreements, financial responsibility standards including events that indicate heightened financial risk, gainful employment, and Pell Grant eligibility for prison education programs.  The ED also could consider additional topics for proposed regulations during the negotiated rulemaking process.  The negotiated rulemaking process could lead to future ED regulations that could adversely impact our partner institutions.
+​
+The negotiated rulemaking sessions began on October 4, 2021.  The topics have included total and permanent disability discharges, closed school discharges, public student loan forgiveness, borrower defense to repayment, aggressive recruiting, pre-dispute arbitration and class action waivers, income driven repayment, interest capitalization, false certification discharges, and prison exchange programs and could include other issues that the ED might add to the agenda. The remaining sessions are scheduled to occur periodically through March 2022.  The ED is expected to publish proposed regulations in the Federal Register for public comment during the period after the conclusion of the negotiated rulemaking sessions.  If the final regulations are published by or before November 1, 2022, then the regulations typically would not take effect until July 1, 2023.  However, we cannot predict the ultimate timing and content of any final regulations following the conclusion of the rulemaking process.
+​
+Additionally, on October 4, 2021, the ED published a notice in the Federal Register announcing its intention to establish a negotiated rulemaking committee to prepare proposed regulations affecting institutional and programmatic eligibility, including the gainful employment rule and the 90/10 rule changes made by the ARPA.  
+​
+We also cannot predict with certainty the ultimate combined impact of the regulatory changes which have occurred in recent years and that may occur as a result of the upcoming negotiated rulemaking, nor can we predict the effect of future legislative or regulatory action by federal, state or other agencies regulating our education programs or other aspects of our operations, how any resulting regulations will be interpreted or whether we and our partner institutions will be able to comply with these requirements in the future. Any such actions by legislative or regulatory bodies that affect our programs and operations could have a material adverse effect on our student population and our partner institutions, including the need to cease offering a number of programs.
+​
+Regulatory Standards that May Restrict Institutional Expansion or Other Changes
+Many actions that our university partners may wish to take in connection with expanding their operations or other changes are subject to review or approval by the applicable regulatory agencies. For example, requirements and 
+
+27
+
+
+
+standards of state post-secondary agencies, accrediting commissions, and ED limit an institution’s ability in certain instances to establish additional teaching locations, implement new educational programs, or increase enrollment in certain programs. Many states require review and approval before institutions can add new locations or programs, and many states limit the number of pre-licensure professional students (such as nursing) colleges may enroll. Similarly, accrediting agencies (institutional and programmatic) generally require institutions to notify them in advance of adding new locations or implementing new programs, and upon notification may undertake a review of the quality of the facility or the program and the financial, academic, and other qualifications of the institution.
+With respect to ED, if an institution participating in the Title IV programs plans to add a new location or educational program, the institution must generally apply to ED to have the additional location or educational program designated as within the scope of the institution’s Title IV eligibility. Institutions that are fully certified to participate in the Title IV programs are not required to obtain ED’s approval of additional programs that lead to a bachelor’s, professional, or graduate degree at the same degree level as programs previously approved by ED, and, similarly, is not required to obtain advance approval for new programs that prepare students for gainful employment in the same or a related recognized occupation as an educational program that has previously been designated by ED as an eligible program at that institution if it meets certain minimum-length requirements. GCU, because it is currently certified to participate in the Title IV programs through September 30, 2022, is required to obtain ED approval for new programs, which requirement could impede GCU’s ability to introduce new programs and slow its growth.
