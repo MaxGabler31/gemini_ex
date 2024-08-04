@@ -1,0 +1,331 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1.          BUSINESS
+Overview
+ 
+Akoustis® is a development-stage company focused on developing, designing, and manufacturing innovative RF filter products for the mobile wireless device industry, including for products such as smartphones and tablets, cellular infrastructure equipment, and WiFi premise equipment. Located between the device’s antenna and its digital backend, the RF front-end (“RFFE”) is the circuitry that performs the analog signal processing and contains components such as amplifiers, filters and switches. To construct the resonators that are the building blocks for the RF filter, we have developed a new and proprietary MEMS-based BAW technology and unique manufacturing flow, called XBAW. Our XBAW process incorporates high purity piezoelectric materials to explore high power, high frequency and wide bandwidth applications. Filters are critical in selecting and rejecting signals, and their performance enables differentiation in the modules defining the RFFE
+ 
+We believe owning the core resonator technology and manufacturing our designs is the most direct and efficient means of delivering our solutions to the market. Furthermore, our technology is based upon bulk-mode resonance, which is superior to surface-mode resonance for high-band applications that include 4G/LTE, emerging 5G, WiFi, and military applications. While some of our target customers utilize or make the RFFE module, they may lack access to critical high-band filter technology to compete in high-band applications and other traditional surface-mode solutions where higher power performance is required. We intend to design, manufacture, and market our RF filter products to mobile phone original equipment manufacturers (“OEMs”), military and defense OEM’s, cellular infrastructure OEMs, and WiFi premise equipment customers and to enable broader competition among the front-end module manufacturers. We plan to operate as a “pure-play” RF filter supplier and align with the front-end module manufacturers who seek to acquire high performance filters to grow their module business.
+ 
+We currently build pre-production RF filter circuits, using our first generation XBAW wafer process, in our 122,000-square foot wafer-manufacturing plant located in Canandaigua, New York, which we acquired in June 2017. To date, we have been awarded 17 patents including two blocking patents that we have licensed from Cornell University and the University of California, Santa Barbara and we have over 28 additional patents pending. These patents cover our XBAW process and technology from the substrate level through the system application layer. Where possible, we leverage both federal and state level, R&D grants to support development and commercialization of our technology. 
+ 
+We are developing RF filters for 4G/LTE, emerging 5G, military and WiFi bands and the associated proprietary models and design kits required to design our RF filters. As we qualify our first RF filter products, we plan to engage with target customers to evaluate our filter solution. Our initial designs will target high-band 4G/LTE, emerging 5G, and WiFi frequency bands. Since Akoustis owns its core technology and controls access to its intellectual property, we expect to offer several ways to engage with potential customers. First, we intend to engage with multiple wireless markets, providing filters that we design and offer as standard catalog components. Second, we expect to deliver filters to customer-supplied specifications, which we will design and fabricate for a specific customer. Finally, we will offer our models and design kits for our customers to design their own filter utilizing our proprietary technology.
+ 
+We have earned minimal revenue from operations since inception, and we have funded our operations primarily with development contracts, RF filter prototype orders, government grants, MEMS foundry and engineering services, sales of our equity securities, and issuance of debt. We have incurred losses totaling approximately $38.2 million from inception through June 30, 2018. These losses are primarily the result of material and processing costs associated with developing and commercializing our technology, as well as personnel costs, professional fees (primarily accounting and legal), and other general and administrative (“G&A”) expenses. We expect to continue to incur substantial costs for commercialization of our technology on a continuous basis because our business model involves materials and solid-state device technology development and engineering of catalog and custom filter designs.  
+ 
+Plan of Operation
+ 
+We plan to commercialize our technology by designing and manufacturing single-band and multi-band BAW RF filter solutions in our New York wafer fabrication facility. We expect our filter solutions will address problems (such as loss, bandwidth, power handling, and isolation) created by the growing number of frequency bands in the RFFE of mobile devices, infrastructure and premise equipment to support 4G/LTE, emerging 5G, and WiFi. We have prototyped our first single-band low-loss BAW filter designs for 4G/LTE frequency bands, which are dominated by competitive BAW solutions and historically cannot be addressed with low-band, lower power handling surface acoustic wave (SAW) technology. During the second half of calendar 2017 we sampled filter product prototypes to prospective customers that cover LTE, Radar and WiFi applications. In March and April of 2018, we announced our first two commercial products, the AKF-1252 and the AKF-1938, which we are currently sampling with customers involved in the WiFi market and military market, respectively. In May we announced a Non Recurring Engineering (“NRE”) contract and purchase order for a 4G/LTE infrastructure customer that we expect will ship in early calendar 2019. Additionally, in June 2018 we announced a 5.2 GHz BAW WiFi filter for the handset market, the AKF-1652. We expect to begin commercial production for one or more customers in the second half of calendar 2018. As we receive customer evaluations, we will do further iterations on the designs and provide next generation samples for evaluation and characterization.
+
+2
+-
+
+ 
+
+To succeed, we must convince mobile phone OEMs, RFFE module manufacturers, cellular infrastructure OEMs, and WiFi premise equipment OEMs to use our XBAW filter technology in their systems and modules. However, since there are two dominant BAW filter suppliers in the industry that have high-band technology, and both utilize such technology as a competitive advantage at the module level, we expect customers that lack access to high-band filter technology will be open to engage with our pure-play filter company. 
+ 
+In June 2018 we completed the qualification of our high purity piezoelectric materials process and our XBAW manufacturing process to support an initial product family of 4G/LTE, emerging 5G mobile, military and WiFi filter solutions. Now that we have stabilized our process technology in a manufacturing environment, we intend to complete a production release of our high-band filter products in the frequency range from 2 GHz to 6 GHz. The target frequency bands will be prioritized based upon customer priority. We expect this will require recruiting and hiring additional personnel and capital investments.
+
+
+We plan to pursue RF filter design and R&D development agreements and potentially joint ventures with target customers and other strategic partners, but we cannot guarantee we will be successful in these efforts. These types of arrangements may subsidize technology development costs and qualification, filter design costs, and offer complementary technology and market intelligence and other avenues to revenue. However, we intend to retain ownership of our core technology, intellectual property, designs, and related improvements. We expect to pursue development of catalog designs for multiple customers and to offer such catalog products in multiple sales channels.
+ 
+As of June 30, 2018, the Company had $14.8 million of cash and cash equivalents to fund our operations, including R&D, commercialization of our technology, development of our patent strategy and expansion of our patent portfolio, as well as to provide working capital and funds for other general corporate purposes. These funds are expected to be sufficient to fund our operations into the fourth quarter of fiscal 2019. However, there is no assurance that the Company’s projections and estimates are accurate. Our anticipated expenses include employee salaries and benefits, compensation paid to consultants, capital costs for research and other equipment, costs associated with development activities (including travel and administration), costs associated with the integration and operation of our New York wafer fabrication facility and related operations, legal expenses, sales and marketing costs, G&A expenses, and other costs associated with an early stage, public technology company. We anticipate increasing the number of employees; however, this is highly dependent on the nature of our development efforts, our success in commercialization, and our ability to source additional funds. We anticipate adding employees for R&D in both our New York and North Carolina facilities, as well as G&A functions, to support our efforts. We expect capital expenditures to be approximately $4.1 million for the purchase of equipment and software during the next 12 months, and we are currently investigating the feasibility of using equipment leases, or government grants to fund all or part of the purchase of the equipment. 
+ 
+The amounts we actually spend for any specific purpose may vary significantly and will depend on a number of factors, including, but not limited to, the pace of progress of our commercialization and development efforts, actual needs with respect to product testing, R&D, market conditions, changes in or revisions to our marketing strategies, and the integration of our New York wafer fabrication facility and related operations into our business.
+ 
+Commercial development of new technology, by its nature, is unpredictable. Although we will undertake development efforts with commercially reasonable diligence, there can be no assurance that our current cash position will be sufficient to enable us to commercialize our technology to the extent needed to create future sales to sustain operations. If our current cash is insufficient for these purposes, we are unable to source additional funds on terms acceptable to the Company (or at all), or we experience costs in excess of estimates to continue our R&D plan, it is possible that we would not have sufficient resources to continue as a going concern and we may be required to curtail or suspend our operations. Even if we are able to source sufficient funds to continue as a going concern, our technology may not be accepted, we may never earn revenues sufficient to support our operations, and we may never be profitable. 
+ 
+
+3
+-
+
+Recent Developments
+ 
+New York Manufacturing Facility
+ 
+On March 23, 2017, we entered into an Asset Purchase Agreement and a Real Property Purchase Agreement (collectively, the “STC-MEMS Agreements”) with The Research Foundation for the State University of New York (“RF-SUNY”) and Fuller Road Management Corporation (“FRMC”), an affiliate of RF-SUNY (collectively, “Sellers”), respectively, to acquire certain specified assets, including STC-MEMS, a semiconductor wafer-manufacturing and microelectromechanical systems (“MEMS”) operation with associated wafer-manufacturing tools, and the associated real estate and improvements located in Canandaigua, New York used in the operation of STC-MEMS (the assets and real estate and improvements referred to together herein as the “STC-MEMS Business”). Pursuant to the STC-MEMS Agreements, the Company also agreed to assume post acquisition date substantially all of the ongoing obligations of the STC-MEMS Business incurred in the ordinary course of business.
+ 
+We completed the acquisition of the STC-MEMS Business on June 26, 2017 for an aggregate purchase price of $2.8 million in cash. The Company recorded net assets acquired of $6.3 million for purchase consideration of $4.6 million (includes $2.85 million of cash paid at closing plus $1.7 million real estate contingent liability), which resulted in the recording of a bargain purchase gain of $1.7 million. 
+
+
+The STC-MEMs acquisition allows the Company to internalize manufacturing, increase capacity and control its wafer supply chain for its XBAW based RF filters. In January 2018, we successfully transferred our R&D resonator filter process flow into the facility, and we plan to utilize the facility to optimize our XBAW technology and consolidated all aspects of wafer manufacturing for our disruptive and patented high band BAW RF filters targeting the multi-billion dollar mobile and other wireless markets. Our consolidation of the Company’s supply chain into the STC-MEMS Business started on June 26, 2017 and is expected to shorten time-to-market for our RF products, greatly enhancing our ability to service customers upon completion of development and design specifications. Furthermore, we believe that shorter time-to-market cycles provide us with the opportunity to increase the number of our potential customers.
+ 
+On February 27, 2018, we entered into a Lease and Project Agreement and a Company Lease Agreement with the Ontario County Industrial Development Agency (the “OCIDA”), pursuant to which we will lease for $1.00 annually to the OCIDA a portion of the real property, including the improvements thereon, acquired in connection with the purchase of the STS MEMS Business and the OCIDA will lease such real property and improvements back to us for annual rent payments specified in such agreements. See Note 12.
+ 
+Business Developments
+
+
+In August 2017, we announced our first shipment of premium high-band BAW RF filter prototypes manufactured using our patented single-crystal BulkONE® technology to a Chinese tier one customer. The shipment included high performance, LTE-TDD Band 41, 2.6 GHz BAW RF filters that we believe address the challenging filter requirements in the high growth 4G LTE mobile market in China. Shortly thereafter, we announced our first 3.8GHz RF filter shipments to our second customer for a key Radar application.
+ 
+In March and April of 2018, we announced our first two commercial products, the AKF-1252 and the AKF-1938, which we are currently sampling with customers involved in the WiFi market and military radar market, respectively. In May we announced an NRE contract and purchase order for a 4G/LTE infrastructure customer that we expect will ship in early calendar 2019. Additionally, in June 2018 we announced a 5.2 GHz BAW WiFi filter for the handset market, the AKF-1652. We expect to begin commercial production for one or multiple markets in the second half of calendar 2018. As we receive customer evaluations, we will do further iterations on the designs and provide next generation samples for evaluation and characterization.
+ 
+In June 2018 we completed the qualification of our XBAW RF filter wafer manufacturing process to support an initial product family of 4G/LTE, 5G mobile, military and WiFi filter solutions. Now that we have stabilized our process technology in a manufacturing environment, we intend to complete a production release of our high-band filter products in the frequency range from 2 GHz to 6 GHz.
+ 
+Organizational Developments
+ 
+On August 11, 2016, we changed our fiscal year from a fiscal year ending on March 31 of each year to one ending on June 30 of each year, effective for the fiscal year ended June 30, 2017. On October 31, 2016, we filed a transition report on Form 10-K for the transition period from April 1, 2016 to June 30, 2016.
+ 
+Following stockholder approval at our 2016 annual stockholders’ meeting, we changed our state of incorporation from the State of Nevada to the State of Delaware on December 15, 2016.
+ 
+On February 22, 2018, Akoustis Manufacturing New York, Inc. was merged into Akoustis, Inc., with Akoustis, Inc. as the surviving entity.
+ 
+Financing Developments
+ 
+On May 14, 2018 the Company completed the offering of $15.0 million principal amount of the Company’s 6.5% Convertible Senior Secured Notes due 2023. The net proceeds of the offering after payment of offering costs were approximately $13.1 million. The notes will mature on May 31, 2023, unless earlier converted, redeemed or repurchased. Interest on the notes accrues at the rate of 6.5% per year and is payable at the Company’s option quarterly in cash and/or freely tradable shares of the Company’s common stock, subject to certain limitations. The notes may be converted into common stock at the option of the holder at any time prior to maturity at an initial conversion price of $6.55 per share, subject to adjustment under certain circumstances. If the holder elects to convert the notes at any time on or after the date that is one year after the last date of original issuance of the notes and prior to May 31, 2021, the holder will also receive a make-whole payment equal to the remaining scheduled interest payments that would have been made on the notes converted had such notes remained outstanding through May 31, 2021 (the “put date”). At the Company’s option, make-whole payments may be paid in cash and/or freely tradable shares of the Company’s common stock.
+Glossary
+ 
+The following is a glossary of technical terms used herein:
+ 
+
+● | Acoustic wave - a mechanical wave that vibrates in the same direction as its direction of travel. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | AlN - Aluminum Nitride. 
+--+-----------------------------------------------------------------
+
+
+● | Acoustic wave filter - an electromechanical device that provides radio frequency control and selection, in which an electrical signal is converted into a mechanical wave in a device constructed of a piezoelectric material and then back to an electrical signal. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+4
+-
+
+
+● | Band, channel or frequency band - a designated range of radio wave frequencies used to communicate with a mobile device. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Bulk acoustic wave (BAW) - an acoustic wave traveling through a material exhibiting elasticity, typically vertical or perpendicular to the surface of a piezoelectric material. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Digital baseband - the digital transceiver, which includes the main processor for the communication device. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Duplexer - a bi-directional device that connects the antenna to the transmitter and receiver of a wireless device and simultaneously filters both the transmit signal and receive signal. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Filter - a series of interconnected resonators designed to pass (or select) a desired radio frequency signal and block unwanted signals. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Group III element nitrides - a dielectric material comprised of group IIIA element, such as boron (B), aluminum (Al) or gallium (Ga), combined with group 5A (or VA nitrogen to form a compound semiconductor nitride such as BN, AlN, or GaN. For resonators, the dielectric is typically chosen based upon the piezoelectric constant of the material in order to generate the highest electromechanical coupling. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Insertion Loss -The power losses associated with inserting a BAW filter into a circuit. 
+--+---------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Lossy - resistive losses that result in heat generation. 
+--+--------------------------------------------------------------------------------------------------
+
+
+● | Metrology - techniques used to evaluate materials, devices and circuits. 
+--+------------------------------------------------------------------------------------------------------------------
+
+
+● | Monolithic topology - a description of an electrical circuit whereby all the elements of the circuit are fabricated at the same time using the same process flow. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Power Amplifier Duplexer (PAD) - an RF module containing a power amplifier and duplex filter components for the RFFE of a smartphone. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Piezoelectric materials - certain solid materials (such as crystals and certain ceramics) that produce a voltage in response to applied mechanical stress, or that deform when a voltage is applied to them. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Quality factor, or Q - energy stored divided by the energy dissipated per cycle. Higher Q represents a higher caliber of resonance and implies mechanical and electrical factors responsible for energy dissipation are minimal. For a given amount of energy stored in a resonator, Q represents the number of cycles resonance will continue without additional input of energy into the system. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Resonator - a device whose impedance sharply changes over a narrow frequency range and is characterized by one or more ‘resonance frequency’ due to a standing wave across the resonator’s electrodes. The vibrations in a resonator can be characterized by mechanical “acoustic” waves which travel without a characteristic sound velocity. Resonators are the building blocks for RF filters used in mobile wireless devices. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | RF - radio frequency.
+--+----------------------
+
+
+● | RF front-end (RFFE) - the circuitries in a mobile device responsible for processing the analog radio signals; located between the device’s antenna and the digital baseband. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | RF spectrum - a defined range of frequencies. 
+--+---------------------------------------------------------------------------------------
+
+
+5
+-
+
+
+● | Surface acoustic wave (SAW) - an acoustic sound wave traveling horizontally along the surface of a piezoelectric material. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | TDD LTE - Time Division Duplex- Long-Term Evolution or a wireless standard which shares the bandwidth between transmit and receive. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Tier one - a supplier or OEM with substantial market share. 
+--+-----------------------------------------------------------------------------------------------------
+
+
+● | Tier two - a supplier or OEM with an established but not substantial market share. 
+--+----------------------------------------------------------------------------------------------------------------------------
+
+
+● | Trusted Foundry- The Trusted Foundry Program was initiated by the Department of Defense in 2004 to ensure mission-critical national defense systems access to leading-edge integrated circuits from secure, domestic sources. Defense Microelectronics Activity (DMEA) is the manager of the Trusted Foundry Program for the U.S. Department of Defense (DoD). It is a joint DoD / National Security Agency (NSA) program and is administered by the NSA’s Trusted Access Program Office (TAPO). 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Wafer - a thin slice of semiconductor material used in electronics for the fabrication of integrated circuits. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Technology
+ 
+Current RF filters utilize a technology that is limited by the material properties of the base filter component. Existing BAW filters use an “acoustic wave ladder” that is based on a monolithic topology approach using lossy polycrystalline materials. By contrast, our XBAW technology uses high purity materials, which provides up to 30% higher piezoelectric properties, compared to conventional polycrystalline materials used in the industry today. We have fabricated resonators that demonstrate the feasibility of our approach and believe our technology will yield a new generation of filter products.
+ 
+XBAW technology consists of novel high purity piezoelectric materials, which are fabricated into bulk-mode, acoustic wave resonators and RF filters. Our patented piezoelectric materials contain high-purity Group III element nitride materials and possess a unique signature, which can be detected by conventional material metrology tools. We utilize analytical modeling techniques to aid in the design of our materials, and our raw material specifications are typically outsourced to a third party for manufacturing. Once our materials are ready for processing, we supply our NY fabrication facility raw materials, a mask design file, and a unique process sequence in order to fabricate our resonators and filters. Our wafer process flow is compatible with wafer level packaging (WLP) that allows for low profile, cost effective filters to be produced.
+
+
+Challenges Facing the Mobile Device Industry
+ 
+Rising consumer demand for always-on wireless broadband connectivity is creating an unprecedented need for high performance RFFE for mobile devices. Mobile devices such as smartphones and tablets are quickly becoming the primary means of accessing the Internet, thereby driving the Internet of Things (IoT). The rapid growth in mobile data traffic is testing the limits of existing wireless bandwidth. Carriers and regulators have responded by opening new spectrums of RF frequencies, driving up the number of frequency bands in mobile devices. This substantial increase in frequency bands has created a demand for more filters, as well as a demand for filters with higher selectivity. The global transition to LTE and adoption of LTE-Advanced with more sophisticated carrier aggregation and multiple-input, multiple-output (MIMO) techniques will continue to push the requirements for increased supply of high performance filters. Furthermore, the introduction of 5G mobile technologies and their associated frequencies over the next several years will create an even greater need for high-performance, high-frequency filters as the bands being auctioned have primarily been in the 3-6 GHz range, well above current networks.
+ 
+The new spectrum introduced by 4G/LTE and emerging 5G is driving spectrum licensing at higher frequencies than previous 3G smartphone models. For example, new TDD LTE frequencies allocated for 4G wireless cover frequencies nearly twice as high as those covered in previous generation phones. As a result, the demand for filters represents the single largest growth opportunity in the RFFE industry, according to a Mobile Experts May 2017 report. For traditional “low band” frequencies, SAW filters have been the primary choice, while high band solutions have utilized BAW filters due to their performance and yield. While there are multiple sources of supply for SAW technology, the source of supply for BAW filters is more limited and essentially dominated by two manufacturers worldwide. See “Competition” below.
+ 
+
+6
+-
+
+ 
+
+In addition, signal loss of current generation acoustic wave filters is excessively high, and up to half of the transmit power is wasted as heat, which ultimately constrains battery life. Another challenge is that the allocated spectrum for mobile communication bands requires high bandwidth RF filters, which, in turn, requires wide bandwidth core resonator technology. In addition, filters with inferior selectivity either reduce the available operating bands the mobile device can support or increase the noise in the operating bands. Each of these problems negatively impacts the end-user’s experience when using the mobile device.
+ 
+The RFFE must meet growing data demands while reducing cost and improving battery life. Our solution involves a new approach to RFFE component manufacturing, enabled by XBAW technology. We expect our technology to produce filters that will reduce the overall system cost and improve performance of the RFFE.
+ 
+Our Solutions
+ 
+Our immediate focus is on the commercialization of wide bandwidth RF filters operating in the high frequency spectrum known as the sub 6 GHz bands. Using our XBAW technology, we believe these filters enable new PAD module or RFFE competition for high band modules as well as performance-driven low band applications. Initially, we expect to target select strategic RFFE market leaders as well as tier two mobile phone original equipment manufacturers (“OEMs”) and/or RFFE module suppliers. Longer term, our focus will be to expand our market share by engaging with multiple mobile phone OEMs and RFFE module manufacturers. We have transitioned our technology to our Canandaigua, NY facility and continue to focus on the commercialization of our filters using our XBAW technology. This will be the first in a series of R&D activities that will set the foundation for filter products that we believe can disrupt the high band filter market. We will develop a series of filter designs to be used in the manufacturing of duplexers or more complex multiplexers targeting the 4G/LTE, emerging 5G, military and WiFi frequency bands. We believe our filter designs will create an alternative for, and replace, filters currently manufactured using materials with fundamentally inferior performance. Figure 1 below illustrates characterization plots that represent the high power, high bandwidth and high frequency capability of our essential single crystal materials.
+ 
+Figure 1-Characteristics of our essentially single crystal materials used to fabricate our BAW RF filters.
+ 
+
+Single-Band Designs for Duplexers and Multiplexers
+ 
+SAW filters have been preferred in modern RFFE because of their high performance, small size and low cost. However, traditional SAW ladder designs do not perform well in high frequency bands or bands with closely spaced receive and transmit channels, typical of many new bands. Therefore, BAW filters are needed for these bands. We have demonstrated in our NY wafer fab an ability to fabricate BAW resonators, the building block of BAW filters, that are more efficient than existing available BAW resonators. Furthermore, we believe the improved efficiency will reduce the total cost of RFFE as well as reduce the battery demand for mobile devices. Additionally, we believe that our XBAW technology will allow for a single manufacturing method that will support all of the BAW filter band range and a significant portion of the SAW band range. Figure 2 below illustrates what we believe will be the frequency range of our XBAW technology.
+ 
+
+7
+-
+
+ 
+
+Figure 2- The potential range of our technology
+ 
+
+Pure-Play Filter Provider Enables New Module Competition
+ 
+Given the high sound velocity in our piezoelectric materials, our technology allows for a wide range of frequency coverage, and we plan to supply filters that will support 4G/LTE, emerging 5G, military and WiFi bands. We have successfully demonstrated resonators that will support the design and fabrication of 4G/LTE filters, WiFi filters and military radar filters, with frequencies adjacent to the emerging 5G mobile auctions. We completed the development required to transition our XBAW technology to high volume manufacturing in June 2018. We will be a pure-play filter supplier that will address the increasing RF complexity placed on RFFE manufacturers supporting 4G/LTE and WiFi. Figure 3 illustrates the historical growth in RF complexity.
+Figure 3- Increase in Filter content in Mobile Phone Front End Modules (FEMs) from 2015 - 2021 (Source: Mobile Experts 2016)
+ 
+
+Commercialization
+ 
+Our immediate focus is on the commercialization of wide bandwidth RF filters to address the RFFE with innovative single-band designs using our XBAW sub 6 GHz RF filter technology. We are currently developing commercial single-band filters through our wafer fabrication facility. We are focused on developing fixed-band filters because we believe these designs present the greatest near-term potential for commercialization of our technology, and that once demonstrated, the facility can be more efficiently readied for production compared to alternative technologies.
+ 
+Our technology development process consists of the following five phases:
+ 
+
+1. | Pre-Alpha – Demonstrate basic feasibility/capabilities 
+---+------------------------------------------------------------------------------------------------
+
+
+2. | Alpha – Develop stable recipe (Process freeze) with limited production development 
+---+----------------------------------------------------------------------------------------------------------------------------
+
+
+3. | Beta – Complete technology qualification (Process qualification) in factory to enable product design 
+---+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+4. | Pre-Production – Demonstrate lead product production capabilities, release final design tools 
+---+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+5. | Production – Continual improvement of process and parametric performance 
+---+------------------------------------------------------------------------------------------------------------------
+
+ 
+In March 2018, we announced the completion of the alpha-phase for our first generation XBAW process technology called XB1. In July 2018 we announced the completion of the beta-phase for both the XB1 and our single-crystal materials process. This shortens the development cycle time for new catalog and custom components as each new product will start in the pre-production phase and will not require end-to-end qualification.
+ 
+
+8
+-
+
+Research and Development
+ 
+Since inception, the Company’s focus has been on developing an innovative mobile-wireless filter technology with a compelling value proposition to our potential customers and a significant and noticeable impact to the end user. Whereas today’s polycrystalline material (used to manufacture RF resonators and filters) is sputtered on a metal-coated carrier, our patented XBAW technology employs high quality, single-crystal and near single-crystal piezoelectric films in our resonators, which are used as the enabler to create high performance BAW RF filters. Our high purity piezoelectric materials are a key differentiator when compared to the incumbent amorphous thin-film technologies because it increases the acoustic velocity, the electromechanical coupling coefficient in the resonator and high power performance. These technology features allow Akoustis to engineer RF filter solutions for a broad spectrum for multiple end markets. Research and development expense totaled $13,266,975 for the year ended June 30, 2018 and $5,013,260 for the year ended June 30, 2017. These R&D activities focused on high purity piezoelectric materials development and resonator demonstration. Current R&D investments include materials advancement, resonator development, RF filter design and high yield wafer manufacturing.
+ 
+As a result of our efforts, we have developed and introduced several new filters which are currently sampling with multiple customers across multiple markets. Our focus remains on improving the electromechanical coupling and quality factor of our resonator technology and the performance of our fabricated filters through design improvements and process optimization experiments.
+ 
+We announced our first filter in March, the AKF-1252, a 5.2 GHz filter for the WiFi premise equipment market. The AKF-1252 is a wideband filter for the U-NII-1&2A bands with typical insertion loss of less than 1dB, high rejection and a high power rating in an ultra-small footprint module. Our product is the first BAW RF filter targeting the 5.2 GHz WiFi band and is 23 times smaller than the current technology in use today.
+ 
+
+Following the AKF-1252, we also announced the AKF-1652, a 5.2 GHz filter for the WiFi device market, with lower insertion loss. We are currently working on the development of the small footprint, flip-chip packaging that will be required before the expected uptake of 5.2 GHz WiFi in cellular handsets and other devices. We believe that handset makers are still a year away from including tri-band WiFi in smartphones, tablets and other mobile devices, and expect to complete the packaging development ahead of the market.
+ 
+In April 2018 we announced the AKF-1938 filter in the 3.8 GHz band, adjacent to emerging 5G mobile frequency auctions. In early July, we announced that we have signed our first customer, a large military OEM with annual revenue of over $1 billion. We expect to see revenue from this product begin in the second quarter of fiscal 2019, with follow-on orders expected in calendar 2019 and beyond.
+ 
+We have also announced a 4G LTE infrastructure win for two adjacent filters, with engineering revenue attached and follow on production filter revenue expected upon completion of the design. Moving forward, we expect to deliver new catalog components based on the frequencies in highest demand from our customers and will announce additional products as we continue to benefit from our research and development efforts.
+ 
+Raw Materials
+ 
+Within its internal manufacturing operation, Akoustis sources raw materials, process gases, metals and other miscellaneous supplies to fabricate its BAW RF filter circuits. Materials range from substrates (used to deposit key piezoelectric materials) to standard dielectric-based laminates (used for packaging of the RF filter circuits). The Company sources at least two types of substrate materials for its BAW process and we have more than one supplier for one material and a single source for the other. Multiple process gases are used for material synthesis, process etching and wafer treatment. While there is more than one supplier for most process gases, the purity levels of such gases may change by source. Hence, either purification or process requalification may be required, as purchasing from a second source is required. Akoustis sources various high purity metals for electrode formation and interconnect layers for its RF circuits. Such metals are available in various purity levels and are available from more than one supplier. Other process handling hardware common to the semiconductor industry is available in abundance from multiple suppliers. Consistent with other semiconductor manufacturers, the Company may have to work with all its suppliers to ensure adequate supply of raw materials, process gases and metals as the Company ramps from R&D into high volume manufacturing.
+
+9
+-
+
+Intellectual Property
+ 
+We rely on a combination of intellectual property rights, including patents and trade secrets, along with copyrights, trademarks and contractual obligations and restrictions to protect our core technology and business.
+ 
+In the United States and internationally we have fourteen (14) patents, in addition to twenty eight (28) pending patent applications and three (3) patents that are subject to a license agreement requiring further negotiation. Our intellectual property relates directly to our XBAW technology, including materials and device designs, methods of manufacture, integrated circuit designs, wafer packaging, and point of use (to include mobile applications). Our patents expire between 2031 and 2035. We intend to continue to innovate and expand our patent portfolio, and when appropriate, we will look to purchase license(s) that grant access to additional intellectual property that enables, enhances or further expands our technical capabilities and/or product.
+ 
+We believe that Akoustis will have competitive advantages from rights granted under our patent applications. Some applications, however, may not result in the issuance of any patents. In addition, any future patent may be opposed, contested, circumvented or designed around by a third party or found to be unenforceable or invalidated. Others may develop technologies that are similar or superior to our proprietary technologies, duplicate our proprietary technologies or design around patents owned or licensed by us.
+ 
+We generally control access to, and use of, our confidential information through the use of internal and external controls, including contractual protections with employees, contractors and customers. We rely in part on the United States and international copyright laws to protect our intellectual property. All employees and consultants are required to execute confidentiality and intellectual property assignment agreements in connection with their employment and consulting relationships with us. We also require them to agree to disclose and assign to us all inventions conceived or made in connection with the employment or consulting relationship.
+ 
+Competition
+ 
+The RF filter market is controlled by a relatively small number of RF component suppliers. These companies include, among others, Broadcom, Murata Manufacturing Co., Ltd., Qorvo, Inc., Skyworks Solutions Inc., Taiyo Yuden, and Qualcomm. Broadcom and Qorvo, Inc. dominate the high band BAW filter market, controlling a significant portion of the customer base and are increasing capacity to meet the growing RF filter demand of the 4G/LTE market.
+ 
+Upon completion of our product development, we will compete directly with these companies to secure design slots inside RFFE modules - targeting companies that procure filters or internally source filters. While many of our competitors have more resources than we have, we believe that our filter designs will be superior in performance, and we will approach prospective customers as a pure-play filter supplier, offering advantages in performance over the full frequency range at competitive costs. Our challenge will be to convince our customers that we have a strong intellectual property position, we will be able to deliver in volume, that we will meet their price targets, and that we can satisfy reliability and other requirements. For a list of other competitive factors, see “Item 1A. Risk Factors - We are still developing our products, and they may not be accepted in the market.”
+ 
+
+10
+--
+
+Employees
+ 
+We place an emphasis on hiring the best talent at the right time to enable our core technology and business growth. This includes establishing a competitive compensation and benefits package, thereby enhancing our ability to recruit experienced personnel and key technologists. As of June 30, we had a total of 69 full-time employees plus 6 part-time employees. We will continue to hire specific and targeted positions to further enable our technology and manufacturing capabilities as and when appropriate.
+Government Regulations
+ 
+Our business and products in development are subject to regulation by various federal and state governmental agencies, including the radio frequency emission regulatory activities of the Federal Communications Commission (“FCC”), the consumer protection laws of the Federal Trade Commission, the import/export regulatory activities of the Department of Commerce, the product safety regulatory activities of the Consumer Products Safety Commission, and the environmental regulatory activities of the Environmental Protection Agency.
+ 
+The rules and regulations of the FCC limit the RF used by, and level of power emitting from, electronic equipment. Our RF filters, as a key element enabling consumer electronic smartphone equipment, are required to comply with these FCC rules and may require certification, verification or registration of our RF filters with the FCC. Certification and verification of new equipment requires testing to ensure the equipment’s compliance with the FCC’s rules. The equipment must be labeled according to the FCC’s rules to show compliance with these rules. Testing, processing of the FCC’s equipment certificate or FCC registration and labeling may increase development and production costs and could delay the implementation of our XBAW acoustic wave resonator technology for our RF filters and the launch and commercial productions of our filters into the U.S. market. Electronic equipment permitted or authorized to be used by us through FCC certification or verification procedures must not cause harmful interference to licensed FCC users, and may be subject to RF interference from licensed FCC users. Selling, leasing or importing non-compliant equipment is considered a violation of FCC rules and federal law, and violators may be subject to an enforcement action by the FCC. Any failure to comply with the applicable rules and regulations of the FCC could have an adverse effect on our business, operating results and financial condition by increasing our compliance costs and/or limiting our sales in the United States.
+ 
+The semiconductor and electronics industries also have been subject to increasing environmental regulations. A number of domestic and foreign jurisdictions seek to restrict the use of various substances, a number of which have been used in our products in development or processes. While we have implemented a compliance program to ensure our product offering meets these regulations, there may be instances where alternative substances will not be available or commercially feasible, or may only be available from a single source, or may be significantly more expensive than their restricted counterparts. Additionally, if we were found to be non-compliant with any such rule or regulation, we could be subject to fines, penalties and/or restrictions imposed by government agencies that could adversely affect our operating results. Our cost to maintain compliance with existing environmental regulations is expected to be nominal based on our structure in which we outsource a majority of our operations to suppliers that are responsible for meeting environmental regulations. We will continue to monitor our quality program and expand as required to maintain compliance and ability to audit our supply chain.
+ 
+Noncompliance with applicable regulations or requirements could subject us to investigations, sanctions, mandatory product recalls, enforcement actions, disgorgement of profits, fines, damages, civil and criminal penalties, or injunctions. An adverse outcome in any such litigation could require us to pay contractual damages, compensatory damages, punitive damages, attorneys’ fees and costs. These enforcement actions could harm our business, financial condition and results of operations. If any governmental sanctions are imposed, or if we do not prevail in any possible civil or criminal litigation, our business, financial condition and results of operations could be materially adversely affected. In addition, responding to any action will likely result in a significant diversion of management’s attention and resources and an increase in professional fees.
+ 
+
+11
+--
+
