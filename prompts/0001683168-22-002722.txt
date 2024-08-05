@@ -1,0 +1,233 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+ 
+As used in this Form 10-K, the terms “we,” “us,” “our,” and the “Company” refer to DarkPulse, Inc., a Delaware corporation, and its subsidiaries.
+ 
+Corporate Overview 
+ 
+Organization
+ 
+DarkPulse, Inc. (“DarkPulse” or the "Company") is a technology-security company incorporated in 1989 as Klever Marketing, Inc ("Klever"). One of our principal wholly-owned subsidiaries, DarkPulse Technologies Inc. ("DPTI"), originally started as a technology spinout from the University of New Brunswick, Fredericton, Canada. DPI is comprised of multiple security platforms: Patented BOTDA Fiber Optic sensor systems and Satellite Communications services.
+ 
+In December 2010, DPTI entered into an Assignment Agreement with the University of New Brunswick, Canada (the “University”), pursuant to which the University sold, transferred, and assigned to us certain patents related to the University’s BOTDA dark-pulse technology (the "Patents") in exchange for the issuance of a debenture to the University in the amount of C$1,500,000 (Canadian dollars).  In April 2017, DPTI issued a replacement debenture to the University in the amount of US$1,491,923 (the “Debenture”).  The Patents and the Debenture were initially recorded in our accounts at $1,491,923, based upon the exchange rate between the U.S. dollar and the Canadian dollar on December 16, 2010, the date of the original debenture. In addition to the repayment of principal and interest, the Debenture requires DPTI to pay the University a 2% royalty on sales of any and all products or services which incorporate the Patents for a period of five years commencing on April 24, 2018, as well as to reimburse the University for its patent-related costs.
+ 
+On April 27, 2018, Klever entered into an Agreement and Plan of Merger (the “Merger Agreement” or the “Merger”) involving Klever as the surviving parent corporation and acquiring DPTI as its wholly-owned subsidiary. On July 18, 2018, the parties closed the Merger Agreement, as amended on July 7, 2018, and the name of the Company was subsequently changed to “DarkPulse, Inc.” With the change of control of the Company, the Merger was accounted for as a recapitalization in a manner similar to a reverse acquisition.
+ 
+On July 20, 2018, we filed a Certificate of Amendment to our Certificate of Incorporation with the State of Delaware, changing the name of the Company to “DarkPulse, Inc.” We filed a corporate action notification with the Financial Industry Regulatory Authority (“FINRA”), and our ticker symbol was changed to “DPLS.”
+ 
+Our security and monitoring systems will be delivered in applications for critical infrastructure/ key resources such as but not limited to border security, pipelines, the oil and gas industry and mine safety. Current uses of fiber optic distributed sensor technology have been limited to quasi-static, long-term structural health monitoring due to the time required to obtain the data and its poor precision. Our patented BOTDA dark-pulse sensor technology allows for the monitoring of highly dynamic environments due to its greater resolution and accuracy. 
+ 
+
+
+
+1
+-
+
+Our Operating Units
+ 
+Optilan
+ 
+Founded in 1990, Optilan is a leading independent security and communications systems integrator worldwide. Providing specialist technologies and techniques Optilan helps to protect businesses and organizations from external threats. Telecommunications, Energy, Rail, Critical Network Infrastructure, Pipeline Integrity Systems, Renewables and Security. Headquartered in Warwick, United Kingdom with a 30-year pedigree, at Optilan our customers trust us to keep the integrity of their assets safe and secure, by managing the life cycle delivery risk of our solutions. By fostering a collaborative design approach to complex problems, we provide innovative solutions, custom fit to even the most demanding of sites and scale of projects. Importantly, our commitment to our safety culture remains unaverred, to ensure that everyone goes home safely every day. We orchestrate business resilience with a suite of end-to-end solutions, combined with connectivity and professional service at a global level. Today's business environment is more dynamic than ever, with continuous change and disruption accepted as the new normal. We complement our tailored, integrated expertise with a curated ecosystem of leading manufacturers, to achieve both high quality and enduring results. We are proud to foster a unique culture full of talented individuals. Our sector focus ensures that our account teams are fully accredited in their operational areas. We are committed to creating individually tailored solutions, using collaborative techniques and programming tools to deliver the networks of the future. Optilan has provided integrated solutions for leading Oil and Gas, Industrial and Energy companies around the world. As an industry leader in deploying communication networks with exceptional reliability, our reputation for delivering the highest quality products remains unsurpassed. This spans mobile, broadband, security systems and customer premise works. Our professionals have the skill to adopt and embed our expertise into existing platforms, processes, and cultures, delivering exceptional value for our clients. Beyond our operational scope, we strive to consider the impact of our global footprint and mitigate associated environmental and sustainability risks. These factors combined set Optilan apart and establish why customers continue to trust and invest in our services.
+Remote Intelligence 
+ 
+Remote Intelligence provides Unmanned Aerial Drone and UGC (unmanned ground crawler) Services to a variety of clients; from Industrial Mapping and Ecosystem Services, to Search and Rescue, to Pipeline Security, we provide sales and consulting services for all markets. Remote Intelligence started in 2013 with a simple vision; to use the new and developing field of unmanned aerial vehicles to produce higher quality, safer and more effective products for a variety of markets. We strive to Equip, Educate and Advance the use of the most advanced Unmanned Aerial Systems and Unmanned Ground Crawlers in the United States and around the world for commercial, government and domestic use. Our top priorities as we do that are to find safe and ethical ways to use this new and exciting field of technology to make life better. Providing holistic intelligence consultation and solutions including full-service Methane Detection and Monitoring. Quick, comprehensive site mapping and aerial inspection services. We specialize in fully integrated, geo-rectified, 3D modeled mapping and AI for industrial applications, specializing in the energy and environmental industries, with AI and live streaming capabilities anywhere in the world. Also providing aerial survey, video inspection services, emergency support services, wildlife and habitat surveys, and comprehensive system design, training, and sales for both the commercial and private sectors. Integrating the latest tech solutions like artificial intelligence. Globally connected with a base of operation in Wellsboro Pennsylvania.
+ 
+TerraData Unmanned
+ 
+Comprised of a team with more than 30 years cumulative experience in the unmanned industry, TerraData custom manufactures NDAA compliant drones and unmanned ground crawlers to meet the needs of its customers. TerraData has successfully delivered a custom drone platform per a customer’s specifications which exceeds current industry offering by more than 30 minutes. The team has manufactured, and successfully flight tested a Quad Copter drone with 1.5KG payload capabilities that delivers more than 60 minutes of continuous flight. This cutting-edge design is a combination of proprietary software and hardware. The custom platform offers NDAA compliant autopilot, communications links, TSO Certified GPS unit and ground control station. Future designs include integrating RTK for mapping, methane detectors, and true terrain following capabilities. There are also improvements scheduled that are intended to further extend the endurance and provide over 4KG of payload capacity, not including batteries. TerraData has also announced the research, development and successful testing of an autonomous crawler soon to be released to the market with Methane and Multi Gas Detection capabilities. Working seamlessly with its partners at DarkPulse and its subsidiary companies, TerraData can custom design, build and operate a system to meet our customers' needs 24 hours a day 365 days a year around the block or around the globe.
+ 
+
+
+
+2
+-
+
+Wildlife Specialists
+ 
+Wildlife Specialists, LLC was founded in 2007 to provide clients with comprehensive wildlife and environmental assessment, planning, and monitoring services. We currently maintain two regional offices located in north central and southeastern Pennsylvania and are available to provide services to clients nationwide and around the globe. Our staff are well-established professionals who have a wide range of experience in wildlife management, research, and monitoring at the local and statewide levels throughout the United States. In addition, we have specific expertise in providing the full range of sensitive species and habitat assessments necessary for your development projects. Wildlife Specialists’ mission is to provide consulting services that use the latest technology to produce the highest quality results compatible with our clients’ management goals and the appropriate protocols developed by state and federal wildlife management agencies. Wildlife Specialists is fully insured to industry standards and committed to the safety of our staff, our clients, and the public. We have maintained safety certification through ISNetWorld and other 3rd party certifiers. We are also officially PennDOT, GSA, Small Business and HUBZone Certified.
+TJM West Electronics
+ 
+TJM West Electronics is an ISO9001 and AS9100 certified electronics and electro-mechanical assembly operation. We operate out of a high tech, 20,000 Sq ft facility in Tempe, Arizona. Our assembly team is trained to IPC 610 and J-STD-001 standards, Class 2 and 3. We have been in business since 1999. Our latest website was developed to be a customer interface for rapid costing, build scheduling, open order status, and complete manufacturing history data records. Registered users can enter build and fabrication parameters for quantities of 2-20 units. Our calculator provides itemized labor, PCB fabrication cost and delivery. Registered users can also access factory floor for the updated status and delivery date of open orders, a review of configuration, quotes and full quality history database.
+ 
+As a U.S. manufacturer and test of advanced electronics, cables and sub-assemblies. we specialize in advanced package and complex CCA and hardware. Certified to space and flight AS9100D, TJM has over 20 years supplying ultra-high reliability, and fully documented electronic Hardware. Per AS9100D, TJM maintains all material certifications, process and measurement reports electronically as part of a complete quality history record. Manufacturing PCB Design services on the most popular platforms including Cadence, Altium, and Mentor. Design output data integrates seamlessly to our automated manufacturing line. Test Development ICT to functional and burn-in. We develop a test plan and hardware system to deliver your 100% verified product. Low Cost, High Reliability Manufacturing is the net result of quality planning, optimizing automation technology, operational efficiency, and communication. High value, low-cost domestic solution to replace offshore manufacturing. Protect your IP and keep direct line-of sight of manufacturing with products made in the USA. TJM West Is your one stop shop.
+ 
+Acquisitions
+ 
+On August 9, 2021, we entered into a Share Purchase Agreement with Optilan Guernsey Limited and Optilan Holdco 2 Limited, pursuant to which we purchased from the sellers all of the issued and outstanding equity interests of Optilan HoldCo 3 Limited, a private company incorporated in England and Wales (“Optilan”) for £1.00 and also a commitment to enter into a subscription agreement. Optilan is now a wholly-owned subsidiary of the Company.
+ 
+On August 9, 2021, we entered into a Subscription Agreement with Optilan, pursuant to which we agreed to purchase an aggregate of 4,000,000 Ordinary Shares of Optilan for an aggregate purchase price of £4,000,000.
+ 
+
+
+
+1
+-
+
+ 
+
+On August 30, 2021, we closed two separate Membership Interest Purchase Agreements with Remote Intelligence, Limited Liability Company, a Pennsylvania limited liability company (“RI”) and Wildlife Specialists, LLC, a Pennsylvania limited liability company (“WS”) pursuant to which we agreed to pay to the majority shareholder of each of RI and WS an aggregate of 15,000,000 shares of our Common Stock, $500,000 to be paid on the closing date, and an additional $500,000 to be paid 12 weeks from closing date in exchange for 60% ownership of each of RI and WS. RI and WS are now subsidiaries of the Company.
+ 
+On September 8, 2021, we entered into and closed the Stock Purchase Agreement with TJM Electronics West, Inc., an Arizona corporation (“TJM”), and TJM’s shareholders, pursuant to which we agreed to purchase all of the equity interests in TJM in exchange for $450,000, subject to adjustments as defined in the Stock Purchase Agreement. TJM is now a wholly-owned subsidiary of the Company.
+ 
+Effective October 1, 2021, we entered into and closed the Membership Purchase Agreement with TerraData Unmanned, PLLC, a Florida limited liability company (“TerraData”), and Justin Dee, the sole shareholder of TerraData, pursuant to which we agreed to purchase 60% of the equity interests in TerraData in exchange for 3,725,386 shares of our Common Stock and $400,000, subject to adjustments as defined in the Membership Purchase Agreement, to be paid within 12 weeks of closing. TerraData is now a subsidiary of the Company.
+ 
+Our Business
+ 
+We offer a full suite of engineering, installation and security management solutions to industries and governments. Coupled with our patented Brillouin optical time domain analyzer (“BOTDA”) dark-pulse technology (the “DarkPulse Technology”), we provide our customers a comprehensive data stream of critical metrics for assessing the health and security of their infrastructure. Our comprehensive system provides for rapid, precise analysis and responsive activities predetermined by the end-user customer. These responses include the use of “smart” AI platformed cameras, facial recognition technologies and multiple drone platforms. Our User Interface (UI) is cloud based which offers end-users access to their systems on any device located anywhere in the world. Additional programming of the UI is being completed within a game engine that will also offer access via Virtual Reality headsets, allowing end-users to virtually inspection their assets.
+ 
+Historically, distributed sensor systems have been too costly, slow and limited in their capabilities to attain widespread use. In addition, Brillouin-based sensors have been plagued with temperature and strain cross-sensitivity, i.e. the inability to distinguish between temperature and strain change along the same fiber. The loss of spatial resolution with an increase in fiber length has also limited the use of distributed sensor systems. Due to these shortcomings, existing technologies are unable to succeed within today’s dynamic environments, and needs for more advanced sensor technologies have remained unsatisfied.
+ 
+By contrast to existing technologies, the DarkPulse Technology is a distributed-fiber sensing system, based on dark-pulse Brillouin scattering, which reports in real-time on conditions such as temperature, stress, strain corrosion and structural health monitoring of Critical Infrastructure/Key Resources including Bridges, Buildings, Roadways pipelines and mining installations.
+ 
+DarkPulse Technology’s differentiators from and advantages over existing technologies:
+ 
+
+· | Real-time Reporting: Higher data acquisition speeds allowing for structural monitoring of dynamic systems 
+--+--------------------------------------------------------------------------------------------------------------
+· | Cost to Customer: Significantly lower acquisition and operating costs 
+· | Precision: A greater magnitude of precision and spatial resolution than other systems currently available 
+· | Applications: Wider range of capabilities than other systems currently available 
+· | Power consumption: Lower power consumption than existing systems allowing for off-grid installations 
+· | Integration: Capable of integrating with existing systems 
+· | Central station monitoring/cloud based GUI 
+
+ 
+We believe that these key advantages should allow us not only to enter existing markets, but more importantly, to open new market opportunities with new applications. We intend to leverage new applications to target clients that have been unable to make use of distributed fiber optic technology to date.
+ 
+
+
+
+2
+-
+
+Revenue Generation
+ 
+We intend to generate revenue from the following sources:
+ 
+
+· | Hardware equipment sales, warranties, service contracts and licensing to large enterprises and governments; 
+--+----------------------------------------------------------------------------------------------------------------
+
+
+· | Recurring subscription fees paid by enterprise/government users for access to our 24/7 monitoring services of their critical infrastructure; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Recurring subscription fees paid by enterprise/government users for access to our applications by enterprises/governments; 
+--+-------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Recurring subscription fees paid by enterprise users for access to data stored in the cloud that may be integrated into large, third-party providers such as Oracle, Google Cloud; and Microsoft; among others; and 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Recurring subscription fees paid by enterprise/government users who subscribe to bundled service offerings. 
+--+----------------------------------------------------------------------------------------------------------------
+
+Our Market
+ 
+Current uses of fiber optic distributed sensor technology have been limited to quasi-static, long-term structural health monitoring due to the time required to obtain the data and its poor precision. Our DarkPulse Technology allows for the monitoring of highly dynamic environments due to its magnitude of increased resolution and greater accuracy. The resulting high speed, real-time monitoring capabilities of our DarkPulse Technology should satisfy a broad range of existing and emerging requirements. Use of the DarkPulse Technology by our customers should result in lower production costs with increased sensing capabilities that can integrate with existing technology and be upgraded cost effectively.
+ 
+Due to the characteristics of the fiber used in fiber optic sensing, the uses of our DarkPulse Technology are wide ranging. Optical fiber is hard-wearing, which allows it to be used in environments where other technologies fail (for example, at temperatures ranging from -40°C to 300°C and 1000psi). Additionally, DarkPulse Technology’s sensors allow for live sensing due to the speed at which the analysis takes place.
+ 
+Our management team is continually identifying markets in which our DarkPulse Technology may be readily applied. Once these markets (as described below) have been addressed, our DarkPulse Technology may be adapted and applied to new markets.
+ 
+Structural Monitoring
+ 
+
+· | Buildings and Skyscrapers
+--+--------------------------
+· | Bridges, Tunnels and Dams
+· | Roads and Railway tracks 
+
+Temperature Sensing
+ 
+
+· | Fire Alarm and Environment control 
+--+-----------------------------------------------
+· | Low cost and maintenance 
+· | Long life span 
+· | Ability to withstand harsh working environment
+
+
+3
+-
+
+Security & Defense
+ 
+
+· | National Border Protection 
+--+---------------------------------------------------------
+· | Protection of Military and other sensitive installations
+
+Consulting Services:
+ 
+
+· | Consulting (as stand-alone or presales)
+--+----------------------------------------
+· | Post sales deployment and Support 
+· | Managed services (monitoring, etc.) 
+
+Additional Potential Markets:
+ 
+
+· | Monitoring of composite structures in aircraft 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------
+· | Dynamic stress monitoring of runways 
+· | Dynamic ship hull stress monitoring, especially with a view to double-hull oil tankers 
+· | Smart grid and power conservation applications based on cooling and/or heat proximity – for instance, computer rooms, cell towers for heat soak 
+· | Monitor low temperatures as part of control systems 
+· | Monitoring of temperatures in extreme refrigeration environments 
+· | Avalanche early warning systems 
+· | Sea defense monitoring 
+
+Marketing
+ 
+We utilize our DarkPulse Technology as the foundation of our ongoing marketing initiatives. Most notably, the greater magnitude of increased capabilities DarkPulse Technology versus existing bright-pulsing technologies. Existing bright-pulse Brillouin-based sensors have historically been plagued with temperature and strain cross-sensitivity, i.e. the inability to distinguish between temperature and strain change along the same fiber. The loss of spatial resolution with an increase in fiber length is also a limiting factor for the use of distributed sensor systems. Because of these shortcomings, existing bright-pulse Brillouin-based technologies are unable to succeed within today’s dynamic environments, which coincides with our DarkPulse Technology’s increased capabilities over bright-pulse systems. Our marketing initiatives include daily, broad-based social media engagement, management of our website, email campaigns, national television commercials, magazine ads, and other ongoing initiatives designed to increase awareness of our products and services and drive conversion and adoption rates.
+Competition
+ 
+The overall optical sensing market is projected to reach USD $3.47 billion by 2023 from USD $1.13 billion in 2016, at a CAGR of 15.47% between 2017 and 2023.1 We are active in the optical sensing market, including Oil & Gas pipeline health monitoring, National Border Security applications, and the mining industry. We believe that fiber sensing applications which incorporate our DarkPulse Technology may provide significant competitive advantages over structural health monitoring applications offered by the long-term leaders in the field, such as Schlumberger, Hewlett-Packard, and Yokogawa, which collectively account for a significant portion of industry sales. These companies, as well as others, have numerous differences in feature sets and functionality, but all share certain basic attributes: a bright-pulse technology as the core of their systems architecture. An architecture designed using bright-pulsing technology has limited sensing capabilities and resolutions of one meter allowing for mostly long-term quasi-static deployments.
+ 
+
+_________________
+ 
+1 Optical Sensing Market by Industry (Aerospace & Defense, Utilities, Oil & Gas, Medical, Construction, and Consumer Electronics), Application, Method, and Geography - Global Forecast to 202\3 (https://www.marketsandmarkets.com/Market-Reports/optical-sensing-market-197592599.html?gclid=EAIaIQobChMIzrfanf7P4QIVA0GGCh3jlw7rEAAYASAAEgI9bvD_BwE)
+ 
+
+4
+-
+
+ 
+
+However, we utilize our DarkPulse Technology allowing for multiple applications into those markets unavailable to companies using bright-pulse technology. While many of the companies using bright-pulse technology have attempted to incorporate various sensing techniques into a legacy technology, none have been able to offer the order of magnitude resolutions offered by our DarkPulse Technology. This magnitude in resolution coupled with the DarkPulse Technology’s increased data collection speeds allows our DarkPulse Technology to be installed into areas of the market that our competitors cannot. Our future financial condition and operating results depend on our ability to provide a high-quality solution as well as increased distribution of the solutions in each of the markets in which we compete or intend to compete within.
+ 
+The markets for our products and services are highly competitive and we are confronted by aggressive competition. These markets are characterized by frequent product introductions and rapid technological advances. Our financial condition and operating results can be adversely affected by these and other industry-wide downward pressures on gross margins. Principal competitive factors important to us include price, product features, relative price and performance, product quality and reliability, marketing and distribution capability, service and support and corporate reputation.
+ 
+Intellectual Property
+ 
+Our policy is to protect our technology by, among other things, patents, trade secret protection and copyrights. We have taken security measures to protect our trade secrets and proprietary know-how, to the greatest extent possible. Our means of protecting our proprietary rights may not prove to be adequate and our competitors may independently develop technology or products that are similar to ours or that compete with ours. Trade secret, patent and copyright laws afford only certain protections for our technology and products. The laws of many countries do not protect our proprietary rights to as great an extent as do the laws of the United States. Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to obtain and use information that we regard as proprietary. Third parties may also design around our proprietary rights, which may render our protected technology and products less valuable, if the design around is favorably received in the marketplace.
+ 
+In addition, any of our products or technology covered by patents or other intellectual property rights, could cause us to be subject to various legal actions. Litigation may be necessary to enforce our intellectual property rights, to protect our trade secrets, to determine the validity and scope of the proprietary rights of others, or to defend against claims of infringement, invalidity, misappropriation, or other claims.
+ 
+Through DPTI’s April 2017 Intellectual Property agreement with the University, DPTI was sold, transferred, and assigned U.S. Patent Nos. 7,245,790, 8,643,829, and 9,534,965, each of which are related to our BOTDA dark-pulse technology. In addition, Canadian Patent No. 2,502,275 was also assigned.
+ 
+Suppliers
+ 
+We currently rely on a full-time, dedicated, external team of experienced professionals for the coding and maintenance of our products. We believe we have mitigated the associated risks of managing an external team of software and engineering development professionals by incorporating internal management and oversight, as well as appropriate systems, protocols, controls, and procedures and ensuring that we have access to additional qualified professionals to provide like or complementary services.
+Government Regulation
+ 
+Government regulation is not of significant concern for our business nor is government regulation expected to become an impediment to the business in the near- or mid-term as management is currently unaware of any planned or anticipated government regulation that would have a material impact on our business. Our management believes it currently possesses all requisite authority to conduct our business as described in this Form 10-K.
+Employees
+ 
+As of April 11, 2022, we had 167 full-time employee and no part-time employees.
+ 
+
+
+
+5
+-
+
