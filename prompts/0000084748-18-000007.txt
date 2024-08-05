@@ -1,0 +1,128 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+In this Report, we use the terms “Company,” “Rogers,” “we,” “us,” and “our” unless otherwise indicated or the context otherwise requires, to refer to Rogers Corporation and its consolidated subsidiaries. 
+Forward-Looking Statements 
+This Annual Report on Form 10-K includes “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Such statements are generally accompanied by words such as “anticipate,” “assume,” “believe,” “could,” “estimate,” “expect,” “foresee,” “goal,” “intend,” “may,” “might,” “plan,” “potential,” “predict,” “project,” “should,” “seek,” “target” or similar expressions that convey uncertainty as to future events or outcomes. Forward-looking statements are based on assumptions and beliefs that we believe to be reasonable; however, assumed facts almost always vary from actual results, and the differences between assumed facts and actual results could be material depending upon the circumstances. Where we express an expectation or belief as to future results, that expectation or belief is expressed in good faith and based on assumptions believed to have a reasonable basis. We cannot assure you, however, that the stated expectation or belief will occur or be achieved or accomplished. Among the factors that could cause our results to differ materially from those indicated by forward-looking statements are risks and uncertainties inherent in our business including, without limitation:
+
+• | failure to capitalize on, or volatility within, the Company’s growth drivers, including advanced mobility and advanced connectivity;
+
+
+• | uncertain business, economic and political conditions in the United States and abroad, particularly in China, South Korea, Germany, Hungary and Belgium, where we maintain significant manufacturing, sales or administrative operations;
+
+
+• | fluctuations in foreign currency exchange rates;
+
+
+• | our ability to develop innovative products and have them incorporated into end-user products and systems;
+
+
+• | the extent to which end-user products and systems incorporating our products achieve commercial success;
+
+
+• | the ability of our sole or limited source suppliers to deliver certain key raw materials to us in a timely manner;
+
+
+• | intense global competition affecting both our existing products and products currently under development;
+
+
+• | failure to realize, or delays in the realization of, anticipated benefits of acquisitions and divestitures due to, among other things, the existence of unknown liabilities or difficulty integrating acquired businesses;
+
+
+• | our ability to attract and retain management and skilled technical personnel;
+
+
+• | our ability to protect our proprietary technology from infringement by third parties and/or allegations that our technology infringes third party rights;
+
+
+• | changes in effective tax rates or tax laws and regulations in the jurisdictions in which we operate;
+
+
+• | failure to comply with financial and restrictive covenants in our credit agreement or restrictions on our operational and financial flexibility due to such covenants;
+
+
+• | the outcome of ongoing and future litigation, including our asbestos-related product liability litigation;
+
+
+• | changes in environmental laws and regulations applicable to our business; and
+
+
+• | disruptions in, or breaches of, our information technology systems.
+
+Our forward-looking statements are expressly qualified by these cautionary statements, which you should consider carefully, along with the risks discussed under the heading “Item 1A - Risk Factors” and “Item 7 - Management’s Discussion and Analysis of Financial Condition and Results of Operations” and elsewhere in this report, that could cause actual results to differ materially from historical results or anticipated results. We undertake no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, unless required by law.
+Overview
+Rogers Corporation designs, develops, manufactures and sells high-quality and high-reliability engineered materials and components for mission critical applications. We operate principally three strategic operating segments: Advanced Connectivity Solutions (ACS), Elastomeric Material Solutions (EMS) and Power Electronics Solutions (PES). We have a history of innovation and have established Innovation Centers for our leading research and development activities in Chandler, Arizona, Burlington, Massachusetts, Eschenbach, Germany and Suzhou, China. We are headquartered in Chandler, Arizona.
+4
+
+Our growth strategy is based upon the following principles: (1) market-driven organization, (2) innovation leadership, (3) synergistic mergers and acquisitions, and (4) operational excellence. As a market-driven organization, we are focused on growth drivers, including advanced mobility and advanced connectivity. More specifically, the key trends and markets that affect our business include the increased use of advanced driver assistance systems, and adoption of electric and hybrid electric vehicles and new technology adoption in the telecom industry, including next generation wireless infrastructure. In addition to our focus on advanced mobility and advanced connectivity, we sell into a variety of other end markets including renewable energy, aerospace and defense and diverse general industrial applications. 
+Our sales and marketing approach is based on addressing these trends, while our strategy focuses on factors for success as a manufacturer of engineered materials and components: quality, service, cost, efficiency, innovation and technology. We have expanded our capabilities through organic investment and acquisitions and strive to ensure high quality solutions for our customers. We continue to review and re-align our manufacturing and engineering footprint in an effort to attain a leading competitive position globally. We have established or expanded our capabilities in various locations in support of our customers’ growth initiatives.
+We seek to enhance our operational and financial performance by investing in research and development, manufacturing and materials efficiencies, and new product initiatives that respond to the needs of our customers. We strive to evaluate operational and strategic alternatives to improve our business structure and align our business with the changing needs of our customers and major industry trends affecting our business. 
+In executing on our growth strategy, we have completed three strategic acquisitions: (1) in January 2017, we acquired the principal operating assets of Diversified Silicone Products, Inc. (DSP), a custom silicone product development and manufacturing business, serving a wide range of high reliability applications, (2) in November 2016, we acquired DeWAL Industries LLC (DeWAL), a leading manufacturer of polytetrafluoroethylene and ultra-high molecular weight polyethylene films, pressure sensitive tapes and specialty products for the industrial, aerospace, automotive, and electronics markets, and (3) in January 2015, we acquired Arlon LLC and its subsidiaries, other than Arlon India (Pvt) Limited (the acquired entities, collectively, Arlon), a leading manufacturer of high performance materials for the printed circuit board industry and silicone rubber-based materials.
+Our Operating Segments 
+The following table reflects net sales of the Company’s operating segments for the last three fiscal years:
+
+(Dollars in thousands) | 2017 | 2016 | 2015 
+ACS | $ | 301,092 | | $ | 277,787 | $ | 267,630
+EMS | 312,661 | | 203,181 | | 180,898
+PES | 184,954 | | 152,367 | | 150,288
+Other | 22,336 | | 22,979 | | 42,627 
+Total | $ | 821,043 | | $ | 656,314 | $ | 641,443
+
+Additional financial information regarding each of our operating segments, along with information regarding our revenues and long-lived assets by geographic area, is available in Note 16, “Operating Segments and Geographic Information,” to “Item 8 - Financial Statements and Supplementary Data.” 
+Advanced Connectivity Solutions
+Our ACS operating segment designs, develops, manufactures and sells circuit materials and solutions enabling high-performance and high-reliability connectivity for applications in wireless communications infrastructure (e.g., power amplifiers, antennas, small cells and distributed antenna systems), automotive (e.g., active safety, advanced driver assistance systems, telematics and thermal management), connected devices (e.g., mobile internet devices and Internet of Things), wired infrastructure (e.g., computing, servers and storage), consumer electronics and aerospace/defense. We sell our circuit materials under various trade names, including RO3000®, RO4000®, RT/duroid®, AD SeriesTM and CLTE SeriesTM. 
+Our ACS operating segment has manufacturing and administrative facilities in Chandler, Arizona; Rogers, Connecticut; Bear, Delaware; Evergem, Belgium; and Suzhou, China.
+5
+
+Elastomeric Material Solutions
+Our EMS operating segment designs, develops, manufactures and sells elastomeric material solutions for critical cushioning, sealing, impact protection and vibration management applications including general industrial, portable electronics (e.g., mobile internet devices), consumer goods (e.g., protective sports equipment), automotive, mass transportation, construction and printing applications. We sell our elastomeric materials under various trade names, including DeWAL™, ARLON®, PORON®, XRD®, BISCO®, eSORBA® HeatSORB™, and Diversified Silicone Products. The acquisitions of DeWAL and DSP, and their subsequent integration into our EMS operating segment, has enabled us to increase scale and complement our existing product offerings, thus enhancing our ability to support our customers.
+Our EMS operating segment has manufacturing and administrative facilities in Woodstock, Connecticut; Rogers, Connecticut; Bear, Delaware; Carol Stream, Illinois; Narragansett, Rhode Island; Santa Fe Springs, California; Suzhou, China; and Ansan, Korea. We also own 50% of: (1) Rogers Inoac Corporation (RIC), a joint venture established in Japan to design, develop, manufacture and sell PORON products predominantly for the Japanese market and (2) Rogers INOAC Suzhou Corporation (RIS), a joint venture established in China to design, develop, manufacture and sell PORON products primarily for RIC customers in various Asian countries. INOAC Corporation owns the remaining 50% of both RIC and RIS. RIC has manufacturing facilities at the INOAC facilities in Nagoya and Mie, Japan, and RIS has manufacturing facilities at Rogers’ facilities in Suzhou, China.
+Power Electronics Solutions
+Our PES operating segment designs, develops, manufactures and sells ceramic substrate materials for power module applications (e.g., variable frequency drives, vehicle electrification and renewable energy), laminated busbars for power inverter and high power interconnect applications (e.g., mass transit, hybrid-electric and electric vehicles, renewable energy and variable frequency drives) and micro-channel coolers (e.g., laser cutting equipment). We sell our ceramic substrate materials and micro channel coolers under the curamik® trade name, and our busbars under the ROLINX® trade name. 
+Our PES operating segment has manufacturing and administrative facilities in Ghent, Belgium; Eschenbach, Germany; Budapest, Hungary; and Suzhou, China.
+Other
+Our Other operating segment consists of elastomer components for applications in ground transportation, office equipment, consumer and other markets; elastomer floats for level sensing in fuel tanks, motors, and storage tanks; and inverters for portable communications and automotive markets. Trade names for our elastomer components include: NITROPHYL® floats for level sensing in fuel tanks, motors, and storage tanks and ENDUR® elastomer rollers. The Arlon polyimide and thermoset laminate business was also included within our Other operating segment prior to its divestiture in December 2015.
+Sales and Competition
+We sell our materials and components primarily through direct sales channels positioned near major concentrations of our customers in North America, Europe and Asia. We sold to over 5,000 customers worldwide in 2017, primarily original equipment manufacturers (OEMs) and component suppliers. No individual customer represented more than 10% of our total net sales for 2017; however, there are concentrations of OEM customers in our ACS (Chinese telecommunications equipment manufacturers) and PES (semiconductor and automotive manufacturers) operating segments. Although the loss of all of the sales made to any one of our larger customers would require a period of adjustment during which the results of a particular operating segment would be adversely impacted, we believe that such events could be successfully mitigated over a period of time due to the diversity of our customer base.
+We employ a technical sales and marketing approach pursuant to which we work collaboratively to provide design engineering, testing, product development and other technical support services to OEMs that incorporate our engineered materials and components in their products. Component suppliers convert, modify or otherwise incorporate our engineered materials and components into their components for these OEMs in accordance with their specifications. Accordingly, we provide similar technical support services to component suppliers.
+We compete primarily with manufacturers of high-end materials, some of which are large, multi-national companies, principally on the basis of innovation, historical customer relationship s, product quality, reliability, performance and price, technical and engineering service and support, breadth of product line, and manufacturing capabilities. We also compete with manufacturers of commodity materials, including smaller regional producers with lower overhead costs and profit requirements located in Asia that attempt to upsell their products based principally upon price, particularly for products that have matured in their life cycle. We believe that we have a competitive advantage because of our reputation for innovation, the quality and reliability of our materials and components and our demonstrated commitment to technical support and customer service.
+6
+
+Research and Development
+We have a history of innovation, and innovation leadership is a key component of our overall business strategy. The markets we serve are typically characterized by rapid technological changes and advances. Accordingly, the success of our strategy is in part dependent on our ability to develop market-leading products, which is primarily driven by efforts in research and development. We are focused on identifying technologies and innovations related to both our current product portfolio as well as other long term initiatives targeted at further diversifying and growing our business. As part of this technology commitment, we have Rogers Innovation Centers at Northeastern University in Burlington, Massachusetts, as well as at our facilities in Chandler, Arizona, Eschenbach, Germany and Suzhou, China. Our Innovation Centers focus on the earliest stages of technical and commercial development of new high-tech materials solutions in close alignment with market direction and needs.
+Patents and Other Intellectual Property
+We have many domestic and foreign patents, licenses and have additional patent applications pending related to each of our operating segments. These patents and licenses vary in duration and provide some protection from competition.
+We also own a number of registered and unregistered trademarks and have acquired and developed certain confidential and proprietary technology, including trade secrets that we believe to be of some importance to our business.
+While we believe our patents and other intellectual property provide a competitive advantage to our operating segments, we believe that a significant part of our competitive position and future success will be determined by factors such as the innovative skills, systems and process knowledge, and technological expertise of our personnel; the range and success of new products we develop; and our customer service and support.
+Manufacturing and Raw Materials
+The key raw materials used in our business are as follows: for our ACS operating segment, copper and polymer materials; for our EMS operating segment, polyurethane, polytetraflouroethylene, polyethylene and silicone materials; and for our PES operating segment, copper and ceramic materials.
+Some of the raw materials used in our business are available through sole or limited-source suppliers. While we have undertaken strategies to mitigate the risks associated with sole or limited source suppliers, these strategies may not be effective in all cases, and disruptions in our supply of raw materials could negatively impact our production and have a material adverse impact on our business. For more information, see Item 1A - “Risk Factors.”
+Seasonality
+Except for some minor seasonality for consumer products, which often aligns with year-end holidays and product launch cycles, the operations of our segments have not been seasonal.
+Our Employees 
+As of December 31, 2017, we employed approximately 3,400 people.
+Backlog 
+Our backlog of firm orders was $122.8 million as of December 31, 2017, compared to $106.5 million as of December 31, 2016. The ACS, PES and Other operating segments experienced year-over-year increases in backlog of $2.2 million, $13.8 million and $4.5 million, respectively while the EMS operating segment experienced a year-over-year decrease of $6.4 million. The increase in backlog for the ACS, PES and Other operating segments is primarily due to overall sales growth in 2017 compared to 2016, as well as increases in long-term buying patterns in the ACS operating segment, and favorable currency fluctuations in our PES operating segment. The decrease in backlog for the EMS operating segment is primarily due to an increase in order fulfillment during 2017 as compared to 2016. Additionally, the 2017 EMS backlog contains $2.1 million related to DSP. The backlog of firm orders is expected to be filled within the next 12 months.
+7
+
+Executive Officers 
+Our executive officers as of February 27, 2018 were as follows:
+
+Name | Age | Present Position | Year Appointed to Present Position | Other Positions Held During 2013-2017 
+Bruce D. Hoechner | 58 | President and Chief Executive Officer, Principal Executive Officer | 2011 | 
+Janice E. Stipp | 58 | Senior Vice President, Finance and Chief Financial Officer, Treasurer, Principal Financial Officer and Principal Accounting Officer | 2017 | Vice President, Finance, Chief Financial Officer and Corporate Treasurer, Principal Financial and Chief Accounting Officer, Rogers, from May 2016 to February 2017; Vice President, Finance, Chief Financial Officer and Corporate Treasurer, Rogers, from November 2015 to May 2016; Executive Vice President, Chief Financial Officer and Treasurer, Tecumseh Products Company from October 2011 to November 2015
+Marc J. Beulque | 53 | Vice President, Global Operations | 2016 | Vice President, Power Electronics Solutions Operations and Research and Development from June 2013 to April 2016; General Manager, Power Distribution Systems from December 2011 to May 2013. As a result of an expansion of his responsibility to oversee all global operations of the Company, Mr. Beulque was appointed as an executive officer on February 9, 2018. 
+Robert C. Daigle | 54 | Senior Vice President and Chief Technology Officer | 2009 | 
+Gary M. Glandon | 59 | Senior Vice President and Chief Human Resources Officer | 2017 | Vice President and Chief Human Resources Officer, Rogers, from July 2012 to February 2017 
+Jeffrey M. Grudzien | 56 | Senior Vice President and General Manager, Advanced Connectivity Solutions | 2017 | Vice President, Advanced Connectivity Solutions, Rogers, from February 2012 to February 2017 
+Jay B. Knoll | 54 | Senior Vice President, Corporate Development, General Counsel and Secretary | 2017 | Vice President and General Counsel, Rogers, from November 2014 to February 2017; Senior Vice President, General Counsel PKC Group Oyj - North America from June 2012 to November 2014 
+Christopher R. Shadday | 51 | Senior Vice President and General Manager, Elastomeric Material Solutions | 2017 | Vice President and General Manager, Elastomeric Material Solutions, Rogers, from January 2016 to February 2017; Vice President of Marketing, Rogers, from November 2014 to December 2015; President, Viance, LLC from August 2011 to November 2014 
+Helen Zhang | 54 | Senior Vice President and General Manager, Power Electronics Solutions and President, Rogers Asia | 2017 | Vice President, Power Electronics Solutions and President, Rogers Asia, Rogers, from May 2012 to February 2017 
+
+8
+
+Available Information
+We make available on our website (http://www.rogerscorp.com), or through a link posted on our website, free of charge, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, reports filed pursuant to Section 16 and amendments to those reports filed pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission (SEC). In addition, the SEC maintains an internet site that contains these reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC (http://www.sec.gov). 
+We also make available on our website, in a printable format, the charters for our Audit Committee, Compensation and Organization Committee, and Nominating and Governance Committee, in addition to our Corporate Governance Guidelines, Bylaws, Code of Business Ethics, Related Party Transactions Policy and Compensation Recovery Policy. Our website is not incorporated into or a part of this Form 10-K. 
+9
+

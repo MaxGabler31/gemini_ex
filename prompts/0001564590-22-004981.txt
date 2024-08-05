@@ -1,8 +1,0 @@
-Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
-
-Item 1. Business 
-Overview
- Our vision is a boundless Internet of Things, or IoT. We are driving a future in which everyday physical items are wirelessly connected to digital counterparts, or digital twins, in the cloud, and in which businesses and people access information about an item from its digital twin. Our mission is to connect every thing. We deliver a platform that powers item-to-cloud connectivity, and on which enterprise solution providers innovate IoT whole products.
- Today, we deliver the identity, location and authenticity of billions of physical items. We believe our future is extending that delivery to trillions of physical items and enabling ubiquitous access to cloud-based digital twins of those items, each storing an item’s ownership, history and links. We believe the item-to-cloud connectivity that our platform will deliver will enhance businesses efficiencies and commerce and, ultimately, improve peoples’ lives.
- Impinj Platform
- Our platform, which comprises multiple product families, wirelessly connects individual items and delivers data about the connected items to business and consumer applications enabled by our partner network. We link the products within our platform to deliver capabilities and performance that surpasses mix-and-match solutions built from competitor products.
