@@ -1,0 +1,544 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business.
+--------+----------
+
+ WisdomTree Continuous Commodity Index Fund (the Fund) and WisdomTree Continuous Commodity Index Master Fund (the Master Fund and together with the Fund, the Funds) are commodity pools that were organized as Delaware statutory trusts on October 27, 2006. WisdomTree Commodity Services, LLC serves as the commodity pool operator and managing owner (the Managing Owner) of the Funds, and GreenHaven Advisors LLC serves as the commodity trading advisor (the Sub-Adviser).
+The Fund continuously offers shares representing common units of fractional undivided beneficial interest in and ownership of the Fund (Shares). Upon inception of the Fund, the Fund issued 50 of its general units to the Managing Owner in exchange for a capital contribution of $1,500. 
+ The Fund invests substantially all of its assets in the Master Fund in a master-feeder structure. The Master Fund is wholly-owned by the Fund and the Managing Owner. The Master Fund and the Fund each follow the same investment objective. The Fund holds no investment assets other than the Master Funds common units of beneficial interest (Master Fund Units). Upon inception of the Master Fund, the Master Fund issued 50 of its general units to the Managing Owner in exchange for a capital contribution of $1,500. Each Share issued by the Fund correlates to a Master Fund Unit held by the Fund. 
+ The principal executive offices of the Funds and the Managing Owner are located at 245 Park Avenue, 35th Floor, New York, New York 10167, telephone (866) 909-9473. The Managing Owner currently maintains an Internet website at www.wisdomtree.com, through which the Funds annual, quarterly and periodic reports filed with or furnished to the Securities and Exchange Commission (the SEC) pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (Exchange Act), are made available free of charge. Additional information regarding the Funds may also be found on the SECs EDGAR database at www.sec.gov. 
+ Investment Objective 
+ The Funds investment objective is to provide investors with exposure to the daily change in the price of a portfolio of commodities (the Index Commodities) comprising the Thomson Reuters Continuous Commodity Index (the Index), before Fund liabilities and expenses. The Index Commodities consist of corn, soybeans, wheat, live cattle, lean hogs, gold, silver, copper, cocoa, coffee, sugar, cotton, soybean oil, platinum, crude oil, NY Harbor ULSD (formerly known as heating oil), and natural gas. 
+ The Fund pursues its investment objective by investing substantially all of its assets in the Master Fund. The Master Fund pursues its investment objective by actively trading exchange traded futures (Commodity Futures) on the Index Commodities, with a view to tracking the performance of the Index over time, regardless of whether the Index is rising, falling or flat over any particular period. The Master Funds non-discretionary investment strategy is designed to provide investors with a cost-effective and convenient way to invest in an equal-weight portfolio of Commodity Futures. 
+ The Master Funds portfolio (the Portfolio) also includes cash, U.S. Treasury obligations and other high credit-quality, short-term fixed income securities (collectively, U.S. Treasuries) for deposit with the Funds commodity broker as margin or otherwise held to cover the Master Funds notional exposure to Commodity Futures. 
+ An investment in the Shares is: 
+ 
+
+ | Easily Accessible and Relatively Cost Efficient. As the Shares are listed on the NYSE Arca, investors can indirectly invest in a portfolio comprised of the Index Commodities through a traditional brokerage account. Investors are able to more effectively implement strategic and tactical asset allocation strategies that are affected by changes in the performance of the Index by investing in the Shares as compared to other means of investing in the underlying Index Commodities.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Exchange-traded and Transparent. The Shares trade on the NYSE Arca, providing investors with an efficient means to implement various investment strategies. Furthermore, the Managing Owner will attempt to cause the composition of the Portfolio to be posted at www.wisdomtree.com daily, providing investors with a clear and timely picture of the Funds holdings.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+1 
+
+
+ 
+ | Competitively Priced. The Managing Owners fee and certain other expenses paid by the Funds represent costs to an investor in the Shares. An investors decision to purchase Shares may be influenced by such fees and expenses relative to the costs associated with investing in the Index Commodities by other means.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ There can be no assurance that the Funds will achieve their investment objective or avoid substantial losses. The value of the Shares is expected to fluctuate generally in relation to changes in the value of the Master Fund Units. 
+ The Index 
+ Thomson Reuters (Markets) LLC, formerly Thomson Reuters America LLC (the Index Sponsor), is the owner, publisher and calculation agent of the Index (sometimes referred to as the Continuous Commodity Total Return Index or Equal Weight Continuous Commodity Total Return Index) (for purposes of this section, also referred to as the CCI-TR). The Index Sponsor is not an affiliate of the Funds or the Managing Owner. 
+ The CCI-TR is an equal weighted index of 17 commodities. It is a total return version of the Thomson Reuters Continuous Commodity Index (the CCI) because it includes a roll yield and adds the yield of 3-month U.S. Treasury bills to the return. Due to its equal weighting, the CCI-TR offers significant exposure to grains, livestock and soft commodities, and a lower energy weighting than many of its peers. 
+ The CCI is an iteration of the original Commodity Research Bureau Index, which is currently known as the Thomson Reuters/CoreCommodity CRB Index (the CRB Index). The original CRB Index was widely viewed as a broad measure of overall commodity price trends because of the diverse nature of its constituent commodities. In 2005, the CRB Index was revised for a ninth time, and that ninth version was named the Continuous Commodity Index. On January 7, 2013, the CCI was revised to include CME Soybean oil and remove ICE Frozen Concentrated Orange Juice at an equivalent allocation. 
+ The base year for the CCI-TR is 1982, with a starting value of 100. The base year of the CCI is 1967 with a starting value of 100. The CCI and CCI-TR are materially different from the CRB Index. 
+ Each of the CCI and the CCI-TR reflects the price movement of 17 exchange-traded Commodity Futures: corn, soybeans, wheat, live cattle, lean hogs, gold, silver, copper, cocoa, coffee, sugar, cotton, soybean oil, platinum, crude oil, NY Harbor ULSD (formerly known as heating oil) and natural gas. 
+ The CCI-TR aims to represent the return that an investor should expect to receive if such investor were to attempt to replicate the CCI (by buying the applicable Commodity Futures and collateralizing the investment with U.S. Treasuries). The CCI-TR takes into account the economics of rolling listed Commodity Futures forward to avoid delivery and maintain exposure in liquid contracts. The CCI-TR is notionally composed of Commodity Futures on the physical Index Commodities. Unlike equities, which typically entitle the holder to a continuing stake in a corporation, Commodity Futures normally specify a certain date for the delivery of the underlying physical commodity. To avoid the delivery process and maintain a long futures position, contracts nearing a delivery date must be sold and contracts that have not yet reached delivery must be purchased. This process is known as rolling a futures position. An index, such as the CCI-TR, is commonly known as a rolling index because it replaces futures contracts as they approach maturity by notionally selling and purchasing offsetting contracts to avoid delivery and maintain exposure in liquid contracts. 
+ Index Methodology 
+ The individual commodity contributions are calculated as follows: 
+ 
+
+1. | Arithmetic averages for each commodity on the relevant business day are calculated.
+---+------------------------------------------------------------------------------------
+
+ 
+2 
+
+
+ 
+where, 
+ 
+ stands for the sum across the included contracts for each of the 17 commodities, so 
+ 
+
+
+
+S | stands for the price of a given contract month.
+--+------------------------------------------------
+
+ [For example: Corn sum (as of 1/7/17) = (3/17 price + 5/17 price + 7/17 price) / 3] 
+ 
+
+stands for the daily average of settlement prices
+-------------------------------------------------
+
+
+w | is the equal weight of 5.88% (1/17th) for each constituent commodity
+--+---------------------------------------------------------------------
+
+
+m | stands for each commodity
+--+--------------------------
+
+
+t | stands for each trading day for which updated settlement prices are available
+--+------------------------------------------------------------------------------
+
+
+2. | Todays value of the average for the 17 components is then used with yesterdays value to derive the applicable fair value index (CRBCC):
+---+--------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+The CRBCC defines the actively considered set of futures contracts for each commodity as defined further in the 6 roll schedules listed in the appendix. 
+ 
+
+3. | Total Return:
+---+--------------
+
+ 
+
+Note: that for example after a weekend, 3 days of returns are due to be added to the Index. 
+ Contract Roll 
+ The roll periods take place during the week leading up to the second Friday of the same six months (Jan, Feb, Apr, June, Aug, and Nov) every year. The roll implies a change from the pre-roll basket of contracts to the post-roll basket according to the following pattern: 
+ 
+
+ | At the close of the 1st roll day (a Monday): 20% post-roll basket + 80% pre-roll basket
+--+----------------------------------------------------------------------------------------
+
+
+ | Intraday of the 2nd roll day (a Tuesday): 20% post-roll basket + 80% pre-roll basket
+--+-------------------------------------------------------------------------------------
+
+
+ | At the close of the 2nd roll day: 40% post-roll basket + 60% pre-roll basket
+--+-----------------------------------------------------------------------------
+
+
+ | Intraday of the 3rd roll day (a Wednesday): 40% post-roll basket + 60% pre-roll basket
+--+---------------------------------------------------------------------------------------
+
+ 
+3 
+
+
+ 
+ | At the close of the 3rd roll day: 60% post-roll basket + 40% pre-roll basket
+--+-----------------------------------------------------------------------------
+
+
+ | Intraday of the 4th roll day (a Thursday): 60% post-roll basket + 40% pre-roll basket
+--+--------------------------------------------------------------------------------------
+
+
+ | At the close of the 4th roll day: 80% post-roll basket + 20% pre-roll basket
+--+-----------------------------------------------------------------------------
+
+
+ | Intraday of the 5th roll day (a Friday): 80% post-roll basket + 20% pre-roll basket
+--+------------------------------------------------------------------------------------
+
+
+ | At the close of the 5th roll day: 100% post-roll basket
+--+--------------------------------------------------------
+
+ Good Friday can fall on the second Friday in April (e.g., 2017). In this case, the open on the following Monday shows the final 40% of the roll rather than the final 20%. If no trading takes place during the roll for other reasons, reallocation between contracts without a price change is implemented for such days. 
+ Real-Time Pricing Considerations 
+ The Index is calculated: 5:00 a.m.  6:00 p.m. ET (internal), 8:00 a.m.  8:22 p.m. ET (NYSE Arca). 
+ The Index settles on a final value at around 3:15 p.m. ET. Index outputs start at 5 a.m. ET carrying the previous day close and then the Index will start fluctuating at 8:00 a.m. ET when the underlying contracts begin trading. 
+Constituent Contracts 
+ 
+
+Contract | Name | Exchange | Included contract months 
+CL | Crude Oil | NYMEX | All 12 calendar months 
+HO | Heating Oil | NYMEX | All 12 calendar months 
+NG | Natural Gas | NYMEX | All 12 calendar months 
+C | Corn | CBOT | Mar, May, Jul, Sep, Dec 
+S | Soybeans | CBOT | Jan, Mar, May, Jul, Aug, Nov 
+LC | Live Cattle | CME | Feb, Apr, Jun, Aug, Oct, Dec 
+GC | Gold | COMEX | Feb, Apr, Jun, Aug, Dec 
+HG | Copper | COMEX | Mar, May, Jul, Sep, Dec 
+SB | Sugar | ICE US | Mar, May, July, Oct 
+CT | Cotton | ICE US | Mar, May, July, Dec 
+CC | Cocoa | ICE US | Mar, May, July, Sep, Dec 
+KC | Coffee | ICE US | Mar, May, July, Sep, Dec 
+W | Wheat | CBOT | Mar, May, Jul, Sep, Dec 
+LH | Lean Hogs | CME | Feb, Apr, Jun, Jul, Aug, Oct, Dec 
+SI | Silver | COMEX | Mar, May, Jul, Sep, Dec 
+BO | Soy Oil | CBOT | Jan, Mar, May, Jul, Aug, Sep, Oct, Dec
+PL | Platinum | COMEX | Jan, Apr, Jul, Oct 
+
+ 
+4 
+
+
+ CCI Total Return Historical Prices (Monthly) 
+ Tabular Performance 
+ 
+
+ | 1982 | | 1983 | | 1984 | 1985 | 1986 | | 1987 | | 1988 | 1989 | 1990 | | 1991
+January | | 101.34 | | 103.24 | | 110.00 | | 103.27 | | 102.07 | | 107.23 | | 124.46 | | 141.62 | 155.48 | 151.18
+February | | 97.88 | | 98.56 | | 111.46 | | 99.17 | | 98.26 | | 106.00 | | 121.18 | | 144.01 | 158.05 | 153.90
+March | | 95.25 | | 102.16 | | 116.15 | | 103.90 | | 97.97 | | 107.87 | | 127.08 | | 145.51 | 159.10 | 154.35
+April | | 96.80 | | 104.58 | | 114.17 | | 101.06 | | 100.60 | | 115.54 | | 128.08 | | 146.19 | 162.61 | 153.43
+May | | 93.93 | | 108.48 | | 116.20 | | 98.95 | | 97.33 | | 116.74 | | 134.02 | | 142.61 | 162.60 | 152.96
+June | | 92.81 | | 107.15 | | 112.18 | | 96.93 | | 96.02 | | 116.95 | | 138.37 | | 146.79 | 158.82 | 149.72
+July | | 93.17 | | 111.80 | | 103.00 | | 97.80 | | 96.09 | | 119.23 | | 132.59 | | 142.60 | 160.55 | 154.80
+August | | 95.18 | | 113.31 | | 107.59 | | 98.97 | | 102.70 | | 117.97 | | 132.63 | | 144.06 | 163.58 | 152.99
+September | | 93.88 | | 110.20 | | 105.27 | | 100.66 | | 103.82 | | 118.36 | | 128.43 | | 144.97 | 168.59 | 156.77
+October | | 96.53 | | 106.39 | | 106.20 | | 103.64 | | 104.31 | | 119.00 | | 134.88 | | 144.75 | 161.51 | 160.40
+November | | 98.58 | | 109.27 | | 104.62 | | 104.85 | | 103.81 | | 124.75 | | 139.34 | | 147.55 | 159.48 | 158.33
+December | | 98.44 | | 111.16 | | 101.03 | | 106.03 | | 104.80 | | 124.41 | | 144.35 | | 150.98 | 158.64 | 152.25
+
+
+ | 1992 | | 1993 | | 1994 | 1995 | 1996 | | 1997 | | 1998 | 1999 | 2000 | | 2001
+January | | 152.62 | | 144.22 | | 159.78 | | 167.63 | | 193.04 | | 212.80 | | 224.10 | | 171.56 | 182.49 | 200.87
+February | | 150.99 | | 145.81 | | 160.80 | | 170.77 | | 196.45 | | 217.12 | | 217.32 | | 163.26 | 181.60 | 199.37
+March | | 151.55 | | 151.90 | | 162.09 | | 173.78 | | 201.72 | | 221.21 | | 218.08 | | 170.85 | 186.68 | 189.30
+April | | 149.17 | | 153.95 | | 161.89 | | 176.61 | | 209.92 | | 224.26 | | 215.22 | | 169.20 | 184.96 | 192.80
+May | | 152.77 | | 153.73 | | 170.00 | | 176.38 | | 210.32 | | 227.67 | | 207.33 | | 165.19 | 195.03 | 188.39
+June | | 153.52 | | 152.79 | | 169.55 | | 174.40 | | 208.80 | | 220.61 | | 203.41 | | 167.21 | 195.06 | 183.78
+July | | 151.05 | | 158.83 | | 172.93 | | 176.39 | | 205.26 | | 224.71 | | 195.17 | | 165.29 | 192.53 | 182.33
+August | | 147.35 | | 156.42 | | 169.51 | | 180.43 | | 212.64 | | 226.65 | | 183.20 | | 171.44 | 198.89 | 178.58
+September | | 147.89 | | 154.52 | | 169.57 | | 181.67 | | 209.55 | | 227.92 | | 188.69 | | 177.22 | 200.19 | 170.11
+October | | 145.91 | | 153.92 | | 170.16 | | 183.18 | | 204.28 | | 227.01 | | 188.01 | | 175.05 | 196.31 | 165.99
+November | | 148.41 | | 152.67 | | 166.41 | | 184.92 | | 211.48 | | 224.59 | | 180.37 | | 176.49 | 203.55 | 170.96
+December | | 147.44 | | 156.48 | | 172.50 | | 187.77 | | 210.35 | | 219.56 | | 174.47 | | 178.07 | 203.47 | 168.51
+
+
+ | 2002 | | 2003 | | 2004 | 2005 | 2006 | | 2007 | | 2008 | 2009 | 2010 | | 2011
+January | | 164.83 | | 212.14 | | 229.67 | | 250.91 | | 317.12 | | 330.62 | | 411.13 | | 275.21 | 309.71 | 413.98
+February | | 167.85 | | 210.43 | | 241.16 | | 269.04 | | 307.28 | | 342.83 | | 459.94 | | 262.70 | 316.72 | 427.41
+March | | 178.98 | | 200.92 | | 249.10 | | 276.15 | | 314.70 | | 341.39 | | 419.58 | | 272.62 | 309.01 | 427.31
+April | | 174.76 | | 201.16 | | 239.12 | | 267.03 | | 328.57 | | 335.77 | | 432.82 | | 271.52 | 317.08 | 440.35
+May | | 177.87 | | 204.61 | | 243.59 | | 264.15 | | 328.29 | | 339.71 | | 436.36 | | 302.54 | 301.20 | 421.70
+June | | 179.55 | | 202.54 | | 234.32 | | 268.09 | | 329.35 | | 339.29 | | 475.72 | | 284.18 | 305.96 | 405.75
+July | | 182.26 | | 203.40 | | 235.75 | | 270.29 | | 333.17 | | 349.84 | | 434.38 | | 291.59 | 323.85 | 416.20
+August | | 188.45 | | 210.55 | | 243.06 | | 276.76 | | 330.54 | | 339.34 | | 407.25 | | 288.18 | 321.16 | 424.72
+September | | 192.98 | | 210.87 | | 249.04 | | 289.08 | | 313.12 | | 367.75 | | 355.30 | | 296.28 | 344.96 | 366.31
+October | | 194.72 | | 214.61 | | 248.86 | | 285.12 | | 323.59 | | 373.06 | | 288.96 | | 308.74 | 363.59 | 386.60
+November | | 195.84 | | 215.63 | | 253.96 | | 289.17 | | 342.87 | | 369.02 | | 279.58 | | 322.67 | 361.99 | 372.96
+December | | 199.55 | | 222.14 | | 249.80 | | 303.40 | | 331.29 | | 388.41 | | 277.32 | | 323.90 | 400.73 | 358.71
+
+
+ | 2012 | | 2013 | | 2014 | 2015 | 2016 | | 2017 | | 2018
+January | | 373.80 | | 348.30 | | 308.61 | | 263.18 | | 220.32 | | 244.50 | 243.17
+February | | 378.37 | | 333.29 | | 331.93 | | 267.87 | | 219.04 | | 243.31 | 242.82
+March | | 361.80 | | 327.20 | | 336.91 | | 255.94 | | 228.74 | | 237.98 | 240.48
+April | | 351.72 | | 334.18 | | 346.35 | | 264.60 | | 242.44 | | 234.22 | 243.64
+May | | 320.53 | | 318.42 | | 332.52 | | 260.10 | | 240.03 | | 233.44 | 247.01
+June | | 337.51 | | 305.34 | | 334.31 | | 267.26 | | 250.19 | | 231.55 | 236.29
+July | | 351.10 | | 308.50 | | 319.18 | | 244.07 | | 243.22 | | 237.54 | 230.31
+August | | 359.43 | | 318.70 | | 315.06 | | 241.28 | | 237.34 | | 233.90 | 226.28
+September | | 361.61 | | 314.69 | | 297.74 | | 236.52 | | 239.80 | | 233.11 | 227.20
+October | | 349.29 | | 311.05 | | 298.08 | | 240.56 | | 241.42 | | 237.29 | 230.01
+November | | 352.37 | | 307.63 | | 288.44 | | 226.78 | | 238.81 | | 237.89 | 226.14
+December | | 340.74 | | 306.28 | | 274.71 | | 225.92 | | 238.59 | | 239.80 | 220.57
+
+ 
+5 
+
+
+ The CCI-TR is an equal weight commodity index. By its very structure an evenly-weighted index will provide broader exposure than one that is not evenly-weighted. To the extent that an index is over-weighted in a particular commodity class, such as energy, that index will reflect the energy sector more than it will the broad commodity universe. The table below indicates the constituent commodities, their index weighting and the sector weighting within the Index. 
+ 
+
+Commodity | Index Weight | Sector Weight 
+Crude Oil | 5.88% | Energy 17.65% 
+Heating Oil | 5.88% | 
+Natural Gas | 5.88% | 
+Corn | 5.88% | Grains 23.53% 
+Wheat | 5.88% | 
+Soybeans | 5.88% | 
+Soybean Oil | 5.88% | 
+Live Cattle | 5.88% | Livestock 11.76%
+Lean Hogs | 5.88% | 
+Sugar | 5.88% | Softs 23.53% 
+Cotton | 5.88% | 
+Coffee | 5.88% | 
+Cocoa | 5.88% | 
+Gold | 5.88% | Metals 23.53% 
+Silver | 5.88% | 
+Platinum | 5.88% | 
+Copper | 5.88% | 
+
+Interruption of Index Calculation 
+ Calculation of the CCI-TR may not be possible or feasible under certain events or circumstances, including, without limitation, a systems failure, natural or man-made disaster, act of God, armed conflict, act of terrorism, riot or labor disruption or any similar intervening circumstance, that is beyond the reasonable control of Thomson Reuters, the Managing Owner or the Sub-Adviser. Additionally, calculation of the CCI-TR may also be disrupted by an event that would require Thomson Reuters to calculate the closing price in respect of the relevant commodity on an alternative basis. 
+Investments; Margin 
+ The Fund uses a substantial portion of the proceeds from the sale to investors of baskets (Baskets) of 50,000 Shares to purchase Master Fund Units. The Master Fund uses substantially all of the proceeds it receives from the sale of its Master Fund Units to actively trade exchange-traded Commodity Futures on the Index Commodities, based on the Funds investment objective of tracking the performance of the Index over time, less the expenses of the operations of the Funds. The Master Funds Portfolio also includes cash, U.S. Treasury obligations and other high credit-quality, short-term fixed income securities for deposit with the Commodity Broker (as defined below) as margin or otherwise held to cover the Master Funds notional exposure to Commodity Futures. 
+ All proceeds received from the sale of Baskets are used to achieve the Funds investment objective and to pay certain fees and expenses of the Funds. 
+ When the Master Fund trades in Commodity Futures on U.S. exchanges, it is required to deposit a portion of the value of the contract or other interest as security to ensure payment for the underlying obligation. This deposit is known as initial margin. The assets deposited by the Master Fund with its Commodity Broker as margin must be segregated pursuant to the regulations of the U.S. Commodity Futures Trading Commission (the CFTC). Such segregated funds may be invested only in a limited range of instruments. 
+ 
+6 
+
+
+ Although the percentages set forth below may vary substantially over time, as of the date of this Annual Report, the Master Fund estimates: 
+ 
+
+(i) | approximately 13% of the Net Asset Value (as defined below) of the Master Fund will be held as margin deposits in the form of U.S. Treasuries, cash and/or cash equivalents in segregated accounts with a Commodity Broker (or another eligible financial institution, as applicable), in accordance with the applicable CFTC rules; and
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(ii) | approximately 87% of the Net Asset Value of the Master Fund will be maintained in segregated accounts in the name of the Master Fund in bank deposits or U.S. Treasuries.
+-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ The Sub-Adviser, a registered commodity trading advisor, is responsible for the cash management activities of the Master Fund, including investing in U.S. Treasuries. 
+ The Master Fund receives 100% of the interest income earned on its interest income assets. 
+ Net Asset Value; Indicative Fund Value 
+ Net Asset Value means the total assets of the Master Fund including, but not limited to, all cash and cash equivalents or other debt securities, less total liabilities of the Master Fund, each determined on the basis of generally accepted accounting principles in the U.S., consistently applied under the accrual method of accounting. In particular, Net Asset Value includes any unrealized profit or loss on open Commodity Futures, and any other credit or debit accruing to the Master Fund but unpaid or not received by the Master Fund. All open Commodity Futures traded on a U.S. exchange will be calculated at their then current market value, which will be based upon the settlement price for that particular Commodity Future traded on the applicable U.S. exchange on the date with respect to which Net Asset Value is being determined; provided, that if a Commodity Future traded on a U.S. exchange could not be liquidated on such day, due to the operation of daily limits or other rules of the exchange upon which that position is traded or otherwise, the settlement price on the most recent day on which the position could have been liquidated shall be the basis for determining the market value of such position for such day. 
+ The current market value of all open Commodity Futures traded on a non-U.S. exchange shall be based upon the settlement price for that particular commodity futures contract traded on the applicable non-U.S. exchange on the date with respect to which Net Asset Value is being determined; provided, that if a Commodity Future traded on a non-U.S. exchange could not be liquidated on such day, due to the operation of daily limits (if applicable) or other rules of the exchange upon which that position is traded or otherwise, the settlement price on the most recent day on which the position could have been liquidated shall be the basis for determining the market value of such position for such day. 
+ The Managing Owner may in its discretion (and under extraordinary circumstances, including, but not limited to, periods during which a settlement price of a Commodity Future is not available due to exchange limit orders or force majeure type events such as systems failure, natural or man-made disaster, act of God, armed conflict, act of terrorism, riot or labor disruption or any similar intervening circumstance) value any asset of the Master Fund pursuant to such other principles as the Managing Owner deems fair and equitable so long as such principles are consistent with normal industry standards. Notwithstanding the foregoing, such valuations may differ from valuations of others in the industry. Interest earned on the Master Funds commodity brokerage account will be accrued at least monthly. The amount of any distribution will be a liability of the Master Fund from the day when the distribution is declared until it is paid. Because there will be a one-to-one correlation between Shares and Master Fund Units, the Net Asset Value per Share and the Net Asset Value per Master Fund Unit will be equal. 
+ The Funds Administrator (as defined below) calculates the Net Asset Value once each NYSE Arca trading day. The Net Asset Value for a particular trading day is released after 5:00 p.m. ET and posted at www.wisdomtree.com. 
+ To provide updated information relating to the Fund for use by investors and market professionals, the NYSE Arca calculates and disseminates throughout the trading day an updated indicative fund value. The indicative fund value is calculated by using the prior days closing Net Asset Value per Master Fund Unit as a base and updating that value throughout the trading day to reflect changes in the value of the Master Funds Commodity Futures during the trading day. Changes in the value of U.S. Treasuries will not be included in the calculation of indicative fund value. The indicative fund value will be disseminated on a per Share basis every 15 seconds during regular NYSE Arca trading hours of 9:30 a.m. ET to 4:00 p.m. ET. 
+ 
+7 
+
+
+ Creation and Redemption of Shares 
+ The Fund creates and redeems Shares from time to time, but only in one or more Baskets of 50,000 Shares. Authorized Participants are the only persons that may place orders to create and redeem Baskets. Each Authorized Participant must (i) be a registered broker-dealer or other securities market participant, such as a bank or other financial institution that is not required to register as a broker-dealer to engage in securities transactions, (ii) be a participant in the Depository Trust Company (DTC), and (iii) have entered into a Participant Agreement. A list of the current Authorized Participants can be obtained from the Managing Owner. Investors not qualified as Authorized Participants will not be able to place orders to create and redeem Baskets directly from the Fund. However, Authorized Participants may sell the Shares included in the Baskets they purchase from the Fund to other investors. 
+ The Participant Agreement sets forth the procedures for the creation and redemption of Baskets and for the payment of cash required for such creations and redemptions. Under the Participant Agreement, the Managing Owner has agreed to indemnify an Authorized Participant against certain liabilities, including liabilities under the Securities Act of 1933, as amended (the 1933 Act). Authorized Participants are cautioned that some of their activities may result in their being deemed participants in a distribution in a manner that would render them statutory underwriters and subject them to the prospectus delivery and liability provisions of the 1933 Act. 
+ Authorized Participants may act for their own accounts or as agents for broker-dealers, custodians and other securities market participants that wish to create or redeem Baskets. 
+ The times for creation and redemption order cut-off times and/or settlement set forth below are as of the date of this Annual Report and may be revised as designated by the Fund or its agents on the order form or related procedures as communicated to Authorized Participants. 
+ Creation Procedures 
+ General. On any business day, an Authorized Participant may place an order with the Funds Distributor (as defined below) (as facilitated by the Funds Administrator) to create one or more Baskets. For purposes of processing both purchase and redemption orders, a business day means any day other than a day when banks in New York City are required or permitted to be closed. Purchase orders must be placed by 10:00 a.m. ET. The day on which a valid purchase order is received is the purchase order date. Purchase orders are irrevocable. By placing a purchase order, and prior to delivery of such Baskets, an Authorized Participants DTC account will be charged the non-refundable transaction fee due for the purchase order. 
+ Determination of Required Payment. The total payment required to create each Basket is the Net Asset Value of 50,000 Shares as of the closing time of NYSE Arca or the last to close of the exchanges on which the Index Commodities are traded, whichever is later, on the purchase order date. Baskets will be issued as of 12:00 p.m. ET, on the business day immediately following the purchase order date at the Net Asset Value per Share as of the closing time of NYSE Arca or the last to close of the exchanges on which the Index Commodities are traded, whichever is later, on the purchase order date during the continuous offering period, but only if the required payment has been timely received. 
+ Because orders to purchase Baskets must be placed by 10:00 a.m. ET, but the total payment required to create a Basket during the continuous offering period will not be determined until 4:00 p.m. ET, on the date the purchase order is received, Authorized Participants will not know the total amount of the payment required to create a Basket at the time they submit an irrevocable purchase order for the Basket. The Funds Net Asset Value and the total amount of the payment required to create a Basket could rise or fall substantially between the time an irrevocable purchase order is submitted and the time the amount of the purchase price in respect thereof is determined. 
+ 
+8 
+
+
+ Rejection of Purchase Orders. The Administrator may reject a purchase order if: 
+ 
+
+(i) | it determines that the purchase order is not in proper form;
+----+-------------------------------------------------------------
+
+
+(ii) | the Managing Owner believes that the purchase order would have adverse tax consequences to the Fund or its Shareholders; or
+-----+----------------------------------------------------------------------------------------------------------------------------
+
+
+(iii) | circumstances outside the control of the Managing Owner or the Distributor make it, for all practical purposes, not feasible to process creations of Baskets.
+------+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ The Distributor and the Managing Owner will not be liable for the rejection of any purchase order. 
+ Redemption Procedures 
+ General. The procedures by which an Authorized Participant can redeem one or more Baskets mirror the procedures for the creation of Baskets. On any business day, an Authorized Participant may place an order with the Distributor (as facilitated by the Administrator) to redeem one or more Baskets. Redemption orders must be placed by 10:00 a.m. ET. The day on which a valid redemption order is received in proper form is the redemption order date. Redemption orders are irrevocable. Individual Shareholders may not redeem directly from the Fund. 
+ By placing a redemption order, an Authorized Participant agrees to deliver the Baskets to be redeemed through DTCs book-entry system to the Fund not later than 12:00 p.m. ET, on the business day immediately following the redemption order date. By placing a redemption order, and prior to receipt of the redemption proceeds, an Authorized Participants DTC account will be charged the non-refundable transaction fee due for the redemption order. 
+ Determination of Required Payment. The redemption proceeds from the Fund consist of the cash redemption amount equal to the Net Asset Value of the number of Basket(s) requested in the Authorized Participants redemption order as of the closing time of the NYSE Arca or the last to close of the exchanges on which the Index Commodities are traded, whichever is later, on the redemption order date. The Managing Owner will distribute the cash redemption amount at 12:00 p.m. ET, on the business day immediately following the redemption order date through DTC to the account of the Authorized Participant as recorded on DTCs book entry system. 
+ Delivery of Redemption Proceeds. The redemption proceeds due from the Fund are delivered to the Authorized Participant at 12:00 p.m. ET, on the business day immediately following the redemption order date if, by such time, the Funds DTC account has been credited with the Baskets to be redeemed. If the Funds DTC account has not been credited with all of the Baskets to be redeemed by such time, the redemption distribution is delivered to the extent of whole Baskets received. Any remainder of the redemption distribution is delivered on the next business day to the extent of remaining whole Baskets received if the Distributor receives the fee applicable to the extension of the redemption distribution date which the Distributor may, from time-to-time, determine and the remaining Baskets to be redeemed are credited to the Funds DTC account by 12:00 p.m. ET, on such next business day. Any further outstanding amount of the redemption order shall be cancelled. The Distributor is also authorized to deliver the redemption distribution notwithstanding that the Baskets to be redeemed are not credited to the Funds DTC account by 12:00 p.m. ET, on the business day immediately following the redemption order date if the Authorized Participant has collateralized its obligation to deliver the Baskets through DTCs book entry system on such terms as the Distributor and the Managing Owner may from time-to-time agree upon. 
+ Suspension or Rejection of Redemption Orders. The Managing Owner may suspend the right of redemption, or postpone the redemption settlement date, (1) for any period during which an emergency exists as a result of which the redemption distribution is not reasonably practicable, or (2) for such other period as the Managing Owner determines to be necessary for the protection of the Shareholders. The Managing Owner will not be liable to any person or in any way for any loss or damages that may result from any such suspension or postponement. 
+ A redemption order may be rejected if the order is not in proper form as described in the order form and/or Participant Agreement or if the fulfillment of the order, in the opinion of its counsel, might be unlawful. 
+ 
+9 
+
+
+ Creation and Redemption Transaction Fee. To compensate State Street Bank and Trust Company (referred to herein as State Street or the Administrator), as Administrator of the Funds, for services in processing the creation and redemption of Baskets, an Authorized Participant is required to pay a transaction fee to the Fund of $200 per order to create or redeem Baskets. An order may include multiple Baskets. The transaction fee may be reduced, increased or otherwise changed by State Street with consent from the Managing Owner. State Street must notify DTC of any agreement to change the transaction fee and will not implement any increase in the fee for the redemption of Baskets until thirty (30) days after the date of the notice. 
+ The times for creation and redemption order cut-off times and/or settlement set forth above may be revised as designated by the Funds or its agents on the order form or related procedures as communicated to Authorized Participants. 
+Secondary Market Trading 
+ The Net Asset Value per Share will change as fluctuations occur in the market value of the Portfolio. The public trading price per Share may be different from the Net Asset Value per Share. Consequently, an Authorized Participant may be able to create or redeem a Basket at a discount or a premium to the public trading price per Share. This price difference may be due, in large part, to the fact that supply and demand forces at work in the secondary trading market for Shares is closely related, but not identical, to the same forces influencing the price of the underlying commodity at any point in time. 
+Advisors and Associated Persons 
+ The Trustee 
+ Delaware Trust Company, a Delaware corporation, is the sole Trustee of the Funds (the Trustee). The Trustees principal offices are located at 2711 Centerville Road, Suite 210, Wilmington, DE 19808. The Trustee is unaffiliated with the Managing Owner. 
+ Under the Declaration of Trust and Trust Agreement, dated as of October 27, 2006 and as amended January 4, 2016, of the Fund, (the Fund Trust Agreement) and the Declaration of Trust and Trust Agreement, dated as of October 27, 2006 and as amended July 29, 2007 and January 4, 2016, of the Master Fund (the Master Fund Trust Agreement and collectively with the Fund Trust Agreement, the Trust Agreements), the Trustee has delegated to the Managing Owner the exclusive management and control of all aspects of the business of the Funds. 
+ The Trustee will accept service of legal process on the Funds in the State of Delaware and will make certain filings under the Delaware Statutory Trust Act. The Trustee does not owe any other duties to the Funds, the Managing Owner, the Sub-Adviser or the Shareholders. Under the Trust Agreements, the exclusive management and control of all aspects of the Funds business are vested in the Managing Owner. The Trustee has no duty or liability to supervise or monitor the performance of the Managing Owner, nor does the Trustee have any liability for the acts or omissions of the Managing Owner. 
+ The Trustee is permitted to resign upon at least sixty (60) days notice to the Fund or the Master Fund, as applicable; provided, that any such resignation will not be effective until a successor Trustee is appointed by the Managing Owner. The Trust Agreements of each of the Funds provides that the Trustee is compensated by the Fund or the Master Fund, as applicable, and is indemnified by the Fund or Master Fund, as applicable, against any expenses it incurs relating to or arising out of the formation, operation or termination of the Fund or Master Fund, as applicable, or the performance of its duties pursuant to the applicable Trust Agreement, except to the extent that such expenses result from the gross negligence or willful misconduct of the Trustee. The Managing Owner has the discretion to replace the Trustee. 
+ Because the Trustee has delegated substantially all of its authority over the operation of the Funds to the Managing Owner, the Trustee itself is not registered in any capacity with the CFTC or the National Futures Association (NFA). 
+ Affiliates of the Trustee may from time to time act as Authorized Participants or purchase or sell Shares for their own account, as agent for their customers and for accounts over which they exercise investment discretion. 
+ 
+10 
+
+
+ The Managing Owner 
+ WisdomTree Commodity Services, LLC, a Delaware limited liability company, is the managing owner and commodity pool operator of each of the Funds. The Managing Owner is registered as a commodity pool operator with the CFTC and is a member of the NFA. Its principal place of business is 245 Park Avenue, 35th Floor, New York, New York 10167, and its telephone number is (866) 909-9473. The registration of the Managing Owner with the CFTC and its membership in the NFA must not be taken as an indication that either the CFTC or the NFA has recommended or approved the Managing Owner or the Funds. 
+ The Trustee has delegated to the Managing Owner the exclusive power and authority to manage the business and affairs of the Funds. Specifically, with respect to each Fund, the Managing Owner: 
+ 
+
+(i) | selects the Trustee, Administrator, Distributor and each Funds auditor;
+----+-------------------------------------------------------------------------
+
+
+(ii) | negotiates various agreements and fees; and
+-----+--------------------------------------------
+
+
+(iii) | performs such other services as the Managing Owner believes that the Funds may from time to time require.
+------+----------------------------------------------------------------------------------------------------------
+
+ With respect to the Master Fund, the Managing Owner has also delegated the following responsibilities to the Sub-Adviser:
+
+
+(i) | selecting the Commodity Broker; and
+----+------------------------------------
+
+
+(ii) | monitoring the performance of the Portfolio and reallocating assets within the Portfolio with a view to tracking the performance of the Index over time.
+-----+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ In its capacity as a commodity pool operator, the Managing Owner is an organization which operates or solicits funds for a commodity pool; that is, an enterprise in which funds contributed by a number of persons are combined for the purpose of trading futures contracts. 
+ The Sub-Adviser
+The Managing Owner, on behalf of the Funds, has appointed GreenHaven Advisors LLC as the sub-adviser (the Sub-Adviser) and commodity trading advisor of the Funds. The Sub-Adviser is registered with the CFTC as a commodity trading advisor and is a member of the NFA. Its principal place of business is 3340 Peachtree Road, Suite 1910, Atlanta, Georgia 30326, and its telephone number is (404) 389-9744.
+The Sub-Adviser, under authority delegated by the Managing Owner, is responsible for selecting Commodity Brokers and reallocating assets within the Portfolio with a view to achieving the Funds investment objective.    In its capacity as a commodity trading advisor, the Sub-Adviser is an organization which, for compensation or profit, advises others as to the value of or the advisability of buying or selling futures contracts. 
+ The Commodity Broker 
+ A variety of executing brokers may execute transactions in Commodity Futures on behalf of the Master Fund. The Sub-Adviser, on behalf of the Master Fund and the Managing Owner, has designated Morgan Stanley & Co. LLC (together with its parent Morgan Stanley, Morgan Stanley Wealth Management, and its consolidated subsidiaries, collectively referred to herein as MS&Co) as the Master Funds Commodity Broker, to which the executing brokers give-up all such transactions. MS&Co is registered as a futures commission merchant with the CFTC and is a member of the NFA in such capacity. MS&Cos principal place of business is located at 1585 Broadway, New York, New York 10036. In the future, the Managing Owner may designate other entities that are registered with the CFTC as futures commission merchants and are members of the NFA in such capacity to replace or supplement the current Commodity Broker. 
+The Administrator 
+ The Managing Owner, on behalf of the Funds, has appointed State Street as the Funds Administrator and has entered into an Administration Agreement in connection therewith. State Street serves as custodian of the Funds pursuant to a Master Custodian Agreement, and transfer agent of the Funds pursuant to a Transfer Agency and Service Agreement. 
+ 
+11 
+
+
+ State Street, a state-chartered bank organized under the laws of the Commonwealth of Massachusetts with trust powers, has an office at One Lincoln Street, Boston, Massachusetts 02110. State Street is subject to supervision by the Massachusetts Division of Banks and the Board of Governors of the Federal Reserve System. Information regarding the Net Asset Value, creation and redemption transaction fees and a list of Authorized Participants may be obtained by calling the following number: (866) 909-9473.
+As the Administrator, State Street performs certain services necessary for the operation and administration of the Funds (other than making investment decisions), including Net Asset Value calculations, accounting and other fund administrative services. State Street retains certain financial books and records, including: fund accounting records, ledgers with respect to assets, liabilities, capital, income and expenses, the registrar, transfer journals and related details and trading and related documents received from futures commission merchants. 
+ The State Street agreements with the Funds will continue in effect through March 31, 2019 unless terminated earlier as specified in the applicable agreement (e.g., material breach). The agreements generally provide for the exculpation and indemnification of State Street from and against any costs, expenses, damages, liabilities or claims (other than those resulting from State Streets own bad faith, negligence or willful misconduct) which may be imposed on, incurred by or asserted against State Street in performing its obligations or duties thereunder. 
+ State Street and any of its affiliates may from time to time purchase or sell Shares for their own account, as agent for their customers and for accounts over which they exercise investment discretion. 
+ State Street also receives a transaction processing fee in connection with orders from Authorized Participants to create or redeem Baskets in the amount of $200 per order. These transaction processing fees are paid directly by the Authorized Participants and not by the Funds. 
+ The Distributor 
+ The Managing Owner, on behalf of the Funds, has appointed Foreside Fund Services LLC (FFS or the Distributor) pursuant to a Distribution Services Agreement. FFS is a broker-dealer registered with FINRA and a member of the Securities Investor Protection Corporation. 
+ In its capacity as Distributor, FFS assists the Managing Owner and the Administrator with certain functions and duties relating to the creation and redemption of Baskets, including assisting in matters associated with receiving and processing orders from Authorized Participants to create and redeem Baskets, coordinating the processing of such orders and related functions and duties. The Distributor does not open or maintain customer accounts or handle orders for the Funds. 
+ FFS may be contacted at Foreside Fund Services LLC, Three Canal Plaza, Suite 100, Portland, Maine 04101. Investors may obtain information regarding the Distributor by calling toll-free in the U.S. at (866) 909-9473.
+Fees and Expenses 
+ Organization and Offering 
+ The Managing Owner and its predecessor have paid and will pay the fees and expenses incurred in connection with the formation, qualification and registration of the Funds and the Shares under applicable U.S. federal and state law, and any other expenses actually incurred and, directly or indirectly, related to the organization of the Funds or the offering of the Shares prior to the time such Shares begin trading or in subsequent offerings, including but not limited to, expenses such as: 
+
+ | registration fees, exchange listing fees, prepaid licensing fees, filing fees, escrow fees and taxes;
+--+------------------------------------------------------------------------------------------------------
+
+
+ | costs of preparing, printing (including typesetting), amending, supplementing, mailing and distributing any prospectus and the exhibits thereto;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+12 
+
+
+ 
+ | costs of qualifying, printing (including typesetting), amending, supplementing, mailing and distributing sales materials used in connection with the offering and issuance of the Shares;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | travel, telephone and other expenses in connection with the offering and issuance of the Shares; and;
+--+------------------------------------------------------------------------------------------------------
+
+
+ | accounting, auditing and legal fees (including disbursements related thereto) incurred in connection therewith.
+--+----------------------------------------------------------------------------------------------------------------
+
+ The Managing Owner is not reimbursed in connection with the payment of the organizational and offering expenses of the Funds. 
+ Ordinary Fees and Expenses 
+ The Managing Owner pays the following ongoing administrative fees and expenses incurred by the Funds: 
+ 
+
+ | fees payable to the Sub-Adviser;
+--+---------------------------------
+
+
+ | routine expenses associated with the preparation of monthly, quarterly, annual and other reports required by applicable U.S. federal and state regulatory authorities;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | accounting, auditing and legal fees (including disbursements related thereto);
+--+-------------------------------------------------------------------------------
+
+
+ | printing, mailing and other marketing-related costs;
+--+-----------------------------------------------------
+
+
+ | exchange listing fees, prepaid licensing fees, filing fees, escrow fees and taxes;
+--+-----------------------------------------------------------------------------------
+
+
+ | payment for fees and costs associated with distribution, marketing, custody and transfer agency services to the Fund; and
+--+--------------------------------------------------------------------------------------------------------------------------
+
+
+ | SEC and FINRA registration fees.
+--+---------------------------------
+
+ The Managing Owner will not be reimbursed in connection with the payment of all routine operational, administrative and other ordinary expenses of the Funds. 
+ The Funds pay the following ongoing administrative fees and expenses incurred by the Funds: 
+ 
+
+ | the fee paid to the Managing Owner (the Management Fee), paid monthly in arrears, in an amount equal to 0.75% per annum of the average Net Asset Value during the calendar year after the Managing Owner voluntarily agreed to waive a portion of its Management Fee in the amount of 0.10% per annum; and
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | all brokerage commissions, including applicable exchange fees, NFA fees, give-up fees, pit brokerage fees and other transaction related fees and expenses charged in connection with trading activities.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Extraordinary Fees and Expenses 
+ The Funds pay all of the Funds extraordinary fees and expenses generally, if any, as determined by the Managing Owner. Extraordinary fees and expenses are likely to include non-recurring fees such as legal claims and liabilities, litigation costs and any permitted indemnification payments related thereto, if any, but the Managing Owner has discretion to treat other unanticipated expenses as extraordinary fees and expenses. Routine operational, administrative and other ordinary fees and expenses will not be deemed extraordinary fees and expenses. 
+Upfront Selling Commissions 
+ No upfront selling commissions will be charged to Shareholders, although investors are expected to be charged a customary commission by their brokers in connection with purchases of Shares that will vary from investor to investor. Investors are encouraged to review the terms of their brokerage accounts for details on applicable charges. 
+ 
+13 
+
+
+ Fee Table 
+ The following table describes the Funds estimated fees and compensation arrangements with the Managing Owner, the Trustee and certain other non-affiliated service providers. Asset-based fees are calculated on a daily basis (accrued at 1/365 of the applicable percentage of Net Asset Value on that day) and paid on a monthly basis. The Management Fee and other fees and expenses payable by the Funds will be paid first out of interest income from the Funds holdings of U.S. Treasuries. It is expected that, at current interest rates, such interest income will be sufficient to cover all or a significant portion of the Management Fee and other fees and expenses payable by the Funds.
+
+Service Provider | Annual Compensation 
+WisdomTree Commodity Services, LLC Sponsor | 0.75% of the average annual Net Asset Value(1) 
+Delaware Trust Company Trustee | $6,000 annually 
+Morgan Stanley & Co. LLC Commodity Broker | 0.09% of the average annual Net Asset Value (2) 
+State Street Bank and Trust Company Administrator | Basis points based on annual Net Asset Value 
+Foreside Fund Services LLC Distributor | Basis points based on annual Net Asset Value 
+GreenHaven Advisors LLC Sub-Adviser | An annual fee equal to 20% of the Net Management Fee; subject to a $200,000 annual minimum.
+
+
+(1) | The Funds are contractually obligated to pay the Managing Owner a Management Fee of 0.85% per annum based on the average daily Net Asset Value of the Master Fund, payable monthly in arrears. The Managing Owner voluntarily agreed to waive a portion of its Management Fee in the amount of 0.10% per annum reducing the Management Fee to 0.75% per annum. From the Management Fee, the Managing Owner will be responsible for paying the fees and expenses of the Administrator, the Distributor and the Trustee, and the routine operational, administrative and other ordinary expenses of the Fund including the fee payable to the Sub-Adviser.
+----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(2) | The costs to the Funds for brokerage commissions and trading fees will vary by the broker or brokers involved to execute specific contracts for the Funds interest. The Funds expect to pay rates that are commensurate with the going market rate for commissions and brokerage. The costs to the Funds will also be subject to the trading frequency of the Funds. On average, total charges paid to the Commodity Broker are expected to be less than $20 per round-turn trade, although the Commodity Brokers brokerage commissions and trading fees are determined on a contract-by-contract basis. The Funds pay for their brokerage commissions and fees directly (which were 0.09% of the Net Asset Value per annum in the aggregate for the fiscal year ended December 31, 2018), and the Managing Owner pays the Funds routine operational, administrative and other ordinary expenses.
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+14 
+
+
+ Governance; Shareholder Rights and Protections 
+ Duties of the Managing Owner 
+ As managing owner of the Funds, the Managing Owner effectively is subject to the duties and restrictions imposed on fiduciaries under both statutory and common law. The Managing Owner has a fiduciary responsibility to the Shareholders to exercise good faith, fairness and loyalty in all dealings affecting the Funds, consistent with the terms of the Trust Agreements. The general fiduciary duties which would otherwise be imposed on the Managing Owner (which would make the operation of the Funds as described herein impracticable due to the strict prohibition imposed by such duties on, for example, conflicts of interest on behalf of a fiduciary in its dealings with its beneficiaries), are defined and limited in scope by the disclosure of the business terms of the Funds, as set forth herein and in the Trust Agreements (to which terms all Shareholders, by subscribing to the Shares, are deemed to consent). 
+ The Trust Agreements provide that the Managing Owner and its affiliates shall have no liability to the Funds or to any Shareholder for any loss suffered by the Funds arising out of any action or inaction of the Managing Owner or its affiliates or their respective directors, officers, shareholders, partners, members, managers or employees (the Managing Owner Indemnified Parties), if the Managing Owner Indemnified Parties, in good faith, determined that such course of conduct was in the best interests of the Funds, and such course of conduct did not constitute gross negligence or willful misconduct by the Managing Owner Indemnified Parties. The Funds will indemnify the Managing Owner Indemnified Parties against claims, losses or liabilities based on their conduct relating to the applicable Fund, provided that the conduct resulting in the claims, losses or liabilities for which indemnity is sought did not constitute gross negligence or willful misconduct and was done in good faith and in a manner reasonably believed to be in the best interests of the applicable Fund. 
+ In addition, the Trust Agreements specifically do not impose any general fiduciary duties on the Managing Owner. Under the Delaware Statutory Trust Act and the governing documents of the Managing Owner, the sole member of the Managing Owner, WisdomTree Investments, Inc., is not responsible for the debts, obligations and liabilities of the Managing Owner solely by reason of being the sole member of the Managing Owner. 
+ Under Delaware law, a beneficial owner of a statutory trust (such as a Shareholder) may, under certain circumstances and in accordance with the statutory trusts governing instrument, institute legal action on behalf of himself and all other similarly situated beneficial owners (a class action) to recover damages from a managing owner of such statutory trust for violations of fiduciary duties, or on behalf of a statutory trust (a derivative action) to recover damages from a third party where a trustee with authority to do so has failed or refused to institute proceedings to recover such damages. In addition, beneficial owners may have the right, subject to certain legal requirements, to bring class actions in federal court to enforce their rights under the federal securities laws and the rules and regulations promulgated thereunder by the SEC. Beneficial owners who have suffered losses in connection with the purchase or sale of their beneficial interests may be able to recover such losses from a managing owner where the losses result from a violation by the managing owner of the anti-fraud provisions of the federal securities laws. 
+ Management; Voting by Shareholders 
+ The Shareholders take no part in the management or control, and have no voice in the operations or the business of the Funds. 
+ The Managing Owner has the right unilaterally to amend the Trust Agreements; provided that the Shareholders have the right to vote only if expressly required under Delaware or federal law or rules or regulations of the NYSE Arca or other applicable national securities exchange, or if submitted to the Shareholders by the Managing Owner in its sole discretion. No amendment affecting the Trustee shall be binding upon or effective against the Trustee unless consented to by the Trustee in writing. 
+ The Shareholders may also amend the Trust Agreement of the Fund, except in certain limited respects, by the affirmative vote of the Shares then owned by Shareholders representing a majority of the Net Asset Value (excluding any Shares held by the Managing Owner and its affiliates). The affirmative vote of the Shares then owned by Shareholders representing at least 75% of the Net Asset Value may also compel dissolution of the Fund. The owners of 10% of the outstanding Shares then owned by Shareholders have the right to bring a matter before a vote of the Shareholders. The Managing Owner has no power under the Funds Trust Agreement to restrict any of the Shareholders voting rights. Any Shares purchased by the Managing Owner or its affiliates, as well as the Managing Owners general interest in the Funds, are non-voting.
+
+15 
+
+
+ Recognition of the Funds in Certain States 
+ A number of states do not have business trust statutes such as that under which the Funds have been formed in the State of Delaware. It is possible, although unlikely, that a court in such a state could hold that, due to the absence of any statutory provision to the contrary in such jurisdiction, the Shareholders, although entitled under Delaware law to the same limitation on personal liability as stockholders in a private corporation for profit organized under the laws of the State of Delaware, are not so entitled in such state. To protect the Funds shareholders against any loss of limited liability, the Trust Agreements provide that no written obligation may be undertaken by the applicable Fund unless such obligation is explicitly limited so as not to be enforceable against any shareholder personally. Furthermore, each of the Funds themselves indemnify all shareholders against any liability that such shareholders might incur in addition to that of a beneficial owner. The Managing Owner will use its assets to satisfy any such liability before such liability would be enforced against any Fund shareholder individually. 
+ Possible Repayment of Distributions Received by Shareholders; Indemnification by Shareholders 
+ The Shares are limited liability investments, and investors may not lose more than the amount that they invest plus any profits recognized on their investment. However, Shareholders could be required, as a matter of bankruptcy law, to return to the estate of the Fund any distribution received at a time when the Fund was in fact insolvent or in violation of its Trust Agreement. In addition, although the Managing Owner is not aware of this provision ever having been invoked in the case of any public futures fund, Shareholders agree in the Trust Agreement that they will indemnify the Fund for any harm suffered by it as a result of (i) Shareholders actions unrelated to the business of the Fund, or (ii) taxes imposed on the Shares by the states or municipalities in which such investors reside. 
+ The foregoing repayment of distributions and indemnity provisions (other than the provision for Shareholders indemnifying the Fund for taxes imposed upon it by the state or municipality in which particular Shareholders reside, which is included to address the unlikely possibility that the tax status of the Fund is challenged in a state with a business trust statute) are commonplace in statutory trusts and limited partnerships. 
+ Shares; Certificates 
+ Individual certificates are not issued for the Shares. Instead, global certificates are deposited by the Trustee with DTC and registered in the name of Cede & Co., as nominee for DTC. The global certificates evidence all of the Shares outstanding at any time. Under the Fund Trust Agreement, Shareholders are limited to (1) participants in DTC such as banks, brokers, dealers and trust companies (DTC Participants), (2) those who maintain, either directly or indirectly, a custodial relationship with a DTC Participant (Indirect Participants), and (3) those banks, brokers, dealers, trust companies and others who hold interests in the Shares through DTC Participants or Indirect Participants. The Shares are only transferable through the book-entry system of DTC. Shareholders who are not DTC Participants may transfer their Shares through DTC by instructing the DTC Participant holding their Shares (or by instructing the Indirect Participant or other entity through which their Shares are held) to transfer the Shares. Transfers are made in accordance with standard securities industry practice. 
+Employees 
+ The Funds have no employees. Management functions are performed by the Managing Owner and requisite administrative services are provided on a contractual basis by various entities. 
+Conflicts of Interest 
+ General 
+ Investors are dependent on the good faith of the respective parties subject to such conflicts to resolve them equitably. Although the Managing Owner attempts to monitor these conflicts, it is extremely difficult, if not impossible, for the Managing Owner to ensure that these conflicts do not, in fact, result in adverse consequences to the Fund. 
+ 
+16 
+
+
+ The Managing Owner and Sub-Adviser
+The Managing Owner and Sub-Adviser each have a conflict of interest in allocating its own limited resources among different clients and potential future business ventures, to each of which it owes fiduciary duties. Additionally, the directors, officers and/or employees of the Managing Owner and Sub-Adviser also service other affiliates of such parties and their respective clients. Although the Managing Owner and Sub-Adviser and their directors, officers and/or employees cannot and will not devote all of its or their respective time or resources to the management of the business and affairs of the Funds, such parties intend to devote, and to cause its directors, officers and employees to devote, sufficient time and resources to properly manage the business and affairs of the Funds consistent with its or their respective duties to the Funds and others. 
+ The Commodity Broker 
+ The Commodity Broker may act from time to time as a broker for other accounts with which it is affiliated or in which it or one of its affiliates has a financial interest. The compensation received by the Commodity Broker from such accounts may be more or less than the compensation received for brokerage services provided to the Master Fund. In addition, various accounts traded through the Commodity Broker (and over which their personnel may have discretionary trading authority) may take positions in the futures markets opposite to those of the Master Fund or may compete with the Master Fund for the same positions. The Commodity Broker may have a conflict of interest in its execution of trades for the Master Fund and for other customers. The Managing Owner, under delegation to the Sub-Adviser, does not presently intend to retain any commodity broker for the Master Fund which the Sub-Adviser has reason to believe would knowingly or deliberately favor any other customer over the Master Fund with respect to the execution of commodity trades. 
+ The Commodity Broker will benefit from executing orders for other clients, whereas the Master Fund may be harmed to the extent that the Commodity Broker has fewer resources to allocate to the Master Funds accounts due to the existence of such other clients. 
+ Certain officers or employees of the Commodity Broker may be members of U.S. commodities exchanges and/or serve on the governing bodies and standing committees of such exchanges, their clearing houses and/or various other industry organizations. In such capacities, these officers or employees may have a fiduciary duty to the exchanges, their clearing houses and/or such various other industry organizations which could compel such employees to act in the best interests of these entities, perhaps to the detriment of the Master Fund. 
+ Proprietary Trading/Other Clients 
+ The Managing Owner, the Sub-Adviser and the Commodity Broker and their respective principals and affiliates may trade in the commodity markets for their own accounts and for the accounts of their clients, and in doing so may take positions opposite to those held by the Master Fund or may compete with the Master Fund for positions in the marketplace. Such trading may create conflicts of interest on behalf of one or more such persons in respect of their obligations to the Master Fund. Records of proprietary trading and trading on behalf of other clients will not be available for inspection by Shareholders. 
+ Because the Managing Owner, the Sub-Adviser and the Commodity Broker and their respective principals and affiliates may trade for their own accounts at the same time that they are managing the account of the Master Fund, prospective investors should be aware that  as a result of a neutral allocation system, testing a new trading system, trading their proprietary accounts more aggressively or other activities not constituting a breach of fiduciary duty  such persons may from time to time take positions in their proprietary accounts which are opposite, or ahead of, the positions taken for the Master Fund. 
+ No Distributions 
+ The Managing Owner has discretionary authority over all distributions made by the Fund. In view of the Funds objective of seeking significant capital appreciation, the Managing Owner currently does not intend to make any distributions, but, has the sole discretion to do so from time to time. Greater Management Fees will be generated to the benefit of the Managing Owner if the Funds assets are not reduced by distributions to the Shareholders. 
+ 
+17 
+
+
+ Related Party Transactions 
+ There are no material transactions or arrangements between the Funds and any person affiliated with a person providing services to the Funds that require disclosure. 
+ 
+18 
+
+
+ 

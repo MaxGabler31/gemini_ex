@@ -1,0 +1,347 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Overview
+ We are a leading provider of point-of-care diagnostic products for the detection and diagnosis of infectious diseases. We have been expanding our product portfolio based upon our proprietary Dual Path Platform, which we refer to as the DPP technology platform, which uses a small drop of blood from the fingertip to provide high-quality, cost-effective diagnostic results in approximately 15 minutes. We seek to build additional revenue streams by entering into technology collaborations with leading global healthcare companies to leverage the DPP platform.
+ Compared with traditional lateral flow technology, the DPP technology platform provides enhanced sensitivity and specificity, advanced multiplexing capabilities, and, when used with the DPP Micro Reader, quantitative results. Our DPP test for human immunodeficiency virus, or HIV, provides sensitivity of 99.8% and specificity of 100%, and has been approved by the U.S. Food and Drug Administration, or FDA, and cleared as a waived test under the Clinical Laboratory Improvement Amendments of 1988, or CLIA. On November 6, 2018, we completed our acquisition of opTricon GmbH, a Berlin-based developer and manufacturer of handheld analyzers for rapid diagnostic tests, which we believe will enable us to promote DPP tests and DPP Micro Readers more actively across global markets.
+ We are pursuing three corporate priorities, the key building blocks to drive growth and operating efficiency: (1) expand our commercialization; (2) advance our research and development pipeline; and (3) prepare for future growth.
+Industry
+ The DPP technology platform addresses the lateral flow test market, which includes infectious diseases, cardiac markers, cholesterol and lipids, pregnancy and fertility, and drugs of abuse. Based on our review of third-party reports and other information, we estimate that the market for lateral flow tests will increase from $5.5 billion in 2017 to $8.2 billion in 2022, representing a compound annual growth rate of 8.2%.
+ Infectious disease tests constitute the largest, and fastest growing, segment of the lateral flow test market. We currently are targeting lateral flow test solutions for three areas of infectious diseases: sexually transmitted disease, mosquito-borne disease and hepatitis. The market for lateral flow infectious disease tests is being driven by the high prevalence of infectious diseases globally, an increase in the geriatric population, growing demand for rapid test results, and advancements in multiplexing. Based on our review of third-party reports and other information, we estimate that the market for lateral flow infectious disease tests will increase from $1.4 billion in 2017 to $2.3 billion in 2022, representing a compound annual growth rate of 10.7%.
+ Products
+ Our point-of-care infectious disease portfolio is comprised of multiple commercial products, each serving unique customer requirements. The key advantages of our products, which are performed with a tiny drop of blood from the fingertip and provide results in approximately 15 minutes, include:
+
+• | enhanced sensitivity and specificity;
+--+--------------------------------------
+
+
+• | advanced multiplexing; and
+--+---------------------------
+
+
+• | quantitative results, when used with DPP Micro Reader.
+--+-------------------------------------------------------
+
+
+We have obtained U.S. FDA approvals and, directly or through our partners, international regulatory approvals for infectious disease tests as follows:
+ 
+Product (Assay) | U.S. | International
+------------------------------+------+--------------
+DPP HIV 1/2 | ✓ | ✓ 
+DPP HIV-Syphilis | | ✓ 
+DPP Syphilis Screen & Confirm | | ✓ 
+DPP Zika | ✓ | ✓ 
+DPP Leishmaniasis | | ✓ 
+STAT-PAK HIV 1/2 | ✓ | ✓ 
+STAT-PAK Chagas | | ✓ 
+SURE CHECK HIV 1/2 | ✓ | ✓ 
+SURE CHECK HIV 1/2 Self Test | | ✓ 
+
+ 
+Organic growth in our core infectious disease business is being driven by:
+ 
+ 
+• | growth in the overall market for lateral flow infectious disease tests, which we estimate will increase at a compound annual growth rate of 10.7% through 2022 (see “--Industry” above); 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | our increased market penetration in existing markets and channels, including in the United States, Latin America, Africa and Europe; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | our registration of existing and new products in unchartered countries and regions, such as selected countries in Latin America and Southeast Asia; 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | our entry into new market segments, such as international HIV Self-Testing; and
+--+--------------------------------------------------------------------------------
+
+
+• | advances in our product pipeline in infectious disease with key products including a multiplex test for HIV and syphilis in the U.S. market and tests for dengue, zika and chikungunya. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+We market and sell both stand-alone and multiplex tests for sexually transmitted infectious diseases, such as HIV and syphilis. HIV and syphilis continue to be major global public health issues. According to WHO estimates:
+ 
+ 
+• | HIV has claimed more than 35 million lives, including 940,000 in 2017. Approximately 36.9 million were living with HIV at the end of 2017, and 1.8 million were newly infected during 2017. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | There were 18.0 million prevalent cases of syphilis as of 2012, and 5.6 million new infections were estimated to occur annually. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Elimination of mother-to-child transmission, or MTCT, of both HIV and syphilis is a global health priority. In 2013, 1.9 million pregnant women were infected with syphilis worldwide. Congenital syphilis contributes significantly to infant mortality, accounting for 305,000 annual perinatal deaths worldwide in 2013. Globally, more than 1.4 million pregnant women were infected with HIV as of 2015, and MTCT of HIV is estimated to have resulted in over 150,000 infant cases in 2015. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+We are seeking to address the global concerns related to HIV and syphilis co-infection through the development of a novel, multiplex test for both HIV and syphilis. We have developed a DPP HIV-Syphilis multiplex test and received regulatory approvals covering a number of international markets, including Brazil, Europe, Malaysia and Mexico. In the United States we have completed a DPP HIV-Syphilis clinical trial and filed a Pre-Market Approval Application with the FDA, which is in the review process. We believe we are well-positioned to be the first company to introduce a multiplex rapid test for HIV and syphilis in the United States.
+ We also market and sell tests for selected fever and tropical diseases such as Chagas, ebola, leishmaniasis and Zika. The market for lateral flow mosquito-borne diseases includes established markets for disease such as dengue and malaria, which WHO estimates together account for more than 600 million annual infections worldwide. There are also a number of emerging markets for lateral flow tests for infectious diseases such as burkholderia, chikungunya, lassa, leptospirosis, Marburg, rickettsia and Zika. We are developing tests, using the DPP platform, to detect all of the aforementioned fever and tropical diseases, as stand-alone or multiplex tests.
+ Since 2015 we have received over $9 million of funding from some of the world’s leading health organizations, which has helped us accelerate the expansion of our pipeline of infectious disease tests. Our collaborators have included Bill & Melinda Gates Foundation, The Paul G. Allen Family Foundation, The Oswaldo Cruz Foundation or FIOCRUZ, and the Foundation for Innovative New Diagnostics or FIND, as well as U.S. government agencies such as Centers for Disease Control, or CDC, and the Biomedical Advanced Research and Development Authority of the U.S. Department of Health and Human Services or BARDA, and the U.S. Department of Agriculture, or USDA. Many of the tests in our infectious disease pipeline are approaching commercialization, and several have received initial regulatory approvals:
+
+Product | Collaborator | Phase I Feasibility | Phase II Development | Phase III Verification &Validation | Phase IV Clinical/ Regulatory | Phase V Commercial Launch 
+--------------------------------------------+-------------------------------------+-----------------------+------------------------+------------------------------------+--------------------------------------+-----------------------------------
+DPP HIV-Syphilis (US) | Self-funded | ✓ | ✓ | ✓ | Submitted FDA Q1 2018 | 
+DPP Dengue (International) | Fiocruz | ✓ | ✓ | ✓ | Submitted ANVISA1 Q3 2018 | 
+DPP Dengue NS1 (International) | Fiocruz | ✓ | ✓ | Ongoing | | 
+DPP Zika (US/International) | Fiocruz | ✓ | ✓ | ✓ | ✓ | Received FDA EUA2, ANVISA, CE mark
+DPP Chikungunya (International) | Fiocruz | ✓ | ✓ | ✓ | ✓ | Received ANVISA, Malaysia 
+DPP Dengue-Zika-Chikungunya (International) | Fiocruz | ✓ | ✓ | ✓ | Submitted ANVISA Q3 2018 | Received Malaysia 
+DPP Malaria (International) | Bill & Melinda Gates Foundation | ✓ | ✓ | Ongoing | | 
+DPP Ebola (US, International) | Centers for Disease Control | ✓ | ✓ | ✓ | Received FDA EUA Q4 2018 | 
+DPP Fever Panel (Africa) | The Paul G. Allen Family Foundation | ✓ | ✓ | ✓ | Field Testing: Africa, South America | 
+DPP Fever Panel (Asia) | FIND | ✓ | Ongoing | | | 
+
+ ____________________________
+ 1 Agência Nacional de Vigilância Sanitária (Brazil)
+ 2 Emergency Use Authorization
+ Collaborations
+ We are building additional revenue streams by leveraging our patented DPP technology and scientific expertise through collaborations. Leading global healthcare organizations have chosen to collaborate with us based on our deep scientific expertise with our proven DPP technology platform and capabilities, our successful record of developing DPP tests with a diverse set of collaborators including global commercial companies, governments and non-governmental organizations, and our extensive experience in obtaining regulatory approvals in the United States (FDA), Brazil (ANVISA), the European Union (CE mark) and Mexico (Comisión Federal para la Protección contra Riesgos Sanitarios, or COFEPRIS) as well as from WHO (Prequalification, or PQ).
+
+Product | Collaborator | Phase I Feasibility | Phase II Development | Phase III Verification &Validation | Phase IV Clinical/ Regulatory | Phase V Commercial Launch
+-------------------------------+-----------------+-----------------------+------------------------+------------------------------------+-------------------------------+--------------------------
+DPP Eosinophilic / Respiratory | AstraZeneca | ✓ | ✓ | Ongoing | Received CE mark Q4 2018 | 
+DPP Cancer | Undisclosed | ✓ | ✓ | Ongoing | | 
+Infectious Disease Portfolio | LumiraDx | Initiated Q3 2018 | | | | 
+DPP Concussion | Perseus Science | ✓ | Ongoing | | | 
+DPP Bovine Tuberculosis | USDA | ✓ | Ongoing | | | 
+DPP Hepatitis C Ab | FIND | ✓ | Ongoing | | | 
+DPP Hepatitis C Ag | FIND | Initiated Q3 2018 | | | | 
+
+ By leveraging our DPP technology platform, we are creating opportunities to expand into new markets such as cancer diagnostics, concussion and traumatic brain injury, and veterinary and we are broadening the application of our technology from point-of-care diagnostics to include companion diagnostics. Research and development costs related to the collaborations are fully funded by our collaborators.
+ Sales Channels
+ Our products are sold globally, both directly and through distributors, to hospitals and clinics, physician offices, clinical laboratories, public health organizations, government agencies and consumers. Historically we marketed and sold our products only into a handful of countries and regions. In recent years we have hired sales executives to begin building our own channels in key markets such as the United States, Europe, Latin America, Africa and Southeast Asia. With sales growth as an underlying objective, we are focused on increasing sales in existing geographies, expanding sales into new geographies, and broadening sales coverage in key markets.
+ Automation of U.S. Manufacturing
+ We are automating our U.S. manufacturing processes and expanding our manufacturing capacity. During 2018, we took delivery of our first automated manufacturing line. This automated manufacturing line will be used for DPP test production and will allow assembly of various configurations of DPP tests on the line. The automated line will have an annual capacity of between five and ten million tests, depending on the test configuration, and will use vision-guided, robotic operation to improve inspection and quality control. As we transition from manual to automated assembly, we believe the reduced variable costs will improve product gross margins.
+ 
+ 3
+ 
+DPP Technology & Development
+ 
+Our commercially available products employ either our patented DPP technology or traditional lateral flow technology. We believe products developed using our DPP technology can provide superior diagnostic performance compared with products that utilize traditional lateral flow technology. 
+ 
+We are executing our strategy to leverage DPP intellectual property, as well as our scientific and operational expertise, to create new collaborations where we will serve as an exclusive development and manufacturing partner. Examples of such collaborations include the following:
+ 
+ 
+• | In January 2015, we entered into an agreement with the Concussion Science Group (CSG) Division of Perseus Science Group LLC to develop a point-of-care diagnostic test for traumatic brain injury, including sports-related concussions, utilizing both our DPP and optical analyzer technologies. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | In October 2017, we signed a development agreement with AstraZeneca for the development of a quantitative point-of-care test for eosinophilic respiratory disease, utilizing both our DPP and optical analyzer technologies. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | In April 2018, we entered into a collaboration agreement with LumiraDx to develop new point-of-care diagnostic tests for infectious diseases. Under terms of the agreement, we receive funding from LumiraDx, subject to satisfying certain milestones, to develop certain new point-of-care infectious disease tests. Following the regulatory approval and commercialization of tests in accordance with this agreement, Chembio will both sell reagents to, and receive royalty payments from, LumiraDx on sales of all products developed through this collaboration. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | In November 2018, we acquired opTricon (Berlin, Germany), a leading developer of handheld optical analyzers rapid diagnostic tests. See “Management’s Discussion & Analysis of Financial Condition and Results of Operations—Recent Developments.” 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Competition
+ 
+Many of our competitors are significantly larger and have greater financial, research, manufacturing, and marketing resources. Important competitive factors include product quality, analytical performance, ease of use, price, customer service and reputation. Industry competition is based on these and the following additional factors:
+
+• | patent protection;
+--+-------------------
+
+
+• | scientific expertise;
+--+----------------------
+
+
+• | ability to develop and market products and processes;
+--+------------------------------------------------------
+
+
+• | ability to obtain required regulatory approvals;
+--+-------------------------------------------------
+
+
+• | ability to manufacture cost-effective products that meet applicable regulatory requirements;
+--+---------------------------------------------------------------------------------------------
+
+
+• | access to adequate capital; and,
+--+---------------------------------
+
+
+• | ability to attract and retain qualified personnel.
+--+---------------------------------------------------
+
+
+ 4
+ 
+We believe our scientific capabilities and proprietary know-how relating to our patented DPP technology and lateral flow technology are very strong, particularly for the development and manufacture of tests for the detection of antibodies to infectious diseases, and other diseases.
+ 
+Our ability to develop and market other products is in large measure dependent on our having additional resources and/or collaborative relationships.  Some of our product development efforts have been funded on a project or milestone basis.  We believe that our proprietary know-how relating to our patented DPP technology has been instrumental in our obtaining the collaborations we have and that we continue to pursue.  We believe that our patent protection enhances our ability to both develop more profitable, collaborative relationships and expand licensing revenue. However, there are a number of competitive technologies used and/or seeking to be used by others in point-of-care settings.
+ 
+Although we have no specific knowledge of any other competitors’ products that could render our products obsolete, if we fail to maintain and enhance our competitive position or fail to introduce new products and product features, our customers may decide to use the products developed by our competitors, which could result in a loss of revenues and cash flow.
+ 
+Employees
+ 
+ As of December 31, 2018, we had 295 full-time equivalent employees, of whom 15 were in administration, 215 were in manufacturing, 45 were in research and development, and 20 were in sales and marketing and customer service. Of these employees, approximately 240 were located in the United States, 27  were located in Malaysia, 20 were located in Germany, and 3 were located in other countries.
+ We have never had a work stoppage, and none of our employees are represented by a labor organization or subject to any collective bargaining arrangements. We consider our employee relations to be good.
+
+Governmental Regulation
+ 
+Certain of our activities are subject to regulatory oversight by the FDA under provisions of the Federal Food, Drug, and Cosmetic Act and regulations thereunder, including regulations governing the development, marketing, labeling, promotion, manufacturing, and export of diagnostic products. Our clinical laboratory customers are subject to oversight by Centers for Medicare and Medicaid Services, or CMS, pursuant to CLIA, as well as agencies in various states. Failure to comply with applicable requirements can lead to sanctions, including withdrawal of products from the market, recalls, refusal to authorize government contracts, product seizures, civil money penalties, injunctions, and criminal prosecution.
+ 
+FDA Approval/Clearance Requirements
+ 
+Unless an exemption applies, each medical device that we market or wish to market in the United States must receive 510(k) clearance or Premarket Approval, or PMA. Medical devices that receive 510(k) clearance are “cleared” by the FDA to market, distribute, and sell in the United States. Medical devices that obtain a PMA by the FDA are “approved” to market, distribute and sell in the United States. We cannot be certain that 510(k) clearance or PMA approval will ever be obtained for any products that have not already obtained 510(k) clearance or PMA approval. Descriptions of the PMA and 510(k) clearance processes are provided below.
+ 
+The FDA decides whether a device line must undergo either the 510(k) clearance or PMA based on statutory criteria that utilize a risk-based classification system. PMA is the FDA process of scientific and regulatory review to evaluate the safety and effectiveness of Class III medical devices and, in many cases, Class II medical devices. Class III devices are those that support or sustain human life, are of substantial importance in preventing impairment of human health, or which present a potential, unreasonable risk of illness or injury. The FDA uses these criteria to decide whether a PMA or a 510(k) is appropriate, including the level of risk that the agency perceives is associated with the device and a determination by the agency of whether the product is a type of device that is similar to devices that are already legally marketed. Devices deemed to pose relatively less risk are placed in either Class I or II. In many cases, the FDA requires the manufacturer to submit a 510(k) requesting clearance (also referred to as a premarket notification), unless an exemption applies. The 510(k) must demonstrate that the manufacturer’s proposed device is “substantially equivalent” in intended use and in safety and effectiveness to a legally marketed predicate device. A “predicate device” is a pre-existing medical device to which equivalence can be drawn, that is either in Class I or Class II or is a Class III device that was in commercial distribution before May 28, 1976, for which the FDA has not yet called for submission of a PMA application.
+ 
+Device classification depends on the device’s intended use and its indications for use. In addition, classification is risk-based, that is, the risk the device poses to the patient and/or the user is a major factor in determining the class to which it is assigned. Class I includes devices with the lowest risk and Class III includes those with the greatest risk.
+ 
+Class I devices are those for which safety and effectiveness can be assured by adherence to the FDA’s general regulatory controls for medical devices, or the General Controls, which include compliance with the applicable portions of the FDA’s quality system regulations, facility registration and product listing, reporting of adverse medical events, and appropriate, truthful and non-misleading labeling, advertising, and promotional materials. Some Class I devices also require premarket clearance by the FDA through the 510(k) process described below.
+ 
+Class II devices are subject to the FDA’s General Controls, and any other special controls as deemed necessary by the FDA to ensure the safety and effectiveness of the device. Premarket review and clearance by the FDA for Class II devices is accomplished through the 510(k) process. Pursuant to the Medical Device User Fee and Modernization Act of 2002, unless a specific exemption applies, 510(k) submissions are subject to user fees. Certain Class II devices are exempt from this premarket review process.
+  
+Class III includes devices with the greatest risk. Devices in this class must meet all of the requirements in Classes I and II. In addition, Class III devices cannot be marketed until they receive Premarket Approval.
+ 
+The safety and effectiveness of Class III devices cannot be assured solely by the General Controls and the other requirements described above. These devices require formal clinical studies to demonstrate safety and effectiveness. Under Medical Device User Fee and Modernization Act of 2002, PMA applications (and supplemental premarket approval applications) are subject to significantly higher user fees than 510(k) applications, and they also require considerably more time and resources.
+ 
+Rapid HIV tests intended for diagnostic use are regulated as Class III devices. Responsibility for assuring the safety and effectiveness of these tests lies within the Center for Biologics Evaluation and Research’s Office of Blood Research and Review, with oversight by the Blood Products Advisory Committee. Approved rapid HIV tests must meet the regulations in the 21 CFR 800 series subparts, under the investigational device exemption, or IDE and PMA pathways.
+  5
+ 
+Premarket Approval Pathway
+ 
+We manufacture, market and distribute three rapid HIV tests in the United States. Our HIV 1/2 STAT-PAK Assay, SURE CHECK HIV 1/2 Assay, and DPP HIV 1/2 Assay all have received FDA PMA approval. A PMA application must be supported by extensive data including, but not limited to, analytical, preclinical, clinical trials, manufacturing, statutory preapproval inspections, and labeling to demonstrate to the FDA’s satisfaction the safety and effectiveness of the device for its intended use. Before a PMA is submitted, a manufacturer must apply for an IDE. If the device presents a “significant risk,” as defined by the FDA, to human health, the FDA requires the device sponsor to file an IDE application with the FDA and obtain IDE approval prior to initiation of enrollment of human subjects for clinical trials. The IDE provides the manufacturer with a legal pathway to perform clinical trials on human subjects where without the IDE, only approved medical devices may be used on human subjects.
+ 
+The IDE application must be supported by appropriate data, such as analytical, animal and laboratory testing results, manufacturing information, and an Investigational Review Board (IRB) approved protocol showing that it is safe to test the device in humans and that the testing protocol is scientifically sound. If the clinical trial design is deemed to have “non-significant risk,” the clinical trial may be eligible for “abbreviated” IDE requirements. In some instances, clinical trials for in vitro diagnostic medical devices may be exempt from the more burdensome IDE requirements if certain labeling requirements are met.
+ 
+A clinical trial may be suspended by either the FDA or the Investigational Review Board at any time for various reasons, including a belief that the risks to the study participants outweigh the benefits of participation in the study. Even if a study is completed, clinical testing results may not demonstrate the safety and efficacy of the device, or they may be equivocal or otherwise insufficient to obtain approval of the product being tested. After the clinical trials have been completed, if at all, and the clinical trial data and results are collected and organized, a manufacturer may complete a PMA application.
+ 
+After a PMA application is sufficiently complete, the FDA will accept the application and begin an in-depth review of the submitted information. By statute, the FDA has 180 days to review the “accepted application,” although, generally, review of the application can take between one and three years, but it may take significantly longer. During this review period, the FDA may request additional information or clarification of information already provided. Also, during the review period, an advisory panel of experts from outside the FDA may be convened to review and evaluate the application and provide recommendations to the FDA as to the approvability of the device. The preapproval inspections conducted by the FDA include an evaluation of the manufacturing facility to ensure compliance with the FDA's quality systems regulations or QSR, as well as inspections of the clinical trial sites by the Bioresearch Monitoring group to evaluate compliance with good clinical practice and human subject protections. New PMA applications or PMA supplements are required for modifications that affect the safety or effectiveness of the device, including, for example, certain types of modifications to the device’s indication for use, manufacturing process, labeling and design. Significant changes to an approved PMA require a 180-day supplement, whereas less substantive changes may utilize a 30-day notice, or a 135-day supplement. Premarket approval supplements often require submission of the same type of information as a premarket approval application, except that the supplement is limited to information needed to support any changes from the device covered by the original premarket approval application, and it may not require as extensive clinical data or the convening of an advisory panel.
+ 
+Our HIV 1/2 STAT-PAK Assay PMA application number BP050009/0 and our SURE CHECK 1/2 HIV Assay PMA application number BP050010/0 were approved by the FDA in May 2006. Our DPP HIV 1/2 Assay PMA application number BP120032/0 was approved by the FDA in December 2012.
+
+
+510(k) Clearance Pathway
+ 
+We are currently developing products that either will or are likely to require an FDA 510(k) clearance, and we anticipate submitting a 510(k) for each such product to demonstrate that such proposed device is substantially equivalent to a respective previously cleared 510(k) device or a device that was in commercial distribution before May 28, 1976, for which the FDA has not yet called for the submission of 510(k). FDA's 510(k) clearance pathway usually takes from three to twelve months but could take longer. In some cases the FDA may require additional information, including clinical data, to make a determination regarding substantial equivalence.
+ 
+If a device receives 510(k) clearance, any modification that could significantly affect its safety or effectiveness, or that would constitute a new or major change in its intended use, will require a new 510(k) clearance or, depending on the modification, a PMA. The FDA requires each device manufacturer to determine whether the proposed change requires submission of a new 510(k) or a PMA, but the FDA can review any such decision and can disagree with a manufacturer’s determination. If the FDA disagrees with a manufacturer’s determination, the FDA can require the manufacturer to cease marketing and/or recall the modified device until 510(k) clearance or PMA of the modified device is obtained.
+ 
+If the FDA requires us to submit a new 510(k) or PMA for any modifications to a previously cleared product, or if we obtain 510(k) clearance for a device in the future, we may be required to submit a separate new 510(k) or PMA application for such modifications.
+ 
+Clinical Laboratory Improvement Amendments of 1988
+
+
+A manufacturer of a test categorized as moderately complex may request that categorization of the test be waived through a CLIA Waiver by Application, or CW, submission to the FDA. When a test is categorized as waived, it may be performed by laboratories with a Certificate of Waiver, such as a physician’s office outreach setting. In a CW submission, the manufacturer provides evidence to the FDA that a test meets the CLIA statutory criteria for waiver CLIA, a walk-in clinic or an emergency room provides CMS authority over all laboratory testing, except research that is performed on humans in the United States. The Division of Laboratory Services, within the Survey and Certification Group under the CMS, has the responsibility for implementing the CLIA program.
+ 
+The CLIA program is designed to establish quality laboratory testing by ensuring the accuracy, reliability and timeliness of patient test results. Under CLIA, a laboratory is a facility that does laboratory testing on specimens derived from humans and used to provide information for the diagnosis, prevention or treatment of disease, or impairment of, or assessment of health. Under the CLIA program, unless waived, laboratories must be certified by the government, satisfy governmental quality and personnel standards, undergo proficiency testing, be subject to inspections and pay fees. We have received a CLIA waiver for all of our lateral flow rapid HIV tests that we market in the United States. Specifically, the CLIA waiver was granted by the FDA for HIV 1/2 STAT-PAK in November 2006,for SURE CHECK HIV 1/2 in October 2007, and for DPP HIV 1/2 in October 2014.
+  6
+ 
+Pervasive and Continuing FDA Regulation
+ 
+A host of regulatory requirements apply to our approved devices, including: the quality system regulation, which requires manufacturers to follow elaborate design, testing, control, documentation and other quality assurance procedures; the Medical Reporting Regulations, which require manufacturers to report to the FDA specified types of adverse events involving their products; labeling regulations; and the FDA’s general prohibition against promoting products for unapproved or “off-label” uses. Some Class II devices are subject to special controls-such as performance standards, post-market surveillance, patient registries, and FDA guidelines-that do not apply to Class I devices.
+ 
+The regulatory requirements that apply to our approved products classified as medical devices include:
+ 
+  
+• | product listing and establishment registration, which helps facilitate FDA inspections and other regulatory action;
+--+--------------------------------------------------------------------------------------------------------------------
+
+
+• | QSR, which require manufacturers, including third-party manufacturers, to follow stringent design, testing, control, documentation and other quality assurance procedures during all aspects of the development and manufacturing process; 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | labeling regulations and FDA prohibitions against the promotion of products for uncleared, unapproved or off-label use or indication; 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | clearance of product modifications that could significantly affect safety or efficacy or that would constitute a major change in intended use of one of our cleared devices; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | approval of product modifications that affect the safety or effectiveness of one of our cleared devices;
+--+---------------------------------------------------------------------------------------------------------
+
+
+• | medical device reporting regulations, which require that manufacturers comply with FDA requirements to report if their device may have caused or contributed to a death or serious injury, or has malfunctioned in a way that would likely cause or contribute to a death or serious injury if the malfunction of the device or a similar device were to recur; 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | post-approval restrictions or conditions, including post-approval study commitments;
+--+-------------------------------------------------------------------------------------
+
+
+• | post-market surveillance regulations, which apply when necessary to protect the public health or to provide additional safety and effectiveness data for the device; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | the FDA’s recall authority, whereby it can ask, or under certain conditions order, device manufacturers to recall from the market a product that is in violation of governing laws and regulations; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | regulations pertaining to voluntary recalls; and,
+--+--------------------------------------------------
+
+
+• | notices of corrections or removals.
+--+------------------------------------
+
+
+ Our Medford, New York facility is currently registered as an establishment with the FDA. We and any third-party manufacturers are subject to announced and unannounced inspections by the FDA to determine our compliance with QSR and other regulations.
+ 
+21st Century Cures Act
+ 
+The 21st Century Cures Act, enacted in December 2016, contains several sections specific to medical device innovations. We believe that implementation of the 21st Century Cures Act may have a positive impact on its businesses by facilitating innovation and/or reducing the regulatory burden imposed on medical device manufacturers.
+Government Regulation of Medical Devices for Animal Subjects
+ 
+We currently sell, market or distribute two veterinary devices in the United States: DPP VetTB Assay for Cervids and DPP VetTB Assay for Elephants. Diagnostic tests for animal health infectious diseases, including our veterinary devices for the prevention and/or treatment of animal disease, are regulated in the U.S. by the Center for Veterinary Biologics within the U.S. Department of Agriculture Animal and Plant Health Inspection Service, or APHIS, under the Virus, Serum, and Toxin Act of 1913. As a requirement, our veterinary devices were approved by APHIS before they could be sold in the U.S.
+ 
+The APHIS regulatory approval process involves the submission of product performance data and manufacturing documentation. Following regulatory approval to market a product, APHIS requires that each lot of product be submitted for review before release to customers. In addition, APHIS requires special approval to market products where test results are used in part for government-mandated disease management programs.
+ 
+Environmental Laws
+ 
+ We believe that we are in compliance with all foreign, federal, state, and local environmental regulations with respect to our manufacturing facilities. The cost of ongoing compliance with such regulations does not have a material effect on our operations.
+Intellectual Property
+ 
+Intellectual Property Strategy
+ 
+Our intellectual property strategy is to:  (1) build our own intellectual property portfolio around our DPP technology and optical analyzers; (2) pursue licenses, trade secrets and know-how within the area of rapid point-of-care testing; and, (3) develop and acquire proprietary positions to certain reagents.
+  7
+ 
+DPP® Intellectual Property
+ 
+We have obtained patent coverage on our DPP technology, including numerous patents in the United States, China, Malaysia, Eurasia, Mexico, Singapore, Japan, Australia, Indonesia, Korea and the U.K.  Additional patent applications on our DPP technology are pending in the United States, as well as in foreign countries such as Brazil, Canada, the European Union, India, Israel, and South Africa. 
+
+
+DPP technology provides us with freedom to operate, which enables us to develop tests with better performance and capabilities compared with tests built on traditional lateral flow platforms.  These advantages have allowed us to enter into multiple technology collaborations based upon DPP technology, which we believe will provide new manufacturing and marketing opportunities. We have filed additional patent applications that we believe will strengthen the DPP intellectual property and have also filed for patent protection for certain other point-of-care technologies or applications thereof.
+ 
+We have also obtained patent coverage on our optical-based analyzer technology in the United States, with patents pending in several foreign countries.
+ 
+Trademarks
+ 
+We have filed and obtained trademarks for our products, including DPP, SURE CHECK, STAT-VIEW, and STAT-PAK, and NEXT GENERATION DPP, as well as for the SampleTainer and DPP Micro Reader, which are used with certain DPP products.  Our trademarks have been obtained in the United States and certain other countries around the world.
+ 
+Trade Secrets and Know-How
+ 
+We have developed a substantial body of trade secrets and know-how relating to the development and manufacture of lateral flow and DPP-based diagnostic tests, including the sourcing and optimization of materials for such tests, and methods to maximize sensitivity, speed-to-result, specificity, stability and reproducibility of our tests.  We possess proprietary know-how to develop tests for multiple conditions using colored particles.  Our formulations enable long shelf lives of our rapid HIV and other tests, providing us with an important competitive advantage.
+ 
+Lateral Flow Technology and Reagent Licenses
+ 
+We seek licenses and/or redesigns of products that we believe to be in our best interests.  Because of the costs and other negative consequences of time-consuming patent litigation, we often attempt to obtain a license on reasonable terms.
+
+
+The peptides used in our rapid HIV tests were licensed to us by one or more third parties. We also have licensed the antigens used in other tests including our Syphilis, Tuberculosis, Leptospirosis, Leishmaniasis and Chagas tests, and we may enter into other license agreements.  In prior years, we concluded license agreements related to intellectual property rights owned by the United States associated with HIV-1 and a sub-license agreement for HIV-2 with Bio-Rad Laboratories N.A., the exclusive licensee of the Pasteur Institute's HIV-2 intellectual property estate.
+
+
+Available Information
+ We are required to file annual, quarterly and current reports, proxy statements and other information with the U.S. Securities and Exchange Commission. The SEC maintains a website at www.sec.gov that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC.
+ Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, proxy statements and amendments to those documents filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, are also available free of charge on our website at www.chembio.com as soon as reasonably practicable after such reports are electronically filed with or furnished to the SEC.
+ Investors should note that we currently announce material information to our investors and others using filings with the SEC, press releases, public conference calls, webcasts or our website (www.chembio.com), including news and announcements regarding our financial performance, key personnel, our brands and our business strategy. Information that we post on our corporate website could be deemed material to investors. We encourage investors to review the information we post on these channels. We may from time to time update the list of channels we will use to communicate information that could be deemed material and will post information about any such change on www.chembio.com. The information on our website is not, and shall not be deemed to be, a part hereof or incorporated into this or any of our other filings with the SEC.
+ Corporate Information
+ Our principal executive offices are located at 3661 Horseblock Road, Medford, New York 11763. Our telephone number is (631) 924-1135. Our website address is www.chembio.com. The information contained in, or accessible through, our corporate website does not constitute part of this report.
+  8
+ 
+  

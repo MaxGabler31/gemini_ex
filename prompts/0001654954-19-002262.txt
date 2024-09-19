@@ -1,0 +1,155 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+  ITEM 1. 
+ BUSINESS
+
+ 
+  Overview
+  
+ SharpSpring, Inc. (the “Company”) is a cloud-based marketing technology company. The SharpSpring platform is designed to improve the way that businesses communicate with their prospects and customers to increase sales. The Company’s flagship marketing automation platform uses advanced features such as web tracking, lead scoring and automated workflow to help businesses deliver the right message to the right customer at the right time. The SharpSpring platform is designed and built as a Software as Service (or SaaS) offering. We provide our products on a subscription basis, with additional fees charged if specified volume limits are exceeded by our customers.
+  
+ We operate globally through SharpSpring, Inc., a Delaware corporation, and our wholly owned subsidiaries that consist of (i) SharpSpring Technologies, Inc., a Delaware corporation; (ii) InterInbox SA, a Swiss corporation; (iii) ERNEPH 2012A (Pty) Ltd., a South African limited company; (iv) ERNEPH 2012B (Pty) Ltd., a South African limited company; and (v) SMTP Holdings S.a.r.l., a Luxembourg S.a.r.l. Unless the context otherwise requires, all references to the “Company,” “we,” “our” or “us” and other similar terms means SharpSpring, Inc., and its subsidiaries.
+  
+  Products and Services
+  
+ We provide SaaS based marketing technologies to customers around the world. Our focus is on marketing automation tools that enable customers to interact with a lead from an early stage and nurture that potential customer using advanced features until it becomes a qualified sales lead or customer. Our platform also includes customer relationship management (CRM) technology that enables a business to store, manage and optimize customer and prospect data in a cloud-based environment. Additionally, a small portion of customers utilize our SharpSpring Mail+ product, which is a subset of the full suite solution that is focused on more traditional email marketing while also including some of the advanced functionality available in our premium offering.
+ Markets & Competition
+  
+ Our SharpSpring product competes primarily in the marketing automation market. Based on industry reports, our growth rate and the growth rate of our competitors, we believe the market for marketing automation technology is currently growing at approximately 30% per year overall. The market for marketing automation software and related solutions is new and evolving, with high barriers to entry due to the complex nature of the technology. SharpSpring entered the market in 2014 with a highly competitive offering that achieved meaningful customer adoption in its first few years after launch. As of December 31, 2018, SharpSpring had approximately 2,100 paying customers and approximately 7,700 businesses using the platform, including agencies, agency clients and direct end user customers. We face competition from cloud-based software and SaaS companies including HubSpot, Act-On, Pardot (part of Salesforce.com), ActiveCampaign and Infusionsoft. We differentiate ourselves from the competition with the integration of specific tools designed for digital marketing agencies, and with SharpSpring’s advanced features, ease of use, platform flexibility, and value compared to other competitive offerings. SharpSpring is designed as a solution for small or mid-sized businesses, but focuses on selling to marketing agencies, who serve as partners providing a distribution channel to their clients.
+  
+ Since inception, the majority of our SharpSpring customers have been digital marketing agencies. A digital marketing agency is a firm that specializes in helping clients, usually small or mid-sized businesses, with their digital marketing initiatives like websites, email marketing, search engine optimization, social campaigns, pay-per-click advertising and other digital lead generation activities. We have built special tools in the SharpSpring application to allow agencies to manage their clients on the platform and optimize their efforts across their portfolio. We also have special pricing to agency customers to allow them the flexibility to resell the platform at a profit and manage their client relationships. In general, when we sell SharpSpring to an agency customer, we provide the agency with a SharpSpring license for the agency to use, plus a 3-pack of client licenses for the agency to deploy to their client base. This agency license and the pack of licenses are generally sold for a monthly recurring fee, plus an up-front onboarding fee. The agency has complete discretion over the pricing of the platform to their clients for the use, implementation and services related to SharpSpring. If an agency utilizes its pack of licenses and adds additional clients on to the platform, there is a monthly per-client fee charged to the agency based on the number of additional licenses the agency has deployed to their clients. Additionally, we charge customers for certain items if volume or transactional limits are exceeded, such as emails sent or contacts stored in the platform. In most cases, we provide support to the agency and the agency provides support to their clients on the platform, but for additional fees, we can provide product support to the agency’s client directly. Our objective is to partner with the agencies to grow and expand our businesses together using the SharpSpring platform.
+  
+ 
+   
+3
+
+
+  
+ 
+ Approximately one-fifth of our marketing automation customers are individual businesses that have licensed SharpSpring directly without working through an agency. We refer to these customers as “Direct Customers”. Similar to agency customers, Direct Customers pay a monthly subscription fee for use of the platform, plus an up-front onboarding fee. Additionally, we charge Direct Customers additional transactional charges based on usage over certain limits.
+  
+ SharpSpring Mail+ was launched in 2016, as a replacement to the GraphicMail product that was acquired in 2014. SharpSpring Mail+ provides customers with an advanced email marketing and marketing automation tool. It includes traditional email campaign management solutions like design capabilities, reporting tools and list management functionality, but also includes additional features like dynamic email content and SharpSpring’s visitor ID tool that are more typically found in a marketing automation solution. SharpSpring Mail+ competes with companies such as Constant Contact, iContact Corporation, The Rocket Science Group, LLC (MailChimp®), and VerticalResponse, Inc., a subsidiary of Deluxe Corporation, as well as other email and marketing automation companies. SharpSpring Mail+, and most other vendors, typically charge a monthly fee or a fee per number of emails sent and, in some cases, they have a free offering for low-volume or non-profit customers. SharpSpring Mail+’s rich feature set is the primary key market differentiator.
+  
+ We are part of a constantly evolving and highly competitive marketplace. Most of our competitors have more extensive customer bases and broader customer relationships than we have and have longer operating histories and greater name recognition than we have. Additionally, some of our current and potential competitors have significantly more financial, technical, marketing and other resources than we have, and are able to devote greater resources to the development, promotion, sale and support of their products and services. Barriers to entry are relatively high in the marketing automation market due to complexity of systems.
+  
+  Sales and Marketing
+  
+ We sell our products globally, through our internal sales teams, and to a lesser extent, third party resellers. We use and rely on our own SharpSpring marketing automation platform to help our business generate leads, convert more leads to sales and monitor the effectiveness of all our marketing campaigns. Our website www.sharpspring.com serves as a lead generation source and we use a variety of other digital marketing tools and marketing campaigns to attract new customers.
+  
+ Our SharpSpring product sales process involves targeting customers, completing product demos and advancing customers through our marketing and sales pipeline to conversion using our SharpSpring marketing automation product. Since SharpSpring was launched fairly recently in 2014, brand recognition today is growing, but still fairly limited. Therefore, we are more reliant on our marketing campaigns and search engine traffic to attract potential leads. Our marketing efforts to date have been nearly 100% focused on digital marketing agencies, and we have had success signing up over 1,700 marketing agency partners as of December 31, 2018. These agencies become customers and are able to resell SharpSpring to their clients, while paying increased fees to us as their client count expands beyond the base license pack. This allows the agency to provide services and first-level support for their clients, which increases their own revenues from the end client and creates a longer-lasting relationship overall between the agency and client. We also sell SharpSpring directly to end-users and have over 400 direct end user customers on the platform. The Company’s sales are done primarily through internal resources, but a small number of third-party resellers were also used during 2018.
+  
+ The SharpSpring Mail+ product was created in 2016 to migrate GraphicMail customers to the SharpSpring platform. Since that time, we spent limited resources marketing and selling SharpSpring Mail+ as a standalone product and we discontinued its sale to new customers during early 2018. We currently intend to continue supporting SharpSpring Mail+, but may decide to discontinue the SharpSpring Mail+ product altogether in the future. The SharpSpring Mail+ product generated approximately $391,000 of revenue during 2018.
+  
+  Customers
+  
+ As of December 31, 2018, we had over 2,100 customers for our SharpSpring product, the majority of which were marketing agencies who resell SharpSpring to their clients. Including agency partners, agency clients and direct end user clients, we had over 7,700 businesses using the SharpSpring platform as of December 31, 2018.
+  
+ As of December 31, 2018, we had approximately 800 customers using our SharpSpring Mail+ product.
+  
+ The vast majority of our customers are on month-to-month agreements, with a mixture of customers being charged in advance and in arrears. We have a small number of customers that prepay for longer periods, such as quarterly or annually.
+  
+ 
+   
+4
+
+
+  
+ 
+ We are not heavily dependent on any one customer or even a few major customers. Our user base is diverse, and the largest single customer represents approximately 1% of our aggregate revenues. The loss of any one customer would not represent a material loss of sales. We do not have any significant industry concentration in our customer base.
+  
+  Technology & Technology Suppliers
+  
+ Our SharpSpring product technology was developed internally over the past seven years. SharpSpring operates as a multi-tenant Software-as-a-service (or “SaaS”) application. SharpSpring’s key features include web tracking, customer relationship management, lead scoring and nurturing, landing pages, email technology, rule-based triggers and notifications and deep analytics to measure marketing program return on investment (ROI). In addition to our technology platform, we offer value to our customers by providing integrations with other technology platforms.
+  
+ SharpSpring Mail+ is a subset of the SharpSpring technology. In early 2018, we discontinued its sale to new customers. We currently intend to continue supporting SharpSpring Mail+, but may decide to discontinue the SharpSpring Mail+ product altogether in the future.
+  
+ Our platforms are hosted in third party data centers on virtual cloud-based infrastructure. During 2018, these providers included Google Compute and Amazon Web Services. These data centers use a mixture of biometric access controls, redundant power, environmental controls and secure internet connection points to ensure uptime and data security. Email sending technology is a key part of the application, and we rely on a third party to deliver our platform’s email. The Company continuously monitors our services for availability, performance and security. We rely on our data center and service providers to maintain peak operating conditions in their businesses and to quickly address issues related to their service as they arise.
+  
+  Key Performance Indicators
+  
+ In addition to financial performance, the Company measures the performance of several key performance indicators, including:
+   ● 
+ Number of acquired customers
+
+  ● 
+ Customer acquisition costs (CAC)
+
+  ● 
+ Customer attrition rates
+
+  ● 
+ Net revenue retention
+
+  ● 
+ Expected lifetime value (LTV)
+
+ 
+  Intellectual Property
+  
+ The Company does not have any patents, and does not have any patents in progress.
+  
+ Our trade secrets include our competencies in marketing automation, web tracking, integrations, workflow and email editing.
+  
+ We registered “SharpSpring” and the related logo and certain other marks as trademarks in the United States and several other jurisdictions.
+  
+ We are the registered holder of a variety of domestic and international domain names that include “sharpspring”, “sharpspringmailplus”, “graphicmail” and similar variations.
+  
+ 
+  Regulation of our Business
+  
+ We must comply with several U.S. and foreign laws and regulations. In the U.S., federal legislation entitled Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003, or the CAN-SPAM Act, imposes certain obligations on the senders of commercial emails and specifies penalties for the transmission of commercial email messages that are intended to deceive the recipient as to source or content.
+  
+ The CAN-SPAM Act’s main provisions include:
+  
+ 
+● | prohibiting false or misleading email header information 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | prohibiting the use of deceptive subject lines 
+● | ensuring that recipients may, for at least 30 days after an email is sent, opt out of receiving future commercial email messages from the sender, with the opt-out effective within 10 days of the request
+● | requiring that commercial email be identified as a solicitation or advertisement unless the recipient affirmatively assented to receiving the message 
+● | requiring that the sender include a valid postal address in the email message 
+
+
+ 
+ 
+   
+5
+
+
+  
+ 
+ In addition, some states have passed laws regulating commercial email practices that are significantly more punitive and difficult to comply with than the CAN-SPAM Act, particularly Utah and Michigan, which have enacted do-not-email registries listing minors who do not wish to receive unsolicited commercial email that markets certain covered content, such as adult or other harmful products. Some portions of these state laws may not be preempted by the CAN-SPAM Act. Additionally, some foreign jurisdictions, such as Australia, Canada and the European Union, have also enacted laws that regulate sending email, some of which are more restrictive than the CAN-SPAM Act. For example, some foreign laws prohibit sending unsolicited email unless the recipient has provided the sender advance consent to receipt of such email.
+  
+ As internet commerce continues to evolve, increasing regulation by federal, state or foreign governments becomes more likely. Our business could be negatively impacted by the application of existing laws and regulations or the enactment of new laws applicable to email communications. The cost to comply with such laws or regulations could be significant and would increase our operating expenses, and we may be unable to pass along those costs to our customers in the form of increased subscription fees. In addition, federal, state and foreign governmental or regulatory agencies may decide to impose taxes on services provided over the Internet or via email. Such taxes could discourage the use of the Internet and email as a means of commercial marketing and communications, which would adversely affect the viability of our services.
+  
+ Additionally, certain aspects of how our customers utilize our platform are subject to regulations in the United States, European Union and elsewhere. In recent years, U.S. and European lawmakers and regulators have expressed concern over the use of third-party cookies or web beacons for online behavioral advertising, and legislation adopted recently in the European Union requires informed consent for the placement of a cookie on a user’s device. Regulation of cookies and web beacons may lead to restrictions on our activities, such as efforts to understand users’ Internet usage. New and expanding “Do Not Track” regulations have recently been enacted or proposed that protect users’ right to choose whether or not to be tracked online. These regulations seek, among other things, to allow end users to have greater control over the use of private information collected online, to forbid the collection or use of online information, to demand a business to comply with their choice to opt out of such collection or use, and to place limits upon the disclosure of information to third party websites. These policies could have a significant impact on the operation of our marketing automation platform and could impair our attractiveness to customers, which would harm our business.
+  
+ The European Union’s General Data Protection Regulation (GDPR) went into effect in May 2018 and created a data protection law framework across the EU, aiming to give citizens back the control of their personal data, while imposing strict rules on those hosting and 'processing' this data, anywhere in the world. The Regulation also introduces rules relating to the free movement of personal data within and outside the EU. SharpSpring, as a data processor, must clearly disclose any data collection, declare the lawful basis and purpose for data processing, and state how long data is being retained and if it is being shared with any third parties or outside of the European Economic Area. Data subjects have the right to request a portable copy of the data collected by a processor in a common format, and the right to have their data erased under certain circumstances. Public authorities, and businesses whose core activities center around regular or systematic processing of personal data, are required to employ a data protection officer (DPO), who is responsible for managing compliance with the GDPR. Businesses must report any data breaches within 72 hours if they have an adverse effect on user privacy. In some cases, violators of the GDPR may be fined up to €20 million or up to 4% of the annual worldwide turnover of the preceding financial year in case of an enterprise, whichever is greater.
+  
+ Customers and potential customers in the healthcare, financial services and other industries are subject to substantial regulation regarding their collection, use and protection of data and may be the subject of further regulation in the future. Accordingly, these laws or significant new laws or regulations or changes in, or repeals of, existing laws, regulations or governmental policy may change the way these customers do business and may require us to implement additional features or offer additional contractual terms to satisfy customer and regulatory requirements, or could cause the demand for and sales of our marketing automation platform to decrease and adversely impact our financial results.
+  
+  Employees
+  
+ As of February 28, 2019, we have approximately 187 employees supporting our operations. Nearly all of our employees devote their full effort to the company. Our resources include 53 sales and marketing resources, 48 research and development resources, 20 general & administrative resources and 66 customer services, network and support resources. None of our employees are covered by collective bargaining agreements.
+  
+   
+6
+
+
+  
+ 
+ We believe that our future success will depend in part on our continued ability to attract, hire or acquire and retain qualified employees and contractors. There can be no assurance that we will be able to attract and retain such resources. If we are unsuccessful in managing the timely delivery of these services our business could be adversely affected. We believe we have good relations with our resources.
+  
+  Properties
+  
+ Our corporate headquarters is a leased office facility located in Gainesville, FL.
+  
+  Financial Information About Segments
+  
+ The Company operates as one operating segment. Operating segments are defined as components of an enterprise for which separate financial information is regularly evaluated by the chief operating decision maker (“CODM”), which is the Company’s chief executive officer, in deciding how to allocate resources and assess performance. The Company’s CODM evaluates the Company’s financial information and resources and assess the performance of these resources on a consolidated basis. Since the Company operates in one operating segment, all required financial segment information can be found in the consolidated financial statements.
+ Corporate Information
+  
+ SharpSpring, Inc. is a Delaware corporation. Its wholly owned subsidiaries consist of (i) SharpSpring Technologies, Inc., a Delaware corporation; (ii) InterInbox SA, a Swiss corporation; (iii) ERNEPH 2012A (Pty) Ltd., a South African limited company; (iv) ERNEPH 2012B (Pty) Ltd., a South African limited company; and (v) SMTP Holdings S.a.r.l., a Luxembourg S.a.r.l.
+  
+ Our corporate headquarters is located at 5001 Celebration Pointe Avenue, Suite 410, Gainesville, FL 32608. Our telephone number is 888-428-9605. Our corporate website is www.sharpspring.com. The information on our website is not incorporated herein by reference and is not part of this Form 10-K Annual Report. Also, this report includes the trade names of other companies. Unless specifically stated otherwise, the use or display by us of such other parties' names and trade names in this report is not intended to and does not imply a relationship with, or endorsement or sponsorship of us by, any of these other parties.
+  

@@ -1,0 +1,1033 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. Business
+Our Company
+ 
+Overview
+ 
+We are a clinical stage biopharmaceutical company, focused on the development and commercialization of novel therapeutics and solutions aimed at intercepting and preventing immune-mediated diseases. Since our inception, we have devoted substantially all of our efforts to research and development, business planning, recruiting management and technical staff, acquiring operating assets, partnering and raising capital. Our business is subject to significant risks and uncertainties and we will be dependent on raising substantial additional capital before it becomes profitable and it may never achieve profitability.
+ 
+We have not generated any revenue to date and through December 31, 2018, we had an accumulated deficit of $35.8 million. We have financed our operations through a private offering of Series A Convertible Redeemable Preferred Stock in April 2017, and our initial public offering, or IPO, in July 2018.
+ 
+In April 2017, we completed our private placement of Series A Convertible Redeemable Preferred Stock. We issued an aggregate 11,381,999 shares of Series A Convertible Redeemable Preferred Stock at $2.50 per share. We received net proceeds of $26.7 million.
+ 
+In July 2018, we issued and sold an aggregate of 15,969,563 shares of common stock in our IPO at a public offering price of $4.00 per share. In connection with the IPO, we issued to MDB, the underwriter in the IPO, and its designees warrants to purchase 1,596,956 shares of Common Stock at an exercise price of $5.00 per share. We received net proceeds from the IPO of $59.3 million, after deducting underwriting discounts and commissions and other offering expenses. Upon the closing of the IPO, all of our shares of Series A Convertible Redeemable Preferred Stock outstanding at the time of the IPO were automatically converted into an aggregate of 11,381,999 shares of common stock. In addition, the warrants issued in connection with the Series A Convertible Redeemable Preferred Stock also converted to warrants for the purchase of an aggregate of 558,740 shares of our common stock.
+ 
+We expect that over the next several years we will continue to incur losses from operations as we increase our expenditures in research and development in connection with clinical trials and other development activities. If adequate funds are not available to us on a timely basis, or at all, we may be required to terminate or delay certain development activities.
+ 
+Strategy
+ 
+Provention preferentially sources, repositions, transforms and advances underdeveloped or deprioritized clinical-stage, or nearly clinical-stage, therapeutic candidates targeting the interception and prevention of immune-mediated disease. Our “predict” and “pre-empt” therapeutic approach focuses on identifying at-risk patients and intervening before the targeted disease begins, re-appears, exacerbates or progresses. We believe our experience and expertise in translational medicine, immunology, and the design and execution of rapid go/no-go clinical trials makes us unique in the field of immune-mediated disease.
+ 
+We have access to relevant in-licensing opportunities from industry-leading pharmaceutical companies; innovative, development-stage biotechnology companies; and world-renowned academic centers. To date, we have obtained exclusive worldwide rights to an enterovirus vaccine platform, targeting the prevention of coxsackie virus B (CVB) infections and T1D onset, from Vactech Ltd., or Vactech, a Finnish biotechnology company; two Phase 2 clinical-stage candidates from affiliated entities of Janssen Pharmaceuticals, Inc., or Janssen, a small molecule targeting an upstream pathological mechanism believed to drive Crohn’s disease and a human monoclonal antibody (mAb) targeting a pathological mechanism believed to be actively involved in the progression of UC, severe influenza, and certain emerging viral diseases; two product candidates from MacroGenics, Inc., a Phase 3 clinical-stage candidate for the interception of T1D and a Phase 1 candidate for the potential treatment of SLE; and a Phase 2 clinical-stage candidate from Amgen, Inc. targeting celiac disease.
+ 
+
+3
+-
+
+ 
+
+Our activities are subject to significant risks and uncertainties, including the need for additional capital, as described below. The company has not yet commenced any revenue-generating operations, does not have any cash flows from operations, and will need to raise additional capital to finance its operations.
+ 
+Our Focus and Pipeline
+ 
+Inflammation is a natural consequence of most infections, as it is the immune system’s first response to invading pathogens in the event of injury or acute illness. Most of the time, this response is beneficial and well-controlled; helping to repair tissue damage and clear pathogens from the body. In addition to directly damaging tissues and organs, an infection can sometimes result in a potentially fatal acute pathological immune reaction. In such instances, a patient’s life is at risk primarily from the excessive immune response and release of toxic immune mediators. When patients have the requisite genetic predisposition, infections can sometimes also trigger chronic autoimmune responses that persist and progress long after the original insult has subsided. These sustained responses have been linked to an increased susceptibility to chronic conditions like inflammatory bowel disease, diabetes, cancer, and certain neurological disorders.
+ 
+Provention’s “predict” and “preempt” therapeutic approach is to intercept the underlying pathological immune and inflammatory responses in susceptible individuals. Provention’s pipeline includes:
+ 
+
+● | PRV-031: a humanized, anti-CD3 monoclonal antibody for the interception of type 1 diabetes (T1D) in pediatric patients with early onset T1D and, potentially, for delaying and/or preventing disease progression in patients at risk of developing T1D; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | PRV-015: a human anti-interleukin 15 (IL-15) monoclonal antibody for the treatment of gluten-free diet non-responding celiac disease, intercepting the effects of contaminating gluten in the most common autoimmune disorder without any approved medication (celiac disease); 
+● | PRV-6527: an oral small molecule CSF-1R inhibitor targeting the differentiation and activation of antigen-presenting cells to prevent chronic inflammatory responses and progression or relapse in Crohn’s disease; 
+● | PRV-300: an anti-TLR3 antibody blocking key receptors participating in the transmission of danger signals from viral infections and damaged cells to prevent the life-threatening release of toxic inflammatory mediators in severe influenza or acute exacerbations of chronic inflammation in ulcerative colitis (UC); 
+● | PRV-3279: a humanized bispecific scaffold molecule targeting the B-cell surface proteins, CD32B and CD79B, for the treatment of systemic lupus erythematosus (SLE); and 
+● | PRV-101: a coxsackie virus B vaccine to prevent acute infections and, in those patients at risk, preventing the autoimmune damage to pancreatic beta cells that triggers the onset of T1D and T1D-associated celiac disease. 
+
+
+4
+-
+
+ 
+
+The table below summarizes the current status and anticipated milestones for our principal product candidates:
+ 
+
+Product Candidate / Indication | Status | Next Expected Milestone 
+--------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PRV-031 (teplizumab, anti-CD3 mAb) for the interception of T1D | We are designing a Phase 3 clinical trial (the PROTECT study) in approximately 300 pediatric and adolescent patients with early onset type one diabetes. The U.S. Food and Drug Administration (FDA) has designated PRV-031 as an orphan drug for the treatment of recent onset T1D. | We expect to commence the pivotal Phase 3 PROTECT study in the second quarter of 2019. We expect public disclosure early in the second half of 2019 of top-line data from an NIDDK sponsored study conducted at TrialNet sites of PRV-031 for preventing disease progression in patients at high risk of developing T1D. 
+PRV-015 (anti-IL-15 mAb) for the treatment of gluten-free diet non-responding celiac disease. | We are planning a Phase 2b clinical trial (the PROACTIVE trial) in celiac patients with gluten-free diet non-responsive celiac disease, and will undertake additional chronic toxicology studies to support this trial as needed. | We expect to commence the Phase 2b PROACTIVE study in the first half of 2020. 
+PRV-6527 (oral CSF-1R inhibitor) for the treatment of Crohn’s disease | We are conducting a Phase 2a clinical trial (the PRINCE study) in approximately 80 patients who have moderate to severe Crohn’s disease. | We expect to report top line data from the Phase 2a PRINCE study in the second half of 2019. 
+PRV-300 (anti-TLR3 mAb) for the treatment of ulcerative colitis | In the third quarter of 2018, we completed the target enrollment for a Phase 1b clinical trial (the PULSE study) in 37 patients who have moderate to severe UC. We are evaluating potential studies of PRV-300 in severe influenza, respiratory syncytial virus and emerging viral diseases. | We expect to report top line data from the Phase 1b PULSE study in the second quarter of 2019. 
+PRV-3279 (humanized anti-CD32B and CD79B bispecific) for the treatment of lupus | We are designing a Phase 1b/2a study (the PREVAIL study) that will evaluate the safety and the effects of PRV-3279 in healthy volunteers and patients with lupus. | We expect to commence a Phase 1b/2a study in the second half of 2019. 
+PRV-101 (polyvalent coxsackie virus B vaccine) for the prevention of acute CVB and the prevention of T1D onset | We are developing a polyvalent vaccine at Intravacc, our strategic partner in vaccine manufacturing process development. | We expect to file a clinical trial application (CTA) by the end of the fourth quarter of 2019. We expect to start the First-in-Human (FIH) study in the first half of 2020 
+
+ 
+Provention intends to leverage its distinctive competences and drug development strategy; advance its carefully selected portfolio of product candidates; in-license or acquire additional targeted development assets and apply its disease interception and prevention approach to multiple autoimmune and immune-mediated inflammatory diseases.
+ 
+
+5
+-
+
+OUR PRODUCT CANDIDATES
+ 
+PRV-031 (teplizumab; anti-CD3 antibody) for T1D
+ 
+Type 1 Diabetes Background Information
+ 
+T1D is the end result of immune-mediated destruction of the insulin-producing beta cells of the pancreas and is one of the most common and serious chronic conditions occurring in childhood. T1D patients require life-long dependence on insulin products delivered through multiple daily injections or continuous infusion pumps. T1D has various clinical complications that ultimately reduce the average life-expectancy. The disease is believed to occur in genetically susceptible individuals upon exposure to environmental triggers. In addition, because of a similar genetic predisposition, patients with T1D are at high risk of developing celiac disease. Celiac disease is characterized by autoimmunity in the gut and other organs triggered by consumption of gluten and can lead to malnutrition and other complications including a form of cancer called lymphoma. There is no approved therapy for celiac disease.
+ 
+Lack of insulin secretory capacity has serious consequences, even when patients receive insulin replacement therapy. The complications of T1D include eye disease, nerve damage, kidney disease and heart disease. Diabetic retinopathy has a prevalence of approximately 80% among patients with T1D and is the leading cause of vision impairment and blindness among adults. Moreover, about 60% to 70% of people with diabetes present some form of neuropathy that can induce numbness, weakness and blood pressure dysregulation. In addition, diabetic nephropathy is the leading cause of chronic kidney disease and affects about 30% of T1D patients. Diabetes can also cause severe heart complications and adults with diabetes are two to four times more likely to die from heart disease than adults without diabetes.
+ 
+In summary, people with T1D experience substantial morbidity and mortality owing to chronic complications.
+ 
+Current Treatment Options and Their Limitations
+ 
+So far, no curative treatment exists for T1D. Patients with T1D still need to use daily insulin injections to manage blood sugar to a normal range. However, it is estimated that fewer than one-third of people with T1D in the U.S. achieve target blood glucose levels and insulin injections often cause hypoglycemia (low blood sugar). While insulin injections or infusion allow a person with T1D to stay alive, they do not cure the disease, nor do they necessarily reduce the risk of serious effects and long-term complications of T1D.
+ 
+While pancreatic and islet cell transplantation offer the ability to normalize glucose levels and remove the dependence on insulin products, there are significant risks. First, is the risk associated with mandatory immunosuppression, which commonly results in the development of infections that may be life-threatening. Furthermore, pancreas transplantation may be associated with technical complications (vascular thrombosis, pancreatitis, infection, fistulas) as well as acute and chronic organ rejection. Islet cell transplantation can provide better glycemic control and protect patients from hypoglycemic episodes, but only approximately 50% of patients are insulin-free after three years of follow-up.
+ 
+New approaches are therefore still required and could significantly enhance patient care. In particular, there is a strong need for new preventive or curative treatments. Among the different possible strategies, primary prevention through vaccination seems to be the best candidate considering the potential efficacy and safety balance that needs to be achieved.
+ 
+Type 1 Diabetes Market
+ 
+According to the International Diabetes Federation, 8.8% of the adult population worldwide has diabetes, among whom 10-15% have T1D. It is estimated that 5 million people in the U.S. are expected to have T1D by 2050, including nearly 600,000 young patients (<15 years). The cost of T1D in the U.S. is estimated to be $14.4 billion each year. Moreover, the incidence of T1D is increasing worldwide and it is estimated that nearly 90,000 children are diagnosed each year. In the period between 2005 and 2020, epidemiologists predict a 70% increase in the incidence of T1D in children in Europe, with the age of onset decreasing and the number of cases in children younger than five years old doubling.
+
+6
+-
+
+ 
+
+Overview of T1D Biology and PRV-031 Mechanism of Action
+ 
+T1D is an autoimmune disease. Specialized white blood cells of our immune system, known as self-reactive T cells (also called auto-reactive), are triggered, presumably by CVB viral infection in at least 50% of cases, to attack and destroy beta cells of the pancreas, thus causing a decline in the natural production of insulin. Simultaneously, another type of T cell (called regulatory T cells or Tregs), which normally suppress the activity of the self-reactive T cells, fail to do so effectively.
+ 
+PRV-031 (teplizumab, previously known as MGA-031), is a humanized mAb that binds with high specificity to a cell surface protein called CD3. The CD3 protein is a co-receptor that helps activate T cells and direct different kinds of immune responses. Experimental data suggest that binding of PRV-031 to CD3 triggers events that differentially inhibit the activation of self-reactive T cells without affecting regulatory T cells. This restores the important state of immune tolerance and may prevent self-reactive T cells from attacking beta cells in the pancreas. If administered shortly after diagnosis, we believe PRV-031 has the potential to intercept the T1D disease process and slow or prevent the complete destruction of insulin-producing pancreatic beta cells. If successful, we believe PRV-031 could slow or stop the progression of T1D in responding patients and potentially delay or prevent dependence on insulin products.
+ 
+Clinical Development Program
+ 
+We plan to commence a Phase 3 study in the second quarter of 2019 in pediatric and adolescent patients with early onset T1D and a minimum level of pancreatic beta-cell function based on C-peptide levels at study entry. The study will be a randomized, controlled, multi-center study conducted in North America and Europe. The primary endpoint will evaluate the effect of PRV-031, as compared with placebo, in preserving beta cell function, measured by C-peptide secretion. Secondary endpoints will measure insulin use, HbA1c levels, and hypoglycemic episodes. We expect to enroll approximately 300 patients.
+ 
+PRV-031 is currently being tested in a Phase 2 clinical trial (Teplizumab for Prevention of Type 1 Diabetes In Relatives “At-Risk”), conducted at TrialNet sites and sponsored by the National Institute of Diabetes and Digestive and Kidney diseases (NIDDK), part of the National Institutes of Health (NIH). In this study, researchers are exploring whether teplizumab can prevent T1D in children and adults who are at high risk for, but do not yet have, clinical-stage disease. Enrollment in the trial has been completed and preliminary results are expected to be released mid-2019.
+ 
+In addition, we believe that combination therapy may enhance the therapeutic benefit of PRV-031 by increasing efficacy, enhancing the durability of response, or restoring insulin production by beta cells. Combination therapies may include beta-cell autoantigens, tolerogenic cytokines, other modalities which could enhance better depletion of self-reactive lymphocytes or increasing the function of regulatory T cells, or agents that could restore beta cell function or mass. In this light, Provention is collaborating with Intrexon, to explore the combination of PRV-031 and the oral administration of a Lactococcus lactis strain genetically engineered to secrete human proinsulin and human interleukin-10, an anti-inflammatory cytokine. Provention also plans to explore other combination therapies as the Phase 3 program progresses.
+ 
+Clinical Evaluation of PRV-031
+ 
+To date, clinical development of PRV-031 has included both academic and biopharmaceutical sponsors. More than 1,000 subjects have been enrolled in PRV-031 clinical studies, with over 800 subjects receiving PRV-031 in those studies. This represents studies with various doses, formulations, and indications and includes earlier smaller investigator-sponsored studies. The enrollment of patients by therapeutic indication includes: 989 (estimated) T1D patients, eight renal or renal-pancreatic allograft rejection patients, 20 induction immunotherapy in pancreatic islet transplant recipients, 11 psoriatic arthritis patients, one plaque psoriasis patient and 64 high-risk patients for the prevention or delay of onset of developing T1D.
+ 
+In T1D patients, nine studies have been conducted, of which eight involved intravenous dosing (two Phase 1, three Phase 2, two Phase 3 and an extension study) and one subcutaneous dosing (Phase 1). In addition, the “At Risk” study in subjects at high risk of developing T1D has completed enrollment with preliminary results anticipated in mid-2019.
+ 
+Among the T1D studies of PRV-031, five studies (Study 1, Study 2, Study 3, Study 4 “AbATE”, and Study 5 “Delay”) were completed under the direction of Dr. Kevan Herold (currently at Yale University) and collaborators. Studies 2, 3 and 4 were sponsored by the Immune Tolerance Network. Four additional studies were conducted by MacroGenics: three with intravenous administration (“Protégé”, “Protégé Extension”, and “Protégé Encore”) and 1 with subcutaneous administration (SUBCUE) of PRV-031. Among these studies, “Protégé” and “Protégé Encore” were Phase 3 studies. Protégé was the largest completed study for treatment of T1D, which enrolled 516 subjects (aged 8 to 35 years and T1D diagnosis within 12 weeks of study entry) and randomized into three PRV-031 dosing regimens compared to placebo.
+ 
+
+7
+-
+
+ 
+
+Dr. Herold led five small Phase 1/2 studies of PRV-031 in T1D patients aged 8 to 30 years. PRV-031 showed promising immunological and clinical activities in these studies and was well tolerated. In particular, PRV-031 treatment preserved normal insulin production as indicated by C-peptide levels and it also reduced the use of insulin products.
+ 
+Protégé was a Phase 3 randomized, controlled study conducted in 83 centers in North America (U.S., Canada, Mexico), India, Israel, and Europe (Czech Republic, Estonia, Germany, Latvia, Poland, Romania, Spain, Sweden, Ukraine). Patients aged 8 to 35 years with recently diagnosed T1D (≤12 weeks) were followed for 12 months (Protégé) and continued to 24 months (Protégé Extension). Three dose regimens of PRV-031 were administered to 417 patients as intravenous infusions for 6 to 14 days; 99 patients received placebo. At 12 months, the primary efficacy endpoint, the proportion of patients with insulin use <0.5 U/kg per day and HbA1c <6.5%, ranged from 13.7% to 20.8% patients in the PRV-031 groups, depending on dosing regimen, and 20.4% in the placebo group. The difference between PRV-031-treated patients and placebo-treated patients was not significant. The change in HbA1c from baseline also did not show a significant difference between PRV-031 and placebo. However, subgroup analyses indicated the following findings:
+ 
+
+● | The primary endpoint could have been achieved if cut-offs were changed to insulin use of <0.25 U/kg per day and HbA1c <7.0%, not only at 12 months but also at 24 months (figure below). 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+8
+-
+
+
+● | C-peptide levels significantly improved in the PRV-031 group compared with placebo group in all patients, and further analyses indicated that this difference was more pronounced in younger patients (age 8 to 11 years) and patients enrolled in U.S. sites. These findings are consistent with other clinical studies, showing a stronger effect in T1D patients who are younger (<17 years), more recently diagnosed (<10 weeks), and with higher C-peptide levels at baseline. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Protégé Encore was a Phase 3 randomized, controlled study conducted in 125 centers in 16 countries. Patients aged 8 to 35 years with recently diagnosed T1D were to be followed for 24 months. Three dose regimens of PRV-031, given as intravenous infusions for 6 to 14 days, were compared with placebo. The primary endpoint, the proportion of patients with insulin use <0.5 U/kg per day and HbA1c <6.5% at 12 months, was not met. Study enrollment was stopped at 254 patients (400 planned) when the Protégé study showed that the primary endpoint was not met. Efficacy analyses were not conducted in this study.
+ 
+
+9
+-
+
+ 
+
+A summary of the C-peptide data in the completed Phase 2 studies and Phase 3 Protégé study are shown in the table below. All these studies have shown consistent and significant C-peptide benefit. Furthermore, subgroup analysis of the Protégé data indicated that younger patients (8-17 years) with minimum baseline beta cell function (C-peptide >0.2 pmol/mL) along with even more robust data in early onset T1D (diagnosis <6 weeks, Study 1), informed the inclusion criteria that will be applied in the planned Phase 3 study, PROTECT.
+ 
+
+* Full 9.0 mg/m2/course 14-Day regimen was explored in 205 treated patients and 98 placebos; ** Delay study based on 12-month time-point. All other studies based on 24-month time-points
+ 
+SUBCUE was a Phase 1 randomized, controlled study to evaluate the safety and tolerability, PK, and PD of subcutaneously injected PRV-031. Patients aged 18 to 35 years who were diagnosed with T1D within 12 months were to be given three dosing regimens of PRV-031 or placebo. Patients were to be followed for 91 days. However, the study was stopped after one subject was enrolled, upon the Protégé study results.
+ 
+The majority of data for PRV-031 comes from two completed Phase 3 studies: Protégé and Protégé Encore. In PRV-031 and placebo-treated subjects, there were no major differences in the overall adverse events (AEs) (99.7% and 100%) and serious adverse events (13.2% [85 out of 645 subjects] and 9.4% [15 out of 160 subjects]), although there were more severe adverse events in PRV-031 subjects (63% and 30%). In the Protégé study, 261 of 415 (62.9%) subjects had severe adverse events compared with placebo, 28 out of 98 subjects (28.6%). In Protégé Encore, 121 of 192 (63%) subjects had severe adverse events compared with placebo, 16 out of 62 subjects (25.8%).
+ 
+The most common AEs were decreased white blood cells including lymphopenia, leukopenia and neutropenia. Leukopenia/lymphopenia (decreased white blood cells) and rash were experienced most frequently by PRV-031-treated subjects. Lymphopenia was expected based on the mechanism of action of PRV-031 and was observed in approximately 70% of type-1 diabetes patients who received PRV-031; lymphopenia was reported in approximately 14% of placebo subjects. It was commonly mild to moderate and resolved within 14 days. In the Protégé study, approximately 50% and 20% of PRV-031- and placebo-treated patients, respectively, reported rash or pruritus. In PRV-031-treated patients, the rash was predominantly mild to moderate and usually resolved within one to two weeks. Laboratory abnormalities were also reported as AEs. The main differences in PRV-031 and placebo subjects were changes in lymphocyte counts (30.1% and 9.4%) and liver function test (alanine aminotransferase, 30.9% and 14.1%). These abnormalities usually resolved within 14 days of dose completion and did not cause significant or lasting clinical concern. Cytokine release syndrome, which may include symptoms of rash, headache, nausea, vomiting, and chills/fever, occurred in fewer than 6% of PRV-031-treated patients and was mild to moderate in severity.
+ 
+The most common serious adverse events (SAEs) reported in the Protégé and Protégé Encore studies were related to diabetes control including diabetic ketoacidosis, hypoglycemic seizures/unconsciousness, hyperglycemia, hypoglycemia (consistent with the underlying disorder) and were reported in 6.2% and 2.5% of PRV-031 and placebo subjects, respectively. Three deaths were observed and categorized by the principal investigator (in accordance with International Conference on Harmonisation (ICH)/Good Clinical Practice (GCP) guidelines) and included in the Investigator Brochure for PRV-031 filed with the FDA. The relationship between each death and PRV-031 is listed in the Investigator Brochure as follows: one death, “none”; one death “not related”; and one death “unlikely.” The specific causes of deaths were (1) unknown for which the relationship was listed as “none” in the Investigator Brochure, (2) anterior myocardial infarction with ventricular tachycardia and cardio-respiratory arrest for which the relationship was listed as “not related” in the Investigator Brochure and (3) diabetic ketoacidosis for which the relationship was listed as “unlikely” in the Investigator Brochure. AEs of infections (most commonly gastroenteritis) were reported in 3.6% and 2.5% of PRV-031 and placebo subjects, respectively. Fifteen of 85 SAEs and 5 of 15 SAEs were deemed related to PRV-031 and placebo treatment, respectively.
+ 
+
+10
+--
+
+ 
+
+The following table reflects all the SAEs reported in the Investigator Brochure for the Protégé and Protégé Encore studies:
+ 
+
+SAE by Organ System | Placebo N=160 n (%) | Any PRV-031 N=645 n (%) 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+At least one event | 15 (9.4%) | 85 (13.2%)* 
+Blood and Lymphatic disorders ● Neutropenia ● Lymphopenia | 1 (0.6%) ● 1 (0.6%) | 4 (0.6%) ● 2 (0.3%) ● 2 (0.3%) 
+Cardiac disorders ● Acute myocardial infarction ● Angina pectoris ● Cardio-respiratory arrest ● Coronary artery disease ● Ventricular tachycardia | 0 | 2 (0.3%)** ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) 
+Ear and Labyrinth disorders ● Deafness neurosensory | 0 | 1 (0.2%) ● 1 (0.2%) 
+Eye disorders ● Cataract subcapsular ● Corneal erosion ● Iritis | 0 | 3 (0.5%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) 
+Gastrointestinal disorders ● Gastritis ● Abdominal pain ● Abdominal pain upper ● Intestinal obstruction ● Nausea ● Peritonitis ● Vomiting | 0 | 10 (1.6%) ● 4 (0.6%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) 
+General disorders and administration site disorders ● Pyrexia ● Death*** ● Non-cardiac chest pain ● Pain | 2 (1.3%) ● 2 (1.3%) | 4 (0.6%) ● 2 (0.3%) ● 1 (0.2%) ● 1 (0.2%) 
+Hepatobiliary disorders ● Biliary dyskinesia ● Biloma ● Chlolecystitis acute ● Hepatosplenomegaly | 0 | 3 (0.5%)** ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) 
+Immune system disorders ● Cytokine release syndrome ● Hypersensitivity | 0 | 4 (0.6%) ● 3 (0.5%) ● 1 (0.2%) 
+
+
+11
+--
+
+
+Infections and Infestations ● Gastroenteritis ● Gastroenteritis viral ● Anal abscess ● Appendicitis ● Appendicitis perforated ● Bronchitis ● Dengue fever ● Gastritis viral ● Hepatic amoebiasis ● Hepatitis A ● Infection ● Infectious mononucleosis ● Pharyngotonsillitis ● Pilonidal cyst ● Pneumonia ● Pulmonary tuberculosis ● Pyelonephritis ● Renal abscess ● Sepsis ● Staphylococcal sepsis ● Urinary tract infection ● Varicella ● Cellulitis ● Paronychia ● Tuberculosis | 4 (2.5%) ● 1 (0.6%) ● 1 (0.6%) ● 1 (0.6%) ● 1 (0.6%) | 23 (3.6%)** ● 3 (0.5%) ● 2 (0.3%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Injury poisoning and procedural complications ● Caustic injury ● Compression fracture ● Fall ● Fibula fracture ● Foot fracture ● Splenic rupture ● Upper limb fracture ● Facial bones fracture | 1 (0.6%) ● 1 (0.6%) | 4 (0.6%)** ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) ● 1 (0.2%) 
+Investigations ● Alanine aminotransferase increased ● Aspartate aminotransferase increased ● Nuclear magnetic resonance imaging brain abnormal | 0 | 3 (0.5%)** ● 2 (0.3%) ● 2 (0.3%) ● 1 (0.2%) 
+Metabolism and nutrition disorders ● Diabetic ketoacidosis ● Hypoglycemic seizures ● Hyperglycemia ● Diabetes mellitus out of control ● Hypoglycemic unconsciousness ● Hypoglycemia ● Dehydration ● Ketoacidosis ● Ketosis | 4 (2.5%) ● 3 (1.9%) ● 1 (0.6%) ● 1 (0.6%) | 40 (6.2%)** ● 21 (3.3%) ● 7 (1.1%) ● 5 (0.8%) ● 4 (0.6%) ● 2 (0.3%) ● 2 (0.3%) ● 1 (0.2%) ● 1 (0.2%) 
+Neoplasms benign, malignant and unspecified (including cysts and polyps) ● Metastatic malignant melanoma | 0 | 1 (0.2%) ● 1 (0.2%) 
+Nervous system disorders ● Hypoglycemic coma | 1 (0.6%) ● 1 (0.6%) | 1 (0.2%) ● 1 (0.2%) 
+Pregnancy, puerperium and perinatal conditions ● Abortion spontaneous ● Complications of pregnancy | 1 (0.6%) ● 1 (0.6%) | 1 (0.2%) ● 1 (0.2%) 
+Psychiatric disorders ● Mental disorder ● Suicide attempt | 0 | 2 (0.3%) ● 1 (0.2%) ● 1 (0.2%) 
+Renal and urinary disorders ● Intercapillary glomerulosclerosis ● Ketonuria ● Microalbuminuria | 1 (0.6%) ● 1 (0.6%) | 2 (0.3%) ● 1 (0.2%) ● 1 (0.2%) 
+Reproductive system and breast disorders ● Epididymitis | 0 | 1 (0.2%) ● 1 (0.2%) 
+Skin and subcutaneous tissue disorders ● Rash | 0 | 2 (0.3%) ● 2 (0.3%) 
+Vascular disorders ● Subclavian vein thrombosis | 0 | 1 (0.2%) ● 1 (0.2%) 
+
+
+
+*Note: there are 112 events observed in 85 subjects
+ ** Note: subject may have more than one adverse event
+ *** Note: because the cause of death was unknown, “death” is reported as an adverse event
+ 
+
+12
+--
+
+ 
+
+The most common severe adverse event occurring in at least 10% of subjects in both treatment groups in the Protégé study was decreased white blood cell counts (lymphopenia/neutropenia) observed in 47% [196 out of 415 subjects] and 10% [10 out of 98 subjects] of PRV-031 and placebo subjects, respectively. In Protégé Encore, lymphopenia/neutropenia was also the most frequently observed severe adverse event, occurring in 24% [46 out of 192 subjects] and 6% of PRV-031 [4 out of 62 subjects] and placebo subjects, respectively. This severe adverse event is consistent with the mechanism of action of PRV-031.
+ 
+Overall, infections were not increased following PRV-031 treatment. However, in Protégé there were 10 cases of herpes zoster infections (a virus that usually causes chicken pox or shingles) in PRV-031-treated patients that were possibly dose-related, and none in the placebo group. All of these cases resolved. In the Protégé Encore study, only one patient, who was randomized to placebo had herpes zoster. A link between PRV-031 and herpes infections remains unclear. Other herpes virus infections (e.g., cytomegalovirus and Epstein-Barr virus) were not increased with PRV-031 treatment.
+ 
+Phase 3 Clinical Trial of PRV-031 in Pediatric Patients New Onset T1D (PROTECT Study)
+ 
+The planned PROTECT study (PROvention T1D trial Evaluating C-peptide with Teplizumab) is a Phase 3, randomized, double-blind, placebo-controlled, multicenter study in pediatric and adolescent patients (8-17 years) with early-onset T1D. Patients with minimum beta-cell cell function (C-peptide >0.2 pmol/mL) and within 6 weeks of T1D diagnosis will receive 2 courses of teplizumab, 6 months apart. Each course will consist of 12 days of teplizumab administered intravenously. The primary endpoint is the change in C-peptide at 18 months. Secondary endpoints including insulin use, HbA1C levels, hypoglycemic events and safety will also be evaluated. The study will enroll approximately 300 patients with 2:1 randomization (200 active: 100 placebo) and enrollment is expected to commence in the second quarter of 2019.
+ 
+Pre-Clinical Evaluation of PRV-031
+ 
+PRV-031 binds specifically to human T cells with CD3 on the surface. It also binds to CD3+ T cells in chimpanzees, an endangered species that is inappropriate for extensive experimentation, but does not bind to CD3+ T cells of any other animal species. Due to this lack of feasible animal models, nonclinical pharmacology, pharmacokinetic, and toxicology studies are limited. Nonetheless, consistent with its mechanism of action and binding to CD3, PRV-031-treated chimpanzees showed reversible reductions in circulating T cells and a dose-dependent increase in various immune signaling molecules (TNF-α, IL-6, IL-10 and IFN-γ). At very high PRV-031 doses, approximately 450-fold higher than the highest daily dose administered in humans (826 μg/m2), chimpanzees developed B cell lymphoproliferative disease (similar to lymphoma) and Epstein-Barr virus-like infection. In human tissues, PRV-031 binds to T cells in multiple human tissues without unanticipated binding to other cell types. These results indicate that PRV-031 has a low probability of producing unexpected and unintended toxicities in human clinical studies.
+ 
+
+13
+--
+
+ 
+
+PRV-015 (human anti-interleukin 15 monoclonal antibody) for gluten-free diet non-responsive celiac disease
+ 
+Overview
+ 
+Celiac disease is a systemic autoimmune disease triggered by gluten consumption in genetically susceptible individuals. Currently, approximately 1% of the European and North American population is affected by celiac disease. Gluten is ubiquitous in food and elicits autoimmune responses in celiac patients, with damage to the mucosal lining of the small intestine. Celiac disease causes debilitating symptoms and serious medical complications, as the small bowel damage can lead to nutrient malabsorption and results in a range of subsequent intestinal and extra-intestinal clinical manifestations. The stimulation of intestinal lymphocytes for decades can lead to the development of lymphoma, with increased mortality.
+ 
+The pro-inflammatory cytokine interleukin 15 (IL-15) has been identified as a major mediator in the pathophysiology of celiac disease. PRV-015, a fully human monoclonal antibody, binds to and inhibits IL-15 and has emerged as a leading candidate for the treatment of nonresponsive celiac disease, in which patients continue to have disease activity despite ongoing gluten free diet (GFD). PRV-015 was initially developed by Genmab A/S as HuMax-IL15, and by Amgen Inc and Celimmune LLC as AMG 714. PRV-015 has undergone clinical testing in approximately 250 subjects who have received PRV-015 across two Phase 1 (healthy volunteers and psoriasis, rheumatoid arthritis) and three Phase 2 studies (celiac disease, refractory celiac disease type II, rheumatoid arthritis). No serious adverse events deemed related to PRV-015 were observed that would preclude further clinical development. PoM and/or PoC was demonstrated in rheumatoid arthritis, celiac disease and refractory celiac disease Type II. The effect of PRV-015 in celiac disease was evidenced by reduction in inflammation and symptoms after a controlled gluten challenge in a Phase 2a study with 63 celiac patients. Provention plans to initiate a 220-patient Phase 2b study in gluten free diet non-responsive celiac disease in 2020, after completion of chronic toxicology studies.
+ 
+Celiac Disease Background Information
+ 
+Celiac disease is a systemic autoimmune disease triggered by gluten consumption in genetically susceptible individuals. Currently approximately 1% of the western population is affected by celiac disease. This prevalence has been reported to be doubling every 20 years. Gluten, the antigen responsible for celiac disease, is the main protein present in some of the most common cereals (wheat, barley, rye). Modern diets are increasingly enriched with gluten and it is also used as an additive in processed foods, cosmetics and oral medications. Gluten is also present in trace amounts in foods labeled as “gluten-free”, as a tableting excipient, and in products such as toothpaste and lipstick. As little as 50mg/day of gluten triggers the disease. A normal diet contains >10 g/day, 200 times the amount that causes damage and intestinal histological abnormalities. As such, celiac patients face enormous challenges to follow a strict gluten-free diet (GFD).
+ 
+The pathophysiology of celiac disease is characterized by an abnormal immune response to gluten. Humans lack enzymes to fully digest gluten, which against the right genetic background triggers inflammation and autoimmunity in the intestine and in other organs. An adaptive immune response is triggered when gluten peptides are deamidated in the extracellular space, by the enzyme tissue transglutaminase (tTG), normally an intracellular enzyme that is released by damaged cells. This deamidation renders gluten peptides high-avidity binders to HLA-DQ2 and HLA-DQ8, which present these peptides to intestinal CD4+ T cells, thereby activating these T cells and initiating the inflammatory cascade. The innate immune system’s intraepithelial lymphocytes (IELs), primarily CD8+, are able to directly lyse and destroy intestinal epithelial cells, damaging the mucosal lining of the small intestine, in response to IL-15 release stimulated by gluten peptides. In healthy individuals, the activated T cells are controlled by regulatory T cells (Tregs), but this does not happen in celiac disease as IL-15 confers the effector CD4+ T cells resistance to suppression by Tregs.
+ 
+Celiac disease causes debilitating symptoms and serious medical complications. In many patients, gastrointestinal symptoms derived from intestinal mucosal damage dominate the patient reported symptoms at diagnosis. The normal villi (absorptive finger-like prolongations) present in the gut of healthy individuals are lost in active celiac disease as a result of mucosal atrophy and crypt enlargement. Small bowel damage often leads to nutrient malabsorption that can result in a range of further clinical manifestations (anemia, osteopenia, failure to thrive in children). In addition, extra-intestinal symptoms and systemic manifestations are often present, such as dermatitis, infertility, or neurological and skeletal disorders. Mortality is increased in subjects with persistent intestinal mucosal damage.
+ 
+The most serious complication of celiac disease is the development of an in situ small bowel T cell lymphoma after many years of exposure, voluntary or inadvertent, to gluten. This malignant complication of celiac disease, which appears to be independent of gluten and unresponsive to a strict GFD, is termed Type II refractory celiac disease (RCD-II) when the % of aberrant IELs is >20% and Type I refractory celiac disease (RCD-I) when the % is <20%. In RCD-II, aberrant IELs proliferate in what represents a slow-growing non-Hodgkin lymphoma localized (in situ) in the small bowel, primarily in the epithelial compartment. RCD-II affects approximately 0.5% of celiac patients and can lead to overt and systemic enteropathy-associated T cell lymphoma (EATL), with very poor prognosis and >80% mortality in 5 years.
+ 
+
+14
+--
+
+Current Treatment Options and Their Limitations
+ 
+Celiac disease is the only common autoimmune disorder with no approved medication. The only current available strategy for the management of celiac disease is a lifelong total avoidance of gluten. While simple in theory, the ubiquity of gluten in foodstuffs, medications, household substances, cosmetics, and gluten-free items makes total avoidance of gluten difficult – if not impossible.
+ 
+The main challenge to the successful maintenance of a gluten-free diet is that cereal flours are widely used in the food industry and are present in numerous food products either naturally or as additives. Although gluten-free products can be purchased, commercially manufactured gluten-free products may be difficult to find, tend to be less flavorful and are more expensive than regular gluten containing foods. In addition, labeling of food products is deficient in many countries. Even in countries with superior labeling guidelines foods labeled “gluten-free” may nevertheless contain gluten. For example, in northern European countries amounts of up to 100 parts per million (ppm) are permitted in gluten-free products designated apt for celiac sufferers.
+ 
+For these reasons, celiac sufferers are regularly exposed to gluten contamination in the food and beverages they consume. This exposure to gluten contamination and the associated physiological and psychological consequences results in a self-limitation of social activities and/or a reduction in the variety of foods consumed. Thus, the only currently available management option of a gluten-free diet presents both a considerable challenge and substantial burden for patients. A study by Shah and collaborators (2014) found the burden of celiac disease and gluten free diet on patient quality of life to be very high, second only to end-stage renal disease – a condition that requires multiple, weekly dialysis treatments.
+ 
+As a result of the difficulty in maintaining total avoidance of gluten while on a GFD, gluten contamination causes 50% or more of all diagnosed celiac patients on a GFD to continue to experience disease activity. Patients who continue to have symptoms despite attempting to maintain a GFD are deemed to have diet “non-responsive celiac disease” or NRCD. Non-responsive celiac disease has been defined as “persistent symptoms, signs or laboratory abnormalities typical of celiac disease despite 6–12 months of dietary gluten avoidance”. As requested by patient support groups and experts, alternative treatment options that can be administered independently or in combination with a GFD, as well as treatments for refractory celiac disease, are required in order to improve the quality of life for celiac patients.
+ 
+Overview of IL-15 Biology and PRV-015 Mechanism of Action
+ 
+IL-15 is a pro-inflammatory cytokine that serves as a potent growth, survival, and activation factor for T cells, particularly intestinal intraepithelial lymphocytes (IELs), and for natural killer (NK) cells. Increased expression of IL-15 has been demonstrated in a variety of inflammatory conditions, including celiac disease, rheumatoid arthritis (RA), and psoriasis. IL-15 is considered a central regulator of celiac disease immunopathology and a non-redundant driver of lymphomagenesis in RCD-II.
+ 
+Substantial evidence suggests a pathophysiological role for IL-15 in celiac disease:
+ 
+Innate immunity:
+ 
+● | IL-15 is an essential, non-redundant growth and activation factor for the IELs which destroy the intestinal mucosa; 
+--+------------------------------------------------------------------------------------------------------------------------
+● | The expression of IL-15 in the intestinal epithelium is necessary for villous atrophy; 
+● | In some patients, IL-15 drives progression towards lymphomagenesis and potentially fatal RCD-II 
+
+ 
+Adaptive immunity:
+ 
+● | IL-15 enhances the presentation of deamidated gluten peptides (DGP) by antigen-presenting cells (APCs); 
+--+------------------------------------------------------------------------------------------------------------
+● | IL-15 renders the activated CD4+ T cells resistant to inhibition by regulatory T cells; 
+● | IL-15 has been proven to be a key factor in the loss of tolerance to food antigens 
+
+ 
+By activating the intraepithelial lymphocytes (IELs), IL-15 is believed to be the main mediator in the mucosal damage that ensues in response to gluten exposure in celiac disease. The expression of IL-15 in the intestinal epithelium is necessary for villous atrophy in animal models of celiac disease and circumstantial evidence suggests this to be the case in humans, as well. In addition, IL-15 renders effector T cells resistant to inhibition by regulatory T cells (Tregs), promoting loss of tolerance to food antigens.
+ 
+
+15
+--
+
+ 
+
+One of the studied mouse models of celiac disease is an IL-15-transgenic mouse, in which IL-15 overexpression by gut epithelial cells leads to celiac-like disease, including T and B cell-mediated pathology. IEL apoptosis has been observed in this animal model after treatment with anti-IL-15 or anti-IL-15-receptor mAbs.
+ 
+Figure 1. Multiple actions of IL-15 in the pathophysiology of celiac and refractory celiac disease
+ 
+
+PRV-015 (formerly AMG 714 and HuMax-IL15), is a fully human immunoglobulin (IgG1κ) monoclonal antibody which binds to and inhibits the function of IL-15 in all its forms (cis, trans, soluble IL-15 bound to IL-15Rα). PRV-015 inhibits IL-15-induced T cell proliferation and shows a dose-dependent inhibition of IL-15-induced TNF-α production. PRV-015 underwent preclinical testing and was subsequently evaluated in a Phase 1 and Phase 2 study in subjects with rheumatoid arthritis, in a Phase 1 study in healthy volunteers and in patients with psoriasis, and in two Phase 2a studies in celiac disease and refractory celiac disease Type-II.
+ 
+Phase 2b Clinical Trial of PRV-015 in Celiac Disease (PROACTIVE Study)
+ 
+Provention Bio and its partner Amgen intend to conduct chronic toxicology studies in 2019; a Phase 2b clinical study (the PROACTIVE study) in approximately 220 patients with gluten-free diet non-responding celiac disease (NRCD); and, should regulators require it, a potential small pediatric bridging study. We expect to commence the Phase 2b PROACTIVE study in the first half of 2020. The pediatric study, if required, would be expected to commence in 2021.
+ 
+The PROACTIVE study (PROvention Amgen Celiac ProtecTIVE Study) will be a Phase 2b, randomized, double-blind, placebo-controlled, parallel-group, multicenter study in adult patients with NRCD. PRV-015 will be administered every two weeks via subcutaneous route (SC). The hypothesis of this study is that PRV-015 will be superior to the gluten free diet (GFD) at intercepting the effects of contaminating gluten exposure in celiac patients following a GFD, as measured by symptoms and objective signs of intestinal inflammation after 24 weeks of treatment. Approximately 220 subjects are planned to be enrolled.
+ 
+
+16
+--
+
+Pre-clinical Evaluation of PRV-015
+ 
+The nonclinical development of PRV-015 consisted of a series of in vitro studies demonstrating the binding properties of PRV-015 against human IL-15; in vitro and in vivo studies providing proof-of-concept for the benefit of blocking the IL-15 pathway in celiac disease; and a series of Good Laboratory Practices (GLP) studies evaluating the nonclinical safety profile of Hu714MuXHu, the PRV-015 surrogate molecule which is active in macaques.
+Pharmacology
+ 
+PRV-015 was found to be efficacious in a mouse model of celiac disease triggered by the transgenic expression of human IL-15 in the gut epithelium. In this model, PRV-015 prevented IEL activation and proliferation, as well as histological abnormalities. In addition, PRV-015 was able to induce apoptosis of human IELs in ex vivo culture of small intestinal explants from active celiac disease and RCD-II patients. In this culture experiment, PRV-015 resulted in a suppression of IL-15-driven anti-apoptotic signaling via JAK3 and STAT5.
+Toxicology
+ 
+In vitro studies demonstrated that PRV-015 had high binding affinity for human IL-15, but lower affinity for macaque IL-15. Additionally, PRV-015 neutralized human IL-15 but did not efficiently neutralize macaque IL-15. To enable preclinical and toxicology studies in macaques, a surrogate antibody, Hu714MuXHu, was developed by Amgen by fusing the F(ab) portion of a mouse anti-human IL-15 monoclonal antibody known to neutralize macaque IL-15, M111, with human IgG1 Fc. Hu714MuXHu was shown to neutralize macaque IL-15 with approximately the same potency as PRV-015 neutralizes human IL-15.
+ 
+There was a decrease in natural killer (NK) cell counts and NK cell activity following administration of Hu714MuXHu to monkeys, reflecting a pharmacodynamic response to IL-15 blockade in this species, given the known role of IL-15 in NK cell biology in animal models (rodents and non-human primates). Of note, no changes in absolute or relative numbers of NK cells were observed in any of the human studies. This difference between observations in preclinical and clinical studies appears related to a differential sensitivity of human versus cynomolgus monkey NK cells to IL-15 deprivation. Human NK cells are not dependent on IL-15 for their survival, possibly due to the redundant role of IL-2 on human NK cells.
+ 
+Pharmacokinetics of PRV-015
+ 
+The pharmacokinetics (PK) of PRV-015 was consistent with a typical human immunoglobulin G1 antibody with no apparent target-mediated disposition within the investigated dosing range. The mean half-life in human studies has been 20-22 days, potentially enabling monthly dosing.
+ 
+There was no development of anti-drug antibodies (ADA) to PRV-015 in healthy volunteers, patients with psoriasis or patients with refractory celiac disease. Only one (1) sample in the rheumatoid arthritis patients, in the RA phase 2b study, was positive for ADA. Approximately 14% of patients with celiac disease developed ADA in the Phase 2a study, with an additional 10% presenting pre-existing ADA, a reflection of the abnormal antibody responses which characterize celiac disease. The ADA were not associated with injection reactions or adverse events, and they were non-neutralizing, with no impact on PK.
+ 
+Clinical Proof of Mechanism for PRV-015
+ 
+PRV-015 was clinically effective in RA, albeit the Phase 2b missed the primary endpoint, with a clinical response in approximately 60% of patients in both Phase 1 and Phase 2 studies versus a response of approximately 30% in the placebo groups. PRV-015 also led to decreases in inflammatory biomarkers such as C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR). PRV-015 was not effective in psoriasis, suggesting PRV-015’s action is selective, unlike that of broad systemic immune suppressants.
+ 
+PRV-015 was clinically effective in celiac disease in a Phase 2 study. Upon gluten challenge, PRV-015 did not prevent gluten-induced architectural mucosal injury, and thus missed the primary endpoint, yet the high dose of PRV-015, 300 mg, showed statistically significant attenuation of gluten’s effects on the change from baseline in intestinal inflammation, in patient-reported symptom questionnaires (the Celiac Disease Patient Reported Endpoint, CeD PRO, a registrational endpoint in NRCD) and in diarrhea, compared with placebo. The totality of the results from the patients who had gluten challenge indicate that 300 mg AMG 714 given every two weeks can ameliorate the inflammation and symptoms caused by substantial gluten exposure, the first demonstration of such dual benefit in intestinal inflammation and symptoms for any experimental medication for celiac disease. The results suggest that PRV-015 can be a potential adjunctive treatment for nonresponsive celiac disease to the GFD to ameliorate or resolve persistent inflammation seen in the majority of celiac patients already on GFD.
+ 
+
+17
+--
+
+ 
+
+PRV-015 was clinically effective in refractory celiac disease Type II. In the Phase 2a study, the primary endpoint (reduction in intestinal intra-epithelial lymphocytes, IEL) was not achieved, yet PRV-015 showed statistically significant benefit over placebo in reducing T cell receptor clonality (no increase in clonality with PRV-015) and symptoms (diarrhea). Other endpoints, such as histology, did not reach statistically significant differences between groups, but the results consistently favored PRV-015 numerically. PRV-015 was well tolerated, with no observed immunogenicity.
+ 
+Summary data of the Phase 2a study as presented at Digestive Disease Week in June 2018 is shown below:
+ 
+
+PRV-015 data demonstrated:
+ 
+
+● | Favorable safety (no SAEs), immunogenicity and PK 
+--+---------------------------------------------------------------
+● | Proof-of-concept: consistent efficacy of PRV-015 300 mg SC 
+
+
+● | Symptoms:
+--+----------
+
+
+● | CeD Patient Reported Endpoint (PRO, p=0.02) 
+--+---------------------------------------------------------
+● | Gastrointestinal Symptom Rating Scale (GSRS, p=0.07) 
+● | Bristol Stool Form Scale (BSFS/diarrhea, p=0.0002) 
+
+
+● | Gut inflammatory cells (intraepithelial lymphocytes, p=0.03) 
+--+-----------------------------------------------------------------
+● | Physician Global Assessment of disease (PGA, p=0.03) 
+
+
+18
+--
+
+ 
+
+Summary of clinical studies
+ 
+
+Study Number (Phase; Sponsor) | Key Design Features | Dose Route, Duration | Study Population 
+--------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------
+Hx-IL15-001 (Phase 1; Genmab) | Double-blind, placebo-controlled, single SC infusion, dose escalation, study with open-label, repeat-dose (4 weekly doses) follow-up | Initial single dose: 0 or 0.15 to 8 mg/kg SC infusion Repeated dose: 0.5 to 4 mg/kg SC infusion once weekly for 4 weeks. 5 doses over 8 weeks | 30 subjects with rheumatoid arthritis 
+20030210 (Phase 2; Genmab/ Amgen) | Double-blind, placebo-controlled, multiple SC infusion, parallel-group, multicenter study | 0 or 40 to 280 mg SC infusion dose every 2 weeks for 12 weeks with initial 200% loading dose | 180 subjects with rheumatoid arthritis 
+20050193 (Phase 1; Amgen) | Double-blind, placebo-controlled, single SC or IV doses, dose-escalation study | SC doses: 0, 30, 100, 300 or 700 mg (cohorts 1 to 4) IV dose: 0 or 100 mg (cohort 5) | 40 healthy subjects 
+20060349 (Phase 1b/2a; Amgen) | Double-blind, placebo-controlled, multiple SC doses, dose-escalating study | 0 or 150 mg SC (cohort 1) 0 or 300 mg SC (cohort 2) Every 2 weeks for 12 weeks | 22 subjects with moderate to severe psoriasis 
+CELIM-NRCD-001 (Phase 2a; Celimmune) | Double-blind, placebo- controlled, SC, parallel group, multicenter study | 0, 150 mg or 300 mg PRV-015 once every two weeks for six consecutive doses over 10 weeks | 63 subjects with non-responsive celiac disease 
+CELIM-RCD-002 (Phase 2a; Celimmune) | Double-blind, placebo controlled IV infusion, parallel group, multicenter study | 0 or 8 mg/kg IV, a total of 7 times over 10 weeks | 24 subjects with Type II refractory celiac disease 
+
+ 
+Safety of PRV-015
+ 
+Approximately 250 subjects have been exposed to PRV-015 to date, including approximately 200 subjects for 12 weeks of biweekly dosing. In all studies to date, PRV-015 was generally well tolerated by healthy volunteers, patients with active RA, and patients with celiac disease or RCD-II. While PRV-015 could, theoretically, increase susceptibility to infections as is the case with immune modulators, PRV-015 has not demonstrated this effect in the six clinical trials completed to date. No deaths or clinically significant changes in laboratory parameters were observed, including no NK cell depletion.
+ 
+The only adverse events clearly increased in PRV-015-treated patients have been injection site reactions, which were more commonly reported in subjects exposed to PRV-015, in a dose-dependent fashion (up to ~52% on PRV-015 vs ~26% in placebo in the celiac Phase 2a study), and nasopharyngitis (most cases with suspected allergic origin at a single site in RCD-II). In the population which will be studied in Phase 2b, celiac disease, there were no serious adverse events (SAE) in the Phase 2a study, while there were 6 SAEs (5 on PRV-015 and 1 on placebo) in the refractory celiac disease Type II, a much sicker patient population with immune suppression at baseline. Of the five SAE on PRV-015 in RCD-II patients, two were infections (both resolved while on PRV-015) and two were mild balance disorders (one unrelated to PRV-015, resolved while on drug; one leading to discontinuation).
+ 
+Celiac Disease Market
+ 
+There is no approved drug for celiac disease. The annual healthcare utilization by gluten free diet non-responsive celiac patients in 2013 was $18,206, for $4,796 in matched controls due to the extra costs of uncontrolled celiac disease investigations and treatment of complications. Given the large prevalence (15-20 million patients world-wide, 1% of the population in the Western world and 0.5% in Asia), and the unmet need (50% of patients on gluten-free diet continue to suffer from disease activity due to contaminating gluten in the diet), non-responsive celiac disease is considered a substantial opportunity for pharmaceutical development of an effective and well-tolerated adjunctive treatment to the gluten-free diet.
+
+19
+--
+
+PRV-6527 (Small Molecule CSF-1R Inhibitor) for Crohn’s Disease
+ 
+Overview
+ 
+Crohn’s disease, a type of chronic IBD characterized by inflammation of the gastrointestinal (GI) tract, can affect any part of the GI tract from the mouth to the anus but is more commonly found towards the end of the small intestine. It can also affect the eyes, skin, and joints. Myeloid cells, which originate in the bone marrow, are specialized immune cells, also called antigen-presenting cells believed to play a central role in Crohn’s disease. CSF-1 binds to its receptor (CSF-1R) on myeloid cells and drives the differentiation and maturation of these cells into inflammatory dendritic cells and macrophages, which then populate the gut and other tissues. In the gut, these differentiated myeloid cells present antigens from intestinal bacteria (the microbiome) to white blood cells and trigger inflammatory processes. We believe that an inhibitor of CSF-1R will “intercept” the differentiation of these inflammatory cells, preventing their migration from the bone marrow to the intestinal mucosa (i.e., the gut lining) in Crohn’s disease. It is anticipated that significant clinical benefits, such as preventing the relapse or progression of Crohn’s disease, as well as durable benefit (extended pharmacodynamic effect) may result from targeting the upstream pathologic mechanism, since antigen-presenting cells are the necessary initiators of the abnormal immune response.
+ 
+PRV-6527 (previously known as JNJ-40346527) is a highly potent and selective small-molecule oral inhibitor of CSF-1R. It was developed by Janssen Pharmaceuticals and has undergone clinical testing in 178 subjects to date, across Phase 1 (healthy volunteers; 94 received single dose up to 600 mg or two doses of 450 mg) and two Phase 2 studies (rheumatoid arthritis [RA] 63 patients received 200 mg/day for 12 weeks; and Hodgkin’s lymphoma (HL); 21 patients received 150 mg/day to 650 mg/day for at least three weeks). No serious adverse events deemed related to PRV-6527 were observed that would preclude further clinical development and PoM was demonstrated based on inhibition of CSF-1R signaling and myeloid cell counts in blood. While clinical data in the RA study was inconclusive and did not demonstrate efficacy in this disease, unpublished data indicate that PRV-6527 ameliorates Crohn’s-like disease in mouse models, and that CSF-1R and its pathway are upregulated in Crohn’s disease. In the first quarter of 2018, Provention initiated a Phase 2a proof-of-concept (PoC) study in the first quarter of 2018 in approximately 80 patients with Crohn’s disease to demonstrate both a clinical and histologic/tissue (gut mucosa) anti-inflammatory effect after 12 weeks of treatment with PRV-6527. This study will evaluate doses and dosing duration that were previously tested by Janssen. While biologic PoM was demonstrated in previous clinical trials, this does not necessarily predict a similar outcome in the Crohn’s disease study. We expect to report top line data from this Phase 2a PoC study in the second half of 2019.
+ 
+Crohn’s Disease Background Information
+ 
+Crohn’s disease is a chronic, immune-mediated IBD characterized as a relapsing, remitting disease that occurs most commonly in the terminal ileum and the colon, with clinical manifestations such as abdominal cramps and diarrhea, and systemic features such as cachexia, fever, anemia, and weight loss. Because the disease affects all layers of the GI tract from the mucosal lining to the muscular wall, complications may include bowel fistulas, abscesses and luminal strictures, which often require multiple surgeries and cumulatively can lead to short gut syndrome. Studies suggest that 15 years after diagnosis, approximately 70% of patients with Crohn’s disease will have undergone at least one major intra-abdominal surgery, 35% of patients will have required two such operations, and 20% will have required at least three operations. Patients with IBD also suffer from reduced quality of life and have an increased risk for clinical depression.
+Current Treatment Options and Their Limitations
+ 
+The current standard of medical care for Crohn’s disease includes treatment with anti-inflammatory agents, corticosteroids, immunomodulators such as azathioprine or its active metabolite 6-mercaptopurine, methotrexate, biologic agents such as tumor necrosis factor-alpha (TNF-α) antagonists, anti-integrin therapies, and anti-interleukin (IL) 12/23 therapy. Among these commonly prescribed agents, only the biologic agents and the corticosteroid budesonide are approved for the treatment of Crohn’s disease. Only about 40-50% of patients respond to biologic therapy after the acute induction phase and an even smaller proportion, approximately 20%, achieve remission after 52 weeks of treatment. Thus, the majority of patients do not attain long-term clinical benefit. In a systematic review of treatments for Crohn’s disease, approximately 25% of patients fail to respond initially to biologic therapy, and another 25% stop responding over time, including those who respond to dose escalation. Furthermore, the majority of biologic therapies are expensive and administered parenterally with poor tolerability in many patients.
+
+20
+--
+
+ 
+
+Thus, there continues to be a significant unmet need for safe, effective and durable treatments for patients with moderate to severe Crohn’s disease. This is particularly important since the disease largely affects younger patients during their most formative and productive years. We believe that oral treatment with a novel mechanism of action such as PRV-6527 may provide additional benefit, as it may work in patients who did not respond to anti-TNF agents, and since it circumvents the inconvenience of infusions and injections required to administer biologic therapies.
+ 
+Overview of CSF-1R Biology and PRV-6527’s Mechanism of Action
+ 
+CSF-1R is a tyrosine kinase receptor present on the surface of myeloid cells. CSF-1R is the receptor for two important molecules in the biology of myeloid cells: (a) CSF-1, a key growth factor for the development and differentiation of myeloid precursors in the bone marrow that are believed to give rise to pro-inflammatory macrophages and dendritic cells in gut tissue; and (b) IL-34, a signaling molecule believed to modulate inflammation in IBD.
+ 
+Pro-inflammatory Function of CSF-1
+ 
+Mac: macrophage; DC: dendritic cell.
+ 
+
+Inflammatory macrophages and dendritic cells are known to be important disease drivers in Crohn’s disease via production of IL-12 and IL-23, which in turn stimulate interferon-γ (IFN-γ)-producing white blood cells. Blood CSF-1 and mucosal IL-34 are reported to be elevated in patients with IBD, and the genes for CSF-1R, CSF-1, and IL-34 are expressed at higher levels in inflamed biopsy tissues compared with non-lesional biopsies of patients with IBD. The CSF-1R messenger ribonucleic acid (mRNA) signature (the gene set modulated by CSF-1R) features prominently in Crohn’s patients’ gut tissue, especially in patients not responding to anti-TNF medications. IL-34 has been shown to enhance production of TNF-α and other pro-inflammatory signaling molecules (IL-6) by myeloid cells, and inhibition of IL-34 in IBD mucosal explants represses the expression of these molecules, all of which support the role of this pathway in the inflammatory process. In addition, co-morbidities of Crohn’s disease such as osteoporosis and fibrosis are associated with CSF-1R-dependent macrophage function, which in conjunction with the biologic data, suggests that inhibition of CSF-1R in Crohn’s disease may reduce inflammation, improve clinical symptoms and prevent progressive tissue damage.
+ 
+Though not seen in completed studies, there is a theoretical risk that PRV-6527 may reduce anti-inflammatory macrophages (M2), in addition to inflammatory macrophages (M1), which could impact its efficacy and safety profile.
+ 
+Phase 2a Proof-of-Concept Clinical Trial of PRV-6527 in Crohn’s Disease
+ 
+Provention initiated a PoC study in the first quarter of 2018 in patients with Crohn’s disease to demonstrate both a clinical and tissue (gut mucosa) anti-inflammatory effect after 12 weeks of treatment. This Phase 2a clinical study is a randomized, double-blind, placebo-controlled, parallel-group, multicenter study in adult patients with moderately to severely active Crohn’s disease. The hypothesis of this study is that PRV-6527 will be superior to placebo in treating these patients, as measured by the change from baseline in the Crohn’s Disease Activity Index (CDAI) score after 12 weeks of treatment. The study is ongoing and approximately 80 subjects are planned to be enrolled.
+
+21
+--
+
+ 
+
+To demonstrate PoC, the primary endpoint will be clinical effect, measured by CDAI, at Week 12. PoM will be assessed in secondary endpoints, including mucosal changes on endoscopy and the presence of inflammatory myeloid cells on histological examination of gut biopsy tissue.
+ 
+PRV-6527 Study Design
+ 
+
+Pre-clinical Evaluation of PRV-6527
+ 
+Single- and repeat-dose toxicology studies have been conducted at doses of up to 250 mg/kg for durations of up to six months in rats, and at doses of up to 125 mg/kg for durations up to nine months in dogs. PRV-6527 was well-tolerated in these studies. Toxicological findings included changes in hematologic and chemistry parameters and fibrinoid vasculitis. The data support the doses selected for the Crohn’s disease study.
+ 
+Clinical Proof of Mechanism for PRV-6527
+ 
+Three clinical trials in normal healthy volunteers and patients with RA and HL, while not clinically effective, provided evidence of tolerability, favorable pharmacology, and PoM for PRV-6527 in terms of effective inhibition of the CSF-1R pathway in human diseases.
+ 
+The Phase 1 study with 120 normal healthy volunteers (94 active; 26 placebo) characterized the safety, tolerability, and pharmacokinetics (PK) of PRV-6527. Single doses of up to 600 mg, and two doses of 450 mg were administered. This study was conducted from January 26, 2010, to January 3, 2011, at the Janssen Clinical Pharmacology Unit in Belgium. Results showed that PRV-6527 was well tolerated with a long half-life of 2 to 4 days. In addition, pharmacodynamics (PD) were also studied, and PK/PD relationships were described.
+ 
+The Phase 2a study 40346527ARA2001 in 96 patients with RA (63 active; 33 placebo) characterized the efficacy, safety, PK and PD of PRV-6527. Patients received 100 mg twice a day (200 mg/day) orally for 12 weeks. This study was conducted from May 30, 2012, to April 30, 2013, in Argentina, Bulgaria, Chile, Czech Republic, Hungary, Poland, Russia, South Korea and Ukraine. Proof of mechanism (PoM) was demonstrated by a reduction in peripheral blood myeloid cells. Despite the demonstration of PoM, the primary efficacy endpoint, defined as the change from baseline to week 12 in the 28-joint Disease Activity Score with C-reactive protein (DAS28-CRP), was not met. There was a substantial placebo effect in the study, which made it difficult to discern a potential effect and thus rendered the efficacy results uninterpretable.
+ 
+The Phase 2a study 40346527HKL1001 in 21 patients with HL (all received active drug) characterized the safety, efficacy, PK and PD of PRV-6527. Patients received 150 to 650 mg/day for at least three weeks. Three deaths were reported during conduct of this study. The cause of death in all cases was disease progression. This study was conducted from July 6, 2012, to August 14, 2013, in Germany and France. The results from the study provided additional PoM for the functional inhibition of CSF-1R. Limited clinical efficacy activity was observed with PRV-6527 as monotherapy in the treatment of relapsed or refractory HL. Of the 20 evaluable patients, 11 (55.0%) achieved stable disease (duration of 1.5 to 8 months) and 8 (40.0%) had progressive disease.
+ 
+
+22
+--
+
+ 
+
+In all studies to date, PRV-6527 was generally well tolerated by healthy volunteers, patients with active RA, and patients with relapsed or refractory HL. While theoretically increasing susceptibility to infections, as is the case with immune modulators, PRV-6527 has not demonstrated this effect in completed clinical trials. The most frequent treatment-emergent adverse events in PRV-6527-treated patients affected the following organ systems or resulted in the following symptoms and changes:
+ 
+
+● | Gastrointestinal: diarrhea, nausea, vomiting, constipation, abdominal pain, gastroesophageal reflux; 
+--+-----------------------------------------------------------------------------------------------------------------
+● | Hematologic: anemia, decrease in white blood cells (neutrophils, monocytes, lymphocytes), and reticulocytes; 
+● | Hepatic: aspartate aminotransferase (AST) and alanine aminotransferase (ALT), both liver enzymes, increases; 
+● | Pulmonary: dyspnea (shortness of breath); 
+● | Constitutional symptoms: pyrexia (fever), headache, back pain; and 
+● | Laboratory changes: increase in creatine kinase and lactate dehydrogenase. 
+
+Crohn’s Disease Market
+ 
+Crohn’s disease and UC are the two main types of IBD. The market size of IBD is predicted to reach $9.3 billion by 2019, with Crohn’s disease accounting for approximately 65% and UC for approximately 35% of the market. Treatment is dominated by biologics with suboptimal efficacy. Mechanistically, most of the existing treatments exert their efficacy from inhibiting a variety of downstream inflammatory mediators rather than interfering with the source of inflammation. However, PRV-6527 targets the source of inflammation. This upstream effect is predicted to block the whole inflammatory cascade, and in conjunction with the predicted extended PD or biologic effect, could result in an improvement in the efficacy and durability of response. Furthermore, biologics for Crohn’s disease are delivered via intravenous infusion or injected subcutaneously, whereas novel oral medications can offer a disruptive opportunity.
+PRV-300 (Anti-TLR3 Human Monoclonal Antibody) for Ulcerative Colitis
+ 
+Overview
+ 
+UC is the most common form of IBD. It is a “relapsing-remitting” disease with chronic destructive inflammation and epithelial injury in the gastrointestinal tract. There is considerable morbidity associated with UC, which often leads to surgical removal of the colon and a severely reduced quality of life. Substantial unmet medical needs and suffering remain despite current anti-inflammatory and immune suppressive therapeutics.
+ 
+TLRs are sensor molecules of the innate immune system, which detect certain microbial pathogens and initiate protective immune responses. TLR3 is the main sensor for double-stranded RNA (dsRNA), which is found in various phases of replication and propagation of multiple common viruses. There is increasing evidence that TLR3 plays an important role in the pathologic response to emerging viral infections and the excessive immune response they trigger. TLR3 has also been implicated in chronic pathologic inflammation triggered by non-viral RNA (i.e., dsRNA and mRNA originating from damaged human cells in the absence of an infection). This appears to be the case in inflammatory disorders such as UC.
+ 
+Monoclonal antibodies (mAbs) are manmade immune proteins used to treat various diseases. PRV-300 (previously known as CNTO 3157 and JNJ-42915925) is a first-in-class, fully human, IgG4κ mAb that binds the extracellular domain of TLR3 with high specificity and affinity. Binding of PRV-300 to TLR3 blocks the binding of RNA molecules to the cell surface and the endosomal TLR3 receptor, thereby inhibiting TLR3-specific intracellular signaling that leads to production of inflammatory mediators (e.g., cytokines and chemokines) that are known to contribute to UC activity. In addition, TLR3 protein levels and the TLR3 pathway mRNA signature are significantly increased in intestinal biopsies from active UC compared with those from controls and inactive UC, Also, the blockade of TLR3 significantly reduced pathology in mouse models of colitis. Therefore, the blockade of TLR3 with PRV-300 may provide an effective therapy to intercept the upstream stages in the pathophysiology of UC and potentially prevent relapse or exacerbation.
+ 
+
+23
+--
+
+ 
+
+PRV-300 was developed by Janssen Pharmaceuticals and has undergone clinical testing in 155 subjects across three Phase 1 studies: a) 47 healthy volunteers received single intravenous doses of 0.003 mg/kg to 10 mg/kg and 13 patients with asthma received 3 mg/kg or 10 mg/kg intravenously weekly for 4 weeks; b) 47 healthy volunteers received a single dose of 100 mg, 300 mg or 600 mg subcutaneously and eight patients received a 300 mg single dose intravenously; and c) nine healthy subjects received a single dose of 10 mg/kg intravenously, and 31 patients with asthma received 10 mg/kg followed by 3 mg/kg weekly for three weeks, intravenously. No serious adverse events deemed related to PRV-300 were observed that would preclude further clinical development and PoM was demonstrated based on inhibition of TLR3-dependent cytokine release in the peripheral blood of dosed subjects. While clinical efficacy was not demonstrated in allergic asthma in a rhinovirus (common cold) challenge model, several lines of evidence suggest a plausible beneficial role for the blockade of this pathway in the interception of disease exacerbation and chronicity, and prevention of relapse in UC. These data include in vivo, ex vivo, histologic and gene expression analyses.
+ 
+We initiated a Phase 1b study in the first quarter of 2018 in patients with UC to evaluate the effect of PRV-300 on endoscopic and histologic endpoints, and a biopsy-based mucosal mRNA signature. The latter will provide a benchmark against which we may be able to assess the efficacy of PRV-300. This study will test doses that were previously tested by Janssen, but with more doses and longer dosing duration. While biologic PoM was demonstrated in previous clinical trials, this does not necessarily predict a similar outcome in our study. Enrollment of 37 patients was completed in the third quarter of 2018 and top line results are expected in the second quarter of 2019.
+ 
+Ulcerative Colitis Background Information
+ 
+UC is characterized by recurring inflammation episodes of the mucosal layer of the colon. It commonly involves the rectum and may extend to other parts of the colon as well. Symptoms include diarrhea (sometimes >10 bowel movements/day), which may be associated with blood and abdominal pain. Patients with distal disease may have constipation with blood and mucus discharge. Complications include life-threatening toxic “megacolon” and bowel perforation. Systemic effects in joints, eye, skin, blood, and lung are also common.
+ 
+Pathophysiological Changes in UC compared with Crohn’s disease
+ 
+
+The overall prevalence of UC in pediatric and adult populations in 2009 was 34 and 263 per 100,000, respectively, in the U.S. The etiology of UC is unknown; however, abnormal immune responses to contents in the gut, including intestinal microbes, are thought to drive disease in genetically predisposed individuals. Consistent with this notion, genome-wide association studies (GWAS) have implicated pathways involved in microbial sensing and response in the pathogenesis of UC.
+ 
+
+24
+--
+
+Current Treatment Options and Their Limitations
+ 
+Mesalamine is effective for both the induction and maintenance of remission in mild to moderate UC patients. For the approximately 50% of patients who fail mesalamine therapy, the next line of treatment is either conventional corticosteroids or multimatrix budesonide, which delivers the drug to the colon. For non-responders to corticosteroids and budesonide, azathioprine or 6-mercaptopurine, though not approved for UC, are often prescribed. Their efficacy is modest and there may be toxicities in the form of non-Hodgkin’s lymphoma, drug-induced pancreatitis, skin cancer, bone marrow suppression, infection, and other side effects. The next line of therapy are biologic agents, including TNF-α drugs such as infliximab and its biosimilars, adalimumab and its biosimilars, and golimumab, which are approved for the induction and maintenance of remission in patients with UC and Crohn’s disease. These agents have black box warnings for tuberculosis and other opportunistic infections, as well as lymphoma. Vedolizumab, an mAb against α4β7 integrin, was subsequently approved for the induction and maintenance of remission in UC and Crohn’s disease. While early safety data showed a low incidence of serious infections and malignancies, hypersensitivity reactions including anaphylaxis, dyspnea and bronchospasm have been reported, and due to the mechanism of action, increased risk for infections and progressive multifocal leukoencephalopathy must be advised and monitored. More recently, the oral Janus Kinase (JAK) inhibitor tofacitinib has been approved for UC. Tofacitinib is a potent immunesuppressant with “black box” warnings for increasing the susceptibility for serious infections, cancer and intestinal perforations.
+ 
+Overall, despite these options, 40% to 55% of patients have no response to therapy, and 65% to 80% of patients do not experience a full remission. In addition, patients who respond to biologic drugs can stop responding over time. Thus, there continues to be a significant unmet need for safe and effective treatments that bring long-lasting improvement to patients with moderate to severe UC. More targeted drugs, such as PRV-300, are potentially safer and longer-acting and may offer a better benefit/risk profile.
+ 
+Overview of TLR3 Biology
+ 
+TLRs are a family of microbe-sensing receptors responsible for initiating innate and adaptive immune responses to conserved microbe-associated molecular patterns. Upon sensing the presence of microbes, all human TLRs trigger signaling cascades that result in the activation of the pro-inflammatory “master switch” nuclear factor kappa B (NF-κB). NF-κB is a transcription factor that regulates the expression of a large number of genes involved in inflammation, including cytokines such as TNF, IL-6 and IL-12, all of which are known to contribute to the disease process in UC. The nucleic acid-sensing TLRs (TLR3, 7, 8 and 9) trigger interferon (IFN) generation. Once activated, IFN response pathways help defend against viral infection, but they are also implicated in contributing to autoimmune diseases. In particular, TLR3, a sensor for microbial and necrotic cell ribonucleic acid (RNA), can also directly trigger intestinal epithelial cell death through the activation of apoptotic pathways. It is believed that through activation of cell death and pro-inflammatory pathways in response to intestinal microbial RNA, as well as RNA released upon necrotic cell death, TLR3 plays an important role in the initiation and perpetuation of the dysregulated innate and adaptive immune responses characteristic of UC.
+
+25
+--
+
+ 
+
+The Role of TLR3 in UC Inflammatory Pathways
+ 
+
+Overview of PRV-300 Mechanism of Action
+ 
+PRV-300 is a human mAb directed against the extracellular domain of human TLR3. PRV-300 binds TLR3 on the surfaces of human epithelial cells and becomes internalized within endosomes, where it remains active and prevents TLR3 signaling. PRV-300 therefore inhibits dsRNA-induced activation of the immune system yet does not have detectable effects on the function of other TLRs. Importantly, PRV-300 does not trigger “cytokine storm” after being evaluated in an in vitro cytokine-release human whole-blood assay. This assay showed no evidence that PRV-300 induced a cytokine response similar to that of an anti-CD28 mAb super agonist.
+ 
+Antibody Blockade of TLR3 Signaling Attenuates DSS-Induced Colitis
+ 
+It has been reported that gut bacterial RNA or RNA released from dying cells can act as endogenous triggers to stimulate TLR3 signaling in IBD. Administration of a TLR3 stimulant in vivo caused intestinal mucosal sloughing that was not observed in TLR3-deficient (TLR3 KO) mice. Likewise, TLR3 KO mice and anti-TLR3 antibody treated mice were partially protected from intestinal symptoms in a mouse model of UC, where inflammation is induced by oral ingestion of the toxicant dextran sulfate sodium (DSS). In this model of IBD, TLR3 signals are presumed to arise from inflammation-mediated cell death of both intestinal and bacterial cells in the gut triggered by DSS, and these stimuli contribute to the perpetuation of inflammation, leading to IBD/UC-like disease. The efficacy of anti-TLR3 antibody to reduce disease severity in this model was demonstrated by reduced intestinal tissue damage after the anti-mouse TLR3 mAb CNTO 5429 was administered intraperitoneally before and during DSS ingestion. The ability of anti-TLR3 to reduce disease severity in this model as well as in the T-cell adoptive transfer model of colitis (not shown) strongly suggest that PRV-300 has the potential to provide benefit to patients with UC. Finally, the TLR3 mRNA signature (the gene set modulated by TLR3) features prominently in UC patients’ gut tissue, especially in patients not responding to anti-TNF medications, further enhancing PRV-300’s rationale in UC.
+
+26
+--
+
+Figure 2. Effects of TLR3 Blockade in Mouse Model
+ 
+
+Phase 1b Proof of Mechanism Clinical Trial of PRV-300 in Ulcerative Colitis
+ 
+In light of the human safety data and biological evidence that suggests that TLR3 contributes to the pathophysiology of UC, Provention initiated a clinical study of PRV-300 in adult patients with moderately to severely active UC. This Phase 1b study is a randomized, double-blind, placebo-controlled, parallel-group, multicenter study that will enroll approximately 36 patients. The primary objective is to evaluate the safety and tolerability of PRV-300 administered over 12 weeks in subjects with active UC.
+Phase 1b Trial Design Schema
+ 
+
+
+27
+--
+
+ 
+
+Evaluation of Pharmacology and Proof of Mechanism for PRV-300
+ 
+The clinical development program to date for PRV-300 included studies in healthy adult volunteers and adult patients with stable (mild to moderate) asthma. These studies characterized the PK, PD and immunogenicity of PRV-300, with clear demonstration of its mechanism of biologic effect.
+ 
+CNTO3157ASH1001 was a Phase 1 study that characterized the safety, tolerability, PK/PD, and immunogenicity of single ascending and multiple ascending doses of PRV-300 in healthy volunteers. In Part 1, 62 healthy subjects (15 placebo: 47 active) received a single intravenous dose of PRV-300 at 0.003, 0.01, 0.03, 0.1, 0.3, 1, 1.5, 3, or 10 mg/kg, or placebo. In Part 2, 17 stable asthmatic patients (4 placebo:13 active) received weekly intravenous doses of PRV-300 at 3 mg/kg or 10 mg/kg, or placebo. This study was conducted from June 18, 2010, to January 20, 2012, in Belgium and the United Kingdom.
+ 
+CNTO3157NAP1001 was a Phase 1 study that characterized the PK and safety of PRV-300 following an escalating (100 mg, followed by 300 mg, followed by 600 mg) single subcutaneous dose in healthy male Japanese and Caucasian subjects (60 subjects; 12 placebo:47 active) and a single intravenous dose (300 mg) in healthy male Caucasian subjects (8 subjects; open label, all active). This study was conducted from January 10, 2014, to August 29, 2014, in the U.S. (enrolling Japanese Americans and Caucasian Americans).
+ 
+CNTO3157ASH1002 was a Phase 1b study that characterized the safety, PK/PD, and immunogenicity of a single intravenous dose of PRV-300 (10 mg/kg) compared with placebo followed by inoculation with human rhinovirus type 16 (HRV-16) in healthy subjects (Part 1, 13 subjects, 4 placebo:9 active). The study also evaluated the effects of pretreatment with PRV-300 (10 mg/kg initial dose followed by three weekly infusions of 3 mg/kg) or placebo on the respiratory manifestations of experimental infection with HRV 16 in adult patients with stable asthma (Part 2, 63 patients, 32 placebo:31 active). This study was conducted from September 24, 2012, to November 17, 2014, in Belgium, Canada, Denmark, Germany, the Netherlands and the United Kingdom.
+ 
+Clinical Evaluation of PRV-300
+ 
+In the limited number of subjects who received PRV-300, it has been well tolerated. No deaths, drug-related serious adverse events, or discontinuations due to adverse events have occurred. In subjects who received subcutaneous PRV-300 or placebo, mild injection site reactions were the most frequently reported adverse events. In the CNTO3157ASH1001 study, the largest conducted to date, no serious adverse events deemed related to PRV-300 were observed in either healthy subjects and mild asthmatic patients who received PRV-300 that would preclude further clinical development. Adverse events reported in this study did not exhibit a dose-dependent relationship.
+Preclinical Evaluation of PRV-300
+ 
+Good Laboratory Practice (GLP) toxicology studies were completed in mice and monkeys. In mice, doses of PRV-300 up to 200 mg/kg, administered either intravenously or subcutaneously weekly for three months were well tolerated with no dose-limiting toxicity reported.
+ 
+In monkey studies, doses of 10 mg/kg IV or 75 mg/kg subcutaneously every three days for six months were associated with microscopic observations of perivascular/vascular inflammation at the end of dosing. Similar findings were reported at higher (50 mg/kg) intravenous doses in kidneys in the three-month GLP monkey toxicity studies. In all cases, the findings were reversible and were not considered to be a direct PRV-300-related effect, but an immune-mediated reaction related to formation of immune complexes and monkey anti-PRV-300 antibodies.
+ 
+Since PRV-300 is an immune modulator that could theoretically increase susceptibility to infections, viral resistance studies were conducted against common pathogens, including influenza, herpes simplex, and mouse cytomegalovirus (MCMV) reactivation. PRV-300 was administered to BALB/c mice (50, 100 or 200 mg/kg/week) and to non-drug treated TLR3 KO mice. There were no effects on MCMV reactivation or herpes simplex type-1 (HSV-1) susceptibility. A transient delay in influenza-specific IgM response was demonstrated without toxicologically relevant impact on influenza clearance or IgG production. There were no overt immune toxicologic risks identified in PRV-300-treated mice or TLR3 KO mice in all three viral resistance mouse models.
+ 
+
+28
+--
+
+ 
+
+Pharmacokinetics and immunogenicity
+ 
+The half-life of the 10 mg/kg dose of PRV-300 was 12 and 18 days, upon single and multiple intravenous administration, respectively. PRV-300 was minimally immunogenic, as <5% of subjects generated anti-drug antibody, which was deemed not clinically relevant as there was no apparent effect on PK parameters.
+ 
+Pharmacodynamic data / Proof of mechanism
+ 
+Pharmacodynamic data showed that PRV-300 inhibits ex vivo TLR3-dependent (Poly I:C induced) cytokine release in the blood of subjects who received PRV-300. In the Phase 1b asthma study, IL-12p70, IP-10 and MIP-1b were significantly inhibited at the 10 mg/kg dose, with ≥80% inhibition for up to 60 days after the fourth dose at 10 mg/kg, suggesting an extended pharmacodynamic effect.
+ 
+In CNTO3157ASH1002, there was no statistical difference between placebo and treatment groups in attenuating the respiratory manifestations of HRV-16 infection, with a trend towards worsening symptoms in PRV-300-treated patients. However, there was a numeric improvement in pulmonary function in PRV-300-treated asthmatics in the absence of acute HRV-16 infection, providing support to the testing in UC.
+ 
+Ulcerative Colitis Market
+ 
+UC is the most common form of IBD. The market for UC treatments is predicted to reach $3 billion by 2020 and is currently dominated by anti-inflammatory and immune suppressant agents. Mechanistically, most of the existing agents act by inhibiting end-stage mediators rather than the source of inflammation. PRV-300 is a differentiated, targeted drug acting in the early phase (i.e., recognition and initiation) of the inflammatory immune response and appears well suited for patients with demonstrated hyperactive pathways.
+Life-Cycle Opportunities in Crohn’s Disease and Other Gastrointestinal Disorders
+ 
+In addition to our initial indication in UC, a substantial body of evidence supports the potential use of PRV-300 in patients with Crohn’s disease, a second indication that may be explored as part of life-cycle management of PRV-300:
+
+○ | TLR3 protein levels are significantly greater in intestinal biopsies from patients with active Crohn’s disease compared with biopsies from persons without and those with inactive Crohn’s disease as determined by immunohistochemistry. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+○ | Gene set variation analysis (GSVA) determined that an experimentally-defined TLR3 mRNA signature is significantly enriched in colonic biopsies from Crohn’s disease patients with active disease. Moreover, the TLR3 signature was normalized in clinical responders to infliximab therapy, but not in non-responders. 
+○ | Analysis of an internally-generated Crohn’s disease gene network showed significant enrichment for the TLR3 signature, suggesting that TLR3 modulates pathways relevant to human IBD. Consistent with this finding, a number of IBD- associated genes are directly downstream of TLR3 signaling. 
+
+ 
+In addition to Crohn’s disease, TLR3 activation by rotaviral infection has been reported to induce intestinal mucosal erosion in vivo, an effect reversed by anti-TLR3 treatment. Finally, TLR3 has also been shown to be the mediator of crypt cell death in a mouse model of radiation-induced gastrointestinal syndrome.
+ 
+Life-Cycle Opportunities in Serious and Emerging Viral Diseases
+ 
+TLR3 is involved in the immune response not only to dsRNA viruses, but also non-dsRNA viruses that use dsRNA as an intermediary in their replication. Potentially attractive life-cycle expansion opportunities for PRV-300 in the infectious disease space include severe influenza in the hospitalized setting (associated with high seasonal mortality), acute and chronic respiratory syncytial virus (RSV) pathology and emerging viral diseases (e.g., pandemic or avian flu).
+
+29
+--
+
+ 
+
+Excessive TLR3 signaling contributes to morbidity and mortality in models of certain viral infections including West Nile virus, phlebovirus, vaccinia virus and influenza A virus (IAV). For example, the immune-mediated pathology in IAV is suggested to be a result of exaggerated cytokine release in response to ongoing infection, either from airway epithelial cells or from the resultant increase in infiltrating immune cells. The cytokines implicated include CXCL10 (IP-10), IL-6, IFN-γ, TNF-α, CCL-2 and CCL-5, which are downstream products of activation of key viral pattern recognition receptors (PRRs), including TLR3 and RIG-1. Emerging evidence suggests RIG-1 signaling is required for maximal/protective viral clearance and pro-inflammatory responses, while TLR3 is more involved in pro-inflammatory/detrimental responses. The balance of protective and pro-inflammatory responses is exemplified in the figure below.
+ 
+Pro-inflammatory Responses Associated with Excessive TLR3 Signaling
+ 
+
+A role for TLR3 in driving pathogenic inflammation during IAV infection is supported by evidence in a TLR3 KO mouse model and in humans infected with influenza A. TLR3-deficient mice have increased survival and reduced virus-induced inflammatory pathology compared to wild-type mice despite delayed viral clearance. Furthermore, antibody blockade of TLR3 significantly enhanced survival when it is given either prophylactically or therapeutically, administered upon the first appearance of clinical symptoms. While there was no effect on viral replication in the lung, cytokine levels (including IL-6, RANTES and IP-10) were decreased in animals that received an anti-TLR3 antibody, to an extent similar to that in TLR3 KO mice. Furthermore, TLR3 KO mice showed less pneumonia, bronchiolitis, and alveolitis compared with wild type mice upon viral infection, supporting the beneficial role of TLR3 blockade in ameliorating disease.
+ 
+In humans, TLR3 levels were increased in the lungs of patients who died of H1N1, a subtype of IAV subtype, in 2009. In these cases, TLR3-dependent cytokines in the blood were elevated in response to the infection, suggesting that increased expression of TLR3 and stimulation in a more advanced disease stage may exacerbate tissue inflammation. Thus, inhibition of TLR3 signaling may have a therapeutic potential in the treatment or prevention of severe influenza-induced lung pathology.
+ 
+There is evidence to suggest that an association may exist between TLR3 deficiency and infections with certain pathogenic viruses, including herpes simplex (HSV-1) and coxsackie viruses. A rare dominant-negative TLR3 allele, P554S, has been associated with increased susceptibility to herpes simplex encephalitis upon primary infection with HSV-1 in childhood, although subjects with this allele do not have recurrent HSV-1 nor an increased susceptibility to other infections. A common TLR3 variant allele with reduced in vitro activity, L412F, was found in one patient with recurrent HSV-2 infections. In mice, TLR3 has been shown to be redundant for defense against HSV in the periphery, but critical for defense within the CNS. Additionally, a protective role for TLR3 against human coxsackie virus infections has been suggested by a recent analysis of 57 viral myocarditis patients, in which the P554S allele was found and the L412F variant was found at a higher prevalence than in a cohort of control patients, although the prevalence of L412F in the control cohort in this study was much lower than the prevalence reported for the general population. In mice, TLR3 deficiency is linked to decreased survival following coxsackie virus challenge. The extent to which the administration of an antibody against TLR3 mimics genetic deficiency of TLR3 remains unknown, although no such infections have been seen in clinical trials conducted to date.
+ 
+
+30
+--
+
+ 
+
+Thus, evidence from both in vivo and in vitro studies supports the hypothesis that blockade of TLR3 may be effective in microbial diseases in which the innate pro-inflammatory response drives pathology to a greater extent than the virus, such as in influenza.
+ 
+Provention plans to explore the possibility of conducting proof-of-concept studies of PRV-300 in pandemic flu (e.g., or avian or swine) in conjunction with relevant collaborators and/or government agencies. PRV-300 has been shown to prevent immune pathology and to improve survival and other outcomes in a mouse model of swine flu. Pandemic flu and other viral diseases that can be studied in animal models could potentially lead to accelerated approvals and stockpiling under FDA’s Animal Efficacy Rule (“Animal Rule”) guidance without an immediate need for human clinical studies. The FDA Animal Rule applies to the development and testing of drugs and biologicals to reduce or prevent serious/life-threatening conditions caused by exposure to lethal agents, where human efficacy trials are not feasible or ethical.
+ 
+PRV-3279 (humanized CD32B x CD79B Dual Affinity Biologic for Systemic Lupus Erythematosus and other autoimmune diseases
+ 
+Overview
+ 
+SLE is a chronic autoimmune disorder that can affect nearly every major organ system, causing inflammation, tissue injury, organ damage, and in some patients, organ failure. The prognosis of SLE is highly variable in individual patients, often waxing and waning throughout their lifetime. The natural history of SLE ranges from relatively benign disease to rapidly progressive and even fatal disease. Comorbidities, such as infections, malignancies, hypertension, lipid disorders and diabetes increase the risk of disability and death in patients with SLE. Organ systems commonly affected by SLE include the central nervous system, kidneys, gastrointestinal system, mucous membranes, heart, skin, hematologic system, musculoskeletal system and lungs, with specific organ involvement defining subsets of the disease (e.g., lupus nephritis). According to the Lupus Foundation of America, at least 1.5 million Americans are afflicted by SLE and more than 16,000 new cases of lupus are reported annually. It is estimated that 5 million people throughout the world suffer from some form of lupus. Lupus affects primarily women of childbearing age (15–44 years). However, men, children, and teenagers can also develop lupus.
+ 
+The pathogenesis of SLE is characterized by an abnormal overactivation of B cells and subsequent pathologic production of auto-antibodies (antibodies that attack one’s own cells and tissues). Uncontrolled activation of B cells is normally terminated when the activating stimulus is exhausted and when a negative feedback loop is triggered by the engagement of an inhibitory Fc receptor (FcR) known as FcgammaRIIb (CD32B). Mutations in the CD32B gene in humans are associated with an increased likelihood of SLE, and reduced expression of CD32B is apparent in B cells from SLE patients. It is thought that activation of this inhibitory pathway could ameliorate the overactive B cell-driven pathology of SLE and other autoimmune diseases. In addition, the excess auto-antibodies produced bind to target antigens and form immune complexes.
+ 
+When the B cell receptor (BCR) (which is the “Y” shaped molecule, resembling an antibody in the figure below) is bound and activated by an antigen, it initiates a cascade of biochemical changes necessary for the activation of the CD32B inhibitory pathway, thus triggering the negative feedback loop. CD79B is a subunit of the BCR that plays a key role in this process when it is close to CD32B. Therefore, if a pharmacologic treatment is to activate the CD32B inhibitory pathway, it also has to simultaneously bind to CD79B. PRV-3279 (formerly MGD010), is a humanized CD32B x CD79B DART protein developed originally by MacroGenics as a bi-specific therapy with these properties, and thus a potential treatment for SLE and other similar diseases. It is designed to simultaneously bind to CD32B and CD79B on B cells.
+ 
+
+31
+--
+
+ 
+
+
+PRV-3279 and related molecules have shown inhibitory effects on BCR-induced B cell proliferation and antibody secretion (including B cells obtained from SLE patients) as well as beneficial effects in mouse models of autoimmunity. PRV-3279 is expected to boost the negative feedback loop on B cells by robustly engaging the available CD32B and CD79B.
+ 
+PRV-3279 has been studied in humans and was shown to be well tolerated. PoM and PRV-3279’s inhibitory effect on antibody immune responses were demonstrated in a Phase 1a single ascending dose study in healthy volunteers, including a cohort demonstrating inhibition of the immunogenicity of the hepatitis A vaccine. Immunogenicity of PRV-3279 was also observed, but had no impact on mechanistic effects, safety or pharmacokinetics, and decreased with increasing doses of PRV-3279, possibly a reflection of its mechanism of action.
+ 
+We plan to continue developing PRV-3279 for the treatment of SLE in the PREVAIL (PRV-3279 EVAluation In Lupus) study. PREVAIL will be a multiple ascending dose (MAD) Phase 1b/2a study in two parts: Part 1 will be a Phase 1b study in approximately 16 healthy volunteers, and Part 2 will be a Phase 2a study in SLE patients. Part 2 will have a treatment duration of at least 12 weeks and will evaluate clinical and biomarker endpoints. We expect to initiate the Phase 1b portion of the trial in the third quarter of 2019. Our ultimate goal is to determine if PRV-3279 can intercept the pathophysiology of SLE by preventing the production of auto-antibodies by abnormally active B cells.
+ 
+Current Treatment Options for SLE and Their Limitations
+ 
+The treatment and management of SLE depends on disease severity and disease manifestations. Hydroxychloroquine plays a central role in the long-term treatment of SLE and is the cornerstone of SLE therapy. Corticosteroids, nonsteroidal anti-inflammatory drugs (NSAIDs), and immunosuppressive agents (e.g., azathioprine, cyclophosphamide, cyclosporine, methotrexate, and mycophenolate mofetil) have also been used in the treatment and management of SLE. These treatments are only modestly effective and present safety and/or immune suppression concerns with prolonged use. The B cell-depleting antibody rituximab (Rituxan®), while not approved for treatment of SLE, appears to be beneficial in certain subsets of patients.
+ 
+In 2011, the FDA approved belimumab (Benlysta®), an antibody that targets B lymphocyte stimulator (BLyS), for the treatment of mild to moderate SLE in combination with standard therapy, providing additional clinical validation of the therapeutic benefit of B cell-targeted therapy for autoimmune diseases. However, the modest therapeutic benefit of belimumab and delayed onset of disease intervention indicate the need for additional therapeutic strategies to inhibit overactive B cells. We believe PRV-3279 can fulfill that requirement and is uniquely differentiated to allow for rapid inhibition of activated B cells (potentially more effective than belimumab), while sparing non-activated B cells from depletion or inactivation (potentially safer than rituximab).
+ 
+
+32
+--
+
+Overview of CD32B Biology 
+ 
+CD32B is expressed widely on the surface of human B cells. In addition to its expression on B cells, CD32B is also expressed on other immune cells such as dendritic cells, macrophages, neutrophils, and mast cells. It is a single-chain protein with a portion that sits outside of the cell membrane, which can be bound by chemical signals.
+ 
+CD32B is the only known inhibitory FcR in the immune system. It plays an important role not only for innate and adaptive immune responses, but also in the maintenance of immune tolerance and controlling autoimmunity. Mice deficient in CD32B have increased antibody responses due in part to chronic B cell activation, and as a result, develop autoimmune disease similar to human SLE. In contrast, B cell-specific overexpression of CD32B reduces the incidence and severity of lupus in a mouse lupus model. In humans, mutations and decreased expression of the CD32B gene are associated with an increased likelihood of SLE. These results underscore the important role of CD32B in regulating the antibody immune response and suggest that drug-mediated engagement of CD32B could provide therapeutic benefit in autoimmune diseases by dampening the effects of chronically activated B cells and reducing the production of auto-antibodies. In particular, preventing the production of auto-antibodies could intercept the disease course in lupus nephritis, a subtype of lupus driven by accumulation of auto-antibodies and immune complexes (a mass of antibodies and other molecules) in the kidneys.
+ 
+Mechanism of Action of PRV-3279 
+ 
+PRV-3279 is in a new class of bispecific scaffold antibody-like molecules called DARTs. It is designed to simultaneously bind to CD32B and CD79B on B cells. The simultaneous binding of both CD32B and CD79B triggers CD32B-coupled immunoreceptor tyrosine-based inhibitory motif (ITIM) signaling, which leads to the suppression of B cells activated to produce auto-antibodies, while not causing broad B cell depletion.
+ 
+To prolong its half-life in the body, PRV-3279 contains a human IgG1 Fc region (a specific antibody fragment) that is manipulated to eliminate its effector function. As a molecule designed to inhibit immune responses, PRV-3279 does not activate any part of the immune system either in the body or in laboratory tests. PRV-3279 also does not bind to platelets, a unique feature compared to competing molecules targeting CD32B that are associated with toxicity due to binding to platelets.
+ 
+Proposed Multiple Ascending Dose Phase 1b/2a study of PRV-3279 in Healthy Volunteers and Patients with Lupus
+ 
+Provention plans to conduct a two-part study in SLE, the PREVAIL (PRV-3279 EVAluation In Lupus) study. PREVAIL will be a Phase 1b/2a randomized, double-blind, placebo-controlled study to evaluate the safety, tolerability, PK, PD, and immunogenicity of multiple ascending doses of PRV-3279 in approximately 16 healthy adult volunteers (Part 1) and the efficacy of PRV-3279 in patients with lupus (Part 2). We expect to initiate the Phase 1b portion of the trial in the second half of 2019.
+ 
+Our ultimate goal is to determine if PRV-3279 can intercept the pathophysiology of SLE by preventing the production of auto-antibodies by abnormally active B cells. Part 2 will have a treatment duration of at least 12 weeks and endpoints will include lupus clinical assessments and biomarker measurements. Clinical endpoints will include the Systemic Lupus Erythematosus Disease Activity Index 2000 (SLEDAI-2K), the British Isles Lupus Assessment Group (BILAG) score, urine protein to creatinine ratio, and daily glucocorticoid use. Additional biomarkers will include urinary/renal markers (e.g., serum creatinine, estimated glomerular filtration rate) and blood/circulating markers (e.g., auto-antibodies, complement [C3 and C4], B cell function/phenotype, including CD32B expression/response relationship).
+ 
+Preclinical Evaluation of PRV-3279
+ 
+The only nonhuman species that PRV-3279 binds to is chimpanzees. An initial non-GLP study with PRV-3279 in chimpanzees demonstrated it to be well tolerated at all doses, with an assigned no observed-adverse-effect level (NOAEL) of 10 mg/kg.
+
+33
+--
+
+ 
+
+Due to the lack of target binding, chronic four-week and three-month repeat-dose GLP toxicology studies were performed using a surrogate DART molecule similar to PRV-3279 that was designed to target human CD32B and mouse CD79B in a transgenic mouse line that expresses human CD32B. A NOAEL at the highest dose of 50 mg/kg was assigned in the three-month study. These studies support the advancement of PRV-3279 in long-term efficacy studies in humans (up to three months).
+ 
+Clinical Evaluation and Proof of Mechanism for PRV-3279
+ 
+To date, one clinical study has been completed with PRV-3279: a First in Human (FIH) Phase 1a double-blind, placebo-controlled study to evaluate the safety, tolerability, PK, PD, and immunogenicity of PRV-3279 in healthy adult volunteers. The study was conducted at a single site in the U.S., from February 2015 to February 2017.
+ 
+A total of 49 subjects were randomized; 12 received placebo and 37 received PRV-3279 intravenously at escalating doses from 0.1 mg/kg to 10 mg/kg in six cohorts. PRV-3279 was well tolerated over the range of doses, with only mild adverse events that resolved quickly, including headache, somnolence (sleepiness), upper respiratory tract infection, folliculitis and night sweats. Target binding and PoM were demonstrated by measuring functional B cell inhibition at doses of 1 mg/kg or higher, without broader B cell activation or depletion observed.
+ 
+Subsequently, PoM was further confirmed in a dose escalation extension of the study in which single doses of PRV-3279 at 3 mg/kg and 10 mg/kg (16 subjects) were compared with placebo (8 subjects) for the ability to affect B cell responses to a hepatitis A vaccine, which was administered to participants who had no previous hepatitis A immunity, on day 2 of the study. At both doses, PRV-3279 reduced the proportion of volunteers who generated an immune response against the vaccine, as well as the amount of antibody they produced, in both cases as compared to placebo.
+ 
+Pharmacokinetics and Immunogenicity of PRV-3279
+ 
+PRV-3279 exhibited an approximate half-life of seven days after a single dose. A majority (~86%) of study participants developed antibodies against PRV-3279 (i.e., immunogenicity) after receiving the 3 mg/kg dose, but no detrimental effect was observed on the pharmacokinetics of PRV-3279. The proportion of participants developing antibodies against PRV-3279 decreased with increasing dose (29% in the 10 mg/kg dose) and such antibodies did not occur in the multiple dose chimpanzee study, suggesting that PRV-3279 may limit its own immunogenicity at therapeutic doses, which is consistent with its mechanism of action.
+ 
+SLE Market and Other Opportunities for PRV-3279
+ 
+Sales of therapies to treat SLE are expected to climb to nearly $2 billion in 2019, approximately 17% annual growth from 2009. This growth is driven primarily by the entry and uptake of novel treatments that target B cells such as belimumab and off-label use of rituximab. The uptake of belimumab has been driven largely by safety rather than substantial efficacy, supporting the unmet need and potential for novel and safe non-depleting B cell therapies with greater efficacy.
+ 
+In addition to SLE, PRV-3279 has the potential to treat other B cell- and auto-antibody-driven autoimmune diseases. Such diseases include multiple sclerosis and RA, where B cell therapies rituximab and recently approved ocrelizumab (Ocrevus®) have sales in excess of $1 billion. Several niche/orphan indications may also be explored, including T1D (potentially in combination with Provention’s PRV-031), Sjogren’s syndrome, vasculitis (e.g., polymyalgia rheumatica, giant cell arteritis, Behçets disease), myasthenia gravis, pemphigus, neuromyelitis optica, anti-NMDA receptor encephalitis, Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, Grave’s ophthalmopathy, IgG4-related disease, and idiopathic thrombocytopenic purpura.
+ 
+
+34
+--
+
+ 
+
+PRV-101 (Coxsackie Virus B Vaccine) for acute infection and Type 1 Diabetes
+ 
+Overview of Coxsackie Virus Infection of the Pancreas, T1D and PRV-101’s Mechanism of Action
+ 
+Longitudinal studies of more than 200,000 children studied for up to two decades in Finland by Provention’s technology licensor, Vactech, and its collaborators, identified CVB infection as a likely environmental trigger in the onset of T1D and T1D-associated celiac disease. CVB infection is very common and is responsible for various symptoms and complications ranging from mild respiratory disease, gastrointestinal disturbances and hand-foot-mouth disease to life-threatening cardiomyopathy and meningitis. However, in patients with a certain genetic background, CVB also may be responsible for the development of autoimmunity. The T1D association with CVB infection was also observed in additional independent cohorts in 15 countries, including in North America and Australasia. These epidemiological observations have been substantiated by biological experimentation. Insulin-producing beta cells in the pancreas express specialized receptors associated with the transport, storage and release of insulin. These receptors appear to be used by CVB to preferentially infect these cells. Infection by enteroviruses can be detected in the pancreatic beta cells of approximately 60% of type-1 diabetes patients and in the gut of most patients with T1D-associated celiac disease. All enteroviruses from the pancreas of T1D patients sequenced to date for strain identification have been found to be CVB. Importantly, if mothers have a CVB infection just prior to or during pregnancy, a 50% reduction in T1D-associated auto-antibodies has been observed in their offspring, presumably due to protection by maternal antibodies passed on to the fetus. This observation strongly suggests the potential efficacy of CVB vaccination for children and/or mothers, resulting in the development of protective antibodies potentially capable of preventing or delaying the onset of T1D.
+ 
+An analysis of stool samples collected from these individuals identified enterovirus infections prior to the first detection of T1D auto-antibodies. Enterovirus RNA was also detected in stool samples. Examination of antibodies present in DIPP children who developed at least two islet cell auto-antibodies (sign of incipient T1D) and/or progressed to T1D confirmed that among all enteroviruses, only CVB was associated with initiation of beta cell autoimmunity.
+ 
+Enterovirus RNA in Blood is Linked to the Development of T1D
+ OR: odd ratio; CI: confidence interval; EV: enterovirus
+ 
+
+The relationship between islet cell auto-antibodies and the presence of CVB has subsequently also been observed in other cohorts collected in European countries and in a prospective study carried out in Europe, North America and Australia. In addition to these studies, the T1D and CVB association has been shown in several studies carried out in various geographic regions.
+ 
+Importantly, the additional finding of an almost 50% reduction in the CVB-infection-associated risk of islet auto-antibodies in the offspring of mothers with anti-CVB antibodies supports the hypothesis that a CVB vaccine may be effective in preventing the disease.
+ 
+Proposed Phase 1 First in Human Clinical Trial of PRV-101
+ 
+PRV-101 is expected to be a polyvalent (more than one strain) prophylactic CVB vaccine intended for acute CVB infection and the prevention of CVB-induced T1D. We believe that, if successful, PRV-101 may prevent up to 50% of T1D cases. The vaccine is currently in an IND-enabling stage, requiring manufacturing and nonclinical studies prior to initiation of FIH studies. Animal safety and efficacy modeling studies completed to date by Vactech demonstrate that CVB triggers diabetes in two animal models of T1D and that vaccination against CVB protects mice from acute infection as well as prevents the onset of diabetes triggered by CVB infection.
+ 
+We plan to commence a Phase 1 FIH study in the first half of 2020 in healthy adult volunteers, with top-line data by the end of 2020. The primary objective of this Phase 1 FIH study is to evaluate the safety and tolerability of multiple doses of PRV-101 administered at two different dose levels in adult healthy volunteers. A secondary objective is to evaluate the immunogenicity (ability to elicit antibodies) of PRV-101 to CVB.
+ 
+
+35
+--
+
+Preclinical Data for PRV-101
+ 
+The mechanism of action and efficacy of PRV-101 is supported by the results of several in vivo studies. Inactivated CVB-based viral vaccines efficiently protect mice from CVB infections and from viral spread to the pancreas, as seen for CVB1 and CVB3 vaccines. Similar experiments conducted with a vaccine covering all six CVB serotypes demonstrated that it can induce a strong neutralizing anti-CVB response in mice and protect the animals against multiple CVB infections from the corresponding live viruses. Independent experiments confirm that CVB infection can accelerate T1D onset in T1D susceptible NOD (Non-obese diabetic) or SOCS-1-Tg (suppressor of cytokine signaling 1 transgenic) mice, suggesting that protection from CVB infection would therefore protect against T1D development. This hypothesis has been recently confirmed in experiments conducted by the Karolinska Institute (Sweden) and the University of Tampere (Finland), demonstrating that a CVB1 vaccine indeed protected SOCS-1-Tg mice against T1D induced by CVB1. These mice develop T1D after CVB1 infection as a consequence of a direct infection of insulin-producing beta cells in the pancreas. A three-injection vaccination course induced robust neutralizing antibody responses against CVB1 and protected mice from both CVB1 infection and CVB1-driven T1D. CVB1 infection led to a loss of insulin-producing cells in unvaccinated mice, which also was prevented by the vaccine. These data strongly support the development of PRV-101 for the prevention of T1D.
+ 
+Formalin-Inactivated CVB1 Vaccine is Effective Against CVB1-Induced T1D in a Mouse Model. As seen in the left panel below, CVB1 infection led to loss of insulin-producing cells, and this pathology was completely prevented by the CVB1 vaccine (right panel). In this experiment, while 50% of unvaccinated mice develop T1D as a consequence of CVB1 infection, all vaccinated mice were protected (not shown).
+ 
+
+Important from a safety point of view, the formalin-inactivated CVB1 vaccines did not cause any undesirable effects in the pancreas. There was no vaccine-induced pancreatic pathological change, islet autoimmunity or diabetes in the vaccinated mice.
+ 
+Finally, maternal CVB infection during gestation in mice protects the offspring from CVB infection and subsequent T1D development, presumably through transfer of specific antibodies from the mother to the fetus, corroborating previous findings in humans in the DIPP study and further supporting the use of a prophylactic vaccine to protect against CVB-associated-T1D.
+ 
+IND-Enabling Program to Support FIH Study
+ 
+The planned CVB vaccine toxicology program will consist of non-GLP and GLP safety and immunogenicity studies conducted in mice. These studies are designed to identify and characterize potential toxicities associated with PRV-101 treatment, including those arising from the immune responses induced by the product. They will mirror the administration regimen that will be used in the proposed FIH study by same route of administration.
+ 
+
+36
+--
+
+ 
+
+Pharmacology studies will be conducted to determine the exact composition of the vaccine. It is currently considered that such CVB vaccine should ideally be a polyvalent vaccine (encompassing several CVB serotypes). After completion of these studies, Provention will undertake Good Manufacturing Practice (GMP)-manufacturing of the final vaccine for clinical trials.
+ 
+CVB Infection Market
+ 
+Enteroviruses are responsible for an estimated 10 to 15 million symptomatic infections in the U.S. annually. CVB contributes to a major part of the healthcare costs of enteroviruses as they cause the most serious complications and are among the most frequently reported enteroviral infections according to the CDC. Acute CVB infection is usually asymptomatic or causes common cold-type symptoms. It often leads also to a febrile illness associated by rash, hand-foot-mouth disease and/or mild GI distress. However, CVB infections cause also more severe manifestations including pericarditis, myocarditis, meningitis and pancreatitis.
+
+- | Myocarditis: CVB is the most common etiologic agents for myocarditis in the Western world, responsible for up to 33% of cases of myocarditis. Myocarditis is an important cause of sudden unexpected death: the prevalence of myocarditis in children and adolescents leading to sudden unexpected death has been reported to be as high as 8% to 42%. In certain individuals, acute myocarditis progresses to chronic myocarditis and dilated cardiomyopathy, which is a severe life-threatening condition. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- | Otitis media: otitis media (middle ear inflammation) may develop in patients with upper respiratory disease caused by enterovirus. Otitis media constitutes 18% of physician visits in the U.S. (largest single reason in children). The costs of otitis media treatment in the U.S. were estimated to be approximately $3 billion (2014). 
+- | Meningitis: CVB is a common cause of enteroviral meningitis. Meningitis beyond the neonatal period is characterized by the sudden onset of fever of 38-40°C. Headache and photophobia are almost universally reported in these patients. Reports on the incidence of viral meningitis vary from approximately 50,000 hospitalized cases to over 2 million cases of aseptic meningitis per year. Based on 300,000 annual cases of aseptic meningitis in the United States (of which enteroviruses, and coxsackie viruses in particular, are the most common cause), the economic impact is estimated to be $1.5 billion in direct costs alone. 
+
+Significant Contracts and Agreements Related to Research and Development Activities
+ 
+License and Acquisition Agreements
+ 
+Vactech License
+ 
+In April 2017, we entered into a License Agreement, pursuant to which Vactech granted us exclusive global rights for the purpose of developing and commercializing the group B coxsackie virus vaccine (CVB) platform technology. In consideration of the licenses and other rights granted by Vactech, we issued two million shares of our common stock to Vactech. We recorded the issuance of the shares at their estimated fair value of approximately $1.70 per share for a total of $3.4 million as a license fee expense included as part of research and development expenses for the year ended December 30, 2017. We paid Vactech a total of approximately $0.5 million for transition and advisory services during the first 18 months of the term of the agreement. Vactech is obligated to transition its intellectual property, provide reference samples, assist with the technology transfer to a third-party contract manufacturer, and participate on our scientific advisory board. In addition, we may be obligated to make a series of contingent milestone payments to Vactech totaling up to an additional $24.5 million upon the achievement of certain clinical development and regulatory filing milestones. In addition, we have agreed to pay Vactech tiered single-digit royalties on net sales of any approved product based on the CVB platform technology and three additional payments totaling $19.0 million upon the achievement of certain annual net sales levels. The Vactech Agreement may be terminated by us on a country by country basis without cause (in which case the exclusive global rights to the technology will transfer back to Vactech) and by either party upon a material breach or insolvency of the other party. If we terminate the agreement with respect to two or more specified European countries, the agreement will be deemed terminated with respect to all of the EU, and if we terminate the agreement with respect to the United States, the agreement will be deemed terminated with respect to all of North America and expires upon the expiration of our last obligation to make royalty payments to Vactech.
+
+37
+--
+
+Janssen License CSF-1R
+ 
+In April 2017, we entered into a License, Development and Commercialization Agreement, pursuant to which Janssen Pharmaceutica NV granted us exclusive global rights for the purpose of developing and commercializing JNJ-40346527 (renamed PRV-6527), a colony stimulating factor 1 receptor (CSF-1R) inhibitor for inflammatory bowel diseases including Crohn’s Disease and UC. We are obligated to conduct a single Phase 2a proof-of-mechanism and proof-of-concept clinical trial for the Crohn’s Disease indication. Janssen will supply product for the clinical trial. At the conclusion of the Phase 2a study, Janssen will have an option to buy back the rights for future development for a one-time payment of $50.0 million and future single-digit royalties on future net sales for a period of 10 years from first sale or expiration of the intellectual property, whichever is shorter. If Janssen does not exercise its option to buy-back the rights, all rights will remain with us and we will be obligated to make contingent milestone payments to Janssen totaling $35.0 million upon the achievement of certain clinical and regulatory milestones for the first indication and an additional $20.0 million upon the achievement of certain clinical and regulatory milestones for a second indication. In addition, we have agreed to pay Janssen tiered single-digit royalties on net sales of any approved product based on the CSF-1R technology and three additional payments totaling $100.0 million upon the achievement of certain annual net sales levels. The CSF-1R License Agreement may be terminated by us without cause (in which case the exclusive global rights to the technology will transfer back to Janssen) and by either party upon a material breach and expires upon the expiration of our last obligation to make royalty payments to Janssen. Janssen will supply drug product for our Phase 2a study. Janssen will also allow us to access their proprietary benchmark data, which includes imaging, tissue and biomarker data.
+Janssen License TLR3
+ 
+In April 2017, we entered into a License, Development and Commercialization Agreement, pursuant to which Janssen Sciences Ireland UC granted us exclusive global rights for the purpose of developing and commercializing JNJ-42915925 (renamed PRV-300), an anti-TLR3 antibody. We will develop PRV-300 for UC and will start a Phase 1b trial in early 2018. Janssen will supply product for the clinical trial. We are obligated to make contingent milestone payments to Janssen totaling $31.0 million upon the achievement of certain clinical and regulatory milestones for the first indication and an additional $17.0 million upon the achievement of certain clinical and regulatory milestones for a second indication. In addition, we have agreed to pay Janssen a single-digit royalty on net sales of any approved product based on the CSF-1R technology and three additional payments totaling $60.0 million upon the achievement of certain annual net sales levels. We are obligated to use commercially reasonable efforts to develop and market TLR3. The TLR3 License Agreement may be terminated by us without cause (in which case the exclusive global rights to the technology will transfer back to Janssen) and by either party upon a material breach or insolvency of the other party and expires upon the expiration of our last obligation to make royalty payments to Janssen. Janssen will supply drug product for the Phase 1b study. Janssen will also allow us to access their proprietary benchmark data, which includes imaging, tissue and biomarker data.
+Intravacc Development Services Agreement
+ 
+In March 2018, we entered into a Development Services Agreement with The Institute of Translational Vaccinology (“Intravacc”), pursuant to which Intravacc will provide services related to process development, non-GMP and GMP manufacturing of our polyvalent coxsackie virus B vaccine (CVB), including providing proprietary technology for manufacturing purposes. We will pay Intravacc approximately 10 million euros for their services over the development and manufacturing period which we expect will last for approximately 18 to 24 months. Each party retains its existing intellectual property and will share newly developed intellectual property via a fully-paid non-exclusive license between the parties for all development work through phase 1 clinical trials. Any future use, including commercial use, of Intravacc’s technology will be subject to a separate nonexclusive license agreement. The Intravacc Development Services Agreement may be terminated by us with ninety days notice without cause and by either party upon a material breach or insolvency of the other party.
+
+38
+--
+
+ 
+
+MacroGenics Agreements
+ 
+In May 2018, we entered into a License Agreement with MacroGenics, Inc., pursuant to which MacroGenics granted us exclusive global rights for the purpose of developing and commercializing MGD010 (renamed PRV-3279), a humanized protein and a potential treatment for SLE and other similar diseases. As partial consideration for the MacroGenics License Agreement, we granted MacroGenics a warrant to purchase 270,299 shares of our common stock at an exercise price of $2.50 per share. We are obligated to make contingent milestone payments to MacroGenics totaling $42.5 million upon the achievement of certain developmental and approval milestones for the first indication, and an additional $22.5 million upon the achievement of certain regulatory approvals for a second indication. In addition, we are obligated to make contingent milestone payments to MacroGenics totaling $225.0 million upon the achievement of certain sales milestones. We have also agreed to pay MacroGenics a single-digit royalty on net sales of the product. Further, we are required to pay MacroGenics a low double-digit percentage of certain consideration to the extent received in connection with a future grant of rights to PRV-3279 by us to a third party. We are obligated to use commercially reasonable efforts to develop and seek regulatory approval for PRV-3279. The license agreement may be terminated by either party upon a material breach or bankruptcy of the other party, by Provention without cause upon prior notice to MacroGenics, and by MacroGenics in the event that we challenge the validity of any licensed patent under the agreement, but only with respect to the challenged patent.
+ 
+In May 2018, we entered into an Asset Purchase Agreement with MacroGenics pursuant to which we acquired MacroGenics’ interest in teplizumab (renamed PRV-031), a humanized mAb for the treatment of T1D. As partial consideration for the MacroGenics Asset Purchase Agreement, we granted MacroGenics a warrant to purchase 2,162,389 shares of our common stock at an exercise price of $2.50 per share. We are obligated to pay MacroGenics contingent milestone payments totaling $170.0 million upon the achievement of certain regulatory approval milestones. In addition, we are obligated to make contingent milestone payments to MacroGenics totaling $225.0 million upon the achievement of certain sales milestones. We have also agreed to pay MacroGenics a single-digit royalty on net sales of the product. We have also agreed to pay third-party obligations, including low single-digit royalties, a portion of which is creditable against royalties payable to MacroGenics, aggregate milestone payments of up to approximately $1.3 million and other consideration, for certain third-party intellectual property under agreements we are assuming pursuant to the Asset Purchase Agreement. Further, we are required to pay MacroGenics a low double-digit percentage of certain consideration to the extent it is received in connection with a future grant of rights to PRV-031 by us to a third party. We are obligated to use reasonable commercial efforts to develop and seek regulatory approval for PRV-031.
+ 
+Amgen License and Collaboration Agreement
+ 
+In November 2018, we entered into a License and Collaboration Agreement (the “Amgen Agreement”) with Amgen, Inc. (“Amgen”) for PRV-015 (formerly AMG 714), a novel anti-IL-15 monoclonal antibody being developed for the treatment of gluten-free diet non-responsive celiac disease (NRCD). Under the terms of the agreement, we will conduct and fund a Phase 2b trial in NRCD and lead the development and regulatory activities for the program. Amgen has agreed to make an equity investment of up to $20.0 million in the Company, subject to certain terms and conditions set forth in the agreement. The equity investment will coincide with our future financing events or receipt of non-dilutive milestone payment from a third party including but not limited to Janssen related to our CSF-1R program. Amgen is also responsible for the manufacturing of PRV-015. Upon completion of the Phase 2b trial, a $150.0 million milestone payment is due from Amgen to us, plus an additional regulatory milestone payment, and single digit royalties on future sales. If Amgen elects not to pay the $150.0 million milestone, AMG 714 rights will be transferred to us pursuant to a termination license agreement from Amgen and us. We will be obligated to make certain contingent milestone payments to Amgen and other third parties totaling up to $70.0 million upon the achievement of certain clinical and regulatory milestones and a low double-digit royalty on net sales of any approved product based on the IL-15 technology. The agreement may be terminated by us without cause (in which case the exclusive global rights to the technology will transfer back to Amgen) and by either party upon a material breach. The agreement expires upon the expiration of Amgen’s last obligation to make royalty payments to Provention (or, our last obligation to make royalty payments to Amgen, if the program rights are transferred to us).
+AGC Biologics Agreement
+ 
+In February 2019, we entered into services agreement with AGC Biologics (“AGC”) to manufacture and supply teplizumab, PRV-031, for our anticipated clinical supply needs. We may terminate the agreement or any statement of work thereunder with approximately12 months’ prior written notice to AGC. If we provide less than 12 months’ notice of termination, we may incur cancellation fee depending on the timing of such notice. AGC may terminate the agreement if we do not, over a specified period, purchase and take delivery from AGC of a specified minimum quantity of API for teplizumab. Each party also has the right to terminate the agreement for other customary reasons such as material breach and bankruptcy. The agreement contains provisions relating to compliance by AGC with current Good Manufacturing Practices, cooperation by AGC in connection with potential marketing applications for PRV-031, indemnification, confidentiality, dispute resolution and other customary matters for an agreement of this kind.
+
+39
+--
+
+Parexel Services Agreement
+ 
+In February 2019, we entered into a services agreement with Parexel pursuant to which we retained Parexel to perform implementation and management services in connection with the PROTECT study of PRV-031. We may terminate the services agreement or any work order for any reason and without cause with 90 days’ written notice. Either party may terminate the agreement in the event of a material breach or, bankruptcy petition by the other party or, if any approval from a regulatory authority is revoked, suspended or expires without renewal. We currently anticipate that aggregate costs relating to all work orders under the Parexel Services Agreement for the PROTECT study will be approximately $43.0 million over the period of the study.
+Intellectual Property
+ 
+We believe that our current patent applications and any future patents and other proprietary rights that we own, or control through licensing, are and will be essential to our business. We believe that these intellectual property rights will affect our ability to compete effectively with others. We also rely and will rely on trade secrets, know-how, continuing technological innovations and licensing opportunities to develop, maintain and strengthen our competitive position. We seek to protect these, in part, through confidentiality agreements with certain employees, consultants, advisors and other parties. Our success will depend in part on our ability, and the ability of our licensor, to obtain, maintain (including making periodic filings and payments) and enforce patent protection for our/their intellectual property, including those patent applications to which we have secured exclusive rights.
+ 
+We plan to spend considerable resources and focus in the future on obtaining U.S. and foreign patents. We have and will continue to actively protect our intellectual property. No assurances can be given that any of our patent applications will result in the issuance of a patent or that the examination process will not require us to narrow our claims. In addition, any issued patents may be contested, circumvented, found unenforceable or invalid, and we may not be able to successfully enforce our patent rights against third parties. No assurance can be given that others will not independently develop a similar or competing technology or design around any patents that may be issued to us. We intend to expand our international operations in the future and our patent portfolio, copyright, trademark and trade secret protections may not be available or may be limited in foreign countries.
+ 
+PRV-300 (TLR3 Antagonist)
+ 
+Through our agreement with Janssen Sciences Ireland UC we have a licensed patent portfolio that includes: i) 135 issued patents, including 8 U.S. patents, 79 patents in European countries, and 48 patents in other ex-U.S. jurisdictions); and ii) 37 pending patent applications, including one pending U.S. patent application, two pending European patent applications, and 34 pending patent applications in other ex-U.S. jurisdictions.
+ 
+These issued patents and patent applications disclose antibodies that bind TLR3 and that function as TLR3 antagonists, and use of these antibodies in treating various disorders, including respiratory disorders, inflammatory conditions, and metabolic disorders, as well as in reduction of cholesterol.
+ 
+The issued patents generally have terms of 20 years from their respective priority filing dates, subject to available extensions, and thus the issued patents are set to expire no earlier than dates ranging from 2029 and 2031. In the event that patents issue based on the pending patent applications, although there can be no assurance that any of the patent application will be granted, such patents would be expected to expire between 2029 and 2031, absent any patent term adjustments or extensions.
+ 
+PRV-101 (CBV/T1D)
+ 
+Through our agreement with Vactech, we have a licensed patent portfolio that includes 3 pending U.S. patent applications and 38 patents in various European countries. The pending U.S. patent applications and the European country patents disclose use of a coxsackie virus B vaccine composition in the prevention or treatment of T1D.
+ 
+The patents issued in the U.S. and various European countries generally have terms of 20 years from their respective priority filing dates, subject to available extensions, and are thus set to expire no earlier than 2032.
+ 
+
+40
+--
+
+ 
+
+PRV-031 (teplizumab anti-CD3 antibody)
+ 
+Through our agreement with MacroGenics, Inc., we have acquired a patent portfolio that includes eight issued patents, including three U.S. patents and five ex-U.S. patents in Australia, Israel, Mexico and Singapore. The issued patents are set to expire no earlier than dates ranging from 2019 and 2028.
+ 
+These issued patents disclose humanized antibodies that bind to CD3, and use of these antibodies in treating autoimmune disorders, including T1D and rheumatoid arthritis.
+ 
+PRV-3279 (CD32B/CD79B diabody)
+ 
+Through our agreement with MacroGenics, Inc., we have a licensed patent portfolio that includes: i) 153 issued patents, including ten U.S. patents, three European patents to be validated, 75 patents in European countries, and 65 patents in other ex-U.S. jurisdictions; and ii) 78 pending patent applications, including eight pending U.S. patent applications, four pending European patent applications, and 66 pending patent applications in other ex-U.S. jurisdictions.
+ 
+The patents and patent applications disclose a platform technology for making diabodies, specific anti-CD32B antibodies, specific anti-CD79B antibodies, specific diabodies that co-ligate both CD32B and CD79B, as well as use of these antibodies and diabodies in treating various disorders, including cancer, autoimmune disorder, inflammatory disorder, and IgE-mediated allergic disorder.
+ 
+The issued patents in the U.S. and various ex-U.S. countries generally have terms of 20 years from their respective priority filing dates, subject to available extensions, and are thus set to expire no earlier than dates ranging from 2023 and 2034. In the event that the pending patent applications issue as patents, although there can be no assurance that the patent applications will issue, the patents would be set to expire no earlier than dates ranging from 2023 and 2037.
+ 
+PRV-6527 (CSF-1R)
+ 
+Through our agreement with Janssen Pharmaceutica NV, we have licensed a patent portfolio that includes: i) 73 issued patents, including one U.S. patent, one patent in European countries, and 71 patents in other ex-U.S. jurisdictions; and ii) three pending patent applications, one pending U.S. patent application, one pending European patent application, and one pending patent applications in other ex-U.S. jurisdictions. The issued patents are set to expire no earlier than dates ranging from 2027 and 2030. In the event that the pending patent applications issue as patents, although there can be no assurance that the patent applications will issue, the patents would be set to expire no earlier than dates ranging from 2027 and 2030.
+ 
+PRV-015 (IL-15)
+ 
+Through our agreement with Amgen, Inc., we have licensed a patent portfolio that includes: i) 78 issued patents, including seven U.S. patents, 42 patents in European countries, and 29 patents in other ex-U.S. jurisdictions; and ii) 18 pending patent applications, including three pending U.S. patent applications, one pending European patent application, and 14 pending patent applications in other ex-U.S. jurisdictions.
+ 
+The patents and patent applications relate to anti-IL-15 antibodies, manufacturing conditions and dosages.
+ 
+The issued patents are set to expire no earlier than dates ranging from 2022 and 2027. In the event that the pending patent applications issue as patents, although there can be no assurance that the patent applications will issue, the patents would be set to expire no earlier than dates ranging from 2026 and 2037.
+ 
+
+41
+--
+
+Sales and Marketing 
+ 
+We are a clinical stage company without a history of revenue or manufacturing, late stage clinical development or marketing experience. Because late stage clinical development, as well as establishing a full manufacturing and distribution structure, is expensive and time consuming, we intend to explore alternative commercialization strategies, including:
+
+● | developing drug candidates through the earlier stages of clinical development with the objectives of rapid, cost effective risk reduction and value creation and then establishing strategic partnership for late stage clinical development and subsequent commercialization; 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | developing a robust pipeline of promising drug candidates at various stages of the development process to establish optionality and regular value inflection opportunities and revenue(s); 
+● | strategically entering into co-development partnership(s) to retain potential for commercialization rights on selected drug candidate(s) and market opportunities; and 
+● | partnering with industry participants to incorporate our technology into new and existing drugs. 
+
+ 
+We expect that partnering with pharmaceutical or biotherapeutic companies may accelerate product acceptance into our target market areas and gain the sales and marketing advantages of the partner’s distribution infrastructure. We intend to continue to strengthen our market position and solidify our leadership position in immunotherapy by continuing to improve our technology, broadening our clinical and therapeutic applications, identifying new clinical and therapeutic applications and forming strategic relationships with our licensors.
+ 
+Manufacturing
+ 
+We do not currently own or operate manufacturing facilities for the production of clinical or commercial quantities of any of our product candidates. Although we rely and intend to continue to rely upon third–party contract manufacturers to produce our products and product candidates, we have recruited personnel and consultants with experience to manage these third–party contract manufacturers. In certain cases, our collaboration partners for each respective program are responsible for providing clinical drug supply or drug product for those program’s clinical trials. In other cases, we have engaged third-party manufacturers to provide services related to process development, non-GMP and GMP manufacturing and other related services.
+ 
+The table below lists the third-party responsible for manufacturing drug supply for each of our programs:
+ 
+
+Product Candidate | Supplier | Party Responsible for Costs 
+----------------------+-------------------------------------------------------------------------------------------------+--------------------------------
+PRV-031 | Existing drug supply – MacroGenics Future drug supply – AGC Biologics | MacroGenics Provention 
+PRV-015 | Amgen | Amgen 
+PRV-6527 | Existing drug supply – Janssen Future drug supply - Janssen | Janssen Provention/Janssen 
+PRV-300 | Existing drug supply – Janssen Future drug supply – to be determined | Janssen Provention 
+PRV-3279 | Existing drug supply – MacroGenics Future drug supply – vendors being evaluated | MacroGenics Provention 
+PRV-101 | Intravacc | Provention 
+
+ 
+See Note 5 to our Financial Statements— License and other agreements for more information.
+ 
+Competition
+ 
+Provention faces substantial competition from well-established large pharmaceutical companies, as well as innovative new entrants. Nevertheless, we believe the company’s strategic intent is sufficiently differentiated in that Provention is focusing on intercepting or potentially preventing the onset and progression of immune-mediated and inflammatory diseases by selecting and developing product candidates that are aimed at relevant and predominantly upstream pathophysiological targets.
+ 
+The symptomatic treatment of T1D is a highly competitive market with large incumbents such as Sanofi, Novo Nordisk and Eli Lilly providing insulin and blood glucose monitoring products and working on new ways to manage the disease. Our goal is to delay or prevent the onset of T1D and spare patients the need to live with blood glucose monitoring and daily insulin injections and this therapy’s many complications and clinically relevant shortfalls. We believe our enteroviral vaccine approach is unique in that it aims to prevent the onset of T1D prior to the rise of auto-antibodies programmed to attack insulin producing beta cells. We are aware of competitive vaccine technologies in development that are attempting to alter the autoimmune cycle once these auto-antibodies have been detected. However, we believe our vaccine approach may intercept the process prior to this cycle being initiated.
+ 
+
+42
+--
+
+ 
+
+The market for IBD (Crohn’s disease and UC) is currently led by large pharmaceutical companies serving the autoimmune market with anti-TNF biologics. Among these companies are AbbVie, Eli Lilly, Johnson & Johnson and Pfizer. New drugs are continually being developed in this highly-competitive space by large pharma and early to mid-stage biotech companies. However, many of these drugs used both for CD and UC- focus on attempting to bring about remission or treating the symptoms of advanced stages of IBD, by neutralizing the inflammatory signals that are released once the immune system has been pathologically activated. Provention is using a novel approach intended to intercept the autoimmune cycle before these inflammatory signals are received and have an opportunity to trigger significant tissue damage. Provention’s drugs target “upstream” mechanisms of action that may provide benefit for a wider patient population, including patients that have already been treated with anti-TNF drugs that failed to adequately or sustainably control their disease. One of our assets is a small molecule intended for oral administration, which is potentially a significant further differentiating factor in Crohn’s disease, a crowded market currently dominated by injectable biologics.
+ 
+The market for lupus is currently led by large pharmaceutical companies commercializing older, off-patent products such as steroids, immunosuppressive agents including azathioprine, cyclosphosphamide, cyclosporine and mycophenolate. In addition, Glaxo SmithKline (GSK) and Roche offer recently approved B cell-targeted agents. GSK received approval for belimumab (Benlysta®) in 2011, the first drug approval in lupus in 50 years. Despite modest efficacy and slow onset of effect, belimumab’s annual sales are currently approximately $600 million. Roche’s rituximab (Rituxan®), a blockbuster drug, is used off-label in lupus despite not having been approved in SLE. The lupus field is competitive and new experimental drugs are being tested in late stage trials by large pharmaceutical companies and early to mid-stage biotech companies and include: the anti-interferon alpha receptor anifrolumab (MedImmune/Astra Zeneca), anti-CD19 XmAb5871 (Xencor) and calcineurin inhibitor voclosporin (Aurinia Pharmaceuticals). We expect that PRV-3279 will be differentiated from the competition because of greater and faster-onset efficacy, better safety (PRV-3279 does not deplete B cells and is not expected to be immune-suppressive), and less gastrointestinal side effects (since PRV-3279 is a highly specific mAb with likely minimal off-target side effects).
+ 
+PRV-015 has the potential to be the first drug ever approved for celiac disease since it is the only medication which has shown simultaneous improvement in symptoms and inflammation to date, and since most clinical-stage products are early in development and have not established proof-of-concept. Competition includes experimental medications in development by Innovate (INN-202/larazotide acetate, Phase 2b study completed in 2014; Phase 3 announced), ImmunogenX (IMGX-003/latiglutenase, Phase 2b study completed in 2016 missed primary endpoint, phase 2a announced), ImmusanT (NexVax 2, phase 2a on-going), Zedira/Dr. Falk (ZED1227, phase 2a on-going), Cour (NP-GLI, Phase 1/2 on-going) and PvP Biologics (KumaMax, Phase 1 on-going).
+ 
+Government Regulation
+ 
+Our business activities, including the manufacturing, research, development and marketing of our product candidates, are subject to extensive regulation by numerous governmental authorities in the United States and other countries. Before marketing in the United States, any new drug developed by us or our collaborators must undergo rigorous preclinical testing, clinical trials and an extensive regulatory clearance process implemented by the United States Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act, as amended. The FDA regulates, among other things, the development, testing, manufacture, safety, efficacy, record keeping, labeling, storage, approval, advertising, promotion, import, export, sale and distribution of biopharmaceutical products. The regulatory review and approval process, which includes preclinical testing and clinical trials of each product candidate, is lengthy, expensive and uncertain. Moreover, government coverage and reimbursement policies will both directly and indirectly impact our ability to successfully commercialize any future approved products, and such coverage and reimbursement policies will be impacted by enacted and any applicable future healthcare reform and drug pricing measures. In addition, we are subject to state and federal laws, including, among others, anti-kickback laws, false claims laws, data privacy and security laws, and transparency laws that restrict certain business practices in the pharmaceutical industry.
+
+43
+--
+
+ 
+
+In the United States, drug product candidates intended for human use undergo laboratory and animal testing until adequate proof of safety is established. Clinical trials for new product candidates are then typically conducted in humans in three sequential phases that may overlap. Phase 1 trials involve the initial introduction of the product candidate into healthy human volunteers. The emphasis of Phase 1 trials is on testing for safety or adverse effects, dosage, tolerance, metabolism, distribution, excretion and clinical pharmacology. Phase 2 involves studies in a limited patient population to determine the initial efficacy of the compound for specific targeted indications, to determine dosage tolerance and optimal dosage, and to identify possible adverse side effects and safety risks. Once a compound shows evidence of effectiveness and is found to have an acceptable safety profile in Phase 2 evaluations, Phase 3 trials are undertaken to more fully evaluate clinical outcomes. Before commencing clinical investigations in humans, we or our collaborators must submit an Investigational New Drug Application (IND) to the FDA.
+
+
+Regulatory authorities, Institutional Review Boards and Data Monitoring Committees may require additional data before allowing clinical studies to commence, continue or proceed from one phase to another, and could demand that studies be discontinued or suspended at any time if there are significant safety issues. We have in the past and may in the future rely on assistance from our third-party collaborators and contract service providers to file our INDs and generally support our development and regulatory activities approval process for our potential products. Clinical testing must also meet requirements for clinical trial registration, institutional review board oversight, informed consent, health information privacy, and good clinical practices, or GCPs. Additionally, the manufacture of our drug product, must be done in accordance with current good manufacturing practices (GMPs).
+ 
+To establish a new product candidate’s safety and efficacy, the FDA requires companies seeking approval to market a drug product to submit extensive preclinical and clinical data, along with other information, for each indication for which the product will be labeled. The data and information are submitted to the FDA in the form of a New Drug Application (NDA), or Biologics License Application (BLA) which must be accompanied by payment of a significant user fee unless a waiver or exemption applies. Generating the required data and information for regulatory approval takes many years and requires the expenditure of substantial resources. Information generated in this process is susceptible to varying interpretations that could delay, limit or prevent regulatory approval at any stage of the process. The failure to demonstrate adequately the quality, safety and efficacy of a product candidate under development would delay or prevent regulatory approval of the product candidate. Under applicable laws and FDA regulations, each NDA or BLA submitted for FDA approval is given an internal administrative review within 60 days following submission of the NDA or BLA. If deemed sufficiently complete to permit a substantive review, the FDA will “file” the NDA or BLA. The FDA can refuse to file any NDA and BLA that it deems incomplete or not properly reviewable. The FDA has established internal goals of eight months from submission for priority review of NDAs or BLAs that cover product candidates that offer major advances in treatment or provide a treatment where no adequate therapy exists, and 12 months from submission for the standard review of NDAs and BLAs. However, the FDA is not legally required to complete its review within these periods, these performance goals may change over time and the review is often extended by FDA requests for additional information or clarification. Moreover, the outcome of the review, even if generally favorable, may not be an actual approval but a “complete response letter” that describes additional work that must be done before the NDA or BLA can be approved. Before approving an NDA or BLA, the FDA can choose to inspect the facilities at which the product is manufactured and will not approve the product unless the manufacturing facility complies with GMPs. The FDA may also audit sites at which clinical trials have been conducted to determine compliance with GCPs and data integrity. The FDA’s review of an NDA or BLA may also involve review and recommendations by an independent FDA advisory committee, particularly for novel indications. The FDA is not bound by the recommendation of an advisory committee.
+ 
+In addition, delays or rejections may be encountered based upon changes in regulatory policy, regulations or statutes governing product approval during the period of product development and regulatory agency review.
+ 
+Before receiving FDA approval to market a potential product, we or our collaborators must demonstrate through adequate and well-controlled clinical studies that the potential product is safe and effective in the patient population that will be treated. In addition, under the Pediatric Research Equity Act, or PREA, an NDA or BLA or supplement thereto must contain data to assess the safety and effectiveness of the drug for the claimed indications in all relevant pediatric subpopulations and to support dosing and administration for each pediatric subpopulation for which the product is safe and effective, unless a waiver applies. If regulatory approval of a potential product is granted, this approval will be limited to those disease states and conditions for which the product is approved. Marketing or promoting a drug for an unapproved indication is generally prohibited. Furthermore, FDA approval may entail ongoing requirements for risk management, including post-marketing, or Phase 4, studies. Even if approval is obtained, a marketed product, its manufacturer and its manufacturing facilities are subject to payment of significant annual fees and continuing review and periodic inspections by the FDA. Discovery of previously unknown problems with a product, manufacturer or facility may result in restrictions on the product or manufacturer, including labeling changes, warning letters, costly recalls or withdrawal of the product from the market.
+ 
+
+44
+--
+
+ 
+
+Any drug is likely to produce some toxicities or undesirable side effects in animals and in humans when administered at sufficiently high doses and/or for sufficiently long periods of time. Unacceptable toxicities or side effects may occur at any dose level at any time in the course of studies in animals designed to identify unacceptable effects of a product candidate, known as toxicological studies, or during clinical trials of our potential products. The appearance of any unacceptable toxicity or side effect could cause us or regulatory authorities to interrupt, limit, delay or abort the development of any of our product candidates. Further, such unacceptable toxicity or side effects could ultimately prevent a potential product’s approval by the FDA or foreign regulatory authorities for any or all targeted indications or limit any labeling claims and market acceptance, even if the product is approved.
+ 
+In addition, as a condition of approval, the FDA may require an applicant to develop a Risk Evaluation and Mitigation Strategy, or REMS. A REMS uses risk minimization strategies beyond the professional labeling to ensure that the benefits of the product outweigh the potential risks. To determine whether a REMS is needed, the FDA will consider the size of the population likely to use the product, seriousness of the disease, expected benefit of the product, expected duration of treatment, seriousness of known or potential adverse events, and whether the product is a new molecular entity. REMS can include medication guides, physician communication plans for healthcare professionals, and elements to assure safe use (ETASU). ETASU may include, but are not limited to, special training or certification for prescribing or dispensing, dispensing only under certain circumstances, special monitoring, and the use of patient registries. The FDA may require a REMS before approval or post-approval if it becomes aware of a serious risk associated with use of the product. The requirement for a REMS can materially affect the potential market and profitability of a product.
+ 
+Any trade name that we intend to use for a potential product must be approved by the FDA irrespective of whether we have secured a formal trademark registration from the U.S. Patent and Trademark Office. The FDA conducts a rigorous review of proposed product names and may reject a product name if it believes that the name inappropriately implies medical claims or if it poses the potential for confusion with other product names. The FDA will not approve a trade name until the NDA or BLA for a product is approved. If the FDA determines that the trade names of other products that are approved prior to the approval of our potential products may present a risk of confusion with our proposed trade name, the FDA may elect to not approve our proposed trade name. If our trade name is rejected, we will lose the benefit of any brand equity that may already have been developed for this trade name, as well as the benefit of our existing trademark applications for this trade name.
+ 
+We and our collaborators and contract manufacturers also are required to comply with the applicable FDA GMP regulations. GMP regulations include requirements relating to quality control and quality assurance as well as the corresponding maintenance of records and documentation. Manufacturing facilities are subject to inspection by the FDA. These facilities must be approved before we can use them in commercial manufacturing of our potential products and must maintain ongoing compliance for commercial product manufacture. The FDA may conclude that we or our collaborators or contract manufacturers are not in compliance with applicable GMP requirements and other FDA regulatory requirements, which may result in delay or failure to approve applications, warning letters, product recalls and/or imposition of fines or penalties.
+ 
+If a product is approved, we must also comply with post-marketing requirements, including, but not limited to, compliance with advertising and promotion laws enforced by various government agencies, including the FDA’s Office of Prescription Drug Promotion, through such laws as the Prescription Drug Marketing Act, federal and state anti-fraud and abuse laws, including anti-kickback and false claims laws, healthcare information privacy and security laws, post-marketing safety surveillance, and disclosure of payments or other transfers of value to healthcare professionals and entities. In addition, we are subject to other federal and state regulation including, for example, the implementation of corporate compliance programs.
+ 
+If we elect to distribute our products commercially, we must comply with state laws that require the registration of manufacturers and wholesale distributors of pharmaceutical products in a state, including, in certain states, manufacturers and distributors who ship products into the state even if such manufacturers or distributors have no place of business within the state. Some states also impose requirements on manufacturers and distributors to establish the pedigree of product in the chain of distribution, including some states that require manufacturers and others to adopt new technology capable of tracking and tracing product as it moves through the distribution chain.
+ 
+
+45
+--
+
+ 
+
+Outside of the United States, our ability to market a product is contingent upon receiving a marketing authorization from the appropriate regulatory authorities, including the European Medicines Agency. The requirements governing the conduct of clinical trials, marketing authorization, pricing and reimbursement vary widely from country to country. At present, foreign marketing authorizations are applied for at a national level, although within the European Community (EC), centralized registration procedures are available to companies wishing to market a product in more than one EC member state. If the regulatory authority is satisfied that adequate evidence of safety, quality and efficacy has been presented, marketing authorization will be granted. This foreign regulatory development and approval process involves all of the risks associated with achieving FDA marketing approval in the U.S. as discussed above. In addition, foreign regulations may include applicable post-marketing requirements, including safety surveillance, anti-fraud and abuse laws, and implementation of corporate compliance programs and reporting of payments or other transfers of value to healthcare professionals and entities.
+ 
+Reimbursement
+ 
+Potential sales of any of our product candidates, if approved, will depend, at least in part, on the extent to which such products will be covered by third-party payors, such as government health care programs, commercial insurance and managed healthcare organizations. These third-party payors are increasingly limiting coverage and/or reducing reimbursements for medical products and services. A third-party payor’s decision to provide coverage for a drug product does not imply that an adequate reimbursement rate will be approved. Further, one payor’s determination to provide coverage for a drug product does not assure that other payors will also provide coverage for the drug product. In addition, the U.S. government, state legislatures and foreign governments have continued implementing cost-containment programs, including price controls, restrictions on reimbursement and requirements for substitution of generic products. Adoption of price controls and cost-containment measures, and adoption of more restrictive policies in jurisdictions with existing controls and measures, could further limit our future revenues and results of operations. Decreases in third-party reimbursement or a decision by a third-party payor to not cover a product candidate, if approved, or any future approved products could reduce physician usage of our products, and have a material adverse effect on our sales, results of operations and financial condition.
+ 
+In the United States, the Medicare Part D program provides a voluntary outpatient drug benefit to Medicare beneficiaries for certain products. We do not know whether our product candidates, if approved, will be eligible for coverage under Medicare Part D, but individual Medicare Part D plans offer coverage subject to various factors such as those described above. Furthermore, private payors often follow Medicare coverage policies and payment limitations in setting their own coverage policies.
+ 
+Healthcare Laws and Regulations
+ 
+Sales of our product candidates, if approved, or any other future product candidate will be subject to healthcare regulation and enforcement by the federal government and the states and foreign governments in which we might conduct our business. The healthcare laws and regulations that may affect our ability to operate include the following:
+
+● | The federal Anti-Kickback Statute makes it illegal for any person or entity to knowingly and willfully, directly or indirectly, solicit, receive, offer, or pay any remuneration that is in exchange for or to induce the referral of business, including the purchase, order, lease of any good, facility, item or service for which payment may be made under a federal healthcare program, such as Medicare or Medicaid. The term “remuneration” has been broadly interpreted to include anything of value. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Federal false claims and false statement laws, including the federal civil False Claims Act, prohibits, among other things, any person or entity from knowingly presenting, or causing to be presented, for payment to, or approval by, federal programs, including Medicare and Medicaid, claims for items or services, including drugs, that are false or fraudulent. 
+● | The U.S. federal Health Insurance Portability and Accountability Act of 1996 (HIPAA) created additional federal criminal statutes that prohibit among other actions, knowingly and willfully executing, or attempting to execute, a scheme to defraud any healthcare benefit program, including private third-party payors or making any false, fictitious or fraudulent statement in connection with the delivery of or payment for healthcare benefits, items or services. 
+● | HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act of 2009 (HITECH) and their implementing regulations, impose obligations on certain types of individuals and entities regarding the electronic exchange of information in common healthcare transactions, as well as standards relating to the privacy and security of individually identifiable health information. 
+
+
+46
+--
+
+
+● | The federal Physician Payments Sunshine Act requires certain manufacturers of drugs, devices, biologics and medical supplies for which payment is available under Medicare, Medicaid or the Children’s Health Insurance Program, with specific exceptions, to report annually to CMS information related to payments or other transfers of value made to physicians and teaching hospitals, as well as ownership and investment interests held by physicians and their immediate family members. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Also, many states have similar laws and regulations, such as anti-kickback and false claims laws that may be broader in scope and may apply regardless of payor, in addition to items and services reimbursed under Medicaid and other state programs. Additionally, we may be subject to state laws that require pharmaceutical companies to comply with the federal government’s and/or pharmaceutical industry’s voluntary compliance guidelines, state laws that require drug manufacturers to report information related to payments and other transfers of value to physicians and other healthcare providers or marketing expenditures, as well as state and foreign laws governing the privacy and security of health information, many of which differ from each other in significant ways and often are not preempted by HIPAA.
+ 
+Additionally, to the extent that our product is sold in a foreign country, we may be subject to similar foreign laws.
+ 
+Segments and Geographic Information
+ 
+Operating segments are defined as components of an enterprise about which separate discrete information is available for evaluation by the chief operating decision maker, or decision making group, in deciding how to allocate resources and in assessing performance. The Company views its operations and manages its business in one operating and reporting segment.
+Employees
+ 
+As of March 1, 2019, we had 13 full-time employees. We are a virtual company and all of our employees work remotely. None of our employees are represented by a labor union or covered by a collective bargaining agreement, and we believe our relationship with our employees is good. Additionally, we utilize independent contractors and other third parties to assist with various aspects of our drug and product development.
+Our Corporate Information
+ 
+We were incorporated under the laws of the State of Delaware in 2016. We are a virtual company and do not own or lease any office space. We maintain a mailing address at P.O. Box 666, Oldwick, NJ 08858 and our telephone number is (908) 336-0360. Our Internet website is http://www.proventionbio.com.
+Available Information
+ 
+We make available free of charge through our website our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Exchange Act. We make these reports available through our website as soon as reasonably practicable after we electronically file such reports with, or furnish such reports to, the SEC. Please call the SEC at 1-800-SEC-0330 for more information about the operation of the SEC’s public reference room. You can review our electronically filed reports and other information that we file with the SEC on the SEC’s web site at http://www.sec.gov. We also make available, free of charge on our website, the reports filed with the SEC by our executive officers, directors and 10% stockholders pursuant to Section 16 under the Exchange Act as soon as reasonably practicable after copies of those filings are provided to us by those persons. The information contained on, or that can be accessed through, our website is not a part of or incorporated by reference in this Annual Report on Form 10-K.
+
+47
+--
+

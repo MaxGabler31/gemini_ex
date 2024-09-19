@@ -1,0 +1,210 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS
+INTRODUCTION
+ 
+
+Qualstar Corporation and its Subsidiaries (“Qualstar”, the “Company”, “we”, “us” or “our”) is organized into two strategic business segments, power solutions and data storage systems. Qualstar is a leading provider of data storage systems marketed under the Qualstar brand and of high efficiency and high-density power solutions marketed under the N2Power brand. Qualstar Corporation was incorporated in California in 1984 and operates four wholly-owned subsidiaries. N2Power, Inc. was formed in 2017 to operate the Company’s power supply business. Qualstar Corporation Singapore Private Limited (“QC Singapore”) was created in 2014 to give the Company an engineering footprint in Singapore and better service our contract manufacturers and our Asian distribution partners and customers. On July 4, 2018, a wholly-owned subsidiary of Qualstar Corporation, Qualstar Limited, was created to operate the Company’s data storage business in Europe and Africa and on September 5, 2018, a wholly-owned subsidiary of Qualstar Corporation, Q-Smart Data Private Limited, was created to operate the Company’s data storage business in Asia.
+ 
+Qualstar’s N2Power branded power solutions products provide unique power solutions to original equipment manufacturers (“OEMs”) for a wide range of markets, including communications networking, industrial, gaming, test equipment, LED/lighting, medical as well as other market applications. Data storage system products include highly scalable automated magnetic tape-based storage solutions used to store, retrieve and manage electronic data primarily in the network computing environment and to provide solutions for organizations requiring backup, recovery and archival storage of critical electronic information.
+ 
+Our storage products provide data protection and archive storage systems which are used to record, retrieve and manage electronic data, primarily in networked computing environments.  Our storage products are compatible with a wide range of storage management software solutions such as those offered by QStar, Xendata, IBM, EMC, CommVault and Veritas.  We offer products addressing the storage needs of the small and medium-size business market, as well as to the enterprise market. In addition to storage products, we offer service and support programs for our customers. 
+ 
+Our N2Power products provide high-efficiency and high-density AC/DC and DC/DC power solutions for a variety of applications including gaming products and data center technologies such as switches, routers, data storage, servers and networking communications equipment.   With a wide variety of feature-rich standard products and the ability to create custom and semi-custom products, we offer a comprehensive product line to OEMs that require high-value, high-efficiency power supplies to meet specific applications.
+ 
+We sell our products globally through authorized resellers and directly to OEMs. N2Power utilizes contract manufacturers in Asia to produce our power solutions products. Our storage products are manufactured by us at our factory in Simi Valley, California and by our OEM suppliers in other parts of the world.  
+ 
+ 3
+
+
+
+DATA STORAGE INDUSTRY
+ 
+ Background
+
+The data protection and archival storage markets are comprised of a few large suppliers and a number of medium and smaller companies that offer specialized products and capacity ranges.  Solutions include both disk based and tape-based systems and related software.
+ 
+The proliferation of digital data, e-commerce, big data, digital media streaming, and advanced software applications has created exponential growth in the production of digital information.  As regulators and companies require the longer retention of and access to archived data, the market for products to store that data cost-effectively is needed.  We believe this trend will drive continued demand for tape-based data storage products.
+ 
+Strategy
+ 
+Our primary objective in our storage business is to be a global leader in highly scalable, cost effective data protection and archival storage for the information technology markets.  To achieve this objective, we plan to:
+
+● | Continue to expand our sales channels and geographies. We have begun to accelerate the promotion of Qualstar storage solutions on a global basis and will continue to add resellers outside the US in addition to adding new US resellers. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Launch effective marketing campaigns which will increase market awareness of the Qualstar brand as well as reinforce tape’s role within the storage arena. We plan on advertising in select industry vertical markets highlighting the storage solutions Qualstar provides for those sectors. We also plan on attending trade shows with our partners in order to leverage both their coverage of their markets and their branding in the marketplace. 
+● | Produce expandable storage solutions that deliver scalability within the data center and more effective capital spending for our customers. Expandability is a key requirement for many customers who are dealing with rapidly growing capacity needs on a regular basis. Expandability enables customers to easily and quickly add more storage while providing a cost-effective solution that can be readily budgeted during their planning cycles. 
+● | Expand our product line through private label offerings. We will continue to partner with other designers and manufacturers to offer private label products. In this way, we can provide customers with a broad product offering that expands beyond the product choices they have today. 
+● | Explore adjacent technologies to expand our functionality and footprint in the IT market. Historically we have been focused on products using magnetic tape as the media in our systems and on automating the loading, unloading and storage of the media. We will explore partnerships with software and disk manufacturers where reasonable to offer a complete data storage solution. 
+● | Expand our cost effective, service and support programs in international markets. We will investigate enhancing our service and support programs in international markets as we expand product sales in those regions. 
+
+Our Storage Solutions 
+
+Today’s Linear Tape-Open (“LTO”) based data storage solutions yield a compelling outcome for organizations struggling to cope with fast growing data, reliable data retention and budgetary pressure. Qualstar offers LTO based data storage devices for various vertically focused business units, including but not limited to, media and entertainment, oil and gas, high performance computing, education, telecom and life sciences.
+ 
+ 4
+
+
+
+We design, develop, manufacture and market storage products which deliver cost effective data protection and archival storage to small and medium sized businesses, and to more complex small and medium enterprise environments with stringent performance and data availability requirements.  We provide a wide range of storage solutions that span data storage capacities.
+ 
+Q Series - Tape based data storage devices
+ 
+Qualstar offers a full range of entry level and mid-range data storage solutions for customers ranging from 10 Terabytes to 6.72 Petabytes. Our Q1 appliance offers an all-in-one solution for on-location data storage needs where as our Q24, Q48 and scalable Q80 tape libraries satisfy the required data storage capacities as well as data transfer rates of entry level and mid-range customers.
+ 
+RLS Series - Tape based data storage devices
+ 
+These are our “Simply Reliable” robust tape libraries that are designed and manufactured in the United States to satisfy the data storage needs of mid-range customers. With built-in library enabled encryption, individual robots in each cabinet and elevator mechanism to transfer cartridges from one cabinet to other, these tape libraries offer robust data protection at a low cost of ownership. Ranging from 50 to 474 slots, using LTO 8 tape technology these libraries offer between 600 Terabytes and 5.69 Petabytes of data storage capacity and up to a 23.8 Terabytes per hour data transfer rate.
+ 
+XLS Series - Enterprise Class Tape based storage devices
+ 
+XLS is Qualstar’s highly modular enterprise library system delivering intelligence, density, flexibility, scalability, and ease of use, coupled with our reliability and value. XLS features Compass Architecture™, an advanced robotics design that yields superior reliability and density. XLS can be expanded from 435 tapes in easy increments to over 11,700 tapes to offer more than 140 Petabytes of data storage capacity. Our unique LRM (Library Resource Module) and MEM (Media Expansion Module) combination allows maximum density of 1368 Terabytes per sq. foot.
+ 
+
+POWER SUPPLY INDUSTRY
+ Background
+ 
+The power supply industry is comprised of a few large suppliers and a vast number of smaller companies that focus on specialized products and markets.  Currently, the power solutions market for our N2Power brand products include the Servers, Storage and Network (“SSN”), Industrial and Transportation (“IND”), Network Power Systems (“NPS”), Medical, Gaming and LED/Lighting markets.
+ 
+We believe the following key trends will continue to drive demand for our power solutions products:
+ 
+
+● | Increasing amounts of power required by the communications infrastructure industry. The proliferation of data centers and their related infrastructures, the internet, wireless communications, broadband applications, server and storage farms and other new technologies have increased exponentially the amount of information transmitted. As a result, the push for higher bandwidth and more efficient and effective power solutions has been driving a faster replacement cycle for telecommunications equipment as well as strong infrastructure expansion. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Increasing demand for high conversion efficiencies, high power density and digital power management. Efforts in the EU, the United States and Asia to reduce energy consumption are increasing the demand for high conversion efficiencies and digital power control. In addition, groups such as the Climate Savers Computing Initiative, consisting of a consortium of companies including Google and Intel and other eco-conscious businesses and conservation organizations are promoting the development, deployment and adoption of smart technologies that can both improve the efficiency of a computer’s power utilization and reduce the energy consumed when the computer is in an inactive state. Because a large portion of electrical energy waste occurs during the power conversion process, power companies have an opportunity to improve the conversion efficiency to reduce the operating costs for the end user. Our AC/DC power supplies provide conversion efficiency ratings up to 93%. Our digital power control technologies allow us to achieve high levels of power conversion efficiency and control that are not possible with analog designs. Higher conversion efficiencies help reduce overall power usage and therefore cut greenhouse gas emissions and total cost of infrastructure ownership. 
+
+ 
+ 5
+
+
+
+Strategy
+ 
+Our primary objective in our power supply business is to be a global leader in high-efficiency, high-density power solutions for the data center equipment, medical, gaming, test equipment, transportation, industrial and telecommunications network power markets.  To achieve this objective, we plan to:
+
+● | Continue to expand our sales channels and geographies. We promote the N2Power brand on a global basis and are targeting larger OEMs and distributers who have a presence in markets and geographies that we do not currently serve. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Continue to increase volume with our current OEM customers. Our OEM customers are constantly changing their products and introducing new products. We are striving to become the supplier of choice within our OEM customer base to leverage our existing relationships and drive volume growth within the same sales channel. 
+● | Continue to expand our footprint in the current markets we serve. We are currently supporting the data center equipment, medical, gaming, test equipment, transportation, industrial and telecommunications systems markets. We have secured several sizable OEM customers and are aiming to add new OEM customers in these markets. 
+● | Expand our product line while continuing to drive for higher power levels and greater conversion efficiencies in a smaller footprint. Minimizing space requirements within our customers’ products is critical, and as a result there is a continuing need for smaller packaging while delivering additional power. Our product roadmap addresses these needs and our objective is to lead the industry with the greatest efficiency in the smallest footprint with the highest power available. In this way, we can deliver advantages to our OEM customers as they leverage our technology in their product designs. 
+● | Expand our product line through private label offerings. We have identified a need for utilizing other manufacturers’ core products to complement our own, where we lack products in specific markets or power levels. To achieve this, we will utilize our relationships with other power solutions manufacturers. 
+● | Organize our technology resources for fast time to market on derivative products. Our customers continually request derivative configurations to our existing products. In order to serve this market effectively, we are organizing our engineering resources for fast turnaround on these designs to shorten our OEM customers’ design cycle, leading to faster time to market. 
+
+Our Power Solution Products
+ 
+We design, develop, manufacture and market our power solution products, whose purpose is to convert, regulate, purify, manage or distribute electrical power for electronic equipment. Our products are used in a variety of applications and generally convert AC current from the power grid to DC current, or modify the voltage being delivered (DC to DC).  We typically target markets where high efficiency and power density are important to our customers.
+ 
+ 6
+
+
+
+We sell standard, modified-standard and custom designed products.  Standard products are sold unmodified to our customers. Modified-standard products are based on lightly modified versions of standard products. Custom products are designed specifically to the customer’s specification and are not generally sold to other customers. Custom products may require non-recurring engineering and tooling costs to bring the product to production. With our core competencies in both power and mechanical design, we are an Optimized Power Systems Manufacturer (OPSM), offering complete custom power assemblies that eliminate the need for our customers to purchase additional components to integrate our power supplies into their products.
+ 
+N2Power continues to develop products, such as:
+ 
+
+● | The XL270 has a footprint of only 4” x 2” one of the most compact 270-Watt supplies on the market. This model offers outputs of 12, 24, 30, 48 and 56 Volts along with a 5Watt/5Volt standby output and a 6 Watt/12 Volt auxiliary output, with current sharing capabilities.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The XLM240 is a multi-purpose product that is certified for use in both IT and medical equipment. It offers 240 Watts of output cooled by a 10-cu. ft. minute fan, or 160 Watts with unobstructed convection cooling. The product is ultra-compact and is offered with 12, 15, 24 and 48-volt outputs.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The XLM500 is certified for use in both IT and medical equipment. This unit has a footprint of 5” x 3” delivering up to 500 Watts. The model is offered in 12, 15, 24, and 48 Volt outputs and can be in an open-frame or U-frame.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CUSTOMERS
+
+Our solution-focused product offerings are designed specifically for OEMs, information technology departments, and lower and middle market companies. We sell our storage products through our worldwide authorized distributor and reseller network. Power supplies are sold through distributors and direct through independent outside sales representatives. All of our products and services are designed and manufactured to address our customers’ stringent requirements and reliability standards. The following provides additional detail on our channels: 
+
+● | Storage Reseller channel. Our reseller channel includes systems integrators, value added resellers (“VARs”) and value-added distributors (“VADs”). Our resellers frequently package our products as part of a comprehensive data processing system or with other storage devices to deliver a complete storage subsystem. Our resellers frequently recommend our products as replacement solutions when backup and archive systems are upgraded or bundle our products with storage management software specific to the end user's system. We support the reseller channel through our dedicated field sales representatives and technical support technicians.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Storage OEM channel. OEM customers incorporate our storage products with their application software and other components to deliver a focused solution. Our products may or may not carry our label. 
+● | N2Power OEM channel. We have supply agreements with our major power supply customers who incorporate our products into their server, gaming, network and industrial product offerings. 
+
+ 
+ We divide our worldwide sales into three geographical regions:
+ 
+
+● | Americas, consisting of Mexico, United States, Canada and South America;
+--+-------------------------------------------------------------------------
+● | EMEA, consisting of Europe, the Middle East and Africa; and 
+● | APAC, consisting of Asia Pacific countries. 
+
+ 
+ 7
+
+
+
+We support our customers in the Americas primarily through a network of trained distribution partners and representatives located throughout the Americas. We support our EMEA, APAC and other foreign customers through our distributors and resellers located throughout these regions.
+ 
+Sales to customers outside the United States represent a significant portion of our sales. International sales are subject to various risks and uncertainties. See "Risk Factors" in Part I, Item 1A of this report. The following table sets forth foreign revenue by geographic area ($ in thousands):
+ 
+
+ | Twelve Months Ended December 31, | 
+-----------------------------------------------------+-----------------------------------+------
+ | 2018 | | | 2017 | 
+Foreign revenue: | | | | | | | 
+EMEA | $ | 1,849 | | | $ | 1,910 | 
+APAC | | 3,276 | | | | 1,878 | 
+Other foreign revenue | | 147 | | | | 224 | 
+ | $ | 5,272 | | | $ | 4,012 | 
+Foreign revenue as a percentage of total net revenue | | 43.1 | % | | | 37.7 | %
+
+ 
+We provide a full range of marketing materials for branded products, including product specifications, sales literature and application notes. We also offer lead generation opportunities to key channel partners. Our sales management and engineering personnel provide support to the channel partners and visit potential customer sites to demonstrate the technical advantages of our products. We maintain press relations in the United States, and we participate in trade shows worldwide.
+ 
+CUSTOMER SERVICE AND SUPPORT
+ 
+Customer service and support are key elements of our company strategy and critical components of our commitment to making enterprise-class support and services available to companies of all sizes. Our technical support staff is trained to assist our customers with deployment and compatibility for any combination of hardware platforms, operating systems and backup, data protection and storage management software. Our application engineers assist with complex customer issues. We maintain global toll-free service and support phone lines and we also provide self-service and support through our website and email.
+ 
+ Standard warranties include:
+ 
+
+● | Three-year standard limited warranty on our RLS and XLS tape library products; 
+--+---------------------------------------------------------------------------------------------------------------------------
+● | Two-year standard limited warranty on our “Q-Series” products; 
+● | Optional 24x7 or next business day onsite service on our data storage products in many countries throughout the world; and
+● | Three-year return to factory warranty on our N2Power products. 
+
+ENGINEERING
+
+Our power supply engineering team work to improve our current products and create new products. Our engineers work closely with our customers to incorporate modifications for their specific project requirements.
+ 
+ 8
+
+
+
+Our engineering efforts encompass both the USA and Singapore.  We have also formed strategic partnerships for supplementary engineering resources with third party companies in Europe and Asia to capture additional state-of-the-art technology driven power designs.  Growing our engineering both internally and externally will allow us to increase our product breadth by releasing more standard and modified standard power solution products in the future.
+ 
+We incurred engineering costs of $0.5 million for both of the twelve months ended December 31, 2018 and 2017, representing 4.1%, and 5.0% of net revenues, respectively.
+ 
+MANUFACTURING AND SUPPLIERS
+ 
+We perform product assembly, integration and testing for our storage products at our factory in Simi Valley, California. Our private label storage products are manufactured in various geographical locations by a select group of suppliers. Our N2Power branded products are manufactured in China at specifically qualified contract manufacturers.  We purchase tape drives, chassis, printed circuit boards, integrated circuits, and all other major components from outside suppliers. We carefully select suppliers based on their ability to provide quality parts and components which meet technical specifications and volume requirements. We actively monitor these suppliers but we are subject to substantial risks associated with the performance of our suppliers. For certain components, we qualify a single source, which magnifies the risk of shortages and decreases our ability to negotiate with that supplier. See "If our suppliers fail to meet our component and manufacturing needs, it would delay our production and our product shipments to customers and negatively affect our operations" under the heading "Risk Factors" in Part I, Section 1A of this report. 
+COMPETITION
+
+The worldwide storage market is highly competitive. Competitors vary in size from small start-ups to large multi-national corporations which may have substantially greater financial, engineering and marketing resources than us. In the tape automation market, we believe our primary competitors are International Business Machines Corporation ("IBM"), Oracle/StorageTek, Dell Inc., Hewlett Packard, Overland Storage, Spectra Logic and Quantum Corporation. Key competitive factors include product features, reliability, durability, scalability and price. Barriers to entry in tape automation are relatively high as this is an established industry that is capital intensive.
+ 
+Our primary power supply competitors are Artesyn, TDK Lambda, XP Power and Bel Power. Key competitive factors in these markets include price, performance, functionality, availability, interoperability, connectivity, time to market, enhancements and total value of ownership. Barriers to entry for power supply products are high as the industry is capital intensive. 
+ 
+The markets for all of our products are characterized by significant price competition and we anticipate that our products will continue to face substantial pricing pressure.
+
+INTELLECTUAL PROPERTY
+
+We rely on a combination of trademark, trade secret and other intellectual property laws to protect our proprietary rights. Despite our efforts to protect our proprietary rights, competition in our businesses is significant. We believe that, because of the rapid pace of technological change in the tape storage and power supply industries, patent, copyright, trademark and trade secret protection are less significant than factors such as market responsiveness, knowledge, ability and the experience of our personnel as well as timely new product introductions. 
+ 
+We enter into Employee Proprietary Information and Inventions Agreements with all employees and consultants to protect our technology and designs. 
+ 
+ 9
+
+
+
+EMPLOYEES
+
+As of December 31, 2018, we had 20 employees worldwide, 18 full-time and 2 part-time. We also employ a small number of consultants and temporary employees as needed. We are not a party to any collective bargaining agreement or other similar agreement. We believe that we have a good relationship with our employees. 
+AVAILABILITY OF SEC FILINGS
+
+We are subject to the informational requirements of the Securities Exchange Act of 1934. Therefore, we file periodic reports, proxy statements and other information with the SEC. Such reports, proxy statements and other information may be obtained by visiting the Public Reference Room of the SEC at 100 F Street N.E., Washington, D.C. 20549 or by calling the SEC at 1-800-SEC-0330. In addition, the SEC maintains an Internet site (http://www.sec.gov) that contains reports, proxy and information statements and other information regarding issuers that file electronically. Our Annual Reports on Form 10-K, our Quarterly Reports on Form 10-Q, our Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, are made available free of charge on our website as soon as reasonably practicable after we electronically file them with, or furnish them to, the SEC. Our website addresses are www.qualstar.com and www.n2power.com. Information contained on our web site is not part of this report on Form 10-K or our other filings with the SEC.  
+ 

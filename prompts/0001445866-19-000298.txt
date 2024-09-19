@@ -1,0 +1,55 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1.
+BUSINESS.
+
+Introduction
+ CynergisTek, Inc. (including our subsidiaries, CTEK Solutions, Inc., CTEK Security, Inc. and Delphiis, Inc.) (referred to collectively in this Annual Report, as “CynergisTek,” the “Company,” “we,” “our” and “us”) is engaged in the business of providing cybersecurity and information management consulting services dedicated primarily to the healthcare industry and those businesses that support healthcare.  Our principal executive offices are located at 11940 Jollyville Road, Suite 300N, Austin, Texas, 78759.
+ For more information on CynergisTek and our products and services, please see the section entitled “Principal Products or Services” below or visit our website at www.cynergistek.com.  The inclusion of our Internet address in this Annual Report does not include or incorporate by reference into this Annual Report any information on our website.  Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, amendments to those reports and other filings with the Securities and Exchange Commission (the “SEC”) are generally available through the EDGAR system maintained by the SEC at www.sec.gov. 
+Background
+ CynergisTek, Inc. was originally incorporated under the laws of the State of Nevada on August 29, 1995, under the name Corporate Development Centers, Inc. On April 1, 2004, we acquired Alan Mayo and Associates, Inc. dba The Mayo Group (“TMG”), a managed print company.  TMG provided outsourced print management services to healthcare facilities throughout California, which services we provide as the successor-in-interest to TMG.  After we acquired TMG, we changed our name to “Auxilio, Inc.” and changed the name of TMG’s former subsidiary to “Auxilio Solutions, Inc.” Effective July 1, 2014, we acquired Delphiis, Inc., a California corporation, which provides IT security consulting services. On April 7, 2015, we acquired certain assets of Redspin, Inc. which 
+
+1
+
+provides IT security consulting services. On January 13, 2017, we acquired CynergisTek, Inc., a Texas corporation, which provides IT security consulting services and solutions. 
+ As described in more detail in our Current Report on Form 8-K filed with the Securities and Exchange Commission on September 8, 2017, Auxilio, Inc., changed its name and state of incorporation from the State of Nevada to the State of Delaware by merging (the “Reincorporation”) with and into its wholly-owned subsidiary, CynergisTek, Inc., a Delaware corporation, which was established for the purpose of the Reincorporation. As a result of the Reincorporation, Auxilio ceased to exist as a separate entity. As of the date of the merger, each outstanding share of Auxilio’s common stock was deemed, by operation of law, to represent the same number of shares of our Common Stock. In accordance with Rule 12g-3 under the Securities Exchange Act of 1934, as amended, the shares of our Common Stock were deemed to be registered under Section 12(b) of the Exchange Act as a successor to Auxilio. Effective as of September 8, 2017, the Company’s trading symbol changed from AUXO to “CTEK.”
+ As part of the Reincorporation, two wholly owned subsidiaries of the Company also changed their corporate names, as follows: (i) Auxilio Solutions, Inc., a California corporation, changed its name to CTEK Solutions, Inc.; and (ii) CynergisTek, Inc., a Texas corporation, changed its name to CTEK Security, Inc. (“CTEK Security”).
+ Our Common Stock currently trades on the NYSE American under the symbol “CTEK.”
+ Principal Products and Services
+ We are a top-ranked cybersecurity, privacy and compliance firm offering a suite of comprehensive services and solutions with an emphasis in healthcare and the challenges unique to the healthcare industry. Our service offerings help organizations identify ever-changing threat factors and security risks, provide resources to remediate or fill a gap in skilled and experienced talent, and offer a partner with experts in cybersecurity and privacy to manage and advise on their programs. 
+ 
+Our services include our Compliance Assist Partner Program (CAPP), which provides on-going risk assessments and remediation tracking to ensure organizations are compliant with HIPAA. Our Virtual Chief Information Security Officer (CISO) helps organizations with program development and prioritizes projects. The use of the CISO often reveals gaps in an organization’s security. We can then provide additional resources through our Staffing service to execute a remediation plan or work on other IT security projects. Our Vendor Security Management oversees third-party risk and Incident Response services to help address the growing ransomware and malware attacks that plague organizations today. 
+    To address growing market needs, we recently expanded our consulting and managed services offerings to include Medical Device Security Risk Assessment and Managed Security Services. The Medical Device Security Risk Assessment service helps organizations inventory the increasing number of medical devices connected to the network, identify hard to find vulnerabilities to overall security and the patient, and categorize these risks into a clearly defined remediation plan. The Managed Security Services provide on-going monitoring and analysis of an organization’s security posture in regard to its network, endpoint devices, cloud infrastructure and SaaS applications. 
+ 
+As of March 20, 2019 the Company is focused exclusively on cybersecurity and privacy. As reported in our prior public filings, beginning March 20, 2019, we no longer provide Managed Print Services (MPS) directly but will continue to refer our customers to our partners for these services. MPS optimizes high-volume print environments while reducing costs, improving efficiency and securing the print environment through industry best practices.
+
+2
+
+Competition
+ The competition in the healthcare industry market for cybersecurity and privacy services generally come from large or niche consulting and technology firms and regional companies that offer multiple approaches but within a much smaller geographic footprint. Examples include companies like Deloitte, Dell Secureworks, Fire Eye, Coal Fire, Fortified Health Security, Mediology and Clearwater Consulting. 
+ We believe our analysis of the competitive landscape shows a very strong opportunity for fully-outsourced and managed services to the healthcare industry, and we believe that we have a strong competitive position in the marketplace due to several important factors:
+ ·
+We are focused on the healthcare industry. We are not aware of any other vendor or service provider which has the majority of its business dedicated to addressing HIPAA compliance, including printed and stored documents and improving efficiency for the healthcare industry. Our expertise and knowledge base are unmatched in the market.
+·
+By focusing on healthcare, we believe we enjoy lower turn-around times for service, greater up-sell opportunities, and a deeper service relationship with the customer.
+·
+We believe our offering provides a unique approach to managed security services. To address workforce and expertise shortages, we can deploy knowledgeable resources to perform a predefined security role on-site or virtually for a defined amount of time, which results in our customers receiving staff with expertise they need while controlling their costs.
+·
+We are not restricted to any single supplier, which allows us to bring the best hardware and software solutions to our customers. Our approach is to use the most appropriate technology to provide a superior solution without any prejudice as to manufacturer or developer.
+·
+We believe our relationship with healthcare providers gives us an advantage when targeting the larger pool of potential clients in the business associate category.
+·
+We have a strong referral base within healthcare as a result of serving more than a thousand hospitals and other healthcare clients under managed services agreements.
+·
+Many of our employees have worked in the healthcare provider setting, as well as for the Office for Civil Rights.
+
+Customers
+ Most of our customers are hospitals, their related off-site facilities and third parties who provide services to healthcare entities.  The loss of any key customer could have a material adverse effect upon our financial condition, business, prospects and results of operation.  During the year ended December 31, 2018, our two largest customers represented approximately 57% of our revenues.
+Intellectual Property
+ We maintain databases that contain the results of our managed services and consulting efforts. This allows us to anticipate our customers’ future needs and to meet those needs. These databases provide us with exclusive insight into the state of cybersecurity and information management of our customers and the healthcare industry. We consider our proprietary RiskSonar application suite an important tool in assessing and organizing the information technology control structure of our customers. We consider our intellectual property an important and valuable asset that enhances our competitive position.
+ We have filed a trademark application for the name “CynergisTek” and for the Company’s logo.
+
+3
+
+Employees
+ As of December 31, 2018, we had 292 full-time employees and five part-time employees, including 247 employees engaged in providing services, 22 employees engaged in sales and marketing, and 28 employees engaged in general and administrative activities.  Our employees are not represented by any collective bargaining agreement, and we have never experienced a work stoppage.  We believe our employee relations are good.

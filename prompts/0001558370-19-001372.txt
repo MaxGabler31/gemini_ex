@@ -1,0 +1,178 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+     ITEM 1.BUSINESS
+    
+As a global leader of advanced space technology solutions, Maxar is at the forefront of the new space economy, developing and sustaining the infrastructure and delivering the information, services and systems that unlock the promise of space for commercial and government markets. As a trusted partner, we provide vertically integrated capabilities and expertise including satellites, Earth imagery, robotics, geospatial data and analytics to help customers anticipate and address their most complex mission-critical challenges with confidence. On January 1, 2019, we completed the change of our jurisdiction of organization from the Province of British Columbia in Canada to the State of Delaware in the United States. Additionally, we completed a reorganization of our corporate structure of the group of companies controlled by our predecessor, Maxar Technologies Ltd. (“Maxar Canada”), as the holding company of the Maxar group, pursuant to which Maxar Technologies Inc. (“Maxar U.S.”) directly acquired all of the issued and outstanding shares of Maxar Canada, and Maxar U.S. replaced Maxar Canada as the publicly-held parent company of the Maxar group. We refer to this transaction herein as the “U.S. Domestication”. The U.S. Domestication marks a major milestone in Maxar Canada’s long-term objectives to gain a stronger presence in the U.S. market (the “U.S. Access Plan”), enhance Maxar Canada’s ability to provide and support classified applications for U.S. government agencies, and fulfill a commitment made in connection with the acquisition of DigitalGlobe, Inc. (“DigitalGlobe”) on October 5, 2017 (the “DigitalGlobe Transaction”). We expect the U.S. Domestication to support our strategy and deliver significant value to our stockholders.
+    
+The DigitalGlobe Transaction created a company that we believe is uniquely positioned to capture growth in the U.S., Canadian and global Earth observation and geospatial services markets given its ability to provide complete, end-to-end space systems, Earth imagery and geospatial solutions. The DigitalGlobe Transaction leveraged a full suite of space-related capabilities, including communications and Earth observation satellites and robotics, ground stations, integrated electro-optical and radar imagery, and advanced data analytics. As a result of the combination, we are able to deliver cloud-based information services that allow commercial and government customers worldwide to better understand activity across the changing planet.
+    
+Maxar trades on the New York Stock Exchange (the “NYSE”) and Toronto Stock Exchange (the “TSX”) under the ticker “MAXR”.
+    
+We serve our customers and organize our businesses through the following three reportable segments:
+    
+· | Space Systems - a supplier of space-based and ground-based infrastructure and information solutions to government agencies, satellite operators and satellite manufacturers.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Imagery - a leading supplier of high-resolution Earth imagery and radar data sourced from our own advanced satellite constellation and third-party providers to our government and commercial customers.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Services – a provider of advanced geospatial information, applications, and analytic services to national security and commercial customers.
+--+---------------------------------------------------------------------------------------------------------------------------------------------
+
+     
+Our vision is to be the world’s leader in the new space economy. We aim to achieve this by integrating innovative technologies, unique capabilities and end-to-end offerings across our businesses to help our customers address their most complex mission-critical challenges with confidence.
+     Segments
+     Our three reportable segments provide a wide range of products and services to various customers. Subsequent to closing the DigitalGlobe Transaction in 2017, our reportable segments changed to better align with our product and services offerings after the DigitalGlobe Transaction. The changes to our segments provide investors with increased transparency and allow for easier comparisons with our industry peer group. We review revenue and adjusted EBITDA based on three reportable segments: Space Systems, Imagery and Services. Comparative historical segmented information has been 
+
+ 
+  3
+
+ 
+restated. Refer to Part II, Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in this Annual Report on Form 10-K for detailed disclosure of revenues and adjusted EBITDA by segment.
+     Space Systems
+     In the Space Systems segment, we are a supplier of space-based and ground-based infrastructure and information solutions. Our products include communication and imaging satellites, satellite payloads and antenna subsystems, space-based and airborne surveillance solutions, robotic systems and associated ground infrastructure and support services. Our offerings serve multiple markets, primarily for communications and surveillance and intelligence applications. In the communications market, our solutions provide cost-efficient global delivery of a broad range of services, including television and radio distribution, broadband internet, and mobile communications. In the surveillance and intelligence market, we offer end-to-end solutions to monitor changes and activities around the globe to support the operational needs of government agencies, both military and civilian, and commercial customers. We also supply spacecraft and subsystems to the U.S. government, Canadian government and other customers for scientific research and development missions, as well as robotic systems for the space and terrestrial markets. Our principal customers in the Space Systems segment are government agencies worldwide as well as satellite operators and satellite manufacturers.
+     Our primary competitors for satellite manufacturing contracts are: The Boeing Company, Lockheed Martin Corporation, and Northrop Grumman Corporation in the United States; Thales S.A. and Airbus Defence and Space, a subsidiary of the Airbus Group, in Europe; and Mitsubishi Electric Corporation in Japan. We sell in a highly competitive market. In addition, many of our competitors are larger and have greater resources. We may also face competition in the future from emerging low-cost competitors in India, Russia and China.
+     Competition in the information solutions market is highly diverse and includes aerospace and defense contractors such as the Airbus Group, General Dynamics Corporation, Raytheon Company, Northrop Grumman Corporation, Lockheed Martin Corporation, The Boeing Company, and Thales S.A. Competition with respect to our geospatial services operations comes from other data and information providers such as Satellite Imaging Corporation, Leidos, Inc., and BAE Systems. While these companies offer different products, there is often competition for contracts that are part of governmental budgets.
+     The Space Systems segment includes the financial results of our Space Systems/Loral, LLC (“SSL”) and MacDonald, Dettwiler and Associates (“MDA”) businesses. The SSL manufacturing capability of satellite vehicles (commonly referred to as a “satellite bus” or a “bus”) consists of the heritage 1300 kilogram bus (referred to as the “1300 bus”) and the smaller 500 kilogram bus (referred to as a “Legion-class bus” or the “500 bus”), which remains under development. The 1300 bus has three decades of on-orbit heritage and is highly versatile. The 1300 bus has served a full range of missions covering different applications (e.g. communications, sensing, robotics), orbits (e.g. LEO, MEO, GEO), and customer sets (e.g. commercial and government). Across its application range, the 1300 bus is extensible and therefore efficient in payload powers and in launch mass classes.
+     The largest application class for which the 1300 bus has been utilized is commercial geostationary communication satellites, which since the 1960s have provided essential societal communication services on a global basis in a manner that remains unmatched in ubiquity and multicast (one-to-many) broadcast of high-bandwidth content such as television. SSL’s 1300 bus is in use today for a broad range of television distribution services from smaller regional television satellites to the very high capacity, high-power satellites used by direct-to-home television distributors. An important, more recently emerging and growing application for commercial geostationary communication satellites is the delivery of data-centric applications (e.g. consumer broadband, in-flight communication, maritime, 4G / 5G cellular backhaul, etc.) via high-capacity spot beam satellites commonly referred to as “high throughput satellites” (or “HTS”). SSL introduced the first HTS satellite in 2005, which used the 1300 bus. Through today, the SSL 1300 bus has provided more HTS capacity on orbit than capacity provided by any other satellite manufacturer.
+     To address the rising demand for smaller satellites and multiple-satellite low earth orbit and medium earth orbit constellations used for imaging, sensing, and communication applications, SSL is developing its Legion-class 500 bus, which will first be used for the next generation WorldView Legion constellation for Maxar’s DigitalGlobe business unit. 
+
+ 
+  4
+
+ 
+The SSL 500 bus will be particularly effective for government and commercial applications that require a multiple-satellite constellation of identical satellites produced cost efficiently.
+     Imagery
+     In the Imagery segment, we are a leading supplier of high-resolution earth imagery and radar data sourced from our own advanced satellite constellation and third-party providers. Our imagery solutions provide customers with accurate and mission-critical information about our changing planet, and support a wide variety of uses, including mission planning, mapping and analysis, environmental monitoring, disaster management, crop management, oil and gas exploration and infrastructure management. Our principal customers in the Imagery segment are U.S., Canadian and other international government agencies, primarily defense and intelligence and civil agencies, as well as a wide variety of commercial customers in multiple markets including technology, energy and telecommunications. The Imagery segment includes the financial results of the DigitalGlobe imagery business as well as Maxar’s legacy radar imagery business.
+     We offer products comprised of imagery from our constellation of high-resolution satellites. Customers can purchase specific images that are archived in our imagery archives or place custom orders to task our satellites for a specific area of interest. We process our imagery to varying levels according to our customers’ specifications and deliver our products using the distribution method that best suits our customers’ needs. 
+     We provide many customer-ready imagery products that we develop to enable customers to understand and analyze specific geographies of interest. Imagery can be collected as follows:
+    
+· | Panchromatic – black and white imagery that provides the highest resolution band from our constellation.
+--+---------------------------------------------------------------------------------------------------------
+
+
+· | Multispectral (4-band) – includes the Red, Green, Blue and Near Infrared bands. These bands approximate the colors the human eye can see, and just beyond the visible into the near infrared.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Multispectral (8-band) – includes the four bands above plus Coastal, Yellow, Red-Edge, and Near Infrared 2. The near infrared bands support applications such as monitoring crop health and moisture content.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Short Wave Infrared – this unique WorldView-3 imaging capability enables applications such as mineral and material detection and visibility through obstructions such as smoke and haze.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+      We offer a number of imagery products, including:
+    
+· | Basic imagery – includes the least amount of processing. Basic imagery provides the customer flexibility to perform their own processing to produce orthorectified imagery and basemaps.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Standard imagery – includes radiometric and geometric correction. Radiometric correction enables images to appear uniformly illuminated with the appropriate level of brightness. Geometric correction allows a user to identify the latitudinal, longitudinal and altitudinal location of any point in an image.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Orthorectified imagery – includes radiometric, geometric and topographic correction. Topographic correction accounts for terrain and projects images onto the Earth as they would be seen by the human eye.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Our mosaic products, including our basemap product suite – our basemap product delivers geo-located context that enables users to better understand and analyze specific areas of interest. Our basemap product can be supplemented with +Daily, +Vivid, and/or +Metro. The +Daily service includes the most relevant current collections from our satellite constellation and is updated continuously, allowing customers to extract new points of interest as they appear throughout time. Powered by our proprietary image processing techniques, +Vivid delivers high-quality imagery that maximizes contrast, sharpness, and clarity while maintaining uniformity. Finally, basemap +Metro provides access to high-resolution imagery of more than 2,600 world capitals and major metropolitan areas. Imagery is mosaicked together to provide a consistent view of the urban landscape.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Elevation products – Elevation and terrain information is foundational to mapping and understanding the surface of our planet. We offer stereo imagery (images collected from different viewpoints along the satellite’s orbit track) to customers with advanced image processing capabilities and tools, allowing them to create 3D visualization and digital elevation models. We also offer customers semi-customized terrain products, 3D surface models and digital elevation models.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 
+  5
+
+ 
+
+
+· | Information products – Vector information products derived from imagery archive, which allow customers to consume new insights without additional processing.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Online imagery platforms, including EarthWatch and SecureWatch – Subscription online platforms that provide customers online access to the industry’s best imagery and geospatial intelligence.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+      In addition to offering many customer-ready products and services, we also provide certain customers the ability to directly task and receive imagery from our satellites within local and regional geographic boundaries of interest through our Direct Access Program (“DAP”). We sell these customers ground system facilities, enabling them to download and process imagery directly from our satellites, access to our satellite and maintenance services. The DAP is designed to meet the enhanced information and operational security needs of a select number of defense and intelligence customers and certain commercial customers.
+     We provide optical and radar satellite imagery, and value-added products derived from satellite and other data sources. We own the worldwide commercial distribution rights for RADARSAT-2 satellite imagery. As the operator and worldwide commercial data distributor for the RADARSAT-2 satellite, we are one of the largest radar information providers worldwide. We also provide value-added geospatial information and monitoring services derived from radar imagery and other sources to customers in defense, weather, transportation, energy and mining, and civilian sectors.
+     As of December 31, 2018, we operated a constellation of four in-orbit and fully-commissioned satellites: GeoEye-1, WorldView-1, WorldView-2, and WorldView-3. Our annual collection capacity is approximately 1.4 billion square kilometers, and we maintain an image library of 100 petabytes (referred to as our “ImageLibrary”). The following table summarizes the primary characteristics of the in-orbit and fully-commissioned satellites in our constellation as of December 31, 2018:
+    
+Satellite | Launch Date | Expected End of Depreciable Life | Best Ground Resolution | Orbital Altitude (kilometers)
+WorldView-3 | August 2014 | Q1 2026 | 31-centimeters black and white, or color 1.24-meter multi-spectral | 617 
+WorldView-2 | October 2009 | Q4 2022 | 46-centimeters black and white, or color 1.84-meter multi-spectral | 770 
+WorldView-1 | September 2007 | Q4 2021 | 50-centimeters black and white | 496 
+GeoEye-1 | September 2008 | Q3 2020 | 41-centimeters black and white, or color 1.64-meter multi-spectral | 681 
+
+      In December 2018, our WorldView-4 satellite experienced a failure, preventing it from collecting imagery. Refer to Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations – Recent Developments” within this Annual Report on Form 10-K for discussion of our WorldView-4 satellite.
+     We procure insurance to protect us from the risks associated with our satellite operations, including the partial or total impairment of the functional capacity of the satellite. We insure satellites in our constellation to the extent that insurance is available at acceptable premiums. As of December 31, 2018, we maintained the following insurance coverage on our in-orbit and fully-commissioned satellite constellation:
+    
+Satellite | Policy Period | Coverage(in millions)
+WorldView-3 | 10/2016-08/2019 | $ | 340
+WorldView-2 | 10/2018-10/2019 | | 220
+WorldView-1 | 10/2018-10/2019 | | 220
+GeoEye-1 | 10/2018-10/2019 | | 38 
+
+      Our major existing and potential competitors for our Imagery business include commercial satellite imagery companies, state-owned imagery providers, aerial imagery companies, free sources of imagery, and unmanned aerial vehicles. 
+    
+ 
+  6
+
+ 
+
+ We compete on the basis of the technical capabilities of our satellites, such as size of collection area, collection speed, revisit time, resolution, accuracy and spectral diversity; satellite availability for tasked orders; the size, comprehensiveness and relevance of our ImageLibrary; distribution platform and tools that enable customers to easily access and integrate imagery; value-added services, including advanced imagery production and analysis; timeliness and ready availability of imagery products and services that can be deployed quickly and cost-effectively; and price.
+     The data intensive nature of high-resolution imagery, complexity of analysis and desire to analyze multiple data sources have driven growth in multi-source analytics platforms. We are uniquely positioned to provide a platform solution because of the size and quality of our industry-leading ImageLibrary and our years of experience and resulting intellectual property in creating image analysis algorithms and tools. We also provide our customers with insights from our imagery with our platform products. Our platform products face competition from aggregators of imagery and imagery-related products and services. 
+     Services
+     With the proliferation of new sources of geospatial data being collected, customers are increasingly looking for advanced analytic solutions to help them quickly derive insights. Our Services segment is focused on providing advanced geospatial information, applications, and analytic services to national security and commercial customers. We help customers derive value from Maxar imagery and other sources of geospatial data such as low resolution satellite imagery, weather and oceanographic data, elevation, and social media. The Services segment includes the financial results of DigitalGlobe’s legacy business, as well as Maxar’s legacy geospatial services. 
+     Our Services segment delivers innovation across the entire geospatial intelligence value chain. Our services business:
+    
+· | delivers cloud native mission systems that collect and process optical imagery, radar, and radio frequency data from sensors in space and across other domains to help analysts and warfighters detect and observe global activities in near real-time;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | processes massive amounts of optical and radar imagery, elevation, weather and volunteered geographic information to help government and commercial customers better understand and navigate our changing planet; and
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | applies machine learning and big data analytics to multiple sources of intelligence data to provide national security analysts, operators and policymakers a decision advantage.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+      We provide solutions to government and commercial customers. We primarily support U.S. government customers, but many of our capabilities also support intelligence requirements from international governments, global development organizations and commercial customers.
+     Our Services segment faces competition from companies that provide geospatial analytic information and services to the U.S. government, including defense prime contractors. 
+     Environmental Regulations
+     Our operations are regulated under various federal, state, local and international laws governing the environment, including laws governing the discharge of pollutants into the soil, air and water, the management and disposal of hazardous substances and wastes, and the cleanup of contaminated sites. We have infrastructure in place to ensure that our operations are in compliance with all applicable environmental regulations. We do not believe that the costs of compliance with these laws and regulations will have a material adverse effect on our capital expenditures, operating results or competitive position. The imposition of more stringent standards or requirements under environmental laws or regulations or a determination that we are responsible for the release of hazardous substances at our sites could result in expenditures in excess of amounts currently estimated to be required for such matters. We have been designated, along with numerous other companies, as a potentially responsible party for the clean-up of several hazardous waste sites. Based on available information, we do not believe that any costs incurred in connection with such sites will have a material adverse effect on our financial condition, results of operations, capital expenditures or competitive position. 
+
+ 
+  7
+
+ 
+There can be no assurance that additional environmental matters will not arise in the future, or that costs will not be incurred with respect to sites at which no problem is currently known.
+     U.S. Government Contracts
+     All of our reportable segments have contracts with various governmental entities, which are concentrated in a small number of primary contracts. The U.S. government may terminate or suspend our contracts, including the EnhancedView Follow-On contract (the “EnhancedView Contract”) between DigitalGlobe and the U.S. government at any time with or without cause. Additionally, any changes in the size, scope or term of the EnhancedView Contract could impact our satellite replenishment strategy and our ability to repay or refinance our long-term debt. Although our U.S. government contracts generally involve fixed annual minimum commitments, such commitments, along with all other contracts with the U.S. government, are subject to annual Congressional appropriations and the federal budget process, and as a result, the U.S. government may not continue to fund these contracts at current or anticipated levels.Intellectual Property
+     We own a substantial intellectual property portfolio that includes many U.S. and foreign patents, as well as many U.S. and international trademarks, service marks, domain names and copyrights. We actively pursue internal development of intellectual property. In addition to our patent portfolio, we own other intellectual property such as unpatented trade secrets, know-how, data, and software. Additionally, we rely on licenses of certain intellectual property to conduct our business operations, including certain proprietary rights to and from third parties. While our intellectual property rights in the aggregate are important to our operations, we do not believe that any particular trade secret, patent, trademark, copyright, license or other intellectual property right is of such importance that its loss, expiration or termination would have a material effect on our business.     Foreign and Domestic Operations
+     In the year ended December 31, 2018, approximately 29% of our revenue was derived from non-U.S. or Canadian sales, and we intend to continue to pursue international contracts. International operations are subject to certain risks, such as: changes in domestic and foreign governmental regulations and licensing requirements; deterioration of relations between the U.S. and/or Canada and a particular foreign country; increases in tariffs and taxes and other trade barriers; foreign currency fluctuations; changes in political and economic stability; effects of austerity programs or similar significant budget reduction programs; potential preferences by prospective customers to purchase from local (non-U.S. or Canadian) sources; and difficulties in obtaining or enforcing judgments in foreign jurisdictions.
+     In addition, our international contracts may include industrial cooperation agreements requiring specific in-country purchases, investments, manufacturing agreements or other financial obligations, known as offset obligations, and provide for penalties in the event we fail to meet such requirements. 
+     Raw Materials
+     Our businesses are generally engaged in limited manufacturing activities and have minimal exposure to fluctuations in the supply of raw materials. For those businesses that manufacture and sell products and systems, most of the value that we provide is labor oriented, such as design, engineering, assembly and test activities. In manufacturing our products, we use our own production capabilities as well as a diverse base of third-party suppliers and subcontractors. Certain aspects of our manufacturing activities require relatively scarce raw materials; occasionally, we have experienced difficulty in our ability to procure raw materials, components, sub-assemblies and other supplies required in our manufacturing processes.     Research and Development
+     We have a history of investing in development of technological advancements in our field of aerospace. We have both internally and externally funded research and development projects. Our current and future business is dependent on developing new enhancements and technology that go into our existing and future products and services. Our annual 
+
+ 
+  8
+
+ 
+research and development expenses were $93 million, $71 million, and $69 million in 2018, 2017 and 2016, respectively. We intend to continue our focus on research and development as a key strategy for innovation and growth. Our efforts will continue to be directed into fields that we believe offer the greatest opportunities for long-term growth and profitability. Our current, principal internal research and development areas include deep space functionality, ground stations for radar and optical missions, and geospatial data processing and analytics.
+     Backlog 
+     A summary of our backlog is set forth in Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations – Backlog” of this Annual Report on Form 10-K.     Business Seasonality
+     Our three segments have not historically experienced seasonality in our operations. 
+    
+Financial and Other Business Information
+    
+See Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of this Annual Report on Form 10-K for financial information, including revenues and earnings from operations, for each of our reportable segments.      Employees
+     As of December 31, 2018, Maxar had approximately 6,100 employees operating in the United States, Canada, and internationally.
+     Available Information
+     Our website can be accessed at http://www.maxar.com. The website contains information about us and our operations. Through a link on the Investor Relations section of our website, copies of our filings with the Securities and Exchange Commission (“SEC”), including any Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, Proxy Statements and Forms 3, 4 and 5 filed on behalf of directors and executive officers, and amendments to each of those reports and statements can be viewed and downloaded free of charge as soon as reasonably practicable after the reports have been filed or furnished with the SEC. The information on our website is not incorporated by reference and is not a part of this Annual Report on Form 10-K. Additionally, our reports, proxy and information statements, and other information filed with the SEC are available on the SEC’s website at http://www.sec.gov or at the SEC Public Reference Room in Washington, D.C. Information regarding the Public Reference Room may be obtained by calling the SEC at 1-800-SEC-0330. Our reports, proxy and information statements, and other information filed can also be found under our SEDAR profile at www.sedar.com.

@@ -1,0 +1,672 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1.    Business 
+General
+Unless the context requires otherwise, references in this Annual Report on Form 10-K to “EXCO,” “EXCO Resources,” “Company,” “we,” “our,” and “us” are to EXCO Resources, Inc. and its consolidated subsidiaries.
+We have provided definitions of terms commonly used in the oil and natural gas industry in the “Glossary of selected oil and natural gas terms” section of this Annual Report on Form 10-K.
+We are an independent oil and natural gas company engaged in the exploration, exploitation, acquisition, development and production of onshore U.S. oil and natural gas properties with a focus on shale resource plays. Our principal operations are conducted in certain key U.S. oil and natural gas areas including Texas, Louisiana and the Appalachia region. Our primary strategy focuses on the exploitation and development of our shale resource plays and the pursuit of leasing and acquisition opportunities. 
+Bankruptcy proceedings under Chapter 11
+On January 15, 2018 ("Petition Date"), the Company and certain of its subsidiaries, including EXCO Services, Inc., EXCO Partners GP, LLC, EXCO GP Partners OLP, LP, EXCO Partners OLP GP, LLC, EXCO Operating Company, LP, EXCO Midcontinent MLP, LLC, EXCO Holding (PA), Inc., EXCO Production Company (PA), LLC, EXCO Resources (XA), LLC, EXCO Production Company (WV), LLC, EXCO Land Company, LLC, EXCO Holding MLP, Inc., Raider Marketing, LP, Raider Marketing GP, LLC (collectively, the “Filing Subsidiaries” and, together with the Company, the “Debtors”), filed voluntary petitions for relief under Chapter 11 of the United States Bankruptcy Code (“Bankruptcy Code”) in the United States Bankruptcy Court for the Southern District of Texas (“Court”). The Chapter 11 cases are being jointly administered under the caption In Re EXCO Resources, Inc., Case No. 18-30155 (MI) ("Chapter 11 Cases"). The Court granted all of the first day motions filed by the Debtors that were designed primarily to minimize the impact of the Chapter 11 proceedings on our operations, customers and employees. We will continue to operate our businesses as “debtors in possession” under the jurisdiction of the Court and in accordance with the applicable provisions of the Bankruptcy Code and orders of the Court. We expect to continue our operations without interruption during the pendency of the Chapter 11 proceedings. 
+DIP Credit Agreement
+On January 22, 2018, we closed a debtor-in-possession credit agreement (“DIP Credit Agreement”) with lenders including affiliates of Fairfax Financial Holdings Limited (“Fairfax”), Bluescape Resources Company LLC (“Bluescape”) and JPMorgan Chase Bank, N.A. (collectively the “DIP Lenders”). The DIP Credit Agreement includes a senior secured debtor-in-possession revolving credit facility in an aggregate principal amount of $125.0 million (“Revolver A Facility”) and a senior secured debtor-in-possession revolving credit facility in an aggregate principal amount of $125.0 million (“Revolver B Facility”, and together with the Revolver A Facility, the “DIP Facilities”). Proceeds from the DIP Facilities were used to repay all obligations outstanding under our previous revolving credit agreement ("EXCO Resources Credit Agreement") and will provide additional liquidity to fund our operations during the Chapter 11 Cases. On January 15, 2019, we entered into an amendment to the DIP Credit Agreement to extend the maturity date from January 22, 2019 to May 22, 2019. See further discussion of the DIP Credit Agreement in “Note 5. Debt” in the Notes to our Consolidated Financial Statements. 
+Impact on our indebtedness
+The commencement of the Chapter 11 Cases constituted an event of default that accelerated our obligations under the EXCO Resources Credit Agreement, senior secured 1.5 lien notes due March 20, 2022 (“1.5 Lien Notes”), senior secured 1.75 lien term loans due October 26, 2020 (“1.75 Lien Term Loans”), senior unsecured notes due September 15, 2018 (“2018 Notes”), and senior unsecured notes due April 15, 2022 (“2022 Notes”). These debt instruments provide that as a result of the commencement of the Chapter 11 Cases, the principal and interest due thereunder shall be immediately due and payable. Any efforts to enforce such payment obligations under the debt instruments are automatically stayed as a result of the commencement of the Chapter 11 Cases, and the creditors’ rights of enforcement with respect to the debt instruments are subject to the applicable provisions of the Bankruptcy Code. On February 22, 2018, the Court approved our ability to make 
+1
+
+adequate protection payments for interest on the DIP Credit Agreement and the 1.5 Lien Notes. See further discussion of the impact in “Note 5. Debt” in the Notes to our Consolidated Financial Statements. 
+Rejection of executory contracts
+Subject to certain exceptions, under the Bankruptcy Code, the Debtors may assume, assign, or reject certain executory contracts and unexpired leases subject to the approval of the Court and fulfillment of certain other conditions. The rejection of an executory contract or unexpired lease is generally treated as a breach as of the Petition Date of such executory contract or unexpired lease and, subject to certain exceptions, relieves the Debtors of performing their future obligations under such executory contract or unexpired lease but may give rise to a general unsecured claim against the Company or the applicable Filing Subsidiaries for damages caused by such rejection. 
+During March 2018, the Court approved the rejection of certain executory contracts related to the sale, marketing and transportation of natural gas in the North Louisiana region. On November 19, 2018, the Court approved an agreement to settle any claims related to a minimum volume commitment for gathering services in the East Texas and North Louisiana regions. 
+On August 9, 2018, the Court approved the rejection of the office lease for our corporate headquarters in Dallas, Texas. We subsequently entered into a new lease for a reduced amount of square footage in the same office building with a term through December 31, 2022. See further discussion of the impact of the rejection and settlement of executory contracts as part of “Note 1. Organization and basis of presentation” in the Notes to our Consolidated Financial Statements.
+Status of plan of reorganization
+On October 1, 2018, the Debtors filed a Settlement Joint Chapter 11 Plan of Reorganization (the “October 2018 Plan”) and related Disclosure Statement with the Court. As is customary in bankruptcy proceedings, the Debtors subsequently filed amendments to the October 2018 Plan and related Disclosure Statement with the Court. The distributions under the October 2018 Plan were expected to be funded with: (i) cash on hand; (ii) a new revolving credit facility; (iii) a new second lien debt instrument; (iv) the equity in the reorganized Company; and, (v) the D&O Proceeds, as defined below. 
+On November 5, 2018, the Court authorized us to solicit acceptances of the October 2018 Plan and approved the Disclosure Statement and other related solicitation materials and procedures necessary to approve the October 2018 Plan. Simultaneous with the solicitation process, we initiated a marketing process for the issuance of the new revolving credit facility and the new second lien debt instrument. During the course of the marketing process, oil prices experienced a significant decline and overall market conditions worsened. As a result, we were not able to obtain the exit financing required to consummate the October 2018 Plan. On February 15, 2019, the Court approved a motion to extend the filing exclusivity period through April 1, 2019 and the solicitation exclusivity period through May 31, 2019. 
+On March 8, 2019, the Debtors filed a Second Amended Joint Chapter 11 Plan of Reorganization (“March 2019 Plan”) and related Disclosure Statement with the Court. The March 2019 Plan provides for either a reorganization of the Debtors as a going concern or the sale of the Debtors’ assets (“All Asset Sale”). The Debtors will make a final determination regarding which path to pursue by the date of the hearing to approve the Disclosure Statement. The March 2019 Plan included the following key elements:
+
+• | Holders of the DIP Credit Agreement will receive payment in full in cash with proceeds from either a new revolving credit facility (“Exit Facility”) or, in the event of an All Asset Sale, proceeds from the sale of assets;
+
+
+• | Holders of allowed 1.5 Lien Notes claims will receive either their pro rata share of a new mandatorily convertible security or, in the event of an All Asset Sale, the liens securing such allowed claim;
+
+
+• | Holders of allowed 1.75 Lien Term Loans claims will receive either their pro rata share of the equity in the reorganized Company representing the value attributable to encumbered assets or, in the event of an All Asset Sale, the liens securing such allowed claim;
+
+
+• | Holders of the Second Lien Term Loans, 2018 Notes, 2022 Notes, allowed general unsecured claims and deficiency claims associated with the 1.75 Lien Term Loans will receive either their pro rata share of equity in the reorganized Company representing the value attributable to unencumbered assets, or in the event of an All Asset Sale, proceeds attributable to the sale of the unencumbered assets (“Unsecured Claims Recovery”);
+
+
+• | Holders of existing equity interests in EXCO shall not receive a distribution and the equity interests will be deemed canceled, discharged, released and extinguished; and
+
+
+• | The carriers of directors’ and officers’ liability insurance coverage related to the Debtors will contribute $13.4 million (“D&O Proceeds”) to the Debtors in exchange for full and final settlement of potential claims and causes of action against current and former directors and officers.
+
+2
+
+The March 2019 Plan does not release the Debtors or holders of claims of the 1.5 Lien Notes and 1.75 Lien Term Loans from certain causes of action. The litigation of these causes of action will be managed by a trustee appointed by the committee of unsecured creditors of the Debtors and will not occur until after the confirmation of the March 2019 Plan. If any of the disputed claims are successfully prosecuted, this could materially impact the aforementioned recoveries for holders of allowed claims. If some or all of the 1.5 Lien Notes claims or 1.75 Lien Term Loans claims are deemed to be unsecured claims following the successful prosecution of a secured claims challenge, the holders of such 1.5 Lien Notes claims and 1.75 Lien Term Loans claims will receive their pro rata share of the Unsecured Claims Recovery. We have not received consents from any creditors in support of the March 2019 Plan. Therefore, our ability to confirm the March 2019 Plan is subject to a high degree of uncertainty. 
+For the duration of the Chapter 11 proceedings, our operations and our ability to develop and execute our business plan are subject to risks and uncertainties associated with Chapter 11 proceedings described in "Item 1A. Risk Factors”. As a result of these risks and uncertainties, our assets, liabilities, shareholders' equity, officers and/or directors could be significantly different following the conclusion of the Chapter 11 Cases, and the description of our operations, properties and capital plans included in this annual report may not accurately reflect our operations, properties and capital plans following the Chapter 11 Cases. See further discussion of the Chapter 11 Cases in "Note 1. Organization and basis of presentation" in the Notes to our Consolidated Financial Statements.
+Summary of geographic areas of operations 
+The following tables set forth summary operating information attributable to our principal geographic areas of operation as of December 31, 2018:
+
+Areas | Total Proved Reserves (Bcfe) (1) | PV-10 (in millions) (1) (2) | | Average daily net production (Mmcfe/d) (3)
+North Louisiana | 285.5 | | $ | 280.0 | | 163
+East Texas | 59.4 | | 58.0 | | 24 | 
+South Texas | 90.1 | | 304.9 | | 28 | 
+Appalachia and other | 225.6 | | 114.5 | | 51 | 
+Total | 660.6 | | $ | 757.4 | | 266
+
+
+Areas | Total gross acreage | Total net acreage
+North Louisiana | 101,400 | | 55,500 
+East Texas | 110,000 | | 41,100 
+South Texas | 100,800 | | 48,500 
+Appalachia and other | 382,200 | | 342,800
+Total | 694,400 | | 487,900
+
+
+(1) | The total Proved Reserves and PV-10 as of December 31, 2018 were prepared in accordance with the rules and regulations of the Securities and Exchange Commission ("SEC").
+
+
+(2) | The PV-10 data used in this table was based on reference prices using the simple average of the spot prices for the trailing 12 month period using the first day of each month beginning on January 1, 2018 and ending on December 1, 2018, of $3.10 per Mmbtu for natural gas and $65.56 per Bbl for oil, in each case adjusted for geographical and historical differentials. Market prices for oil and natural gas are volatile (see “Item 1A. Risk Factors - Risks Relating to Our Business”). We believe that PV-10, while not a financial measure in accordance with generally accepted accounting principles in the United States ("GAAP"), is an important financial measure used by investors and independent oil and natural gas producers for evaluating the relative significance of oil and natural gas properties and acquisitions due to tax characteristics which can differ significantly among comparable companies. The total Standardized Measure, a measure recognized under GAAP, as of December 31, 2018 was $757.4 million. The Standardized Measure represents the PV-10 after giving effect to income taxes and is calculated in accordance with the Financial Accounting Standards Board ("FASB") Accounting Standards Codification ("ASC") 932, Extractive Activities, Oil and Gas ("ASC 932"). Our tax basis in the associated properties exceeded the pre-tax cash inflows and, as a result, there is no difference in Standardized Measure and PV-10 for all years presented. The amount of estimated future plugging and abandonment costs, the PV-10 of these costs and the Standardized Measure were determined by us.
+
+
+(3) | The average daily net production rate was calculated based on the average daily rate during the final month of the year ended December 31, 2018.
+
+3
+
+Our development and exploitation project areas 
+East Texas and North Louisiana
+Our operations in East Texas and North Louisiana are focused on the Haynesville and Bossier shales, which are primarily located in Shelby, Harrison, Panola, San Augustine and Nacogdoches Counties in Texas and DeSoto and Caddo Parishes in Louisiana. Our acreage in this region is predominantly held-by-production. The Haynesville shale is located at depths of 12,000 to 14,500 feet and is being developed with horizontal wells that typically have 4,500 to 10,000 foot laterals. The lateral lengths of future wells to be drilled in this region are dependent on factors including our acreage position and nearby existing wells. The Bossier shale lies above certain portions of the Haynesville shale and also contains rich deposits of natural gas. The geographic position of our properties in the Haynesville and Bossier shales provides us access to nearby markets with favorable natural gas price indices compared to the rest of the country.
+North Louisiana 
+Our position in the Holly area of North Louisiana consists of 30,800 net acres in DeSoto Parish and 11,700 net acres in Caddo Parish, which are predominantly held-by-production. At December 31, 2018, we had a total of 434 gross (236.5 net) operated wells flowing to sales. Our development activities in North Louisiana during 2018 primarily focused on the completion of 13 gross (7.4 net) operated wells drilled in prior year and drilling of 6 gross (3.6 net) operated wells. Including non-operated volumes, our average natural gas production was approximately 163 net Mmcfe per day during December 2018. During March 2018, the Court approved the rejection of certain executory contracts related to the sale, marketing and transportation of natural gas in the North Louisiana region. During November 2018, the Court approved an agreement to settle any claims related to a minimum volume commitment for the gathering of natural gas production in the East Texas and North Louisiana regions. The rejection and settlement of these agreements resulted in a significant improvement in our realized natural gas price differentials, gathering expenses, and transportation expenses. We plan to drill 1 gross (0.6 net) operated well in the Haynesville shale during the first quarter of 2019 and complete 11 gross (6.2 net) operated wells in the Haynesville shale during the first three quarters of 2019. In addition, we plan to perform refracs on 3 gross (1.5 net) wells utilizing an improved design that includes a cemented liner and increased proppant volumes. 
+4
+
+East Texas 
+Our operations in East Texas are focused on the Haynesville and Bossier shales. Our acreage is primarily located in Harrison, Panola, Shelby, San Augustine and Nacogdoches Counties in Texas and is predominantly held-by-production. The Haynesville and Bossier shales in East Texas are being developed with horizontal wells that typically have 6,000 to 7,500 foot laterals. Our position in the Shelby area of East Texas primarily consists of 30,400 net acres and includes approximately 9,700 net acres subject to continuous drilling obligations. We plan to drill, or participate with another operator in drilling, on the acreage subject to the continuous drilling obligation in the future to hold the acreage. Excluding the acreage subject to the continuous drilling obligation, approximately 96% of our net acres are held-by-production in the Shelby area.
+As of December 31, 2018, we had a total of 102 gross (45.9 net) operated wells flowing to sales. Our development in this region during 2018 was limited to the participation in certain non-operated wells. Including non-operated volumes, our average natural gas production was approximately 24 net Mmcfe per day during December 2018. Our plans for 2019 include the participation in non-operated wells that will satisfy our continuous drilling obligation in the southern portion of the region. In addition, we plan to participate in certain non-operated wells to appraise our position in Harrison and Panola Counties. Our position in Harrison and Panola Counties consists of 5,400 net acres.
+South Texas
+Our position in this region includes approximately 48,500 net acres, of which approximately 95% are held-by-production. Our South Texas acreage covers portions of Zavala, Dimmit and Frio Counties. Our acreage in the Eagle Ford shale is in the oil window and averages 375 feet in gross thickness at true vertical depths ranging from 5,400 to 6,800 feet. Our lateral lengths range from 5,000 to 10,000 feet and the total measured depth averages 14,600 feet. Our acreage in the area also includes additional upside in formations such as the Austin Chalk, Buda, Georgetown and Pearsall formations. 
+As of December 31, 2018, we had a total of 236 gross (107.9 net) operated horizontal wells flowing to sales. Including non-operated volumes, our average oil production in South Texas was approximately 4,700 net barrels of oil equivalent per day during December 2018. Our ability to transport or sell the natural gas from this region has been limited since the alleged termination of a long-term natural gas sales contract by the primary purchaser of our natural gas in May 2017. As a result, we commenced flaring natural gas in January 2018. We are evaluating operational and commercial solutions for the natural gas production in order to avoid significant curtailments of our oil production. See further discussion of the risks related to our ability to sell or transport natural gas from this region in "Item 1A. Risk Factors". Our development program during 2018 focused on the Eagle Ford shale, which included drilling 14 gross (11.3 net) operated wells and completing 16 gross (12.9 net) operated wells. We plan to drill 26 gross (8.5 net) and turn-to-sales 23 gross (7.4 net) operated wells in the Eagle Ford shale during 2019. In addition, our plans for 2019 include the construction of an electrical distribution network over the core development area that will provide a more efficient cost structure to operate the field.
+Appalachia
+
+Our operations in the Appalachia region have primarily included testing and selectively developing the Marcellus shale with horizontal drilling. As of December 31, 2018, we held approximately 339,800 net acres in the Appalachia region, including approximately 234,800 net acres prospective for the Marcellus shale and approximately 69,000 net acres prospective for the dry gas window of the Utica shale in Pennsylvania. On February 27, 2018, we closed a settlement agreement with a subsidiary of Shell to resolve arbitration regarding our right to participate in an area of mutual interest in the Appalachia region. The settlement increased our acreage in the Appalachia region by approximately 177,700 net acres, and the production from the additional interests in producing wells acquired was 26 net Mmcfe per day during December 2017. See further discussion of this settlement as part of "Note 3. Acquisitions, divestitures and other significant events" in the Notes to our Consolidated Financial Statements. Drilling, completion and production activities in Pennsylvania target the Marcellus shale as well as deeper formations including the Utica shale at depths ranging from 5,000 to more than 12,000 feet. Approximately 98% of our acreage is held-by-production, which allows us to control the timing of the development of this region. 
+As of December 31, 2018, we operated a total of 116 gross (83.3 net) horizontal wells in the Marcellus shale. During 2018, we turned-to-sales 1 gross (0.9 net) operated Marcellus shale well in Northeast Pennsylvania that was previously awaiting the connection of a pipeline. Including non-operated volumes, our production in the Appalachia region was approximately 51 net Mmcfe per day during December 2018. In recent years, we have limited our development of the Marcellus shale due to wide regional natural gas price differentials. These differentials continue to be volatile; however, the differentials in the region narrowed during 2018 and have the potential to be favorably impacted by the expansion of infrastructure and other sources of demand for natural gas in the Northeast region in future years. We have an extensive inventory of undeveloped locations prospective for the Marcellus and Utica shales that has potential to provide attractive rates 
+5
+
+of return through enhanced completion designs and an improved commodity price environment. Our plans for 2019 include drilling and turning-to-sales 2 gross (1.9 net) operated Marcellus shale wells in Northeast Pennsylvania. These wells will feature an enhanced completion design that includes increased proppant volumes and tighter cluster spacing, which has proven to be effective on recent wells in the region. We do not have any producing wells in the dry gas window of the Utica shale; however, we are currently assessing the potential of the formation to determine the extent of future development. Our plans for 2019 include drilling and turning-to-sales 1 gross (1.0 net) operated appraisal well targeting the dry gas window of the Utica shale in Central Pennsylvania. 
+Our hydraulic fracturing activities
+Oil and natural gas may be recovered from our properties through the use of sophisticated drilling and hydraulic fracturing techniques. Hydraulic fracturing involves the injection of water, sand, gel and chemicals under pressure into formations to fracture the surrounding rock and stimulate production. Our hydraulic fracturing activities are primarily focused in the Eagle Ford shale in South Texas, Haynesville and Bossier shales in East Texas and North Louisiana and Marcellus shale in the Appalachia region. Predominantly all of our Proved Reserves are associated with shale assets in these areas.
+Although the cost of each well will vary, the costs associated with the hydraulic fracturing portion of the well on average represent the following percentages of the total costs of drilling and completing a well: 40-50% in the Haynesville and Bossier shale formation; 45-55% in the Eagle Ford shale formation; and 35-45% in the Marcellus shale formation. These costs may increase in future periods as a result of higher levels of proppant utilized in the completion of our shale wells. 
+We review best practices and industry standards to comply with regulatory requirements in the protection of potable water sources when drilling and completing our wells. Protective practices include, but are not limited to, setting multiple strings of protection pipe across potable water sources and cementing these pipe strings to surface, continuously monitoring the hydraulic fracturing process in real time and disposing of non-recycled produced fluids in authorized disposal wells at depths below the potable water sources. In addition, we actively seek methods to minimize the environmental impact of our hydraulic fracturing operations in all of our operating areas.
+For more information on the risks of hydraulic fracturing, see “Item 1A. Risk Factors - Our business exposes us to liability and extensive regulation on environmental matters, which could result in substantial expenditures” and “Item 1A. Risk Factors - Federal, state and local legislation and regulatory initiatives relating to hydraulic fracturing could result in increased costs and additional operating restrictions or delays".
+Marketing arrangements
+We produce oil and natural gas. We do not refine or process the oil or natural gas we produce. We sell the majority of the oil we produce under contracts using market sensitive pricing. The majority of our oil contracts are based on NYMEX pricing, which is typically calculated as the average of the daily closing prices of oil to be delivered one month in the future. We also sell a portion of our oil at F.O.B. field prices posted by the principal purchaser of oil where our producing properties are located. Our sales contracts are of a type common within the industry, and we usually negotiate a separate contract for each area. Generally, we sell our oil to purchasers and refiners near the areas of our producing properties.
+We sell the majority of our natural gas under individually negotiated gas purchase contracts using market sensitive pricing. Our sales contracts vary in length from spot market sales of a single day to term agreements that may extend up to a year. Our natural gas customers primarily include natural gas marketing companies. The natural gas purchase contracts define the terms and conditions unique to each of these sales. The price received for natural gas sold on the spot market varies daily, reflecting changing market conditions. 
+We may be unable to market all of the oil or natural gas we produce. If our oil and natural gas cannot be marketed, we may be unable to negotiate favorable pricing and contractual terms. Changes in oil or natural gas prices may significantly affect our revenues, cash flows, the value of our oil and natural gas properties and the estimates of recoverable oil and natural gas reserves. Further, significant declines in the prices of oil or natural gas may have a material adverse effect on our business and on our financial condition.
+We engage in oil and natural gas production activities in geographic regions where, from time to time, the supply of oil or natural gas available for delivery exceeds the demand. If this occurs, companies purchasing oil or natural gas in these areas may reduce the amount of oil or natural gas that they purchase from us. If we cannot locate other buyers for our production or for any of our oil or natural gas reserves, we may shut-in our oil or natural gas wells for certain periods of time. Furthermore, we may shut-in our oil and natural gas wells if regional market prices decrease to a level that is uneconomical to produce. If 
+6
+
+this occurs, we may incur additional payment obligations under our oil and natural gas leases and, under certain circumstances, the oil and natural gas leases might be terminated. Economic conditions, particularly depressed oil and natural gas prices, may negatively impact the liquidity and creditworthiness of our purchasers and may expose us to risk with respect to the ability to collect payments for the oil and natural gas we deliver.
+Raider Marketing, LP ("Raider") is a wholly owned subsidiary of EXCO and is the contractual counterparty by operation of Texas law to all of EXCO's gathering, transportation and marketing contracts in Texas and Louisiana. Raider purchases and resells natural gas from third-party producers as well as oil and natural gas from operated wells in Texas and Louisiana, and charges a fee for marketing services to certain working interest owners in the related wells.
+The availability of a ready market and the prices for oil and natural gas are dependent upon a number of factors that are beyond our control. These factors include, among other things:
+
+• | supply and demand for oil and natural gas and expectations regarding supply and demand;
+
+
+• | the level of domestic and international production;
+
+
+• | the availability of imported oil and natural gas;
+
+
+• | federal regulations applicable to the export of, and construction of export facilities for, oil and natural gas;
+
+
+• | political and economic conditions and events in foreign oil and natural gas producing nations, including embargoes, sanctions, continued hostilities in the Middle East and other sustained military campaigns, and acts of terrorism or sabotage;
+
+
+• | the ability of members of the Organization of Petroleum Exporting Countries to agree to and maintain oil price and production controls;
+
+
+• | domestic and international government regulation, legislation and policies, including levying tariffs on oil and natural gas imports;
+
+
+• | the cost and availability of transportation and pipeline systems with adequate capacity;
+
+
+• | the cost and availability of other competitive fuels;
+
+
+• | fluctuating and seasonal demand for oil, natural gas and refined products;
+
+
+• | concerns about global warming or other conservation initiatives and the extent of governmental price controls and regulation of production;
+
+
+• | regional price differentials and quality differentials of oil and natural gas;
+
+
+• | the availability of refining capacity;
+
+
+• | technological advances affecting oil and natural gas production and consumption;
+
+
+• | weather conditions and natural disasters;
+
+
+• | foreign and domestic government relations; and
+
+
+• | overall domestic and global economic conditions.
+
+Accordingly, in light of the many uncertainties affecting the supply and demand for oil, natural gas and refined petroleum products, we cannot accurately predict the prices or marketability of oil and natural gas from any producing well in which we have or may acquire an interest.
+7
+
+Our oil and natural gas reserves 
+Our Proved Reserves as of December 31, 2018 were approximately 660.6 Bcfe, of which approximately 52% were located in the Haynesville/Bossier shales, 34% in the Marcellus shale and 14% in the Eagle Ford shale. 
+The following table summarizes our Proved Reserves as of December 31, 2018, 2017 and 2016. This information was prepared in accordance with the rules and regulations of the SEC. The comparability of our reserves is impacted by commodity prices, purchases and sales of reserves in place, production, revisions of previous estimates, changes in our development plans, and discoveries and extensions. See "Management's discussion and analysis of oil and natural gas reserves" for a summary of the changes in our Proved Reserves.
+
+ | As of December 31,
+ | 2018 (3) | | 2017 (3) | | 2016 (3)
+Oil (Mbbls) | | | | | 
+Developed | 13,302 | | | 9,412 | | | 10,168 
+Undeveloped | — | | | — | | | — 
+Total | 13,302 | | | 9,412 | | | 10,168 
+Natural gas (Mmcf) | | | | | 
+Developed | 580,781 | | | 510,451 | | | 415,719
+Undeveloped | — | | | — | | | — 
+Total | 580,781 | | | 510,451 | | | 415,719
+Equivalent reserves (Mmcfe) | | | | | 
+Developed | 660,590 | | | 566,924 | | | 476,727
+Undeveloped | — | | | — | | | — 
+Total | 660,590 | | | 566,924 | | | 476,727
+PV-10 (in millions) (1) | | | | | 
+Developed | $ | 757.4 | | | $ | 482.7 | | $ | 310.9
+Undeveloped | — | | | — | | | — 
+Total | $ | 757.4 | | | $ | 482.7 | | $ | 310.9
+Standardized Measure (in millions) (2) | $ | 757.4 | | | $ | 482.7 | | $ | 310.9
+
+
+(1) | The PV-10 is based on the following average spot prices, in each case adjusted for historical differentials. Prices presented on the table below are the trailing 12 month simple average spot price at the first of the month for natural gas at Henry Hub and West Texas Intermediate ("WTI") crude oil at Cushing, Oklahoma.
+
+
+ | Average spot prices
+ | Oil (per Bbl) | | Natural gas (per Mmbtu)
+December 31, 2018 | $ | 65.56 | | | $ | 3.10
+December 31, 2017 | 51.34 | | | 2.98 | 
+December 31, 2016 | 42.75 | | | 2.48 | 
+
+
+(2) | There is no difference in Standardized Measure and PV-10 for all years presented as our tax basis in the associated properties exceeded the pre-tax cash inflows. We believe that PV-10, while not a financial measure in accordance with GAAP, is an important financial measure used by investors and independent oil and natural gas producers for evaluating the relative significance of oil and natural gas properties and acquisitions due to tax characteristics, which can differ significantly among comparable companies. The Standardized Measure represents the PV-10 after giving effect to income taxes, and is calculated in accordance with ASC 932.
+
+
+(3) | All of our undeveloped locations that meet the technical definition of Proved Undeveloped Reserves based on engineering guidelines remain classified as unproved due to our inability to meet the Reasonable Certainty criteria for recording Proved Undeveloped Reserves, as prescribed under the SEC requirements, because the uncertainty regarding our availability of capital required to develop these reserves still existed at December 31, 2018, 2017 and 2016. We have a significant amount of reserves that would meet the criteria to be classified as Proved Undeveloped Reserves if we were able to demonstrate the financial capability to execute a development plan.
+
+8
+
+Management has established, and is responsible for, internal controls designed to provide reasonable assurance that the estimates of Proved Reserves are computed and reported in accordance with rules and regulations promulgated by the SEC as well as established industry practices used by independent engineering firms and our peers. These internal controls include documented process workflows and qualified professional engineering and geological personnel with specific reservoir experience. Our internal processes and controls surrounding this process are routinely tested. We also retain outside independent engineering firms to prepare estimates of our Proved Reserves. Senior management reviews and approves our reserve estimates, whether prepared internally or by third parties. Our Chief Operating Officer oversaw our outside independent engineering firms, Netherland, Sewell & Associates, Inc. ("NSAI"), and Ryder Scott Company, L.P. ("Ryder Scott") in connection with the preparation of their estimates of our Proved Reserves as of December 31, 2018. We also regularly communicate with our outside independent engineering firms throughout the year regarding technical and operational matters critical to our reserve estimations. Our Chief Operating Officer, with input from other members of senior management, is responsible for the selection of our third-party engineering firms and review of the reports generated by such firms. Our Chief Operating Officer has over 27 years of experience in the oil and natural gas industry and is a graduate of Texas Tech University with a degree in Petroleum Engineering. During his career, he has had multiple responsibilities in technical or leadership roles including asset management, drilling and completions, production engineering, reservoir engineering and reserves management, economic evaluations and field development in U.S. onshore and international projects. The third-party engineering reports are also provided to the Audit Committee.
+Our estimated Proved Reserves and future net cash flows for our shale properties in all regions except South Texas were prepared by NSAI as of December 31, 2018 and 2017. Our estimated Proved Reserves and future net cash flows for our shale properties in the South Texas region were prepared by Ryder Scott as of December 31, 2018 and 2017. Differences may exist between reserve quantities and values as presented in this Form 10-K and the reports of third party engineering firms filed herewith due to the exclusion of certain properties from the reports of third party engineering firms and immaterial differences in the calculations performed by the reserves evaluation software utilized by management and the third party engineering firms for estimating reserves and values.
+NSAI and Ryder Scott are independent petroleum engineering firms that perform a variety of reserve engineering and valuation assessments for public and private companies, financial institutions and institutional investors. NSAI and Ryder Scott have performed these services for over 50 years. Our internal technical employees responsible for reserve estimates and interaction with our independent engineers include employees and corporate officers with petroleum and other engineering degrees and relevant industry experience. 
+Estimates of oil and natural gas reserves are projections based on a process involving an independent third party engineering firm's communication with EXCO's engineers and geologists, the collection of any and all required geological, geophysical, engineering and economic data, and such firm's complete external preparation of all required estimates and are forward-looking in nature. These reports rely on various assumptions, including definitions and economic assumptions required by the SEC, including the use of constant oil and natural gas pricing, use of current and constant operating costs and capital costs. We also make assumptions relating to availability of funds and timing of capital expenditures for development of our Proved Undeveloped Reserves. These reports should not be construed as the current market value of our Proved Reserves. The process of estimating oil and natural gas reserves is also dependent on geological, engineering and economic data for each reservoir. Because of the uncertainties inherent in the interpretation of this data, we cannot ensure that the Proved Reserves will ultimately be realized. Our actual results could differ materially. See “Note 16. Supplemental information relating to oil and natural gas producing activities (unaudited)” in the Notes to our Consolidated Financial Statements for additional information regarding our oil and natural gas reserves and the Standardized Measure. 
+NSAI and Ryder Scott also examined our estimates with respect to reserve categorization, using the definitions for Proved Reserves set forth in SEC Regulation S-X Rule 4-10(a) and SEC staff interpretations and guidance. In preparing an estimate of our Proved Reserves and future net cash flows attributable to our interests, NSAI and Ryder Scott did not independently verify the accuracy and completeness of information and data furnished by us with respect to ownership interests, oil and natural gas production, well test data, historical costs of operation and development, product prices, or any agreements relating to current and future operations of the properties and sales of production. However, if in the course of the examination anything came to the attention of NSAI or Ryder Scott, which brought into question the validity or sufficiency of any such information or data, NSAI or Ryder Scott did not rely on such information or data until they had satisfactorily resolved their questions relating thereto or had independently verified such information or data. NSAI and Ryder Scott determined that their estimates of Proved Reserves conform to the guidelines of the SEC, including the criteria of Reasonable Certainty, as it pertains to expectations about the recoverability of Proved Reserves in future years, under existing economic and operating conditions, consistent with the definition in Rule 4-10(a)(24) of SEC Regulation S-X.
+9
+
+Management's discussion and analysis of oil and natural gas reserves 
+The following discussion and analysis of our proved oil and natural gas reserves and changes in our Proved Reserves is intended to provide additional guidance on the operational activities, transactions, economic and other factors which significantly impacted our estimate of Proved Reserves as of December 31, 2018 and changes in our Proved Reserves during 2018. This discussion and analysis should be read in conjunction with “Note 16. Supplemental information relating to oil and natural gas producing activities (unaudited)” in the Notes to our Consolidated Financial Statements, and in “Item 1A. Risk Factors” addressing the uncertainties inherent in the estimation of oil and natural gas reserves elsewhere in this Annual Report on Form 10-K. The following table summarizes the changes in our Proved Reserves from January 1, 2018 to December 31, 2018.
+
+ | Oil (Mbbls) | | Natural gas (Mmcf) | | Equivalent natural gas (Mmcfe)
+Proved Developed Reserves | 13,302 | | | 580,781 | | 660,590 | 
+Proved Undeveloped Reserves | — | | | — | | — | 
+Total Proved Reserves | 13,302 | | | 580,781 | | 660,590 | 
+The changes in reserves for the year are as follows: | | | | | 
+January 1, 2018 | 9,412 | | | 510,451 | | 566,924 | 
+Purchases of reserves in place | — | | | 118,415 | | 118,415 | 
+Discoveries and extensions | 1,387 | | | 22,482 | | 30,804 | 
+Revisions of previous estimates: | | | | | 
+Changes in price | 690 | | | 5,726 | | 9,866 | 
+Performance and other factors | 3,170 | | | 22,486 | | 41,502 | 
+Sales of reserves in place | — | | | — | | — | 
+Production | (1,357 | ) | | (98,779 | ) | (106,921 | )
+December 31, 2018 | 13,302 | | | 580,781 | | 660,590 | 
+
+Purchases of reserves in place
+The 118.4 Bcfe of purchases of reserves in place for natural gas related to our acquisition of incremental interests in the Appalachia JV Settlement on February 27, 2018. The Proved Reserves acquired in the Appalachia JV Settlement predominantly consists of proved producing properties in the Marcellus shale. 
+Discoveries and extensions 
+Proved Reserve additions from discoveries and extensions were 30.8 Bcfe for the year ended December 31, 2018, primarily due to the development of operated wells in the Eagle Ford shale and non-operated wells in the Haynesville shale.
+Revisions of previous estimates 
+Our revisions of previous estimates included upward revisions to our Proved Reserve quantities of 51.4 Bcfe. The increase in commodity prices contributed to 9.9 Bcfe of the upward revisions, which extended the economic life of certain producing properties when using prices prescribed by the SEC. This change in price was primarily driven by the increase in the trailing 12 month average of oil and natural gas prices. The trailing 12 month average oil price increased from $51.34 per Bbl for the year ended December 31, 2017 to $65.56 per Bbl for the year ended December 31, 2018 and the trailing 12 month average natural gas price increased from $2.98 per Mmbtu for the year ended December 31, 2017 to $3.10 per Mmbtu for the year ended December 31, 2018.
+In addition, our revisions of previous estimates included 41.5 Bcfe due to performance and other factors. The revisions were primarily due to the reclassification of wells to Proved Reserves during 2018 that were previously reclassified to unproved reserves in prior years due to capital constraints. These reclassifications primarily related to conversions of wells to Proved Developed Reserves as a result of our development activities in the North Louisiana and South Texas regions.
+10
+
+Oil and natural gas production 
+Total oil and natural gas production in 2018 was 106.9 Bcfe, which included approximately 2.8 Bcfe in production from extensions and discoveries that were not reflected in our Proved Reserves at January 1, 2018.
+Proved Undeveloped Reserves 
+All of our undeveloped locations that meet the technical definition of Proved Undeveloped Reserves based on engineering guidelines are classified as unproved due to our inability to meet the Reasonable Certainty criteria for recording Proved Undeveloped Reserves, as prescribed under the SEC requirements, because the uncertainty regarding our availability of capital required to develop these reserves still existed at December 31, 2018. During 2018, we converted certain unproved reserves to Proved Developed Reserves as a result of our drilling and completion activities. However, we did not report any changes in our Proved Undeveloped Reserves for the year ended December 31, 2018. We have a significant amount of reserves that would meet the criteria to be classified as Proved Undeveloped Reserves if we were able to demonstrate the financial capability to execute a development plan.
+Impacts of changes in reserves on depletion rate and statements of operations in 2018
+Our depletion rate increased to $0.74 per Mcfe in 2018 from $0.57 per Mcfe in 2017. The increase was primarily due to the additional costs associated with our development of the South Texas and North Louisiana regions. In particular, the development of oil producing assets in South Texas results in a higher depletion rate when calculated on per Mcfe basis compared to the rest of our properties.
+Our production, prices and expenses 
+The following table summarizes revenues, net production, average sales price per unit and costs and expenses associated with the production of oil and natural gas.
+
+ | Year Ended December 31,
+(in thousands, except production and per unit amounts) | 2018 | | 2017 | | 2016
+Revenues, production and prices: | | | | | 
+Oil: | | | | | 
+Revenue | $ | 90,614 | | | $ | 57,693 | | $ | 67,317 
+Production sold (Mbbls) | 1,357 | | | 1,158 | | | 1,769 
+Average sales price per Bbl | $ | 66.78 | | | $ | 49.82 | | $ | 38.05 
+Natural gas: | | | | | 
+Revenue | $ | 281,977 | | | $ | 201,137 | | $ | 181,332
+Production sold (Mmcf) | 98,779 | | | 80,136 | | | 93,829
+Average sales price per Mcf | $ | 2.85 | | | $ | 2.51 | | $ | 1.93 
+Costs and expenses: | | | | | 
+Oil and natural gas operating costs per Mcfe | $ | 0.39 | | | $ | 0.40 | | $ | 0.33 
+
+11
+
+We had two areas that exceeded 15% of our total Proved Reserves as of December 31, 2018. The Holly field in North Louisiana and the Marcellus shale in Appalachia represented approximately 43% and 34% of our total Proved Reserves, respectively. The following table provides additional information related to our Holly and Marcellus shale areas:
+
+ | Year Ended December 31,
+ | 2018 | | 2017 | | 2016
+Holly area: | | | | | 
+Natural gas production sold (Mmcf) | 70,104 | | | 53,368 | | | 55,290
+Average price per Mcf | $ | 2.94 | | | $ | 2.60 | | $ | 2.00
+Oil and natural gas operating costs per Mcf | 0.29 | | | 0.32 | | | 0.23 
+Marcellus shale: | | | | | 
+Natural gas production sold (Mmcf) | 17,829 | | | 9,863 | | | 10,851
+Average price per Mcf | $ | 2.51 | | | $ | 2.14 | | $ | 1.50
+Oil and natural gas operating costs per Mcf | 0.24 | | | 0.17 | | | 0.12 
+
+Our interest in productive wells
+The following table quantifies information regarding productive wells (wells that are currently producing oil or natural gas or are capable of production), including temporarily shut-in wells. The number of total gross oil and natural gas wells excludes any multiple completions. Gross wells refer to the total number of physical wells in which we hold a working interest, regardless of our percentage interest. A net well is not a physical well, but is a concept that reflects the actual total working interests we hold in all wells. We compute the number of net wells by totaling the percentage interests we hold in all our gross wells.
+
+ | At December 31, 2018
+ | Gross wells (1) | Net wells 
+ | Oil | Natural gas | | Total | Oil | Natural gas | | Total
+Producing region: | | | | | | | | 
+North Louisiana | — | | 677 | | 677 | | — | | 251.2 | 251.2
+East Texas | — | | 157 | | 157 | | — | | 50.3 | 50.3 
+South Texas | 255 | | 1 | | 256 | | 111.3 | | 0.1 | 111.4
+Appalachia and other | 1 | | 156 | | 157 | | — | | 85.5 | 85.5 
+Total | 256 | | 991 | | 1,247 | | 111.3 | | 387.1 | 498.4
+
+
+(1) | As of December 31, 2018, we did not hold interests in any wells with multiple completions.
+
+As of December 31, 2018, we operated 888 gross (473.6 net) wells, which represented approximately 90% of our Proved Developed Reserves. 
+12
+
+Our drilling activities
+Our drilling activities are primarily focused on horizontal drilling in shale plays, particularly in the Haynesville, Bossier, Eagle Ford and Marcellus shales. The following tables summarize our approximate gross and net interests in the operated wells we drilled during the periods indicated and refer to the number of wells completed during the period, regardless of when drilling was initiated.
+
+ | Development wells
+ | Gross | Net
+ | Productive | Dry | | Total | Productive | Dry | | Total
+Year ended December 31, 2018 (1) | 30 | | — | | 30 | | 21.2 | | — | 21.2
+Year ended December 31, 2017 (2) | 10 | | — | | 10 | | 6.8 | | — | 6.8 
+Year ended December 31, 2016 (3) | 15 | | — | | 15 | | 9.2 | | — | 9.2 
+ | Exploratory wells
+ | Gross | Net
+ | Productive | Dry | | Total | Productive | Dry | | Total
+Year ended December 31, 2018 (1) | — | | — | | — | | — | | — | — 
+Year ended December 31, 2017 (2) | 2 | | — | | 2 | | 1.6 | | — | 1.6 
+Year ended December 31, 2016 (3) | — | | — | | — | | — | | — | — 
+
+
+(1) | Our development wells in 2018 primarily included the Haynesville shale in the Holly area of North Louisiana and the Eagle Ford shale of South Texas. None of the wells completed during the period were classified as exploratory.
+
+
+(2) | Our development wells in 2017 primarily included the Haynesville shale in the Holly area of North Louisiana. Our exploratory wells included the Bossier shale in the Holly area of North Louisiana.
+
+
+(3) | Our development in 2016 primarily included the Haynesville and Bossier shales in the Shelby area of East Texas and the Haynesville shale in the Holly area of North Louisiana. None of the wells completed during the period were classified as exploratory.
+
+Our developed and undeveloped acreage
+Developed acreage includes those acres spaced or assignable to producing wells or wells capable of producing. Undeveloped acreage represents those acres that do not currently have completed wells capable of producing commercial quantities of oil or natural gas, regardless of whether the acreage contains Proved Reserves. The definitions of gross acres and net acres conform to how we determine gross wells and net wells. The following table sets forth our developed and undeveloped acreage:
+
+ | At December 31, 2018
+ | Developed | Undeveloped
+Area | Gross | Net | | Gross | Net 
+North Louisiana | 77,700 | | 37,700 | | 23,700 | 17,800 
+East Texas | 46,900 | | 20,500 | | 63,100 | 20,600 
+South Texas | 94,300 | | 45,400 | | 6,500 | 3,100 
+Appalachia and other | 53,300 | | 38,100 | | 328,900 | 304,700
+Total | 272,200 | | 141,700 | | 422,200 | 346,200
+
+The primary terms of our oil and natural gas leases expire at various dates. Most of our undeveloped acreage is held-by-production, which means that these leases are active as long as there is production of oil or natural gas from wells on the acreage or certain lease terms are met. Upon ceasing production, these leases will expire. As of December 31, 2018, we had approximately 2,800; 5,900; and 200 net acres with lease expirations in 2019, 2020 and 2021, respectively. In addition, we have approximately 9,700 net acres located in the Shelby area of East Texas that are subject to continuous drilling obligations, and we plan to hold the acreage through drilling wells or participating in the drilling of non-operated wells on the acreage. Predominantly all of our expiring acreage is located within our shale resource plays.
+The held-by-production acreage in many cases represents potential additional drilling opportunities through down-spacing and drilling of proved undeveloped and unproved locations in the same formation(s) already producing, as well as 
+13
+
+other non-producing formations, in a given oil or natural gas field without the necessity of purchasing additional leases or producing properties.
+Competition 
+The oil and natural gas industry is highly competitive, particularly with respect to acquiring prospective oil and natural gas properties and oil and natural gas reserves. We encounter strong competition from other independent operators and from major oil companies in acquiring properties, contracting for drilling equipment and securing trained personnel. Many of these competitors have substantially greater financial, managerial, technological and other resources than we do. Many of these companies not only engage in the acquisition, exploration, development, and production of oil and natural gas, but also have refining operations, market refined products and their own drilling rigs and oilfield services. 
+
+The oil and natural gas industry has periodically experienced shortages of drilling rigs, equipment, pipe and personnel, which have delayed development drilling and other exploitation activities and have caused significant price increases and operational delays. We may experience difficulties in obtaining drilling rigs and other services in certain areas as well as an increase in the cost for these services and related material and equipment. We are unable to predict when, or if, supply or demand imbalances may occur or how these market-driven factors impact prices, which affect our development and exploitation programs. Furthermore, our relationships with vendors may be negatively impacted by the Chapter 11 Cases, including their perception of our financial condition and long-term business plans. This could further disadvantage our ability to obtain services or negatively impact the prices to obtain certain services. 
+The oil and gas industry continues to experience strong demand for drilling and completion services. The domestic U.S. onshore rig count increased from 374 in May 2016 to 1,056 in December 2018. Furthermore, oil and gas companies have increased the average amount of proppant utilized in the hydraulic fracturing process to enhance recoveries from the wells. As a result, the increased demand for drilling rigs and completion services could result in increased costs to develop our oil and gas properties. 
+Competition also exists for hiring experienced personnel, particularly in petroleum engineering, geoscience, accounting and financial reporting, tax and land professions. In addition, the market for oil and natural gas properties is competitive. We are often outbid by competitors in our attempts to lease or acquire properties. The oil and natural gas industry also faces competition from alternative fuel sources, including other fossil fuels such as coal and renewable energy sources such as wind and solar power. Competitive conditions may be affected by future legislation and regulations as the U.S. develops new energy and climate-related policies. All of these challenges could make it more difficult to execute our growth strategy or result in an increase in our costs. 
+Applicable laws and regulations
+General
+The oil and natural gas industry is extensively regulated by numerous federal, state and local authorities. Laws, orders and regulations affecting the oil and natural gas industry are under constant review for amendment or expansion, which could increase the regulatory burden and financial sanctions for noncompliance. Although the regulatory burden on the oil and natural gas industry increases our cost of doing business and, consequently, affects our profitability, we believe these burdens do not affect us any differently or to any greater or lesser extent than they affect others in our industry with similar types, quantities and locations of production.
+The following is a summary of the more significant existing environmental, safety and other laws and regulations to which our business operations are subject and with which compliance may have a material adverse effect on our capital expenditures, earnings or competitive position.
+Production regulation
+Our operations are subject to a number of regulations at the federal, state and local levels. These regulations require, among other things, permits for the drilling of wells, drilling bonds and reports concerning operations. Many states, counties and municipalities in which we operate also regulate one or more of the following:
+•the location of wells;
+•the method of drilling, completing and operating wells;
+14
+
+•the surface use and restoration of properties upon which wells are drilled;
+•the plugging and abandoning of wells;
+•notice to surface owners and other third parties; and
+•produced water and waste disposal.
+State laws regulate the size and shape of drilling and spacing units or proration units governing the pooling of oil and natural gas properties. Horizontal wells drilled in shale formations, as distinguished from vertical wells, utilize multilateral wells and stacked laterals, all of which are also subject to well spacing, density and proration requirements of the Texas Railroad Commission that could adversely impact our ability to maximize the efficiency of our horizontal wells related to reservoir drainage over time. Some states, including Louisiana and Texas, allow forced pooling or integration of tracts to facilitate exploration while other states rely on voluntary pooling of lands and leases. In some instances, forced pooling or unitization may be implemented by third parties and may reduce our interest in the unitized properties. In addition, state conservation laws establish maximum rates of production from oil and natural gas wells and generally prohibit the venting or flaring of natural gas and require that oil and natural gas be produced in a prorated, equitable system. These laws and regulations may limit the amount of oil and natural gas we can produce from our wells or limit the number of wells or the locations at which we can drill. Moreover, most states generally impose a production, ad valorem or severance tax with respect to the production and sale of oil and natural gas within its jurisdiction. Many local authorities also impose an ad valorem tax on the minerals in place. States do not generally regulate wellhead prices or engage in other, similar direct economic regulation, but there can be no assurance they will not do so in the future.
+Our operations are subject to numerous stringent federal and state statutes and regulations governing the discharge of materials into the environment or otherwise relating to environmental protection, some of which carry substantial administrative, civil and criminal penalties, as well as potential injunctive relief, for failure to comply. These laws and regulations may require the acquisition of a permit before drilling commences, restrict the types, quantities and concentrations of various substances that can be released into the environment in connection with drilling, production and transportation of oil and natural gas, govern the sourcing, storage and disposal of water used or produced in the drilling and completion process, restrict or prohibit drilling activities in certain areas and on certain lands lying within wetlands and other protected areas, require closing earthen impoundments and impose liabilities for pollution resulting from operations or failure to comply with regulatory filings.
+Statutes, rules and regulations that apply to the exploration and production of oil and natural gas are often reviewed, amended, expanded and reinterpreted, making the prediction of future costs or the impact of regulatory compliance to new laws and statutes difficult. The regulatory burden on the oil and natural gas industry increases its cost of doing business and, consequently, adversely affects its (and our) profitability.
+FERC and CFTC matters
+The availability, terms and cost of downstream transportation significantly affect sales of natural gas and oil. The interstate transportation of natural gas, including regulation of the terms, conditions and rates for interstate transportation and storage of natural gas, is subject to federal regulation by the Federal Energy Regulatory Commission (“FERC”) under the Natural Gas Act (“NGA”). Transportation rates under the NGA must be just and reasonable. Since 1985, FERC has implemented regulations intended to increase competition within the natural gas industry by requiring that interstate natural gas transportation be made available on an open-access, not unduly discriminatory basis. FERC’s jurisdiction under the NGA excludes gathering and distribution of natural gas; therefore, gathering and distribution of natural gas are subject to regulation by individual state laws. State regulations also govern the rates and terms for access to, and transportation of natural gas on, intrastate pipeline facilities (while intrastate pipelines may from time to time provide specific services that are subject to limited regulation by FERC). The interstate transportation of oil, including regulation of the rates, terms and conditions of service, is subject to federal regulation by FERC under the Interstate Commerce Act. Rates for such oil transportation must be just and reasonable and not unduly discriminatory. Oil transportation that is not federally regulated is left to state regulation.
+With respect to its regulation of natural gas pipelines under the NGA, FERC has not generally required the applicant for construction of a new interstate natural gas pipeline to produce evidence of the greenhouse gas (“GHG”) emissions of the proposed pipeline’s customers. In August 2017, the U.S. Circuit Court of Appeals for the DC Circuit issued a decision remanding a natural gas pipeline certificate application to FERC, which required FERC to revise its environmental impact statement for the proposed pipeline to take into account GHG carbon emissions from downstream power plants using natural gas transported by the new pipeline. It is too early to determine the impacts of this Court decision, but it could be significant.
+The federal government recently ended its decades-old prohibition of exports of crude oil produced in the lower 48 states of the U.S. It is too recent an event to determine the impact this regulatory change may have on our operations or our sales of 
+15
+
+oil. The general perception in the industry is that ending the prohibition on exports of oil produced in the U.S. may have a positive impact on U.S. producers. In addition, the U.S. Department of Energy (“DOE”) authorizes exports of natural gas, including exports of natural gas by pipelines connecting U.S. natural gas production to pipelines in Mexico, which are expected to increase significantly with the changes taking place in the Mexican government’s regulations of the energy sector in Mexico. In addition, the DOE authorizes the export of liquefied natural gas (“LNG”) through LNG export facilities, the construction of which is regulated by FERC. In the third quarter of 2016, the first quantities of natural gas produced in the lower 48 states of the U.S. were exported as LNG from the first of several LNG export facilities being developed and constructed in the U.S. Gulf Coast region. While the volume of natural gas exports increased in 2018 and 2017, it is too recent an event to determine the impact this change may have on our operations or our sales of natural gas, the perception in the industry is that this will be a positive development for producers of U.S. natural gas.
+Wholesale prices for natural gas and oil are not currently regulated and are determined by the market. We cannot predict, however, whether new legislation to regulate the price of energy commodities might be proposed, what proposals, if any, might actually be enacted by Congress or the various state legislatures, and what effect, if any, the proposals might have on the operations of the underlying properties.
+Under the Energy Policy Act of 2005, FERC possesses regulatory oversight over natural gas markets, including the purchase, sale and transportation activities of natural gas market participants other than intrastate pipelines. The Commodity Futures Trading Commission (“CFTC”) also holds authority to monitor markets and enforce anti-market manipulation regulations with respect to the physical and financial (futures, options and swaps) energy commodities market pursuant to the Commodity Exchange Act, as amended by the Dodd Frank Wall Street Reform and Consumer Protection Act of 2010. With regard to our physical sales of natural gas and oil, our gathering of any of these energy commodities, and any related hedging activities that we undertake, we are required to observe these anti-market manipulation laws and related regulations enforced by FERC and/or the CFTC. These agencies hold substantial enforcement authority, including the ability to assess civil penalties of up to $1 million per day per violation, to order disgorgement of profits and to recommend criminal penalties. Should we violate the anti-market manipulation laws and regulations, we could also be subject to related third party damage claims by, among others, sellers, royalty owners and taxing authorities.
+Federal, state or tribal oil and natural gas leases
+In the event we conduct operations on federal, state or tribal oil and natural gas leases, such operations must comply with numerous regulatory restrictions, including various nondiscrimination statutes, royalty and related valuation requirements, and certain of these operations must be conducted pursuant to certain on-site security regulations and other appropriate permits issued by the Bureau of Land Management ("BLM"), Bureau of Ocean Energy Management, Bureau of Safety and Environmental Enforcement or other appropriate federal, state or tribal agencies.
+Surface Damage Acts
+In addition, a number of states and some tribal nations have enacted surface damage statutes (“SDAs”). These laws are designed to compensate for damage caused by mineral development. Most SDAs contain entry notification and negotiation requirements to facilitate contact between operators and surface owners/users. Most also contain binding requirements for payments by the operator to surface owners/users in connection with exploration and operating activities in addition to bonding requirements to compensate for damages to the surface as a result of such activities. Costs and delays associated with SDAs could impair operational effectiveness and increase development costs.
+Other regulatory matters relating to our pipeline and gathering system assets and rail transportation
+The pipelines we use to gather and transport our oil and natural gas in interstate commerce are subject to regulation by the U.S. Department of Transportation (“DOT”) under the Hazardous Liquid Pipeline Safety Act of 1979, as amended (“HLPSA”) with respect to oil, and the Natural Gas Pipeline Safety Act of 1968, as amended (“NGPSA”) with respect to natural gas. The HLPSA and NGPSA govern the design, installation, testing, construction, operation, replacement and management of natural gas and hazardous liquids pipeline facilities, including pipelines transporting crude oil. Where applicable, the HLPSA and NGPSA also require us and other pipeline operators to comply with regulations issued pursuant to these acts that are designed to permit access to and allow copying of records and to make certain reports available and provide information as required by the Secretary of Transportation.
+ The Pipeline Safety Act of 1992, as reauthorized and amended (“Pipeline Safety Act”) mandates requirements in the way that the energy industry ensures the safety and integrity of its pipelines. The law applies to natural gas and hazardous liquids pipelines, including some gathering pipelines. Central to the law are the requirements it places on each pipeline operator 
+16
+
+to prepare and implement an “integrity management program.” The Pipeline Safety Act mandates a number of other requirements, including increased penalties for violations of safety standards and qualification programs for employees who perform sensitive tasks. The DOT has established a number of rules carrying out the provisions of this act. The DOT Pipeline and Hazardous Materials Safety Administration (“PHMSA”) has established a new risk-based approach to determine which gathering pipelines are subject to regulation, and what safety standards regulated pipelines must meet. We could incur significant expenses as a result of these laws and regulations.
+The pipelines used to gather and transport natural gas being produced by us are also subject to regulation by the DOT under the NGPSA, the Pipeline Safety Act, and the Pipeline Safety, Regulatory Certainty, and Job Creation Act of 2011, which was signed into law in January 2012. This law includes a number of provisions affecting pipeline owners and operators that became effective upon approval, including increased civil penalties for violators of pipeline regulations and additional reporting requirements. Most of the changes do not impact gathering lines. This legislation requires the PHMSA to issue or revise certain regulations and to conduct various reviews, studies and evaluations. In addition, the PHMSA had initially considered regulations regarding, among other things, the designation of additional high consequence areas along pipelines, minimum requirements for leak detection systems, installation of emergency flow restricting devices, and revision of valve spacing requirements. In October 2015, the PHMSA issued proposed new safety regulations for hazardous liquid pipelines, including a requirement that all hazardous liquid pipelines have a system for detecting leaks and for operators to establish a timeline for inspections of affected pipelines following extreme weather events or natural disasters. If such revisions to gathering line regulations and liquid pipelines regulations are enacted by PHMSA, we could incur significant expenses.
+U.S. federal taxation
+Federal income tax laws significantly affect our operations. The principal provisions that affect us are those that permit us, subject to certain limitations, to deduct as incurred, rather than to capitalize and amortize, our share of the domestic “intangible drilling and development costs” and to claim depletion on a portion of our domestic oil and natural gas properties (up to an aggregate of 1,000 Bbls per day of domestic crude oil and/or equivalent units of domestic natural gas). Further, the federal government may adopt tax laws and/or regulations that will possibly materially adversely affect us. For example, tax legislation enacted in December 2017 provides that net operating losses (“NOLs”) arising in tax years ending after December 31, 2017 are only deductible to the extent of 80% of our taxable income in such year. In addition, NOLs can now be carried forward indefinitely, but cannot be carried back. Other measures that have been proposed in the past include the repeal or elimination of percentage depletion and the immediate deduction or write-offs of intangible drilling costs. Because of the speculative nature of potential future changes in federal tax laws, we are unable to determine what effect, if any, future laws would have on product demand or our results of operations. See further discussion of the potential limitations on our ability to utilize NOLs in "Item 1A. Risk Factors" and recent changes to tax laws and regulations in "Note 12. Income taxes" in the Notes to our Consolidated Financial Statements.
+U.S. environmental regulations
+The exploration, development and production of oil and natural gas, including the operation of saltwater injection and disposal wells, are subject to various federal, state and local environmental laws and regulations. These laws and regulations can increase the costs of planning, designing, installing and operating oil and natural gas wells. Federal environmental statutes to which our domestic activities are subject include, but are not limited to:
+•the Oil Pollution Act of 1990 (“OPA”); 
+•the Clean Water Act of 1972 (“CWA”); 
+•the Rivers and Harbors Act of 1899; 
+•the Comprehensive Environmental Response, Compensation and Liability Act, as amended (“CERCLA”); 
+•the Resource Conservation and Recovery Act (“RCRA”); 
+•the Clean Air Act (“CAA”); 
+•the Safe Drinking Water Act (“SDWA”);
+•the Toxic Substances Control Act of 1976 ("TSCA");
+•the Endangered Species Act of 1973 (the "ESA"); and 
+•the National Environment Policy Act of 1969 (the "NEPA").
+These laws and their implementing regulations, as well as analogous state and local laws and regulations, generally restrict pollutants emitted to the air, discharges to surface waters, and disposal or other releases to surface and below ground soils and groundwater.
+17
+
+In general, the oil and natural gas exploration and production industry has been the subject of increasing scrutiny and regulation by environmental authorities. For example, the United States Environmental Protection Agency (“EPA”) has identified ensuring environmental compliance by the energy extraction sector as one of its enforcement initiatives for fiscal years 2017-2019. However, the EPA has proposed to transition away from a sector specific initiative for the 2020-2023 fiscal years to a more general focus on significant sources of VOCs. 
+Our domestic activities are subject to regulations promulgated under federal statutes and comparable state statutes. We also are subject to regulations governing the handling, transportation, storage and disposal of naturally occurring radioactive materials that are found in our oil and natural gas operations and other materials generated by our operations. Administrative, civil and criminal penalties, as well as injunctive relief, may be imposed for non-compliance with environmental laws and regulations. Additionally, these laws and regulations may require the acquisition of permits or other governmental authorizations before we undertake certain activities, limit or prohibit other activities because of protected areas or species, restrict the types of substances used in our drilling operations, impose certain substantial liabilities for the investigation and clean-up of pollution, impose certain reporting requirements, regulate remedial plugging operations to prevent future contamination, and require substantial expenditures for compliance. We cannot predict what effect future regulation or legislation, enforcement policies, and claims for damages to property, employees, other persons and the environment resulting from our operations could have on our activities.
+Under the CWA, which was amended and augmented by OPA, our release or threatened release of oil or hazardous substances into or upon waters of the United States, adjoining shorelines and wetlands and offshore areas could result in our being held responsible for: (1) the costs of removing or remediating a release; (2) administrative, civil or criminal fines or penalties; or (3) specified damages, such as loss of use, property damage and natural resource damages. The scope of our liability could be extensive depending upon the circumstances of the release. Liability can be joint and several and without regard to fault. The CWA imposes restrictions and permitting requirements for discharges of pollutants as well as certain discharges of dredged or fill material into waters of the United States, including certain wetlands, which may apply to various of our construction activities, as well as requirements to develop Spill Prevention Control and Countermeasure Plans and Facility Response Plans to address potential discharges of oil into or upon waters of the United States and adjoining shorelines. State laws governing discharges to water also may impose restrictions and require varying civil, criminal and administrative penalties and impose liabilities in the case of a discharge of petroleum or its derivatives, or other hazardous substances, into state waters. In 2015, the EPA issued final rules outlining its position on the federal jurisdictional reach over waters of the United States. This interpretation by the EPA may constitute an expansion of federal jurisdiction over waters of the United States. The rule was approved and the current administration moved to stay and replace the rule. On February 14, 2019, the EPA proposed a new rule on federal jurisdiction over the waters of the United States. The comment period on this rule remains open.
+CERCLA, often referred to as Superfund, and comparable state statutes, impose liability that is generally joint and several and that is retroactive for costs of investigation and remediation and for natural resource damages, without regard to fault or the legality of the original conduct, on specified classes of persons for the release of a “hazardous substance” or under state law, other specified substances, into the environment. So-called potentially responsible parties (“PRPs”) include the current and certain past owners and operators of a facility where there has been a release or threat of release of a hazardous substance and persons who disposed of or arranged for the disposal of hazardous substances found at a site. CERCLA also authorizes the EPA and, in some cases, third parties to take actions in response to threats to the public health or the environment and to seek to recover from the PRPs the cost of such action. Liability can arise from conditions on properties where operations are conducted, even under circumstances where such operations were performed by third parties not under our control, and/or from conditions at third party disposal facilities where materials from operations were sent. Although CERCLA currently exempts petroleum (including oil and natural gas) from the definition of hazardous substance, some similar state statutes do not provide such an exemption. We cannot ensure that this exemption will be preserved in any future amendments of the act. Such amendments could have a material impact on our costs or operations. Additionally, our operations may involve the use or handling of other materials that may be classified as hazardous substances under CERCLA or regulated under similar state statutes. We may also be the owner or operator of sites on which hazardous substances have been released.
+Oil and natural gas exploration and production, and possibly other activities, have been conducted at a majority of our properties by previous owners and operators. Materials from these operations remain on some of the properties and in certain instances may require remediation. In some instances, we have agreed to indemnify the sellers of producing properties from whom we have acquired reserves against certain liabilities for environmental claims associated with the properties. We do not believe the costs to be incurred by us for compliance and remediating previously or currently owned or operated properties will be material, but we cannot guarantee that result.
+18
+
+RCRA and comparable state and local programs impose requirements on the management, generation, treatment, storage, disposal and remediation of both hazardous and nonhazardous solid wastes. Although we believe we utilize operating and waste disposal practices that are standard in the industry, hydrocarbons or other solid wastes may have been disposed or released on or under the properties we own or lease, in addition to the locations where such wastes have been taken for disposal. In addition, many of these properties have been owned or operated by third parties. We have not had control over such parties' treatment of hydrocarbons or other solid wastes and the manner in which such substances may have been disposed or released. We also generate hazardous and non-hazardous solid waste in our routine operations. It is possible that certain wastes generated by our operations, which are currently exempt from “hazardous waste” regulations under RCRA, may in the future be designated as “hazardous waste” under RCRA or other applicable state statutes and become subject to more rigorous and costly management and disposal requirements; these wastes may not be exempt under current applicable state statutes. For example, following the filing of a lawsuit in the U.S. District Court for the District of Columbia in May 2016 by several non-governmental environmental groups against the EPA for the agency’s failure to timely assess its RCRA Subtitle D criteria regulations for oil and gas wastes, the EPA and the environmental groups entered into an agreement that was finalized in a consent decree issued by the District Court on December 28, 2016. Under the decree, the EPA is required to propose no later than March 15, 2019, a rulemaking for revision of certain Subtitle D criteria regulations pertaining to oil and gas wastes or sign a determination that revision of the regulations is not necessary. If the EPA proposes a rulemaking for revised oil and gas waste regulations, the Consent Decree requires that the EPA take final action following notice and comment rulemaking no later than July 15, 2021. Non-exempt waste is subject to more rigorous and costly disposal requirements. A loss of the RCRA exclusion for drilling fluids, produced waters and related wastes could result in a significant increase in our costs to manage and dispose of waste.
+Our operations are subject to local, state and federal regulations for the control of emissions from sources of air pollution. The CAA and analogous state and local laws require certain new and modified sources of air pollutants to obtain permits prior to commencing construction or operation. Smaller sources may qualify for exemption from permit requirements or for more streamlined permitting, for example, through qualifications for permits by rule, standard permits or general permits. Major sources of air pollutants are subject to more stringent, federally imposed requirements including additional operating permits. Federal and state laws designed to control hazardous (i.e., toxic) air pollutants may require installation of additional controls. Administrative enforcement actions for failure to comply strictly with air pollution regulations or permits are generally resolved by payment of monetary fines and correction of any identified deficiencies. Alternatively, regulatory agencies could bring lawsuits for civil penalties or require us to suspend or forgo construction, modification or operation of certain air emission sources.
+The EPA has issued final rules to subject oil and natural gas productions, storage, processing and transmission operations to regulation under the New Source Performance Standards (“NSPS”) and National Emission Standards for Hazardous Air Pollutants (“NESHAPS”), both programs under the CAA, and to impose new and amended requirements under both programs. The EPA rules include NSPS standards for completions of hydraulically fractured natural gas wells. Beginning January 1, 2015, operators must capture the natural gas and make it available for use or sale, which can be done through the use of green completions. The standards are applicable to new hydraulically fractured wells and also existing wells that are refractured. Further, the finalized regulations also establish specific new requirements, which became effective in 2012, for emissions from compressors, controllers, dehydrators, storage tanks, natural gas processing plants and certain other equipment. These rules may require changes to our operations, including the installation of new equipment to control emissions. We continuously evaluate the effect these rules and amendments will have on our business.
+The EPA has adopted rules to regulate methane emissions from new and modified oil and gas production sources and natural gas processing and transmission sources. The rules amend the air emission rules for oil and natural gas sources and natural gas processing and transmission facilities to include new standards for methane. In September 2018, the EPA proposed changes to the previously-adopted methane emissions rules to reduce regulatory burdens and harmonize federal and state requirements by reducing the frequency for monitoring methane leaks and increase the time allowed for repair and allowing companies to meet certain state requirements for leaks as an alternative to EPA standards where the state regulations “are at least equivalent” to the EPA’s. The status of future regulation remains unclear, but any changes could require changes to our operations, including the installation of new emission control equipment. Simultaneously with the methane rules, the EPA adopted new rules governing the aggregating of multiple surface sites into a single-source of air quality permitting purposes, a change which could impact the applicability of permitting requirement to our operations and subject certain operations to additional regulatory requirements. We continuously evaluate the effect of these rules on our operations.
+In the most recent Congressional session, a resolution was proposed which aimed to dramatically reduce greenhouse gas emissions, including a transition from fossil fuel. It is unclear what the future of this or other legislation would be. However, such legislation if adopted could have an adverse effect on demand for the oil and natural gas that we produce. In the absence of comprehensive federal legislation on GHG emission control, the EPA attempted to require the permitting of GHG emissions. 
+19
+
+Although the Supreme Court struck down the permitting requirements, it upheld the EPA’s authority to control GHG emissions when a permit is required due to emissions of other pollutants. These permitting provisions, to the extent applicable to our operations, could require us to implement emission controls or other measures to reduce GHG emissions and we could incur additional costs to satisfy those requirements. In addition, GHG regulations could have an adverse effect on demand for the oil and natural gas we produce.
+In addition, the EPA requires the reporting of GHG emissions from specified large GHG emission sources including onshore and offshore oil and natural gas production facilities and onshore oil and natural gas processing, transmission, storage and distribution facilities, which may include facilities we operate. Reporting of GHG emissions from such facilities is required on an annual basis. We will continue to incur costs associated with this reporting obligation.
+Additionally, in December 2015, the United States joined the international community at the 21st Conference of the Parties of the United Nations Framework Convention on Climate Change in Paris, France that prepared an agreement requiring member countries to review and "represent a progression" in their intended nationally determined contributions, which set GHG emission reduction goals every five years beginning in 2020. This “Paris Agreement” was signed by the United States in April 2016 and entered into force in November 2016. The United States is one of more than 120 nations having ratified or otherwise consented to the agreement; however, this agreement does not create any binding obligations for nations to limit their GHG emissions but, rather, includes pledges to voluntarily limit or reduce future emissions. President Trump has announced the United States' intention to withdraw from the Paris Agreement.
+In late 2016, the BLM adopted rules governing flaring and venting on public and tribal lands, which could require additional equipment and emissions controls as well as inspection requirements. In September 2018, the BLM finalized a rule that eliminated many of the initial restrictions on flaring and venting and modified or replaced others. This rulemaking has been challenged in court and litigation is ongoing. Additional regulations on our air emissions are likely to result in increased compliance costs and additional operating restrictions on our business.
+ESA was established to protect endangered and threatened species. Pursuant to that act, if a species is listed as threatened or endangered, restrictions may be imposed on activities adversely affecting that species’ habitat. Similar protections are offered to migratory birds under the Migratory Bird Treaty Act. The U.S. Fish and Wildlife Service must also designate the species’ critical habitat and suitable habitat as part of the effort to ensure survival of the species. A critical habitat or suitable habitat designation could result in further material restrictions to land use and may materially delay or prohibit land access for oil and natural gas development. If we were to have a portion of our leases designated as critical or suitable habitat, it may adversely impact the value of the affected leases.
+Oil and natural gas exploration and production activities on federal lands may be subject to the NEPA, which requires federal agencies, including the Department of the Interior, to evaluate major agency actions having the potential to significantly impact the environment. In the course of such evaluations, an agency will prepare an Environmental Assessment that assesses the potential direct, indirect and cumulative impacts of a proposed project and, if necessary, will prepare a more detailed Environmental Impact Statement that may be made available for public review and comment. Depending on the mitigation strategies recommended in the Environmental Assessments or Environmental Impact Statement, we could incur added costs, which may be significant. Reviews and decisions under NEPA are also subject to protest, appeal or litigation, any or all of which may delay or halt projects. To the extent that our exploration and development plans include leases on federal lands, the NEPA requirements have the potential to delay or impose additional conditions upon the development of oil and natural gas projects.
+Hydraulic fracturing activities
+Over the past few years, there has been an increased focus on environmental aspects of hydraulic fracturing activities in the United States. While hydraulic fracturing is typically regulated by state oil and natural gas commissions in the United States, there have recently been a number of regulatory initiatives at the federal and local levels as well as by other state agencies.
+Nearly all of our exploration and production operations depend on the use of hydraulic fracturing to enhance production from oil and natural gas wells. Hydraulic fracturing involves the injection of water, sand and chemicals under pressure into formations to fracture the surrounding rock and stimulate production. Our hydraulic fracturing activities are focused in our shale plays in South Texas, East Texas, North Louisiana and Appalachia. Predominantly all of our undeveloped properties would not be economical without the use of hydraulic fracturing to stimulate production from the well.
+20
+
+Currently, most hydraulic fracturing activities are regulated at the state level, as the SDWA currently exempts from regulation the injection of fluids or propping agents (other than diesel fuels) for hydraulic fracturing operations. Congress has periodically considered legislation to amend the federal SDWA to remove the exemption from regulation and permitting that is applicable to hydraulic fracturing operations and to require reporting and disclosure of chemicals used by the oil and natural gas industry in the hydraulic fracturing process. Sponsors of bills previously introduced before the Senate and House of Representatives have asserted that chemicals used in the fracturing process could adversely affect drinking water supplies. Many states have considered or adopted legislation regulating hydraulic fracturing, including the disclosure of chemicals used in the process or the prohibition of certain hydraulic fracturing activities. These bills, or similar legislation, if adopted, could increase the possibility of litigation and establish an additional level of regulation at the federal level that could lead to operational delays or increased operating costs and could result in additional regulatory burdens, making it more difficult to perform hydraulic fracturing and increasing our costs of compliance.
+In addition, the EPA has recently been taking action to assert federal regulatory authority over hydraulic fracturing using diesel under the SDWA's Underground Injection Control Program and has issued guidance regarding its authority over the permitting of these activities. Additionally, in December 2016, the EPA released its final report on the potential impacts of hydraulic fracturing on drinking water resources, concluding that “water cycle” activities associated with hydraulic fracturing may impact drinking water resources “under some circumstances,” including water withdrawals for fracturing in times or areas of low water availability; surface spills during the management of fracturing fluids, chemicals or produced water; injection of fracturing fluids into wells with inadequate mechanical integrity; injection of fracturing fluids directly into groundwater resources; discharge of inadequately treated fracturing wastewater to surface waters; and disposal or storage of fracturing wastewater in unlined pits. Further, in June 2016, the EPA published an effluent limit guideline final rule prohibiting the discharge of wastewater from onshore unconventional oil and natural gas extraction facilities to publicly owned wastewater treatment plants. In 2014, the EPA published an advanced notice of public rulemaking regarding TSCA reporting of the chemical substances and mixture used in hydraulic fracturing.
+The BLM published a final rule that established new or more stringent standards relating to hydraulic fracturing on federal and tribal lands but, in June 2016 a Wyoming federal judge struck down this final rule, finding that the BLM lacked authority to promulgate the rule. In December 2017, the BLM issued a final rule to rescind the earlier rulemaking on hydraulic fracturing. This rulemaking has been challenged in court and litigation is ongoing.
+Local regulations, which may be preempted by state and federal regulations, have included the following which may extend to all operations including those beyond hydraulic fracturing:
+•noise control ordinances; 
+•traffic control ordinances; 
+•limitations on the hours of operations; and 
+•mandatory reporting of accidents, spills and pressure test failures. 
+If in the course of our routine oil and natural gas operations, surface spills and leaks occur, including casing leaks of oil or other materials, we may incur penalties and costs for waste handling, investigation and remediation and third party actions for damages. Moreover, we are only able to directly control the operations of the wells that we operate. Notwithstanding our lack of control over wells owned by us but operated by others, the failure of the operator to comply with applicable environmental regulations may be attributable to us and may impose legal liabilities upon us.
+If substantial liabilities to third parties or governmental entities are incurred, the payment of such claims may reduce or eliminate the funds available for project investment or result in loss of our properties. Although we maintain insurance coverage we consider to be customary in the industry, we are not fully insured against all of these risks, either because insurance is not available or because of high premiums. Accordingly, we may be subject to liability or may lose substantial portions of properties due to hazards that cannot be insured against or have not been insured against due to prohibitive premiums or for other reasons. The imposition of any of these liabilities or compliance obligations on us may have a material adverse effect on our financial condition and results of operations.
+We do not anticipate that we will be required in the near future to expend amounts that are material in relation to our total capital expenditures program complying with current environmental laws and regulations. As these laws and regulations are frequently changed and are subject to interpretation, our assessment regarding the cost of compliance or the extent of liability risks may change in the future.
+21
+
+OSHA and other regulations
+To the extent not preempted by other applicable laws, we are subject to the requirements of the federal OSHA and comparable state statutes, where applicable. The OSHA hazard communication standard, the EPA community right-to-know regulations under Title III of CERCLA and similar state statutes, where applicable, require that we maintain and/or disclose information about hazardous materials used or produced in our operations. We believe that we are in substantial compliance with these applicable requirements and with other OSHA and comparable state requirements.
+Title to our properties
+When we acquire developed properties we conduct a title investigation, which will most often include either reviewing or obtaining a title opinion. However, when we acquire undeveloped properties, as is common industry practice, we usually conduct little or no investigation of title other than a preliminary review of local real property and/or mineral records. We will conduct title investigations and, in most cases, obtain a title opinion of local counsel for the drill site before we begin drilling operations. We believe that the methods we utilize for investigating title prior to acquiring any property are consistent with practices customary in the oil and natural gas industry and that our practices are adequately designed to enable us to acquire marketable title to properties. However, some title risks cannot be avoided, despite the use of customary industry practices.
+Our properties are generally burdened by:
+
+• | customary royalty and overriding royalty interests;
+
+
+• | liens incident to operating agreements; and
+
+
+• | liens for current taxes and other burdens and minor encumbrances, easements and restrictions.
+
+We believe that none of these burdens materially detract from the value of our properties or materially interfere with property used in the operation of our business. In addition to the foregoing listed burdens, substantially all of our properties have been pledged as collateral under the DIP Credit Agreement, 1.5 Lien Notes, 1.75 Lien Term Loans and the Second Lien Term Loans.
+Operational factors and insurance
+Oil and natural gas exploration and development involve a high degree of risk. In the event of explosions, environmental damage, or other accidents such as well fires, blowouts, equipment failure and human error, substantial liabilities to third parties or governmental entities may be incurred, the satisfaction of which could substantially reduce available cash and possibly result in the loss of oil and natural gas properties. As is common in the oil and natural gas industry, we are not fully insured against all risks associated with our business either because such insurance is not available or because we believe the premium costs are prohibitive. A loss not fully covered by insurance could have a materially adverse effect on our operating results, financial position or cash flows. For further discussion on risks see “Item 1A. Risk Factors - We are exposed to operating hazards and uninsured risks that could adversely impact our results of operations and cash flows.”   
+We currently carry automobile liability, general liability and excess liability insurance with a combined annual limit of $72 million per occurrence and in the aggregate. These insurance policies contain maximum policy limits and deductibles ranging from $1,000 to $25,000 that must be met prior to recovery, and are subject to customary exclusions and limitations. Our automobile and general liability insurance covers us and our subsidiaries for third-party claims and liabilities arising out of lease operations and related activities. The excess liability insurance is in addition to, and is triggered if the automobile and general liability insurance per occurrence limit is reached. Further, we currently carry $45 million of pollution coverage, $25 million of well control (blowout) coverage, property insurance in the amount of $178 million in respect of wellhead, surface equipment, tanks, and miscellaneous items and scheduled oil lease roads coverage with deductibles ranging from $25,000 to $500,000.
+We require our third-party contractors to sign master service agreements in which they generally agree to indemnify us for the injury and death of the service provider's employees as well as contractors and subcontractors that are hired by the service provider. Similarly, we agree to indemnify our third-party contractors against claims made by our employees and our other contractors. Additionally, each party generally is responsible for damage to its own property. 
+Our third-party contractors that perform hydraulic fracturing operations for us sign master service agreements containing the indemnification provisions noted above. We do not currently have any insurance policies in effect that are intended to provide coverage for losses solely related to hydraulic fracturing operations. We believe that our general liability, excess 
+22
+
+liability and pollution insurance policies would cover third-party claims related to hydraulic fracturing operations and associated legal expenses, in accordance with, and subject to, the terms of such policies. However, these policies generally will not cover fines and penalties. Further, these policies may not cover the costs and expenses related to government-mandated environmental clean-up responsibilities, or may do so on a limited basis.
+Our employees
+As of December 31, 2018, we employed 153 persons. None of our employees are represented by unions or covered by collective bargaining agreements. To date, we have not experienced any strikes or work stoppages due to labor problems, and we consider our relations with our employees to be satisfactory. We also utilize the services of independent consultants and contractors.
+Forward-looking statements
+This Annual Report on Form 10-K contains forward-looking statements, as defined in Section 27A of the Securities Act of 1933, as amended ("Securities Act") and Section 21E of the Securities Exchange Act of 1934, as amended ("the Exchange Act"). These forward-looking statements relate to, among other things, the following:
+
+• | our future financial and operating performance and results;
+
+
+• | our business strategy;
+
+
+• | market prices;
+
+
+• | our future use of derivative financial instruments;
+
+
+• | our liquidity and capital resources; and
+
+
+• | our plans and forecasts.
+
+We have based these forward-looking statements on our current assumptions, expectations and projections about future events. We use the words “may,” “expect,” “anticipate,” “estimate,” “believe,” “continue,” “intend,” “plan,” “potential,” “project,” “budget” and other similar words to identify forward-looking statements. The statements that contain these words should be read carefully because they discuss future expectations, contain projections of results of operations or our financial condition and/or state other “forward-looking” information. We do not undertake any obligation to update or revise any forward-looking statements, except as required by applicable securities laws. These statements also involve risks and uncertainties that could cause our actual results or financial condition to materially differ from our expectations in this Annual Report on Form 10-K and the documents incorporated herein by reference, including, but not limited to:
+
+• | bankruptcy proceedings and the effect of those proceedings on our ongoing and future operations, including the actions of the Court and our creditors;
+
+
+• | our ability to enter into transactions as a result of our Chapter 11 filing, including commodity derivative contracts with financial institutions and services with vendors;
+
+
+• | our future cash flows and the adequacy to fund the significant costs associated with the bankruptcy process, including our ability to limit these costs by obtaining confirmation of a successful plan of reorganization in a timely manner;
+
+
+• | our ability to obtain the requisite number of votes required to obtain confirmation of a plan of reorganization;
+
+
+• | our ability to maintain compliance with debt covenants and to meet debt service obligations associated with the DIP Credit Agreement;
+
+
+• | our ability to obtain exit financing in order to consummate a plan of reorganization;
+
+
+• | future capital requirements and availability of financing, including limitations on our ability to incur certain types of indebtedness under our debt agreements and to refinance or replace existing debt obligations;
+
+
+• | fluctuations in the prices of oil and natural gas;
+
+
+• | the availability of oil and natural gas;
+
+
+• | disruption of credit and capital markets and the ability of financial institutions to honor their commitments;
+
+
+• | estimates of reserves and economic assumptions, including estimates related to acquisitions and dispositions of oil and natural gas properties;
+
+
+• | geological concentration of our reserves;
+
+
+• | risks associated with drilling and operating wells;
+
+
+• | exploratory risks, including those related to our activities in shale formations;
+
+
+• | discovery, acquisition, development and replacement of oil and natural gas reserves;
+
+
+• | timing and amount of future production of oil and natural gas;
+
+
+• | availability of drilling and production equipment;
+
+
+• | availability of water, sand and other materials for drilling and completion activities;
+
+23
+
+
+• | marketing of oil and natural gas;
+
+
+• | political and economic conditions and events in oil-producing and natural gas-producing countries;
+
+
+• | title to our properties;
+
+
+• | litigation;
+
+
+• | competition;
+
+
+• | our ability to attract and retain key personnel;
+
+
+• | general economic conditions, including costs associated with drilling and operations of our properties;
+
+
+• | environmental or other governmental regulations, including legislation to reduce emissions of greenhouse gases, legislation of derivative financial instruments, regulation of hydraulic fracture stimulation and elimination of income tax incentives available to our industry;
+
+
+• | receipt and collectability of amounts owed to us by purchasers of our production;
+
+
+• | potential acts of terrorism;
+
+
+• | our ability to manage joint ventures with third parties, including the resolution of any material disagreements and our partners’ ability to satisfy obligations under these arrangements;
+
+
+• | actions of third party co-owners of interests in properties in which we also own an interest;
+
+
+• | fluctuations in interest rates;
+
+
+• | our ability to effectively integrate companies and properties that we acquire;
+
+
+• | our ability to execute our business strategies and other corporate actions; and
+
+
+• | our ability to continue as a going concern.
+
+We believe it is important to communicate our expectations of future performance to our investors. However, events may occur in the future that we are unable to accurately predict, or over which we have no control. We caution users of the financial statements not to place undue reliance on any forward-looking statements. When considering our forward-looking statements, keep in mind the risk factors and other cautionary statements included in this Annual Report on Form 10-K. The risk factors noted in this Annual Report on Form 10-K provide examples of risks, uncertainties and events that may cause our actual results to differ materially from those contained in any forward-looking statement. Please see “Item 1A. Risk Factors” for a discussion of certain risks related to our business, indebtedness and common shares.
+Our revenues, operating results and financial condition depend substantially on prevailing prices for oil and natural gas and the availability of capital from the DIP Credit Agreement and other sources. Declines in oil or natural gas prices may have a material adverse effect on our financial condition, Liquidity, results of operations, the amount of oil or natural gas that we can produce economically and the ability to fund our operations. Historically, oil and natural gas prices and markets have been volatile, with prices fluctuating widely, and they are likely to continue to be volatile.
+Glossary of selected oil and natural gas terms 
+The following are abbreviations and definitions of terms commonly used in the oil and natural gas industry and this Annual Report on Form 10-K.
+2-D seismic. Geophysical data that depicts the subsurface strata in two dimensions.
+3-D seismic. Geophysical data that depicts the subsurface strata in three dimensions. 3-D seismic typically provides a more detailed and accurate interpretation of the subsurface strata than 2-D seismic.
+Appraisal wells. Wells drilled to convert an area or sub-region from the resource to the reserves category.
+Analogous reservoir. Analogous reservoirs, as used in resources assessments, have similar rock and fluid properties, reservoir conditions (depth, temperature, and pressure) and drive mechanisms, but are typically at a more advanced stage of development than the reservoir of interest and thus may provide concepts to assist in the interpretation of more limited data and estimation of recovery. When used to support proved reserves, an “analogous reservoir” refers to a reservoir that shares the following characteristics with the reservoir of interest: (i) same geological formation (but not necessarily in pressure communication with the reservoir of interest); (ii) same environment of deposition; (iii) similar geological structure; and (iv) same drive mechanism.
+Bbl. One stock tank barrel, or 42 U.S. gallons liquid volume, used in reference to oil, NGLs or other liquid hydrocarbons.
+Bbtu. One billion British thermal units.
+Bcf. One billion cubic feet of natural gas.
+Bcfe. One billion cubic feet equivalent calculated by converting one Bbl of oil or NGLs to six Mcf of natural gas. This ratio of Bbl to Mcf is commonly used in the oil and natural gas industry and represents the approximate energy 
+24
+
+equivalent of natural gas to oil or NGLs, and does not represent the sales price equivalency of natural gas to oil or NGLs. Currently the sales price of a Bbl or NGL is significantly higher than the sales price of six Mcf of natural gas.
+Btu. British thermal unit, which is the heat required to raise the temperature of a one pound mass of water from 58.5 to 59.5 degrees Fahrenheit.
+Completion. The installation of permanent equipment for the production of oil or natural gas, or, in the case of a dry hole, the reporting to the appropriate authority that the well has been abandoned.
+Deterministic method. The method of estimating reserves or resources when a single value for each parameter (from the geoscience, engineering, or economic data) in the reserves calculation is used in the reserves estimation procedure. 
+Developed acreage. The number of acres which are allocated or assignable to producing wells or wells capable of production. 
+
+Development well. A well drilled within the proved area of an oil or natural gas reservoir to the depth of a stratigraphic horizon known to be productive. 
+Dry hole; Dry well. A well found to be incapable of producing either oil or natural gas in sufficient quantities to justify completion as an oil or natural gas well. 
+Economically producible. As it relates to a resource, a resource which generates revenue that exceeds, or is reasonably expected to exceed, the costs of the operation.
+Estimated ultimate recovery (EUR). Estimated ultimate recovery is the sum of reserves remaining as of a given date and cumulative production as of that date.
+Exploitation. The continuing development of a known producing formation in a previously discovered field. To maximize the ultimate recovery of oil or natural gas from the field by development wells, secondary recovery equipment or other suitable processes and technology. 
+Exploratory well. An exploratory well is a well drilled to find a new field or to find a new reservoir in a field previously found to be productive of oil or natural gas in another reservoir. Generally, an exploratory well is any well that is not a development well, a service well, or a stratigraphic test well. 
+Farmout. An assignment of an interest in a drilling location and related acreage conditional upon the drilling of a well on that location. 
+Formation. A succession of sedimentary beds that were deposited under the same general geologic conditions. 
+Fracture stimulation. A stimulation treatment routinely performed involving the injection of water, sand and chemicals under pressure to stimulate hydrocarbon production. 
+Full cost pool. The full cost pool consists of all costs associated with property acquisition, exploration, and development activities for a company using the full cost method of accounting. Additionally, any internal costs that can be directly identified with acquisition, exploration and development activities are included. Any costs related to production, general corporate overhead or similar activities are not included. 
+Gross acres or gross wells. The total acres or wells, as the case may be, in which a working interest is owned. 
+Held-by-production. A provision in an oil, natural gas and mineral lease that perpetuates a company's right to operate a property or concession as long as the property or concession produces a minimum paying quantity of oil or natural gas. 
+Horizontal wells. Wells drilled at angles greater than 70 degrees from vertical. 
+Initial production rate. Generally, the maximum 24 hour production volume from a well. 
+Mbbl. One thousand stock tank barrels. 
+Mcf. One thousand cubic feet of natural gas. 
+Mcfe. One thousand cubic feet equivalent calculated by converting one Bbl of oil or NGLs to six Mcf of natural gas.
+Mmbbl. One million stock tank barrels. 
+Mmbtu. One million British thermal units. 
+Mmcf. One million cubic feet of natural gas. 
+Mmcf/d. One million cubic feet of natural gas per day. 
+Mmcfe. One million cubic feet of natural gas equivalent calculated by converting one Bbl of oil or NGLs to six Mcf of natural gas. This ratio of Bbl to Mcf is commonly used in the oil and natural gas industry and represents the approximate 
+25
+
+energy equivalent of natural gas to oil or NGLs, and does not represent the sales price equivalency of natural gas to oil or NGLs. Currently the sales price of a Bbl or NGL is significantly higher than the sales price of six Mcf of natural gas.
+Mmcfe/d. One million cubic feet of natural gas equivalent per day calculated by converting one Bbl of oil or NGLs to six Mcf of natural gas. 
+Net acres or net wells.  Exists when the sum of fractional ownership interests owned in gross acres or gross wells equals one. We compute the number of net wells by totaling the percentage interest we hold in all our gross wells.
+NYMEX. New York Mercantile Exchange. 
+NGLs. The combination of ethane, propane, butane and natural gasolines that when removed from natural gas become liquid under various levels of higher pressure and lower temperature. 
+Overriding royalty interest. An interest in an oil and/or natural gas property entitling the owner to a share of oil and natural gas production free of the costs of production. 
+Pad drilling. The drilling of multiple wells from the same site. 
+Play. A term applied to a portion of the exploration and production cycle following the identification by geologists and geophysicists of areas with potential oil and natural gas reserves. 
+Present value of estimated future net revenues or PV-10. The present value of estimated future net revenues is an estimate of future net revenues from a property at the date indicated, without giving effect to derivative financial instrument activities, after deducting production and ad valorem taxes, future capital costs, abandonment costs and operating expenses, but before deducting future income taxes. The future net revenues have been discounted at an annual rate of 10% to determine their “present value.” The present value is shown to indicate the effect of time on the value of the net revenue stream and should not be construed as being the fair market value of the properties. Estimates have been made using constant oil and natural gas prices and operating and capital costs at the date indicated, at its acquisition date, or as otherwise indicated.
+Probabilistic method. The method of estimation of reserves or resources when the full range of values that could reasonably occur for each unknown parameter (from the geoscience and engineering data) is used to generate a full range of possible outcomes and their associated probabilities of occurrence. 
+Productive well. A productive well is a well that is not a dry well. 
+Proved Developed Reserves. These reserves are reserves of any category that can be expected to be recovered: (i) through existing wells with existing equipment and operating methods or in which the cost of the required equipment is relatively minor compared to the cost of a new well; and (ii) through installed extraction equipment and infrastructure operational at the time of the reserves estimate if the extraction is by means not involving a well. 
+Proved Reserves. Proved oil and natural gas reserves are those quantities of oil and natural gas, which, by analysis of geoscience and engineering data, can be estimated with Reasonable Certainty to be economically producible from a given date forward, from known reservoirs, and under existing economic conditions, operating methods, and government regulations, prior to the time at which contracts providing the right to operate expire, unless evidence indicates that renewal is reasonably certain, regardless of whether deterministic or probabilistic methods are used for the estimation. The project to extract the hydrocarbons must have commenced or the operator must be reasonably certain that it will commence the project within a reasonable time. 
+The area of the reservoir considered as proved includes: (i) the area identified by drilling and limited by fluid contacts, if any, and (ii) adjacent undrilled portions of the reservoir that can, with Reasonable Certainty, be judged to be continuous with it and to contain economically producible oil or gas on the basis of available geoscience and engineering data. 
+In the absence of data on fluid contacts, proved quantities in a reservoir are limited by the lowest known hydrocarbons (LKH) as seen in a well penetration unless geoscience, engineering, or performance data and reliable technology establishes a lower contact with Reasonable Certainty. Where direct observation from well penetrations has defined a highest known oil (HKO) elevation and the potential exists for an associated gas cap, proved oil reserves may be assigned in the structurally higher portions of the reservoir only if geoscience, engineering, or performance data and reliable technology establish the higher contact with Reasonable Certainty.
+ Reserves which can be produced economically through application of improved recovery techniques (including, but not limited to, fluid injection) are included in the proved classification when: (i) successful testing by a pilot project in an area of the reservoir with properties no more favorable than in the reservoir as a whole, the operation of an installed program in the reservoir or an analogous reservoir, or other evidence using reliable technology establishes the Reasonable Certainty of the engineering analysis on which the project or program was based; and (ii) the project has been approved for development by all necessary parties and entities, including governmental entities. 
+26
+
+Existing economic conditions include prices and costs at which economic producibility from a reservoir is to be determined. The price shall be the average price during the 12-month period prior to the ending date of the period covered by the report, determined as an unweighted arithmetic average of the first-day-of-the-month price for each month within such period, unless prices are defined by contractual arrangements, excluding escalations based upon future conditions. 
+Proved Undeveloped Reserves. Reserves of any category that are expected to be recovered from new wells on undrilled acreage, or from existing wells where a relatively major expenditure is required for recompletion. 
+Reserves on undrilled acreage shall be limited to those directly offsetting development spacing areas that are reasonably certain of production when drilled, unless evidence using reliable technology exists that establishes Reasonable Certainty of economic producibility at greater distances. Undrilled locations can be classified as having undeveloped reserves only if a development plan has been adopted indicating that they are scheduled to be drilled within five years, unless the specific circumstances justify a longer time. 
+Under no circumstances shall estimates for undeveloped reserves be attributable to any acreage for which an application of fluid injection or other improved recovery technique is contemplated, unless such techniques have been proved effective by actual projects in the same reservoir or an analogous reservoir or by other evidence using reliable technology establishing Reasonable Certainty. 
+Recompletion. An operation within an existing well bore to make the well produce oil and/or natural gas from a different, separately producible zone other than the zone from which the well had been producing. 
+Reasonable Certainty. If deterministic methods are used, Reasonable Certainty means a high degree of confidence that the quantities will be recovered. If probabilistic methods are used, there should be at least a 90% probability that the quantities actually recovered will equal or exceed the estimate. A high degree of confidence exists if the quantity is much more likely to be achieved than not, and, as changes due to increased availability of geoscience (geological, geophysical, and geochemical), engineering, and economic data are made to EUR with time, reasonably certain EUR is much more likely to increase or remain constant than to decrease. 
+Reservoir.  A porous and permeable underground formation containing a natural accumulation of producible oil and/or natural gas that is confined by impermeable rock or water barriers and is individual and separate from other reservoirs. 
+Resources. Resources are quantities of oil and natural gas estimated to exist in naturally occurring accumulations. A portion of the resources may be estimated to be recoverable, and another portion may be considered to be unrecoverable. Resources include both discovered and undiscovered accumulations. 
+Royalty interest. An interest in an oil and/or natural gas property entitling the owner to a share of oil and natural gas production free of the costs of production. 
+Shale. Fine-grained sedimentary rock composed mostly of consolidated clay or mud. Shale is the most frequently occurring sedimentary rock. 
+Shut-in well. A producing well that has been closed down temporarily for, among other things, economics, cleaning out, building up pressure, lack of a market or lack of equipment. 
+Spud. To start the well drilling process. 
+Standardized Measure of discounted future net cash flows or the Standardized Measure. Under the Standardized Measure, future cash flows are estimated by applying the simple average spot prices for the trailing 12 month period using the first day of each month beginning on January 1 and ending on December 1 of each respective year, adjusted for price differentials, to the estimated future production of year-end Proved Reserves. Future cash inflows are reduced by estimated future production and development costs based on period-end and future plugging and abandonment costs to determine pre-tax cash inflows. Future income taxes are computed by applying the statutory tax rate to the excess of pre-tax cash inflows over our tax basis in the associated properties. Future net cash inflows after income taxes are discounted using a 10% annual discount rate to arrive at the Standardized Measure. 
+Stock tank barrel. 42 U.S. gallons liquid volume. 
+Tcf. One trillion cubic feet of natural gas. 
+Tcfe. One trillion cubic feet equivalent calculated by converting one Bbl of oil or NGLs to six Mcf of natural gas. This ratio of Bbl to Mcf is commonly used in the oil and natural gas industry and represents the approximate energy equivalent of natural gas to oil or NGLs, and does not represent the sales price equivalency of natural gas to oil or NGLs. Currently the sales price of a Bbl or NGL is significantly higher than the sales price for six Mcf of natural gas.
+Undeveloped acreage. Leased acreage on which wells have not been drilled or completed to a point that would permit the production of economic quantities of oil and natural gas regardless of whether such acreage contains Proved Reserves. 
+27
+
+Working interest. The operating interest that gives the owner the right to drill, produce and conduct activities on the property and a share of production. 
+Workovers. Operations on a producing well to restore or increase production. 
+Available information 
+We make available, free of charge, our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to these reports on our website at www.excoresources.com as soon as reasonably practicable after those reports and other information are electronically filed with, or furnished to, the SEC.

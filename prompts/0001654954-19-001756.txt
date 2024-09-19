@@ -1,0 +1,577 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+ITEM 1. BUSINESS.
+-----------------
+
+
+ 
+ As used in this annual report, "we", "us", "our", "CBMG", "Company" or "our company" refers to Cellular Biomedicine Group, Inc. and, unless the context otherwise requires, all of its subsidiaries or deemed controlled companies.
+  
+  Overview
+  
+ Cellular Biomedicine Group, Inc. is a clinical stage biopharmaceutical company, committed to developing therapies for cancer and degenerative diseases utilizing proprietary cell-based technologies. Our focus is to reduce the aggregate cost and ensure quality products of cell therapies by leveraging our innovative manufacturing capabilities and strong ability to process optimization to development of our internal proprietary cell therapy based pipelines and our ability to partner with leading cell therapy companies seeking manufacturing capabilities for global collaborative partnerships. CBMG is headquartered in New York, New York, its Research & Development facilities are based in Gaithersburg, Maryland and Shanghai, China, and its manufacturing facilities are based in China in the cities of Shanghai and Wuxi.
+  
+ The manufacturing and delivery of cell therapies involve complex, integrated processes, comprised of harvesting T cells from patients, T cell isolation, activation, viral vector transduction and GMP grade purification. We are using a semi-automated, fully closed system and self-made high quality viral vector for cell therapy manufacturing, which enables us to reduce the aggregate cost of cell therapies. Additionally, this system has the ability to scale for commercial supply at an economical cost.
+  
+ Our technology includes two major platforms: (i) Immune cell therapy for treatment of a broad range of cancer indications comprised of technologies in Chimeric Antigen Receptor modified T cells ("CAR-T"), genetic modified T-cell receptors (“TCRs”), next generation neoantigen-reactive tumor infiltrating lymphocyte (“TIL”), and (ii) human adipose-derived mesenchymal progenitor cells ("haMPC") for treatment of joint diseases. We expect to carry out clinical studies leading to the eventual approval by the National Medical Products Administration (NMPA, renamed from China Food and Drug Administration (“CFDA”)) of our products through Biologics License Application ("BLA") filings and authorized clinical centers throughout Greater China. We also plan to conduct clinical studies in the United States that could potentially lead to FDA approval of our solid tumor clinical assets.  
+  
+ Our primary target market is China, where we believe that our cell-based therapies will be able to help patients with high unmet medical needs. We are focused on developing and marketing safe and effective cell-based therapies to treat cancer and joint diseases. We have developed proprietary technologies and know-how in our cell therapy platforms. We are conducting clinical studies in China with our stem cell based therapies to treat knee osteoarthritis (“KOA”). On December 2017, the Chinese government issued trial guidelines concerning the development and testing of cell therapy products in China, which provides that all cell therapy products are treated as “drug” from a regulatory perspective, and require official approval for INDs. Prior to this revised regulation in December 2017, we have completed a Phase IIb autologous haMPC KOA clinical study and released the promising results. Led by Shanghai Renji Hospital, one of the largest teaching hospitals in China, we completed a Phase I clinical trial of our off-the-shelf allogeneic haMPC (AlloJoin™) therapy for treating KOA patients. We also completed and presented the Allojoin™ Phase I 48-week data in China, and have been approved by NMPA to initiate a Phase II clinical trial following the filing of CBMG's IND application for AlloJoin® for KOA. CBMG’s IND application is the first stem cell drug application to be approved by NMPA for a Phase II KOA clinical trial since the release of the updated regulation on cell therapy.
+  
+ In addition to our own internal pipelinse, we have initiated successful partnerships with other cell therapy focused companies as it pertains to their technology and platform’s market access into the Chinese market. We believe that our focus on process improvement and creating cost savings on cell therapy manufacturing will enable us to collaborate with those firms as they enter into the Chinese market.
+  
+ Prior to September 2018, CBMG has been developing its own anti-CD19 CAR-T cell therapy in B-cell non-Hodgkin lymphoma ("NHL")and adult acute lymphoblastic leukemia (“ALL”) and had already initiated IND applications in China. On September 25, 2018, we entered into a strategic licensing and collaboration agreement with Novartis to manufacture and supply their CAR-T cell therapy Kymriah® (tisagenlecleucel) in China. As part of the deal, Novartis took approximately a 9% equity stake in CBMG, and CBMG is discontinuing development of its own anti-CD19 CAR-T cell therapy. This collaboration with Novartis reflects our shared commitment to bringing the first marketed CAR-T cell therapy product, Kymriah® , currently approved in the US, EU and Canada for two difficult-to-treat cancers, to China where the number of patients remains the highest in the world. We continue to develop cell therapies targeting other than CD19 on our own and Novartis has the first right of negotiation on these developments. The CBMG oncology pipeline includes CAR-T targeting CD20-, CD22- and B-cell maturation antigen (BCMA), NKG2D, AFP TCR and TIL. We are striving to build competitive research capabilities, a cutting edge translational medicine unit, along with a well-established cellular manufacturing capability and ample capacity, to support Kymriah® in China and our development of cell therapy products. We expect to initiate first in-human clinical trials for multiple CAR-T and TCR-T programs in 2019.
+  
+   
+4
+
+
+  
+ 
+  Corporate History
+  
+ Headquartered in New York, the Company is a Delaware biopharmaceutical company focused on developing treatment for cancer and joint diseases for patients in China. The Company was formerly known as EastBridge Investment Group Corporation and originally incorporated in the State of Arizona on June 25, 2011. The Company started its regenerative medicine business in China in 2009 and expanded to CAR-T therapies in 2014.
+ Recent Developments
+  
+  On February 5, 2018, Sailings Capital invested in the Company for an aggregate of 1,719,324 shares (the “February 2018 Private Placement”) of the Company’s common stock at $17.80 per share, for total gross proceeds of approximately $30.6 million.   Pursuant to the shares purchase agreement, Sailings Capital nominated, and Bosun S. Hau was appointed as a non-executive Class III director of the Company and his appointment was subsequent ratified by the Company’s stockholders during the Annual Stockholders Meeting on April 27, 2018.
+  
+ On February 15, 2018, we obtained a 36–month exclusive option with Augusta University to negotiate a royalty-bearing, exclusive license to the patent rights owned by the Augusta University relating to an invention to identify novel alpha fetoprotein (“AFP”) specific TCR for a hepatocellular carcinoma (“HCC”) immunotherapy. On February 14, 2019 we exercised our option and executed the exclusive license with Augusta University.
+  
+ On March 16, 2018, we issued a press release announcing the presentation of the Allojoin™ Phase I 48-week data in China, as well as the termination of the Company’s U.S. Allojoin™ program with CIRM to focus the clinical development in China. Prior to termination, the Company had received $1.2 million of the potential $2.29 million available under the CIRM grant.
+  
+ On April 18, 2018 and April 21, 2018, the NMPA CDE posted on its website acceptance of the IND application for CAR-T cancer therapies in treating patients with NHL and ALL submitted by two of the wholly-owned subsidiaries of the Company, respectively.  After executing the Novartis License and Collaboration Agreement in September 2018 described below, we no longer pursue our own CD-19 CAR-T program.
+  
+ On June 22, 2018, we expanded and moved to a new research and development center in Gaithersburg, Maryland.
+  
+ On September 25, 2018, the Company, together with certain of its subsidiaries and controlled entities, entered into a License and Collaboration Agreement (the “Collaboration Agreement”) with Novartis, pursuant to which the Company will manufacture and supply Novartis the T CAR-T cell therapy Kymriah® (tisagenlecleucel) (the “Product”) in China. The Company also granted Novartis a world-wide license certain of its intellectual property and technology, including intellectual property and technology related to the Product. Such license is exclusive with respect to the development, manufacture and commercialization of the Product and non-exclusive with respect to the development, manufacture and commercialization of other products.
+  
+ Also, on September 25, 2018, we entered into a Share Purchase Agreement with Novartis pursuant to which the Company agreed to sell, and Novartis agreed to purchase from the Company, an aggregate of 1,458,257 shares of the Company’s common stock, at a purchase price of $27.43 per share, which was the equivalent of 130% of the volume-weighted average price of the Common Stock for the prior 20 consecutive trading days, for total gross proceeds of approximately $40 million (the “Private Placement”).  In connection with the Private Placement, the Company filed a Form S-3 with the SEC on October 10, 2018 to satisfy the registration requirement. The SEC declared the registration effective on October 22 and the Company filed the Private Placement Prospectus on October 23, 2018.
+  
+ On October 2, 2018, we entered into a non-exclusive license agreement with The U.S. Department of Health and Human Services, as represented by National Cancer Institute, an Institute or Center (the “IC”) of the National Institutes of Health, pursuant to which the Company was granted rights to the worldwide development, manufacture and commercialization of autologous, tumor-reactive lymphocyte adoptive cell therapy products, isolated from tumor infiltrating lymphocytes as claimed in the IC licensed patent rights, for the treatment of non-small cell lung, stomach, esophagus, colorectal, and head and neck cancer(s) in humans.
+  
+ On October 10, 2018, we announced that we commenced a stock repurchase program (the “2018 Share Repurchase Program”) granting the Company authority to purchase up to $8.48 million in common shares through open market purchases pursuant to a plan adopted in accordance with Rule 10b5-1 and Rule 10b-18 of the Exchange Act. The program contemplated repurchases of shares of the Company’s common stock in the open market in accordance with all applicable securities laws and regulations. It is contemplated that total shares to be repurchased under the 2017 and 2018 Share Repurchase Programs shall not exceed $15 million in the aggregate. From June 2017 to December 2018 the Company repurchased a total of 1,001,499 shares of our common stock at a total price of $13,953,666, or an average of $13.93 per share.
+  
+   
+5
+
+
+  
+ 
+ On October 29, 2018, after reassessing CBMG broad pipelines in immune cell technologies which comprises of CAR-T, TCRT, and TIL, CBMG notified USF and Moffitt to prioritize our clinical efforts primary on cell therapy efforts and to terminate its GVAX license agreements.
+  
+ On November 2, 2018, we relocated our principal executive offices from Cupertino, California to New York, New York.
+  
+ On November 7, 2018, NMPA CDE formally accepted the IND application for allogeneic adipose-derived mesenchymal progenitor cell (haMPC) off-the-shelf therapy AlloJoin® for Knee Osteoarthritis (KOA) submitted by two of our wholly-owned subsidiaries.
+  
+ In the next 12 months, we aim to accomplish the following, though there can be no assurances that we will be able to accomplish any of these goals: 
+  
+   ●
+ Execute the technical transfer and align the manufacturing processes with Novartis to support Novartis’ development of the Kymriah® therapy in China;
+
+ 
+   ●
+ Advance Allojoin™ KOA Phase II clinical trial to support the BLA submissions in China;
+
+ 
+   ●
+ Advance Rejoin™ KOA IND applications with the NMPA’s CDE and initiate clinical studies to support the BLA submissions in China;
+
+ 
+   ●
+ Initiate investigator sponsored and/or CBMG sponsored clinical trials and get early proof of concept results for the following clinical assets:
+
+   º
+ Anti-BCMA CAR-T for Multiple Myeloma (MM)
+
+   º
+ Anti-CD22 CAR-T for anti-CD19 CAR-T relapsing ALL
+
+   º
+ NKG2D CAR-T for acute myeloid leukemia (AML)
+
+   º
+ Alpha Fetoprotein Specific TCR-T for HCC
+
+   º
+ anti-CD 20 CAR-T for anti-CD19 CAR-T relapsing NHL
+
+   º
+ TIL for solid tumors
+ 
+   ●
+ Bolster R&D resources to fortify our intellectual properties portfolio and scientific development. Continue to develop a competitive cell therapy pipeline for CBMG. Seek opportunities to file new patent applications in potentially the rest of the world and in China;
+
+ 
+   ●
+ Leveraging our quality system and our strong scientific expertise to develop a platform as preferred parties for international pharmaceutical companies to co-develop cell therapies in Chinaby implementing our quality strategies and leveraging the experience and expertise of our strong scientific team in the U.S. and in China;
+
+ 
+   ●
+ Evaluate and implement digital platform system for research, material management, production and clinical data tracking;
+
+ 
+   ●
+ Evaluate new regenerative medicine technology platform for other indications and review recent development in the competitive landscape;
+
+ 
+   ●
+ Advance our Quality Management System (QMS), Validation Master Plan (VMP) and electronic records for quality assurance ; 
+
+ 
+   ●
+ Improve liquidity and fortify our balance sheet by courting institutional investors; and
+
+ 
+   ●
+ Evaluate the addition of gene therapy for disease treatment to our portfolio; and
+
+ 
+   ●
+Evaluate possibility of dual listing on the Hong Kong Stock Exchange to expand investor base in Asia.
+
+  
+   
+6
+
+
+  
+ 
+ Our operating expenses for year ended December 31, 2018 were in line with management’s plans and expectations. We have an increase in total operating expenses of approximately $12.8 million for the year ended December 31, 2018, as compared to the year ended December 31, 2017, which is primarily attributable to increased R&D expenses and clinical developments in 2018.
+  
+  Corporate Structure
+  
+ Our current corporate structure is illustrated in the following diagram:
+
+ Currently we have the following subsidiaries (including a controlled VIE entity):
+  
+ Eastbridge Investment Corporation (“Eastbridge Sub”), a Delaware corporation, is a wholly owned subsidiary of the Company.
+  
+ Cellular Biomedicine Group VAX, Inc. (“CBMG VAX”), a California corporation, is a wholly owned subsidiary of the Company.
+  
+ Cellular Biomedicine Group HK Limited, a Hong Kong company limited by shares, is a holding company and wholly owned subsidiary of the Company.
+ 
+   
+7
+
+
+  
+ 
+ Cellular Biomedicine Group Ltd. (Wuxi), license number 320200400034410 (the “WFOE”) is a wholly foreign-owned entity that is 100% owned by Cellular Biomedicine Group HK Limited.  This entity’s legal name in Chinese translates to “Xi Biman Biological Technology (Wuxi) Co. Ltd.”  WFOE controls and holds ownership rights in the business, assets and operations of Cellular Biomedicine Group Ltd. (Shanghai) (“CBMG Shanghai”) through variable interest entity (VIE) agreements.  We conduct certain biopharmaceutical business activities through WFOE, including research and development, technical support, technical service, technology transfer in biomedical technology field, manufaturing of non-food, pharmaceutical polypeptides and medical devices (in vitro diagnostic reagents) extracted by biology；making foreign investment with its own funds; cosmetics, sanitary products and biological agents wholesale, commission agents
+  
+ Cellular Biomedicine Group Ltd. (Shanghai) license number 310104000501869 (“CBMG Shanghai”), is a PRC domestic corporation, which we control and hold ownership rights in, through WFOE and the above-mentioned VIE agreements.  This entity’s legal name in Chinese translates to “Xi Biman Biotech (Shanghai) Co., Ltd.”  We conduct certain biopharmaceutical business activities through our controlled VIE entity, CBMG Shanghai, including clinical trials and certain other activities requiring a domestic license in the PRC.  Mr. Chen Mingzhe and Mr. Lu Junfeng together are the record holders of all of the outstanding registered capital of CBMG Shanghai.  Mr. Chen and Mr. Lu are also investors of CBMG Shanghai constituting the entire management of the same.  Mr. Chen and Mr. Lu receive no compensation for their roles as investors of CBMG Shanghai.
+  
+ Beijing Agreen Biotechnology Co., Ltd. is a PRC domestic corporation and wholly owned subsidiary of CBMG Shanghai.
+  
+ Wuxi Cellular Biopharmaceutical Group Ltd., established on January 17, 2017, is a PRC domestic corporation and wholly owned subsidiary of CBMG Shanghai.
+  
+ Shanghai Cellular Biopharmaceutical Group Ltd., established on January 18, 2017, is a PRC domestic corporation and wholly owned subsidiary of CBMG Shanghai.
+  
+  Variable Interest Entity (VIE) Agreements
+  
+ Through our wholly foreign-owned entity and 100% subsidiary, Cellular Biomedicine Group Ltd. (Wuxi), we control and have ownership rights by means of a series of VIE agreements with CBMG Shanghai. The shareholders of record for CBMG Shanghai were Cao Wei and Chen Mingzhe, who together owned 100% of the equity interests in CBMG Shanghai before October 26, 2016. On October 26, 2016, Cao Wei, Chen Mingzhe and Lu Junfeng entered into an equity transfer agreement and a supplementary agreement (“Equity Transfer Agreement”), pursuant to which Cao Wei transferred his equity interests in CBMG Shanghai to Chen Mingzhe and Lu Junfeng. As a result of the transfer, each of Mr. Chen and Mr. Lu now owns a 50% equity interest in CBMG Shanghai. On the same day, WFOE, CBMG Shanghai, Cao Wei and Chen Mingzhe entered into a termination agreement, pursuant to which, the series of VIE agreements executed among the WFOE, CBMG Shanghai, Chen Mingzhe and Cao Wei were terminated and a new set of VIE agreements were executed. The following is a description of each of these VIE agreements:
+  
+ Exclusive Business Cooperation Agreement.   Through the WFOE, we are a party to an exclusive business cooperation agreement dated October 26, 2016 with CBMG Shanghai, which provides that (i) the WFOE shall exclusively provide CBMG Shanghai with complete technical support, business support and related consulting services; (ii) without prior written consent of the WFOE, CBMG Shanghai may not accept the same or similar consultancy and/or services from any third party, nor establish any similar cooperation relationship with any third party regarding same matters during the term of the agreement; (iii) CBMG Shanghai shall pay the WFOE service fees as calculated based on the time of service rendered by the WFOE multiplying the corresponding rate, plus an adjusted amount decided by the board of the WFOE; and (iv) CBMG Shanghai grants to the WFOE an irrevocable and exclusive option to purchase, at its sole discretion, any or all of CBMG Shanghai’s assets at the lowest purchase price permissible under PRC laws.  The term of the agreement is 10 years, provided however the agreement may extended at the option of the WFOE. Since this agreement permits the WFOE to determine the service fee at its sole discretion, the agreement in effect provides the WFOE with rights to all earnings of the VIE.
+  
+ Loan Agreement.  Through the WFOE, we are a party to a loan agreement with CBMG Shanghai, Lu Junfeng and Chen Mingzhe dated October 26, 2016, in accordance with which the WFOE agreed to provide an interest-free loan to CBMG Shanghai.  The term of the loan is 10 years, which may be extended upon written consent of the parties.  The method of repayment of CBMG Shanghai shall be at the sole discretion of the WFOE, including but not limited to an acquisition of CBMG Shanghai in satisfaction of its loan obligations.
+ 
+   
+8
+
+
+  
+ 
+ Exclusive Option Agreement with Lu Junfeng.  Through the WFOE, we are a party to an option agreement with CBMG Shanghai and Lu Junfeng dated October 26, 2016, in accordance with which: (i) Lu Junfeng irrevocably granted the WFOE an irrevocable and exclusive right to purchase, or designate another person to purchase the entire equity interest in CBMG Shanghai as then held by him, at an aggregate purchase price to be determined; and (ii) any proceeds obtained by Lu Junfeng through the above equity transfer in CBMG Shanghai shall be used for the payment of the loan provided by the WFOE under the aforementioned Loan Agreement.
+  
+ Exclusive Option Agreement with Chen Mingzhe.  Through the WFOE, we are a party to an exclusive option agreement with CBMG Shanghai and Chen Mingzhe dated October 26, 2016, under which: (i) Chen Mingzhe irrevocably granted the WFOE an irrevocable and exclusive right to purchase, or designate another person to purchase the entire equity interest in CBMG Shanghai for an aggregate purchase price to be determined; and (ii) any proceeds obtained by Chen Mingzhe through the above equity transfer in CBMG Shanghai shall be used for the payment of the loan provided by the WFOE under the aforementioned Loan Agreement.
+  
+ Power of Attorney from Lu Junfeng.  Through the WFOE we are the recipient of a power of attorney executed by Lu Junfeng on October 26, 2016, in accordance with which Lu Junfeng authorized the WFOE to act on his behalf as his exclusive agent with respect to all matters concerning his equity interest in CBMG Shanghai, including without limitation to attending the shareholder meetings of CBMG Shanghai, exercising voting rights and designating and appointing senior executives of CBMG Shanghai.
+  
+ Power of Attorney from Chen Mingzhe.  Through the WFOE we are the recipient of a power of attorney executed by Chen Mingzhe on October 26, 2016, in accordance with which Chen Mingzhe authorized the WFOE to act on his behalf as his exclusive agent with respect to all matters concerning his equity interest in CBMG Shanghai, including without limitation to attending the shareholders meetings of CBMG Shanghai, exercising voting rights and designating and appointing senior executives of CBMG Shanghai.
+  
+ Equity Interest Pledge Agreement with Lu Junfeng.  Through the WFOE, we are a party to an equity interest pledge agreement with CBMG Shanghai and Lu Junfeng dated October 26, 2016, in accordance with which: (i) Lu Junfeng pledged to the WFOE the entire equity interest he holds in CBMG Shanghai as security for payment of the consulting and service fees by CBMG Shanghai under the Exclusive Business Cooperation Agreement; (ii) Lu Junfeng and CBMG Shanghai submitted all necessary documents to ensure the registration of the Pledge of the Equity Interest with the State Administration for Industry and Commerce (“SAIC”), and the pledge became effective on November 22, 2016; (iii) on the occurrence of any event of default, unless it has been successfully resolved within 20 days after the delivery of a rectification notice by the WFOE, the WFOE may exercise its pledge rights at any time by a written notice to Lu Junfeng.
+  
+ Equity Interest Pledge Agreement with Chen Mingzhe.   Through the WFOE we are a party to an equity interest pledge agreement with CBMG Shanghai and Chen Mingzhe dated October 26, 2016, in accordance with which: (i) Chen Mingzhe pledged to the WFOE the entire equity interest he holds in CBMG Shanghai as security for payment of the consulting and service fees by CBMG Shanghai under the Exclusive Business Cooperation Agreement; (ii) Chen Mingzhe and CBMG Shanghai submitted all necessary documents to ensure the registration of the Pledge of the Equity Interest with SAIC, and the pledge became effective on November 22, 2016; (iii) on the occurrence of any event of default, unless it has been successfully resolved within 20 days after the delivery of a rectification notice by the WFOE, the WFOE may exercise its pledge rights at any time by a written notice to Chen Mingzhe. 
+  
+ Our relationship with our controlled VIE entity, CBMG Shanghai, through the VIE agreements, is subject to various operational and legal risks.  Management believes that Mr. Chen and Mr. Lu, as record holders of the VIE’s registered capital, have no interest in acting contrary to the VIE agreements.  However, if Mr. Chen and Lu as shareholders of the VIE entity were to reduce or eliminate their ownership of the registered capital of the VIE entity, their interests may diverge from that of CBMG and they may seek to act in a manner contrary to the VIE agreements (for example by controlling the VIE entity in such a way that is inconsistent with the directives of CBMG management and the board; or causing non-payment by the VIE entity of services fees).  If such circumstances were to occur the WFOE would have to assert control rights through the powers of attorney and other VIE agreements, which would require legal action through the PRC judicial system.  While we believe the VIE agreements are legally enforceable in the PRC, there is a risk that enforcement of these agreements may involve more extensive procedures and costs to enforce, in comparison to direct equity ownership of the VIE entity.  We believe based on the advice of local counsel that the VIE agreements are valid and in compliance with PRC laws presently in effect.  Notwithstanding the foregoing, if the applicable PRC laws were to change or are interpreted by authorities in the future in a manner which challenges or renders the VIE agreements ineffective, the WFOE’s ability to control and obtain all benefits (economic or otherwise) of ownership of the VIE entity could be impaired or eliminated.   In the event of such future changes or new interpretations of PRC law, in an effort to substantially preserve our rights we may have to either amend our VIE agreements or enter into alternative arrangements which comply with PRC laws as interpreted and then in effect.
+  
+   
+9
+
+
+  
+ 
+ For further discussion of risks associated with the above, please see the section below titled “Risks Related to Our Structure.”
+  
+  BIOPHARMACEUTICAL BUSINESS
+  
+ The biopharmaceutical business was founded in 2009 by a team of seasoned Chinese-American executives, scientists and doctors. In 2010, we established a facility designed and built to China's Good Manufacture Practice (GMP) standards in Wuxi, China and in 2012 we established a U.S. Food and Drug Administration (FDA) GMP standard protocol-compliant manufacturing facility in Shanghai. In October 2015, we opened a facility designed and built to GMP standards in Beijing. In November 2017, we opened our Zhangjiang facility in Shanghai, of which 40,000 square feet was designed and built to GMP standards and dedicated to advanced cell manufacturing. Our focus has been to serve the rapidly growing health care market in China by marketing and commercializing immune cell and stem cell therapeutics, related tools and products from our patent-protected homegrown and acquired cell technology, as well as by utilizing in-licensed and other acquired intellectual properties.
+  
+ Our current treatment focal points are KOA and cancer.
+  
+ Cancer. We are focusing our clinical development efforts on CD20-, CD22- and B-cell maturation antigen (BCMA)-specific CAR-T therapies, T-cell receptor (TCR) and tumor infiltrating lymphocyte (TIL) technologies. With the execution of the Novartis Collaboration Agreement we have prioritized our efforts on working with Novartis to bring Kymriah® to patients in China as soon as practicable. In view of our collaboration with Novartis, we will no longer pursue our own ALL and DLBCL BLA submission with the NMPA. On the research and development side we will endeavor to bring our CD22 HCL and CD19 CAR-T relapsing ALL, CD 20 for CD19 CAR-T Relapsing NHL, BCMA in Multiple Myeloma (MM), NKG2D in acute myeloid leukemia (AML), AFP TCR-T in Hepatocellular carcinoma (HCC) and neoantigen reactive TIL on solid tumors, respectively, in first in human trial as soon as possible. We plan to continue to leverage our quality system and our strong scientific expertise to develop a platform as preferred parties for international pharmaceutical companies to co-develop cell therapies with the Company in China by implementing our quality strategies and leveraging the experience and expertise of our strong scientific team in the U.S and in China.
+  
+ KOA.  In 2013, we completed a Phase I/IIa clinical study, in China, for our KOA therapy named Re-Join®. The trial tested the safety and efficacy of intra-articular injections of autologous haMPCs in order to reduce inflammation and repair damaged joint cartilage. The 6-month follow-up clinical data showed Re-Join® therapy to be both safe and effective.
+  
+ In Q2 of 2014, we completed patient enrollment for the Phase IIb clinical trial of Re-Join® for KOA. The multi-center study enrolled 53 patients to participate in a randomized, single blind trial. We published 48 weeks’ follow-up data of Phase I/IIa on December 5, 2014.  The 48-week data indicated that patients have reported a decrease in pain and a significant improvement in mobility and flexibility, while the clinical data shows our Re-Join® regenerative medicine treatment to be safe.   We announced the interim 24 week results for Re-Join® on March 25, 2015 and released positive Phase IIb 48 week follow-up data in January 2016, which shows the primary and secondary endpoints of Re-Join® therapy group having all improved significantly compared to their baseline, which has confirmed some of the Company’s Phase I/IIa results. Our Re-Join® human adipose-derived mesenchymal progenitor cell (haMPC) therapy for KOA is an interventional therapy using proprietary process, culture and medium.
+  
+ Our process is distinguishable from sole Stromal Vascular Fraction (SVF) therapy. The immunophenotype of our haMPCs exhibited a homogenous population expressing multiple biomarkers such as CD73+, CD90+, CD105+, HLA-I+, HLA-DR-, Actin-, CD14-, CD34-, and CD45-.  In contrast, SVF is merely a heterogeneous fraction including preadipocytes, endothelial cells, smooth muscle cells, pericytes, macrophages, fibroblasts, and adipose-derived stem cells.
+  
+ In January 2016, we launched the Allogeneic KOA Phase I Trial in China to evaluate the safety and efficacy of AlloJoin™, an off-the shelf allogeneic adipose derived progenitor cell (haMPC) therapy for the treatment of KOA. On August 5, 2016 we completed patient treatment for the Allogeneic KOA Phase I trial, and on December 9, 2016 we announced interim 3-month safety data from the Allogenic KOA Phase I Trial in China. The interim analysis of the trial has preliminarily demonstrated a safety and tolerability profile of AlloJoin™ in the three doses tested, and no serious adverse events (SAE) have been observed. On March 16, 2018, we announced the positive 48-week Allojoin™ Phase I data in China, which demonstrated good safety and early efficacy for the prevention of cartilage deterioration. China has finalized its cell therapy policy in December, 2017. Our AlloJoinTM Phase I IND application with the NMPA has been approved and we plan to implement our Phase II clinical trial soon. We plan to advance the KOA IND application for Rejoin™ with NMPA in the near future.
+  
+   
+10
+
+
+  
+ 
+ The unique lines of adult adipose-derived progenitor cells and the immune cell therapies enable us to create multiple cell formulations in treating specific medical conditions and diseases. The quality management systems of CBMG Shanghai were issued a Certificate of ISO-9001:2015 in 2018 and to be updated to 9001:2015 with full components. (i)The cleanrooms in our new facility are ISO 14644 certified and in compliance with China’s Good Manufacture Practice (GMP) requirement (2010 edition); (ii) the process equipment and analytical equipment in the new Shanghai facility has been calibrated and qualified, and the biological safety cabinets were also qualified. The quality management systems of WX SBM were also certified as meeting the requirement of ISO-9001:2015, and the facility and equipment were also qualified.
+  
+ Our proprietary processes and procedures include (i) banking of allogenic cellular product and intermediate product; (ii) manufacturing procedures of GMP-grade viral vectors; (iii) manufacturing procedures of GMP-grade cellular product; (iv) analytical testing to ensure the safety, identity, purity and potency of cellular product.
+  
+  Recent Developments in Adoptive Immune Cell Therapy (ACT)
+  
+ The immune system plays an essential role in cancer development and growth. In the past decade, immune checkpoint blockade has demonstrated a major breakthrough in cancer treatment and has currently been approved for the treatment of multiple tumor types. Adoptive immune cell therapy (ACT) with tumor-infiltrating lymphocytes (TIL) or gene-modified T cells expressing novel T cell receptors (TCR) or chimeric antigen receptors (CAR) is another strategy to modify the immune system to recognize tumor cells and thus carry out an anti-tumor effector function.
+  
+ The TILs consist tumor-resident T cells which are isolated and expanded ex vivo after surgical resection of the tumor. Thereafter, the TILs are further expanded in a rapid expansion protocol (REP). Before intravenous adoptive transfer into the patient, the patient is treated with a lymphodepleting conditioning regimen. TCR gene therapy and CAR gene therapy are ACT with genetically modified peripheral blood T cells. For both treatment modalities, peripheral blood T cells are isolated via leukapheresis. These T cells are then transduced by viral vectors to either express a specific TCR or CAR, respectively. These treatments have shown promising results in various tumor types.
+  
+   
+11
+
+
+  
+ 
+  CAR-Ts
+  
+ According to the U.S. National Cancer Institute’s 2013 cancer topics research update on CAR-T-Cells, excitement is growing for immunotherapy—therapies that harness the power of a patient’s immune system to combat their disease, or what some in the research community are calling the “fifth pillar” of cancer treatment.
+  
+ One approach to immunotherapy involves engineering patients’ own immune cells to recognize and attack their tumors. This approach is called adoptive cell transfer (ACT). ACT’s building blocks are T cells, a type of immune cell collected from the patient’s own blood. One of the well-established ACT approaches is CAR-T cancer therapy. After collection, the T cells are genetically engineered to produce special receptors on their surface called chimeric antigen receptors (CARs). CARs are proteins that allow the T cells to recognize a specific protein (antigen) on tumor cells. These engineered CAR-T cells are then grown until the number reaches dose level. The expanded population of CAR-T cells is then infused into the patient. After the infusion, if all goes as planned, the T cells multiply in the patient’s body and, with guidance from their engineered receptor, recognize and kill cancer cells that harbor the antigen on their surfaces. This process builds on a similar form of ACT pioneered from NCI’s Surgery Branch for patients with advanced melanoma. According to www.cancer.gov/.../research-updates/2013/CAR-T-Cells, in 2013 NCI’s Pediatric Oncology Branch commented that the CAR-T cells are much more potent than anything they can achieve with other immune-based treatments being studied. Although investigators working in this field caution that there is still much to learn about CAR T-cell therapy, the early results from trials like these have generated considerable optimism.
+  
+ CAR-T cell therapies, such as anti-CD19 CAR-T and anti-BCMA CAR-T, have been tested in several hematological indications on patients that are refractory/relapsing to chemotherapy, and many of them have relapsed after stem cell transplantation. All of these patients had very limited treatment option prior to CAR-T therapy. CAR-T has shown encouraging clinical efficacy in many of these patients, and some of them have durable clinical response for years. However, some adverse effects, such as cytokine release syndrome (CRS) and neurological toxicity, have been observed in patients treated with CAR-T cells. For example, in July 2016, Juno Therapeutics, Inc. reported the death of patients enrolled in the U.S. Phase II clinical trial of JCAR015 (anti-CD19 CAR-T) for the treatment of relapsed or refractory B cell acute lymphoblastic leukemia (B-ALL). The US FDA put the trial on hold and lifted the hold within a week after Juno provided satisfactory explanation and solution. Juno attributed the cause of patient deaths to the use of Fludarabine preconditioning and they switched to use only cyclophosphamide pre-conditioning in subsequent enrollment.
+  
+ In August 2017, the U.S. FDA approved Novartis’ Kymriah® (tisagenlecleucel), a CD19-targeted CAR-T therapy, for the treatment of patients up to 25 years old for relapsed or refractory (r/r) acute lymphoblastic leukemia (ALL), the most common cancer in children. Current treatments show a rate of 80% remission using intensive chemotherapy. However, there are almost no conventional treatments to help patients who have relapsed or are refractory to traditional treatment. Kymriah® has shown results of complete and long lasting remission, and was the first FDA-approved CAR-T therapy. In October 2017, the U.S. FDA approved Kite Pharmaceuticals’ (Gilead) CAR-T therapy for diffuse large B-cell lymphoma (DLBCL), the most common type of NHL in adults. The initial results of axicabtagene ciloleucel (Yescarta), the prognosis of high-grade chemo refractory NHL is dismal with a medium survival time of a few weeks. Yescarta is a therapy for patients who have not responded to or who have relapsed after at least two other kinds of treatment.
+  
+ In May 2018, the FDA approved Novartis’ Kymriah® for intravenous infusion for its second indication - the treatment of adult patients with relapsed or refractory (r/r) large B-cell lymphoma after two or more lines of systemic therapy including diffuse large B-cell lymphoma (DLBCL) not otherwise specified, high grade B-cell lymphoma and DLBCL arising from follicular lymphoma. Kymriah® is now the only CAR-T cell therapy to receive FDA approval for two distinct indications in non-Hodgkin lymphoma (NHL) and B-cell ALL. On September 25, 2018, we entered into the Collaboration Agreement with Novartis to manufacture and supply Kymriah® to Novartis in China.
+  
+ Besides anti-CD19 CAR-T, anti-BCMA CAR-T has shown promising clinical efficacy in treatment of multiple myeloma. For example, bb2121, a CAR-T therapy targeting BCMA, has been developed by Bluebird bio, Inc. and Celgene for previously treated patients with multiple myeloma. Based on preliminary clinical data from the ongoing phase 1 study CRB-401, bb2121 has been granted Breakthrough Therapy Designation by the U.S. FDA and PRIME eligibility by the European Medicines Agency (EMA) in November 2017. We plan to initiate our anti-BCMA CAR-T investigator initiated trial in the near future.
+  
+ Recent progress in Universal Chimeric Antigen Receptor (UCAR) T-cells showed benefits such as ease of use, availability and the drug pricing challenge. Currently, most therapeutic UCAR products have been developed with gene editing platforms such as CRISPR or TALEN. For example, UCART19 is an allogeneic CAR T-cell product candidate developed by Cellectis for treatment of CD19-expressing hematological malignancies. UCART19 Phase I clinical trials started in adult and pediatric patients in Europe in June 2016 and in the U.S. in 2017. The use of UCAR may has the potential to overcome the limitation of the current autologous approach by providing an allogeneic, frozen, “off-the-shelf” T cell product for cancer treatment.
+  
+   
+12
+
+
+  
+ 
+  TILs
+  While CAR-T cell therapy has been proven successful in treatment of several hematological malignancies, other cell therapy approaches, including Tumor Infiltrating Lymphocytes (TIL) are being developed to treat solid tumors. For example, Iovance Biotherapeutics is focused on the development of autologous tumor-directed TILs for treatments of patients with various solid tumor indications.  Iovance is conducting several Phase 2 clinical trials to assess the efficacy and safety of autologous TIL for treatment of patients with Metastatic Melanoma, Squamous Cell Carcinoma of the Head and Neck, Non-Small Cell Lung Cancer (NSCLC) and Cervical Cancer in the US and Europe.
+  
+  TCRs
+  Adaptimmune is partnering with GlaxoSmithKline to develop TCR-T therapy targeting the NY-ESO-1 peptide, which is present across multiple cancer types. Their NY-ESO SPEAR T-cell has been used in multiple Phase 1/2 clinical trials in patients with solid tumors and haematological malignancies, including synovial sarcoma, myxoid round cell liposarcoma, multiple myeloma, melanoma, NSCLC and ovarian cancer. The initial data suggested positive clinical responses and evidence of tumor reduction in patients. NY-ESO SPEART T-cell has been granted breakthrough therapy designation by the U.S. FDA and PRIME regulatory access in Europe. Adaptimmune’s other TCR-T product, AFP SPEAR T-cell targeting AFP peptide, is aimed at the treatment of patients with hepatocellular carcinoma (HCC). AFP SPEAR T-cell is in a Phase I study and enrolling HCC patients in the U.S.
+  
+  CBMG’s Adoptive Immune Cell Therapy (ACT) Programs
+  
+ In December 2017, the Chinese government issued trial guidelines concerning the development and testing of cell therapy products in China. Although these trial guidelines are not yet codified as mandatory regulation, we believe they provide a measure of clarity and a preliminary regulatory pathway for our cell therapy operations in a still uncertain regulatory environment. On April 18 and April 21, 2018, the CDE posted on its website acceptance of the IND application for CAR-T cancer therapies in treating patients with NHL and adult ALL submitted by the Company’s wholly-owned subsidiaries Cellular Biomedicine Group (Shanghai) Ltd. and Shanghai Cellular Biopharmaceutical Group Ltd. On September 25, 2018 we entered into a strategic licensing and collaboration agreement with Novartis to manufacture and supply Kymriah® in China. As part of the deal, Novartis took approximately a 9% equity stake in CBMG, and CBMG is discontinuing development of its own anti-CD19 CAR-T cell therapy. This collaboration with Novartis reflects our shared commitment to bringing the first marketed CAR-T cell therapy, Kymriah®, a transformative treatment option currently approved in the US, EU and Canada for two difficult-to-treat cancers, to China where the number of patients in need remains the highest in the world. Together with Novartis, we plan to bring the first CAR-T cell therapy to patients in China as soon as possible. We continue to develop CAR-T therapies other than CD 19 on our own and Novartis has the first right of negotiation on these CAR-T developments. The CBMG oncology pipeline includes CAR-T targeting CD20-, CD22- and B-cell maturation antigen (BCMA), AFP TCR-T, which could specific  eradicate AFP positive HCC tumors and TIL technologies. Our current priority is to collaborate with Novartis to bring Kymriah® to China. At the same time, we remain committed to developing our existing pipeline of immunotherapy candidates for hematologic and solid tumor cancers to help deliver potential new treatment options for patients in China. We are striving to build a competitive research and development function, a translational medicine unit, along with a well-established cellular manufacturing capability and ample capacity, to support Kymriah® in China and our development of multiple assets in multiple indications. We believe that these efforts will allow us to boost the Company's Immuno-Oncology presence. We have initiated a clinical trial to evaluate anti-BCMA CAR-T therapy in Multiple Myeloma (“MM”) and expect to initiate first in-human studies for multiple CAR-T and TCR-T programs in 2019.
+  
+   
+13
+
+
+  
+ 
+  Market for Stem Cell-Based Therapies
+  
+ The forecast is that in the United States, shipments of treatments with stem cells or instruments which concentrate stem cell preparations for injection into painful joints will fuel an overall increase in the use of stem cell based treatments and an increase to $5.7 billion in 2020, with key growth areas being Spinal Fusion, Sports Medicine and Osteoarthritis of the joints. According to Centers for Disease Control and Prevention. Prevalence of doctor-diagnosed arthritis and arthritis-attributable activity limitation United States. 2010-2012, Osteoarthritis (OA) is a chronic disease that is characterized by degeneration of the articular cartilage, hyperosteogeny, and ultimately, joint destruction that can affect all of the joints. According to Dillon CF, Rasch EK, Gu Q et al. Prevalence of knee osteoarthritis in the United States: Arthritis Data from the Third National Health and Nutrition Examination Survey 1991-94. J Rheumatol. 2006, the incidence of OA is 50% among people over age 60 and 90% among people over age 65. KOA accounts for the majority of total OA conditions and in adults, OA is the second leading cause of work disability and the disability incidence is high (53%). The costs of OA management have grown exponentially over recent decades, accounting for up to 1% to 2.5% of the gross national product of countries with aging populations, including the U.S., Canada, the UK, France, and Australia. According to the American Academy of Orthopedic Surgeons (AAOS), the only pharmacologic therapies recommended for OA symptom management are non-steroidal anti-inflammatory drugs (NSAIDs) and tramadol (for patients with symptomatic osteoarthritis). Moreover, there is no approved disease modification therapy for OA in the world. Disease progression is a leading cause of hospitalization and ultimately requires joint replacement surgery. According to an article published by the Journal of the American Medical Association, approximately 505,000 hip replacements and 723,000 knee replacements were performed in the United States in 2014 and they cost more than $20 billion. International regulatory guidelines on clinical investigation of medicinal products used in the treatment of OA were updated in 2015, and clinical benefits (or trial outcomes) of a disease modification therapy for KOA has been well defined and recommended. Medicinal products used in the treatment of osteoarthritis need to provide both a symptom relief effect for at least 6 months and a structure modification effect to slow cartilage degradation by at least 12 months. Symptom relief is generally measured by a composite questionnaire Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) score, and structure modification is measured by MRI, or radiographic image as accepted by international communities. The Company uses the WOMAC as primary end point to demonstrate symptom relief, and MRI to assess structure and regeneration benefits as a secondary endpoint.
+  
+ According to the Foundation for the National Institutes of Health, there are 27 million Americans with Osteoarthritis (OA), and symptomatic Knee Osteoarthritis (KOA) occurs in 13% of persons aged 60 and older. The International Journal of Rheumatic Diseases, 2011 reports that approximately 57 million people in China suffer from KOA. Currently no treatment exists that can effectively preserve knee joint cartilage or slow the progression of KOA. Current common drug-based methods of management, including anti-inflammatory medications (NSAIDs), only relieve symptoms and carry the risk of side effects. Patients with KOA suffer from compromised mobility, leading to sedentary lifestyles; doubling the risk of cardiovascular diseases, diabetes, and obesity; and increasing the risk of all causes of mortality, colon cancer, high blood pressure, osteoporosis, lipid disorders, depression and anxiety. According to the Epidemiology of Rheumatic Disease (Silman AJ, Hochberg MC. Oxford Univ. Press, 1993:257), 53% of patients with KOA will eventually become disabled.
+  
+   
+14
+
+
+  
+ 
+  Our Strategy
+  
+ CBMG is a drug development company focusing on developing cell therapies first in China, and seek opportunity globally when appropriate. Our goal is to develop safe and effective cellular therapies for indications that represent a large unmet need in China. We intend to use our first-mover advantage in China, against a backdrop of enhanced regulation by the central government, to differentiate ourselves from the competition and establish a leading position in the China cell therapeutic market.    We believe that few competitors in China are as well-equipped as we are in the clinical trial development, diversified international standard compliant manufacturing facilities, quality assurance and control processes, regulatory compliance vigor, as well as continuous process improvement to speed up manufacturing timelines for its cell therapy clinical trials and commercial launch.
+  
+ The key issues with cell therapy as a modality are drug therapeutic index, institutionalized, scalable manufacturing and an affordable price for the patients. Our continuous improvement approach in our manufacturing platform is unique as we utilize a semi-automatic, fully closed system, which is expected to lead to economies of scale. Additionally, our focus on being a fully integrated, cell therapy company has enabled us to be one of only a few companies that are able to manufacture clinical grade lentivirus in China.
+  
+ In China, the Good Clinical Practice (“GCP”) compliant Investigator Initialized Trial (“IIT”) only requires IRB from hospital and local approval. IITs can provide early evidences of proof concept for novel drugs which are time and cost efficient. IITs are also good ways to identify and develop novel platforms. Currently, we have our own drug development pipeline in CAR-T, AFP TCR-T, TIL and KOA. Our R&D team continues to identify additional platform cell therapy technologies to develop internally or acquire established technologies.
+  
+ In addition to the manufacturing Novartis’ Kymriah® for patients in China that is contemplated by the Collaboration Agreement and Manufacture and Supply Agreement with Novartis, we are also actively developing and evaluating other therapies comprised of other CAR-T, TCR-T and TIL. We plan to advance our KOA Allojoin™ to Phase II clinical trial and IND applications for Rejoin™ with the NMPA in the near future.
+  
+ In addition to our drug development efforts, we also actively seek co-development opportunities with international partners. Such partnership will enable us to take advantage of the technologies of our partners while leveraging our quality control and manufacturing infrastructure and further expand our pipelines in a relatively rapid fashion. 
+  
+  In order to expedite fulfillment of patient treatment, we have been actively developing technologies and products with a strong intellectual properties protection, including haMPC, derived from fat tissue, for the treatment of KOA and other indications. CBMG’s world-wide exclusive license to the AFP TCR-T patent rights owned by the Augusta University provides an enlarged opportunity to expand the application of CBMG’s cancer therapy-enabling technologies and to initiate clinical trials with leading cancer hospitals. 
+  
+ Our proprietary and patent-protected production processes enable us to produce raw material, manufacture cells, and conduct cell banking and distribution. Our clinical protocols include medical assessment to qualify each patient for treatment, evaluation of each patient before and after a specific therapy, cell transplantation methodologies including dosage, frequency and the use of adjunct therapies, handling potential adverse effects and their proper management. Applying our proprietary intellectual property, we plan to customize specialize formulations to address complex diseases and debilitating conditions.
+  
+ We have a total of approximately 70,000 square feet of manufacturing space in three locations, the majority of which is in the new Shanghai facility. We operate our manufacturing facilities under the design of the standard GMPconditions as well ISO standards. We employ institutionalized and proprietary process and quality management system to optimize reproducibility and to hone our efficiency. Our Beijing, Shanghai and Wuxi facilities are designed and built to meet international GMP standards. With our integrated Plasmid, Viral Vectors platforms, our T cells manufacturing capacities are highly distinguishable from other companies in the cellular therapy industry.
+  
+ Most importantly, our seasoned cell therapy team members have decades of highly-relevant experience in the United States, China, and European Union. We believe that these are the primary factors that make CBMG a high quality cell products manufacturer in China.
+  
+   
+15
+
+
+  
+ 
+  Our Targeted Indications and Potential Therapies
+  
+ The chart below illustrates CBMG’s pipelines:
+  
+ 
+ ** NMPA has approved our Phase I IND application under the new regulation. We plan to start our Phase II clinical trial as soon as practicable.
+  
+ * December 2017, Chinese government issued trial guidelines concerning development and testing of cell therapy products in China. Albeit we finished the Phase IIb study prior to December 2017 we have yet to file the IND anew under the new regulation. We plan to apply for IND under the new regulation as soon as practicable.
+ Immuno-oncology (I/o)
+  
+ Our CAR-T platform is built on lenti-virial vector and second-generation CAR design, which is used by most of the current trials and studies. We select the patient population for each asset and indication to allow the optimal path forward for potential regulatory approval. We integrate the state of art translational medicine effort into each clinical study to aid in dose selection, to confirm the mechanism of action and proof of concept, and to attempt to identify the optimal targeting patient population. We plan to continue to grow our translational medicine team and engage key opinion leaders to support our development efforts.
+  
+ We have developed a serial of CAR-Ts to treat hematological malignancies including CD20, CD22, and BCMA CAR-Ts, which have been proved to be potent and effective in treating hematology tumors in early phase of clinical studies.
+  
+  CD20 CAR
+  
+ CD20 is broadly overexpressed in a serial of B cell malignant tumors. In the patients relapsed after CD19 CAR-T treatment, the expression of CD20 on target tumor cells is relatively stable. It is proven to be an optimal target for treating CD19 CAR-T relapsing patients. We have developed a novel CD20 CARs clinical lead, which demonstrated strong anti-tumor activity in both in vitro assays and in vivo animal studies. We have filed patent in China and plan to initiate first in human investigator initiated trial with CD19 CAR-T relapsed NHL patients in 2019.
+ CD22 CAR
+  
+ CD22 is another surface maker highly expressed in B cell malignancies especially in Hairy cell leukemia. It also expresses in the patients relapsed after CD19 CAR-T treatment. We have developed a novel CD22 CARs clinical lead, which displayed effective anti-tumor activity in in vitro cytotoxicity assays. We plan to initiate investigator initiated trial with CD19 CAR-T relapsing ALL patients and Hairy cell leukemia in the first half of 2019.
+ BCMA CAR
+  
+ BCMA is a member of the TNF receptor superfamily, universally expressed in multiple myeloma (MM) cells. It is not detectable in normal tissues except plasma and mature B cells. It is proven to be an effective and safer target for treating refractory MM patients in several clinical trials. We have developed unique BCMA CARs. Our BCMA CAR clinical lead exhibits potent anti-tumor activity both in vitro and in vivo. We have filed patent for BCMA CAR in China and initiated investigator initiated trial in refractory MM patients in January, 2019.
+  
+   
+16
+
+
+  
+ 
+  NKG2D CAR
+  
+ Early studies on CAR-T therapy targeting NK cell signaling has shown promising clinical benefits. We are developing novel second generation CARs using NKG2D extracellular fragment as antigen binding domain. These CARs can recognize targets tumor cells expressing NKG2D ligands. We plan to initiate first in human investigator initiated trial with R/R AML patients in the second half of 2019.
+  
+ Solid tumors pose more challenges than hematological cancers.  The patients are more heterogeneous, making it difficult to have one drug to work effectively in the majority of the patients in any cancer indication.  The duration of response is most likely shorter and patients are likely to relapse even after initial positive clinical response.  We will continue our effort in developing cell based therapies to target both hematological cancers and solid tumors.
+  
+ 
+  AFP TCR
+  
+ We license the technology from Augusta University. We are continuing our evaluation on the efficacy and specificity of the AFP TCRs to identity the most appropriate candidate for first time in human (FTIH) study. We plan to redirect Human T cells with the AFP TCRs and evaluate their anti-tumor activity on in vitro cytokine release and cytotoxicity assays; and potential on/off-target toxicity including allo-reactivity as well as in vivo efficacy tests in animal models.
+ TIL
+  
+ Augmented by the U.S. National Cancer Institute (“NCI”) technology license, CBMG is developing neoantigen reactive TIL therapies to treat immunogenic cancers. In the early stages of cancer, lymphocytes infiltrate into the tumor, specifically recognizing the tumor targets and mediating anti-tumor response. These cells are known as TIL. TIL based therapies have shown encouraging clinical results in early development. For example, in Phase-2 clinical studies in patients with metastatic melanoma performed by Dr. Rosenberg at NCI, TIL therapy demonstrated robust efficacy in patients with metastatic melanoma with objective response rates of 56% and complete response rates of 24%. We plan to start our development with NSCLC in 2019, and eventually expand into other cancer indications.
+ Knee Osteoarthritis (KOA)
+  
+ We are currently pursuing two primary therapies for the treatment of KOA: Re-Join® therapy and AlloJoin™ therapy.
+  
+ We completed the Phase I/IIa clinical trial for the treatment of KOA. The trial tested the safety and efficacy of intra-articular injections of autologous haMPCs in order to reduce inflammation and repair damaged joint cartilage. The 6-month follow-up clinical data showed Re-Join® therapy to be both safe and effective.
+  
+ In the second quarter of 2014, we completed patient enrollment for the Phase IIb clinical trial of Re-Join® for KOA. The multi-center study has enrolled 53 patients to participate in a randomized, single blind trial. We published 48 weeks’ follow-up data of Phase I/IIa on December 5, 2014.  The 48 weeks’ data indicated that patients have reported a decrease in pain and a significant improvement in mobility and flexibility, while the clinical data shows our Re-Join® regenerative medicine treatment to be safe. We announced positive Phase IIb 48-week follow-up data in January 2016, with statistical significant evidence that Re-Join® enhanced cartilage regeneration, which concluded the planned phase IIb trial.
+  
+ In January 2016, we launched the Allogeneic KOA Phase I Trial in China to evaluate the safety and efficacy of AlloJoin™, an off-the shelf haMPC therapy for the treatment of KOA. On August 5, 2016 we completed patient treatment for the Allogeneic KOA Phase I trial. On August 5, 2016 we completed patient treatment for the Allogenic KOA Phase I Trial, and on December 9, 2016, we announced interim 3-month safety data from the Allogenic KOA Phase I Trial in China. The interim analysis of the trial has preliminarily demonstrated a safety and tolerability profile of AlloJoin™ in the three doses tested, and no SAEs have been observed. On March 16, 2018, we announced the positive 48-week Allojoin™ Phase I data in China, which demonstrated good safety and early efficacy for the prevention of cartilage deterioration. In January 2019, the NMPA approved the Company’s Phase I AlloJoin™ IND application. We plan to initiate our Phase II AlloJoin™ clinical trial as soon as practicable.
+  
+   
+17
+
+
+  
+ 
+ Osteoarthritis is a degenerative disease of the joints. KOA is one of the most common types of osteoarthritis. Pathological manifestation of osteoarthritis is primarily local inflammation caused by immune response and subsequent damage of joints. Restoration of immune response and joint tissues are the objective of therapies.
+  
+ According to International Journal of Rheumatic Diseases, 2011, 53% of KOA patients will degenerate to the point of disability. Conventional treatment usually involves invasive surgery with painful recovery and physical therapy. As drug-based methods of management are ineffective, the same journal estimates that some 1.5 million patients with this disability will degenerate to the point of requiring artificial joint replacement surgery every year. However, only 40,000 patients will actually be able to undergo replacement surgery, leaving the majority of patients to suffer from a life-long disability due to lack of effective treatment.
+  
+ Adult mesenchymal stem cells can currently be isolated from a variety of adult human sources, such as liver, bone marrow, and adipose (fat) tissue. We believe the advantages in using adipose tissue (as opposed to bone marrow or blood) are that it is one of the richest sources of multipotent cells in the body, the easy and repeatable access to fat via liposuction, and the simple cell isolation procedures that can begin to take place even on-site with minor equipment needs. The procedure we are testing for autologous KOA involves extracting a very small amount of fat using a minimally invasive extraction process which takes up to 20 minutes and leaves no scarring. The haMPC cells are then processed and isolated on site, and injected intra articularly into the knee joint with ultrasound guidance.  For allogeneic KOA we use donor haMPC cells.
+  
+ These haMPC cells are capable of differentiating into bone, cartilage, and fat under the right conditions. As such, haMPCs are an attractive focus for medical research and clinical development. Importantly, we believe both allogeneic and autologously sourced haMPCs may be used in the treatment of disease. Numerous studies have provided preclinical data that support the safety and efficacy of allogeneic and autologous haMPC, offering a choice for those where factors such as donor age and health are an issue.
+  
+ haMPCs are currently being considered as a new and effective treatment for osteoarthritis, with a huge potential market.  Osteoarthritis is one of the ten most disabling diseases in developed countries. Worldwide estimates are that 9.6% of men and 18.0% of women aged over 60 years have symptomatic osteoarthritis. It is estimated that the global OA therapeutics market was worth $4.4 billion in 2010 and is forecast to grow at a compound annual growth rate of 3.8% to reach $5.9 billion by 2018. 
+  
+ In order to bring haMPC-based KOA therapy to market, our market strategy is to: (a) establish regional laboratories that comply with cGMP standards in Shanghai and Beijing that meet Chinese regulatory approval; and (b) submit to the NMPA an IND package for Allojoin™ to treat patients with donor haMPC cells, and (c) file joint applications with Class AAA hospitals to use Re-Join® to treat patients with their own haMPC cells.
+  
+ Our competitors are pursuing treatments for osteoarthritis with knee cartilage implants.  However, unlike their approach, our KOA therapy is not surgically invasive – it uses a small amount (30ml) of adipose tissue obtained via liposuction from the patient, which is cultured and re-injected into the patient. The injections are designed to induce the body’s secretion of growth factors promoting immune response and regulation, and regrowth of cartilage. The down-regulation of the patient’s immune response is aimed at reducing and controlling inflammation which is a central cause of KOA.
+  
+  We believe our proprietary method, subsequent haMPC proliferation and processing know-how will enable haMPC therapy to be a low cost and relatively safe and effective treatment for KOA. Additionally, banked haMPCs can continue to be stored for additional use in the future.
+  
+ Based on current estimates, we expect to generate collaboration payment and revenues through our sale of Kymriah® products to Novartis within the next two to three years. We plan to systematically advance our own cell therapy pipeline and timely seek BLA opportunities to commercialize our products within the next three to four years although we cannot assure you that we will be successful at all or within the foregoing timeframe.
+  
+   
+18
+
+
+  
+ 
+  Competition
+  
+ Many companies operate in the cellular biopharmaceutical field.  Currently there are several approved stem cell therapies on the market including Canada’s pediatric graft-versus-host disease and the European Commission’s approval in March 2018 for the treatment of complex perianal fistulas in adult Crohn’s disease. There are several public and private cellular biopharmaceutical-focused companies outside of China with varying phases of clinical trials addressing a variety of diseases. We compete with these companies in bringing cellular therapies to the market.  However, our focus is to develop a core business in the China market. This difference in focus places us in a different competitive environment from other western companies with respect to fund raising, clinical trials, collaborative partnerships, and the markets in which we compete.
+  
+ The PRC central government has a focused strategy to enable China to compete effectively in certain designated areas of biotechnology and the health sciences. Because of the aging population in China, China’s Ministry of Science and Technology (MOST) has targeted stem cell development as high priority field, and development in this field has been intense in the agencies under MOST. For example, the 973 Program has funded a number of stem cell research projects such as differentiation of human embryonic stem cells and the plasticity of adult stem cells. To the best of our knowledge, none of the companies in China are utilizing our proposed international manufacturing protocol and our unique technologies in conducting what we believe will be fully compliant NMPA-sanctioned clinical trials to commercialize cell therapies in China.  Our management believes that it is difficult for most of these Chinese companies to turn their results into translational stem cell science or commercially successful therapeutic products using internationally acceptable standards.
+  
+ We compete globally with respect to the discovery and development of new cell-based therapies, and we also compete within China to bring new therapies to market.  In the biopharmaceutical specialty segment, namely in the areas of cell processing and manufacturing, clinical development of cellular therapies and cell collection, processing and storage, are characterized by rapidly evolving technology and intense competition.  Our competitors worldwide include pharmaceutical, biopharmaceutical and biotechnology companies, as well as numerous academic and research institutions and government agencies engaged in drug discovery activities or funding, in the U.S., Europe and Asia. Many of these companies are well-established and possess technical, research and development, financial, and sales and marketing resources significantly greater than ours. In addition, many of our smaller potential competitors have formed strategic collaborations, partnerships and other types of joint ventures with larger, well established industry competitors that afford these companies potential research and development and commercialization advantages in the technology and therapeutic areas currently being pursued by us.  Academic institutions, governmental agencies and other public and private research organizations are also conducting and financing research activities which may produce products directly competitive to those being commercialized by us. Moreover, many of these competitors may be able to obtain patent protection, obtain government (e.g. FDA) and other regulatory approvals and begin commercial sales of their products before us. 
+  
+ Our primary competitors in the field of stem cell therapy for osteoarthritis, and other indications include Cytori Therapeutics Inc., Caladrius Biosciences, Inc. and others.  Among our competitors, to our knowledge, the only ones based in and operating in Greater China are Lorem Vascular, which has partnered with Cytori to commercialize Cytori Cell Therapy for the cardiovascular, renal and diabetes markets in China and Hong Kong, and OLife Bio, a Medi-Post joint venture with JingYuan Bio in Taian, Shandong Province, who planned to initiate clinical trial in China in 2016.  To our knowledge, none of the aforementioned companies have made any progress or advancement in the clinical development in China.
+  
+ Our primary competitors in the field of cancer immune cell therapies include pharmaceutical, biotechnology companies such as Eureka Therapeutics, Inc., Iovance Biotherapeutics Inc., Juno Therapeutics, Inc. (BMS), Kite Pharma, Inc. (Gilead), CARSgen, Sorrento Therapeutics, Inc. and others.  Among our competitors, the ones based in and operating in Greater China are CARsgen, Hrain Biotechnology, Nanjing Legend Biotechnology（Cooperated with Johnson-Johnson）, Galaxy Biomed, Persongen and Anke Biotechnology, Shanghai Minju Biotechnology, Unicar Therapy (Cooperated with Terumo BCT), Wuxi Biologics, Junshi Pharma, BeiGene, Immuno China Biotech, Chongqing Precision Biotech, SiDanSai Biotechnology and China Oncology Focus Limited, which has licensed Sorrento’s anti-PD-L1 monoclonal antibody for Greater China. Other western big pharma and biotech companies in the cancer immune cell therapies space have made inroads in China by partnering with local companies. For example, in April, 2016, Seattle-based Juno Therapeutics, Inc. (Celgene) started a new company with WuXi AppTec in China named JW Biotechnology (Shanghai) Co., Ltd. by leveraging Juno's CAR-T and TCR technologies together with WuXi AppTec's R&D and manufacturing platform and local expertise to develop novel cell-based immunotherapies for patients with hematologic and solid organ cancers. In January 2017, Shanghai Fosun Pharmaceutical created a joint venture with Santa Monica-based Kite Pharma Inc. (Gilead) to develop, manufacture and commercialize CAR-T and TCR products in China. In late 2017 Gilead acquired Kite Pharma for $11.9 billion. On March 6, 2018 Celgene completed its acquisition of Juno Therapeutics for approximately $9 billion. On January 3, 2019, Bristol-Myers Squibb announced it will acquire Celgene in a cash and stock transaction with an equity value of approximately $74 billion.
+  
+   
+19
+
+
+  
+ 
+ The NMPA has received IND applications for CD19 chimeric antigen receptor T cells cancer therapies from many companies and have granted the initial phase of acceptance to several companies thus far.
+  
+ Additionally, in the general area of cell-based therapies for knee osteoarthritis ailments, we potentially compete with a variety of companies, from big pharma to specialty medical products or biotechnology companies. Some of these, such as Abbvie, Merck KGaA, Sanofi, Teva, GlaxosmithKline, Baxter, Johnson & Johnson, Sanumed, Medtronic and Miltenyi Biotech, are well-established and have substantial technical and financial resources compared to ours.  However, as cell-based products are only just emerging as viable medical therapies, many of our more direct competitors are smaller biotechnology and specialty medical products companies comprised of Vericel Corporation, Regeneus Ltd., Advanced Cell Technology, Inc., Nuo Therapeutics, Inc., Arteriocyte Medical Systems, Inc., ISTO technologies, Inc., Ember Therapeutics, Athersys, Inc., Bioheart, Inc., Cytori Therapeutics, Inc., Harvest Technologies Corporation, Mesoblast, Pluristem, Inc., TissueGene, Inc. Medipost Co. Ltd. and others. There are also several non-cell-based, small molecule and peptide clinical trials targeting knee osteoarthritis, and several other FDA approved treatments for knee pain.
+  
+ Certain CBMG competitors also work with adipose-derived stem cells.  To the best of our knowledge, none of these companies are currently utilizing the same technologies as ours to treat KOA, nor to our knowledge are any of these companies conducting government-approved clinical trials in China.
+  
+ Some of our targeted disease applications may compete with drugs from traditional pharmaceutical or Traditional Chinese Medicine companies. We believe that our chosen targeted disease applications are not effectively in competition with the products and therapies offered by traditional pharmaceutical or Traditional Chinese Medicine companies.
+  
+ We believe we have a strategic advantage over our competitors based on our outstanding quality management system, robust and efficient manufacturing capability which we believe is possessed by few to none of our competitors in China, in an industry in which meeting exacting standards and achieving extremely high purity levels is crucial to success.  In addition, in comparison to the broader range of cellar biopharmaceutical firms, we believe we have the advantages of cost and expediency, and a first mover advantage with respect to commercialization of cell therapy products and treatments in the China market.
+  
+   
+20
+
+
+  
+ 
+  Intellectual Property
+  
+ We have built our intellectual property portfolio with a view towards protecting our freedom of operation in China within our specialties in the cellular biopharmaceutical field. Our portfolio contains patents, trade secrets, and know-how.
+  
+ The production of stem cells for therapeutic use requires the ability to purify and isolate these cells to an extremely high level of purity. Accordingly, our portfolio is geared toward protecting our proprietary process of isolation, serum free-cell expansion, cell processing and related steps in stem cell production. The combination of our patents and trade secrets protects various aspects of our cell line production methods and methods of use, including methods of isolation, expansion, freezing, preservation, processing and use in treatment.
+  
+ For our haMPC therapy:
+  
+ 
+● | We believe our intellectual property portfolio for haMPC is well-built and abundant. It covers aspects of adipose stem cell medicine production, including acquisition of human adipose tissue, preservation, and storage, tissue, processing, stem cell purification, expansion, and banking, formulation for administration, and administration methods.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our portfolio also includes adipose derived cellular medicine formulations and their applications in the potential treatment of degenerative diseases and autoimmune diseases, including osteoarthritis, rheumatoid arthritis, as well as potential applications to anti-aging.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our haMPC intellectual property portfolio:
+--+-------------------------------------------
+
+
+° | provides coverage of all steps in the production process; 
+--+---------------------------------------------------------------------------------------------------------------------------------------------
+° | enables achievement of high yields of Stromal Vascular Fraction (SVF), i.e. stem cells derived from adipose tissue extracted by liposuction;
+
+
+° | makes adipose tissue acquisition convenient and useful for purposes of cell banking; and 
+--+----------------------------------------------------------------------------------------------------
+° | employs preservation techniques enabling long distance shipment of finished cell medicine products.
+
+
+ 
+ For our CAR-T and Tcm cancer immune cell therapy:
+  
+ 
+● | Our recent amalgamation of technologies from AG and PLAGH in the cancer cell therapy is comprehensive and well-rounded. It comprises of T cell clonality, Chimeric Antigen Receptor T cell (CAR-T) therapy, its recombinant expression vector CD19, CD20, CD30 and Human Epidermal Growth Factor Receptor's (EGFR or HER1) Immuno-Oncology patents applications, several preliminary clinical studies of various CAR-T constructs targeting CD19-positive acute lymphoblastic leukemia, CD20-positive lymphoma, CD30-positive Hodgkin's lymphoma and EGFR-HER1-positive advanced lung cancer, and Phase I/II clinical data of the aforementioned therapies and manufacturing knowledge. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ 
+ In addition, our intellectual property portfolio covers various aspects of other therapeutic categories including umbilical cord-derived huMPC therapy, bone marrow-derived hbMPC therapy.
+  
+ Moreover, our clinical trial protocols are proprietary, and we rely upon trade secret laws for protection of these protocols.
+  
+ We intend to continue to vigorously pursue patent protection of the technologies we develop, both in China and under the Patent Cooperation Treaty (“PCT”). Additionally, we require all of our employees to sign proprietary information and invention agreements, and compartmentalize our trade secrets in order to protect our confidential information.
+  
+   
+21
+
+
+  
+ 
+  Patents
+  
+ The following is a brief list of our patents, patent applications and work in process as of December 31, 2018:
+  
+ 
+ | China Patents | U.S. Patents | EU Patents | Rest of the World | Patent Cooperation Treaty (PCT) | Total
+-----------------------+---------------+--------------+------------+-------------------+---------------------------------+------
+Work in Process | 8 | - | - | - | - | 8 
+Patents Filed, Pending | 29 | 2 | 1 | - | 7 | 39 
+Granted | 24 | 3 | 1 | 2 | - | 30 
+Total | 61 | 5 | 2 | 2 | 7 | 77 
+
+
+ 
+ Generally, our patents cover technology, methods, design and composition of and relating to medical device kits used in collecting cell specimens, cryopreservation of cells, purification, use of stem cells in a range of potential therapies, adipose tissue extraction, cell preservation and transportation, preparation of chimeric antigen receptor, gene detection and quality control.
+  
+  Manufacturing
+  
+ We manufacture cells for our own research, testing and clinical trials. We are scaling up and optimizing our manufacturing capacity. Our facilities are operated by a manufacturing and technology team with decades of relevant experience in China, EU, and the U.S.
+  
+ In any precision setting, it is vital that all controlled environment equipment meet certain design standards. We operate our manufacturing facilities under good manufacturing practice ("GMP") conditions as well the ISO standards. We employ an institutionalized and proprietary process and quality management system to optimize reproducibility and to hone our efficiency. Three of our facilities designed and built to GMP in Beijing, Shanghai and Wuxi, China meet international standards. Specifically, our Shanghai cleanroom facility underwent rigorous cleanroom certification since 2013.
+  
+ The quality management systems of CBMG Shanghai have been assessed and certified as meeting the requirements of ISO 9001: 2015. (i)The cleanrooms in our new facility have been inspected and certified to meet the requirements of ISO 14644 and in compliance with China’s Good Manufacture Practice (GMP) requirements (2010 edition); (ii) the equipment in the new Shanghai facility has been calibrated and qualified, and the biological safety cabinets were also qualified. The quality management systems of WX SBM were certified as meeting the requirements of ISO 9001: 2015, and the facility and equipment in Wuxi Site were also qualified.
+  
+ With our integrated GMP level plasmid, viral vectors, and CAR-T cell chemistry, manufacturing, and controls processes as well as planned capacity expansion, we believe that we are highly distinguishable with other companies in the cellular therapy industry. 
+  
+ 
+ In January 2017, we leased a 113,038-square foot building located in the “Pharma Valley” of Shanghai, the People’s Republic of China. We are establishing 43,000 square foot facilities there with 25 clean-rooms and equipped with 12 independent production lines to support clinical batch production and commercial scale manufacturing. With the above expansion, the Company could support up to thousands of patients with CAR-T therapy and thousands of KOA patients with the stem cell therapy per annum.
+  
+  Employees
+  
+ As of December 31, 2018, the total enrollment of full time employees of the Company is 193. Among these 193 professionals, 122 have postgraduate and PhD degrees, 61 have undergraduate degrees.  In other words, 94.8% of our employees have germane educational background. As a biotech company, 139 out of our 193 employees have medical or biological scientific credentials and qualifications.
+  
+   
+22
+
+
+  
+ 
+  Facilities
+  
+ Our corporate headquarters are located at 1345 Avenue of Americas, 15th Floor, New York, New York 10105. Our aggregate monthly rental expense for our New York, Maryland and China’s offices for administration, R&D and manufacturing facilities is $265,000 for a combined approximately 181,000 square feet.
+ Certain Tax Matters
+  
+ Following the completion of our merger with EastBridge Investment Group Corporation (Delaware) on February 6, 2013, CBMG and its controlled subsidiaries (the “CBMG Entities”) became a Controlled Foreign Corporation (CFC) under U.S. Internal Revenue Code Section 957. As a result, the CBMG Entities are subject to anti-deferral provisions within the U.S. federal income tax system that were designed to limit deferral of taxable earnings otherwise achieved by putting profit in low taxed offshore entities. While the CBMG Entities are subject to review under such provisions, the CBMG Entities’ earnings are from an active business and should not be deemed to be distributions made to its U.S. parent company.
+  
+ On December 22, 2017, the tax reform bill was passed (Tax Cut and Jobs Act (H.R.1)) and reduced top corporate tax rate from 35% to 21% effective from January 1, 2018. Pursuant to this new Act, non-operating loss carry back period is eliminated and the loss carry forward period was expanded from 20 years to an indefinite period.
+  
+ Pursuant to the Corporate Income Tax Law of the PRC, all of the Company’s PRC subsidiaries are liable to PRC CIT at a rate of 25% except for AG, Cellular Biomedicine Group Ltd. (Shanghai) (“CBMG Shanghai”) and Shanghai Cellular Biopharmaceutical Group Ltd. (“SH SBM”). According to Guoshuihan 2009 No. 203, if an entity is certified as an “advanced and new technology enterprise”, it is entitled to a preferential income tax rate of 15%. CBMG Shanghai obtained the certificate of “advanced and new technology enterprise” dated October 30, 2015 with an effective period of three years. CBMG Shanghai re-applied and SH SBM applied for the certificate of “advanced and new technology enterprise” in 2018. Both of them received preliminary approval in November 2018 and are now in the public announcement period. Final approval will be obtained if there is no objection raised during the public announcement period. AG was certified as a “small and micro enterprise” in its 2017 annual tax filing and enjoys the preferential income tax rate of 20%. AG’s eligibility for the reduced tax rate will need to be verified annually.
+  
+  BIOPHARMACEUTICAL REGULATION
+  
+  PRC Regulations
+  
+ Our cellular medicine business operates in a highly regulated environment.  In China, aside from provincial and local licensing authorities, hospitals and their internal ethics and utilization committees, and a system of institutional review boards (“IRBs”) which in many cases have members appointed by provincial authorities. With respect to cell therapies, however, the Chinese regulatory infrastructure is less established and China has not yet codified any mandatory regulations governing the development of cell therapy products. In December 2017, the Chinese government issued trial guidelines concerning development and testing of cell therapy products, including stem cell treatments and immune cell therapies such as CAR-T cell therapeutics. These trial guidelines are not mandatory regulation but provide some general principles and basic requirements for cell therapy products in the areas of pharmaceutical research, non-clinical research and clinical research. The cell therapy products provided in the trial guideline refer to the human-sourced living cell products which are used for human disease therapy, whose source, operation and clinical trial process are in line with ethics and whose research and registration application are in line with regulations on pharmaceutical administration. The competent authority of pharmaceutical administration is the NMPA. It is further clarified by the NMPA that the non-registered clinical trial data would be acceptable for drug registration on a case by case basis, pending on the consistency of the samples used for the clinical trial and the drug applied for registration, the generation process of the clinical trial data, whether the data is authentic, complete, accurate and traceable to the source, and the inspection outcome of the NMPA on the clinical trial. Moreover, an applicant of the clinical trial of the said cell therapy products can propose the phases of the clinical trial and the trial plan by itself (generally the trial can be divided into early stage clinical trial phase and confirmatory clinical trial phase), instead of the application of the traditional phases I, II and III of a clinical trial. However, it remains unclear if any of our clinical trials will be offered U.S.FDA-like Fast Track designation as maintenance therapy in subjects with advanced cancer who have limited options following surgery and front-line platinum/taxane chemotherapy to improve their progression-free survival. By applying U.S. standards and protocols and following authorized treatment plans in China, we believe we are differentiated from our competition as we believe we have first mover’s advantage in an undeveloped industry.  In addition, we have begun to review the feasibility of performing synergistic U.S. clinical studies.
+  
+   
+23
+
+
+  
+ 
+  PRC Operating Licenses
+  
+ Our business operations in China are subject to customary regulation and licensing requirements under regulatory agencies including the local Administration for Market Regulation, General Administration of Quality Supervision, Inspection and Quarantine, and the State Taxation Administration, for each of our business locations. Additionally, our clean room facilities and the use of reagents is also regulated by local branches of the Ministry of Ecology and Environment. We are in good standing with respect to each of our business operating licenses.
+ U.S. Government Regulation
+  
+ The health care industry is one of the most highly regulated industries in the United States. The federal government, individual state and local governments, as well as private accreditation organizations, oversee and monitor the activities of individuals and businesses engaged in the development, manufacture and delivery of health care products and services. Federal laws and regulations seek to protect the health, safety, and welfare of the citizens of the United States, as well as to prevent fraud and abuse associated with the purchase of health care products and services with federal monies. The relevant state and local laws and regulations similarly seek to protect the health, safety, and welfare of the states’ citizens and prevent fraud and abuse. Accreditation organizations help to establish and support industry standards and monitor new developments.
+  
+  HCT/P Regulations
+  
+ Manufacturing facilities that produce cellular therapies are subject to extensive regulation by the U.S. FDA. In particular, U.S. FDA regulations set forth requirements pertaining to establishments that manufacture human cells, tissues, and cellular and tissue-based products (“HCT/Ps”). Title 21, Code of Federal Regulations, Part 1271 (21 CFR Part 1271) provides for a unified registration and listing system, donor-eligibility, current Good Tissue Practices (“cGTP”), and other requirements that are intended to prevent the introduction, transmission, and spread of communicable diseases by HCT/Ps. While we currently have no plans to conduct these activities within the United States, these regulations may be relevant to us if in the future we become subject to them, or if parallel rules are imposed on our operations in China.
+  
+ We currently collect, process, store and manufacture HCT/Ps, including manufacturing cellular therapy products. We also collect, process, and store HCT/Ps. Accordingly, we comply with cGTP and cGMP guidelines that apply to biological products. Our management believes that certain other requirements pertaining to biological products, such as requirements pertaining to premarket approval, do not currently apply to us because we are not currently investigating, marketing or selling cellular therapy products in the United States. If we change our business operations in the future, the FDA requirements that apply to us may also change.
+  
+ Certain state and local governments within the United States also regulate cell-processing facilities by requiring them to obtain other specific licenses. Certain states may also have enacted laws and regulations, or may be considering laws and regulations, regarding the use and marketing of stem cells or cell therapy products, such as those derived from human embryos. While these laws and regulations should not directly affect our business, they could affect our future business. Presently we are not subject to any of these state law requirements, because we do not conduct these regulated activities within the United States.
+  
+  Pharmaceutical and Biological Products
+  
+ In the United States, pharmaceutical and biological products, including cellular therapies, are subject to extensive pre- and post-market regulation by the FDA. The Federal Food, Drug, and Cosmetic Act (“FD&C Act”), and other federal and state statutes and regulations, govern, among other things, the research, development, testing, manufacture, storage, recordkeeping, approval, labeling, promotion and marketing, distribution, post-approval monitoring and reporting, sampling, and import and export of pharmaceutical products. Biological products are approved for marketing under provisions of the Public Health Service Act, or PHS Act. However, because most biological products also meet the definition of “drugs” under the FD&C Act, they are also subject to regulation under FD&C Act provisions. The PHS Act requires the submission of a biologics license application (“BLA”), rather than a New Drug Application ("NDA"), for market authorization. However, the application process and requirements for approval of BLAs are similar to those for NDAs, and biologics are associated with similar approval risks and costs as drugs. Presently we are not subject to any of these requirements, because we do not conduct these regulated activities within the United States.  However, these regulations may be relevant to us should we engage in these activities in the United States in the future. 
+  
+   
+24
+
+
+  
+ 
+  WHERE YOU CAN FIND MORE INFORMATION
+  
+ You are advised to read this Form 10-K in conjunction with other reports and documents that we file from time to time with the SEC. In particular, please read our Quarterly Reports on Form 10-Q and Current Reports on Form 8-K that we file from time to time. You may obtain copies of these reports directly from us or from the SEC at the SEC's Public Reference Room at 100 F. Street, N.E. Washington, D.C. 20549, and you may obtain information about obtaining access to the Reference Room by calling the SEC at 1-800-SEC-0330. In addition, the SEC maintains information for electronic filers at its website http://www.sec.gov.

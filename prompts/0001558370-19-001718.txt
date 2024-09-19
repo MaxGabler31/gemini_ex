@@ -1,0 +1,393 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ Item 1. Business
+ Overview
+ Carbon Black is a leading, global provider of cloud-delivered, next-generation endpoint security solutions. As an innovator in the Endpoint Protection Platform (EPP) market, our technology enables customers to address the complete endpoint security lifecycle and stay ahead of advanced cyberattacks.
+     Our big data and analytics platform, the CB Predictive Security Cloud (PSC), consolidates endpoint security and IT operations into an extensible cloud platform that prevents advanced threats, provides actionable insight and enables businesses of all sizes to simplify operations. By analyzing billions of security events per day across the globe, Carbon Black has key insights into attackers’ behavior patterns, enabling customers to detect, respond to and prevent emerging attacks.
+     We believe the depth, breadth and real-time nature of our unfiltered endpoint data, combined with the analytic power of our Predictive Security Cloud platform, provides customers with world-class security efficacy and operational efficiency.
+     Organizations globally are re-platforming their IT operations by investing in cloud computing and workforce mobility, which has resulted in enterprise environments that are more open, interconnected, and vulnerable to cyber attacks. Today, an increasingly mobile workforce and the explosion of enterprise data and applications in the cloud have expanded the attack surface beyond the traditional network perimeter. In response, attackers have adapted their methods and tools to directly target the endpoint. In short, the endpoint is the new perimeter.
+     Endpoints are the primary focus of attacks because they store valuable data that attackers seek to steal; perform critical operations that attackers seek to disrupt; and are the interface where attackers can target humans through email, social engineering and other tactics. Endpoints are the physical and virtual locations where sensitive data resides and include desktops, laptops, servers, virtual machines, cloud workloads (services running on cloud servers), containers, fixed‑function devices such as ATMs, point of sale systems, and control and data systems for power plants and other industrial assets.
+     Our approach to solving these endpoint security challenges focuses on leveraging our big data and our security analytics platform in the cloud (the CB Predictive Security Cloud) to better detect and prevent the behaviors and specific techniques used by attackers. Based on our experience and investment in next‑generation solutions designed to address the full endpoint security lifecycle, we have developed a highly differentiated technology approach with four main pillars:
+     1.   Unfiltered data collection: Our technology uniquely collects complete, “unfiltered” endpoint data by continuously recording endpoint activity and centrally storing the collected data for advanced analytics. Other vendors take a “filtered” approach whereby a subset of data is captured at select points in time. Unfiltered data is more comprehensive, provides greater visibility and we believe offers more effective security capabilities.
+ 2.   Proprietary data shaping technology: Our unfiltered data approach required us to overcome several difficult technical challenges, which we refer to as the “edge-to-cloud data pipeline problem.” These challenges centered on how to reliably collect and cost effectively analyze and store massive amounts of data from edge devices (i.e., endpoints) in the cloud. To address those challenges, we have developed proprietary data shaping technology that smooths bursts of endpoint data activity; optimizes bandwidth demands to move massive amounts of endpoint data; compresses data at a high ratio to reduce the cost of storing massive amounts of data; and leverages a graph‑like custom model for endpoint data that allows analysis of the data in multiple ways for multiple use cases.
+ 3.   Streaming analytics: We analyze endpoint data at massive scale by leveraging event stream processing technology, which evaluates and classifies a continuously updated stream of events based on their risk level.
+
+ 
+  5
+
+ 
+
+ 4.   Extensible and open architecture: Our open architecture is designed to integrate with leading security technologies and IT products used by our customers. Moreover, endpoint data is the fuel that powers multiple security products across an organization’s security stack. Our open architecture, when combined with the value of our data, positions our Predictive Security Cloud platform to serve as the hub of security activity in a customer’s IT organization and enables deep customer relationships.
+ We have a strong heritage of innovative technology leadership in multiple Endpoint Protection Platform (EPP) categories, including: application control, endpoint detection and response, or EDR, and next‑generation antivirus, or NGAV. Our flagship solutions are technology leaders in each of these categories, and we are integrating each with the CB Predictive Security Cloud. Unlike legacy security products that install an agent and collect data specific to its domain or use case, our cloud platform  provides a single sensor that that can collect unfiltered endpoint data both continuously and on-demand to address the entire endpoint security lifecycle, which today is addressed by multiple point products. We believe that we are well positioned to capture a significant share of the endpoint security market.
+     Our customers include many of the world’s largest, security‑focused enterprises and government agencies that are among the most heavily targeted by cyber adversaries, as well as small-to-mid‑sized organizations. We serve more than 
+ 5,000 customers globally across multiple industries, including 34 of the Fortune 100. Our solutions address the needs of a diverse range of customers. More than 100 security companies leverage our open application program interfaces, or APIs, to enable additional capabilities and intelligence using the unfiltered endpoint data we provide.
+     We primarily sell our products through a channel go‑to‑market model, which significantly extends our global market reach and ability to scale our sales efforts. Our inside sales and field sales representatives work alongside an extensive network of value‑added resellers, or VARs, distributors, managed security service providers, or MSSPs, and incident response, or IR, firms.
+     Our MSSP and IR partners both use and recommend our products to their clients. In the year ended December 31, 2018, 80% of our new and add‑on business was closed in collaboration with a channel partner.
+    
+Industry Background
+ Cyber security is critical to organizations as they face an increasingly hostile threat environment with a growing number of cyber adversaries launching stealthy, sophisticated and targeted attacks. The following major trends are driving strong and growing demand for our products:
+     Endpoints are the new front line in the cyber war, and organizations are shifting their defenses as a result
+     The attack surface is expanding
+     Workforce mobility is increasing the number of connected devices that operate outside the traditional corporate network perimeter, expanding the potential “attack surface.” Moreover, enterprises are increasing their use of public clouds for a broad range of services. As a result, enterprises’ critical data and operations have increasingly shifted outside of their traditional network defenses, and the importance of protecting their endpoint devices has become paramount.
+     Endpoints are the primary target of cyber attacks
+     Endpoint devices are the primary targets of attacks because these devices store valuable data and intellectual property such as authentication credentials (e.g., usernames, account IDs, passwords), personal information (e.g., Social Security numbers, health records), financial data (e.g., credit card account data), digital assets (e.g., proprietary software code, movies, blueprints, product plans) and trade secrets. Endpoints are also the interface where attackers can target humans through email, social engineering techniques (e.g., phishing), keylogging and other tactics.
+    
+ 
+  6
+
+ 
+
+ Endpoint data is critical to an effective cyber security program
+ Effective security critically depends on having complete visibility into what is happening on each endpoint. Skilled attackers are now easily able to evade traditional, signature-based antivirus products and blend into the normal activity on a company's network or endpoints by leveraging known-good software to perform malicious actions. By collecting unfiltered data about the activities occurring on their endpoints, companies are able to combat these techniques, uncover advanced attacks, and more quickly remediate potential data breaches.
+ Organizations are shifting their defenses to focus on next‑generation endpoint security solutions
+     Because network‑centric security is no longer adequate and traditional, passive, prevention-only endpoint security technologies are ineffective against today’s advanced cyber attacks, organizations are increasingly shifting their security budgets toward next‑generation endpoint security solutions which provide a holistic and active security approach that is predicated on predicting, preventing, detecting and responding to today’s advanced cyber attacks. As organizations shift away from a prevention‑only approach, they increasingly require next‑generation technologies that rely on rich endpoint data as part of a more proactive approach to cyber security.
+     The cyber threat is large, sophisticated and growing and requires new and more advanced approaches to combat it
+ Cyber security is a board-level issue and a focal point for governments worldwide
+ In a recent study, Cybersecurity Ventures predicted that cybercrime will cost the world in excess of $6 trillion annually by 2021, up from $3 trillion in 2015. A single data breach, on average, costs the breached entity $3.86 million according to a 2018 study by the Ponemon Institute and IBM Security, or the Ponemon Study. The ongoing occurrence and devastating consequences of high profile cyber attacks have elevated cyber security to a top priority for executives.
+ The rise of ransomware has made every organization a potential target
+ In the past, cyber attackers tended to target entities that held commercially valuable data that could be stolen and used for financial gain, such as credit card data, authentication credentials and trade secrets. However, with the emergence and proliferation of ransomware in recent years, cyber attackers now target organizations regardless of type or size to extort money by holding computers and data hostage. According to a study conducted by Cybersecurity Ventures, global ransomware damages are now predicted to cost the world $11.5 billion in 2019, and $20 billion in 2021. In fact, according to the 2018 Verizon Data Breach Investigations Report, 76% of breaches were financially motivated and 58% of breach victims are categorized as small businesses.
+ Today’s attacks are stealthy, sophisticated and targeted
+ Today’s organizations face a complex threat landscape with a broad range of well-funded cyber attackers that include criminal syndicates, state-sponsored agents, international hacking collectives and nation states. Advanced attackers use techniques designed to circumvent traditional security approaches, including custom malware and zero-day attacks, social engineering through targeted spear phishing, polymorphic malware and infected USB keys. Advanced attackers are also evolving to remain undetected, using techniques such as lateral movement (using native operating system tools during attacks in an attempt to remain undetected), island hopping (targeting smaller organizations within the supply chain to ultimately attack a larger enterprise) and counter incident response to stay invisible. Once an organization has been breached, attackers can move unseen for months or even years, exfiltrating a larger amount of data and intellectual property. The longer these invisible breaches remain undetected, the greater the costs and reputational damage they can cause. According to the Ponemon study, the mean time to identify a malicious or criminal cyber attack is 197 days and the mean time to contain such an attack, once identified, is an additional 69 days.
+
+ 
+  7
+
+ 
+
+ The shortage of security talent creates a need for next-generation solutions
+ The continuous growth in the number and sophistication of cyber attacks and the expansion of the attack surface is driving the need for more security professionals with deeper expertise. The number of security professionals has not kept pace with total demand. Cybersecurity Ventures predicts that there will be 3.5 million unfilled cybersecurity positions by 2021. Organizations are increasingly turning to next-generation solutions, advanced analytics and automation tools to empower their security professionals to increase their efficiency and focus on the highest value cyber security tasks.
+     Our Market Opportunity
+     We believe that our Predictive Security Cloud addresses a significant capability gap in the evolving Endpoint Protection Platform (EPP) landscape in which the endpoint is the new perimeter. Legacy endpoint products employ “scanning” technology to periodically scan and pull data from endpoints at various points in time in order to identify potential cyber threats. In contrast, our PSC platform enables organizations to improve the efficacy of, and reduce the overhead associated with, managing security systems and teams through the collection of continuous and unfiltered endpoint data. Our extensible cloud platform consolidates security and enables organizations to utilize unfiltered endpoint data and advanced analytics to better predict, prevent, detect, respond to and remediate cyber attacks when compared to traditional endpoint security solutions.     Our Platform and Solutions
+     Powered by the CB Predictive Security Cloud, our solutions provide best-in-class security by collecting and analyzing unfiltered data from the endpoint, where attacks and breaches are increasingly focused, and by integrating seamlessly with leading third-party security solutions.
+     Addressing the entire security lifecycle, our solutions are designed to predict, prevent, detect, respond to and remediate the maximum number of attacks for our customers, and to enable our customers to continuously improve their security posture by proactively detecting and responding to threats, and remediating potential vulnerabilities. Our solutions can be quickly deployed by customers to realize immediate benefits, are easily scaled and tailored to fit their needs, and allow our customers to consolidate multiple point solutions into a single, cloud-based platform.
+     Our customers use our products to:
+    
+· | Replace or augment legacy antivirus;
+--+-------------------------------------
+
+
+· | Prevent malware and fileless attacks that do not use malware;
+--+--------------------------------------------------------------
+
+
+· | Protect against malware;
+--+-------------------------
+
+
+· | Hunt down threats;
+--+-------------------
+
+
+· | Respond to and remediate security incidents;
+--+---------------------------------------------
+
+
+· | Lock down critical systems and applications;
+--+---------------------------------------------
+
+
+· | Protect fixed-function devices;
+--+--------------------------------
+
+
+· | Secure workloads and applications in virtualized and cloud environments;
+--+-------------------------------------------------------------------------
+
+
+· | Assess vulnerabilities and maintain IT hygiene practices;
+--+----------------------------------------------------------
+
+
+· | Comply with regulatory mandates; and
+--+-------------------------------------
+
+
+· | Enhance other security products through our unfiltered endpoint data.
+--+----------------------------------------------------------------------
+
+    Benefits of Our Platform and Solutions
+
+Decreased risk of breach by protecting against known and unknown endpoint attacks
+ By leveraging the benefits of unfiltered data, analytics and the cloud, we believe our solutions extend beyond legacy antivirus solutions to detect and stop the widest possible array of cyber attacks. These encompass both previously identified and novel attacks never seen before, including file-based attacks such as malware and ransomware, as well as more advanced fileless attacks, such as memory-based, PowerShell and script-based attacks. Our solutions apply a full 
+
+ 
+  8
+
+ 
+spectrum of technologies including application whitelisting and advanced analytics techniques—such as behavioral analysis, reputation analysis, artificial intelligence and machine learning—to analyze attack patterns in the cloud using richer and more complete endpoint data than any other vendor. According to an MRG Effitas Ltd. efficacy assessment commissioned by us, CB Defense has a 100% prevention rate against known and unknown ransomware samples. We believe the increased security efficacy from the use of our solutions results in a decreased risk of breach for our customers.
+
+Ability to identify root cause of attacks and quickly respond to security incidents
+ Modern cyber adversaries routinely exploit known and newly discovered vulnerabilities in their targets’ infrastructure and operations. As long as those vulnerabilities remain, adversaries have a potential path to reach their goal. Our next-generation detection and response capabilities enable organizations and incident responders to rapidly identify the root cause of an attack and the scope of compromise on the network, helping them remediate the attack and close gaps in their security posture to better protect against future attacks. The CB Predictive Security Cloud provides full visibility into potential threats, both proactively as well as retroactively after a threat is blocked or identified, providing complete details of what happened and what was impacted.
+
+Security efficacy without blocking legitimate activity
+ Customers require security products that are highly effective in detecting and preventing attacks (i.e., that have a low rate of “false negatives”), while also minimizing the number of “false positive” alerts that interrupt legitimate end‑user activity. In order to achieve these dual requirements, we apply an approach that combines endpoint‑based prevention models that are optimized for low false positives, with cloud‑based detection algorithms that are optimized for low false negatives. As a result, we are able to deliver maximum endpoint security efficacy without blocking legitimate activity.
+
+Automated remediation and threat containment
+ Using the unfiltered continuously collected data from each endpoint where our solutions are deployed, our users can launch automated remediation and threat containment actions, such as terminating processes, deleting files and isolating endpoints on the network. These automated capabilities enable organizations to respond to attacks as they happen and minimize the impact and cost of an attack.
+
+Continuous enhancement by leveraging intelligence from across the security community
+ Our solutions allow organizations to continuously improve their security posture, benefiting from ongoing refinement of endpoint hardening and the latest threat intelligence. Our solutions unite the Carbon Black community of security experts, our network of partners and our internal threat research team, and deliver shared intelligence through the CB Predictive Security Cloud, which elevates the security expertise of each community member.
+
+Seamless integration with other best‑of‑breed security solutions
+ Our next‑generation endpoint security solutions are designed to integrate seamlessly with other security technologies deployed in an organization’s IT environment. Our open architecture and API framework allows organizations to integrate our platform with other best‑of‑breed security solutions, such as network security and security information and event management, or SIEM, solutions, to provide a unified security strategy where data is shared across the environment. Our emphasis on open architecture and integration with partners at all layers of the security stack enhances an enterprise’s security posture, reduces incident response times and increases overall operational efficiency.
+
+Increased security operations efficiency and less reliance on scarce security talent
+ Organizations are under pressure to drive greater efficiencies across their security operations, driven in part by a global shortage of trained security professionals. By providing customers with automated security solutions, streamlined workflow management and access to the collective expertise available on the CB Predictive Security Cloud, our 
+
+ 
+  9
+
+ 
+solutions enable our customers to significantly improve the efficiency of their security operations and reduce their reliance on additional security professionals.
+
+Greater ability to meet compliance requirements
+ Our solutions enable organizations to comply with numerous regulatory requirements for data collection, analysis, reporting, archival and retrieval, while also optimizing the overall enterprise cyber security posture. Our solutions allow our customers to consolidate compliance costs and help them comply with regulations such as the General Data Protection Regulation, or GDPR, the 2014 Framework for Improving Critical Infrastructure Cybersecurity, Health Insurance Portability and Accountability Act, PCI DSS, NERC‑CIP and the Sarbanes‑Oxley Act.
+
+Ability to deploy endpoint security at any scale and grow and evolve their defenses
+ Carbon Black products are used by customers of all sizes, from small and medium sized businesses, or SMBs, to large global enterprises with hundreds of thousands of endpoint under protection. Carbon Black products are designed to deploy in minutes, with no adverse impact on end users or endpoint performance. Moreover, we have designed the CB Predictive Security Cloud to enable customers to easily grow and evolve their defenses. Customers can start by deploying whichever solutions best match their immediate needs and then extend and enhance their deployment over time.
+     Our Competitive Strengths
+     We believe a number of competitive advantages enable us to maintain and extend our leadership position, including:
+
+Differentiated technology and intellectual property
+ Our predictive security approach continuously captures unfiltered endpoint activity for real‑time and retrospective analysis using our analytics technology that incorporates event stream processing, dynamic and static behavioral analysis, machine learning and reputation analysis and scoring. Our solutions provide a complete system of record, immediate root cause discovery and precise attack scope and impact assessment as well as an historical data set which organizations can continually analyze using newly discovered indicators and patterns of attacker behavior.
+
+Extensible next‑generation security cloud platform
+ The CB Predictive Security Cloud Platform is designed to address a wide range of next‑generation security requirements and use cases by leveraging our unfiltered data to deliver a broad set of security offerings for customers of all types and sizes. The extensible architecture of our platform positions us to continue enhancing and expanding our offerings in order to address additional requirements and use cases, as customers’ needs evolve and as the landscape of cyber threats changes over time.
+
+Powerful ecosystem based on unfiltered endpoint data and open platform
+ In the security ecosystem, endpoints yield the most valuable security data because they are the primary target of modern cyber attacks. Through a combination of our continuous recording that captures unfiltered endpoint data, along with our customer base of industry leaders that are among the world’s most heavily targeted organizations, we believe the endpoint data that we capture is considered the “gold standard” for the industry and is preferred by leading security vendors. Leveraging our open platform that integrates with our customers’ existing security architecture, we are well‑positioned to provide the core platform on which a growing ecosystem of partners can build complementary offerings.
+
+ 
+  10
+
+ 
+
+
+Partnerships with leading incident response firms
+ We have established contractual relationships with more than 100 IR firms, including many industry leaders such as Kroll Inc. and Ernst & Young LLP. These firms engage with companies that have experienced a security incident and provide services to investigate the incident and remediate the situation. We provide our IR partners with our solutions at no charge, and we train and certify their personnel in using our software to support their IR engagements. We benefit from this arrangement because our IR partners recommend the use of our solutions to their client companies and refer them to us as prospective customers. In 2018, our IR partners leveraged our platform in more than 500 incident response engagements. We believe our IR partnerships are a significant competitive strength that extends our ability to build sales pipeline and acquire new customers.
+
+Deep security DNA
+ Our management and technical leadership teams are comprised of cyber security leaders who have deep expertise from leading corporations and government organizations, such as the National Security Agency, the Department of Defense and the Central Intelligence Agency. Our extensive background in offensive and defensive cyber security positions us to respond to new threats and innovate products that protect against the most dangerous cyber attacks.
+     Our Growth Strategy
+     The key elements of our growth strategy include:
+     Drive new customer growth        We operate in a large, growing market that offers substantial opportunities to grow our customer base. We believe most organizations, regardless of industry, size or location, would benefit from our next‑generation endpoint security platform and solutions, as cyber attacks continue to evade legacy security defenses. We believe we have a significant opportunity to increase our global market penetration in terms of customer type, market segment and geography.
+     Expand the use of our solutions by our existing customer base
+     With more than 5,000 customers across industries and geographies, we believe we have a significant opportunity to sell additional Carbon Black solutions to our existing customers. Our sales organization includes a dedicated Customer Success Team, which focuses exclusively on customer engagement and education to drive loyalty and increased purchases. During 2018, we launched four new solutions on the CB Predictive Security Cloud Platform: CB ThreatSight, CB Defense for VMWare, CB LiveOps and CB ThreatHunter. We see significant opportunity to cross‑sell and upsell these products to existing customers.
+     Strengthen relationships with channel distributors and strategic partners
+     Our relationships with our channel partners are a significant strength for our company. We have established a formidable channel composed of more than 520 of the world’s leading MSSPs, IR firms, distributors and VARs. In the year ended December 31, 2018, 80% of our new and add‑on business was closed in collaboration with our channel partners. We plan to drive operating leverage and greater sales by continuing to expand our sales channel, particularly in international regions where we can benefit from the local expertise and existing relationships of these partners.
+     Grow our international business
+     In 2018, we generated approximately 17% of our revenue from customers located outside of the United States. We believe there is significant opportunity to grow our international business, and we have expanded our international operations to include Europe, the Middle East, Asia Pacific (primarily Japan) and Australia. We intend to continue our international expansion model of entering new markets through our channel partners and then incubating growth through field sales teams in select countries and inside sales teams based in regional hubs.
+    
+ 
+  11
+
+ 
+
+ Continue to innovate and add new offerings to our PSC platform
+     We will continue to make investments in research and development to enhance our PSC platform and product functionality. Our extensible cloud platform allows us to develop new solutions rapidly and at low cost. In 2016 and 2017, we released major enhancements to the CB Predictive Security Cloud platform, including innovations in our streaming analytics technology and investments in our open architecture, to support a larger ecosystem of partners.
+     During 2018, we launched four new products on the CB Predictive Security Cloud Platform: CB ThreatSight, CB Defense for VMWare, CB LiveOps and CB ThreatHunter. Leveraging the CB Predictive Security Cloud Platform, we intend to build and deliver new offerings that enable us to expand beyond endpoint security to adjacent security markets. As we develop and deploy additional security offerings, we see significant additional opportunity to cross‑sell and upsell as customers benefit by addressing multiple security requirements through a single cloud platform.
+     Increase sales to the United States Federal government
+     We have a dedicated federal subsidiary and federal sales team, focused on selling our solutions to departments and agencies of the United States, or U.S., Federal government. We have established significant traction by winning major deals with various branches of the U.S. Federal government and we believe we are well positioned to increase sales to the U.S. Federal government.
+     Selectively pursue acquisitions of complementary businesses, technologies and assets
+     We believe we have established a successful track record of identifying, acquiring and integrating strategic businesses, technologies and assets, including our acquisitions of Carbon Black, Inc. in 2014, Objective Logistics Inc. and VisiTrend, Inc. in 2015 and Confer Technologies, Inc. in 2016. We will continue to seek opportunistic acquisitions that complement and expand the functionality of our products and services, add to our technology or security expertise, or bolster our leadership position by gaining access to new customers or markets.
+     CB Predictive Security Cloud Platform and Our Software Solutions
+     Powered by the CB Predictive Security Cloud Platform, our software solutions are designed to address a broad set of use cases and customer requirements, providing what we believe is the most complete next-generation security offering on the market. Our customers deploy our software solutions across physical and virtual endpoints, including servers, desktops, laptops, and fixed-function devices, to augment or replace traditional signature-based antivirus solutions on their endpoints.
+ The CB Predictive Security Cloud Platform is an open, multi-tenant, scalable, and extensible cloud-based platform. It provides a set of core platform capabilities—including endpoint data collection, streaming analytics, collective intelligence and open APIs—as well as a set of security services that leverage these core capabilities to power Carbon Black products: Unfiltered endpoint data collection; Proprietary data-shaping technology; Streaming analytics and collective intelligence; Extensible and open architecture.
+ Our software solutions include:
+ Cloud Solutions delivered from the CB Predictive Security Cloud platform utilizing a common endpoint sensor and unified console:
+
+· | CB Defense, a leading NGAV and endpoint detection and response solution;
+--+-------------------------------------------------------------------------
+
+
+· | CB ThreatHunter, an advanced threat hunting and incident response solution delivering unfiltered visibility for top security operations centers (SOCs) and incident response (IR) teams;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | CB LiveOps, a real-time security operations solution that enables organizations to query all endpoints and remediate issues in real time;
+--+------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 
+  12
+
+ 
+
+
+· | CB ThreatSight, a managed service for CB Defense customers, designed to monitor, prioritize, and analyze threats; and
+--+----------------------------------------------------------------------------------------------------------------------
+
+
+· | CB Defense for VMware, an offering to protect applications running inside virtualized data centers.
+--+----------------------------------------------------------------------------------------------------
+
+      On-premise and single-tenant cloud hosted software solutions:
+    
+· | CB Response, a market-leading solution for threat hunting and incident response, available either on-premise or cloud hosted by Carbon Black; and
+--+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | CB Protection, a market-leading product for application control to lock down critical infrastructure available on-premise.
+--+---------------------------------------------------------------------------------------------------------------------------
+
+      CB Defense.  CB Defense is a cloud-delivered solution that combines NGAV and endpoint detection and response, or EDR, capabilities. Built as a native offering on the CB Predictive Security Cloud platform, it is lightweight, fast to deploy, and easy to manage. CB Defense is designed to deliver the best endpoint security with the least amount of administrative effort, protecting against the full spectrum of modern cyber attacks, including the ability to detect and prevent both known and unknown attacks through the use of event stream processing technology. In addition, CB Defense provides a suite of response and remediation tools, including “Live Response,” which allows security personnel to perform remote live investigations, intervene in ongoing attacks and instantly remediate endpoint threats. Customers deploy CB Defense either to augment or replace legacy antivirus products. CB Defense leverages the powerful capabilities of the CB Predictive Security Cloud, applying our unique streaming analytics to unfiltered endpoint data in order to predict, detect, prevent, respond to and remediate cyber threats.
+ CB ThreatHunter. CB ThreatHunter is an advanced threat hunting and incident response solution delivering unfiltered visibility for top security operations centers and incident response teams. As the next generation of our market-leading technology, CB Response, CB ThreatHunter continuously records and stores every event that occurs on protected endpoints, allowing security professionals to proactively search for threats in real time, create watchlists and integrate additional threat intelligence feeds to customize threat detection, visualize every step of the attack, and remotely remediate endpoints. CB ThreatHunter provides immediate access to the complete picture of an attack at all times, which can reduce investigation time and empower teams to proactively hunt for threats, uncover suspicious behavior, disrupt active attacks, and address gaps in defenses before attackers can. CB ThreatHunter is delivered through the CB Predictive Security Cloud and uses the same lightweight sensor and cloud-based console as CB Defense, CB Defense for VMware, and CB LiveOps, allowing security teams to consolidate endpoint security in the cloud.
+ CB LiveOps.  CB LiveOps is a real-time security operations solution that enables organizations to query all endpoints in their environment and take action to promptly remediate issues. Using CB LiveOps, customers can directly query their endpoints on-demand to gain access to more than 1,500 unique security artifacts from their endpoints during vulnerability assessments, incident response, or compliance audits. CB LiveOps is built on the CB Predictive Security Cloud and closes the gap between security analysis and IT operations by giving administrators visibility into precise details about the current state of all endpoints, enabling them to make timely decisions to reduce risk.
+ CB ThreatSight.  CB ThreatSight solves the problems related to shortages of skilled security professionals, resources and data by providing subscription-based monitoring for CB Defense customers, validating and prioritizing alerts, uncovering new threats, and accelerating investigations with capabilities such as predictive root cause reporting. CB ThreatSight is staffed by threat experts who keep watch over the customer’s environment 24x7 and advise customers on security issues.
+ CB Defense for VMware.  Pre-integrated with VMware’s AppDefense, CB Defense for VMware is an offering jointly developed as part of our strategic partnership with VMware.  The integrated solution is designed to stop threats to applications inside the virtualized data center. VMware has more than 500,000 customers globally who use its products to operate virtualized data and is the infrastructure platform choice of 100% of the Fortune 500. Protecting assets from cyber attacks in these virtualized environments has specific requirements that are uniquely addressed by our joint solution. The solution combines the ability to lock down applications and infrastructure in a “least privilege” model; behavioral threat detection and prevention; and automated response, including the ability to suspend or quarantine a compromised virtual machine.
+
+ 
+  13
+
+ 
+
+ CB Response.  CB Response is a market-leading incident response and threat hunting solution designed for security operations center, or SOC, teams. CB Response continuously records and captures unfiltered endpoint data so that security professionals can hunt threats in real time and visualize the complete attack kill chain. It provides advanced tools enabling users to understand the current state of an endpoint, perform remote live investigations, intervene with ongoing attacks and instantly remediate endpoint threats. CB Response leverages the CB Predictive Security Cloud’s aggregated threat intelligence capability, for evidence of known threats and malicious patterns of behavior. In addition, we are able to apply new behavioral patterns and indicators to historical endpoint data to identify previously unknown attacks. Top SOC teams, IR firms and MSSPs have adopted CB Response as a core component of their detection and response capability stack. Customers that augment or replace legacy antivirus solutions with CB Response do so because those legacy solutions lack visibility and context, leaving customers blind to attacks. CB Response is available via MSSP or directly via on-premise deployment, virtual private cloud or public cloud.
+ CB Protection.  CB Protection is the market-leading application control solution, used by organizations to lock down servers and critical systems, prevent unwanted changes, and ensure continuous compliance with regulatory mandates. Leveraging the CB Predictive Security Cloud, CB Protection utilizes a combination of cloud reputation services, IT-based trust policies and multiple sources of threat intelligence to ensure that only trusted and approved software is allowed to execute on an organization’s critical systems and endpoints. IT, compliance, infrastructure and security teams use CB Protection to establish automated software execution controls and protection policies that safeguard corporate and customer data. CB Protection works with existing software distribution systems and reputation services to automate approval of trusted software and eliminate whitelist management. Customers often deploy CB Protection to replace ineffective legacy antivirus products. CB Protection is available through MSSPs or directly through on-premise or virtual private cloud deployment.
+ Our Technology
+ Our core technologies are purpose‑built to combat advanced threats and enable greater efficiency for security operations personnel. These technologies (several of which are patented or patent pending), which serve as the foundation for our Predictive Security Cloud and product offerings, are:
+     Unfiltered Data Collection. Our innovative approach to unfiltered endpoint data collection powers all of our capabilities. The granularity and fidelity of the data we collect enables more accurate and comprehensive endpoint protection across the entire security lifecycle.
+ Cloud‑based, Big Data Processing. Our unfiltered endpoint data approach, when aggregated across all of our customers in our cloud platform, results in big data at a massive volume, variety and velocity. To support our cutting‑edge cyber security use cases, we have built a proprietary system that allows us to collect, index, search and transform this data at low latency and cost while maintaining a level of flexibility that supports future expansion of capabilities.
+ Streaming Analytics Engine. Our detection and prevention engine leverages event stream processing technology to continuously analyze unfiltered endpoint data. It tracks the state of each potential attack and updates the associated risk as additional operations occur, such as the launching of additional processes, copying of files or creation of network connections. This stateful behavior detection uses advanced analytics techniques—such as behavioral analysis, reputation analysis, artificial intelligence and machine learning—and allows our system to identify complex, multi‑step attack patterns, whether they are file‑based or file‑less in origination, that evade traditional detection and prevention engines.
+ Zero Trust Prevention Engine. This “Zero Trust” approach is used to lock down servers and critical systems by enabling organizations to approve or deny various behaviors, on a policy basis, including registry changes, file system operations, script execution, device usage (such as USB keys) and memory manipulation. This empowers customers to allow or restrict individual applications entirely or limit their ability to perform particular actions. Examples include allowing web browsers to run, but restricting them from loading particular plugins or performing memory operations should those browsers become exploited. In addition, we have the capability to deny specific behaviors associated with malicious intent. This is a critical capability against attacks that leverage known-good software to perform malicious activities or zero‑day threats that are unknown by the entire security community and thus bypass traditional tools.
+
+ 
+  14
+
+ 
+
+ Extensible Detection. We have designed a syntax engine for patterns of attacker behavior that allows for easy sharing across customers and partners, easy ingesting of third‑party feeds and easy exporting into industry standard formats such as Structured Threat Information Expression and Trusted Automated Exchange of Indicator Information. These patterns are primarily sourced from four groups: (i) vendors and commercial providers who showcase common malicious patterns, (ii) expert users who share data with the CB Predictive Security Cloud via the CB User Exchange, our online community of security professionals across our customer and partner network, (iii) advanced analytics on our customer endpoint data provided by the CB Predictive Security Cloud and (iv) our in‑house threat intelligence team. This sharing system does not impact endpoint performance and allows alerts to be emailed, sent to SIEM systems, fed into our proprietary automation engine and sent to a correlation or orchestration engine that may exist in a customer’s environment.
+ Live Response. We provide proactive recovery, remediation and deep investigation capabilities during all stages of an incident. Our technology provides an incident responder with real‑time access to the suspected endpoints, regardless of location. From a central console, live response enables operational efficiency, including the uploading of additional forensics tools, downloading of more data, isolating of network access and terminating of malicious activity. Alternatively, these operations can be automated based on enterprise‑specific rules.
+ Open APIs. Our solutions provide organizations with an open platform for seamless integration and extensibility, improving the economics of security operations by enabling automation and reporting. Our open APIs also facilitate faster security response times by easily integrating endpoint data with third‑party security products such as firewalls, detonation tools and exploit mitigation tools, thereby multiplying the value of the customer’s existing security technology investments. Our APIs allow response personnel to both “pull in” capabilities from other security solutions and threat intelligence, as well as expose and “push out” the data captured by our software. As of December 31, 2018, more than 140 integrations with products from over 100 technology partners have been developed.
+ Reputation Scoring Engine. Our reputation scoring algorithm encompasses a comprehensive catalog of executables, drivers and patches found in commercial applications and software packages. Malware and other unauthorized software that affect Windows, Mac and Linux computers are also indexed. Our reputation scoring engine uses a number of data points, such as age, prevalence, size, source, publisher, community actions, and the relationship to other diagnosed patterns and files to provide our customers with an analysis of the likelihood that the file poses a threat. To ensure that relevant new data is included in our reputation scoring and is marked for dissemination, we have developed internal systems to update our dataset and analytics when new patches, operating system versions and malicious software are discovered.
+ Customers
+ Our customer base, which includes both direct sale customers and customers with one or more subscriptions to our platform through channel partners, has grown from approximately 3,700 customers as of December 31, 2017 to more than 5,000 as of December 31, 2018. We have experienced strong growth in the number of customers who use our cloud‑based solutions, from 49 customers in 2015 to nearly 3,000 customers in 2018.
+     Our customer base includes many leading Fortune 1000 companies, including 34 of the Fortune 100. Our solutions are used by organizations of various sizes and types including large and small businesses, universities, and government entities. Our solutions are also industry‑agnostic—our current customer base spans a broad range of industry verticals, including financial services, retail, technology, manufacturing, services, utilities, healthcare, oil and gas, education and government. Our revenue is not dependent on any single customer; however, sales to customers through the reseller agreement with Optiv Security, Inc. accounted for approximately 19%, 27%, and 31%, of our revenue in the years ended December 31, 2018, 2017 and 2016, respectively. See the section titled “Business—Our Partners—Channel Partners” for additional information about our reseller relationship with Optiv Security, Inc. and other channel partners.
+    
+ 
+  15
+
+ 
+
+ Our Partners
+
+Technology Partners
+ Our Carbon Black Integration Network, or CBIN, is a robust partner program designed to improve cybersecurity through collective defense and vendor interoperability. The CBIN is powered by our open APIs and the CB Predictive Security Cloud, providing a network of integrated solutions that help customers increase visibility, efficiency and speed across their security ecosystem. Open APIs enable partners and customers to custom-build their security stack with integrated solutions that amplify the benefits they’ve received from Carbon Black and other security solutions.
+ Siloed security solutions make it challenging to understand and react to attacks, and without endpoint data, other security tools lack the visibility and context required to prevent, detect and respond quickly and efficiently. By leveraging Carbon Black’s high-value unfiltered endpoint data through seamless, pre-built integrations, customers gain clarity into attack patterns, speeding investigation and analysis, leading to identification and remediation of more attacks.
+ More than 100 industry-leading security companies are members of our technology partner network, including analytics and SIEM solutions providers, network security providers, IT and security operations solutions providers, and threat intelligence providers. Together, we help customers strengthen their security postures, gain increased visibility into security events, and simplify operations while achieving end-to-end advanced threat protection across their environment.
+ Carbon Black is committed to open standards and open source: to demonstrate that commitment, we publish full API documentation on our Carbon Black Developer Network website and provide sample code for all our product APIs to our GitHub repository. Leveraging GitHub and the Carbon Black User Exchange, we foster an active community of customers who create and share their own efforts to drive automation and communication across the security stack. 
+
+Channel Partners
+ Our go‑to‑market strategy leverages channel partners, including MSSPs, IR firms and security‑focused VARs, to drive adoption of our products. These partners are an important driver of new business opportunities through their recommendations of our platform and direct sales referrals. In 2018, approximately half of our new customers originated from partner referrals.
+ Managed Security Service Providers.  MSSPs serve as trusted advisors to their customers, and provide an outsourced and managed security solution, including security hardware, security software and security operations. As the global shortage of security professionals continues to grow, we believe MSSPs will increasingly become a preferred solution for enterprises across industries, as they provide a level of security expertise and resources that organizations may not be able to procure and maintain on their own. We have entered into partnership agreements with more than 100 MSSP partners globally, including IBM, SecureWorks and Trustwave, who utilize our solutions in their delivery of their broader managed service offerings.
+ Incident Response Firms.  IR firms work with enterprise customers on compromise assessment and data breaches in order to respond to and mitigate the operational, financial and reputational risks associated with these events. Our IR partners utilize the CB Predictive Security Cloud to deploy a Carbon Black sensor into an enterprise environment to assist in their investigation and incident response service engagements. We have entered into partnership agreements with more than 100 IR firms including many of the industry leaders such as International Business Machines Corporation, Kroll Inc., Trustwave Holdings, Deloitte Touche Tohmatsu Limited, Grant Thornton LLP, Ankura Consulting Group, Optiv Security, Inc., Rapid7, Inc., and Ernst & Young LLP. To date, we have trained more than 3,000 partner personnel on our solution. Our IR partners serve as a powerful lead engine for new customers as they demonstrate the effectiveness and value of our solutions during the course of their investigation and remediation engagements.
+ VARs and Distribution.  Our channel strategy also extends our reach by utilizing leading distributors and security-focused VARs, as well as a wide range of traditional software resellers on a global level. To date, we have partnerships with more than 500 leading security-focused VARs, such as Optiv Security, Inc., CDW Corporation, Dimension Data 
+
+ 
+  16
+
+ 
+Holding Plc and SHI International, and global distributors, such as Arrow Electronics, Inc. Optiv Security, Inc., one of our channel partners, accounted for approximately 19%, 27%, and 31% of our revenue in the years ended December 31, 2018, 2017 and 2016 respectively.
+ Sales and Marketing
+ Sales
+     We sell our products through a channel sales model that leverages various partners, including security‑focused VARs, distributors, MSSPs and IR firms. By utilizing a channel model, we are able to generate increased volumes of sales leads, expand our geographic sales reach to key markets such as Europe, the Middle East, Africa and Asia‑Pacific and sell to customers that prefer to outsource some or all of their security needs to MSSPs. Our sales team collaborates with our channel partners to identify new sales prospects, renew expiring contracts and sell additional products and services to existing customers. Our sales team works closely with our end‑user customer prospects at every stage of the sales cycle, regardless of whether the prospect is sourced directly or indirectly. This approach allows us to leverage the benefits of the channel while also building long‑term, trusted relationships with our customers. In the year ended December 31, 2018, 80% of our new and add‑on business was closed in collaboration with our channel partners.
+     Our sales team is organized by customer segment. Larger, enterprise customers (greater than 5,000 employees) are addressed through a field sales organization and we use an inside sales force to sell to SMBs (less than 500 employees) and corporate (500‑5,000 employees) markets. We have a Customer Success Team that focuses exclusively on customer value and education to drive retention and increased sales of our solutions. Our sales representatives are supported by sales engineers with deep technical domain expertise. Our sales engineers act as the liaison between customers and our marketing and product development organizations. Our sales organization includes a dedicated channel team that is responsible for monitoring the effectiveness of our existing channel partners, including VARs, distributors, MSSPs and IR firms, and for sourcing and qualifying new channel partners.
+     Our sales cycle varies by industry and size of company, but can often last multiple months. However, some deals close in only a few weeks due to the shorter time required to provide a product demonstration rather than perform a full “proof of concept.” In addition, organizations that have experienced security breaches typically have shorter sales cycles due to the relative urgency to implement our products to remediate breaches and prevent future attacks.
+     Marketing
+
+ Our marketing is focused on building our brand reputation, increasing market awareness of our PSC platform, driving customer demand and a strong sales pipeline and collaborating with our channel partners around the globe. We use a data science driven, multi‑channel approach to deliver thought leadership in security, to drive interest in our platform and to generate leads and opportunities for our sales organization.
+     We engage with our customers, our partners and our greater community to promote education and awareness of the threat landscape and to promote effective and expanded use of our software within our community. We work with our own security experts and researchers, as well as the broader security community, to share important information about vulnerabilities and threats. We share that information through the CB User Exchange, our active online community, our public website, social media and traditional public relations. In addition, we attend and host regional and national events to engage both customers and prospects, deliver product training and foster community collaboration.
+     Our marketing team consists primarily of corporate marketing, product marketing, channel marketing, field marketing, account and lead development, operations and corporate communications. Marketing activities include demand generation, advertising, managing our corporate website and partner portal, attending trade shows and conferences, press and analyst relations and increasing customer awareness.
+    
+ 
+  17
+
+ 
+
+ Research and Development
+     Our research and development organization works to plan, build, deliver and maintain our current multi‑product offerings across our customer base while driving innovation with new enhancements, features, and products. We consider our innovative approach to product development to be an asset to our business. We believe our investments in products, our R&D talent and our security community are vital to furthering our leadership and competitive advantage in the security space.
+ Our engineers, product managers, designers and threat researchers have an extensive reach into the security and cloud platform communities, among both practitioners and developers. We work closely with our customers to continuously develop new functionality while enhancing and maintaining our existing solutions. We utilize agile software development techniques, in combination with a cloud‑based delivery model, which allows us to deliver enhanced software features across our customer base on a frequent basis. Through our agile product development process, our delivery teams are kept closely aligned with customer needs while maintaining flexibility to react to changing market demands. Research and development expense was $64.6 million, $52.0 million, and $36.5 million, during the years ended December 31, 2018, 2017 and 2016, respectively.
+     Competition
+     We operate in the highly competitive cyber security market that is characterized by constant technological innovation, shifting customer requirements and fragmented approaches. The state of our market and the pace of innovation are highly correlated to the ever evolving and equally competitive threat landscape.
+     Within the endpoint security market, we observe the following four general categories of competitors:
+
+· | Large incumbent security providers who provide a very broad range of approaches and solutions with traditional approaches, such as antivirus protection, that appeal to the mass market, such as McAfee, Inc. and Symantec Corporation.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Niche security providers who offer point solutions that generally focus on one or more advanced security problems involving detection and response, such as CrowdStrike, Inc., or involving malware prevention, such as Cylance, Inc. (BlackBerry Limited closed its acquisition of Cylance in February 2019.) Additionally, some providers, such as Tanium, Inc., offer solutions generally focused on areas that could be related to security, such as endpoint management.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Large network security providers who are pushing past their core competencies into the next-generation endpoint security market through acquisitions and by leveraging their existing footprint to gain distribution, such as Cisco Systems, Inc., Palo Alto Networks, Inc. and FireEye, Inc.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | We see an emerging category centered around operating system vendors, in particular Microsoft Corporation. Operating system vendors are investing in security solutions to provide their users with a safer operating environment and this category is starting to gain credibility and mindshare among target customers.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+      As the market for next-generation endpoint security grows and IT budgets are either created or expanded to support the procurement of advanced threat protection solutions, we believe the cyber security space will attract more highly specialized niche vendors as well as larger providers with the ability to acquire additional capabilities and market their products more effectively on a global scale. The dimensions of competition include, but are not limited to:
+
+· | ability to consolidate multiple security products into a single platform;
+--+--------------------------------------------------------------------------
+
+
+· | completeness and efficacy of capabilities specifically as they relate to the security operations lifecycle;
+--+------------------------------------------------------------------------------------------------------------
+
+
+· | ease of administration and impact of the solution on end users;
+--+----------------------------------------------------------------
+
+
+· | flexibility of deployment models and fit between the security approach and the customer’s culture;
+--+---------------------------------------------------------------------------------------------------
+
+
+· | exposure of root cause and the ability of the solution to improve security posture over time;
+--+----------------------------------------------------------------------------------------------
+
+
+· | ability to integrate into existing security stacks and scalability to support all sizes of customers;
+--+------------------------------------------------------------------------------------------------------
+
+
+· | audit and compliance controls and the corresponding reduction in security risk;
+--+--------------------------------------------------------------------------------
+
+
+· | brand and quality of the overall customer interaction experience; and
+--+----------------------------------------------------------------------
+
+
+· | total cost of ownership.
+--+-------------------------
+
+ 
+ 
+  18
+
+ 
+
+     We believe we compete favorably on these factors due, in large part, to the features and functionality of our products, our open architecture, our broad community of security professionals and our deep security expertise.
+
+Intellectual Property
+ Our success depends in part upon our ability to protect our core technology and intellectual property. We rely on, among other things, patents, trademarks, copyrights and trade secret laws, confidentiality safeguards and procedures and employee non‑disclosure and invention assignment agreements to protect our intellectual property rights. 
+ We have 23 U.S. patents and patent applications, and approximately 40 foreign counterpart patents and patent applications. We cannot be certain that any of our patent applications will result in the issuance of a patent or that the examination process will result in patents of valuable breadth or applicability. In addition, any patents that may be issued may be contested, circumvented, found unenforceable or invalidated, and we may not be able to detect or prevent third parties from infringing them. We also license software from third parties for integration into our products, including open source software and other software available on standard terms.
+     We have registered the “Carbon Black” name and logos in the U.S. and certain other countries. We have registrations and/or pending applications for additional marks in the U.S. and other countries; however, we cannot be certain that any future trademark registrations will be issued for pending or future applications that any registered trademarks will be enforceable or provide adequate protection of our proprietary rights.
+     We are the registered holder of a variety of domestic and international domain names that include www.carbonblack.com, as well as similar variations on those names.
+     We control access to and use of our proprietary software, technology and other proprietary information through the use of internal and external controls, including contractual protections with employees, contractors, end customers and partners. Our software is protected by U.S. and international copyright laws and aspects of our software are also protected by patent and trade secret laws. Despite our efforts to protect our software, technology and other proprietary information, unauthorized parties may still copy or otherwise obtain and use our software, technology and other proprietary information. In addition, we intend to expand our international operations, and effective patent, copyright, trademark and trade secret protection may not be available or enforceable or may be limited in foreign countries.
+     If we become more successful, we believe that competitors will be more likely to try to develop solutions and services that are similar to ours and that may infringe our proprietary rights. It may also be more likely that competitors or other third parties will claim that our platform infringes their proprietary rights.
+     Patent and other intellectual property disputes are common in our industry and we have been involved in such disputes from time to time in the ordinary course of our business. Some of our competitors have many more patents than we do, and this asymmetry may provide them with an advantage over us in the event of a patent dispute. See “Risk Factors—Risks Related to Government Regulation, Data Collection, Intellectual Property and Litigation—Our intellectual property rights are valuable and any inability to protect our proprietary technology and intellectual property rights could substantially harm our business and operating results.” and “Risk Factors—Risks Related to Government Regulation, Data Collection, Intellectual Property and Litigation—Assertions by third parties of infringement or other violations by us of their intellectual property rights, whether or not correct, could result in significant costs and harm our business and operating results.”
+     Employees
+     As of December 31, 2018, we had 1,138 full‑time employees worldwide. None of our U.S. employees are covered by collective bargaining agreements. We believe our employee relations are good and we have not experienced any work stoppages.
+    
+ 
+  19
+
+ 
+
+ Corporate Information
+     We were incorporated in the State of Delaware in December 2002 as Bit 9, Inc. In April 2005, we changed our name to Bit9, Inc. In February 2014, Bit9, Inc. acquired Carbon Black, Inc., and in January 2016, we changed our name to Carbon Black, Inc. Our principal executive offices are located at 1100 Winter Street Waltham, Massachusetts 02451, and our telephone number is (617) 393‑7400. Our website address is www.carbonblack.com. Information contained on, or that can be accessed through, our website does not constitute part of this Annual Report on Form 10‑K.     Available Information
+     Our Annual Report on Form 10‑K, Quarterly Reports on Form 10‑Q, Current Reports on Form 8‑K, and all amendments to these filings, are available free of charge from our investor relations website (https://investors.carbonblack.com/financial-information/sec-filings) as soon as reasonably practicable following our filing with or furnishing to the Securities and Exchange Commission, or SEC, of any of these reports. The SEC maintains and Internet website (https://www.sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC.
+     Carbon Black investors and others should note that we announce material information to the public about our company, products and services and other issues through a variety of means, including our website (https://www.carbonblack.com/), our investor relations website (https://investors.carbonblack.com/), our blogs (https://www.carbonblack.com/blog/), press releases, SEC filings, public conference calls, and social media, in order to achieve broad, non-exclusionary distribution of information to the public. We encourage our investors and others to review the information we make public in these locations as such information could be deemed to be material information. Please note that this list may be updated from time to time. 
+     The contents of any website referred to in this Annual Report on Form 10‑K are not intended to be incorporated into this Annual Report on Form 10‑K or in any other report or document we file with the SEC, and any references to our websites are intended to be inactive textual references only.

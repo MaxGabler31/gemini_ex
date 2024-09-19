@@ -1,0 +1,133 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS. 
+Overview 
+ 
+The Company was incorporated on October 26, 2009 in the State of Nevada. The Company originally engaged in the development of a website and also the design and development of a catalogue to sell over the counter and prescription medications, and supplements. In 2012, the Company undertook a change in focus to the natural resources sector where it was engaged in the acquisition and exploration of base metals and mineral mining properties.
+ 
+On April 5, 2016, the Company completed the purchase of Viva Entertainment Group, Inc. (“Viva Entertainment”), a Delaware corporation, from EMS Find, Inc. (“EMS”) pursuant to a stock purchase agreement. Viva Entertainment’s Chief Executive Officer, Johnny Falcones, was appointed as the Company’s sole director, President and Chief Executive Officer to manage the development and marketing of Viva Entertainment’s over the top (IPTV/OTT) application for connected TV’s, desktop computers, tablets, and smart phones.
+ 
+Pursuant to the stock purchase agreement, the Company and EMS agreed to transfer control of Viva Entertainment to the Company through the purchase of all outstanding shares of stock of Viva Entertainment by the Company in exchange for the issuance to EMS of a 10% promissory note in the principal amount of $100,000, due six months from the Closing (the “EMS Note”), and the issuance of 22,000,000 shares of common stock to Johnny Falcones. For accounting purposes, the transaction was treated as a reverse merger since the acquired entity now forms the basis for operations and the transaction resulted in a change in control, with the acquired company electing to become the successor issuer for reporting purposes. The accompanying financial statements have been prepared to reflect the assets, liabilities and operations of Viva Entertainment Group, Inc. exclusive of Black River Petroleum since all predecessor operations were discontinued. As part of the transaction, stock payable and amounts due to former officers were forgiven, with the balances recorded as Contributed Capital. For equity purposes, additional paid-in capital and retained deficit shown are those of Viva, exclusive of Black River Petroleum. Viva had no operations prior to the quarter ended April 30, 2016.
+ 
+In management’s opinion, all adjustments necessary for a fair statement of the results for the presented periods have been made.  All adjustments made were of a normal recurring nature.
+ 
+Viva Entertainment Group Inc. (the “Company”) develops and markets Viva Entertainment’s over the top (IPTV/OTT) application for connected TV’s, desktop computers, tablets, and smart phones. The Company is based in Briarwood, New York.
+ 
+Internet Protocol Television (IPTV/OTT) is a system through which television services are delivered using the Internet protocol suite over a network such as the Internet, instead of being delivered through traditional terrestrial, satellite signal, and cable television formats.
+ IPTV services may be classified into three main groups: 1) Live television, with or without interactivity related to the current TV show; 2) Time-shifted television: catch-up TV (replays a TV show that was broadcast hours or days ago), start over TV (replays the current TV show from its beginning); 3) Video On Demand (VOD): browse a catalog of videos, not related to TV programming.
+ A Content Delivery Network (CDN) is an interconnected system of computers on the Internet that provides Web content rapidly to numerous users by duplicating the content on multiple servers and directing the content to users based on proximity. CDNs are used by Internet Service Providers (ISPs) to deliver static or dynamic Web pages but the technology is especially well suited to streaming audio, video, and Internet Television ( IPTV ) programming Over-The-Top (OTT) content, describes broadband delivery of video and audio without a multiple system operator being involved in the control or distribution of the content itself. Consumers can access OTT content through internet-connected devices such as PCs, laptops, tablets, smart phones including iPhones and Droid phones, set-top boxes, Smart TVs and gaming consoles. 
+ 
+
+(4)
+---
+
+
+
+During the year ended October 31, 2018, the Company has completed the interface redesign as part of the revenue sharing and service agreement with FlixFling, LLC, allowing subscribers access to the FlixFling catalogue through the VIVA portal. The Company signed a five-year agreement with FlixFling which provides for a share of 20% of sales by the Company of FlixFling subscriptions and 30% from video-on-demand downloads sold through the Company. The agreement also provides for the Company and FlixFling to work together to promote and market the product and also develop an integrated user experience between the two services.
+ 
+Johnny Falcones, Chief Executive Officer of the Company has spent six months since signing the revenue share agreement with FlixFling in December 2017, working together to develop a seamless and integrated platform so that the Company’s customers can access one of the best streaming services in the industry for the latest movies and music videos on demand.
+ 
+From the beginning, the Company’s goal has been to create an affordable solution giving our customers access to the broadest possible range of meaningful content. FlixFling’s platform of movies-on-demand combined with music video channels makes the Company one of the best OTT providers on the market. The redesigned app will allow customers to easily access both Company and FlixFling content without having to switch between apps. It is just one more way in which the Company is setting itself apart from the rest of the OTT community.
+ 
+Philadelphia-based FlixFling offers over 15,000 movies and television shows across all genres in an OTT format. Their unique service gives customers a choice between video-on-demand and monthly subscription services. They are currently the only streaming service to offer both movies and music to customers at one low price and the only service to offer streaming music video channels.
+ 
+In addition, the Company announces that it has entered into a partnership with Comcast, Communications Management LLC d/b/a Comcast Technologies Solutions Inc. The partnership begins January 2019.
+ 
+The Company and its Vivalivetv system will begin working on content, logistical and other technology services provided solely by Comcast Communications Management. This partnership will help enhance our subscriber base in order to create more revenue. A joint press release will be available by both parties in early 2019.
+ 
+Platform: 
+ 
+The company’s subscription offering provides the components and systems to build up a CDN and along with Viva Middleware (the heart of the system), allows the provision of IPTV (Live and VOD) and other value added services, no matter the type of network (managed or unmanaged) or the number of subscribers.
+Middleware: 
+ 
+Interactive TV Middleware is a multi service delivery platform (MSDP), providing converged and interactive IPTV services for the ISP, Telco, Cable and Campus/Hospitality market. The platform enables end users to enjoy rich multimedia services any time - any place. Services can be delivered over IP, DVB-C/T/S or 3G/4G access networks using several different devices in managed network or Over The Top, via open Internet. In addition, this innovative approach enables third parties to develop attractive first or second screen applications on different devices like PC, mobile phones, tablets, Smart TV sets or various STB devices.
+
+(5)
+---
+
+Competitive Edge: 
+ The platform represents the heart of the IPTV ecosystem, enabling service providers to accomplish attractive visual and functional differentiation of their IPTV service. Agile development allows service providers quick response to competitive market conditions. The company's main competitive advantages are field proven application platform, platform openness and flexibility, unique bouquet of IPTV converged multimedia services and customizable, responsive and graphics-rich user interface. Pay as you grow approach enables service providers to start slowly and extend the system according to the actual growth of the subscriber base. The platform comes with comprehensive system management module, which enables total control over operational parameters and central customer, device and service provisioning. The company enables the service provider to manage its video, audio and information assets and to offer these assets within reliable and compelling platform. It offers a rich information support for Live TV service with customizable channel list and e-program guide in various shapes. TV channel recording functionality is available in various flavors to satisfy user's needs and lifestyle: program recording, Time-shifting, Pause Live TV and Instant TV recording. Middleware is offered as a standalone solution, as the most important building block for the complete end to end IPTV solution, whether in the multicast, DVB or Over the Top environment.
+ The company's IPTV solution is based on the best of breed components and solutions from the leading vendors in the IPTV world that have been proven in many wide and varied cases and environments in the past. End-2-End solutions designed by the company are based on the Open Standards Systems and Standards adopted in the DVB and IP world.
+ Distribution
+ Our company operates three main specific segments of business.  They are the following:  (1) Broadcast and Digital Content Syndication to media distribution affiliated companies; (2) Direct-To-Consumer content subscription and on demand content services; (3) Consumer Electronic Subscription Sales that are company branded and sold to engaged customers on our owned and/or affiliated media platforms to ensure an enhanced audience participation experience.  Each are dependent on some common variables including brand recognition and reinforcement, ability to adequately market our services, and the continued use of available technology tools to enable efficient growth and management of the business.  We operate and derive revenues for the aforementioned areas of businesses mentioned herein as follows:
+(1) Broadcast and Digital Content Syndication:
+ a. This business relies on the continued increase of content offerings into the marketplace offered to media companies in both the broadcast and digital media space
+ b. There’s a heavy reliance factor on the levels of audience, customer engagements, and ratings that determine the levels of participation that our content has
+ c. The successful sale of advertising associated with our syndicated content depends to the aforementioned levels of active consumer engagements with our media affiliated partners
+ d. Part of the business model is to license the content to these media entities that become our content affiliates
+ e. The company will derive revenue from the sale of advertising offerings that are directly associated with the content subscription being syndicated to these media affiliated entities
+ 
+
+(6)
+---
+
+(2) Direct-To-Consumer Content Subscription and On Demand Content Services:
+ a. This business relies on the successful completion and launch of our company’s own content software application.  
+ b. The application branded as, “Oi2” is being engineered to be a full cross-platform accessible software application that will be made available on most mobile devices, media enabled set-top boxes and connected devices, as well as, other available distribution outlets in an effort to accommodate various consumer behaviors as it relates to content consumption
+ c. The company has secured affiliation agreements to provide a wide offering of content subscription available to consumers including but not limited to live and linear broadcast and cable television networks, on demand prime time television shows, pay-per-view and purchase options for an estimated 7,000+ Hollywood films/movies, and hundreds of audio channels in a wide variety of genres and formats.  
+ d. The content subscription offerings for this business derives revenues from active consumer subscriptions of content, as well as, per instance or pay-per-view and on demand offerings that require the consumer to pay using a bank credit or debit card per transaction
+ (3)  Consumer Electronic Subscription Sales:
+ a. This part of the business is based on a joint venture with third party partners under our JV with Oi2
+ b. The third party partner owns and controls a consumer electronics sourcing company that provides electronic consumer goods to certain retail store chains and e-commerce sales outlets
+ c. The joint venture agreement allows for the company to open e-commerce stores on its own consumer directed media software applications and/or third party affiliated distribution partner platforms
+ d. Once launched revenues will be derived from the sales of consumer electronics subscription for a revenue share of the sales (after manufacturing, sourcing, shipping, and other related expenses are accounted for). 
+ 
+
+(7)
+---
+
+Growth Strategy 
+ 
+The company has a multifaceted approach to marketing its services and offerings.   These are mainly based on the business unit:
+ 
+(1) Broadcast and Digital Content Syndication:
+ a. The company engages in direct calls to prospective media affiliated partners using its in-house staff of affiliate sales and affiliate relations personnel
+ b. The company markets on a regular basis most of its content offerings via industry targeted bulk email offerings or participation in industry related trade shows and sponsored events
+ c. The company also brings market awareness of its content services and offerings using widely distributed press releases to known industry related trade publishers 
+ (2) Direct-To-Consumer Content Subscription and On Demand Content Services:
+ a. The company plans to utilize unsold media inventory from its broadcast and digital content syndication business to promote the Oi2 App brand awareness and content subscription offerings in an aim to drive audiences to download or seek the application in the device of their choosing
+ b. The company also plans to leverage its existing relationships with industry media affiliated partners that desire to bring awareness of their own content offerings in our App thus driving their consumer base to actively be incentive to download or seek the application in the device of their choosing
+ c. The company is currently actively in deployment of a social media marketing initiative to bring awareness and drive incentives to consumers to actively download or seek the application in the device of their choosing
+ d. The company is currently working with a certain increasing number of “social media influencers” or well-known talents that have been incentivized by the company to provide them with their own space to feature their branded content on our App.  As such their main task is to drive their social media followers to actively pursue their respective featured content on our App thus aiding in the increase of consumer downloads of the app and active user engagements
+ (3) Consumer Electronic Subscription Sales:
+ a. The company plans to utilize unsold media inventory from its broadcast and digital content syndication business to promote our App Consumer Electronic Subscriptions brand awareness and content subscription offerings in an aim to drive audiences to download or seek the application in the device of their choosing
+ b. The company also plans to leverage its existing relationships with industry media affiliated partners that desire to bring awareness of their own content offerings in our App Consumer Electronic Subscription thus driving their consumer base to actively be incentive to download or seek the application in the device of their choosing 
+ c. The company is currently actively in deployment of a social media marketing initiative to bring awareness and drive incentives to consumers to actively download or seek the application in the device of their choosing
+ 
+
+(8)
+---
+
+
+
+Competition, competitive position in the industry, and methods of competition  
+ 
+We believe that our key competitive advantages are: 
+ 
+(1) Our ability to produce high quality yet low cost content on a high volume basis 
+ (2) Ongoing industry relations with key companies and their respective executives to facilitate increase of affiliate relations 
+ (3) Tenure in the marketplace with key advertising clients 
+ (4) Certification as a minority-majority owned media company through our Oi2 Venture 
+ (5) Upgrading our technology at all times  
+ 
+Patents and Intellectual Property/Trademarks/Licenses/Franchises 
+
+We do not currently own any patents.  We will apply for certain patents in the near future in respects to a proprietary content delivery and monetization platform that we have been developing.  We currently own two major trademarks through our JV. One is the exclusive use of the “Oi2” name.  The second is our faith and family friendly content brand known as, “ALMA.”  We are not a party to any license, royalty or franchise agreements at this time.
+ 
+Government Regulations 
+ 
+The sale of software products is taxed at the federal, state and local levels, as well as at the international levels.  Our operations may be subject to more restrictive regulations and increased taxation by international, federal, state and local governmental agencies than are those of hardware and software related businesses. In such event, we have to raise prices on our products in order to maintain profit margins. The effect of such an increase could negatively impact our sales or profitability. 
+ Research and Development 
+
+Since our inception, we have been actively investing in software and technology solutions that will enable better content deployment efficiencies, best practices for the sale of advertising, and increase of our integrity and accountability to our advertising clients.  
+Employees and Employee Agreements 
+ 
+The officers and directors of the company come with a long encompassing history and resume of management in media related ventures.
+ 
+The Company employs a total of eight individuals, of which two are executives, the remaining are involved in sales and operations. 
+
+
+
+(9)
+---
+

@@ -1,0 +1,409 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business.
+Mission and Vision 
+ Instructure’s mission is to help people learn and develop, from their first day of school to their last day of work. Our vision is to help organizations everywhere leverage technology to maximize the potential of their people. Overview 
+ In today’s dynamic, knowledge-driven economy, quality education and constant learning are critical to the success of people and organizations. Academic institutions recognize that for students to reach their maximum potential, they require an interactive and accessible learning environment. Similarly, companies strive to compete by delivering continuous learning and feedback to better attract, develop, retain and promote the best people. Organizations in both markets—education and corporate—also require actionable data to measure, track and improve individual and organizational performance.
+ With applications for learning, assessment and performance management, Instructure enables organizations worldwide to develop, deliver, manage and track engaging academic and employee development programs. Built on our innovative, cloud-based platform, our applications combine powerful, elegant and easy-to-use functionality with the reliability, security, scalability and support our customers require. They include: 
+  
+• | Canvas. Learning management platform for K–12 and higher education;
+--+--------------------------------------------------------------------
+
+
+• | Bridge. Employee development and engagement platform;
+--+------------------------------------------------------
+
+ For the millions of students, teachers and employees who use our applications to achieve their educational and professional goals, we provide a native-cloud, engaging and intuitive user experience designed for frequent and open interactions, a streamlined workflow and the creation and sharing of content. Our open standards allow for integration with third-party publishers and software providers to deliver additional learning content and applications. We also provide data analytics capabilities, enabling real-time reaction to information and benchmarking in order to personalize curricula and goal setting; and to increase the efficacy of the learning, assessment and performance management processes. 
+ We deliver our applications through a Software-as-a-Service, or SaaS, business model. Customers can rapidly deploy our systems with minimal upfront implementation. They also benefit from regular software updates and 99.9% uptime. Our SaaS business model reduces the need for our customers to buy and support a broad range of IT infrastructure, and reduces the cost, complexity and disruptions associated with implementations and upgrades of on-premise software. 
+ 1
+
+
+We launched our first offering, Canvas, in February 2011 and have experienced rapid customer adoption in the education market. To better meet the needs of the corporate market, we leveraged a portion of the foundational code underlying Canvas to develop Bridge, which we launched in February 2015. Subsequent offerings include Canvas Interactive Video, which we launched in 2016, and Canvas Assessment, which we launched in 2017. As of December 31, 2018, we had over 4,000 customers, representing colleges, universities, K–12 schools and companies in more than 70 countries.
+ For 2018, 2017 and 2016, our revenue was $209.5 million, $161.0 million and $112.6 million, respectively, representing year-over-year growth of 30% and 43%. We have experienced net revenue retention rates of over 100% at each of December 31, 2018, 2017 and 2016. For 2018, 2017 and 2016, our net losses were, $43.5 million, $43.1 million and $48.2 million, respectively, as we focused on growing our business.
+ Our Platform 
+ We designed our platform from the ground up with modern, web-based design features that enable users to teach, learn and collaborate anytime, anywhere, across a wide variety of application environments, operating systems, devices and locations. We believe our platform offers the following key benefits: 
+
+• | Intuitive User Experience. Our research-driven approach creates a differentiated user experience with elegant and intuitive user interfaces that leverage familiar, consumer web navigation techniques, such as drag and drop, to make using the applications built on our platform easy and intuitive. We enable seamless collaboration among instructors and learners to share feedback and encourage online discussion. These interactive features extend beyond the physical location and facilitate a more engaging experience.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Optimized for Mobile. Our mobile-optimized platform allows users to access their applications anytime and anywhere. We offer a responsive design to ensure an optimal experience on most mobile devices and, for Canvas, we also offer iOS and Android native mobile applications for free download on both phones and tablets.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | High Availability and Uptime. Our software is mission-critical for our users and customers and we focus on maintaining enterprise-grade and industry leading reliability with 99.9% uptime.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | High Utilization. Millions of instructors, students and employees have used our software. We believe that the intuitive user experience enabled by our platform helps increase organization-wide adoption and utilization of our applications, which increases the return on investment for our customers.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Native Cloud-based Software. Our cloud-based delivery model enables customers to rapidly deploy our platform to experience immediate benefit. Software updates are implemented regularly and transparently. Our single-instance, multi-tenant architecture is designed to scale for rapid growth. Our cloud-based platform provides upfront cost savings over on-premise solutions by reducing the need for expensive IT resources and hardware infrastructure.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Open Access to Data Analytics. For Canvas and Bridge, we provide users with access to data analytics through open application programming interfaces, or API. We deliver the analytics in a way that is easy-to-understand, consumable and optimized for independent analysis. This open visibility allows users to view their own progress in real-time, educators to adjust programs and personalize curricula for maximum effectiveness and organizations to benchmark user data internally and respond to patterns observed.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Open Platform. We are committed to collaboration and openness. Our open standards allow organizations to easily deliver additional content and applications from third-party publishers and software providers. This extends the content, tools and services necessary to satisfy the diverse needs of our customers without sacrificing the innate simplicity of our platform. Canvas users can deploy third-party content and software applications within the application interface or browse our growing catalog of approximately 300 integrations at EduAppCenter.com. Bridge was specifically designed to integrate easily via open APIs with a variety of enterprise resource planning and human resources information systems.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Growth Strategy 
+ We are pursuing the following strategies to grow our business: 
+  
+• | Grow our U.S. Customer Base. We believe that the market for cloud-based learning, assessment and performance applications remains underserved. K–12 academic institutions have yet to widely adopt learning management systems, while higher education institutions have adopted legacy systems with which they are often unsatisfied. In the corporate market, there are both greenfield opportunities and opportunities to displace legacy solutions that do not meet customer needs. As a result, we believe there is opportunity to expand our base of U.S. academic and corporate customers. Toward that end, we are making investments in growing our direct sales team, particularly focused on the corporate market.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 2
+
+
+ 
+• | Further Maximize our Existing Customer Base. The majority of our academic customers implement Canvas widely within their institutions and across school districts. This approach to wide initial deployments allows us to efficiently and broadly promote adoption and utilization of Canvas by students and faculty. We plan to increase revenue from this customer base by selling additional applications and services, including Canvas Interactive Video and Canvas Assessment. We plan to further penetrate our existing corporate customer base by growing the number of users of Bridge, expanding enterprise-wide and selling additional applications and services, including Canvas Interactive Video and Practice. We believe our user-based pricing model and innovative applications provide us with a substantial opportunity to increase the value of our existing customer base.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Continue to Expand Internationally. We believe there is an opportunity for our cloud-based applications outside the United States and we intend to expand our direct and indirect sales force to further penetrate international markets. We opened our international headquarters in London in June 2014, and for the year ended December 31, 2018, international customers accounted for 19% of our revenue.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Continue to Innovate and Offer New Applications. We will continue to make investments to further enhance the functionality of our existing applications, expand the number of applications on our extensible learning platform and develop into adjacent markets that will benefit our customers. We take a strategic approach to research and development investment. For example, in February 2015, we launched Bridge to better serve our corporate customers because we saw corporate customers adopt Canvas, due to a lack of suitable alternatives. In October 2016, we announced the launch of Canvas Interactive Video, our next-generation video platform for interactive learning and intuitive collaboration. In July 2017, we announced the launch of Canvas Assessment, our assessment management system for K–12 schools and districts. We intend to enhance the functionality of our existing applications, expand the number of applications on our extensible learning platform and develop into adjacent markets through strategic acquisitions or partnering.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Systems 
+ Our applications enhance academic and corporate learning by providing a system of engagement for teachers and learners, enabling frequent and open interactions, a streamlined workflow and the creation and sharing of content with anytime, anywhere access to information. Our applications also provide users with powerful, easy-to-use functionality for intuitive interactions with course content and activities. All of our applications run on our extensible platform, which allows us to easily deploy new applications and features to support the needs of our customers. We use modern, mobile technology to provide anytime, anywhere access to our applications from a wide array of devices, including personal computers, tablets and smartphones. We offer native mobile applications for Canvas on iOS and Android for free download. 
+Canvas Learning Management Platform
+ The Canvas Learning Management Platform is an extendable, customizable, highly integrated set of solutions designed to meet the teaching and learning needs of every K–12 and higher education institution, including the Canvas LMS, Canvas Assessment, Canvas Network, Canvas Catalog, and Canvas Interactive Video. With its cloud-based offerings, Canvas streamlines digital tools and content for teachers and students, creating a simpler and more connected learning experience.
+ Canvas LMS
+ Canvas LMS is a learning management system designed to give our K–12 and higher education customers an extensive set of flexible tools to support and enhance content creation, management and delivery of face-to-face and online instruction. 
+ Canvas LMS enables instructors and learners to: 
+  
+• | communicate through announcements, messages and conferences;
+--+-------------------------------------------------------------
+
+
+• | interact with content and collaborate with peers through group assignments and discussions;
+--+--------------------------------------------------------------------------------------------
+
+
+• | create, deliver and analyze quizzes and assignments;
+--+-----------------------------------------------------
+
+
+• | perform outcomes-based assessments;
+--+------------------------------------
+
+
+• | choose, manage and change courses;
+--+-----------------------------------
+
+
+• | automate classroom activities, including the syllabus, attendance and calendar of course events;
+--+-------------------------------------------------------------------------------------------------
+
+
+• | grade assignments, using SpeedGrader, and post grades online;
+--+--------------------------------------------------------------
+
+
+• | facilitate audio and video communications for enhanced teacher and student engagement;
+--+---------------------------------------------------------------------------------------
+
+
+• | access an integrated learning object repository;
+--+-------------------------------------------------
+
+ 3
+
+
+ 
+• | analyze course and student data to improve learning outcomes and teaching methods;
+--+-----------------------------------------------------------------------------------
+
+
+• | set personalized academic goals and track performance;
+--+-------------------------------------------------------
+
+
+• | provide parental or advisor access to assignments and grades;
+--+--------------------------------------------------------------
+
+
+• | find and add third-party activities and content from the Edu App Center; and
+--+-----------------------------------------------------------------------------
+
+
+• | exchange data and integrate with popular student information systems.
+--+----------------------------------------------------------------------
+
+ Canvas provides access to a critical set of user and course activity data, including user and device characteristics, discrete page views, user engagement, individual curricula and assessments and evaluations. Data is delivered to administrators in a format optimized for warehousing, performing queries, reporting and making it easier for administrators to benchmark, customize teaching and improve learning outcomes. 
+ Additionally, Canvas supports standards-based integration with hundreds of third-party publishers and software providers. The extensibility of the Canvas application enables our customers to build a learning and teaching environment that meets their unique organizational needs. 
+ Canvas Network 
+ Canvas Network allows anyone around the world access to open online courses for personal and professional development. Through Canvas Network, academic institutions have the flexibility to offer and deliver courses over the internet to a much broader audience than just their own employees or on-campus students. Some institutions choose to pursue a massive open online course (MOOC) format, and some choose to pursue a smaller online course format with more interaction. Institutions already using Canvas can easily move courses onto Canvas Network, extending their reach and enhancing their brand. 
+Canvas Catalog 
+ Canvas Catalog is a white-label, web-based course catalog and registration system built on top of the Canvas LMS that enables organizations to create and maintain a branded marketplace for their online course offerings. Catalog provides a searchable course index, online payment gateways for student registration and enrollment, custom course landing pages, collections of courses in specialized programs, automatically distributed certificates and other ways to recognize completion. 
+Canvas Interactive Video
+ Canvas Interactive Video is a next-generation online video platform designed to enable corporate, K–12 and higher education customers to host, manage and deliver impactful video learning experiences. Our customers who also use Canvas or Bridge can seamlessly integrate Interactive Video for a modern, streamlined, easy-to-use video learning solution that provides the interactivity, insights and reliability organizations need to engage their employees and students. 
+ Canvas Interactive Video enables instructors and learners to:
+  
+• | easily upload media and publish videos to courses that can be viewed across devices and in multiple playback formats;
+--+----------------------------------------------------------------------------------------------------------------------
+
+
+• | experience high-quality, low-latency video playback around the world;
+--+----------------------------------------------------------------------
+
+
+• | seamlessly create content through integrated webcam and screen capture tools;
+--+------------------------------------------------------------------------------
+
+
+• | interact directly with video content through real-time contextual commenting;
+--+------------------------------------------------------------------------------
+
+
+• | understand exactly how students and employees are engaging with media to help inform video strategy effectiveness;
+--+-------------------------------------------------------------------------------------------------------------------
+
+
+• | make video content fully accessible through automatic speech recognition, or ASR, captioning technology; and
+--+-------------------------------------------------------------------------------------------------------------
+
+
+• | manage and share videos between educators, students or employees.
+--+------------------------------------------------------------------
+
+ 4
+
+
+Canvas Assessment
+ Canvas Assessment is a comprehensive assessment management system that empowers K–12 schools and districts to measure student learning and preparedness for high-stakes exams mandated by federal and state regulations. With our simple, elegant and scalable testing platform, educators can create and deliver effective benchmark exams with simple deployment workflows, leveraging data collected to guide instruction and enhance curricula school- or district-wide. Our customers who also use Canvas LMS can integrate Canvas Assessment for a seamless user experience.
+ Canvas Assessment enables schools to:
+  
+• | create online assessments with rich multimedia, linked course content and a variety of attempt, grading, viewing and moderation settings;
+--+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | automatically import user profile demographics from student information systems, or SIS;
+--+-----------------------------------------------------------------------------------------
+
+
+• | use intelligent item banks to create, manage and update items used across courses;
+--+-----------------------------------------------------------------------------------
+
+
+• | integrate third-party content, applications and standards-based QTI importing and exporting;
+--+---------------------------------------------------------------------------------------------
+
+
+• | link questions to Common Core or state standards to facilitate modern competency- or standards-based grading models;
+--+---------------------------------------------------------------------------------------------------------------------
+
+
+• | deploy district-wide, device-agnostic assessments on modern, cloud-based architecture, which allows for nearly unlimited scale and prevents data loss; and
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | generate reports showing the performance and progress of entire districts, schools or individual students.
+--+-----------------------------------------------------------------------------------------------------------
+
+Bridge 
+ Bridge is an employee development and engagement platform designed to enable our corporate customers to develop, retain and promote employees by improving performance and engagement. The Bridge platform includes:
+
+• | Bridge Learn. A complete learning solution, Bridge Learn helps companies focus on the strategic and innovative side of talent development. Informed by learning science, Bridge Learn gives companies a competitive advantage with a learning program that aligns to business goals.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Bridge Perform. An impactful talent management solution, Bridge Perform expands the manager-employee relationship through meaningful dialogue and continuous feedback based on targeted 1:1 conversations, providing data that empowers leadership to make critical business decisions. The tool focuses on performance enablement and alignment that support efforts to move away from traditional performance management processes.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Bridge Practice. An on-demand assessment and video microlearning practice solution, Bridge Practice facilitates untethered, collaborative, peer-to-peer assessment and coaching opportunities that empower learners to actively master their professional skills and competencies.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Bridge enables organizations to: 
+  
+• | provide timely feedback and development for employees inside the 1:1 tool;
+--+---------------------------------------------------------------------------
+
+
+• | create and align individual goals with company-wide goals and initiatives;
+--+---------------------------------------------------------------------------
+
+
+• | reinforce skills and provide feedback through peer-to-peer video assessment and coaching;
+--+------------------------------------------------------------------------------------------
+
+
+• | create, organize, group and assign courses and training content;
+--+-----------------------------------------------------------------
+
+
+• | deliver and track compliance and regulatory requirements;
+--+----------------------------------------------------------
+
+
+• | administer quizzes and provide instant feedback to increase employee retention of training content;
+--+----------------------------------------------------------------------------------------------------
+
+
+• | track employee learning, performance and progress, including milestones, tasks, areas for improvement and goals;
+--+-----------------------------------------------------------------------------------------------------------------
+
+
+• | identify training gaps and growth opportunities for individuals or teams with peer and skills assessments;
+--+-----------------------------------------------------------------------------------------------------------
+
+
+• | provide a mobile experience to allow access and management anywhere, from any device; and
+--+------------------------------------------------------------------------------------------
+
+
+• | extend training to reseller channels and other distribution networks.
+--+----------------------------------------------------------------------
+
+ 5
+
+
+Technology and Standards 
+ Built on a modern technology stack, our native-cloud, multi-tenant platform and applications scale to millions of users and enable us to leverage advancements in web design, open source technologies and security. We adhere to industry-standard best security practices to protect our servers and our customers’ critical information.
+ We host our platform and applications on cloud infrastructure provided by Amazon Web Services, or AWS. We primarily use Amazon Elastic Compute Cloud, or Amazon EC2, along with load balancing, auto scaling and storage services provided by AWS. Our hosting services provide full support, rolling release upgrades/updates, backup and disaster recovery services. Our infrastructure enables us to scale both horizontally and vertically in order to rapidly adjust to variances in usage at the server, database and file store level. Our applications run on virtualized instances in Tier III and Tier IV AWS data center facilities, which provide industry-standard best security practices. As of December 31, 2018, we used domestic AWS data center facilities in Oregon and Virginia, and international facilities in Australia, Canada, Germany, Ireland and Singapore. We intend to expand operations into other regions based on market conditions. These AWS managed facilities have earned multiple certifications including, but not limited to, SOC 2 Type II, ISO9001 and ISO27001.
+ We designed our platform for resilience and rapid recovery from component failure. We apply a wide variety of strategies to achieve enterprise-grade reliability and durability. We have automated procedures in place to handle coordinated changes across our various instances and store backups of key data stores in multiple redundant and geographically isolated locations.
+ Our technology stack is a dynamic web application built with our own automated scaling and provisioning technologies. We use Web 2.0 technologies like Ruby on Rails, Java and Node.js, which provide users a familiar web experience. Our platform was built on underlying open source technologies, allowing us to take full advantage of advancements in scalability and flexibility. We utilize the Linux operating system, Postgres and Cassandra databases, and Redis data structure store. Our platform also provides an API that third-parties can use to add new features and functionality.
+ Keeping our platform secure is a primary focus of our dedicated enterprise security team due to the sensitive nature of the data contained within the applications. We are diligent about data security and have adopted the AICPA SOC 2 set of security controls. We demonstrate compliance with these controls through annual audits and web application vulnerability assessments. 
+ Customers 
+ As of December 31, 2018, we had over 4,000 customers representing colleges, universities, school districts and companies in more than 70 countries. Canvas is used by seven Ivy League schools and we have K–12 customers in nearly all states. The majority of our academic customers implement Canvas widely within their institutions and across school districts. We define a customer as an entity with an active subscription contract. In situations where there is a single contract that applies to entities with multiple subsidiaries or divisions, universities or schools, only the entity that has contracted for our platform is counted as a customer. For example, a contracting school district is counted as a single customer even though the school district encompasses multiple schools. In 2018, no single customer represented more than 10% of our revenue.
+Sales and Marketing 
+ We sell our applications and services through a direct sales force. Our sales organization includes technical sales engineers who serve as experts in the technical aspects of our applications and customer implementations. Many of our sales efforts require us to respond to request for proposals, particularly in the higher education space and to a lesser extent in K–12, and to a minimal extent in the corporate market. As we grow internationally, we may use reseller partnerships as needed to penetrate certain new markets. 
+ We engage in a variety of traditional and online marketing activities designed to provide sales lead generation and sales support and promote brand awareness. Our specific marketing activities for lead generation include advertising in trade publications, digital advertising, including search engine optimization and search engine marketing, display search, email, and referral marketing. Brand awareness activities include press relations in business, human resources, education publications and blogs, market specific advertising campaigns and speaking engagements, and industry trade-shows and seminars. We also host InstructureCon, our annual user conference for current customers and prospects. More than 2,700 people attended InstructureCon 2018 in Keystone, Colorado.  
+ 6
+
+
+Customer Success 
+ Although our software is easy to adopt and use, we believe strong customer support and services are essential for customer retention. We provide most services and support by phone or online video and audio conferencing rather than in person, resulting in a more efficient and cost-effective business model for us and our customers. Our Customer Success department is responsible for all customer post-sale interactions and comprises employees located in the United States, the United Kingdom, Brazil and Australia. Our services and support efforts include the following: 
+
+• | Customer Success Management. Every customer has a Customer Success Manager who advocates for the customer’s needs and serves as first point of contact for all non-Support questions and requests. They learn about each customer’s vision and the role our software will play, help craft and execute plans to deploy and use the software effectively, and provide regular updates throughout the customer’s experience with us to show them the return on their investment.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Implementation Services. We believe that a positive onboarding experience leads to more satisfied customers, longer customer relationships and greater lifetime value. Implementation includes standard training and consulting services that generally take between 30 and 90 days to complete, depending on customer-side preparedness, complexity and timelines. Regularly-scheduled, highly-structured implementation activities help customers use our applications fully and effectively from the start. Most interactions take place over the phone and through online audio and video conferencing.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Training Services. Also critical to customer success is our customers’ comfort level with the features and functionality of our software. We include standard training with every implementation and offer additional and custom training for a fee. Training creates confidence among users that they can use our software effectively. We perform most training remotely by online audio and video conferencing.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Consulting Services. We offer custom application development, integrations, content services and change management consulting services to boost customer adoption of our applications and drive usage of features and capabilities that are unique to Instructure. We believe this increases brand loyalty and lifetime value.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Support. We provide standard support services for all customers. Customers can upgrade to our premium support services, which include 24/7 coverage and a more stringent service level agreement. Our Tier 1 offering includes our premium support services as well as direct support to users by our agents. We also provide extensive user guides, online videos and a vibrant online community for the ongoing education and assistance of our users.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Partner Ecosystem and Integration 
+ We are committed to enabling our customers to build an ecosystem for successful learning, assessment, development and engagement. Our open platform is central to both our technology and our strategy. 
+ From a technological perspective, we remain focused on implementing industry standards like IMS Global Learning Consortium’s Learning Tools Interoperability, or LTI, enabling Canvas and Bridge to integrate with a broad spectrum of third-party solutions used by our customers.
+ Our partnership program invites third-party software, service and content providers, through a library of APIs, to easily integrate with our applications and at no or minimal charge to the partner. This allows us to broaden and efficiently extend the functionality of our applications. We have more than 250 partners, including Pearson, McGraw-Hill Education, Cengage, AspirEDU, Microsoft, and ProctorU.
+ Research and Development 
+ Our product, customer success, and sales and marketing teams operate cross-functionally and regularly engage with customers, partners and industry analysts to understand customer needs and general industry trends to enhance our existing applications and identify opportunities for new product innovations. Additionally, our research and education team analyzes user data and current online learning trends and collaborates with customers to inform application development and growth into adjacent markets. Once improvements are identified, prioritized and resourced, the entire development organization works closely together to design, develop, test and launch new functionality and application updates. We have made, and will continue to make, significant investments to strengthen our existing applications, and expand the number of applications on our extensible platform that will benefit our customers and allow us to expand into new markets. 
+ 
+7
+
+
+Culture and Employees 
+ We are passionate about making learning and working more engaging and accessible for people everywhere and we apply that same vision at Instructure every day. We maintain seven values that we believe set us apart, define our company culture and serve as a strategic advantage as they align directly with the experience we strive to provide to our customers. 
+
+• | Customer Experience. We aspire to create an awesome customer experience in every interaction with our applications and people.
+--+-------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Openness. Instructure is built on openness—it’s part of who we are. Open doors. Open office. Open source. We have created an open work environment without offices to increase collaboration and transparency—and to reflect the open learning environment we provide to our customers.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Ownership. Everyone’s an owner because each of us can have a significant impact on our ability to succeed. Full-time Instructure employees receive equity grants and can participate in the success and growth of the company.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Trust. We have a clear “tell us if we’re doing something stupid” policy. Everyone is encouraged to offer input and feedback regardless of their level of experience or position. Questioning the status quo is part of our DNA and supports us in continuing to disrupt and transform our markets.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Integrity. Simply put, we say what we’re going to do and then we do it. We hold people accountable for results and commitments. Our objectives and commitments are openly shared throughout the company.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Excellence. Achieving excellence isn’t easy. But we believe it can be simple. Instructure pursues the leading edge of innovation in our technology, support and business operations. We do this by hiring smart, creative, passionate people and giving them opportunities to create awesome.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Simplicity. Our platform is designed to make teaching, learning and engaging easier. Everything we do—from designing software to how we communicate—should reflect that. Keep it simple and easy to understand.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Since our founding, we have worked hard to retain our open and engaging culture with people who are passionate about improving learning. We have received multiple “best places to work” awards and have maintained high ratings on recruiting websites. As of December 31, 2018, we had 1,219 employees. 
+ Competition 
+ We operate in highly competitive markets. Canvas primarily competes with systems offered by Blackboard, D2L and Moodle in the education market. Bridge primarily competes with systems offered by Cornerstone OnDemand, Saba Software and SumTotal Systems (owned by Skillsoft) along with dozens of small, specialized systems for specific industries to large, generalized systems provided as part of a larger human resources management suite. 
+ We may face future competition in our markets from other large, established companies, as well as from smaller specialized companies. 
+ The principal competitive factors in our markets include the following: 
+  
+• | usability and features;
+--+------------------------
+
+
+• | pricing;
+--+---------
+
+
+• | reliability and uptime;
+--+------------------------
+
+
+• | service and support for users and staff;
+--+-----------------------------------------
+
+
+• | software integration and third-party publisher partnerships;
+--+-------------------------------------------------------------
+
+
+• | mobile capabilities;
+--+---------------------
+
+
+• | data analytics; and
+--+--------------------
+
+
+• | collaboration and engagement.
+--+------------------------------
+
+ 8
+
+
+We believe that we compete favorably on the basis of these factors. Our ability to remain competitive will depend to a great extent upon our ongoing performance in the areas of product development, partner ecosystem development and customer support. In addition, many of our competitors, particularly the large software companies named above, may have greater name recognition, longer operating histories and significantly greater resources. Some competitors may be able to devote greater resources to the development, promotion and sale of their products than we can to ours, which could allow them to respond more quickly than we can to changes in customer needs. We cannot assure you that our competitors will not offer or develop products or services that are superior to ours or achieve greater market acceptance. 
+ Intellectual Property 
+ We rely on a combination of trade secret, copyright, and trademark laws, a variety of contractual arrangements, such as license agreements, assignment agreements, confidentiality and non-disclosure agreements, and confidentiality procedures and technical measures to gain rights to and protect the intellectual property used in our business. We actively pursue registration of our trademarks, logos, service marks, and domain names in the United States and in other key jurisdictions, but we have not, to date, applied for patent protection for any of our inventions. We are the registered holder of a variety of U.S. and international domain names that include the term Instructure, Canvas and Bridge. 
+ A substantial portion of our Canvas application, including the base code, uses “open source” software we license from third parties. Open source software is made available to the general public on an “as-is” basis under the terms of a non-negotiable license. Open source software is generally freely accessible, usable and modifiable. Certain open source licenses, like the GNU Affero General Public License may require us to offer the components of our software that incorporate the open source software for no cost, make available source code for modifications or derivative works we create based upon incorporating or using the open source software, and license such modifications or derivative works under the terms of the particular open source license. We also rely on certain intellectual property rights that we license from third parties under proprietary licenses. Though such third-party technologies may not continue to be available to us on commercially reasonable terms, we believe that alternative technologies would be available to us. 
+ To promote our open platform philosophy, we make available a substantial portion of the source code for Canvas available to the public on the “GitHub” platform for no charge, under the terms of the GNU Affero General Public License. We accept modifications of the source code for Canvas from contributors who agree to the terms of our contributor agreement. Our contributor agreement provides for assignment of joint ownership in the copyright to the contribution, and a license to any patent rights of the contributor. Contributors must also represent that it is an original work and that the contribution does not violate any third-party intellectual property right. 
+ We control access to and use of our proprietary technology and other confidential information through the use of internal and external controls, including contractual protections with employees, contractors, customers, and partners, and our software is protected by U.S. and international copyright laws. Our policy is to require employees and independent contractors to sign agreements assigning to us any inventions, trade secrets, works of authorship, developments and other processes generated by them on our behalf and agreeing to protect our confidential information, and all of our key employees and contractors have done so. In addition, we generally enter into confidentiality agreements with our vendors and customers. We also control and monitor access to, and distribution of our software, documentation and other proprietary information. In addition, we intend to expand our international operations, and effective copyright, trademark, and trade secret protection may not be available to us in every country in which our software is available. 
+ Regulatory 
+ The legal environment of internet-based businesses is evolving rapidly in the United States and elsewhere. The manner in which existing laws and regulations are applied in this environment, and how they will relate to our business in particular, both in the United States and internationally, is often unclear. For example, we sometimes cannot be certain which laws will be deemed applicable to us given the global nature of our business, including with respect to such topics as data privacy and security, pricing, credit card fraud, advertising, taxation, content regulation, and intellectual property ownership and infringement. Moreover, our academic customers are regulated at the state and federal levels by legislatures, administrative agencies and other policymaking bodies that can directly impact their ability to procure and deploy technology products. 
+ Our customers, and those with whom they communicate using our applications, upload and store customer data onto our platform. This presents legal challenges to our business and operations, such as rights of privacy or intellectual property rights related to the content loaded onto our platform. Both in the United States and internationally, we must monitor and comply with a wide variety of laws and regulations regarding the data stored and processed on our platform as well as the operation of our business. 
+ 9
+
+
+Data Privacy and Security Laws 
+ Data privacy and security with respect to the collection of personally identifiable information, or PII, continues to be the focus of worldwide legislation and regulation. We are subject to data privacy and security regulation by regulatory authorities in the U.S. (including the states in which we conduct our business) and potentially in other countries. 
+ In recent years, there have been a number of well-publicized data breaches involving the unauthorized use and disclosure of individuals’ PII. Many states have responded to these incidents by enacting laws requiring holders of personal information to maintain safeguards and to take certain actions in response to a data breach, such as providing prompt notification of the breach to affected individuals and state officials or amending existing laws to expand compliance obligations. Federal laws are also under consideration that may create additional compliance obligations and penalties. In the EU, where companies must meet specified privacy and security standards, the General Data Protection Regulation, or GDPR, and data protection laws of each of the European Member countries require comprehensive information privacy and security protections for consumers with respect to PII collected about them. We rely on adherence to the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks, as agreed to and set forth by the U.S. Department of Commerce, and the EU and Switzerland, concerning U.S. companies doing business in Europe, collecting PII from European citizens, and transferring such PII to the United States under the Privacy Shield Frameworks. In light of the continued uncertainty around cross-border data transfer, we have engaged in efforts to legitimize data transfers from the EEA through means other than the Privacy Shield Frameworks, such as through the use of so-called ‘model contract clauses’ developed by the European Commission. The GDPR introduced new data protection requirements in the EU and significant penalties of up to the greater of 4% of worldwide turnover and €20 million for violations of data protection rules.  We have adopted additional mechanisms necessary to comply with the GDPR. We post on our website our privacy policies and practices concerning the processing, use and disclosure of PII. Our publication of our privacy policy and other statements we publish that provide promises and assurances about privacy and security can subject us to potential state and federal action if they are found to deceptive or misrepresentative of our practices. 
+ Through contractual obligations with our customers we sometimes agree to certain obligations related to the Family Educational Rights and Privacy Act, or FERPA, which generally prohibits educational institutions that receive federal funding from disclosing PII from a student’s education records without the student’s consent. We are also subject to the Children’s Online Privacy Protection Act, or COPPA, which applies to operators of commercial websites and online services directed to U.S. children under the age of 13 that collect personal information from children, and to operators of general audience websites with actual knowledge that they are collecting information from U.S. children under the age of 13. Also, certain laws and regulations that protect the collection, use and disclosure of particular types of data may hinder our ability to provide services to customers and potential customers subjected to such laws. 
+ Copyrights 
+ U.S. and international copyright and trademark laws protect the rights of third parties from infringement of their works of authorship. Our customers and users can generally use our platform to upload and present a wide variety of content. We maintain an active copyright infringement policy and respond to takedown requests by third-party intellectual property right owners that might result from content uploaded to our platform. As our business expands to other countries, we must also respond to regional and country-specific intellectual property considerations, including takedown and cease-and-desist notices in foreign languages, and we must build infrastructure to support these processes. The Digital Millennium Copyright Act, or DMCA, also applies to our business. This statute includes a safe harbor that is intended to reduce the liability of online service providers for hosting content provided by users that infringes copyrights of others. The copyright infringement policies that we have implemented for our platform are intended to satisfy the DMCA safe harbor. 
+Corporate Information
+ We were incorporated in Delaware in September 2008. Our principal executive offices are located at 6330 South 3000 East, Suite 700, Salt Lake City, UT 84121 and our telephone number is (800) 203-6755. Our corporate website address is www.instructure.com. The information contained in, or that can be accessed through, our website is not part of, and is not incorporated into, this Annual Report on Form 10-K.
+ We file electronically with the Securities and Exchange Commission our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended. We make available on our website at www.instructure.com, free of charge, through a hyperlink on our website, copies of these reports, as soon as reasonably practicable after electronically filing such reports with, or furnishing them to, the Securities and Exchange Commission. In addition, the SEC maintains an internet site at www.sec.gov that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC.
+ 10
+
+
+

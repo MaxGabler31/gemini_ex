@@ -1,0 +1,464 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business
+Our History
+ 
+Following its spin-off from Integer Holdings Corporation, formerly known as Greatbatch, Inc. (“Integer”), Nuvectra Corporation (“Nuvectra,” the “Company,” “we,” “us,” or “our”) became an independent, publicly-traded company as of March 14, 2016 and our common stock began trading on the NASDAQ Global Market (“NASDAQ”). Prior to the spin-off, we were a wholly-owned subsidiary of Integer. Nuvectra was initially formed as a limited liability company in Delaware on November 14, 2008 and was subsequently named QiG Group, LLC. In connection with the spin-off, QiG Group, LLC converted into a Delaware corporation and changed its name to Nuvectra Corporation. The shares of another Integer subsidiary, NeuroNexus Technologies, Inc., a Michigan corporation (“NeuroNexus”), were transferred to Nuvectra as part of the spin-off and it became a wholly-owned subsidiary of Nuvectra. On December 31, 2018, the Company completed a divestiture of NeuroNexus.
+Our Mission
+ 
+Our mission is to help physicians improve the lives of people with chronic conditions through life-enhancing products and services.
+ 
+Overview of Business
+ 
+Nuvectra is a neurostimulation medical device company focused on the development and commercialization of our neurostimulation technology platform for the treatment of various disorders through stimulation of tissues associated with the nervous system. Our neurostimulation technology platform has the potential to provide treatment to patients in several established neurostimulation markets, including spinal cord stimulation (“SCS”), sacral neuromodulation (“SNM”), deep brain stimulation (“DBS”), and other emerging neurostimulation markets.
+Our Algovita® SCS system, or Algovita, is the first application of our neurostimulation technology platform and is indicated for the treatment of chronic pain of the trunk and/or limbs. Algovita received pre-market approval from the United States Food & Drug Administration (“FDA”) in November 2015, and we commercially launched Algovita in the United States (“U.S.”) during the first half of 2016. Outside of the United States, Algovita obtained Conformité Européene (“CE”) Mark approval in June 2014 and is indicated for the treatment of chronic intractable pain of the trunk or limbs. Algovita is reimbursable under existing SCS codes in the United States, the European Union (“EU”) and Australia, and has been commercially available to patients in Germany and several other European countries since November 2014.
+ 
+We believe Algovita brings to market a user friendly, robust and flexible design with a broad set of product capabilities and advanced technology and is well positioned to compete in and help grow the existing SCS market. In addition, we believe our neurostimulation technology platform is well positioned to compete in the SNM and DBS portions of the worldwide neurostimulation market, upon receipt of necessary approvals.
+ 
+We have developed our existing platform for use in the SNM market and filed regulatory submissions with the FDA and CE Mark authorities in January 2017 and December 2016, respectively, for Virtis, the Company’s SNM system for the treatment of chronic urinary retention and the symptoms of overactive bladder. In June 2018, we received notice from the FDA requesting that the Company provide supplemental information related to modifications to the Virtis device, labeling and manufacturing, as well as clarifications of data related to magnetic resonance (“MR”). In early August 2018 we filed our response to the FDA's requests. The FDA typically has up to 180 days from that submission to review our response, after which the FDA could approve the device, reject the device, request additional information or request clinical study data, however, in January 2019, the FDA advised us that its review has extended beyond the expiration of the 180-day review period. This extension did not initiate an additional full 180-day review period. 
+ 
+On June 22, 2018, we also received notice from TÜV SÜD, our European Notified Body, regarding our Virtis application for CE Mark. TÜV SÜD notified us that it was requesting clinical study data regarding the safety and performance of the device for the requested indication. We are currently evaluating the best path forward to determine whether a clinical studies plan can be effectuated in a timely and cost-effective manner. If we determine a strategy that meets our objectives, we may move forward with a clinical study plan after obtaining FDA approval.  
+ 
+In addition, in early 2016, we entered into a development agreement with Aleva Neurotherapeutics S.A. (“Aleva”), which was amended and restated on August 31, 2017. This agreement provides that we will leverage our neurostimulation technology platform to develop a DBS system for Aleva to treat Parkinson’s disease. This platform is still under development and is subject to Aleva receiving sufficient financing, the outcome of which may impact our development of the DBS system during 2019.
+ 
+ 2
+
+
+
+Discontinued Operations
+ 
+We previously explored strategic alternatives related to our NeuroNexus subsidiary, including the potential sale of the business. Effective December 31, 2018, we sold all of the stock of NeuroNexus to NEL Group, Inc. for $5.0 million in cash. As part of the transaction, NeuroNexus distributed all of its accounts receivable and other current assets to us, and we contributed $0.4 million in cash to NeuroNexus and assumed current liabilities of NeuroNexus. We also contributed certain trademarks to NeuroNexus.
+ 
+As a result of the divestiture, the Consolidated Balance Sheet as of December 31, 2017 was derived from the Company’s audited financial statements and has been retrospectively adjusted to reflect discontinued operations, and the results of operations of NeuroNexus have been classified as discontinued operations in the Consolidated Statements of Operations for all periods presented. The Consolidated Cash Flow Statements include cash flows related to the discontinued operations due to Nuvectra’s (the parent company) centralized treasury and cash management processes, and accordingly cash flow amounts for discontinued operations are disclosed in Note 2 “Discontinued Operations” of the Notes to Consolidated Financial Statements contained in Item 8 of this report. The discontinued operations of NeuroNexus were previously reported in the NeuroNexus segment. All results and information in the consolidated financial statements are presented as continuing operations and exclude NeuroNexus unless otherwise noted specifically as discontinued operations.
+ 
+Refer to Note 2 “Discontinued Operations” of the Notes to Consolidated Financial Statements contained in Item 8 of this report for additional information about the divestiture of NeuroNexus.
+ 
+Market Overview
+ 
+The neurostimulation market is comprised of multiple individual markets, such as SCS, SNM and DBS, each focused on the treatment of various indications through delivery of electrical stimulation to a targeted site of the body. We currently compete in the SCS market with our Algovita product. We intend to compete in the SNM market with our Virtis product, which is based on our neurostimulation technology platform and is currently in the regulatory review and approval process in the United States. In addition, in early 2016, we entered into a development agreement with Aleva, which was amended and restated on August 31, 2017. Through this agreement, we are leveraging our neurostimulation technology platform to develop a DBS system for Aleva to treat Parkinson’s disease. If we complete development of a DBS system to treat Parkinson’s disease for Aleva and it receives approval, we expect that Aleva will commercialize the DBS system in certain European markets initially and later in the United States. If it does so and is successful, we would receive royalties on the sale of these DBS systems and components. There are additional and emerging neurostimulation markets that we may compete in with future products.
+Spinal Cord Stimulation
+ 
+SCS therapy has been used to treat chronic pain for over 40 years, and is indicated as a treatment option for chronic pain patients who have typically not achieved relief through pharmacological, surgical or other conventional medical management. SCS therapy operates by delivering electrical signals to the spinal cord through thin wires called leads, which are placed near the spinal cord and are energized by a small battery-powered implantable pulse generator (“IPG”) implanted under the skin. Electrodes located at the end of the leads deliver electrical signals to the spinal cord. These electrical signals “override” the pain signals being sent to the brain resulting in relief for the patient.
+ 
+We believe SCS therapies have not achieved full penetration in the United States market. We believe the following factors have limited market adoption of SCS therapies in the United States to date:
+ 
+
+• | Challenges in sustaining long-term pain therapy. SCS therapy historically has experienced challenges maintaining long-term effectiveness due to the limitations of existing systems and the nature of chronic pain. Historically, SCS systems have been prone to early therapy failures as a result of device malfunction and lead and extension breakage. SCS systems are also challenged by the dynamic nature of chronic pain, which can increase in intensity or spread to other areas in the body, and an inability to adjust the system to respond to changes in patient needs such as the need to deliver additional power to cover new pain locations.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Existing SCS devices are complicated and not user friendly. Most existing SCS systems on the market are a continuation of legacy designs. These systems, whether pre-operatively, intra-operatively or during long-term pain management, are generally difficult to use. Market research confirms that physicians and patients both want devices that are easier to use. Patients not only want effective pain relief and ease of use, but also want discreet and comfortable systems.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 3
+
+
+
+
+• | Lack of market awareness of successful SCS therapies. We believe the SCS market is under-penetrated and the patient population is under-served. We believe this results from a lack of awareness by patients and physicians of SCS therapies and their potential benefits, despite four decades of use. We believe referring physicians are generally unaware of recent advances in efficacy of SCS therapies and, in many cases, are unwilling to refer patients to physicians that specialize in chronic pain and the use of SCS therapies.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sacral Neuromodulation
+ 
+SNM is a well-established treatment option for refractory symptoms of overactive bladder, including urinary frequency and/or urgency, with or without urge incontinence, and chronic fecal incontinence. Approved by the FDA in 1997 for initial indications of urinary frequency/urgency and urge incontinence, the American Urologic Association, or the AUA, includes the therapy in its treatment guidelines as a “third line” option to be considered after failure of first (behavioral) and second (drug) line options.
+ 
+SNM involves sending mild electrical pulses to the sacral nerve, typically sacral spinal nerve S3, through a lead connected to an IPG, similar to the therapy provided by a pacemaker. The impulses modulate the reflexes between the pelvic floor, urethral sphincter, bladder and bowel. SNM helps the brain and nerves to communicate so that the bladder and related muscles can function properly. An advantage of SNM as compared to other potential therapies is that it is tested and evaluated by the patient and physician prior to long-term therapeutic use. This evaluation period gives patients and physicians an opportunity to determine whether adequate symptom relief is achievable, often in as few as three to seven days. Implantation of the SNM device is a minimally invasive procedure performed on an outpatient basis under sedation or general anesthesia, and lead placement is generally considered easier to perform than lead placement in SCS cases.
+ 
+SNM is the second most commonly performed neurostimulation therapy behind SCS. Currently, only one FDA-approved implantable SNM device is available on the market in the United States, and another device, in addition to Virtis, is pending approval. The two competitors that have developed these devices both have implantable SNM devices available on the market outside the United States.
+ 
+Deep Brain Stimulation
+ 
+DBS uses mild electrical pulses from leads connected to an IPG to stimulate specific targets in the brain. These pulses either inhibit or stimulate nerve signals, thereby offering relief for certain neurological conditions, which include movement and psychiatric disorders. Currently, the FDA has approved certain DBS devices for the treatment of Parkinson’s disease. The FDA has also approved certain DBS devices for treatment of dystonia and obsessive-compulsive disorders under a humanitarian device exemption. DBS is also currently being investigated as a therapy for other neurological disorders, such as epilepsy, treatment-resistant major depression and Alzheimer’s disease.
+ 
+DBS is the third most commonly performed neurostimulation therapy worldwide behind SCS and SNM. We expect that the DBS worldwide market will likely continue to grow due to an increasingly aging population and an increase in neurodegenerative disorders.
+ 
+We believe our multi-current neurostimulation technology platform may provide distinct advantages in providing DBS therapies where specific electrical field control and nerve selectivity can be very important. Our neurostimulation technology platform, in combination with new concepts in DBS lead design, may provide new benefits in DBS therapy delivery. In early 2016, we entered into a development agreement with Aleva, which was amended and restated on August 31, 2017. Through this agreement, we are leveraging our neurostimulation technology platform to develop a DBS system for Aleva to treat Parkinson’s disease. If we complete development of a DBS system to treat Parkinson’s disease for Aleva and it receives approval, we expect that Aleva will commercialize the DBS system in certain European markets initially and later in the United States. If it does so and is successful, we would receive royalties on the sale of these DBS systems and components.
+ 
+Additional and Emerging Indications
+ 
+There are other established and emerging neurostimulation indications that may be a source of potential opportunity for Nuvectra and our neurostimulation technology platform. We believe we may be able to leverage our neurostimulation technology platform to capitalize on opportunities in indications such as Vagal Nerve Stimulation (“VNS”) and Peripheral Nerve Stimulation (“PNS”). VNS is approved for the treatment of epilepsy, depression and eating disorders. Research is ongoing for the use of VNS in the treatment of heart failure and rheumatoid arthritis. PNS is approved outside the United States for treatment of chronic pain. PNS is also an emerging approach to treat chronic headaches and post-amputation “phantom limb” pain. We are not yet commercially engaged in VNS or PNS.
+ 
+ 4
+
+
+
+Our Neurostimulation Technology Platform
+ 
+Our neurostimulation technology platform was developed to provide the most innovative capabilities currently available on the market and to provide physicians and patients with improved solutions and tailored treatment options. Our platform is fundamental to the design of Algovita and provides the foundation for the development of future products. The key elements of our platform include:
+
+• | Innovative core technology. Our neurostimulation technology platform consists of core technology developed using our advanced engineering and design capabilities in IPGs, independent current sources, algorithmic programming, chipsets and leads. We own the core patents and patent applications that embody the intellectual property underlying our neurostimulation technology platform, and we also license certain other patents related to our leads and for potential SNM and DBS applications.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• | Durable, stretchable and flexible leads. Our leads feature coil-in-coil technology designed to allow our leads to stretch and to improve lead durability and flexibility, thereby reducing migration, breakage and kinking. In addition, the coil-in-coil design enhances steerability as compared to the straight wire lead designs used by many existing neurostimulation systems. 
+
+
+• | Advanced programmability. The algorithmic driven technologies in our platform are designed to allow physicians to program Algovita and other products incorporating our platform for rapid and sequential delivery of multiple stimulation programs. These products are capable of capturing feedback from patients, and thereby providing physicians and patients with the flexibility to select from a number of different stimulation programs and optimize treatment.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Multiple independent current sources. Our neurostimulation technology platform is capable of delivering multiple independent current sources that optimize current delivery and improve field control allowing for finer resolution and precision of therapy.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Unique safety features. Our neurostimulation technology platform was designed with unique safety features. The IPG has a deep discharge recovery battery (the patient can recharge even if the battery is exhausted), bi-directional recharge (the IPG can be recharged even if it flips over inside the patient’s body) and impedance checks to improve patient safety. The patient remote control indicates the battery status of the IPG, is paired to a single IPG, has quick “stim-off” functionality that permits immediate cessation of treatment and incorporates a patient feedback tool to encourage greater patient input thus improving safety.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Future offering capabilities. Our neurostimulation technology platform incorporates a proprietary chipset and hardware that is capable of being configured for use in next generation treatment offerings for Algovita and in other future neurostimulation systems. It is capable of delivering significantly higher frequencies than most other SCS systems presently available on the market, as well as pulse train stimulation and customized waveforms.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Products – The Algovita System
+ 
+Algovita delivers SCS therapy for the treatment of chronic pain. Algovita is based on our neurostimulation technology platform and contains what we believe are innovative capabilities as compared to other products currently available on the market. Algovita was developed to improve on existing SCS designs and utilizes new technologies to improve the patient’s and implanting physician’s experience, system robustness and overall treatment outcomes. Algovita was designed to permit physicians to implant the leads and the IPG efficiently and patients to operate the device easily. To this end, Algovita has straightforward controls and an interactive display that includes a stimulation diagram for quick visual confirmation of stimulation coverage.
+ 
+Algovita obtained a CE Mark and is currently available for sale in Germany and several other European countries. On November 30, 2015, Integer announced receipt of pre-market approval for Algovita from the FDA. We launched Algovita commercially in the United States during the first half of 2016. In December 2018, we received head-only magnetic resonance (“MR”)-conditional approval from the FDA and full-body MR-conditional approval from TÜV SÜD for Algovita, meaning that these agencies have approved allowing us to market Algovita for patients who may need to undergo MR scans for the head only (U.S.) and the full body (E.U.), respectively.
+ 
+ 5
+
+
+
+Algovita consists of the following components:
+ 
+
+Implantable Pulse Generator: The IPG contains a rechargeable battery and electronics that deliver electrical pulses to the leads. The Algovita IPG has 26 output channels available in two different header configurations and can be connected to one, two or three leads. It is a programmable device and can deliver customized programs for each patient. The IPG is rechargeable and is surgically implanted under the skin, usually above the buttocks or in the abdomen.
+Leads: The leads are thin, insulated wires that conduct electrical pulses to the spinal cord from the IPG. Algovita offers both percutaneous and paddle leads, which can be inserted into the epidural space with a minimally invasive surgical procedure.
+Patient Programmer: The patient programmer, called the Algovita Pocket Programmer, is a rechargeable, key fob-sized device that works like a remote control and allows patients to adjust their stimulation, change programs and monitor their stimulator battery charge levels.
+Clinician Programmer: The clinician programmer contains proprietary software that allows customized programming of the IPG. It can non-invasively transmit a signal to the IPG, sending programming information and downloading diagnostic information. The Algovita programmer offers various 3D attributes, including virtual environment, pain mapping, stimulation mapping and stimulation overlap scores, which facilitate ease of use for clinicians.
+Charger: The charger is a mobile device used to charge the IPG externally and to monitor the IPG battery charge levels. The patient can remain active while charging the IPG. Charging requirements depend on the patient’s power requirements.
+Trial Stimulator: The trial stimulator contains electronics that deliver electrical pulses to the lead. It is a device that is worn externally during the evaluation period, which typically lasts several days.
+Surgical Accessories: Algovita also contains accessories for implantation. These surgical accessories include components such as epidural needles, stylets, and lead anchors to assist the physician in the surgical procedure.
+Our Competitive Strengths
+ 
+We believe a number of competitive advantages distinguish us from our competitors:
+ 
+
+• | Differentiated neurostimulation technology platform. Our neurostimulation technology platform incorporates technological advances that we believe provide us with competitive advantages in the marketplace and provide meaningful benefits to both physicians and patients as compared to existing alternatives. The IPG component of our platform is capable of delivering a broad spectrum of outputs and pulse delivery ranges through its 26 independent current sources. The IPG also features a powerful chipset that enables new waveforms, stimulation outputs and embedded features that can be activated in the future. Our diverse lead portfolio provides additional capabilities for tailoring therapy to a wider spectrum of patients, and we believe our leads are easier to implant and steer than our competitors’ leads.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 6
+
+
+
+
+• | Broad range of Algovita capabilities. Algovita is based on our differentiated neurostimulation technology platform and features a broad range of technical capabilities, including 26 independent current sources, algorithmic programming, broad pulse delivery ranges and a powerful chip set for targeted SCS therapy delivery. We believe these capabilities provide Algovita with greater flexibility in tailoring therapy to a wider spectrum of SCS patients than the flexibility provided by the current generation of SCS systems that are presently available on the market.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Algovita’s design enables greater control and precision in providing therapy. We believe Algovita’s design, including its leads and advanced programming features, enables greater precision and control in targeting pain sites than the current generation of SCS systems that are presently available on the market. In addition, our advanced leads feature coil-in-coil technology, allowing for elasticity and greater flexibility than the leads of other SCS systems that are presently available on the market, which we believe results in a reduced likelihood of migration, breakage or kinking. Our 12-electrode lead provides the longest span of coverage available on the market and was designed to address loss of pain relief if the stimulation target changes. Additionally, our algorithmic driven clinician programming system allows for rapid localization of pain targets and use of many different stimulation programs. The stimulation field can also be further refined using direct patient inputs gathered through our patient feedback tool.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Algovita’s upgradeable technology enables next generation offerings. Algovita’s proprietary chip set and hardware are capable of being configured for use in next generation treatment offerings. This includes the ability to deliver significantly higher frequencies than most other SCS systems presently available on the market, as well as pulse train stimulation, including burst type stimulation, and customized waveforms. We believe these additional capabilities provide a strong base platform and system for potential new SCS and other treatment options that can be provided via a software or firmware upgrade. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• | Experienced management and engineering team with a track record of successful performance. Our team has a strong track record of successful performance and execution in the medical device, and specifically neurostimulation, fields. Several members of our management team have extensive experience in the neurostimulation and chronic pain industry. In addition, we have an experienced engineering team with significant expertise in designing and developing medical devices for the neurostimulation market. We believe physicians and customers value working with a team like ours comprised of highly skilled professionals who have in-depth knowledge of the industry, strong engineering and development capabilities and an understanding of the needs of both patients and physicians.
+
+Our Strategy
+ 
+To achieve our objectives and capitalize on our competitive strengths, we are pursuing the following strategies:
+ 
+
+• | Expand our sales and marketing organization to drive adoption of Algovita. We will continue to build and scale our worldwide sales organization consisting of direct sales representatives and independent sales agents in the United States and a network of distributors and independent sales agents outside of the United States. Our direct sales representatives and independent sales agents in the United States target physician specialists involved with SCS treatment decisions located at strategic hospitals and outpatient surgery centers across the United States. Our marketing team offers education programs designed to create awareness and demand among other stakeholders involved in SCS treatment decisions, including third-party payers, hospital administrators and patients and their families. Internationally, specifically in the European Union, we may continue to expand our network of distributors and independent sales agents in target markets that we believe support SCS therapy and have strong reimbursement coverage.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• | Demonstrate the value of Algovita’s capabilities among surgeons, referring physicians and patients. Algovita was specifically designed to address the limitations of other currently available SCS technologies, which we believe has slowed adoption of SCS therapies. We are dedicating significant resources to demonstrate the value of Algovita’s broad capabilities, focusing on its ability to provide flexible treatment options for chronic pain patients. We are leveraging our growing sales force to promote awareness of Algovita by training and educating physicians, exhibiting at tradeshows and conducting focused advertising. 
+
+ 
+ 7
+
+
+
+
+• | Invest in clinical and product development to drive product innovation. We are investing in clinical and product development to expand the capabilities of our neurostimulation technology platform. We expect this investment will result in further product innovations and expanded labeling for Algovita and new indications. These innovations are expected to include next generation IPG capabilities, additional lead offerings, and advancements in algorithmic programming. We are also working to expand our product opportunities for our neurostimulation technology platform into other established neurostimulation markets, including SNM and DBS, and intend to invest in other emerging therapies in the future.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Pursue strategic partnerships. We may pursue additional strategic partnerships to accelerate our expansion into other established neurostimulation markets. These strategic partnerships may partially or fully fund clinical and development costs for new products, expand our product distribution channels, improve our access to physicians and opinion leaders, supplement our product commercialization efforts, provide a partner that will perform or assist in performing clinical studies for new products, help us to add specialized clinical or regulatory expertise or provide access to or enable us to acquire complementary intellectual property. Our development agreement with Aleva is an example of this type of strategic partnership.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Leverage infrastructure and achieve operating efficiencies. We intend to leverage our existing infrastructure to achieve operating efficiencies as we grow sales volume. In addition, in connection with the spin-off, we entered into a long-term supply agreement with Integer and subsequently entered into a separate supply agreement with Minnetronix, Inc., a Minnesota corporation (“Minnetronix”), to benefit from their manufacturing capabilities. We continue to work with Integer and Minnetronix in an effort to decrease our manufacturing costs and increase product quality.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sales and Marketing
+ 
+United States
+ 
+Our commercialization in the United States has been led by a sales force comprised of sales management, national account coverage, direct sales representatives, sales agents and clinical specialists. As of February 20, 2019, we had approximately 60 active territories in the United States. We expect to continue to scale and expand our sales force in the United States using direct sales representatives and independent sales agents. Our sales organization targets physician specialists involved in SCS treatment decisions, including neurosurgeons, interventional pain specialists and orthopedic spine surgeons, who are located at strategic hospitals and outpatient surgery centers across the United States. In addition, we have a sales leadership team to oversee our commercial activity, including our President, a Vice President of U.S. Sales, an Area Vice President and a team of Regional Sales Directors. Complementing this group is our National Sales Director, who facilitates administrative approvals in larger multi-site and regional hospital systems to help accelerate Algovita adoption, and experienced SCS Clinical Specialists, who support our sales representatives in trial and permanent implant procedures. Furthermore, our marketing team continues to increase awareness and grow demand for Algovita and SCS therapy in general by focusing on branding initiatives, physician and staff training on the use and benefits of Algovita and educating and providing ongoing support to physicians, patients, third-party payers and hospital administrators on the use of Algovita.
+International
+ 
+In Europe, we currently have three distributors through which we sell Algovita. As we continue to develop our international sales organization, we expect that it will consist of a network of distributors and independent sales agents. We began our sales in Germany during 2014 and, to date, have expanded our sales efforts into Switzerland, Luxembourg, Austria, Sweden and the United Kingdom. We may expand our Algovita sales efforts into other European countries with health care systems that offer favorable reimbursement rates for SCS therapies, particularly rechargeable SCS systems, and where we believe we can successfully partner with independent sales agents or distributors that meet our qualifications.
+Future Products
+ 
+We expect sales and marketing of Virtis and other future neurostimulation medical device offerings that leverage our neurostimulation technology platform will be conducted through a network of distributors, independent sales agents, a direct sales force or through partnerships with third parties in specific neurostimulation fields of use. 
+ 
+In connection with our development agreement with Aleva, we expect that, upon completion and approval of a complete medical device for use in the DBS market for the treatment of Parkinson’s disease, Aleva will commercialize the DBS system in certain European markets initially and later in the United States using our licensed technology. If it does so and is successful, we would receive royalties on the sale of these DBS systems and components.
+ 
+ 8
+
+
+
+Customers
+ 
+Algovita was designed to provide pain management solutions to patients who have evolving requirements and needs. We are still developing our customer base for Algovita, which includes distributors in Europe and hospitals, surgery centers and medical facilities in the United States served through a direct sales force and third-party distributors; therefore, the nature and extent of our selling relationships with each customer is different in terms of breadth of products purchased, purchased product volumes, length of contractual commitment, ordering patterns, inventory management, and selling prices.
+ 
+Prior to our divestiture of NeuroNexus effective December 31, 2018, our NeuroNexus customers included institutions, scientists or universities throughout the world who performed research for the neuroscience and clinical markets.
+ 
+Additionally, in the DBS market, our customer is Aleva, which we service through a strategic development agreement.
+ 
+No customers individually accounted for more than 10% of the Company’s consolidated revenues in 2017 or 2018.
+ 
+Competition
+ 
+The neurostimulation medical device industry is intensely competitive, subject to rapid change and highly sensitive to the introduction of new products and other market activities of industry participants. We currently compete in the SCS market for chronic pain. In the SCS market, the main competitors are Abbott Laboratories (which acquired St. Jude Medical and its neurostimulation business), Boston Scientific, Medtronic, and Nevro Corp. In addition, SCS therapy also competes against other potential therapies, including spinal surgeries, in particular spinal reoperation, and pharmacological therapies. All major medical device competitors in the SCS market have obtained United States and European Union regulatory approvals for their SCS systems, and some have recently launched new products or released additional clinical evidence supporting their product therapies, and others are expected to do so within the next few years. These major competitors are publicly-traded companies or divisions of publicly-traded companies, all of which have significantly greater market share and resources than we have. In addition, these competitors also have more established operations, longer commercial histories and more extensive relationships with physicians than we have. Some of these competitors also have wider product offerings within neurostimulation and other medical device product categories. This may provide these competitors with greater negotiating power with customers and suppliers and with more opportunities to interact with the stakeholders involved in purchasing decisions.
+ 
+We believe the primary competitive factors in the neurostimulation market are:
+ 
+
+• | Technological innovation, product enhancements and speed of innovation
+--+-----------------------------------------------------------------------
+
+
+• | Sales force size, experience and access
+--+----------------------------------------
+
+
+• | Ease of use
+--+------------
+
+
+• | Product support and service
+--+----------------------------
+
+
+• | Clinical studies and research
+--+------------------------------
+
+
+• | Effective marketing and education
+--+----------------------------------
+
+
+• | Pricing and reimbursement rates
+--+--------------------------------
+
+
+• | Product reliability, safety and durability
+--+-------------------------------------------
+
+
+• | Company brand recognition
+--+--------------------------
+
+Research and Development
+ 
+Our research and development team has significant experience in the design and development of medical devices, particularly in neurostimulation. The team includes specialists in software engineering, mechanical engineering, electrical engineering, graphical user interface design, and clinical and regulatory expertise.
+ 
+The primary objective of our research and development program is to enhance Algovita for use in SCS and may include next generation IPGs, leads and accessories, and expanded stimulation delivery methods. An additional objective of our research and development program includes enhancements to our neurostimulation technology platform for uses in indications outside of SCS, including Virtis, the second application of our platform and our first product submitted for approval for the SNM market.
+ 
+ 9
+
+
+
+In early 2016, we entered into a development agreement with Aleva, which was amended and restated on August 31, 2017. This agreement provides that we will leverage our neurostimulation technology platform to develop a DBS system for Aleva to treat Parkinson’s disease. This platform is still under development and is subject to Aleva receiving sufficient financing, the outcome of which may impact the ability to fund our development of the DBS system during 2019. We expect Aleva to raise additional capital funds in order to fully develop a DBS system. If we complete development of a DBS system to treat Parkinson’s disease for Aleva and it receives approval, we expect that Aleva will commercialize the DBS system in certain European markets initially and later in the United States. If Aleva does so and is successful, we would receive royalties on the sale of these DBS systems and components.
+ 
+In addition to our development agreement with Aleva, as part of our research and development efforts, we also may pursue other strategic partnerships with third parties to, among other things, fund clinical and development costs, in part or in full, for new product offerings.
+ 
+Intellectual Property
+ 
+Protection of our intellectual property is important to our business. We rely on a combination of patent, trademark, trade secret, copyright and other intellectual property laws, non-disclosure agreements and other measures to protect our proprietary rights. As of February 20, 2019, we owned or licensed approximately 275 U.S. and foreign patents and approximately 45 pending U.S. and foreign patent applications. Within our patent portfolio, we own or license the patents and patent applications that embody the core intellectual property underlying our neurostimulation technology platform.
+ 
+As of February 20, 2019, we also owned 4 U.S. trademark registrations, 12 pending U.S. trademark registrations, 16 foreign trademark registrations and 7 pending foreign trademark registrations.
+ 
+The term of each of our individual patents depends on the legal term for patents in the countries in which they are granted. In most countries, including the United States, the patent term is generally 20 years from the earliest claimed filing date of a non-provisional patent application in the applicable country. Most of our patents will expire between 2027 and 2035. Further, there has been substantial litigation regarding patent and other intellectual property rights in the medical device industry. In the future, we may need to engage in litigation to enforce patents issued or licensed to us, to protect our trade secrets or know-how, and/or to defend against claims of infringement of the rights of others or to determine the scope and validity of the proprietary rights of others.
+ 
+We also license technology from various entities. As of February 20, 2019 we licensed approximately 20 U.S. and foreign patents and had approximately 3 pending patent applications covering both SCS and the intra-spinal stimulation and SNM fields of use.
+ 
+Under our license agreements with Integer entered into at the time of the spin-off, we license certain of our technology to Integer for use outside the field of use of neurostimulation, including outside the fields of SCS, SNM and DBS.
+ 
+We also rely upon trade secrets, know-how and continuing technological innovation, and may rely upon other licensing opportunities in the future, to develop and maintain our competitive position. We seek to protect our proprietary rights through a variety of methods, including confidentiality agreements and proprietary information agreements with suppliers, employees, consultants and others who may have access to proprietary information, under which they are bound to assign to us inventions made during the term of their employment or service, as applicable.
+ 
+
+Manufacturing and Supply
+ 
+Integer Supply Agreement 
+ 
+At the time of the spin-off, we entered into a long-term supply agreement with Integer for the manufacture and supply of Algovita and most of its products, parts and components, including the IPG and the leads. For most products, parts and components of Algovita, other than our external peripheral devices, which are supplied by Minnetronix, Integer is our single or sole source supplier. Our supply agreement with Integer for Algovita has a term of five years and is also terminable upon mutual agreement by the parties, by either party upon material breach by the other, and by either party if the other party enters bankruptcy. Our supply agreement with Integer for Algovita also outlines the rights of each party with respect to quality assurance, inspection and compliance with applicable law and contains what we believe are customary indemnification provisions for commercial agreements. In addition, we also entered into a product component framework agreement providing Integer with the exclusive right to supply us with products, parts and components necessary for production of future SNM or DBS neurostimulation devices that we may seek to commercialize. Each of these agreements sets forth the process by which we order products, components or raw materials, as applicable, from our supplier (which process is either on a purchase order basis or based on quarterly or annual forecasts and in some cases require us to purchase minimum amounts) and the related fees for purchasing these items. 
+ 
+ 10
+
+
+
+Minnetronix Supply Agreement
+ 
+Effective December 9, 2016, we entered into a manufacturing and supply amendment with Minnetronix for the supply of our current platform of external peripheral devices used with our Algovita spinal cord stimulation system, including the clinician programmer, patient programmer, the patient charging paddle, the external pulse generator kit and the patient feedback tool. Minnetronix is our sole source supplier for these items, but we retain the right to manufacture these products ourselves if we establish our own facility in the future. This agreement is exclusive between Nuvectra and Minnetronix only for Nuvectra’s current platform of external peripheral products, allowing any next generation external devices to be manufactured by ourselves or a third party. This agreement will continue for so long as the supply relationship remains exclusive, unless terminated earlier by either party in the event of a material breach of the agreement by the other party (subject to customary cure periods). The exclusivity provision will survive the agreement’s termination if Minnetronix terminates the agreement due to Nuvectra’s material breach. If Minnetronix discontinues the supply of the peripheral products, it must provide us with 18 months notice and provide us with a “last time buy” opportunity.
+Other Suppliers
+ 
+Within our supply chain we also have other suppliers, including sole source suppliers of components, with which we do not have written agreements. ON Semiconductor, headquartered in Phoenix, Arizona, is the sole source supplier of the application-specific integrated circuit (“ASIC”) used in our IPGs and external pulse generators.
+Manufacturing Requirements
+ 
+Manufacturing facilities that produce medical devices or their component parts intended for distribution worldwide are subject to regulation and periodic unannounced inspection by the FDA and other domestic and international regulatory agencies. In the United States, companies are required to manufacture medical device products that are for sale in compliance with the FDA’s Quality System Regulations, which cover the methods used in, and the facilities used for, the design, testing, control, manufacturing, labeling, quality assurance, packaging, storage and shipping of Algovita or other medical devices. In international markets, we are required to obtain and maintain various quality assurance and quality management certifications. Integer has obtained Quality Management System ISO13485 certification for manufacturing of SCS systems and accessories. We have obtained Quality Management System ISO13485 and Full Quality Assurance Certification for the design and development of SCS systems and accessories and a Design Examination certificate for IPGs and accessories. We are required to demonstrate continuing compliance with applicable regulatory requirements to maintain these certifications and will continue to be periodically inspected by international regulatory authorities for certification purposes.
+Product Liability and Insurance
+ 
+The manufacture and sale of our products subject us to the risk of financial exposure for product liability claims. Our products are used in situations in which there is a risk of serious injury or death. We carry insurance policies, which we believe to be customary for similar companies in our industry. We cannot assure you that these policies will be sufficient to cover all or substantially all losses that we experience. We endeavor to maintain executive and organization liability insurance in a form and with aggregate coverage limits that we believe are adequate for our business purposes, but our coverage limits may prove not to be adequate in some circumstances.
+ 
+Third-Party Coverage and Reimbursement
+ 
+For Algovita, the primary purchasers are hospitals and outpatient surgery centers in the United States. These purchasers typically bill various third-party payers, such as Medicare, Medicaid and private health insurance plans for the healthcare services associated with the SCS procedures. Government agencies and private payers then determine whether to provide coverage for specific procedures. We believe that SCS procedures using Algovita are adequately described by existing governmental and insurance reimbursement codes for the implantation of spinal cord stimulators and related leads performed in various sites of care. Medicare reimbursement rates for the same or similar procedures vary due to geographic location, nature of facility in which the procedure is performed, such as hospital outpatient department or outpatient surgery centers, and other factors. Although private payers’ coverage policies and reimbursement rates vary, Medicare is increasingly used as a model for how private payers and other governmental payers develop their coverage and reimbursement policies for healthcare items and services, including SCS procedures.
+ 
+Outside the United States, reimbursement levels vary significantly by country, and by region within some countries. Reimbursement is obtained from a variety of sources, including government-sponsored and private health insurance plans, and combinations of both. In Germany, where Algovita has been commercially available to patients since November 2014, reimbursement for SCS by Germany’s established G-DRG system, which is a government-mandated pricing system pursuant to which German hospitals are paid for services provided to patents, is substantial enough that it makes economic sense to operate within Germany. Some countries require us to gather additional clinical data before granting broader coverage and reimbursement for Algovita. We will complete the requisite clinical studies and obtain coverage and reimbursement approval in those other countries where it also makes economic sense to do so. SNM and DBS have established reimbursement pathways similar to those for SCS procedures. We will review and assess the reimbursement environment as part of our process of developing additional neurostimulation indications.
+ 
+ 11
+
+
+
+Regulation of our Business
+ 
+Our products, including Algovita, and our operations generally, are subject to extensive and rigorous regulation by the FDA pursuant to its authority under the U.S. Federal Food, Drug, and Cosmetic Act, or Food and Drug Act, other federal and state authorities in the United States and comparable foreign regulatory authorities. To ensure that medical products distributed domestically and internationally are safe and effective for their intended use, the FDA and comparable foreign regulatory authorities have imposed regulations that govern, among other things, product design, development and testing, manufacturing, labeling and storage, pre-market clearance, clinical investigations, advertising and promotion and product marketing, sales, distribution and recalls.
+ 
+FDA Clearance and Approval of Medical Devices
+ 
+The FDA regulates medical devices in the United States and the export of medical devices manufactured in the United States to help ensure that these medical devices are safe and effective for their intended uses. Any violation of these laws and regulations could have a material adverse effect on our business, financial condition and results of operations.
+ 
+Under the Food and Drug Act, medical devices are classified as Class I, Class II or Class III depending on the degree of risk associated with the device and the extent of control needed to ensure its safety and effectiveness. Devices deemed by the FDA to pose the greatest risk, such as life-sustaining, life-supporting or implantable devices, or devices deemed not “substantially equivalent” to a legally marked device are classified in Class III. The safety and effectiveness of Class III devices cannot be assured solely by general controls. Submission and FDA approval of a pre-market approval application is required before marketing of a Class III device can begin. The pre-market approval application process is considerably more demanding than the Class I and Class II 510(k) pre-market notification process.
+ 
+Algovita is a Class III device. On November 30, 2015, Integer announced the receipt of pre-market approval for Algovita from the FDA, and we launched Algovita commercially in the United States during the first half of 2016. In December 2018, we received head-only MR-conditional approval from the FDA and full-body MR-conditional approval from TÜV SÜD for Algovita.
+ 
+Similarly, Virtis is a Class III device.  We submitted a pre-market approval application for Virtis to the FDA in January 2017. In June 2018, we received notice from the FDA requesting that the Company provide supplemental information related to modifications to the Virtis device, labeling and manufacturing, as well as clarifications of data related to MR. In early August 2018 we filed our response to the FDA's requests. The FDA typically has up to 180 days from that submission to review our response, after which the FDA could approve the device, reject the device, request additional information or request clinical study data, however, in January 2019, the FDA advised us that its review has extended beyond the expiration of the 180-day review period. This extension did not initiate an additional full 180-day review period. 
+ 
+Continuing FDA Regulation
+ 
+After a device is placed on the market, numerous regulatory requirements continue to apply. These include:
+ 
+
+• | compliance with the FDA’s Quality System Regulations, which requires medical device companies to follow design, testing, control, documentation and other quality assurance procedures during the manufacturing process;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | labeling regulations;
+--+----------------------
+
+
+• | the FDA’s general prohibition against promoting products for unapproved or “off-label” uses;
+--+---------------------------------------------------------------------------------------------
+
+
+• | approval of product modifications that could significantly affect safety or effectiveness or that would constitute a major change in the intended use of Algovita or any other medical device using our neurostimulation technology platform;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | medical device reporting regulations, which require that medical device companies comply with FDA requirements to report if their device may have caused or contributed to a death or serious injury, or has malfunctioned in a way that would likely cause or contribute to a death or serious injury if the malfunction were to recur;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | post-approval restrictions or conditions, including post-approval study commitments;
+--+-------------------------------------------------------------------------------------
+
+
+• | post-market surveillance regulations, which apply when necessary to protect the public health or to provide additional safety and effectiveness data for the device;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | the FDA’s recall authority, whereby it can ask, or under certain conditions order, medical device companies to recall from the market a product that is in violation of governing laws and regulations;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | regulations pertaining to voluntary recalls; and
+--+-------------------------------------------------
+
+
+• | notices of corrections or removals.
+--+------------------------------------
+
+ 
+ 12
+
+
+
+Medical device companies are also required to register and list their devices with the FDA, based on which the FDA will conduct inspections to ensure continued compliance with applicable regulatory requirements.
+ 
+The FDA has broad post-market and regulatory and enforcement powers. Failure to comply with the applicable U.S. medical device regulatory requirements could result in, among other things, warning letters, fines, injunctions, consent decrees and civil penalties, customer notifications or repair, replacement, refund, recall, administrative detention or seizure of Algovita systems, operating restrictions or partial suspension or total shutdown of production or criminal prosecution.
+ 
+Other Healthcare Regulations
+ 
+We are also subject to healthcare fraud and abuse regulation in the jurisdictions in which we will conduct business. These laws include, without limitation, applicable anti-kickback, false claims, healthcare reform, patient privacy and security laws, and physician payment transparency regulations.
+ 
+Anti-Kickback Statute
+ 
+The U.S. Federal Anti-Kickback Statute is a criminal statute that prohibits persons from knowingly and willfully soliciting, offering, paying, or receiving “remuneration,” directly or indirectly to induce or reward the purchasing, leasing, ordering or arranging for or recommending the purchase, lease or order of any health care items or services for which payment may be made under federal healthcare programs. The Anti-Kickback Statute prohibits many arrangements and practices that are lawful in businesses outside of the healthcare industry. The Anti-Kickback Statute is broadly drafted and establishes penalties for parties on both sides of the prohibited transaction and has been interpreted to apply to the sales and marketing activities of manufacturers and distributors like us.
+ 
+Federal False Claims Act
+ 
+The U.S. Federal False Claims Act imposes civil liability on persons or entities who knowingly present or cause to be presented a false or fraudulent claim or knowingly use false statements to obtain payment from or approval by the federal government. Under the False Claims Act, a claim may be submitted directly to the federal government or to a recipient of federal funds, such as a federal contractor, where the funds are to be spent on the federal government’s behalf. In addition, private individuals can bring actions under the civil False Claims Act in the name of the government, known as qui tam actions, alleging false and fraudulent claims presented to or paid by the government or recipient of federal funds (or other violations of the statutes) and to share in any amounts paid by the entity to the government in fines or settlement. Medical device companies can be held liable under these laws if they are deemed to “cause” the submission of false or fraudulent claims by, for example, providing inaccurate billing or coding information to customers or promoting an “off-label” use of a product.
+ 
+Many states also have statutes or regulations similar to the U.S. Federal Anti-Kickback and False Claims Act, which apply to items and services reimbursed under Medicaid and other state programs, or, in several states, apply regardless of the payer.
+ 
+Healthcare Reform
+ 
+In March 2010, the Affordable Care Act (“ACA”) was signed into law, which has substantially changed healthcare financing and delivery by both governmental and private insurers, and significantly impacts the medical device industry. The ACA impacted existing government healthcare programs and resulted in the development of new programs. The ACA’s provisions include a deductible 2.3% excise tax on any entity that manufactures or imports medical devices offered for sale in the United States, with certain limited exceptions. As part of the enacted Tax Cut and Jobs Act of 2017 (“TCJA”), this excise tax has been suspended through December 31, 2019. Absent further legislative action, this excise tax will be automatically reinstated beginning on January 1, 2020.
+ 
+U.S. Privacy and Security Laws
+ 
+We may be subject to data privacy and security laws and regulations of both the U.S. federal government and the individual states in which we operate. The Health Insurance Portability and Accountability Act of 1996, or HIPAA, as amended by the Health Information Technology and Clinical Health Act, or HITECH, and their respective implementing regulations impose obligations on entities covered thereby relating to the privacy, security and transmission of protected health information and requires us to implement administrative, physical and technical safeguards with respect to protected health information. These covered entities include health plans, health care clearing houses, and certain health care providers.
+ 
+In addition, comparable state laws also govern the privacy and security of health information in certain circumstances. Many of these individual state laws differ from state to state in significant ways and may not have the same effect. In addition, certain of these state laws are more stringent than HIPAA and, in such circumstances, the more stringent state law must be followed.
+ 
+ 13
+
+
+
+Physician Payment Transparency Laws
+ 
+In recent years, federal and state regulation of payments made to physicians and other healthcare providers and entities has increased. The ACA imposes new reporting requirements on some manufacturers, including some medical device manufacturers, for payments and other transfers of value provided to physicians or teaching hospitals. In addition, the ACA also requires reporting by physicians and their immediate family members of ownership or other investment interests in some medical device manufacturers.
+ 
+Failure to submit the required information timely, accurately, or completely may result in civil monetary penalties of up to an aggregate of $150,000 per year and up to an additional aggregate of $1 million per year for “knowing failure to report.”
+ 
+Some states also require medical device companies to comply with the industry’s voluntary compliance guidelines and/or the compliance guidelines promulgated by the U.S. federal government, which impose restrictions on device manufacturer marketing practices and/or require the tracking and reporting of gifts, compensation and other remuneration to healthcare providers and entities.
+ 
+Regulations in the EU
+ 
+Our international sales are subject to regulatory requirements in the countries in which Algovita is sold. The regulatory review process varies from country to country. Nuvectra is required to perform a post market approval clinical study. This study is in process.
+ 
+In the European Economic Area, or EEA (which is comprised of the 28 Member States of the EU plus Norway, Liechtenstein and Iceland), we must comply with the requirements of the EU Active Implantable Medical Devices Directive 90/385/EEC (“AIMDD”), and appropriately affix the CE Mark on Algovita to attest to such compliance. In achieving compliance, Algovita had to comply with the “Essential Requirements” described in Annex I of the AIMDD. In addition, to affix the CE Mark on Algovita, we had to undergo a conformity assessment procedure, the requirements of which vary based upon the type of medical device and its classification. Except for low risk medical devices, a conformity assessment procedure also requires a third-party assessment by a Notified Body, which is an organization designated by a competent authority of an EEA country to conduct conformity assessments. The Notified Body audits and examines the technical file and the quality system for the manufacture, design and final inspection of the medical device. The Notified Body issues a CE Certificate of Conformity following successful completion of a conformity assessment procedure and confirmation of conformity with the Essential Requirements. Receipt of this CE Certificate entitles the medical device company to affix the CE Mark to its medical device after preparing and signing an EC Declaration of Conformity. The assessment of the conformity for Algovita has been certified by our Notified Body, TÜV SÜD America.
+ 
+In December 2018, we received full-body MR-conditional approval from TÜV SÜD for Algovita, meaning that TÜV SÜD approved allowing us to market Algovita for patients who may need to undergo MR scans for the full body.
+ 
+On June 22, 2018, we received notice from TÜV SÜD regarding our Virtis application for CE Mark. TÜV SÜD notified us that it was requesting clinical study data regarding the safety and performance of the device for the requested indication. We are currently evaluating the best path forward to determine whether a clinical studies plan can be effectuated in a timely and cost-effective manner. If we determine a strategy that meets our objectives, we may move forward with a clinical study plan after obtaining FDA approval.  
+ 
+Algovita is subject to continued surveillance by its Notified Body, and we are required to report any serious adverse incidents related to Algovita to the appropriate authorities. We must also comply with additional requirements of individual countries in which Algovita is marketed and the requirements of certain EU Directives.
+ 
+In September 2012, the European Commission published proposals for the revision of the EU regulatory framework for medical devices, which would replace the Medical Devices Directive 93/42/EEC (“MDD”) and the AIMDD with the new Medical Devices Regulation. The Medical Devices Regulation (EU) 2017/745 (“MDR”) was adopted April 5, 2017. The current AIMDD remains in effect through the transition period ending May 26, 2020 per MDR Article 120, section 1. The new MDR will, among other things, impose additional reporting requirements on manufacturers of high-risk medical devices, impose an obligation on medical device companies to appoint a “qualified person” responsible for regulatory compliance, and provide for stricter clinical evidence requirements.
+ 
+EU Data Protection Directive
+ 
+We are subject to laws and regulations in non-U.S. countries covering data privacy and the protection of health-related and other personal information. EU member states and other jurisdictions have adopted data protection laws and regulations, which impose significant compliance obligations. For example, the EU Data Protection Directive imposes strict obligations and restrictions on the ability to collect, analyze and transfer personal data, including health data from clinical trials and adverse event reporting. Failing to comply with these laws could lead to government enforcement actions and significant penalties against us.
+ 
+ 14
+
+
+
+Anti-Bribery Laws
+ 
+The federal Foreign Corrupt Practices Act of 1997 and other similar anti-bribery laws in other jurisdictions, including the UK Bribery Act of 2010, generally prohibit companies and their intermediaries from providing money or anything of value to officials of foreign governments, foreign political parties, or international organizations with the intent to obtain or retain business or seek a business advantage. Recently, there has been a substantial increase in anti-bribery law enforcement activity by U.S. regulators, with more frequent and aggressive investigations and enforcement proceedings by both the Department of Justice and the Securities and Exchange Commission (“SEC”). Violations of United States or foreign laws or regulations could result in the imposition of substantial fines, interruptions of business, loss of supplier, vendor or other third-party relationships, termination of necessary licenses and permits, and other legal or equitable sanctions. Other internal or government investigations or legal or regulatory proceedings, including lawsuits brought by private litigants, may also follow as a consequence.
+ 
+Employees
+ 
+As of February 20, 2019, we had 200 employees of which 197 were full-time. We believe the success of our business will depend, in part, on our ability to continue to attract and retain qualified personnel. We are committed to developing our employees and providing them with opportunities to contribute to our growth and success. Our employees are not subject to a collective bargaining agreement, and we believe that we have good relations with our employees.
+Corporate Information
+ 
+Our principal executive offices are located at 5830 Granite Parkway, Suite 1100, Plano, Texas 75024 and our telephone number is (844) 727-7897. Our website address is www.nuvectramed.com. Information contained on, or connected to, our website is not part of this Annual Report on Form 10-K. We are traded on the Nasdaq Global Market under the symbol “NVTR.”
+Emerging Growth Company Status
+ 
+We are an “emerging growth company,” as defined in the Jumpstart Our Business Startups Act, or the JOBS Act, and are eligible to take advantage of certain exemptions from various reporting requirements applicable to public companies that are not emerging growth companies. These include, but are not limited to, (i) reduced disclosure obligations regarding executive compensation in our periodic reports and proxy statements, (ii) an exception from compliance with the auditor attestation requirements of Section 404(b) of the Sarbanes-Oxley Act of 2002, or the Sarbanes-Oxley Act, and (iii) exemptions from the requirements of holding a nonbinding advisory vote on executive compensation and the requirement to obtain stockholder approval of any golden parachute payments not previously approved.
+ 
+In addition, Section 107 of the JOBS Act provides that an emerging growth company can take advantage of the extended transition period provided in Section 7(a)(2)(B) of the Securities Act of 1933, as amended, or the Securities Act, for complying with new or revised accounting standards. In other words, an emerging growth company can delay the adoption of certain accounting standards until those standards would otherwise apply to private companies. However, we are choosing to “opt out” of this provision and, as a result, we will comply with new or revised accounting standards on the relevant dates on which adoption of such standards is required for non-emerging growth companies. Section 107 of the JOBS Act provides that our decision to opt out of the extended transition period for complying with new or revised accounting standards is irrevocable.
+ 
+We would cease to be an emerging growth company upon the earliest of (1) December 31, 2021, which is the last day of the fiscal year following the fifth anniversary of the date of the first sale of our common stock pursuant to an effective registration statement filed under the Securities Act; (2) the last day of the first fiscal year in which our total annual gross revenue exceeds $1.07 billion (as indexed for inflation); (3) the date on which we become a “large accelerated filer,” as defined in Rule 12b-2 under the Exchange Act, which would occur if the market value of our common stock held by non-affiliates exceeds $700 million as of the last day of our most recently completed second fiscal quarter; and (4) the date on which we have issued more than $1.0 billion in non-convertible debt during the prior three-year period.
+ 
+Available Information
+ 
+We make available on or through our website certain reports and amendments to those reports that we file with, or furnish to, the SEC in accordance with the Exchange Act. These include our Annual Reports on Form 10-K, our Quarterly Reports on Form 10-Q and our Current Reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act. We make this information available on or through our website free of charge as soon as reasonably practicable after we electronically file the information with, or furnish it to, the SEC. This information is also available by writing to us at the address on the cover of this Annual Report on Form 10-K to the attention of General Counsel. The SEC maintains a website that contains reports, proxy and information statements, and other information regarding our filings, at www.sec.gov. The information on, or that can be accessed through, our website is not incorporated by reference into this Annual Report on Form 10-K or any other filings we make with the SEC.
+ 
+ 15
+
+
+

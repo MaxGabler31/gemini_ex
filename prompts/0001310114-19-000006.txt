@@ -1,0 +1,202 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+ITEM 1. | BUSINESS
+
+Overview
+ServiceSource International, Inc. is a global leader in outsourced, performance-based customer success and revenue growth solutions. Through our people, processes and technology, we grow and retain revenue on behalf of our clients — some of the world’s leading business-to-business companies — in more than 45 languages. Our solutions help our clients strengthen their customer relationships, drive improved customer adoption, expansion and retention and minimize churn. Our technology platform and best-practice business processes combined with our highly-trained, client-focused revenue delivery professionals and data from 20 years of operating experience enable us to provide our clients greater value for our customer success services than attained by our clients' in-house customer success teams.
+Our net revenue was $238.3 million, $239.1 million and $252.9 million for the years ended December 31, 2018, 2017 and 2016, respectively.
+Our Solutions
+We leverage deep experience, analytical expertise, high-performance revenue delivery teams and unique technology to drive customer success, renewals, and inside sales through our solutions.
+Our client-focused revenue delivery professionals receive extensive training and expertise in our clients’ businesses and are deployed as an extension of our clients’ brands. Through direct interaction with our clients' end users, our revenue delivery professionals follow a sales process tailored specifically to improve end-customer retention, generate additional sales where needed, and meet our clients’ business objectives. Our solution is designed to optimize recurring revenue, provide customer success and enablement services, and maximize inside sales capabilities across different business-to-business revenue models, distribution models and segments, including hardware, software, Software-as-a-Service, industrial systems, information and media, as well as technology-enabled healthcare and life sciences. Our global revenue delivery centers, located in Bulgaria, Ireland, Japan, Malaysia, the Philippines, Singapore, the United Kingdom and the United States enable us to provide our solutions to our clients in 45 languages.
+Our solutions span the entire lifecycle of our clients’ customers, from landing new customers (we provide lead generation, inside sales, and outsourced sales operations services), adoption (we provide customer onboarding and customer success management services), expansion (we provide cross-sell and upsell, warranty conversion, account-based marketing and channel recruitment and enablement) and renewals (we provide renewals management services, including the sale of maintenance and support service contracts for the products used by our clients’ end-users).
+
+• | Outsourced Sales Operations. Our sales enablement and quoting solutions, powered by robotic process automation, or RPA, advance our clients’ renewal sales process with specialized resources handling the administrative work associated with renewals and subscriptions. We apply a standardized, best-practice approach to sales enablement and quoting across the opportunities we manage through a dedicated, trained team completely focused on quoting, data entry and bookings processing combined with an in-depth understanding of our clients’ product SKUs, pricing and systems. In addition, we provide rigorous quality control through a dedicated quote audit team and analytics dashboards to monitor accuracy, throughput and cycle times.
+
+1
+
+
+• | Customer Onboarding. Our revenue delivery teams proactively welcome our clients’ new customers and ensure the customers are established for ongoing success. Using our best-practice processes developed over our 20 year history, we confirm successful implementation of our clients’ products or services and promote adoption and use, including thorough reviews of customer usage and initial contact; brief demonstrations and reviews of key product features; identification and, if needed, escalation of support or implementation issues; delivery of basic training and/or product education; and supporting change management initiatives.
+
+
+• | Customer Success Management. Our revenue delivery teams continuously monitor the health of our clients’ customers; reinforce the unique value and benefits of our clients’ products; and share customer feedback with our clients’ product and marketing teams. Our revenue delivery professionals are specifically and continuously trained to articulate the value of our clients’ products and services to their customers, which drives improved customer loyalty. In addition, we use our technology platform to provide predictive analytics to identify our clients’ at-risk customers as well as to provide segmentation and analysis to assist in minimizing or avoiding churn.
+
+
+• | Inside Sales, Lead Generation, and Cross-sell and Upsell Services. Our inside sales teams perform and are trained in accordance with high performing sales team methodologies to enable efficient and effective lead generation and inside sales activities for our clients. Our revenue delivery teams are specifically trained in the identification of cross-sell and upsell activities, including upgrading service/support level, uncovering additional assets/licenses, extending term length and product sales lead generation. We do this through expert data analysis, specifically designed account plans and partnerships with our clients’ sales teams.
+
+
+• | Warranty Conversion. We proactively engage with our clients’ warranty customers with skilled revenue delivery teams who are trained to clearly articulate the benefits of an extended support and maintenance contract. In addition, we identify and engage customers who have lapsed warranty agreements.
+
+
+• | Renewals Management. We help our clients develop a finely-tuned renewals management and growth strategy. We begin by analyzing our clients’ existing business data, systems and processes to accurately diagnose our clients’ renewal revenue challenges. The initial analysis is followed by our proposal of a tailored solution of expert selling services, technology and processes to achieve our clients’ revenue growth and customer retention objectives. Our revenue delivery teams operate as an extension of our clients’ brand and sales team, support either direct or channel selling models and have worldwide sales experience.
+
+Our pay-for-performance model allows our clients to pay us either flat-rate or variable commissions based on the revenue we generate on their behalf. Fixed-fee arrangements are often used in quick deployments to address discrete target areas of our clients’ needs or when a fixed fee best addresses our clients' business model. We also generate revenue through our professional services teams, who assist our clients with data optimization.
+Our engagement with our clients begins in the pre-sales process and continues through their lifecycle. 
+
+• | Sales Performance Analysis. We typically begin engagements with our prospective clients by conducting in-depth interviews, analyzing their historical performance and future opportunity and evaluating their recurring revenue business using proprietary analytical models. We also use our breadth of experience to benchmark and identify service renewal opportunities, and to calculate our ability to improve our clients' performance based on our performance with similar types of businesses and revenue streams.
+
+
+• | Business Case, Pricing and Contract Structuring. We use our reservoir of data and benchmarks to estimate the critical components of the business case and appropriate pricing model for prospective clients, whether for renewals, selling services, or lead generation. This intelligence is fundamental to our pay-for-performance business model.
+
+
+• | Data Integration. We deploy our professional services teams to enable data integration at scale, combined with data enhancement, enablement, integration and optimization where needed.
+
+
+• | Performance. Once a partnership is in place with one of our clients, we leverage our reporting platform and our data reservoir and performance optimization tools to enable, measure, analyze, benchmark and optimize the performance of our inside sales and revenue delivery teams.
+
+
+• | Client Benchmarking and Continuous Improvement. Our extensive platform and the accumulation of 20 years of experience serve as the foundation for benchmarking our clients’ evolving recurring revenue and end customer success performance against industry peers and previous period performance. We generally conduct quarterly business review meetings and annual partnership reviews with our clients to review performance, identify potential weaknesses in their processes and determine opportunities for improvement and make recommendations that we believe will allow our clients and us to achieve higher levels of performance and efficiencies.
+
+2
+
+
+• | Developing and Delivering Applications. Our data reservoir fuels the opportunity data, sales methodologies, metrics and reporting dashboards that we engineer into our applications. Accordingly, we design our applications to leverage the transactional, analytical and industry data housed in PRISM, our technology platform.
+
+Our Technology
+Our Predictive Relationship Intelligence and Sales Management platform, or PRISM, is a combination of our proprietary tools, best-in-class industry solutions, application integrations, a proprietary recurring revenue data model and proven release management and operational procedures. We use PRISM within our client engagements to enable higher productivity and efficiency from our revenue delivery and operations teams in order to drive better outcomes for our clients. We specifically focus on process and productivity management, analytics that drive high-performing and effective sales teams, and customer retention and customer success insights.
+Customer Success Management Technologies
+We deploy customer success management technologies to our customer success services teams on behalf of our clients in order to enable our agreed-upon economic outcomes. The applications are our own proprietary intellectual property, based on our years of history supporting recurring revenue management and customer success management, combined with best-in-class third party technology. PRISM correlates product usage, billing and customer revenue management data with success plans to proactively trigger intelligent workflow automations, helping our precision customer success and revenue delivery professionals engage the right end customer with the right sales motion at the right time.
+Renewal and Channel Management Technologies
+We deploy applications that are uniquely designed for our revenue delivery professionals who are specifically focused on managing renewals, warranty conversions, install base out-of-warranty (IBOW) and channel engagements. These applications allow us to optimize the selling processes between revenue delivery professionals engaging with our clients’ customers and operations services responsible for creating quotes and booking orders. These selling processes, and our purpose-built applications that facilitate them, are also extended to channel partners to drive channel sales performance in scenarios where our clients sell via one-tier or two-tier distribution. All of these applications are based on our proprietary data model to effectively capture and track key recurring revenue metrics that drive performance for our customer partnerships.
+Inside Sales Technologies
+Using the native functionality of PRISM paired with ServiceSource’s unique capabilities enables our inside sales teams to support new selling opportunities by capturing and scoring leads, prioritizing engagements, and focusing on cross-sales for current customers. 
+Productivity Tools
+We deploy productivity tools to our revenue delivery professionals that focus on performance management, knowledge management, communication and training. These tools allow managers to monitor and coach our selling teams to improve performance and efficiency and provide real-time communication and client related news to our revenue delivery team members. These tools are available to our selling teams via a proprietary and customized landing page, and include the following features:
+
+• | Communication. Team chat functionality for easy and immediate communication to managers and other team members; a softphone tie-in that enables recording for training purposes as well as time and task tracking features; and customer contact look-up application.
+
+
+• | Knowledge Management. Product knowledge to guide selling and accelerate new team member training/onboarding, including client social media and other client-related news feeds.
+
+
+• | Productivity Tools. These features enable managers and team leaders to capture best practices and productivity metrics for training and sharing across teams, as well as suggesting selling motions and task prioritization to enable targeted and efficient selling motions.
+
+
+• | Performance Management. All information from the productivity tools, including task tracking and time management, rolls up to the individual representative and managers in both an individual and aggregated manner to allow for real-time tracking of performance relative to quarter goals.
+
+3
+
+Each deployment of the productivity tools is customized to the particular client and region being serviced by the revenue delivery team member. To scale best practices from our highest-performing team members, we also deploy workforce optimization software and desktop analytics. As we learn from our high performers how to navigate complex client systems or manage sophisticated selling activities, we can easily share those practices with new hires, team members or incorporate them into our global learning methodologies. Lastly, much of this information integrates with PRISM, our reporting platform of transactional, productivity and performance information to allow us to offer our clients benchmarking of our clients’ results against their industry peers.
+Our intellectual property consists primarily of software systems and business methodologies. We rely upon a combination of copyrights, trade secrets and trademarks, in addition to contractual restrictions such as confidentiality agreements, to establish and protect our proprietary rights. We currently hold twelve U.S. patents, and additional applications for U.S. patents are currently pending.
+ Key Benefits of Our Solutions Include:
+Financial Benefits
+
+• | Increased revenue. Our solutions are designed to increase revenues for our clients. We actively monitor the success rates-including contract renewal rates, cross-sell and upsell rates, lead generation, or other services that we drive on behalf of our clients in each engagement. When we generate higher renewal rates, we not only drive incremental client revenue for the associated period, but also have a compounding effect in increasing the base number of contracts eligible for renewal in subsequent periods, which expands the opportunity to generate greater client revenue in future periods. As we expand our solution to include cross-sell and upsell, lead generation and other strategic customer success services, we believe that our opportunity to generate client revenue in future periods through our renewal management services will also increase.
+
+
+• | Improved retention and customer success. Our solutions drive end customer retention and revenue growth for some of the world’s leading companies, leveraging 20 years of expertise to continuously monitor end customer health, engage each end customer with the right play at the right time and reinforce the unique value and benefits of each end customer’s product. The result is reduced end customer churn, increased revenue through up-sell and cross-sell, stronger end customer relationships and higher satisfaction.
+
+
+• | Increased margin and profitability. We believe that the variable rate we charge for our solutions is lower than the fully-loaded fixed internal costs incurred by our clients managing renewals internally. As a result, each incremental dollar of recurring revenue generated by our solutions can drive greater profitability for our clients.
+
+Operational Benefits
+
+• | Greater business insight and analytics. The analytics engines in our technologies allow us to analyze each client’s renewals and churn rates against similar transactions, identifying areas for improvement and enabling greater insight into their business. All transactions, regardless of outcome, are recorded in PRISM. We leverage PRISM to provide benchmarking, end customer metrics, sales efficiency data and insight into successful and unsuccessful renewal efforts. The breadth of our data allows us to provide powerful analysis across regions, industries, channel partners and product segments.
+
+
+• | Greater visibility and forecasting tools. Our technologies deliver real-time analytics and visibility into our client’s recurring revenue performance, sales efficiency and forecasts. We measure recurring revenue performance across dozens of key performance indicators and provide real-time data to our clients through a clear and impactful web-based interface. Our clients rely on our applications to assist in forecasting their results and to measure progress against their forecasts on a real-time basis.
+
+
+• | Global consistency. We are able to maintain a globally consistent customer success and revenue growth selling process for our clients. Our revenue delivery centers operate from a unified platform. Our technologies automate the application of best practices to recurring revenue renewals and customer success processes and provide all relevant constituencies with a consistent view of the data. This automation facilitates contract renewals and provides reliable performance management and analytics.
+
+4
+
+Our Strategy 
+We intend to continue our industry leadership by delivering solutions to support the challenges faced by our clients in managing their revenue lifecycle. Our strategy to execute this vision is:
+
+• | Expand our client base. In order to expand our client base, we are offering rapid, smaller deployments to address our clients’ discrete needs or to support fast-growth enterprises.
+
+
+• | Increase footprint with existing clients to drive greater revenue per client. Our goal is to manage a greater portion of each client’s recurring revenue. We have increasingly taken on the management of more than just one component of a client’s recurring revenue, such as a specific product, market segment or geographic region, or adding selling services such as cross-sell and upsell services, to an existing client’s renewal services. Because we baseline our clients’ performance prior to any engagement, we are able to quantify our results for the client.
+
+
+• | Continue to invest in our technologies. We believe that our ability to leverage our technology to drive increased productivity by our revenue delivery professionals through more efficient and engaging training and productivity management, as well as our revenue analytics capabilities, is critical to our value proposition. We will continue to invest in our automation processes and the innovation of PRISM, our technology platform, to lower our operating costs, increase the efficiency and success of our solutions and enhance our competitive differentiation.
+
+
+• | Expand our investments in our people. Retention and enablement of our revenue delivery professionals is important to the success of our business. We have invested, and will continue to invest, in specific job-related next-generation training tailored to an individuals’ specific role. In addition, we will continue to support and roll out our continuous leadership training and learning management program, designed to identify high potential leaders as well as motivate our workforce and provide avenues for success across our worldwide employee base. We believe these investments will not only result in improved performance for our clients, but will also continue to set us apart from potential competitors and how our clients manage customer success internally.
+
+Our Clients
+We target our solutions to business-to-business companies, within a range of industries including computer hardware, software, Software-as-a-Service ("SaaS"), telecommunications, healthcare, life sciences, media and industrial systems. As of December 31, 2018, we managed approximately 156 engagements across 57 clients.
+The following table presents the percentage of revenue for our top clients: 
+ | For the Year Ended December 31,
+ | 2018 | | 2017 | | 2016
+Top three clients: | | | | | 
+Cisco | 14 | % | | 15 | % | 14 | %
+VMware | 13 | % | | 12 | % | 11 | %
+Dell | 10 | % | | 11 | % | 11 | %
+Top ten clients: | 67 | % | | 66 | % | 66 | %
+
+5
+
+Our People
+As of December 31, 2018, we had the following employees throughout the world: 
+ | December 31, 2018
+NALA: | 
+United States | 1,127 
+EMEA: | 
+Bulgaria | 291 
+Republic of Ireland | 238 
+United Kingdom | 236 
+APJ: | 
+Philippines | 989 
+Malaysia | 766 
+Singapore | 179 
+Japan | 88 
+Total(1) | 3,914 
+
+(1) We are not subject to collective bargaining agreements with any of our employees.
+Sales and Marketing
+We sell our solutions through our global sales organization. Our sales representatives are organized by geographic regions: North America and Latin America ("NALA"); Europe, Middle East and Africa ("EMEA"); and Asia Pacific-Japan ("APJ"). In 2018, we generated 60% of our revenue in NALA, 25% in EMEA and 15% in APJ. See "Item.1A. Risk Factors" for a description of the risks associated with our foreign operations.
+We generate client leads, accelerate sales opportunities and build brand awareness through our marketing programs. Our marketing programs target sales, services, customer success, account management, technology and finance executives within the computer hardware, software, SaaS, telecommunications, healthcare, life sciences, media and industrial systems industries. Our marketing programs are organized by geography and industry segment to focus on the unique needs of clients within the specific target markets.
+We participate in industry trade shows and host local and regional events around the world to stimulate industry dialog on revenue lifecycle management and to promote our services. In addition, we actively seek to collaborate with other like-minded businesses where such collaboration can increase our market penetration or provide value to our customers.
+Research and Development
+We focus our research and development efforts on enhancing our technologies as well as creating complementary new capabilities to add to our solutions. Our development strategy is to identify features, business intelligence, applications and other technology elements that are, or are expected to be, needed by sales professionals, customer success and account management professionals, clients, channel partners and end customers to optimize recurring revenue performance and customer success. We are also continuing to invest in the development of our technologies to serve our clients’ needs and enable greater operational efficiencies in our organization.
+Competition
+The market for outsourced customer success and revenue growth solutions is evolving. Historically, companies have managed their service renewals through internal personnel and relied upon a variety of technologies including spreadsheets, internally developed software and customized versions of traditional business intelligence tools and end-customer relationship management or enterprise resource planning software from vendors such as Oracle Corporation, SAP AG, salesforce.com, inc. and NetSuite, Inc. Some companies have made further investments in this area using firms such as Accenture and McKinsey & Company for technology consulting and education services focused on service renewals. These internally-developed solutions represent the primary alternative to our integrated approach of combining people, processes and technology to provide end-to-end optimized outsourced customer success and revenue growth solutions.
+We believe we are the only company of scale operating at the intersection of three key customer-success vectors:
+
+• | business process outsourcing/business process as a service (including offerings from vendors such as Accenture, Genpact and Concentrix);
+
+6
+
+
+• | business-to-business revenue enablement services (including offerings from vendors such as Omnicom, Publicis and Acxiom); and
+
+
+• | data and analytics services (including offerings from vendors such as Lattice Engines, InsideSales.com and 6sense).
+
+We believe our unique market position and our differentiated business model allows us to maintain our market presence, and our global scale and ability to provide our solutions in over 45 languages provides a competitive advantage over smaller companies entering the outsourced customer success space.
+We believe our principal competitive differentiators include:
+
+• | recurring revenue and customer success;
+
+
+• | industry expertise, best practices and benchmarks;
+
+
+• | ability to increase recurring revenue and renewal rates;
+
+
+• | global capabilities;
+
+
+• | completeness of solution;
+
+
+• | performance-based pricing of solutions;
+
+
+• | ability to effectively represent client brands to end customers and channel partners;
+
+
+• | quality of the business and client insight and its ability to generate revenue and customer success;
+
+
+• | size of upfront investment; and
+
+
+• | size and financial stability of operations.
+
+Although we currently have few direct competitors that offer integrated solutions at our scale, we expect competition and competitive pressure, from both new and existing competitors, to increase in the future.
+Additional Information
+We were formed as a Delaware limited liability company in 2002 and converted to a Delaware corporation in 2011. Additional information about us is available on our website at http://www.servicesource.com. The information on our website is not incorporated into this annual report by reference and is not a part of this Form 10-K. We make available free of charge on our website our annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K and any amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, as soon as reasonably practicable after those reports are electronically filed with, or furnished to, the SEC. In addition, the SEC maintains a website that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC at http://www.sec.gov. From time to time, we may use our website as a channel of distribution of material information about our company. Financial and other important information regarding our business is routinely posted on and accessible at http://ir.servicesource.com.

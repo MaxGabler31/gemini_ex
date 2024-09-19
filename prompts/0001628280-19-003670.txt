@@ -1,0 +1,232 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS
+Overview
+Cloudera is the enterprise data cloud company. We empower people to transform data into clear and actionable insights through an integrated suite of data analytics and management products from the Edge to artificial intelligence (AI). Our portable, multi-cloud platform with common security, governance and data management functions underpins products that include streaming analytics at the edge, data engineering, data warehousing, real-time operational analytics, exploratory data science and machine learning offerings. Today these products are implemented in private and co-location datacenters, multiple public clouds and hybrid cloud environments with common data analytics and management capabilities across all workloads and architectures. Our offerings are based predominantly on open source software, utilizing data stored natively in public cloud object stores as well as in various open source data stores. Using our software, organizations are able to capitalize on vast amounts of data from a variety of sources to better serve and market to their customers, design connected products and services and protect their enterprises. 
+We collaborate extensively with the global open source community, continuously innovating data management and analytics technologies to support Internet of Things (IoT), data warehousing and machine learning applications. We leverage the latest advances in infrastructure technology, such as containers and container orchestration software, to deliver our solutions across all major public clouds – Amazon Web Services, Microsoft Azure, Google Cloud Platform, IBM Cloud and Oracle Cloud – as well as private cloud. Our shared data experience (SDX) technologies provide a common security, governance and management layer across all these environments, enabling customers to easily migrate data, comply with data privacy regulations and safeguard intellectual property. Customers can manage infrastructure, data and analytic workloads across these hybrid and multi-cloud environments through a single control plane. This flexibility and control allow customers to continually determine and implement the most cost‑efficient strategies for managing and analyzing their data, optimizing for cost, performance and data locality while avoiding cloud lock-in. 
+We offer our software primarily on a subscription basis and focus our selling efforts on the largest corporate enterprises and public sector organizations globally. We target these organizations because they capture and manage the majority of the world’s data and operate highly complex information technology (IT) environments. These customers often demand the interaction of multiple analytic functions to perform the use cases required by their enterprises, and typically have data dispersed in public cloud and datacenters as well as geographically. We have developed a growing, vibrant ecosystem of systems integrators, software developers, resellers, OEMs, data systems vendors and public cloud providers to support the distribution of our solutions. As part of this ecosystem, we have formed strategic partnerships with IBM, Microsoft and Intel Corporation to optimize our software for use with these strategic partners’ offerings. 
+Our Offerings
+Cloudera completed its merger with Hortonworks in January 2019, creating the world’s leading open source data management and analytics solutions provider. In addition to the complementary offerings of the two companies, we plan to combine our assets and technical expertise to deliver the industry’s first ‘Enterprise Data Cloud from the Edge to AI’. Our enterprise data cloud (EDC) will provide a public cloud-like experience everywhere for data anywhere. It will offer the agility, elasticity and ease-of-use of public cloud infrastructure across private cloud, hybrid-cloud, multi-cloud and all major public clouds. An EDC enables multiple analytic functions -- from real-time streaming at the edge to artificial intelligence -- working together on the same data to support the most demanding business use cases. An EDC is secure and governed, meeting the strict data privacy, compliance, data migration and metadata management requirements of large enterprises across all their environments. Lastly, an EDC is defined by openness, powered by open source software, open compute architectures and open data stores like Amazon S3 and Azure Data Lake Storage.
+5
+
+Underpinning the enterprise data cloud vision is our next generation platform, Cloudera Data Platform (CDP), which once released, will combine the best of Hortonworks’ and Cloudera’s offerings in a public cloud, hybrid cloud service. CDP will enable customers to easily extend their datacenter implementations to the public cloud. CDP is expected to be “cloud-native” with separate compute and storage and the ease-of-use, self-service and user experience typically associated with public cloud services.
+Current Offerings
+We primarily offer subscriptions for our software to address the most common and critical data challenges enterprises face. Our current offerings include the following platforms, products, and services:
+
+• | Cloudera Enterprise Data Hub. The Enterprise Data Hub combines our Data Warehouse, Operational DB, and Data Science and Engineering products with our SDX technology. It allows companies to execute multiple analytic functions against a shared set of governed and secure data in public clouds, private clouds and data centers in bare metal configurations.
+
+
+• | Cloudera Data Warehouse. Cloudera Data Warehouse is a modern data warehouse that delivers an enterprise-grade, hybrid cloud solution designed for self-service analytics. It has the flexibility to optimize traditional data warehouses, and support data lake or data mart use cases. It is powerful, scalable and affordable—enabling organizations to share petabytes of data across thousands of users with the security, governance and availability that large enterprises demand.
+
+
+• | Cloudera Data Science and Engineering. Cloudera Data Science and Engineering enables users to streamline, simplify, and scale big data processing (ETL) regardless of where data is stored - on-premises, across public clouds, or both. It accelerates exploratory data science and machine learning models at scale by taking advantage of massive parallel compute and expanded data streams.
+
+
+• | Cloudera Operational DB. Cloudera Operational DB enables stream processing and real‑time analytics on
+
+6
+
+continuously changing data. It delivers a secure low latency, high-concurrency experience that processes more data, from more sources (including IoT), powered by HBase, a column-based NoSQL store for unstructured data, and Kudu, a relational store for structured data.
+
+• | Cloudera DataFlow (CDF). CDF is a scalable, real-time streaming data platform that collects, curates and analyzes data so customers gain key insights for immediate actionable intelligence. It meets the challenges faced with data-in-motion, such as real-time stream processing, data provenance and data ingestion from IoT devices and other sources. CDF supports secure and governed data ingestion, data transformation and content routing. CDF helps customers deliver a better customer experience, boost their operational efficiency and stay ahead of the competition across all their strategic digital initiatives.
+
+
+• | Hortonworks Data Platform (HDP). HDP is a scalable data management platform that helps organizations securely store, process and analyze any data asset. With HDP, organizations can easily build and deploy modern data architectures on-premises and in the cloud. It is an enterprise grade platform that provides all of the components necessary to manage large, multi-source data sets.
+
+
+• | Cloudera Data Science Workbench. Cloudera Data Science Workbench enables self-service data science for the enterprise. Data Science Workbench is a multi-user, multi-language development environment for data science and machine learning applications. It manages the various steps of the model development lifecycle including versioning, dependency management, scheduling, multi-user collaboration and training models on disparate types of compute.
+
+Other Technologies and Services
+We continue to innovate and develop new technologies and services to extend our market leadership for multi-function analytics and machine learning from the Edge to AI. These offerings include:
+
+• | Cloudera Altus. Cloudera Altus is our platform-as-a-service (PaaS) offering. Altus is a cloud service that simplifies the use of our platform by eliminating the need to install, manage and update our software. With Altus, we enable customers to address a new set of elastic and transient workloads that would otherwise be impractical to run in the datacenter.
+
+
+• | Cloudera Fast Forward Labs. Cloudera Fast Forward Labs delivers applied research in machine learning and artificial intelligence to our customers. Fast Forward Labs surveys academic and industrial research for developments in the field, enabling customers to benefit from advances in applied machine learning and artificial intelligence and is designed primarily to drive increased consumption of our software.
+
+
+• | Cloudera SDX. Cloudera SDX, shared data experience, enables common security, governance and metadata management for multiple analytics functions running against shared or overlapping sets of data. SDX allows customers to set policies and rules once and have them persist through any range of workloads without regard to where the job is run. This portability provides customers the freedom to run multiple analytics anywhere they want without public cloud lock-in or proprietary data formats. SDX makes building enterprise applications that require multi-function analytics less expensive to deploy and more secure.
+
+
+• | Cloudera Workload XM– Cloudera Workload XM is an analytic workload experience management cloud service. It provides enhanced visibility and actionability to efficiently migrate, analyze, optimize and scale analytic workloads ultimately resulting in reduced migration risk, faster troubleshooting and root cause analysis, greater uptime and higher resource utilization. Customers can quickly gain access to the performance of specific queries and jobs to ensure their highest priority workloads do not compete for resources with less essential queries. This enables more effective management of infrastructure for better utilization and overall infrastructure return on investment.
+
+
+• | Hortonworks DataPlane Service (DPS). DPS is a data fabric that enables businesses to discover, manage and govern their data spread across hybrid environments. DPS provides a single pane of glass so that businesses
+
+7
+
+can reliably access, discover, classify and process their data assets on-premises and in the cloud. DPS provides the foundation for modern workloads and applications. 
+
+• | Hortonworks Cybersecurity Platform (HCP) offers a single, comprehensive view of business risk through a security lens. HCP provides an accelerated path to a single view of relevant threat data and ways to address them, realized through specific data, analytical models and user interfaces to increase efficiency of security operations.
+
+Our Differentiation
+Cloudera empowers organizations to become data‑driven enterprises by maximizing the value of their most valuable asset - their data - to grow, connect and protect their business. Through our merger with Hortonworks, Cloudera is building the industry’s first enterprise data cloud, which will enable our customers to manage and analyze any data, anywhere, from the Edge to AI. Powered by the relentless innovation of the open source community, Cloudera advances digital transformation for the world’s largest enterprises. The key benefits and differentiators of our solution include: 
+
+• | Integrated analytics from the Edge to AI. We provide an integrated suite of multi-function analytics, operating on diverse sets of data. Addressing real-world business problems generally requires the application of multiple analytic functions working together on the same data. Examples include connected and autonomous vehicles, optimizing 5G mobile networks, anti-money laundering, fraud detection and risk modeling. We enable customers to run massively iterative algorithms, including machine learning algorithms, over large volumes of data, to support a diverse range of relational and non‑relational schemas and to express analytic workloads in multiple development and data science languages. These capabilities allow enterprises to identify trends in historical data, to recognize events in current or streaming data and to predict events in the future, continuously improving with experience
+
+
+• | Cloud and on-premises deployment at scale and across hybrid and multiple public cloud environments. Our platforms allow enterprises to manage both long‑lived and transient workloads across environments, mixing on‑premises and public cloud infrastructure, including all major public cloud vendors – Amazon Web Services, Microsoft Azure, Google Cloud Platform, IBM Cloud and Oracle Cloud. Customers can deploy, configure and monitor their clusters and workloads at scale from a centralized interface across these environments. We offer configurable monitoring, reporting robust troubleshooting to provide management of large, growing data sets and concurrent use cases.
+
+
+• | Enterprise-grade data security and governance. Our platform uses proprietary authentication, network isolation, user‑and role‑based permissions, access logging, auditing, lineage and encryption including sophisticated key management to provide comprehensive, enterprise‑grade data security across multiple analytic workloads. The native security features of our platforms require no additional third-party licenses, further reducing costs to customers. In addition, our platforms enable regulatory and industry‑specific compliance through comprehensive data governance, including data discovery, data lineage, metadata tagging and policy enforcement.
+
+
+• | Enable customers to leverage the latest open source innovation. Our platforms integrate the latest innovations in open source data management technology. We were the first data platform vendor to incorporate Spark, and have demonstrated continuous commitment to open source through our adoption of projects such as Solr, Kafka, Impala, Kudu, Hive and more. We enable customers to capitalize on the business value of the latest open source technologies through our integrated, secure and high‑performance platform.
+
+
+• | High performance scalability for low total cost of ownership. Our platform delivers performance improvements over legacy systems at lower cost. Using our software, customers can scale to hundreds of petabytes of data under management, and select the infrastructure environment‑ cloud and/or datacenter‑ that is most cost‑effective and appropriate for each use case.
+
+8
+
+
+• | Convenience of a cloud service. Cloudera Altus is our cloud platform-as-a-service (PaaS) offering. It is designed to simplify the use of our platform by eliminating the need to install, manage and update our software. With Altus, we enable customers to address a new set of elastic and transient workloads that would otherwise be impractical to run in the datacenter.
+
+Our Strategy
+Key elements of our strategy include:
+
+• | Leading the enterprise data cloud market. Having recently completed our merger with Hortonworks, we plan to combine our assets and technical expertise to deliver the industry’s first enterprise data cloud from the Edge to AI, providing a public cloud-like experience everywhere for data anywhere. Our enterprise data cloud will deliver the agility, elasticity and ease-of-use of public cloud infrastructure across private cloud, hybrid-cloud, multi-cloud and all major public clouds.
+
+
+• | Growing our addressable market by expanding our multi-function analytic offerings and the range of use cases our platform can support. We intend to introduce complementary technology and offerings as well as to develop our platform’s capabilities in order to support a wider range of data types, access patterns and use cases. 
+
+
+• | Extending our position as a leader in open source software for data management and analytics. We intend to continue to pioneer data-related open source software from the Edge to AI.
+
+
+• | Accelerating existing customer expansion; cross-selling complementary products. Our goal is to enable customers to access all available data and to extract greater value from it. We intend to broaden our relationships with existing customers by helping them identify new use cases, modernize their data architectures and gain more insight from their data. We also expect to sell Cloudera products to former Hortonworks customers and to sell Hortonworks products to former Cloudera customers. 
+
+
+• | Continuing to rapidly acquire new customers. We focus our go‑to‑market efforts on large enterprises; as well as large public sector organizations globally. We target these organizations because they capture and manage the majority of the world’s data and operate highly complex IT environments with use cases that require multiple analytic functions working together. 
+
+
+• | Leveraging our partner ecosystem. We intend to maintain strong engagement with our partner ecosystem to gain increased reach and greater distribution of our software, develop new applications, accelerate customer expansion and penetrate new markets.
+
+
+• | Showcasing a data‑driven business with our own operations. We use our own platform to capture, process and analyze information across our organization to improve our engineering, sales, support and finance functions. 
+
+
+• | Cultivating a passion for solving the world’s greatest challenges through data. We aim to create a culture and build passion among our employees, our partners and our customers for using data to solve the world’s biggest problems. 
+
+Customers
+We focus on the largest corporate enterprises and public sector organizations globally. These organizations are likely to realize the greatest value from utilizing our enterprise‑grade platform. As of January 31, 2019, we had more than 2,000 customers.
+No individual customer represented more than 10 percent of revenue in fiscal 2019, 2018 or 2017.
+Customer Support, Services and Education
+We have built a company culture that focuses on consistently delivering value for our customers and ensuring their success and satisfaction. We deliver exceptional support, professional services and training to ensure our 
+9
+
+customers get the most out of our technology. We offer technical assistance through our large and experienced global support organization. Built on powerful predictive analytics using our own technology, we proactively monitor our customers’ platforms to prevent issues before they arise, avoid common cluster misconfigurations, and suggest optimization based on similar cases at other customers. Our predictive analytics allow us to proactively initiate a substantial fraction of our support engagements for customers, before they realize that they have a problem themselves.
+In addition, our services organization provides expertise for adoption and optimization of our solutions. Our experienced solution architects, business value consultants and training professionals enhance the customer experience with personalized assistance, from implementation and best practices to education and online training. These services help our customers accelerate time to value, modernize their data architecture, and maximize insight from their data.
+We believe that we can further advance the clients’ goals through education. In addition to offering online training, we have trained thousands of individuals through January 31, 2019. Through the Cloudera Academic Program, we provide access to curriculum, software and training to colleges and universities to accelerate the adoption of the platform. 
+Sales and Marketing
+We primarily sell through our direct sales force, which comprises field and inside sales personnel and was organized by enterprise size and geography in fiscal 2018. Based on our experience and analysis of customer buying behavior, beginning in fiscal 2019, we have refined our sales methodology to include field personnel dedicated primarily to acquiring new customers and field personnel dedicated primarily to expanding our relationships with existing customers.
+Our sales force is supported by sales engineers with deep technical expertise and responsibility for pre‑sales technical support, solutions engineering for our end‑customers, and technical training for our channel and strategic partners.
+We generate customer leads, accelerate sales opportunities, and build brand awareness through our marketing programs and through our strategic partner relationships. Our marketing programs target both the C‑suite and the line of business owners, technology professionals and risk professionals, as well as software developers and data scientists. 
+Our principal marketing programs include:
+
+• | webinars, user conferences and events that we sponsor, such as Strata Data Conference;
+
+
+• | cooperative marketing efforts with partners; and
+
+
+• | use of our website.
+
+Partners and Strategic Alliances
+We believe that strong engagement with our partner ecosystem affords us increased reach and greater distribution of our software, enhancing our field organization’s efforts. We have developed a large partner network in order to facilitate the establishment of industry standards, ensure an open ecosystem for our customers, accelerate the adoption of our platform and extend our sales capabilities and coverage. Over 3,000 vendors – a variety of systems integrators, resellers, software and OEM partners, managed service providers, data systems vendors and cloud and platform vendors comprising have registered under our Cloudera Connect partner program to gain access to marketing, sales, training and support resources. 
+Our partners and strategic alliances include:
+
+• | Systems integrators and resellers. Hundreds of systems integrators offer professional services to create custom solutions built on our platform for their customers across a variety of industry verticals. Resellers offer our platform to their customers in combination with their products and services. 
+
+10
+
+
+• | Software and OEM partners. Our technology partners offer solutions designed to work with or built on our platform. Hundreds of certified solutions have been tested and validated to run on our platform. 
+
+
+• | Managed services and data systems vendors. We ensure that our platform is tested and made available by managed services providers and is interoperable with a variety of traditional data systems vendors. 
+
+
+• | Cloud and platform vendors. To ensure our customers can run our software in any environment, we nurture relationships with public cloud providers and other enterprise platforms to integrate and achieve the highest interoperability across architectures. 
+
+Intel Strategic Partnership
+In 2014, in connection with an equity investment in the company, we entered into a strategic collaboration and optimization agreement with Intel. This agreement was renewed and expanded in February 2018. Consistent with Intel’s data center, IoT, machine learning and artificial intelligence technology initiatives, the primary objective of the partnership is to ensure that our solutions deliver optimal performance and security with Intel processors and platform technology today and in the future. 
+Research and Development 
+Our research and development organization is responsible for the design and development of our solutions. We focus on developing new services and technologies and further enhancing the functionality, reliability and performance of our existing solutions.
+Competition
+We operate in an intensely competitive data management, analytics and machine learning market that is characterized by the constant development of new products and continued innovation, particularly in the open source community and among the major public cloud infrastructure providers. 
+Our main sources of current and potential competition fall into five categories:
+
+• | public cloud providers who include proprietary data management, machine learning and analytics offerings, such as Amazon Web Services, Google Cloud Platform and Microsoft Azure;
+
+
+• | legacy data management product providers such as HP, IBM, Oracle and Teradata;
+
+
+• | strategic and technology partners who may also offer our competitors’ technology or otherwise partner with them, including our strategic partners who provide Partner Solutions (see “Business—Partners and Strategic Alliances”) as they may offer a substantially similar solution based on a competitor’s technology;
+
+
+• | cloud-only data management companies and open source companies; and
+
+
+• | internal IT organizations that provide open source self‑support for their enterprises.
+
+As the market for data management, analytics and machine learning platforms continues to grow and offerings based on the open source data management ecosystem continue to gain traction, we expect more highly specialized vendors will enter the market or larger competitors will bundle solutions with their products more effectively. 
+The principal competitive factors in our market include: 
+
+• | ability to deploy in a variety of infrastructure environments, including hybrid and multi‑cloud capability;
+
+
+• | ability to identify and leverage innovative open source technologies;
+
+
+• | product price, functionality, and ease of use;
+
+
+• | enablement of machine learning and other advanced technologies;
+
+11
+
+
+• | enterprise‑grade performance and features such as scalability, security, cost of ownership and ease of deployment and use of applications;
+
+
+• | breadth, depth and quality of application functionality;
+
+
+• | domain expertise and understanding of customer requirements across verticals;
+
+
+• | ability to innovate and respond to customer needs rapidly;
+
+
+• | quality and responsiveness of services and support organizations and level of customer satisfaction;
+
+
+• | brand awareness and reputation;
+
+
+• | size of customer base and level of user adoption; and
+
+
+• | ability to integrate with legacy and other enterprise infrastructures and third‑party applications.
+
+We believe that we compete favorably on the basis of these factors. Our ability to remain competitive will largely depend on our ongoing performance in the areas of public cloud, hybrid cloud, multi-cloud and private cloud as well as industry adoption of enterprise data cloud technologies.
+Intellectual Property
+Intellectual property is an important aspect of our business, and we actively seek protection for our intellectual property as appropriate. To establish and protect our proprietary rights, we rely upon a combination of patent, copyright, trade secret and trademark laws and contractual restrictions such as confidentiality agreements, licenses and intellectual property assignment agreements. We maintain a policy requiring our employees, contractors, consultants and other third parties to enter into confidentiality and proprietary rights agreements to control access to our proprietary information. These laws, procedures and restrictions provide only limited protection, and any of our intellectual property rights may be challenged, invalidated, circumvented, infringed or misappropriated. Furthermore, the laws of certain countries do not protect proprietary rights to the same extent as the laws of the United States, and we therefore may be unable to protect our proprietary technology in certain jurisdictions. Moreover, our platform incorporates software components licensed to the general public under open source software licenses such as the Apache 2.0 Software License. We obtain many components from software developed and released by contributors to independent open source components of our platform. Open source licenses grant licensees broad permissions to use, copy, modify and redistribute our platform. As a result, open source development and licensing practices can limit the value of our software copyright assets. 
+As of January 31, 2019, we had been granted 36 U.S. patents and had 18 U.S. patent applications pending. Our patents expire between 2020 and 2036. We also had 10 issued patents and four patent applications pending in foreign jurisdictions. We continually review our development efforts to assess the existence and patentability of new intellectual property. We pursue the registration of our domain names, trademarks and service marks in the United States and in certain locations outside the United States. To protect our brand, we file trademark registrations in some jurisdictions
+Employees
+As of January 31, 2019, we had 2,947 full‑time employees. Of these employees, 1,697 are in the United States and 1,250 are in our international locations. None of our employees is represented by a labor union or covered by collective bargaining agreements. We have not experienced any work stoppages. We consider our relationship with our employees to be good.
+12
+
+Cloudera Foundation
+In January 2017, we established the Cloudera Foundation as an independent non‑profit organization and issued 1,175,063 shares of our common stock to it. In conjunction with the initial public offering, we contributed one percent of the net proceeds of our initial public offering, or $2.4 million, to fund the Cloudera Foundation. The Cloudera Foundation was created to use the power of data to improve the lives of people around the world. We believe that the Cloudera Foundation fosters employee morale, strengthens our community presence and provides increased brand visibility.
+Information about Geographic Revenue 
+Information about geographic revenue is described in Note 12, “Segment Information” in the notes to our consolidated financial statements.
+Corporate Information
+We were incorporated in the state of Delaware in June 2008. In January 2019, we completed a merger with Hortonworks, Inc, pursuant to which Hortonworks, Inc. became a subsidiary of Cloudera. Our principal executive offices are located at 395 Page Mill Road, Palo Alto, California 94306 and our telephone number is (650) 362‑0488. Our website address is www.cloudera.com. The information on, or that can be accessed through, our website is not part of this Annual Report on Form 10-K. Our common stock is listed on the New York Stock Exchange under the symbol “CLDR.”
+Unless the context indicates otherwise, the terms “Cloudera,” “the Company,” “we,” “us,” and “our” refer to Cloudera, Inc., a Delaware corporation, together with its consolidated subsidiaries, unless otherwise noted.
+ Cloudera, the Cloudera logo, and other registered or common law trade names, trademarks, or service marks of Cloudera appearing in this Annual Report on Form 10-K are the property of Cloudera. This Annual Report on Form 10-K contains additional trade names, trademarks and service marks of other companies that are the property of their respective owners. We do not intend our use or display of other companies’ trade names, trademarks or service marks to imply a relationship with us, or endorsement or sponsorship of us by these other companies. Solely for convenience, our trademarks and tradenames referred to in this Annual Report on Form 10-K appear without the ® and ™ symbols, but those references are not intended to indicate, in any way, that we will not assert, to the fullest extent under applicable law, our rights, or the right of the applicable licensor, to these trademarks and tradenames. 
+Available Information
+We file annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to reports filed or furnished pursuant to Sections 13(a), 14 and 15(d) of the Exchange Act. The SEC maintains a website at http://www.sec.gov that contains reports, proxy and information statements, and other information regarding us and other companies that file materials with the SEC electronically. Copies of our reports on Forms 10-K, Forms 10-Q, and Forms 8-K, may be obtained, free of charge, electronically through our corporate website at www.cloudera.com as soon as reasonably practicable after we file such material electronically with, or furnish to, the SEC.
+13
+

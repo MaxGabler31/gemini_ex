@@ -1,0 +1,315 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS
+Our Vision
+ Our fundamental belief is that identity is power. Our mission is to enable enterprises to grow and innovate, securely and efficiently. To do so, we have created our open identity platform that empowers users and governs their access to applications and data across complex, hybrid IT environments.
+Overview
+ SailPoint Technologies Holdings, Inc. (“SailPoint” or “the Company”) is the leading provider of enterprise identity governance solutions. Our team of visionary industry veterans launched SailPoint to empower our customers to efficiently and securely govern the digital identities of employees, contractors, business partners and other users, and manage their constantly changing access rights to enterprise applications and data. Our open identity platform provides organizations with critical visibility into who currently has access to which resources, who should have access to those resources, and how that access is being used. We offer both software and cloud-based software as a service solution, which provide organizations with the intelligence required to empower users and govern their access to systems, applications and data across hybrid IT environments, spanning on-premises, cloud and mobile applications and file storage platforms. We help customers enable their businesses with more agile and innovative IT, enhance their security posture and better meet compliance and regulatory requirements. Our customers include many of the world’s largest and most complex organizations, including commercial enterprises, educational institutions and governments.
+ Organizations globally are investing in technologies such as cloud computing and mobility to improve employee productivity, business agility and competitiveness. Today, enterprise environments are more open and interconnected with their business partners, contractors, vendors and customers. Business users have driven a dramatic increase in the number of applications and data that organizations need to manage, much of which sits beyond the traditional network perimeter. Because of these trends, the attack surface is expanding while well-funded cyber attackers have significantly increased the frequency and sophistication of their attacks. As a result, IT professionals need to manage and secure increasingly complex hybrid IT environments within these extended enterprises.
+ Attackers frequently target the identity vector as it allows them to leverage user identities to gain access to high-value systems and data while concealing their activity and movements within an organization’s IT infrastructure. The consequences of a data breach can be extremely damaging, with organizations facing significant costs to remediate the breach and repair brand and reputational damage. In addition, governments and regulatory bodies have increased efforts to protect users and their data with a new wave of regulatory and compliance measures that are further burdening organizations and levying severe penalties for non-compliance. As a result of these trends, enterprises are struggling to efficiently manage and secure their digital identities.
+ We believe that our open identity platform is a critical, foundational layer of a modern cyber security strategy that complements and builds upon traditional perimeter- and endpoint-centric security solutions, which on their own are increasingly insufficient to secure organizations, and their applications and data. We deliver a user-centric security platform that combines identity and data governance solutions to form a holistic view of the enterprise. In combination with our technology partners, we create identity awareness throughout our customers’ environments by providing valuable insights into, and incorporating information from, a broad range of enterprise software and security solutions. Our governance platform provides a system of record for digital identities across our customers’ IT environments while allowing them to remain agile and competitive. Our adaptable solutions integrate seamlessly into existing technology stacks, allowing organizations to maximize the value of their technology investments. Our professionals work closely with customers throughout the implementation lifecycle, from documentation to development to integration.
+ Our solutions address the complex needs of global enterprises and mid-market organizations. Our go-to-market strategy consists of both direct sales and indirect sales through resellers, such as Optiv, and system integrators. Our mature system integrator channel includes global consultants such as Accenture, Deloitte, KPMG and PricewaterhouseCoopers (“PwC”), all of whom have dedicated SailPoint practices, with some dating back more than 8 years, and we most recently added Ernst & Young (“EY”). As of December 31, 2018, 1,173 customers across a wide variety of industries were using our products to enable and secure digital identities across the globe.
+ 3
+
+
+Our Growth Strategy
+ Key investments we are making to drive growth include:
+  
+• | Driving new customer growth within existing geographic markets. Based on data from S&P Global Market Intelligence, we believe we have penetrated less than 2% of over 65,000 companies in the countries where we have customers today. As a result, there is a significant opportunity to expand our footprint through both new, greenfield installations and displacement of competitive legacy solutions. We plan to expand our customer base in these countries by continuing to grow our sales organization, expand and leverage our channel partnerships and enhance our marketing efforts.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Continuing to expand our global presence. We believe there is a significant opportunity to grow our business internationally. Enterprises around the world are facing similar operational, security and compliance challenges, driving the need for identity governance. We have personnel in 24 countries and customers in over 45 countries as of December 31, 2018 and we generated 31% of our revenue outside of the United States in 2018. We plan to leverage our existing strong relationships with global system integrators and channel partners to grow our presence in Europe, Asia Pacific and other international markets.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Further penetrating our existing customer base. Our customer base of 1,173, as of December 31, 2018, provides a significant opportunity to drive incremental sales. Our customers have the flexibility to start with a single use case or project and expand over time. As they realize the value of their investment, new use cases and deployments are identified, allowing us to sell more products to existing customers and to expand the number of identities and governed systems we cover within their organizations. This is especially true when it comes to expanding the footprint of identity governance to cover file storage platforms and new types of non-human identities which need to be managed as part of a comprehensive approach. We believe strong customer satisfaction is fundamental to our ability to expand our customer relationships.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Expanding market and product investment across new and existing vertical markets. We believe there is significant opportunity to further penetrate our target vertical markets by providing vertical-specific identity solutions and focusing our marketing efforts to address the use cases of those customers. With this approach, we believe we will be better able to address opportunities in key industries, such as financial services, healthcare, and federal, state and local government.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Leveraging and expanding our network of partners. Our partnerships with global system integrators, such as Accenture, Deloitte, KPMG, PwC, and we most recently added EY, resellers, such as Optiv, have helped us extend our reach and serve our customers more effectively. We see a significant opportunity to offer comprehensive solutions to customers by collaborating with adjacent technology vendors. For example, we collaborate with leading access management vendors by adding our identity governance capabilities to their access management services. We intend to continue to invest in our partnership network as their influence on our sales is vital to the success of our business.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Continuing to invest in our platform. Innovation is a core part of our culture. We believe we have established a reputation as a technology leader and innovator in identity governance. In 2018, we enhanced IdentityIQ to govern “bot” access as part of helping organizations take a comprehensive approach to identity governance. IdentityNow launched a new Dynamic Discovery Engine to power governance controls such as separation-of-duty policy administration and access certifications. Another important area of innovation in 2018 was a new adaptive connectivity architecture in SecurityIQ (now IdentityIQ File Access Manager). As the amount of data stored in files increases at an exponential rate, SailPoint re-architected the connectivity framework to handle the increased performance requirements in large enterprise storage environments. As we have done in the past, we intend to continue investing to extend our position as the leader in identity governance by developing or acquiring new products and technologies.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Product, Subscription, and Support Offerings
+ We deliver an integrated set of products to address identity governance challenges for medium and large enterprises. This set of products supports all aspects of identity governance including provisioning, access request, compliance controls, password management and identity analytics for data stored in applications and files.
+ 4
+
+
+Our products deliver governance across the hybrid enterprise, extending from the mainframe to the cloud. We provide over 100 out-of-the-box connectors to enterprise applications such as SAP and Workday, which automate the collection, analysis and provisioning of identity data. We also provide governance over infrastructure components such as operating systems, directories, and databases and over vertical solutions, such as Epic, in the healthcare provider market.
+ Our solutions are built on our open identity platform which enables connectivity to a variety of security and operational IT applications such as access management (e.g., Microsoft, Okta and VMware), IT service management solutions (e.g., BMC Remedy and ServiceNow), privileged access management (e.g., CyberArk, BeyondTrust), enterprise mobility management (EMM), and security information and event management (SIEM). Our open identity platform extends the reach of our identity governance processes across customer environments and collects additional information to improve the application of identity governance controls.
+ IdentityIQ
+ IdentityIQ is our on-premises identity governance solution. It provides large, complex enterprise customers a unified and highly configurable identity governance solution that consistently applies business and security policies as well as role and risk models across applications and data on-premises or hosted in the cloud. IdentityIQ enables organizations to:
+  
+• | Empower users to request and gain access to enterprise applications and data;
+--+------------------------------------------------------------------------------
+
+
+• | Automate provisioning across the user lifecycle, from on-boarding, to transfers and promotions to off-boarding by simplifying processes for creating, modifying and revoking access;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Enable business users to reset their passwords via self-service tools without the need for IT involvement;
+--+-----------------------------------------------------------------------------------------------------------
+
+
+• | Provide on-demand visibility to IT, business and risk managers into “who has access to what resources” to help make business decisions, improve security and meet audit requirements;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Improve security and eliminate common weak points associated with data breaches, including weak passwords, orphaned accounts, entitlement creep and separation-of-duties policy violations; and
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Manage compliance using automated access certifications and policy management.
+--+-------------------------------------------------------------------------------
+
+ We package and price IdentityIQ into three components: Governance Platform, Core Modules, and Advanced Integration Modules. The Governance Platform provides the base features of the solution, including the identity warehouse, workflow engine, and governance models. The four Core Modules include: 
+  
+• | Lifecycle Manager: This module provides a business-oriented solution that delivers access securely and cost effectively. The self-service access request capabilities feature an intuitive user interface that empowers business users to take an active role in managing changes to their access while greatly reducing the burden on IT organizations. Automated provisioning manages the business processes of granting, modifying and revoking access throughout a user’s lifecycle with an organization, whether that user is an employee, contractor or business partner. Changes to user access can be automatically provisioned via a large library of direct connectors for applications such as Workday and SAP or synchronized with IT service management solutions such as ServiceNow.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Compliance Manager: This module enables the business to improve compliance and audit performance while lowering costs. It provides business user friendly access certifications and automated policy management controls (e.g., separation-of-duty violation reporting) that are designed to simplify and streamline audit processes across all applications and data. Built-in audit reporting and analytics give IT, business and audit teams visibility into, and management over, all compliance activities in the organization.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 5
+
+
+ 
+• | File Access Manager: This module, a rebranded and repackaged version of the SecurityIQ product line, secures access to the growing amount of data stored in file servers, collaboration portals, mailboxes and cloud storage systems. The change was made to align the positioning and packaging of solutions with how our customers are purchasing and deploying a comprehensive identity governance strategy. It helps organizations identify where sensitive data resides, who has access to it, and how they are using it and then puts effective controls in place to secure it. File Access Manager is designed to interoperate with the Compliance Manager and Lifecycle Manager modules to provide comprehensive visibility and governance over user access to all data. By augmenting identity data from structured systems with data from unstructured data targets, organizations can more quickly identify and mitigate risks, spot compliance issues and make the right decisions when granting or revoking access to sensitive data.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Password Manager: This module delivers a simple-to-use solution for managing user passwords to reduce operational costs and boost productivity. End users are empowered with a self-service interface for updating or resetting their password without having to contact the help desk. Configurable strong password policies enforce consistent security controls across on-premises and cloud applications. Password Manager has the capability to synchronize password changes across multiple applications, so they always remain consistent.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ The Advanced Integration Modules provide connectivity to target application platforms such as SAP, mainframes, AWS and file storage systems.
+ IdentityNow
+IdentityNow is our cloud-based, multi-tenant identity governance platform, which is delivered as a subscription service. IdentityNow provides customers with a set of fully-integrated services for compliance, provisioning and password management for applications and data hosted on-premises or in the cloud. IdentityNow meets the most stringent identity governance requirements and provides enterprise-grade services that meet scalability, performance, availability and security demands. IdentityNow provides the same benefits as IdentityIQ, but additionally enables organizations to: 
+  
+• | Automate identity governance processes in one unified solution delivered from the cloud;
+--+-----------------------------------------------------------------------------------------
+
+
+• | Accelerate deployment with built-in best practice policies, options and default settings; and
+--+----------------------------------------------------------------------------------------------
+
+
+• | Eliminate the need to buy, deploy and maintain hardware and software to run an identity governance solution.
+--+-------------------------------------------------------------------------------------------------------------
+
+ We package and price IdentityNow into a Cloud Platform and Governance Services with unique functionality as outlined below: 
+  
+• | Cloud Platform: IdentityNow provides foundational components for identity governance in the cloud, including production and sandbox instances and the IdentityNow Cloud Gateway virtual appliance, which leverages our patented method for integrating with on-premises applications and data. IdentityNow also includes a large catalog of pre-built connectors and application profiles to on-premises and cloud applications, leveraging the intellectual property developed for IdentityIQ.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | User Provisioning: This module enables business users to be productive from day one. With IdentityNow user provisioning, organizations can streamline the on-boarding and off-boarding process with best practice configurations and workflows, enabling IT to immediately grant employees access to the applications and data they need to do their jobs.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Access Request: This module empowers the entire enterprise with a robust self-service solution for requesting and approving access to applications and data. Automating the access request process quickly delivers business users the access they need to do their jobs.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Access Certifications: This module automates the process of reviewing user access privileges across the organization. Using IdentityNow, organizations can quickly plan, schedule and execute certification campaigns to ensure the right users have the appropriate access to corporate resources.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 6
+
+
+ 
+• | Separation-of-Duties: This module simplifies and speeds the process of investigating access, quickly uncovering any access-related conflicts of interest for review and mitigation. It also automates the creation of policies that ensure continuous compliance with internal and external audit requirements.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Password Management: This module offers business users an intuitive, self-service experience for managing and resetting passwords from any device and from anywhere. This service enforces consistent and secure password policies for all users across all systems from the cloud to the data center.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ In addition, we offer the IdentityIQ File Access Manager Module, and its supporting Advanced Integration Modules for file storage systems as a stand-alone add-on solution with IdentityNow.
+ IdentityAI 
+ IdentityAI is designed to complement our IdentityIQ and IdentityNow solutions to help organizations detect areas of high risk, including potential threats, before they turn into security breaches. IdentityAI consolidates identity data from IdentityIQ and IdentityNow, including account and entitlement assignments, with real-time activity in its big data platform. It then applies machine learning technologies to identify suspicious or anomalous behaviors. As a result, we believe customers will gain a much deeper understanding of the risk associated with user access, allowing them to focus their governance controls to reduce that risk. We are continuing development of IdentityAI to enable organizations to: 
+  
+• | Scan massive amounts of identity data to identify risks without having to rely on a team of security experts;
+--+--------------------------------------------------------------------------------------------------------------
+
+
+• | Detect and alert on anomalous behaviors and potential threats using artificial intelligence technology;
+--+--------------------------------------------------------------------------------------------------------
+
+
+• | Classify behavioral threats and focus controls on high-risk scenarios and conditions; and
+--+------------------------------------------------------------------------------------------
+
+
+• | Improve operational efficiency of the IT organization and business productivity by automating identity governance activities for routine and low-risk access.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ We are continuing to develop IdentityAI to provide the following core capabilities: 
+  
+• | Audit: IdentityAI tracks user access over time to determine historical patterns for individual digital identities. This allows for the system to quickly identify abnormal user access or activity patterns.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Peer Group Analysis: IdentityAI dynamically builds peer groups based on user attributes and access patterns. Peer group analysis is then used to identify outliers which may pose additional risk due to out-of-band or exceptional access privileges.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Behavioral Analysis: IdentityAI monitors user behaviors, including access requests and approvals and application access events, at individual and peer group levels to baseline normal patterns and alert when anomalies are detected.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Risk Assessment: IdentityAI leverages machine learning algorithms to create a dynamic risk model that automatically evolves as data changes. Real-time risk analysis is used to identify potential threats and tune identity controls to focus on high-risk users and events while deprioritizing low-risk activities.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Technology 
+ Our comprehensive, enterprise-grade identity governance platform is the result of both years of investment and the expertise of the company’s management and technical teams. Taking the lessons learned from our experiences with prior generation identity solutions, our engineers and architects designed a modern identity platform with internet scale, comprehensive hybrid environment coverage, and openness to optimize customers’ existing technology investments.
+ 7
+
+
+Identity Cube Technology
+ Our Identity Cube technology establishes the 360-degree control essential to govern and secure digital identities in today’s complex IT environments. Our extensive data modeling capabilities allow us to understand how each identity relates to the full IT environment, whether on-premises or in the cloud. SailPoint’s account correlation and orphan account management capabilities allow IT security professionals and business managers to track and monitor the accounts that are most frequently under attack.
+ Identity Cubes track all relevant information about an identity and its relationships to applications and data. They create the “identity context” which is key to an identity-aware infrastructure in which identity information is shared across the extended enterprise. With identity context, operational and security systems can make informed decisions about access and perform key remediation and change requests on our open identity platform via our standardized application program interfaces (“APIs”) and software development kits (“SDKs”).
+ Model-Based Governance
+Our model-based governance engine sits at the center of our platform and provides a comprehensive understanding of both the current state of who currently has access to what as well as the desired state of who should have access to what. The governance engine is responsible for managing the ongoing process of aligning these two states.
+ Governance and control models are used to drive our policy-based reconciliation service and to define how reconciliation and provisioning fulfillment actions are executed. These models are designed with graphical tools, enabling IT and business users to own and define the reconciliation and fine-grained access provisioning fulfillment processes for applications and data.
+ Dynamic Discovery Engine
+ The Dynamic Discovery Engine provides instant visibility to all applications and users across an organization and its IT systems. It works by enabling users to use natural language search to quickly find access-related information or identify potential risks in their environments. Searches can be saved for future use or quickly turned into automated governance policies for use in provisioning, access request, certification, and password management processes. In addition, an API framework is provided to enable machine queries of filtered identity data from external systems.
+ Provisioning Broker
+Our provisioning broker provides separation between identity processes at the business level (e.g., requesting access to an application) and the actual fulfillment of that request on the target system. The provisioning broker is a specialized business process workflow execution engine that manages long-running provisioning tasks and provides tracking, monitoring and statistics for the end-to-end fulfillment process.
+ The decoupling capability of the provisioning broker maximizes our customers’ flexibility and allows for the reuse of their existing IT investments. For example, if access to an application can only be provided manually through the opening of a help desk ticket, the provisioning broker will send that request to the help desk and report back on the status of that request. Likewise, if a customer utilizes a legacy provisioning system, the provisioning broker can pass off a request to that legacy system for fulfillment. In addition, the provisioning broker provides us with a unique migration strategy for customers moving from a legacy system to our identity governance solutions.
+ Enterprise-Grade Cloud Gateway
+To manage on-premises infrastructure, applications and data from the cloud, we employ a Cloud Gateway Server (“CGS”), delivered as virtual machine behind the customer’s firewall, which ensures that all SailPoint communications are highly secure. Our CGS technology is a high availability, secure, self-managed container that allows for controlled and automated updates of our connector infrastructure while ensuring the integrity of individual on-premises and cloud connections.
+ 8
+
+
+Our CGS also provides an innovative and patented approach to protecting our customer’s credentials. Our “zero-knowledge encryption” technology allows us to store all of a customer’s passwords and security credentials inside the CGS behind their firewall. As a result, we protect the confidentiality of our customers’ system and end-user credentials, even if our cloud service provider were to be breached.
+ Data Ownership Assessment and Election
+ Verifying the business end-user who is the logical owner of information is a key challenge in managing growing volumes of unstructured data in the enterprise. We have developed a patent-pending approach to determine the rightful owner of files, so they can be integrated into governance control processes, such as access certifications and access approvals. Our solution leverages profile data to determine logical owners of information based on identity attributes and usage data. Once a set of logical owners is identified, we use a crowd-sourcing approach to allow other users familiar with the data to vote on the rightful owner of the file or file storage location. This enables organizations to efficiently identify and designate specific owners for sensitive information stored in files and incorporate them into identity governance processes.
+ Connectivity for the Hybrid IT Environment
+Our extensive library of over 100 proprietary connectors provides interfaces to on-premises and cloud applications. These connectors are the means by which we provide governance over target systems. We support granular management of a wide range of systems, from mainframe security managers, including CA ACF2 and Top Secret, IBM and RACF, to traditional enterprise applications, including Oracle E-Business Suite and SAP, and pure SaaS business applications, such as Microsoft Office365, Salesforce and ServiceNow. The same connectors are used for both our on-premises and cloud-based products. This allows both solutions to leverage fully the over 400-man years we have invested in developing these connectors.
+ Open and Extensible Identity Platform
+Our open identity platform is the result of over a decade of investment. Recognizing identity governance is at the center of critical enterprise business and IT processes, we developed a comprehensive set of services that go beyond simple APIs. In addition to our comprehensive API strategy, we deliver SDKs and plug-in frameworks which allow our partners and customers to create their own integrations and extensions to our core product capabilities. For example, we leverage our open identity platform to integrate with third-party user provisioning solutions, such as IBM Security Identity Manager and Oracle Identity Manager, and service desk solutions, such as BMC Remedy and ServiceNow, to implement account change requests. This enables SailPoint to govern access and provide identity context to downstream processes managed by these solutions. Another important open identity platform integration model is with privileged access management solutions (“PAM”). SailPoint provides a framework that enables organizations to use the same governance controls to oversee both privileged and standard account access.  We also collect activity and other information from third-party solutions to improve risk analytics and identity governance processes in our products, specifically in IdentityAI.
+ Our APIs and SDKs are compliant with System for Cross-domain Identity Management (“SCIM”) and both provide standards-based bi-directional runtime access to our identity context model. Many such integrations and extensions have already been built by partners and certified for commercialization on our open identity platform.
+ 
+Seasonality
+ 
+We generally experience seasonal fluctuations in demand for our products and services. Our quarterly sales are impacted by industry buying patterns. As a result, our sales have generally been highest in the fourth quarter of a calendar year and lowest in the first quarter.
+Customers
+ As of December 31, 2018, we have 1,173 customers in over 45 countries. In the years ended December 31, 2018, 2017 and 2016, we generated 31%, 28% and 30%, respectively, of our revenue outside of the United States. No single customer represented more than 10% of our revenue for the years ended December 31, 2018, 2017 and 2016.
+ 9
+
+
+Sales and Marketing 
+ Sales
+ We sell our platform through our direct sales organization, which is comprised of field and inside sales personnel, as well as through channel partners. Our sales strategy relies on a “land-and-expand” business model, in which our initial deployment with a new customer typically addresses a limited number of use cases within a single business unit. Such initial deployments frequently expand across departments, divisions and geographies through a need for additional users, increased usage or extended functionality. As we expand our portfolio of solutions within our platform, we execute a growing number of “combination” deals that include two to three of our products in the initial transaction.
+ Our sales force is structured by geography, customer size, status (customer or prospect) and industry. By focusing some of our sales representatives on the specific needs of vertical industries, we have been able to drive significant results and establish ourselves as the identity governance leader for that industry. Our global sales organization is comprised of quota-carrying sales representatives supported by sales development representatives, sales engineers, partner managers, product and technical specialists and architects.
+ Partners constitute an essential part of our selling model. We have established a model designed to create zero conflict, and typically include our partners in all of our training and enablement efforts, including our annual sales kick-off events. As a result, our indirect sales model, executed through our global and regional system integrators, technology partners and value-added resellers, is a key factor in our overall success.
+ Marketing
+ Our marketing strategy is focused on building a strong brand through differentiated messaging and thought leadership, educating the market on the importance of identity, communicating our product advantages and generating pipeline for our sales force. Our data-driven approach to marketing is tightly aligned to our sales and channel strategy and provides agility to leverage market opportunities as they arise. Our awareness efforts focus on branding, digital and content marketing, public and analyst relations and social media, including blogs and bylines. Educational and pipeline maturation programs include global email campaigns and webinars, security events and customers round tables. Pipeline generation and maturation efforts focus on local events in our three major geographies: (i) Americas, (ii) Europe, the Middle East and Africa (“EMEA”) and (iii) Asia-Pacific (APAC). Audiences for such events are typically IT and security professionals, including CIOs and CISOs. We host geographic annual user conferences that bring together customers, prospects and our partners to learn about our platform as well as network and share best practices with each other. Our user conferences demonstrate our strong commitment to enabling our customers to succeed, while also serving as an opportunity to create pipeline for new sales to prospective customers and additional sales to existing customers.
+ Professional Services and Maintenance and Customer Support
+Professional Services 
+ We are primarily focused on ensuring that our professional services partners, who perform a majority of the implementations for our customers, are able to implement our solutions successfully. We provide “expert services” to partners and customers, including deployment best practices, architecture and code reviews, real time technical training, and complex implementation assistance. We provide instructor-led courses, self-paced e-learning and on-site training. We expect the use of SailPoint University, our e-learning service introduced in 2016, to grow at an accelerated pace in the coming years, making it more accessible for customers and partners to get trained on our products. We also lead direct implementations when requested by a customer. We believe our investment in professional services, as well as the investment our partners are making to grow their SailPoint professional services practices, will drive increased adoption of our platform.
+ 10
+
+
+Maintenance and Customer Support
+Our customers receive one year of software maintenance as part of their initial purchase of our on-premises solutions and may renew their maintenance agreement following the initial period. Our cloud-based solutions include customer support. For our on-premises solutions, our maintenance provides customers with the right to receive major releases of their purchased solutions, maintenance releases and patches and access to our technical support services during the term of the agreement. We provide our cloud-based solutions customers with technical support services and all aspects of infrastructure support. We maintain a customer support organization, which includes experienced, trained engineers, that offers multiple service levels for our customers based on their needs. These customers receive contractual response times, telephonic support and access to online support portals. Our highest levels of support provide 24x7x365 support for critical issues. Our customer support organization has global capabilities, a deep expertise in our solutions and, through select support partners, is able to deliver support in multiple languages.
+ Customer Success Management
+Our customer success strategy centers around our investment in, and ownership of, the post-sale experience for our customers. Every customer has a dedicated Customer Success Manager (“CSM”), who is responsible for ensuring that return on investment and business results, committed during the sales cycle, are achieved. Through proactive and regular engagements, the CSM makes sure every customer is satisfied and is using their SailPoint products or services optimally. When necessary, the CSM coordinates cross-departmental resources to remove any barrier to success. In addition, our customer success team utilizes customer data to identify and present any cross-sell or upsell solutions aligned to a customer’s business objectives, thereby contributing to revenue expansion and increased product penetration. By proactively managing customer relationships, our CSM team nurtures client advocates, who become a powerful asset in closing new business.
+Partnerships and Strategic Relationships
+ As a core part of our strategy, we have cultivated strong relationships with partners to help us increase our reach and influence, while providing a broader distribution of our software platform. We have developed a large partner network consisting of technology partners, system integrators, a growing network of value-added resellers and our alliance partners (Accenture, Deloitte, KPMG, PwC and most recently EY). In 2018, over 80% of our new customer transactions involved our partners. We believe that our extensive partnership network enables us to provide the most complete identity governance solution to our customers. 
+Technology Partners 
+ We have partnered with industry leaders across a spectrum of technologies that enable organizations to integrate their entire security, mobility, cloud, and applications infrastructure into our platform so that breaches can be better identified, mitigated and contained, and operations can be streamlined. We believe that solutions from companies such as AWS, CyberArk, Microsoft, Okta, SAP, ServiceNow, VMware and Workday that are plugged into our open identity platform through APIs provide our customers value-added capabilities to build an identity-aware enterprise.
+ Value-Added Resellers 
+ Value-added resellers bring product expertise and implementation best practices to our customers globally. They provide vertical expertise and technical advice in addition to reselling or bundling our software. All of our reseller partners have been trained to demonstrate and promote our identity platform. Our reseller channel ranges from large companies, like Optiv to regional resellers in our markets and territories. Our reseller program is designed to scale growth, help generate new opportunities, optimize customer experience and increase profitability as well as sales efficiency.
+ 11
+
+
+System Integrators
+We partner with many large and global system integrators. We have partnerships with global advisory firms such as Deloitte, KPMG, PwC, and most recently EY, with global system integrators such as Accenture and DXC, and with many regional system integrators in all three of our geographies. The focus of our system integrators program is to deliver pipeline growth and bookings, to help partners drive self-sufficiency and to foster transparency and collaboration through shared assets and resources. We have implemented joint business controls and metrics that provide a platform for discussion and partnership development and help us optimize our program and unified value proposition.
+Identity+ Alliance 
+ The SailPoint Identity+ Alliance is a technology partnering network that leverages familiar standards and methods—like SQL, SCIM and Representational State Transfer (“REST”)—that make it easy to share identity context and configure identity-specific policies across disparate systems. For example, when Privileged Account Management (PAM) systems are integrated with our solutions, enterprises can conduct regular audits of privileged users and automatically remediate any policy violations. Program offerings include access to SailPoint SDKs and APIs, developer support, and cloud-based certification services. After three years, the Identity+ Alliance comprises over fifty technology and implementation partners and has produced over thirty certified integrations.
+Research and Development
+ Innovation is one of our core values, and it is at the heart of how we think and do business. We believe ongoing and timely development of new products and features is imperative to maintaining our competitive position. We continue to invest in both our cloud and on-premises solutions across our global innovation centers in Austin, Texas, Pune, India and Tel Aviv, Israel. Additionally, we have made significant investment in our connectors business, which is a key enabler to our open identity platform. As of December 31, 2018, our research and development team had 291 employees. 
+ As part of our relentless drive toward innovation and technical market leadership, we created SailPoint Labs in 2011. SailPoint Labs is a dedicated, stand-alone technology investigation and engineering group that sits outside of the company’s core product development and delivery teams. The Labs team has two specific charters: Labs Research, which is focused on forward-looking technology prototyping, and targets mid-to-long term product enhancements and new service offerings; and Labs Runtime, which is focused on performance and scalability testing and ensuring that we deliver the best possible solutions. Examples of Labs Research prototypes that went into production are our plugin framework, our AD password recovery technology and our recent Privileged Account Management Integration module. In addition, the Labs Research team co-authored the SCIM open standard, which provides for an automated exchange of user identity information between identity domains, or IT systems. The Labs Runtime team is responsible for developing and continually advancing the performance and scalability of our products and solutions by establishing benchmarks and best practices for high-performance and extreme scalability scenarios.
+ Competition
+ We operate in a highly competitive market characterized by constant change and innovation. Our competitors include large enterprise software vendors such as CA Technologies, IBM and Oracle and pure-play data access governance vendors. Several vendors have either introduced new products or incorporated features into existing products that compete with our solutions. 
+ We believe the principal competitive factors in our market include:
+  
+• | Reliability and effectiveness in implementing identity governance policies;
+--+----------------------------------------------------------------------------
+
+
+• | Comprehensiveness of visibility provided by implemented identity governance policies;
+--+--------------------------------------------------------------------------------------
+
+
+• | Flexibility to deploy identity governance and administration as a software-based solution on-premises or in the cloud or as a SaaS solution;
+--+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Adherence to government and industry regulations and standards;
+--+----------------------------------------------------------------
+
+ 12
+
+
+ 
+• | Comprehensiveness and interoperability of the solution with other IT and security applications;
+--+------------------------------------------------------------------------------------------------
+
+
+• | Security, scalability and performance;
+--+---------------------------------------
+
+
+• | Ability to innovate and respond to customer needs rapidly;
+--+-----------------------------------------------------------
+
+
+• | Quality and responsiveness of support organizations;
+--+-----------------------------------------------------
+
+
+• | Total cost of ownership;
+--+-------------------------
+
+
+• | Ease of use; and
+--+-----------------
+
+
+• | Customer experience.
+--+---------------------
+
+ Some of our competitors have significantly greater financial, technical, and sales and marketing resources, as well as greater name recognition and more extensive geographic presence than we do. However, we believe we compete favorably with our competitors on the basis of all the factors above.
+ Intellectual Property
+ Our success depends in part on our ability to protect our intellectual property. We rely on copyrights and trade secret laws, confidentiality procedures, employment proprietary information and inventions assignment agreements, trademarks and patents to protect our intellectual property rights. We also license software from third parties for integration into our product solutions, including open source software and other software available on commercially reasonable terms.
+ We control access to and use of our product solutions and other confidential information through the use of internal and external controls, including contractual protections with employees, contractors, customers and partners, and our software is protected by U.S. and international copyright and trade secret laws. Despite our efforts to protect our trade secrets and proprietary rights through intellectual property rights, licenses and confidentiality agreements, unauthorized parties may still copy or otherwise obtain and use our software and technology.
+ We have twenty issued patents and seven patent applications pending in the United States relating to certain aspects of our technology. The expiration dates of our issued patents range from 2024 to 2036. We cannot assure you whether any of our patent applications will result in the issuance of a patent or whether the examination process will require us to narrow our claims. Any of our existing patents and any that may issue may be contested, circumvented, found unenforceable or invalidated, and we may not be able to prevent third parties from infringing them. In addition, we have international operations and intend to continue to expand these operations, and effective patent, copyright, trademark and trade secret protection may not be available or may be limited in foreign countries.
+ Legal Proceedings
+We are not currently a party to any material legal proceedings. We are not aware of any inquiries or investigations into our business.
+ Employees
+As of December 31, 2018, we had a total of 1,003 employees, including 291 involved in research and development activities, 346 in our sales and marketing organization, and 243 in professional services and customer support. As of December 31, 2017, we had a total of 806 employees, including 244 involved in research and development activities, 264 in our sales and marketing organization, and 211 in professional services and customer support. As of December 31, 2018, and 2017, respectively, approximately 32% and 33% of our employees were located outside of the United States. We consider our employee relations to be good.
+ 13
+
+
+Corporate Information
+ SailPoint Technologies Holdings, Inc. was incorporated in the state of Delaware on August 8, 2014, in preparation for the purchase of SailPoint Technologies, Inc. The purchase occurred on September 8, 2014 and our certificate of incorporation was amended and restated as of such date. SailPoint Technologies, Inc. was formed July 14, 2004 as a Delaware corporation.
+ Our principal executive offices are located at 11120 Four Points Drive, Suite 100, Austin, Texas 78726, and our telephone number at that address is (512) 346-2000. Our website address is www.sailpoint.com. Information contained on, or that can be accessed through, our website does not constitute part of this Annual Report on Form 10-K, and inclusions of our website address in this Annual Report on Form 10-K are inactive textual references only.
+ The SailPoint design logo and our other registered or common law trademarks, service marks or trade names appearing in this Annual Report on Form 10-K are the property of SailPoint Technologies, Inc., our wholly owned subsidiary. Other trademarks and trade names referred to in this Annual Report on Form 10-K are the property of their respective owners.
+ Available Information
+ Our website is located at https://www.sailpoint.com, and our investor relations website is located at https://investors.sailpoint.com. The information posted on our website is not incorporated into this Annual Report on Form 10-K. Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934 (the “Exchange Act”) are available free of charge on our investor relations website as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. You may also access all of our public filings through the SEC’s website at https://www.sec.gov. 
+ Investors and other interested parties should note that we use our media and investor relations website and our social media channels to publish important information about us, including information that may be deemed material to investors. We encourage investors and other interested parties to review the information we may publish through our media and investor relations website and the social media channels listed on our media and investor relations website, in addition to our SEC filings, press releases, conference calls and webcasts.
+ 14
+
+

@@ -1,0 +1,408 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1.  Business
+Overview
+ 
+Progenics Pharmaceuticals, Inc. is a Delaware corporation that was incorporated on December 1, 1986. Progenics Pharmaceuticals, Inc. (and its subsidiaries collectively the “Company,” “Progenics”, “we”, or “us”) is an oncology company focused on the development and commercialization of innovative targeted medicines and artificial intelligence to find, fight and follow cancer. Highlights of our recent progress include the approval, launch and manufacturing of AZEDRA®. Our pipeline includes therapeutic agents designed to precisely target cancer (1095 and PSMA TTC), as well as a prostate-specific membrane antigen (“PSMA”) targeted imaging agent for prostate cancer (PyLTM).
+ 
+Recent Progress:
+ 
+
+● | AZEDRA® Approval. On July 30, 2018, the U.S. Food and Drug Administration (“FDA”) approved the New Drug Application (“NDA”) for AZEDRA (iobenguane I 131) 555 MBq/mL injection for intravenous use. AZEDRA, which is a registered trademark, is a radiotherapeutic that is indicated for the treatment of adult and pediatric patients 12 years and older with iobenguane scan positive, unresectable, locally advanced or metastatic pheochromocytoma or paraganglioma who require systemic anticancer therapy. AZEDRA is the first and only FDA-approved therapy for this indication. AZEDRA’s approved U.S. label and full U.S. prescribing information is available at www.AZEDRA.com.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | AZEDRA® Launch. AZEDRA was launched on August 1, 2018. Since August, AZEDRA was added to the National Comprehensive Cancer Network® (“NCCN®”) Clinical Practice Guidelines in Oncology for Neuroendocrine and Adrenal Tumors v 3.2018. NCCN® Guidelines® are widely recognized and used as the standard for clinical policy in oncology by clinicians and payors. Since AZEDRA’s approval by the FDA, it has also been added to five drug compendia: Clinical Pharmacology©; DRUGDEX®; Lexi-Drugs®; NCCN®; and AHFS-DI. These compendia are recognized by private and public payers, including Centers for Medicare and Medicaid Services (“CMS”) as authoritative sources to be considered in determining drug reimbursement. Recently we presented data to the CMS ICD-10 Coordination and Maintenance Committee to garner a code associated with AZEDRA which supports our efforts to secure New Technology Add-On Payment (NTAP). In addition, our pass-through C code was approved and is in place, and we anticipate that our permanent A code will be awarded soon. A field-based team of Nuclear Medicine Technologists/Sales Representatives/Medical Science Liaisons and Access Specialists have been in the field since approval assisting centers of excellence and payers in the preparation for utilizing and reimbursing AZEDRA. As a result of this effort, treatment requests have been received and sites are now ready to administer AZEDRA. Patient scheduling is underway; however, no commercial sales have been generated as of the date of this filing.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | AZEDRA® Manufacturing. In February 2019, we acquired the AZEDRA manufacturing assets for $8.0 million cash consideration and entered into a sublease agreement for the radiopharmaceutical manufacturing facility located in Somerset, New Jersey. The Somerset site serves as the launch facility for AZEDRA and will also provide manufacturing support for our development stage radiopharmaceuticals, including 1095. We also secured the long-term supply of iodine necessary for the production of both AZEDRA and 1095. The production of AZEDRA uses a proprietary Ultratrace® process which concentrates the MIBG targeted radiolytic activity by eliminating non-therapeutic “cold” MIBG molecules, giving AZEDRA a uniquely high specific activity.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Pipeline Advancement:
+ 
+
+● | We advanced our 1095 program and plan to initiate a Phase 2 trial in the second quarter of 2019. 1095 is a small molecule radiotherapeutic designed to selectively bind to the extracellular domain of prostate specific membrane antigen (“PSMA”). The multicenter, randomized, controlled trial will evaluate the efficacy and safety of 1095 in combination with enzalutamide in patients with metastatic castration-resistant prostate cancer (mCRPC) who are PSMA-avid, chemotherapy naïve, and progressed on abiraterone.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We reported topline results from our recently completed Phase 2/3 trial of PyL which demonstrated its potential high clinical utility. These results were used to design the pivotal Phase 3 trial.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We commenced a pivotal multi-center, open label Phase 3 trial evaluating the diagnostic performance and clinical impact of PyL in men with biochemical recurrence of prostate cancer. The primary endpoint is based on positive predictive value and will assess the correct localization rate (“CLR”). We expect enrollment to complete by year end 2019.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 2
+
+
+
+● | Using our PSMA-targeted imaging data from previous trials, we completed a prospectively planned retrospective analysis using our deep convolutional neural network algorithms (“PSMA AI”) to automatically assess the PSMA images. The reads with PSMA AI demonstrated a statistically significant improvement over manual assessment in terms of increased diagnostic accuracy, precision, speed, and reproducibility. The results from this analysis are expected to be presented at upcoming scientific conferences.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | We continue to pursue our life cycle management plans for AZEDRA. In February 2019, an advisory board with KOLS concluded that there would likely be strong interest in using AZEDRA in multiple MIBG-avid tumors, including gastroenteropancreatic (“GEP-NETS”) and other neuroendocrine tumors (“NETS”). There was strong interest in advancing a basket trial in these indications since patients often have very high unmet needs for new treatments. 
+
+ 
+PSMA-617:
+ 
+
+● | Company Asserts Ownership of PSMA-617 Intellectual Property including Composition of Matter
+--+--------------------------------------------------------------------------------------------
+
+ We have commenced a lawsuit disputing the ownership of certain worldwide composition of matter patent filings related to PSMA-617, a PSMA-targeted radiopharmaceutical compound under development by Novartis AG for the treatment of prostate cancer. See Item 3. Legal Proceedings
+ 
+
+Product / Candidate | Description | Status | Market | Rights 
+--------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------+-----------------------+------------
+Ultra-Orphan Theranostic | | | | 
+AZEDRA (iobenguane I 131) 555 MBq/mL injection | Unresectable, locally advanced or metastatic pheochromocytoma or paraganglioma | Approved | U.S | Proprietary
+Prostate Cancer Theranostics | | | | 
+PyL (18F-DCFPyL) | PSMA-targeted PET/CT imaging agent for prostate cancer | Phase 3 | U.S. & Canada | Proprietary
+PyL (18F-DCFPyL) | PSMA-targeted PET/CT imaging agent for prostate cancer | Meeting with EMA | Europe | Curium 
+1095 (I 131 1095) | PSMA-targeted small molecule therapeutic for treatment of metastatic prostate cancer | Phase 2 | Worldwide | Proprietary
+PSMA-TTC (BAY 2315497) | PSMA-targeted antibody conjugate therapeutic for treatment of metastatic prostate cancer | Phase 1 | Worldwide | Bayer 
+Digital Technology | 
+PSMA AI | Imaging analysis technology that uses artificial intelligence and machine learning to quantify and automate the reading of PSMA targeted imaging | Investigational Use Only | Worldwide | Proprietary
+Automated Bone Scan Index (aBSI) | Automated reading and quantification of bone scans of prostate cancer patients using artificial intelligence and deep learning | CE MARK (EU countries) Investigational Use Only (USA) | Worldwide (ex. Japan) | Proprietary
+Automated Bone Scan Index (BONENAVI) | Automated reading and quantification of bone scans of prostate cancer patients using artificial intelligence and deep learning | Approved | Japan | Fuji 
+Other Programs | 
+RELISTOR Subcutaneous Injection (methylnaltrexone bromide) | OIC in adults with chronic non-cancer pain or advanced-illness adult patients | Approved | U.S. & Canada | Bausch 
+RELISTOR Tablets (methylnaltrexone bromide) | OIC in adults with chronic non-cancer pain | Approved | U.S. | Bausch 
+Leronlimab (PRO 140) | HIV Infection | Phase 3 | U.S. | CytoDyn 
+
+ 
+Ultra-Orphan Theranostic:
+ 
+
+● | AZEDRA is a radiotherapeutic, approved for the treatment of adult and pediatric patients 12 years and older with iobenguane scan positive, unresectable, locally advanced or metastatic pheochromocytoma or paraganglioma who require systemic anticancer therapy. AZEDRA is the first and only FDA-approved therapy for this indication. We anticipate opportunities for growth of AZEDRA through the development of new indications in 2019.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Prostate Cancer Theranostics:
+ 
+
+● | PyLTM (also known as 18F-DCFPyL) is a fluorinated PSMA-targeted PET imaging agent that enables visualization of both bone and soft tissue metastases to determine the presence or absence of recurrent and/or metastatic prostate cancer. In the US, we are conducting a pivotal Phase 3 trial evaluating the diagnostic performance and clinical impact of PyL in men with biochemical recurrence of prostate cancer. Curium has licensed exclusive rights to develop and commercialize PyL in Europe. Curium plans to meet with the EMA to agree upon the regulatory path forward for PyL in 2019.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 3
+
+
+
+● | 1095 (also known as I-131-1095) is a PSMA-targeted Iodine-131 labeled small molecule that is designed to deliver a dose of beta radiation directly to prostate cancer cells with minimal impact on the surrounding healthy tissues. In October 2018, we announced plans to advance I-131 1095, its PSMA-targeted therapeutic, into a Phase 2 clinical trial in the second quarter of 2019.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | PSMA TTC is a thorium-227 labeled PSMA-targeted antibody therapeutic. PSMA-TTC is designed to deliver a dose of alpha radiation directly to prostate cancer cells with minimal impact on the surrounding healthy tissues. Bayer AG (“Bayer”) has exclusive worldwide rights to develop and commercialize products using our PSMA antibody technology in combination with Bayer’s alpha-emitting radionuclides. Bayer is developing PSMA TTC, a thorium-227 labeled PSMA-targeted antibody therapeutic. Bayer initiated a Phase 1 trial of PSMA TTC in patients with metastatic castration-resistant prostate cancer.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Digital Technology:
+ 
+
+● | PSMA AI is an imaging analysis technology that uses artificial intelligence and machine learning to quantify and automate the reading of PSMA-targeted imaging. We recently completed a prospectively planned retrospective analysis using our deep convolutional neural network algorithms to automatically assess a set of the PSMA images from prior trials. The results from this analysis are expected to be presented at upcoming scientific conferences.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Automated Bone Scan Index (aBSI) calculates the disease burden of prostate cancer by quantifying the hotspots on bone scans and automatically calculating the bone scan index value, representing the disease burden of prostate cancer shown on the bone scan. This quantifiable and reproducible calculation of the bone scan index value is intended to aid in the diagnosis and treatment of men with prostate cancer and may have utility in monitoring the course of the disease. aBSI is licensed as a standalone software to FUJIFILM RI Pharma Co., Ltd. (“Fuji”) in Japan and is sold under the name BONENAVI®. aBSI is also available as a cloud-based software for research only purposes with the United States.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Other Programs:
+ 
+
+● | RELISTOR is a treatment for opioid-induced constipation (“OIC”) that addresses its underlying mechanism of OIC and decreases the constipating side effects induced by opioid pain medications such as morphine and codeine without diminishing their ability to relieve pain. RELISTOR is approved in two forms a subcutaneous injection (12 mg and 8 mg) and an oral tablet (450 mg once daily). Any references herein to RELISTOR do not imply that any other form or possible use of the drug has received approval. RELISTOR subcutaneous injection is being sold in the U.S., European Union (“E.U.”), and Canada, and RELISTOR tablets are being sold in the U.S. RELISTOR’s approved U.S. label and full U.S. prescribing information is available at www.RELISTOR.com. Other approved labels for RELISTOR apply in ex-U.S. markets. Our recognition of royalty income for financial reporting purposes is explained in Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations and our consolidated financial statements included elsewhere in this document.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Leronlimab (PRO 140) is a fully humanized monoclonal antibody which is a cellular targeting CCR5 entry antagonist and is currently in Phase 3 development for the treatment of HIV infection. It is owned by CytoDyn and, pursuant to our agreement with CytoDyn, we have the right to receive certain milestone and royalty payments. CytoDyn has announced plans to submit on a rolling basis its biologics license application (“BLA”) to the FDA during 2019.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We may consider opportunities to out-license our development and clinical programs. We may also in-license or acquire additional oncology compounds and/or programs.
+ 
+Clinical Trial Activities
+
+For purposes of this report, in general Phase 1 trials are initial evaluations of safety in humans which study mechanism of action and metabolism; Phase 2 trials evaluate safety, dosing and activity or efficacy, and continue safety evaluation; and Phase 3 trials involve larger scale evaluations of safety, efficacy and dosing.
+ 
+Our practice is and has been to announce commencement and results of all our significant clinical trials in press releases, medical and scientific meetings, and other venues. The following is a summary of current clinical trial activities involving our principal product candidates.
+ 
+ 4
+
+
+PyL. PyL is a clinical-stage fluorinated PSMA-targeted PET imaging agent for prostate cancer. PyL has shown potential for use in identifying metastatic prostate cancer. We have an exclusive worldwide license (excluding Australia and New Zealand) to develop and commercialize PyL in PET imaging applications.
+ 
+In October 2018, we announced results of a Phase 2/3 OSPREY trial that assessed the safety and efficacy of PyL in the detection of prostate cancer. In the trial, PyL demonstrated high sensitivity in reliably detecting distant metastatic prostate cancer lesions and high specificity in confirming the absence of pelvic lymph node disease. The associated strong positive predictive values and negative predictive value of PyL imaging in these disease settings indicate its potential high clinical utility.
+ 
+
+PyL Phase 2/3 OSPREY Trial - Topline Results 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ | Cohort A | Cohort B 
+Objective | Detect prostate cancer in pelvic lymph nodes in patients with high risk locally advanced | Detect prostate cancer in distant metastases in patients with metastatic or recurrent
+N | 268 | 117 
+Specificity | 96% - 99% | Not evaluated; Cohort B suspected to have disease 
+Negative Predictive Value | 81% - 84% | Not evaluated; Cohort B suspected to have disease 
+Sensitivity | 31% - 42% | 93% - 99% 
+Positive Predictive Value | 78% - 91% | 81% - 88% 
+Trial achieved co-primary endpoint for specificity in Cohort A; did not meet co-primary endpoint for sensitivity in Cohort A. Secondary endpoints included: sensitivity in Cohort B; PPV and NPV in Cohort A; and, PPV in Cohort B. 
+
+ 
+Overall, PyL was safe and well-tolerated by all dosed subjects. A total of 81 treatment-emergent adverse events (“TEAEs”) were reported in 51 (13.2%) subjects with the most common being fatigue (1.3%), dysgeusia (2.6%), and headache (2.3%). A total of five subjects (1.3%) experienced TEAE(s) that were ≥ Grade 3 in severity; all were Grade 3 and no subjects experienced Grade 4 or 5 adverse events. A total of seven serious adverse events (“SAEs”) have been reported within the protocol-specified period in subjects who received PyL. All of the SAEs were assessed as unrelated to the study drug.
+ 
+In December 2018, we announced the start of a pivotal, Phase 3 CONDOR trial evaluating the diagnostic performance and clinical impact of PyL in men with biochemical recurrence of prostate cancer. The Phase 3 CONDOR trial is a multi-center, open label trial and is expected to enroll approximately 200 patients with biochemical recurrence of prostate cancer in 15 sites in the United States and Canada. The primary endpoint is based on positive predictive value and will assess the correct localization rate (CLR), defined as a percentage of subjects with a one-to-one correspondence between localization of at least one lesion identified by PyL and the composite truth standard. Secondary measures include the percentage of subjects with a change in intended prostate cancer treatment plans due to PyL PET/CT imaging.
+ 
+In addition to our sponsored studies and clinical trial collaborations we anticipate that PyL’s potential activity will also be explored in investigator sponsored studies at various academic institutions.
+ 
+1404. We conducted five Phase 1 trials with 1404 in healthy volunteers as well as men with prostate cancer, to establish proof-of-concept and dosimetry, and to assess a simplified kit preparation as compared to multi-step preparation. We then conducted a Phase 2 trial in the U.S. and Europe to assess the safety and ability of 1404 to detect prostate cancer within the prostate gland. Analysis of 1404 SPECT/CT images from this study showed that uptake of 1404 in the lobes of the prostate gland correlated significantly with Gleason score (p<0.0001). No deaths, serious adverse events, or adverse events leading to discontinuations occurred during the study. Of the 105 subjects who received a 1404 injection, four subjects reported a total of ten TEAEs with one related to 1404 (infusion site extravasation). No discernible trends in hematology, clinical chemistries, vital signs, or physical findings were observed during the study.
+ 
+Based on results from these studies, a multi-center, open-label Phase 3 trial was initiated in December 2015 to evaluate the (i) specificity of 1404 to detect clinically insignificant prostate cancer and (ii) sensitivity of 1404 to detect clinically significant disease in patients with newly-diagnosed or low-grade prostate cancer, whose biopsy indicates a histopathologic Gleason grade of ≤3+4 severity and/or were candidates for active surveillance. In December 2017, we completed enrollment (N=471) in the Phase 3 trial. Median PSA levels for patients dosed in trial was 5.58 ng/mL (range 0.69 – 16.03). In the study, 1404 detected clinically meaningful prostate cancer with specificity ranging among the three readers from 71-75% (95% confidence interval CI of 64% to 80%). The co-primary endpoint of sensitivity was not met and ranged amongst the three readers from 47-51% (95% CI of 41% to 56%). The trial protocol required the lower limit of the two-sided 95% CI for both specificity and sensitivity to exceed 60%. The most frequent treatment related events included headache (2.3%), dizziness (1.1%) and fatigue (0.8%). In November 2018, based on the 1404 data and an assessment of the PSMA-targeted imaging agent commercial landscape, we decided to focus our efforts on our PyL PSMA-targeted PET/CT imaging agent and not to further invest in 1404.
+ 
+ 5
+
+
+1095. In October 2018, we announced plans to initiate a multicenter, randomized, controlled Phase 2 trial that will evaluate the efficacy and safety of 1095 in combination with enzalutamide in patients with metastatic castration-resistant prostate cancer (mCRPC) who are PSMA-avid, chemotherapy naïve, and progressed on abiraterone.
+ 
+The trial will evaluate the efficacy and safety of 1095 in combination with enzalutamide in patients with metastatic castration-resistant prostate cancer (mCRPC) who are PSMA-avid, chemotherapy naïve, and progressed on abiraterone. 1095 radiotherapy represents a new mechanism of action that may overcome resistance developed to novel androgen axis drugs (NAADs), such as abiraterone and enzalutamide. In addition, recent preclinical research reported that enzalutamide can sensitize cells to radiotherapy induced cell death, suggesting that 1095 in combination with enzalutamide has the potential to be an effective treatment paradigm for patients with mCRPC who are resistant to NAADs.
+ 
+The study’s primary endpoint will be prostate specific antigen (PSA) response rate according to Prostate Cancer Clinical Trials Working Group 3 (PCWG3) criteria defined as a confirmed 50% or greater decline from baseline of 1095 and enzalutamide compared to enzalutamide alone. Secondary endpoints will evaluate radiographic response based on Response Evaluation Criteria In Solid Tumors (RECIST), Progression Free Survival (PFS) and overall survival (OS).  Tumor avidity will be determined utilizing PyL, the Company’s PET imaging agent designed to visualize prostate cancer.
+ 
+License Agreements and Other Arrangements 
+ 
+Molecular Insight Pharmaceuticals, Inc. License Agreements
+
+In January 2013, we acquired Molecular Insight Pharmaceuticals, Inc. (“MIP”) by purchasing all of its outstanding capital stock for 4.5 million shares of our common stock in a private transaction. Under the agreement, we also agreed to pay to the former stockholders potential milestones, in cash or our stock at our option, of up to $23.0 million contingent upon achieving specified commercialization events ($8.0 million for the first commercial sale of AZEDRA, which has not occurred) and up to $70.0 million contingent upon achieving specified sales targets relating to the acquired company’s products. The timing of any such payments, if any, remains uncertain.
+ 
+In addition to utilizing our own proprietary technology, we have a number of agreements with owners of intellectual property which we use or believe may be useful in the research, development and commercialization of product candidates, including:
+ 
+
+● | A 2012 co-exclusive license agreement with the University of Zurich and the Paul Scherrer Institute for worldwide sublicensable rights to certain intellectual property related to production methodologies relevant to 1404. Under this agreement, we maintain related patent rights and are obligated to pay low single-digit royalties on products using the licensed technology, license maintenance fees creditable against royalties, an annual fee for an option to expand the license’s field of use, and clinical and regulatory milestone payments aggregating to approximately $1.8 million. The agreement may be terminated by the licensors upon certain material defaults by, and automatically terminates upon certain bankruptcy events relating to MIP and may be terminated by us on prior written notice.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | A 2012 out-license agreement with Fuji for the development and commercialization of 1404 in Japan. Under this agreement, we received upfront and milestone payments, of $3.0 million and $1.0 million, respectively, and we have the right to receive additional potential future milestone and royalty payments.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The 2000 and 2003 exclusive license agreements with The University of Western Ontario for worldwide sublicensable rights to certain intellectual property related to production methodologies relevant to AZEDRA. The 2000 agreement terminated in 2018 with the expiration of the patents associated with the agreement. The 2003 agreement for the license of patent families related to alternative approaches for preparing AZEDRA continues to be in effect. This alternative technology has not been implemented. Under the 2003 agreement, we maintain related patent rights and are obligated to pay low single-digit royalties on products using the licensed technology, minimum annual royalties creditable against royalties and clinical and regulatory milestone payments aggregating to approximately $0.3 million.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 6
+
+
+We have also entered into a number of in-license and out-license agreements, such as:
+ 
+In-License Agreement
+ 
+
+● | An August 2015 agreement with Johns Hopkins University (“JHU”), granting us exclusive worldwide rights (with the exception of Australia and New Zealand) for PyL. Under this agreement, we are obligated to pay milestone payments, low single-digit royalties, patent costs and minimum annual royalties which are creditable against royalties, aggregating to approximately $2.9 million.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Out-License Agreements
+ 
+
+● | An April 2016 agreement with a subsidiary of Bayer AG (“Bayer”), granting Bayer exclusive worldwide rights to develop and commercialize products using our PSMA antibody technology, in combination with Bayer’s alpha-emitting radionuclides. Bayer is developing PSMA TTC, a thorium-227 labeled PSMA-targeted antibody therapeutic. Bayer initiated a Phase 1 trial of PSMA TTC in patients with metastatic castration-resistant prostate cancer. Pursuant to the agreement, we received an upfront payment of $4.0 million and milestone payments totaling $3.0 million and could receive up to an additional $46.0 million in potential clinical and development milestones. We are also entitled to single-digit royalties on net sales, and potential net sales milestone payments up to an aggregate of $130.0 million.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | A December 2018 agreement with Curium, granting Curium exclusive sublicense to develop, manufacture and commercialize PyLTM (18F-DCFPyL) in Europe. Curium will be responsible for the development, regulatory approvals and commercialization of PyL in Europe. We understand from Curium that it plans to meet with the European Medicines Agency to agree upon the regulatory path forward for PyL in 2019. Under this agreement, we are entitled to double-digit royalties on net sales of PyL.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ RELISTOR License Agreement
+
+RELISTOR® is a registered trademark and refers to methylnaltrexone – the active ingredient of RELISTOR – as it has been and is being developed and commercialized by or in collaboration with Salix Pharmaceuticals, Inc., which is a wholly-owned subsidiary of Bausch Health Companies Inc. (“Bausch”, which is the predecessor of Valeant Pharmaceuticals International, Inc.), under a license agreement (the “RELISTOR License Agreement”). Under the RELISTOR License Agreement, Bausch is responsible for developing and commercializing RELISTOR worldwide, including completing clinical development necessary to support regulatory marketing approvals for potential new indications and formulations, and marketing and selling the product. Bausch is marketing RELISTOR directly through its specialty sales force in the U.S., and outside the U.S. directly through distribution and marketing partners. Under the RELISTOR License Agreement, we recognized a development milestone payment of $40.0 million upon U.S. marketing approval for subcutaneous RELISTOR in non-cancer pain patients in 2014, and a development milestone payment of $50.0 million for the U.S. marketing approval of an oral formulation of RELISTOR in July 2016. We are also eligible to receive up to $200.0 million of commercialization milestone payments upon achievement of specified U.S. net sales targets, including:
+
+U.S. Net Sales Level in any Single Calendar Year | Payment | 
+-------------------------------------------------+----------------+--------
+ | (In thousands) | 
+In excess of $100 million | $ | 10,000 
+In excess of $150 million | | 15,000 
+In excess of $200 million | | 20,000 
+In excess of $300 million | | 30,000 
+In excess of $750 million | | 50,000 
+In excess of $1 billion | | 75,000 
+ | $ | 200,000
+
+ 
+Each commercialization milestone payment is payable one time only, regardless of the number of times the condition is satisfied, and all six payments could be made within the same calendar year. We are also eligible to receive royalties from Bausch and its affiliates based on the following royalty scale: 15% on worldwide net sales up to $100.0 million, 17% on the next $400.0 million in worldwide net sales, and 19% on worldwide net sales over $500.0 million each calendar year, and 60% of any upfront, milestone, reimbursement or other revenue (net of costs of goods sold, as defined, and territory-specific research and development expense reimbursement) Bausch receives from sublicensees outside the U.S.
+ 
+ 7
+
+
+The RELISTOR License Agreement may be terminated by either party upon an uncured material breach or specified bankruptcy events. In addition, Bausch may terminate the RELISTOR License Agreement for unresolved safety or efficacy issues or at its discretion upon specified prior notice at any time, subject to our one-time right to postpone such termination for a specified period of time if we have not successfully transitioned the development and commercialization of the drug despite good faith and diligent efforts. See Item 1A. Risk Factors.
+ 
+We have licensed to Bausch our exclusive rights to develop and commercialize methylnaltrexone, the active ingredient of RELISTOR, which we in-licensed from the University of Chicago (“UC”). Our agreement with UC provides for an exclusive license to intellectual property in exchange for development and potential commercialization obligations, low single-digit royalties on commercial sales of resulting products and single-digit percentages of milestone and sublicensing revenues, and shared patent policing responsibilities. Under the UC agreement, as amended in connection with our RELISTOR collaborations, all of our royalty payment obligations expired at the end of 2017 in the U.S. and expired at the end of 2018 outside the U.S. on the approved indications.
+ 
+Bausch has also entered into license and distribution agreements to expand its sales channels outside of the U.S. for RELISTOR. In January 2016, Bausch entered into a distribution agreement with Swedish Orphan Biovitrum AB, also known as Sobi, for RELISTOR in Western Europe, Russia and Greece. In 2016, we recognized license revenue of $720 thousand for our share of the upfront payment Bausch received from Lupin Limited pursuant to a distribution agreement for RELISTOR in Canada.
+ 
+CytoDyn Agreement
+ 
+We sold Leronlimab (PRO 140) to CytoDyn Inc. (“CytoDyn”) in 2012, which sale included milestone and royalty payment obligations to us. Leronlimab is a fully humanized monoclonal antibody which is a cellular targeting CCR5 entry antagonist and is currently in development for the treatment of HIV. CytoDyn has announced plans to submit on a rolling basis its BLA to the FDA during 2019.
+ 
+Under our 2012 agreement with CytoDyn, CytoDyn is responsible for all development, manufacturing and commercialization efforts. Pursuant to such agreement, we have received $5.0 million in upfront and milestone payments, together with rights to receive an additional $5.0 million upon the first U.S. or E.U. approval for the sale of the drug, and a 5% royalty on the net sales of approved product(s). 
+ 
+Patents and Proprietary Technology
+ 
+Protection of our intellectual property rights is important to our business. We seek U.S. patent protection for many of our inventions, and generally file patent applications in Canada, Japan, European countries that are party to the European Patent Convention, and other countries on a selective basis in order to protect inventions we consider to be important to the development of business in those areas. Generally, patents issued in the U.S. are effective for either (i) 20 years from the earliest asserted filing date, if the application was filed on or after June 8, 1995, or (ii) the longer of 17 years from the date of issue or 20 years from the earliest asserted filing date, if the application was filed prior to that date.
+ 
+In certain instances, the U.S. patent term can be extended up to a maximum of five years to recapture a portion of the term during which FDA regulatory review was being conducted. The duration of foreign patents varies in accordance with the provisions of applicable local law, although most countries provide for patent terms of 20 years from the earliest asserted filing date and allow patent extensions similar to those permitted in the U.S.
+ 
+Patents may not enable us to preclude competitors from commercializing drugs in direct competition with our products, and consequently may not provide us with any meaningful competitive advantage. See Item 1A. Risk Factors. We also rely on trade secrets, proprietary know-how and continuing technological innovation to develop and maintain a competitive position in our product areas. We require our employees, consultants and corporate partners who have access to our proprietary information to sign confidentiality agreements.
+ 
+Information with respect to our current patent portfolio is set forth below.
+ 
+The original patents surrounding the AZEDRA program were licensed from the University of Western Ontario (“UWO”). The patent family directed to processes for making polymer precursors, as well as processes for making the final product, expired in 2018 in the U.S. and Canada. The related UWO agreement terminated with the expiration of the patents. Other licensed patent families from UWO under a second agreement relate to alternative approaches for preparing AZEDRA, which if implemented, would expire in 2024 worldwide. We have pending applications worldwide directed to manufacturing improvements and the resulting compositions which, if issued, would expire in 2035.
+ 
+ 8
+
+
+Owned and in-licensed patents relating to 1404 have expiration ranges of 2020 to 2029; we view as most significant the composition-of-matter patent on the compound, as well as technetium-99 labeled forms, which expire in 2029 worldwide.
+ 
+The PyL patent family was licensed from Johns Hopkins University. Patent protection for the composition-of-matter patents on the compound, radiolabeled forms of the compound, as well as methods of use, expire in 2030 in the U.S. Corresponding patent family members are pending or issued worldwide, all expiring in 2029. Process improvement patent applications are pending worldwide which, if issued, would expire in 2037.
+ 
+Company-owned patents relating to 1095 have expiration ranges of 2027 to 2031 in the U.S. We view as most significant the composition-of-matter patent on this compound, as well as radiolabeled forms, which expires in 2027 in the U.S., as well as Europe. Additional U.S. patents are directed to stable compositions and radiolabeling processes which expire in 2030 and 2031, respectively.
+ 
+We own patents relating to automated detection of bone cancer metastases. The patents on this technology expire in 2028. The US patent is currently under reexamination. Patent applications are pending relating to automated medical image analysis.
+ 
+The intellectual property directed to PSMA antibody comprises co-owned patents. Composition-of-matter patents have expirations of 2022 in the U.S. Corresponding foreign counterpart patents will expire 2022. We view all of these patents as significant.
+ 
+With regard to our RELISTOR-related intellectual property, the composition-of-matter patent for the active ingredient of RELISTOR, methylnaltrexone, has expired. University of Chicago, as well as we and our collaborators, have extended the methylnaltrexone patent estate with additional patents and pending patent applications covering various inventions relating to the product. Bausch has listed in the FDA’s Approved Drug Products with Therapeutic Equivalence Evaluations (the “Orange Book”) seven U.S. patents relating to subcutaneous RELISTOR, which have expiration dates ranging from 2024 to 2030, and seven U.S. patents relating to RELISTOR tablet, which have expiration dates ranging from 2029 to 2031. Four Canadian patents (expiring in 2024, 2027 and 2029) have been listed with Health Canada relating to subcutaneous RELISTOR.
+ 
+We are aware of intellectual property rights held by third parties that relate to products or technologies we are developing. For example, we are aware of others investigating and developing technologies, imaging agents and drug candidates directed toward PSMA or related compounds as well as in the case of methylnaltrexone, others are developing peripheral opioid antagonists, and of patents and applications held or filed by others in those areas. The validity of issued patents, patentability of claimed inventions in pending applications and applicability of any of them to our programs are uncertain and subject to change, and patent rights asserted against us could adversely affect our ability to commercialize or collaborate with others on specific products.
+ 
+Research, development, and commercialization of a biopharmaceutical product often require choosing between alternative development and optimization routes at various stages in the development process. Preferred routes depend upon current – and may be affected by subsequent – discoveries and test results and cannot be identified with certainty at the outset. There are numerous third-party patents in fields in which we work, and we may need to obtain license under patents of others in order to pursue a preferred development route of one or more of our product candidates. The need to obtain a license would decrease the ultimate value and profitability of an affected product. If we cannot negotiate such a license, we might have to pursue a less desirable development route or terminate the entire program altogether.
+ 
+Seasonality
+ 
+As is typical in the pharmaceutical industry, our business may experience modest seasonality due to patient co-pays and co-insurance being reset at the beginning of the calendar year and patients meeting their deductibles over the course of the calendar year. As a result, demand for our products such as RELISTOR and associated revenue may be lower in the beginning of the year.
+ 
+ 9
+
+
+Government Regulation
+ 
+We and our product candidates are subject to comprehensive regulation by the FDA and comparable authorities in other countries. Pharmaceutical regulation currently is a topic of substantial interest in lawmaking and regulatory bodies in the U.S. and internationally, and numerous proposals exist for changes in FDA and non-U.S. regulation of pre-clinical and clinical testing, approval, safety, effectiveness, manufacturing, storage, recordkeeping, labeling, marketing, export, advertising, promotion and other aspects of biologics, small molecule drugs and medical devices, many of which, if adopted, could significantly alter our business and the current regulatory structure described below. See Item 1A. Risk Factors.
+ 
+FDA Regulation
+ 
+FDA approval, which involves review of scientific, clinical and commercial data, manufacturing processes and facilities, is required before a product candidate may be marketed in the U.S. This process is costly, time consuming and subject to unanticipated delays, and a drug candidate may fail to progress at any point.
+ 
+Other than AZEDRA and RELISTOR, none of our product candidates have received marketing approval from the FDA or any other regulatory authority. The process required by the FDA before product candidates may be approved for marketing in the U.S. generally involves:
+ 
+
+● | pre-clinical laboratory and animal tests;
+--+------------------------------------------
+
+
+● | submission to and favorable review by the FDA of an investigational new drug application before clinical trials may begin;
+--+---------------------------------------------------------------------------------------------------------------------------
+
+
+● | adequate and well-controlled human clinical trials to establish the safety and efficacy of the product for its intended indication (animal and other nonclinical studies also are typically conducted during each phase of human clinical trials);
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | submission to the FDA of a marketing application; and
+--+------------------------------------------------------
+
+
+● | FDA review of the marketing application in order to determine, among other things, whether the product is safe and effective for its intended uses.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Pre-clinical tests include laboratory evaluation of product chemistry and animal studies to gain preliminary information about a compound’s pharmacology and toxicology and to identify safety problems that would preclude testing in humans. Since product candidates must generally be manufactured according to current Good Manufacturing Practices (“cGMP”), pre-clinical safety tests must be conducted by laboratories that comply with FDA good laboratory practices regulations. Pre-clinical testing is preceded by initial research related to specific molecular targets, synthesis of new chemical entities, assay development and screening for identification and optimization of lead compound(s).
+ 
+Results of pre-clinical tests are submitted to the FDA as part of an IND, which must become effective before clinical trials may commence. The IND submission must include, among other things, a description of the sponsor’s investigational plan; protocols for each planned study; chemistry, manufacturing and control information; pharmacology and toxicology information and a summary of previous human experience with the investigational drug. Unless the FDA objects to, makes comments or raises questions concerning an IND, it becomes effective 30 days following submission, and initial clinical studies may begin. Companies often obtain affirmative FDA approval, however, before beginning such studies.
+ 
+Clinical trials involve the administration of the investigational new drug to healthy volunteers or to individuals under the supervision of a qualified principal investigator. Clinical trials must be conducted in accordance with the FDA’s Good Clinical Practice requirements under protocols submitted to the FDA that detail, among other things, the objectives of the trial, parameters used to monitor safety and effectiveness criteria to be evaluated. Each clinical trial must be conducted under the auspices of an Institutional Review Board, which considers, among other things, ethical factors, safety of human subjects, possible liability of the institution and informed consent disclosure which must be made to participants in the trial.
+ 
+Clinical trials are typically conducted in three sequential phases, which may overlap. During Phase 1, when the drug is initially administered to human subjects, the product is tested for safety, dosage tolerance, absorption, metabolism, distribution and excretion. Phase 2 involves studies in a limited population to evaluate preliminarily the efficacy of the product for specific, targeted indications, determine dosage tolerance and optimal dosage and identify possible adverse effects and safety risks.
+ 
+When a product candidate is found in Phase 2 evaluation to have an effect and an acceptable safety profile, Phase 3 trials are undertaken in order to further evaluate clinical efficacy and test for safety within an expanded population. Safety studies are conducted in accordance with the FDA’s International Conference on Harmonization Guidelines. Phase 2 results do not guarantee a similar outcome in Phase 3 trials. The FDA may suspend clinical trials at any point in this process if it concludes that clinical subjects are being exposed to an unacceptable health risk.
+ 
+ 10
+
+
+An NDA is an application to the FDA to market a new drug. A BLA is an application to market a biological product. The new drug or biological product may not be marketed in the U.S. until the FDA has approved the NDA or issued a biologics license. The NDA must contain, among other things, information on chemistry, manufacturing and controls; non-clinical pharmacology and toxicology; human pharmacokinetics and bioavailability; and clinical data. The BLA must contain, among other things, data derived from nonclinical laboratory and clinical studies which demonstrate that the product meets prescribed standards of safety, purity and potency, and a full description of manufacturing methods. Supplemental NDAs are submitted to obtain regulatory approval for additional indications for a previously approved drug and are reviewed by the FDA in a similar manner.
+ 
+The results of the pre-clinical studies and clinical studies, the chemistry and manufacturing data, and the proposed labeling, among other things, are submitted to the FDA in the form of an NDA or BLA. The FDA may refuse to accept the application for filing if certain administrative and content criteria are not satisfied, and even after accepting the application for review, the FDA may require additional testing or information before approval of the application, in either case based upon changes in applicable law or FDA policy during the period of product development and FDA regulatory review. The applicant’s analysis of the results of clinical studies is subject to review and interpretation by the FDA, which may differ from the applicant’s analysis, and in any event, the FDA must deny an NDA or BLA if applicable regulatory requirements are not ultimately satisfied. If regulatory approval of a product is granted, such approval may be made subject to various conditions, including post-marketing testing and surveillance to monitor the safety of the product, or may entail limitations on the indicated uses for which it may be marketed. Product approvals may also be withdrawn if compliance with regulatory standards is not maintained or if problems occur following initial marketing.
+ 
+Orphan Drug, Fast Track, Breakthrough Therapy Designations, and Priority Review
+ 
+Other FDA regulations and policies relating to drug approval have implications for certain of our current or future product candidates, particularly AZEDRA. Designation as an Orphan Drug is available under U.S., E.U., and other laws for drug candidates intended to treat rare diseases or conditions, and which if approved are granted a period of market exclusivity, subject to various conditions. Orphan Drug designation does not shorten or otherwise convey any advantage in the regulatory approval process. Under the Orphan Drug Act, the FDA may designate a product as an Orphan Drug if it is intended to treat a rare disease or condition, generally defined as a patient population of fewer than 200,000 in the U.S. AZEDRA is designated as an Orphan Drug.
+ 
+In the U.S., Orphan Drug designation entitles a party to certain financial incentives such as opportunities for grant funding towards clinical trial costs, tax advantages and user-fee waivers. In addition, if a product receives the first FDA approval for the indication for which it has orphan designation, the product is entitled to Orphan Drug exclusivity, which means the FDA may not approve any other application to market the same drug for the same indication for a period of seven years, except in limited circumstances, such as a showing of clinical superiority over the product with orphan exclusivity or where the manufacturer is unable to assure sufficient product quantity.
+ 
+In cases where the extent and scope of patent protection for a product is limited, the exclusivity period resulting from Orphan Drug designation may be important in helping products maintain a competitive position. Even if a product obtains Orphan Drug exclusivity, however, that exclusivity may not effectively protect the product from competition because different drugs with different active moieties may be approved for the same condition. Even after an Orphan Drug is approved, the FDA may subsequently approve the same drug with the same active moiety for the same condition if the FDA concludes that the later drug is safer, more effective or makes a major contribution to patient care.
+ 
+The FDA is also authorized to designate certain products for expedited review if they are intended to address an unmet medical need in the treatment of a serious or life-threatening disease or condition. These mechanisms for expedited review include fast track designation, breakthrough therapy designation and priority review designation. AZEDRA has received fast track, breakthrough therapy and priority review designations.
+ 
+The FDA may designate a product for fast track review if it is intended, whether alone or in combination with one or more other drugs, for the treatment of a serious or life-threatening disease or condition, and it demonstrates the potential to address unmet medical needs for such a disease or condition. For fast track products, sponsors may have greater interactions with the FDA and the FDA may initiate review of sections of a fast track product’s NDA before the application is complete. This rolling review may be available if the FDA determines, after preliminary evaluation of clinical data submitted by the sponsor, that a fast track product may be effective. The sponsor must also provide, and the FDA must approve, a schedule for the submission of the remaining information and the sponsor must pay applicable user fees. However, the FDA’s time period goal for reviewing a fast track application does not begin until the last section of the NDA is submitted. In addition, the fast track designation may be withdrawn by the FDA if the FDA believes that the designation is no longer supported by data emerging in the clinical trial process.
+ 
+ 11
+
+
+A product may be designated as a breakthrough therapy if it is intended, either alone or in combination with one or more other drugs, to treat a serious or life-threatening disease or condition and preliminary clinical evidence indicates that the product may demonstrate substantial improvement over existing therapies on one or more clinically significant endpoints, such as substantial treatment effects observed early in clinical development. The FDA may take certain actions with respect to breakthrough therapies, including holding meetings with the sponsor throughout the development process; providing timely advice to the product sponsor regarding development and approval; involving more senior staff in the review process; assigning a cross-disciplinary project lead for the review team; and taking other steps to design the clinical trials in an efficient manner.
+ 
+Finally, the FDA may designate a product for priority review if it is a drug that treats a serious condition and, if approved, would provide a significant improvement in safety or effectiveness. The FDA determines, on a case-by-case basis, whether the proposed drug represents a significant improvement when compared with other available therapies. Significant improvement may be illustrated by evidence of increased effectiveness in the treatment of a condition, elimination or substantial reduction of a treatment-limiting drug reaction, documented enhancement of patient compliance that may lead to improvement in serious outcomes, and evidence of safety and effectiveness in a new subpopulation. A priority designation is intended to direct overall attention and resources to the evaluation of such applications, and to shorten the FDA’s goal for taking action on a marketing application from ten months to six months.
+ 
+Both before and after approval is obtained, a product, its manufacturer and the sponsor of the marketing application for the product are subject to comprehensive regulatory oversight. Violations of existing or newly-adopted regulatory requirements at any stage, including the pre-clinical and clinical testing process, the approval process, or thereafter, may result in various adverse consequences, including FDA delay in approving or refusal to approve a product, withdrawal of an approved product from the market or the imposition of criminal penalties against the manufacturer or sponsor. Later discovery of previously unknown problems may result in restrictions on the product, manufacturer or sponsor, including withdrawal of the product from the market.
+ 
+Regulation Outside the U.S.
+
+Whether or not FDA approval has been obtained, approval of a pharmaceutical product by comparable government regulatory authorities abroad must be obtained prior to marketing the product there. The approval procedure varies from country to country, and the time required may be longer or shorter than that required for FDA approval. The requirements for regulatory approval by governmental agencies in other countries prior to commercialization of products there can be rigorous, costly and uncertain, and approvals may not be granted on a timely basis or at all.
+ 
+In E.U. countries, Canada, Australia, and Japan, regulatory requirements and approval processes are similar in principle to those in the U.S. Regulatory approval in Japan requires that clinical trials of new drugs be conducted in Japanese patients. Depending on the type of drug for which approval is sought, there are currently two potential tracks for marketing approval in E.U. countries: mutual recognition and the centralized procedure. These review mechanisms may ultimately lead to approval in all E.U. countries, but each method grants all participating countries some decision-making authority in product approval. The centralized procedure, which is mandatory for biotechnology derived products, results in a recommendation in all member states, while the E.U. mutual recognition process involves country-by-country approval.
+ 
+In other countries, regulatory requirements may require additional pre-clinical or clinical testing regardless of whether FDA or European approval has been obtained. This is the case in Japan, where trials are required to involve patient populations which we and our other collaborators have not examined in detail. If a product is manufactured in the U.S., it is also subject to FDA and other U.S. export provisions. In most countries outside the U.S., coverage, pricing and reimbursement approvals are also required, which may affect the profitability of the affected product.
+ 
+Other Regulation
+ 
+In addition to regulations enforced by the FDA, we are also subject to regulation under the U.S. Occupational Safety and Health Act, Environmental Protection Act, Toxic Substances Control Act, Resource Conservation and Recovery Act, and various other current and potential future U.S. federal, state or local regulations. We believe that our operations comply in all material respects with applicable environmental laws and regulations. Our compliance with these regulations during the past year did not have and is not expected to have a material effect upon our capital expenditures, cash flows, earnings or competitive position.
+ 
+ 12
+
+
+In addition, our research is dependent on maintenance of licenses from various authorities permitting the acquisition, use and storage of quantities of radioactive isotopes that are critical for its manufacture and testing of research products. Biopharmaceutical research and development generally involves the controlled use of hazardous materials, chemicals, viruses, and various radioactive compounds. Even strict compliance with safety procedures for storing, handling, using and disposing of such materials prescribed by applicable regulations cannot completely eliminate the risk of accidental contaminations or injury from these materials, which may result in liability for resulting legal and regulatory violations as well as damages.
+ 
+Manufacturing
+ 
+The manufacture of radiopharmaceuticals is complex and requires significant capital expenditures. We have to date engaged third-party contract manufacturing organizations (“CMOs”) to manufacture active pharmaceutical ingredient (“API”) and finished drug products for clinical trial supplies of all of our product candidates, including AZEDRA, 1404, PyL and 1095. We recently acquired the AZEDRA manufacturing assets and entered into a sublease agreement for the radiopharmaceutical manufacturing facility located in Somerset, New Jersey. The Somerset site serves as the launch facility for AZEDRA and will also provide manufacturing support for our development stage radiopharmaceuticals, including 1095. We continue to depend significantly on the availability of high quality CMO services. If we are unable to arrange for satisfactory CMO services, we would need to undertake such responsibilities on our own, resulting in our having to incur additional expenses and potentially delaying the development of our product candidates. See Item 1A. Risk Factors.
+ 
+Under the RELISTOR License Agreement, Bausch is responsible for the manufacture and supply, at its expense, of all API and finished and packaged products for its RELISTOR commercialization efforts, including contracting with CMOs for supply of RELISTOR API and subcutaneous and oral finished drug product.
+ 
+Commercial Organization
+ 
+We have built an experienced radiopharmaceutical team of 13 employees to commercialize AZEDRA in the U.S.
+ 
+Competition
+ 
+Competition in the biopharmaceutical industry is intense and characterized by ongoing research and development and technological change. We face competition from many for-profit companies and major universities and research institutions in the U.S. and abroad. We face competition from companies marketing existing products or developing new products for diseases targeted by our technologies. Many of our competitors have substantially greater resources, experience in conducting pre-clinical studies and clinical trials and obtaining regulatory approvals for their products, operating experience, research and development and marketing capabilities and production capabilities than we do. Our products and product candidates under development may not compete successfully with existing products or products under development by other companies, universities and other institutions. Drug manufacturers that are first in the market with a therapeutic for a specific indication generally obtain and maintain a significant competitive advantage over later entrants and therefore, the speed with which industry participants move to develop products, complete clinical trials, approve processes and commercialize products is an important competitive factor.
+ 
+RELISTOR was the first FDA-approved product for any indication involving OIC. We are, however, aware of other approved and marketed products, as well as candidates in pre-clinical or clinical development, that target the side effects of opioid pain therapy. Our principal competitors in the field of OIC include Nektar Therapeutics, in collaboration with AstraZeneca PLC; Cubist Pharmaceuticals, a subsidiary of Merck & Co., Inc.; and Mallinckrodt plc, in collaboration with Takeda Pharmaceutical Company Limited; and Shionogi, Inc. Other prescription, as well as over-the-counter, laxatives are also used as first line for OIC.
+ 
+As to our oncology pipeline, radiation and surgery are two traditional forms of treatment for prostate cancer. If the disease spreads, hormone (androgen) suppression therapy is often used to slow the cancer’s progression, but this form of treatment can eventually become ineffective. We are aware of several competitors who are developing or have received approval for treatments for castration-resistant prostate cancer. Our principal competitors in the field of mCRPC include Johnson & Johnson subsidiary Janssen Biotech, Inc.; Novartis AG and Pfizer, Inc. in collaboration with Astellas Pharma US, Inc.; and Bayer HealthCare Pharmaceuticals Inc. Our principal competitors in the field of PSMA-targeted imaging agents include Aytu Bioscience Inc., Blue Earth Diagnostics, Limited and Novartis AG.
+ 
+Other than AZEDRA, there are currently no approved anticancer treatments in the U.S. for malignant, recurrent, and/or unresectable pheochromocytoma and paraganglioma.
+ 
+ 13
+
+
+A significant amount of research in the biopharmaceutical field is carried out at academic and government institutions. An element of our research and development strategy has been to in-license technology and product candidates from academic and government institutions. These institutions are sensitive to the commercial value of their findings and pursue patent protection and negotiate licensing arrangements to collect royalties for use of technology they develop. They may also market competitive commercial products on their own or in collaboration with competitors and compete with us in recruiting highly qualified scientific personnel, which may result in increased costs or decreased availability of technology or product candidates from these institutions to other industry participants.
+ 
+Competition with respect to our technologies and products is based on, among other things, product efficacy, safety, reliability, method of administration, availability, price and clinical benefit relative to cost; timing and scope of regulatory approval; sales, marketing and manufacturing capabilities; collaborator capabilities; insurance and other reimbursement coverage; and patent protection. Competitive position in our industry also depends on a participant’s ability to attract and retain qualified personnel, obtain patent protection or otherwise develop proprietary products or processes, and secure sufficient capital resources for the typically substantial period between technological conception and commercial sales.
+ 
+Product Liability
+ 
+The testing, manufacturing and marketing of our product candidates and products involves an inherent risk of product liability attributable to unwanted and potentially serious health effects. To the extent we elect to test, manufacture or market product candidates and products independently, we bear the risk of product liability directly. We maintain product liability insurance coverage in amounts and pursuant to terms and conditions customary for our industry, scale, and the nature of our activities. Where local statutory requirements exceed the limits of our existing insurance or local policies of insurance are required, we maintain additional clinical trial liability insurance to meet these requirements. This insurance is subject to deductibles and coverage limitations. The availability and cost of maintaining insurance may change over time. See Item 1A. Risk Factors.
+ 
+Human Resources
+ 
+At December 31, 2018, we had 79 full-time employees, 17 of whom hold Ph.D./PharmD degrees and three of whom hold M.D. degrees. At that date, 47 employees were engaged in research and development, medical, regulatory affairs, and manufacturing related activities and 32 were engaged in finance, legal, administration, commercial, and business development. We consider our relations with our employees to be good. None of our employees is covered by a collective bargaining agreement.
+Available Information
+
+We file annual, quarterly and current reports, proxy statements and other documents with the SEC under the Securities Exchange Act of 1934. The SEC maintains a website that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC, including Progenics. The SEC’s website can be found at http://www.sec.gov. We also make available on or through our website, free of charge, copies of these reports on http://www.progenics.com.
+ 
+Additional information concerning our business may be available in press releases or other public announcements and quarterly and current reports and documents filed with the SEC. Information on or accessed through our website is not included in our SEC filings.
+ 
+ 14
+
+

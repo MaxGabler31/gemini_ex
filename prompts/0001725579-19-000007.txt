@@ -1,0 +1,183 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business.
+Overview
+Pluralsight is a leading provider of technology skill development solutions committed to closing the global technology skills gap through our cloud-based technology skills platform. Learners on our platform can quickly acquire today’s most valuable technology skills through high-quality learning experiences delivered by subject-matter experts, available on any device at any time. We provide businesses with visibility into the strengths of their workforce, allowing them to better align resources, provide targeted skill development, and advance the skills of their teams. Ultimately, our mission is to democratize technology skills.
+Our learning experiences empower customers to adapt and thrive in the midst of unprecedented technological change and digital transformation. As a result, technology leaders now see us as their “supply chain for intellectual property.” We empower the people who power businesses by enabling businesses around the world to drive innovation through a smarter workforce.
+Many companies still use traditional in-person, instructor-led training, or ILT, models, which do not move fast enough or scale quickly enough to meet the ever-increasing demand. We are disrupting these traditional skill development models to provide people the skill development they need, when they need it, because learning should not be confined to a classroom, a “one size fits all” curriculum, or to a select minority of people. 
+Our cloud-based technology skills platform provides a broad range of tools, including skill and role assessments, a curated library of expert-authored courses, directed learning paths, interactive labs, and business analytics. Our platform is powered by Iris, our proprietary machine-learning driven skill and role assessment algorithm and recommendation engine, which enables businesses to more effectively quantify and develop skills across technologies. Through our platform we provide both businesses and individuals with the ability to stay smart, remain relevant, and drive results.
+Closing the technology skills gap requires more than success in our commercial business. That is why we created Pluralsight One, our social impact initiative, committed to serving marginalized populations that our commercial business will not reach. 
+In recent years, we have reached significant scale in users and our customer base, which span over 180 countries across the globe. As of December 31, 2018, we had 16,756 business customers, including over 810,000 business users, compared to 575,000 business users as of December 31, 2017. Our customers included over 340 of the 2018 Fortune 500. 
+We have achieved significant growth in recent periods. For the years ended December 31, 2018, 2017, and 2016, our billings totaled $293.6 million, $205.8 million, and $149.2 million, representing year-over-year growth of 43%, 38%, and 15%, respectively. Our billings from business customers for the same periods were $248.2 million, $163.0 million, and $104.9 million, respectively, representing year-over-year growth of 52%, 55%, and 25%. Our net loss for the years ended December 31, 2018, 2017, and 2016, was $128.6 million, $96.5 million, and $20.6 million, respectively, which reflects our substantial investments in the future growth of our business.
+Our Platform
+Our cloud-based technology skills platform provides businesses the solutions that they need to improve employee skills and drive better business outcomes. The key components of our platform include:
+
+• | Skill and Role Assessments: Our assessment tool uses machine learning and advanced algorithms to measure a user’s skills, benchmark that user against others in the industry, and recommend opportunities for growth. Users are provided with a Skill IQ that quantifies if a user is beginner, intermediate, or advanced within technologies such as Angular JS, C#, and Java. Role IQ allows our users to quantify and develop a collection of skills that are required for success in technology roles. This provides greater clarity around the technology skills required for a specific job role and a clear path to concept mastery. For example, we have Role IQ’s for
+
+3
+
+several roles including: Security Analyst, React Web Developer, and Cloud Architect. Skills assessments can be mapped to a defined role in order to measure a user’s technical proficiency required to master that role. We provide a modern skill assessment experience that gives businesses a credible, adaptable, and efficient model for validating technology skills.
+
+• | Course Library: Our course library includes a digital ecosystem of thousands of on-demand courses across a range of technology subject areas, including cloud, mobile, security, IT, and data. Courses, or videos are organized by modules and clips and are searchable, so users can either take an entire course, or target an area for a specific need. The majority of our courses are transcribed, and once transcribed, are available with closed captioning in over 100 languages. We have built our exclusive course library primarily by engaging our world-class community of subject-matter experts, or authors, who create content for us and share in our success by receiving revenue-share amounts based on the viewing of their content. In addition, our platform offers interactive courses with an in-browser developer environment that allows users to practice as they learn through coding challenges with real-time feedback. Interactive courses provide a hands-on learning experience to apply knowledge outside of the course library in order to assess concept mastery. Our projects feature extends the practice modules to the user’s local coding environment, allowing users to apply knowledge to real-world, on-the-job scenarios.
+
+
+• | Learning Paths: Based on either an assessment or a user’s goals, our directed learning paths are personalized to take users through a set of courses designed to help them master a particular subject area and not spend time reviewing content that they already know. Businesses can map custom learning paths to meet company-specific objectives.
+
+
+• | Business Analytics: Our business analytics tools enable business customers to evaluate the technology skills of their teams, align learning to key business objectives, determine the usage of our platform, examine trends in skill development, and quantify the impact of our platform on their business.
+
+We developed our proprietary machine-learning technology, Iris, to power our platform and improve the value of our skill and role assessments, roles, and course recommendations. Iris powers our skill and role assessments, and guides users on how to develop desired skills. Iris uses machine learning, modern testing approaches, advanced statistical analysis, and data to create a smarter, more personalized development journey.
+Our platform is designed for the professional technologist but it can be used by anyone, at any skill level, who has an interest in improving their technology skills. We offer a range of courses from beginner to advanced skill levels, with significant granularity within each topic so users can access the content most relevant to their specific needs. We utilize a cloud-based delivery model that enables us to regularly make new content available to users and allows businesses to deliver consistent skill development across distributed workforces. Users can access our platform to learn anytime and anywhere. Pluralsight applications are delivered on demand and across a range of devices and operating systems, including iOS, Android, Windows, and Mac. In addition, Pluralsight applications are available for TV applications, including Amazon Fire TV, Apple TV, Chromecast, and Roku.
+Key Benefits of Our Platform
+We have developed our platform to empower businesses in driving innovation in this period of digital transformation with a smarter workforce. Key benefits of our platform include:
+The most relevant skill development for a wide range of technology professionals
+We believe we have the most relevant course library for the greatest number of technology professionals. We are a company founded by software engineers, and we understand first-hand the importance of keeping up with constantly changing technologies. We are focused on delivering learning content addressing the technology languages, tools, and frameworks used by the majority of technology professionals in the workplace. We began this business with a focus on software developers who constitute the largest segment of the technology market. Next, we expanded into the next three largest segments of technology: IT operations, data, and security. Our platform is capable of easily expanding to address new technical areas over time.
+4
+
+Integrated technology skills platform
+We view learning as a holistic process. Taking a course on its own does not ensure that a user understands the content or that it was the right course to take in the first place. Our integrated platform combines skill and role assessments, a curated library of expert-authored courses, directed learning paths, business analytics, interactive courses, and projects to ensure that learners are taking the courses most useful to them and demonstrating comprehension of the subject matter. Through our skill and role assessments engine, powered by Iris, we are able to assess the proficiency of a user in a role or a topic through adaptive tests and provide a Skill IQ or Role IQ. By gathering such insights from our platform, businesses can understand skills gaps, benchmark employees against consistent standards, and address skill development needs in an efficient and targeted manner. Of surveyed Pluralsight users, 84% reported that they used the skills they learn on our platform within six weeks and 55% report that they used their new skills within one week.
+High quality curated content
+Our content is the product of our industry-leading authors. We have spent many years identifying, cultivating, and growing our author network, and over 1,550 authors have contributed to our current course library. One of the primary challenges for businesses and individuals seeking to enhance technology skills is finding the right resources. We address that challenge for them. Our extensive relationships within the developer and technical community allow us to source and retain the best subject-matter experts to produce relevant content for our users. We provide quality assurance on our authors’ expertise through our selection process and by having our in-house technology professionals and practitioners, as well as other authors, perform reviews on the quality and effectiveness of all content before it is published to our platform. This process ensures that our users are receiving high-quality, consistent results from our platform.
+Cost effective technology skills platform
+We believe our pricing model provides a significant cost advantage compared to traditional technology skill development offerings. As our customers’ industries and business models evolve, they require a learning solution that helps them deliver key innovations with demanding time and budgetary constraints. Our published pricing ranges from $579 to $779 per user per year for business subscriptions, providing what we believe to be a significant cost advantage over alternative solutions. In addition, our platform can be deployed with little to no implementation or other professional services required, as evidenced by substantially all of our revenue to date being derived from the sale of subscriptions to our platform.
+Optimized for on-demand accessibility
+We offer our content the way users want to consume it. Our cloud-based technology skills platform is an on-demand solution that allows globally distributed users to access courses anytime they want from almost any device, maximizing utilization of our product and workplace efficiency. Our mobile applications are available on iOS and Android operating systems, and our desktop application is available on Mac and PCs. Courses can be temporarily downloaded and viewed offline. Our platform allows users to participate and take notes while watching our courses. These applications allow our users to take our courses when convenient for them.
+Growth Strategy
+We are pursuing the following principal strategies to drive our growth:
+Expand deployments within our customer base
+We utilize a land-and-expand strategy within businesses, beginning with either individual users or departmental deployments. Our platform is used by individuals, developer groups, IT departments, line of business users, and human resources. Historically we have expanded from small teams to departments to business-wide deployments of our platform. For example, from 2013 to 2018, the billings from our business customers that were included in the 2018 Fortune 500 list, including new 2018 Fortune 500 customers that we acquired after 2013, increased by 18.1 times in the aggregate from the billings from those same companies in 2013. We intend to drive increased sales to existing customers by targeting new users, departments, and geographies within our customers.
+5
+
+Grow our business customer base
+We have a large direct sales force to focus on business sales and have aligned our sales team’s compensation structure to fit this objective. We have also been able to drive substantial increases in the productivity and effectiveness of our sales personnel over time as they gain more experience selling subscriptions to our platform. We intend to pursue a greater proportion of large scale, recurring business transactions and to more effectively drive business customer engagement throughout the life of the relationship. As an example of our ability to increase customer engagement, as of December 31, 2018, our 25 largest customers had expanded their annual spend by 19.6 times the amount they spent in the year of initial purchase. We will continue to expand our platform capabilities to deliver additional value to our customers. Our sales force educates business customers on the strengths of our platform to help customers make informed decisions and create a customized and unified end-to-end learning experience for their businesses.
+Geographic Expansion
+We see a significant opportunity to expand our reach internationally, particularly where there are large developer groups for multi-national businesses. We have customers in over 180 countries around the world and are building out sales teams in Europe and Asia to further address these large markets impacted by rapidly changing technologies.
+In 2018, we expanded our operations to Ireland as part of our strategy to build our business and drive customer growth in Europe. We intend to continue to selectively expand in key markets to grow our customer base and increase our revenue.
+Expand course library with new content areas and offer additional platform features
+We plan to continue to expand our course library to address the most relevant topics for users. We anticipate continued strong growth in our technology skills platform as we build out content in new areas like cloud, data science, data engineering, artificial intelligence, machine learning, and security.
+We have introduced and acquired several platform features that have been integrated into our cloud-based technology skills platform, including skill and role assessments and learning paths. We will continue to add additional features to our platform over time which we believe will strengthen our position as the go-to platform for technology leaders to deliver on their innovation strategies. 
+Strategic Acquisitions
+Strategic acquisitions have enabled us to quickly scale our business, expand our course library, add features to our cloud-based technology skills platform, and address new areas of technology in high demand by our customers. Over the past six years, we have made targeted strategic acquisitions, which have allowed us to expand our content catalog, author base, and platform capabilities. For example, the acquisition of Smarterer gave us the core of our assessment capability that is now an integral part of our platform and a key differentiator in the market. We have proven success with identifying core capabilities in the market, acquiring talent and technology, and integrating these assets into our platform for a seamless user experience. We will continue to selectively add content and platform capabilities through acquisitions that enhance value to our customers.
+Technology and Content
+Our cloud-hosted, multi-tenant application platform is designed for enterprise scalability to enable significant growth in our user base, support businesses with widely distributed locations, and provide high levels of system performance and availability. Our distributed and scalable technology architecture allows our global user base to access courses anytime they want from almost any device, maximizing utilization of our platform.
+Iris
+Our platform is powered by Iris, which underlies our skill assessments algorithm and guides users on how to develop desired skills. With every assessment and course completed, Iris absorbs information about the state of technology skills of our overall user base, a specific business customer’s users, and individual users, thereby allowing 
+6
+
+our platform to adapt to the needs of our customers. Iris leverages the following to create a smarter, more personalized development journey for users:
+
+• | Machine Learning. Iris uses a modified Bayes Network algorithm to predict assessment responses by updating certainty, question difficulty, and skill ratings as it collects user feedback. Using a text mapping technique, Iris recommends content based on a specific user’s Skill IQ or Role IQ.
+
+
+• | Modern Test Theory. Iris builds on Item Response Theory, or IRT, and applies Bayesian approximation. Learners are scored against a representative global estimate of all users of a given technology or skill, and questions are usable far sooner than with traditional IRT-based methods while maintaining similar levels of accuracy and reliability.
+
+
+• | Bayesian Statistics. Iris applies Bayesian statistics to assign scores to learners and characterize questions quickly and accurately. Iris is able to power adaptive assessments by using a modified scoring algorithm that applies a Monte Carlo method to evaluate each user’s skill level, providing adaptively selected questions to achieve a high level of certainty of that skill level.
+
+Content Creation
+Our course library has been created primarily by our world-class community of authors. By publishing their courses on our platform, we provide authors with exposure to our broad user base, thereby enabling our authors to build their reputations and increase their name recognition as a trusted source in the market. In addition, we share our success with our authors, who receive revenue-share amounts based on the viewing of their content. This incentivizes authors to create new high-quality content, which drives customer growth and user adoption, creating a virtuous cycle that promotes our continued growth.
+We identify and select prospective authors based on their skills, experience, following in user communities, popularity, ability to effectively communicate, and commitment to advancing knowledge about their discipline.
+Once selected to produce content on our platform, we provide authors with a set of tools and skill development materials to instruct them on our course design methodology. They are assigned to one of our content leaders to help them select topics and create a framework for their courses. One of our production editors then guides them through the course production and editing process. External peer reviewers, who are generally authors, help ensure technical accuracy. Authors produce courses and presentations from their own location on their own time, making the process scalable and efficient.
+Based on the size of our author community and the related depth and breadth of technical knowledge, we have the ability to consistently deliver current and relevant content to keep pace with technology’s fast pace of change. On average, from the day we decide to create a course, we can identify and sign a new author who meets our specifications in approximately 65 days and that author can publish a new course on our platform within approximately 110 days.
+Technology and Content Team
+Our technology and content team use a human-centered design and development approach to engage with customers, users, and industry analysts through interviews and surveys on a frequent basis to understand customer needs and general industry trends to enhance our platform and course library. This allows us to build a platform that is uniquely positioned to deliver a highly personalized journey that focuses on the user and provides deep business analytics. The primary function of our technology team is to evaluate new technologies, determine the best technologies to create for our platform, incorporate new features and functionality into our platform to improve user experience, and ensure our solutions are delivered seamlessly, as well as to ensure that our platform is resilient and available to our customers at any time. Our content team tracks subject-matter experts across a variety of categories, researches the latest technology trends and adoption within businesses, and works with our authors to create high-quality content which addresses the needs of our customers.
+As of December 31, 2018, we had 340 employees in our technology and content organization. We intend to continue to invest in our technology and content organization to strengthen our existing platform and add new capabilities to enhance our value to customers.
+7
+
+Seasonality
+Our quarterly results of operations may fluctuate due to various factors affecting our performance. We have historically experienced seasonality in terms of when we enter into agreements with customers. We typically enter into a higher percentage of agreements with new customers, as well as renewal agreements with existing customers, in the fourth quarter of each year and usually during the last month of the quarter. The increase in customer agreements entered into in the fourth quarter is generally attributable to large enterprise buying patterns typical in the software industry. During the fourth quarter of 2018, we recognized 29% of our revenue, and recorded 34% of our total billings and 35% of our billings from business customers for 2018. As the terms of most of our customer agreements are measured in full year increments, agreements initially entered into in the fourth quarter will generally come up for renewal at that same time in subsequent years. This seasonality is reflected in our billings, and to a lesser extent, our revenue. We recognize revenue from subscription fees ratably over the term of the contract. Therefore, changes in our contracting activity in the near term may not impact changes to our reported revenue until future periods.
+Customers
+As of December 31, 2018, we had 16,756 business customers on our platform. We have experienced rapid growth within large businesses. Our client base is diversified across every industry: financial services, internet, technology, healthcare, media and entertainment, consumer goods and retail, transportation and logistics, government contractors, manufacturing, energy, education, and professional services.
+Sales and Marketing
+Our platform is designed to be easy to access and use, which allows both individual and business customers to seamlessly purchase subscriptions to, and deploy, our platform. Accordingly, for the year ended December 31, 2018, approximately 26% of our revenue was derived from self-service subscriptions to our platform without any direct interaction with our sales team. Our self-service deployments are typically to small business teams and individual customers, which represent the “top of the funnel” for larger deployments, bringing our technology into the workplace and proliferating usage within a business.
+We also deploy a direct sales team focused on landing new business customers, renewing existing subscriptions, and expanding business-wide deployments, as well as a field sales team responsible for sourcing new prospects and upsell opportunities. We expect to increase penetration into our business customers by expanding their use of our platform to address additional use cases and increasing the number of their employees who utilize our platform.
+Our marketing efforts are focused on generating awareness of our cloud-based technology skills platform, creating sales leads, establishing and promoting our brand, and cultivating a community of loyal customers and authors. We utilize both online and offline marketing initiatives, including search engine and email marketing, online banner and video advertising, blogs, corporate communications, white papers, case studies, user events including Pluralsight LIVE, and webinars.
+Employees
+As of December 31, 2018, we had over 1,100 full-time employees. We also engage contractors and consultants. None of our employees are represented by a labor union. We have not experienced any work stoppages, and we believe that our employee relations are good.
+Competition
+The market for professional skill development is highly competitive, rapidly evolving, and fragmented. We expect competition to continue to accelerate in the future as competitors bundle new and more competitive offerings with their existing products and services, and as products and product enhancements are introduced into our market.
+We compete directly or indirectly against:
+
+• | Instructor-led training vendors, such as Global Knowledge, General Assembly, and New Horizons;
+
+8
+
+
+• | Legacy e-learning services, such as Skillsoft and Cornerstone On Demand;
+
+
+• | Individual-focused e-learning services, such as LinkedIn Learning, Udemy, and Udacity; and
+
+
+• | Free solutions, such as YouTube.
+
+We believe that the principal competitive factors in our market include the following:
+
+• | breadth, depth, and quality of content library;
+
+
+• | platform features and functionality;
+
+
+• | reliability and scalability;
+
+
+• | performance;
+
+
+• | user experience;
+
+
+• | brand;
+
+
+• | security and privacy;
+
+
+• | price;
+
+
+• | accessibility across several devices, operating systems, and applications;
+
+
+• | third-party and customer integration;
+
+
+• | customer, technology, and platform support; and
+
+
+• | continued innovation.
+
+We believe we compete favorably across these factors and are largely uninhibited by legacy constraints. However, many of our competitors and potential competitors are larger and have greater brand name recognition, longer operating histories, larger marketing budgets and established marketing relationships, access to larger customer bases, and significantly greater resources for the development of their offerings. Moreover, because our market is changing rapidly, it is possible that new entrants, especially those with substantial resources, more efficient operating models, more rapid technology and content development cycles, or lower marketing costs, could introduce new products and services that disrupt our market and better address the needs of our customers and potential customers.
+Intellectual Property
+We rely on trademarks, copyrights, trade secrets, license agreements, intellectual property assignment agreements, confidentiality procedures, non-disclosure agreements, and employee non-disclosure and invention assignment agreements to establish and protect our proprietary rights. We believe that our intellectual property rights are valuable and important to our business.
+As of December 31, 2018, we had nine pending patent applications in the United States and abroad. These patent applications seek to protect our proprietary inventions relevant to our business.
+We have an ongoing trademark and service mark registration program pursuant to which we register our brand names and product names, taglines, and logos in the United States and other countries to the extent we determine appropriate. We also have common law rights in some unregistered trademarks that were established over years of use.
+We intend to pursue additional intellectual property protection to the extent we believe it would be beneficial. Despite our efforts to protect our intellectual property rights, they may not be respected in the future or may be invalidated, circumvented, or challenged. In addition, the laws of various foreign countries where our products are distributed may not protect our intellectual property rights to the same extent as laws in the United States.
+9
+
+Our Organizational Structure
+In May 2018, we completed an initial public offering, or IPO, in which we sold 23,805,000 shares of Class A common stock at a public offering price of $15.00 per share for net proceeds of $332.1 million, after deducting underwriters’ discounts and commissions, which Pluralsight, Inc. used to purchase newly-issued common limited liability company units, or LLC Units, from Pluralsight Holdings. Following the IPO, we caused Pluralsight Holdings to repay in full its outstanding long-term debt of $137.7 million.
+Our IPO was conducted through what is commonly referred to as an “UP-C” structure, which is often used by partnerships and limited liability companies when they decide to undertake an initial public offering. In connection with the IPO and the UP-C structure, we completed the following transactions, referred to as the Reorganization Transactions:
+
+• | The Fourth LLC Agreement of Pluralsight Holdings was amended and restated to, among other things: (i) appoint Pluralsight, Inc. as its sole managing member and (ii) effectuate the conversion of all outstanding redeemable convertible preferred limited liability company units, incentive units, and Class B incentive units into a single class of LLC Units.
+
+
+• | Certain members of Pluralsight Holdings that were corporations merged with and into Pluralsight, Inc. and certain members of Pluralsight Holdings contributed certain of their LLC Units to Pluralsight, Inc., in each case in exchange for shares of Class A common stock.
+
+
+• | The certificate of incorporation of Pluralsight, Inc. was amended and restated to authorize three classes of common stock, Class A common stock, Class B common stock, Class C common stock, and one class of preferred stock. Class B and Class C common stock were issued on a one-for-one basis to the members of Pluralsight Holdings who retained LLC Units, or the Continuing Members. Class B and Class C common stock have voting rights but no economic rights.
+
+As the sole managing member of Pluralsight Holdings, Pluralsight, Inc. has the sole voting interest in Pluralsight Holdings and controls all of the business operations, affairs, and management of Pluralsight Holdings. Accordingly, Pluralsight, Inc. consolidates the financial results of Pluralsight Holdings and reports the non-controlling interests of the Continuing Members’ LLC Units on its consolidated financial statements. See Note 1 to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K for additional information about the Reorganization Transactions completed as part of the IPO.
+Corporate Information
+We were incorporated in Delaware in December 2017. Our principal executive offices are located at 182 North Union Avenue, Farmington, Utah 84025, and our telephone number is (801) 784-9007. We completed our IPO in May 2018, and our Class A common stock is listed on Nasdaq under the symbol “PS.” Our corporate website address is pluralsight.com.  Information contained on or accessible through our website is not part of this report. “Pluralsight,” our logo, and our other registered or common law trademarks, service marks, or trade names appearing in this report are the property of Pluralsight, Inc., Pluralsight Holdings, LLC , and their subsidiaries. Other trademarks and trade names referred to in this report are the property of their respective owners.
+We are an “emerging growth company,” as defined in the Jumpstart Our Business Startups Act of 2012, and, as such, we have elected to comply with certain reduced public company reporting requirements. We will cease to be an “emerging growth company” upon the earliest to occur of: (i) the last day of the fiscal year in which we have more than $1.07 billion in annual revenues; (ii) the date we qualify as a large accelerated filer, with at least $700 million of equity securities held by non-affiliates; (iii) the issuance, in any three-year period, by us of more than $1.0 billion in non-convertible debt securities; and (iv) December 31, 2023. 
+Available Information
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, proxy statement, and all amendments to these filings, are available free of charge from our investor relations website (https://investors.pluralsight.com/financial-information/sec-filings) as soon as reasonably practicable following our filing with 
+10
+
+or furnishing to the Securities and Exchange Commission, or the SEC, of any of these reports. The SEC’s website (https://www.sec.gov) contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC.
+Pluralsight investors and others should note that we announce material information to the public about our company, products and services and other issues through a variety of means, including our website (https://www.pluralsight.com/), our investor relations website (https://investors.pluralsight.com), press releases, SEC filings, public conference calls, and social media, in order to achieve broad, non-exclusionary distribution of information to the public. We encourage our investors and others to review the information we make public in these locations as such information could be deemed to be material information. Please note that this list may be updated from time to time.
+The contents of any website referred to in this Annual Report on Form 10-K are not intended to be incorporated into this Annual Report on Form 10-K or in any other report or document we file.
+11
+

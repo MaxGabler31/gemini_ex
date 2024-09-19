@@ -1,0 +1,162 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business 
+ 
+Founded in 1974, HMS is an industry-leading provider of cost containment solutions in the healthcare marketplace. We use healthcare data technology, analytics and related services to deliver coordination of benefits, payment integrity, population risk intelligence, care management and consumer engagement solutions to help payers reduce costs, improve healthcare outcomes and enhance member experiences. We provide coordination of benefits services to government and commercial healthcare payers to ensure that the correct party pays a claim, and payment integrity services to ensure the correct amount is paid. Our total population management solutions provide risk-bearing organizations with reliable intelligence across their member populations to identify risks and improve patient engagement and outcomes. Together these services help move the healthcare system forward for our customers and contribute to bending the healthcare cost curve for the nation.
+ 
+HMS began its operations as Health Management Systems, Inc., which became our wholly owned subsidiary in March 2003 when we assumed its business in connection with the adoption of a holding company structure. In recent years HMS has grown both organically and through targeted acquisitions of businesses that helped expand our solution suite, including IntegriGuard, LLC (doing business as HMS Federal) in 2009; HealthDataInsights, Inc. (“HDI”) in 2011; Essette, Inc. (“Essette”) in 2016; and Eliza Holding Corp. (“Eliza”) in 2017. We currently operate as one business segment with a single management team that reports to the Chief Executive Officer.
+ 
+We were originally incorporated in the State of New York in October 2002 and reincorporated in the State of Delaware in July 2013. Our principal executive offices are located at 5615 High Point Drive, Irving, Texas 75038, and our telephone number is (214) 453-3000. As of December 31, 2018, we had approximately 2,500 employees. Additional information about HMS is available on our website at www.hms.com.
+ 
+Copies of our recent Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and Proxy Statements, as well as amendments to these reports or statements, are available free of charge on our website through the Investor Relations page, as soon as reasonably practicable after we electronically file them with, or furnish them to, the SEC. These materials, as well as similar materials for SEC registrants, may be obtained directly from the SEC through their website at http://www.sec.gov.
+ 
+The content of any website referred to in this 2018 Form 10-K is not incorporated by reference into this filing unless expressly noted. References to the URLs for these websites are intended to be inactive textual references only.
+ 
+4
+
+Our Solutions
+ 
+We provide solutions that apply broadly across Medicaid, Medicare, commercial at-risk, and employer self-insured populations. Our services span the payment and care continuum from an individual’s enrollment in a program before medical service is rendered, to pre-payment review of a claim, through recovery where identification of improper payments is made via audit, and back to the individual where our consumer-driven solutions allow health plans to manage their members on a personal level, and at scale, by using actionable analytics that drive patients to take action to improve health outcomes. Our coordination of benefits and payment integrity services ensure payment accuracy by addressing a wide spectrum of payment errors, including eligibility and coordination of benefits errors, the identification and investigation of potential fraud, and the review of claims on a pre-payment and post-payment basis. Our total population management services assist customers in managing quality, risk, cost and compliance across all lines of business by engaging members, providing the tools to manage their care, and identifying existing or emerging health risk among members. As a result of these services, our customers saved billions of dollars in 2018 through the prevention of erroneous payments, improved clinical outcomes for their members, and reduced enrollment turnover; and they received billions more in cash recoveries for improperly paid claims.
+ 
+
+Our comprehensive solutions offer value throughout the healthcare continuum and include the following:
+ 
+Coordination of Benefits (COB)
+ Our COB services are provided primarily for state governments and Medicaid managed care plans, pursuant to Federal law which mandates that Medicaid is the payer of last resort, and draw principally upon proprietary information management and data mining techniques designed to ensure the correct party pays a healthcare claim. We offer cost avoidance services, which include providing validated insurance coverage information that is used by payers to coordinate benefits properly for future claims. With validated insurance information, Medicaid payers can avoid unnecessary costs by ensuring they pay only after all other insurance coverage available has been exhausted. Nevertheless, due to a variety of factors, many Medicaid claims are paid even when there is a known responsible third party. Our customers rely on us to identify Medicaid eligibility, before a claim is submitted, and retrospectively, for those claims that were paid in error, and then recover these payments from the liable third party. We also provide services to assist customers in identifying other third-party insurance and recovering medical expenses where a member is involved in a casualty or tort incident. Lastly, for Medicaid agencies exclusively, we provide estate recovery services to identify and recover Medicaid expenditures from the estates of deceased Medicaid members in accordance with state policies. For the years ended December 31, 2018, 2017 and 2016, our COB services represented 66.4%, 73.4% and 72.2% of our total revenue, respectively.
+ 
+5
+
+Analytical services
+ Analytical services consists of our payment integrity and total population management solutions.
+ 
+Payment Integrity (PI)
+ Our PI services ensure healthcare payments are accurate and appropriate. These services are applicable to all customers HMS serves, including federal and state governments, commercial health plans and other at-risk or self-insured entities. Our solutions verify that healthcare services are utilized, billed and paid appropriately. We combine data analytics, clinical expertise and proprietary algorithms and technology to identify and prevent improper payments on submitted claims to optimize savings before a claim is even paid, and on a post-payment basis, to identify and recover overpayments and correct underpayments; detect and prevent fraud, waste and abuse; and identify process improvements. For the years ended December 31, 2018, 2017 and 2016, our PI services represented 24.1%, 20.0% and 27.6% of our total revenue, respectively.
+Total Population Management (TPM)
+ Our TPM services consist of population risk analytics, consumer engagement and care management solutions, which are the result of internal product development and our acquisitions of Essette in 2016 and Eliza in 2017. These solutions help customers better manage quality, cost, compliance and patient outcomes and improve their members’ experience. The services span across the care continuum. Our flexible, scalable architecture and modular platform integrates early risk identification, advanced analytics, multi-channel outreach, social engagement and care management components to address our customers’ increased focus on consumer engagement, performance management and program design—all key components of an effective population health management program. Our Elli, Eliza and Essette solutions leverage HMS data and advanced analytics to support population risk management, member engagement and care management, respectively, and provide customers with a tailored, integrated platform that addresses core healthcare industry challenges on an enterprise scale. For the years ended December 31, 2018, 2017 and 2016, our TPM services represented 9.5%, 6.6% and 0.2%, of our total revenue, respectively.
+Intellectual Property
+ 
+Our ability to develop and maintain the proprietary aspects of our technology and operate without infringing the proprietary rights of others is important to our business and competitive position. We establish and protect our proprietary technology and intellectual property through a combination of patents, patent applications, trademarks, copyrights, domain names and trade secrets, as well as through contractual rights, including confidentiality, non-disclosure and invention assignment agreements, and other security measures.
+ 
+As of December 31, 2018, our patent portfolio is comprised of approximately 60 domestic and international patents, and we are currently pursuing several patent applications in the United States and around the world. Our principal trademarks are HMS®, and the corresponding HMS + logo design mark, HMS IntegritySource®, Eliza®, Essette®, and Elli®. We also hold copyrights relating to certain aspects of our solutions and services. While we consider all of our intellectual and proprietary rights important to HMS, we believe our business as a whole is not materially dependent on any particular patent, trademark, license or other intellectual property right.
+ 
+Customers
+ 
+We provide our solutions to customers across a broad range of entities within the healthcare industry, including health plans, state agencies, federal programs, private employers and other risk-bearing healthcare organizations. For the years ended December 31, 2018, 2017 and 2016, our total revenue was $598.3 million, $521.2 million and $489.7 million, respectively. No single customer accounted for 10% or more of our total revenue during any period presented.
+ 
+6
+
+The composition of our 10 largest customers changes periodically. For the years ended December 31, 2018, 2017 and 2016, our 10 largest customers represented 41.4%, 39.5% and 40.6% of our total revenue, respectively. We provide services under contracts (or subcontracts) that contain various revenue structures, including contingent revenue and to a lesser extent fixed-fee arrangements. The current terms of many of our federal and state government contracts range from one to five years, including renewal terms at the option of the customer. In many instances, we provide our services pursuant to agreements that are subject to periodic reprocurements. Several of our contracts, including those with some of our largest customers, may be terminated for convenience, in whole or in part, by the customer. Because we provide our services pursuant to agreements that are open to competition from various businesses in the U.S. healthcare arena, we cannot provide assurance that our contracts, including those with our largest customers, will not be terminated for convenience or awarded to other parties. Additionally, we cannot provide assurance that any contracts that are renewed will have the same fee structures as the expiring contracts or otherwise be on satisfactory terms. The early termination of key contracts with significant customers, or the inability to renew such contracts on favorable terms or at all, may have an adverse effect on our financial condition, results of operations and cash flows.
+ 
+In providing solutions and services to our customers, we rely heavily upon our technology systems and networks, as well as on those of third-party providers, to process, transmit, maintain, store and host the confidential, proprietary and sensitive information and data we receive from our customers and other data suppliers, including private insurance plans and financial institutions. The secure processing and maintenance of this information is critical to our operations and business strategy. Although we have spent significant resources to implement security and privacy programs and controls, train our workforce and augment our security measures with the implementation of new technologies and processes, our information technology and infrastructure, and those of third parties on which we rely could continue to be potentially subject to various forms of cyber-attacks, as further discussed under the heading “Part I, Item 1A. Risk Factors.”
+ 
+Healthcare Landscape
+ 
+The market for cost containment solutions is large and growing, driven by increasing healthcare costs, rising program enrollment and payment complexities. Established in 1965 under the Social Security Act, Medicaid provides health insurance and long-term care services and support to low-income families and individuals with disabilities in the United States. Medicaid is funded jointly by the federal and state governments and administered by the states. The Balanced Budget Act of 1997 created CHIP to help states expand coverage primarily to children whose families earned too much to qualify for Medicaid, yet not enough to afford private health insurance. Medicare is a federal program that is administered by CMS, and provides eligible persons age 65 and over and some disabled persons with a variety of hospital, medical insurance and prescription drug benefits. All three of these programs have opted to contract with managed care organizations in whole or in part as a means of delivering quality healthcare to program beneficiaries and controlling costs. 
+ 
+By law, Medicaid programs serve as the payer of last resort and all other sources of coverage must pay for medical costs incurred by a Medicaid-eligible individual. The TPL rules of the Medicaid statute require, among other things, that states take reasonable measures to identify potentially liable third parties and process claims accordingly. Since 1985, we have provided state Medicaid agencies with services to identify third parties with primary liability for paying claims for Medicaid members, and since 2005, we have provided similar services to Medicaid managed care plans.
+ 
+The Deficit Reduction Act enacted by Congress in 2006 contained provisions to strengthen the TPL rules and created the Medicaid Integrity Program under the Social Security Act to increase the government’s capacity to prevent, detect and address fraud, waste and abuse in the Medicaid program. Later that year, Congress passed the Tax Relief and Health Care Act of 2006, which established the Medicare RAC program. These measures, at both the federal and state level, have strengthened our ability to identify and recover erroneous payments on behalf of our customers. We also serve as a Medicaid RAC to certain states pursuant to provisions of the ACA and became the Medicare RAC for Region D with our acquisition of HDI. We again were awarded a region under the new Medicare RAC contracts in October 2016. Following the implementation of the new Medicare RAC contracts and completion of contract closeout activities for RAC Region D, our original Medicare RAC contract expired on January 31, 2018.
+ 
+The ACA, generally referred to as Obamacare, was signed into law in 2010 and has made broad-based changes to the U.S. healthcare system, including many provisions impacting healthcare delivery and payment programs, such as employer-sponsored health coverage, Medicaid, Health Insurance Exchanges with premium subsidies and payment integrity efforts. The ACA also further expanded the recovery audit contractor program to states. CMS and various states have proposed Medicaid program design alternatives and changes to enrollment criteria which could impact future Medicaid enrollment. As ACA-related changes develop or are enacted, we will assess their potential impact, including opportunities they may present for our customers and for us.
+ 
+7
+
+Industry Trends and Opportunities
+ 
+U.S. healthcare expenditures continue to escalate and consume an increasingly larger proportion of the U.S. GDP, presenting challenges for payers who wish to contain costs and promote quality healthcare outcomes. For 2019, Medicare and Medicaid are projected to pay approximately 37.9% of the nation’s healthcare expenditures and serve over 136.3 million beneficiaries. Many of these beneficiaries are enrolled in managed care plans, which have the responsibility for both patient care and claims adjudication. The dual aims of cost containment and quality healthcare outcomes are the same across all at-risk entities, including commercial health plans and government healthcare programs, such as Medicaid and Medicare.
+ 
+Within the commercial market, health plans sell policies directly to individuals (on the open market or via health insurance exchanges), contract with employers to underwrite their employees’ care, or contract with self-insured employers to oversee benefit administration for their employees. This market also includes a growing number of risk bearing provider-sponsored plans that operate and market health plan benefits. According to CMS NHE projections, private health insurance covered approximately 197.5 million individuals at a cost of approximately $1.24 trillion in 2018.
+ 
+Several commercial health plans also offer government-sponsored lines of business, including partnering with Medicare, Medicaid and CHIP to oversee care delivery for beneficiaries enrolled in those programs. States continue to focus on improving value, quality and outcomes through arrangements with MCOs. At the end of state fiscal year 2018, 47 states and the District of Columbia operated with some form of managed care, and Alaska reported plans to implement a managed care program in 2019. Comprehensive risk-based managed care continues to be the predominant delivery system for Medicaid services in the US. Among the 39 Medicaid programs with comprehensive risk-based MCOs, 33 reported that 75% or more of their Medicaid beneficiaries were enrolled in MCOs as of July 1, 2018. Of the 32 states that had implemented Medicaid expansion pursuant to the ACA, 27 were using MCOs to cover newly eligible adults as of July 1, 2018. Managed care health plans also continue to assume risk for a growing number of Medicare lives. Approximately 34% of all Medicare beneficiaries, or 20 million lives, were enrolled in Medicare Advantage plans in 2018.
+ 
+HMS continues to serve government agency fee-for-service programs at the state and federal level. These plans are generally reliant on and susceptible to the government appropriations process that determines their budget and governs the number of beneficiaries they serve. According to the CMS NHE projections, Medicare programs in 2018 covered approximately 59 million people at a cost of approximately $748 billion and Medicaid/CHIP covered approximately 81.2 million people, costing approximately $641 billion. Altogether, it is projected that the government programs we serve covered approximately 140.2 million people at a total cost of nearly $1.39 trillion in 2018.
+ 
+CMS projects that Medicare enrollment growth will increase by 3.03% in 2019, with expenditures to increase by 7.95% in 2019 compared to 2018; and Medicaid/CHIP enrollment growth will increase by 1.97% in 2019, with expenditures to increase by 5.5% in 2019 compared to 2018. As commercial and government health plans focus on strategies to contain costs across their different lines of business, HMS will continue offering solutions to meet their evolving needs.
+ 
+Competitors
+ 
+The U.S. healthcare marketplace is a dynamic industry with a range of businesses currently offering cost containment services, both directly or indirectly (through subcontracting), to some or all of the various healthcare payers, providers, employers and consumers. In addition, with improvements in technology and the growth in healthcare spending, new businesses are incentivized to enter this marketplace. Many customers also have the ability to perform some or all of the needed cost containment services themselves and choose to exercise that option to varying degrees. Therefore, competition is robust as customers have many alternatives available to them in their effort to contain healthcare costs.
+ 
+We compete based on a variety of factors, including our ability to provide a broad range of solutions that span the entire healthcare claims payment and services continuum. These include payment accuracy solutions focused on COB and PI related functions, as well as TPM solutions which support the ability of payers to better understand and engage consumers, perform effective outreach, and impact both costs and health outcomes.
+ 
+We have a proven record of delivering results that optimize savings and recoveries, enabled by:
+ 
+
+§ | in-depth government and commercial healthcare program experience; 
+--+-----------------------------------------------------------------------------------------------------------
+
+
+§ | clinical staff expertise; 
+--+-------------------------------------------------------------------
+
+
+§ | expansive data resources; 
+--+-------------------------------------------------------------------
+
+ 
+8
+
+
+§ | innovative technology; 
+--+----------------------------------------------------------------
+
+
+§ | enterprise analytics; 
+--+---------------------------------------------------------------
+
+
+§ | an extensive insurance eligibility database; 
+--+--------------------------------------------------------------------------------------
+
+
+§ | extensive relationships with customers and other industry stakeholders; and 
+--+---------------------------------------------------------------------------------------------------------------------
+
+
+§ | an ability to provide customers with actionable intelligence to improve clinical outcomes, optimize patient engagement, and better manage costs. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Our competitors range in size from large, diversified national companies, to small, specialized firms. Some of these competitors have significantly greater financial and technical resources, and others have longer operating histories and greater name recognition than we do in certain markets. Within our payment accuracy portfolio of products and services, we compete primarily with large business outsourcing and technology firms, claims processors and PBMs, clearinghouses, healthcare consulting firms, and other vendors who provide some or all of these solutions to payers. In addition, we frequently work with customers who may elect to perform some or all of their cost avoidance and recovery functions in-house. Within the population health management sector, we compete primarily with vendors who provide care management, consumer engagement, and related technology services. Companies with whom we compete across our offerings include:
+ 
+
+§ Accenture plc | § CaseNet LLC | § Change Healthcare 
+---------------------------------------+------------------------------+----------------------------------------------
+§ Cotiviti Corporation | § DXC Technology Company | § Equian, LLC 
+§ EXL Service Holdings, Inc. | § Experian Health | § IBM Watson Health 
+§ LexisNexis | § MedHok, Inc. | § Optum (subsidiary of UnitedHealthGroup) 
+§ Performant Financial Corporation | § Welltok, Inc. | § ZeOmega LLC 
+
+Business Strategy
+ 
+We believe that the steadily increasing enrollment and rising expenditures for Medicare and Medicaid, with most new enrollees entering managed care plans; an aging U.S. population with an increasing concentration of individuals with high cost chronic conditions and often co-morbidities; and the overall complexity of the healthcare claims payment system in the U.S. all combine to create substantial growth opportunities for the suite of cost containment solutions we offer.
+ 
+
+9
+
+We also believe these factors present growth opportunities for our TPM services. We are focused on growing our business over the course of 2019 and beyond, both organically and inorganically, by leveraging existing key assets (e.g., our data, analytics, in-house expertise, and distribution channel) and pursuing a number of strategic objectives or initiatives, including:
+ 
+
+§ | Expanding the scope of our relationship with existing customers – by selling additional solutions and services, including those designed to improve member engagement and improve clinical outcomes. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+§ | Adding new customers – by marketing to commercial health plans, including Medicaid managed care and Medicare Advantage plans, at-risk group and individual health lines of business and ASOs; government healthcare payers, including Medicaid agencies, state employee health benefit plans and CHIPs; at-risk provider organizations and ACOs; and commercial self-insured employers. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+§ | Introducing new innovative solutions and services – through internal development initiatives designed to enhance or expand our existing suite of cost containment solutions. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+§ | Utilizing technology tools to leverage a big data environment – to create a more nimble operating environment, create operating efficiencies, improve the yield on our existing solution suite and identify new revenue opportunities within our current service delivery models. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+§ | Promoting automation and innovation to improve the efficiency and effectiveness of our services – by continuing to implement new technology and process improvements designed to increase recovery yields, increase customer satisfaction and achieve greater operating efficiencies. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+§ | Prudent deployment of capital – by investing in internal growth initiatives; selectively investing in capabilities, technologies, and assets to complement our core cost-containment expertise; building care management and care coordination adjacencies to complement the Essette and Eliza acquisitions and our internally developed Elli risk intelligence product; and expanding our data analytics capabilities. Our focus may include acquisitions that represent long-term growth potential, target high-growth areas, are accretive to earnings, enhance our technological capabilities and fill a strategic need in our business portfolio as we seek to provide increasingly comprehensive solutions to our customers. We may also repurchase our shares, pursuant to a two-year $50 million authority granted by our Board of Directors in November 2017, which has a remaining unused authority of approximately $29.9 million. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+

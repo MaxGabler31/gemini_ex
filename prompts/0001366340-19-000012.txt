@@ -1,0 +1,297 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS.
+Overview
+Finjan Holdings, Inc. (the “Company” or “Finjan Holdings”) is a pioneer in cybersecurity focused in three business lines; intellectual property licensing and enforcement, mobile security application development, and investing in cybersecurity technologies and intellectual property.  Licensing and enforcement of the Company's cybersecurity patent portfolio is operated by its wholly-owned subsidiaries Finjan, Inc. (“Finjan”) and Finjan Blue, Inc. ("Finjan Blue"). The Company’s mobile security business is operated through its wholly-owned subsidiary Finjan Mobile, Inc. ("Finjan Mobile"). 
+Finjan Holdings was incorporated in Delaware in January of 2006, with Finjan becoming a wholly owned subsidiary of Finjan Holdings in June of 2013 after a merger transaction resulting in the public trading of our common stock. Our common stock has been trading on the NASDAQ Capital Market ("NASDAQ") since May 2014. 
+Founded in 1997, Finjan developed software and hardware-based web and network security technologies capable of detecting previously unknown and emerging threats on a real-time, behavior-based, basis, in contrast to signature-based methods of intercepting only known threats to computers. The older, signature-based methods were standard in the web and network security industry during the 1990s. Finjan invested heavily in research and development of its technologies as well as in protecting its innovations by securing patents covering them.  As the web and endpoint security industries - known as cybersecurity - have transitioned to behavior-based detection of malicious code, we believe that our patented technologies continue to be widely used, without license, by third parties in a number of market segments.
+During the years ended December 31, 2018, 2017 and 2016, we generated revenue from our cybersecurity business of approximately $82.3 million, $50.5 million and $18.4 million, respectively.
+During the years ended December 31, 2018, 2017 and 2016 our net income was approximately $20.7 million, $22.8 million and $0.4 million, respectively.
+As used in this Annual Report, references to the “Company,” “we,” “us,” and “our” are used to refer collectively to Finjan Holdings, Inc. and its subsidiaries, unless otherwise indicated or the context requires.
+Finjan Holdings Corporate Operating History
+Finjan was founded in 1997 as a wholly-owned subsidiary of Finjan Software Ltd (“FSL”), an Israeli corporation, to cultivate proprietary technologies that focused on proactively detecting threats to web and network traffic by identifying patterns and behavior of web and network viruses and other malicious code, rather than relying on lists of threats known within the web and network security industry. These technologies proactively scan and repel the latest, and often unknown, threats to network, web, and endpoint devices on a real-time basis.  Following the development of its patented technologies, FSL, together with its subsidiaries, provided secure web gateway solutions, including software and hardware, to the enterprise and endpoint markets both directly and through technology partners and original equipment manufacturers ("OEMs").
+In 2002, FSL engaged in a reorganization in which Finjan Software, Inc. (“FSI”), a Delaware corporation, was formed to acquire and hold all of the capital stock of Finjan. Between 2002 and 2009, FSI focused its efforts on research and development and sales and marketing activities in an effort to bolster its position in the security industry and enhance its platform of web and network inspection technologies. Throughout that time period, FSI’s activities were funded primarily by venture capital and private equity firms with experience providing capital and management expertise to software security firms, some with investment and operational experience within Israel’s cybersecurity and technology sectors. Finjan also received financial backing from multi-national software and technology companies.
+Between approximately 2002 and 2006, competitors in the web and network security industry began moving towards real-time, behavior-based, proactive threat detection, at times in violation of Finjan’s patent rights. As a result, and beginning in 2005, Finjan commenced its licensing program around its patents. The first license, issued in 2005, was to Microsoft. In 2006, Finjan also initiated its first patent infringement litigation against a party it believed was infringing its patents.
+ 4
+
+In October 2009, FSI transferred its portfolio of intellectual property to Finjan (its wholly-owned subsidiary at the time). In November 2009, FSI sold certain assets, including certain of its operating subsidiaries (not including Finjan), and its sales and marketing assets to M86 Security ("M86").  Finjan also granted a fully-paid, non-exclusive patent license to M86, in consideration for which M86 issued shares of its common stock to Finjan and FSI.  In connection with that transaction, and subsequent to November 2009, FSI and its remaining subsidiaries (including Finjan) ceased the development, manufacture, marketing and sale of its products, as well as research conducted through its Malicious Code Research Center as part of a confidential non-compete provision.  Finjan retained ownership of its patents and all related rights.  In March 2012, M86 merged with Trustwave Holdings, Inc. ("Trustwave") through which M86’s license from Finjan was renewed with Trustwave to include an expanded scope and an extension of the aforementioned non-compete for the development of software and hardware security products. In September 2015, Trustwave was acquired by Singapore Telecom ("SingTel").
+Following the M86 and related transactions, and during an intervening period between 2009 and 2013, Finjan's existing investors financed its activities, which consisted primarily of enforcing its intellectual property in the security sector while the non-compete provision with M86 and Trustwave was in place.
+In April 2013, Finjan distributed all securities it held in two unaffiliated entities to FSI and made a payment of cash in an amount sufficient to repay and satisfy in full a pre-existing intercompany loan from FSI to Finjan. Following that distribution, the board of directors and stockholders of FSI approved the dissolution of, and a plan of liquidation for FSI that resulted in, among other things, the distribution of Finjan common stock to certain of FSI’s stockholders.
+In June 2013, we became publicly traded company and renamed the company Finjan Holdings, Inc. Finjan Holdings was capitalized with more than $30 million from Finjan's shareholders who, at the time of the listing on NASDAQ, owned approximately 91.5% of the Company’s public equity. Finjan’s shareholders outlined a vision as a public company to continue the licensing and enforcement of Finjan’s patented technologies as well as continuing to invest in new cybersecurity technologies and services. 
+In November 2013, Finjan Holdings made its first investment into an innovation fund focused on new cybersecurity technologies. The Company committed $5 million as a strategic limited partner to a fund managed by Jerusalem Venture Partners ("JVP"). JVP’s newly created Cyber Strategic Partners Fund VII was co-invested by the Company and three other multi-national companies. To date, there are eleven portfolio investments made through the JVP fund and the Company has already received distributions from its investment with JVP as two of the portfolio companies exited through an acquisition in 2015 and 2016. 
+In March 2015, the non-compete and confidentiality provisions related to the M86 and Trustwave transactions expired. Within three months, the Company had announced it was entering mobile security application development and launching an advisory services business. Today the Company operates its mobile security business through its subsidiary Finjan Mobile. CybeRisk Security Solutions, Ltd ("CybeRisk") was formed to deliver cyber security advisory services, however in 2018 the Company exited this business. Revenues and operations from CybeRisk were immaterial to the consolidated financial statements for the years ended December 31, 2018, 2017 and 2016.
+In August 2017, Finjan Holdings formed Finjan Blue to support development and licensing efforts relating to the IBM Security Patents obtained by Finjan Blue through the Patent Assignment and Support Agreement with IBM. The Agreement, includes pathways for Finjan and IBM to consider development efforts in the future and provides for the sharing of pertinent institutional knowledge and resources by IBM to Finjan Blue. The relationship with IBM was further expanded on May 15, 2018 with a second Patent Assignment and Support Agreement. 
+
+Licensing and Enforcement – Licensing Best Practices
+Under U.S. patent law, a patent owner has the right to exclude others from making, selling or using the owner’s patented technology without a license to do so. Through Finjan, we generate revenues and related cash flows by granting intellectual property licenses for the use of patented technologies that we own. We actively license and enforce our patent rights against unauthorized use of our patented technologies (i.e. potential infringers). Many of our license agreements, whether entered into via negotiated transactions (i.e. licensing transactions) or through a settlement or court ordered judgment (i.e. litigation action) or otherwise, are structured on a fully paid-up basis (often referred to as a “global peace license”). For such licenses, we generally agree to a lump sum license fee to be paid upon entering into the license or in accordance with a mutually agreed installment schedule. Some of our license agreements, however, provide for future royalty payments in the event the licensee achieves certain milestones specified in the applicable license agreement.  Our license agreements largely contemplate recovery of fees for sales made prior to the effective date of the license, as well as for future sales through a defined termination date, in an amount related to the royalties we would have received had a license been in effect at the time of such sales.
+ 5
+
+How we conduct our licensing programs and enforcement actions is generally guided by our “Licensing Best Practices,” which we adopted in March 2014 to demonstrate our commitment to ethical, transparent and consistent business practices for intellectual property ("IP") licensing. These Licensing Best Practices are based on the Company’s core values. In an effort to encourage meaningful discussion and drive real change in the licensing practices of entities that license (and may or may not directly manufacture or sell products) their respective patent portfolios, we called upon the IP industry to adopt similar initiatives that support technological advancements, investments in innovation and continued job creation, while preserving a strong patent system.  We continue to be involved in industry efforts in this area, we regularly receive feedback on our Licensing Best Practices, and we remain open to modifying our position based on potential adoption by broader industry groups.
+Our Licensing Best Practices include seven actionable elements:
+
+• | Ensure focused licensing and enforcement programs pursue the provider of the patented technology and not its customers, consumers or end users.
+
+
+• | Conduct reasonable diligence to determine a patent's enforceability and use with respect to prospective licensees and make that information available to them.
+
+
+• | Respect procedural rights and judicial efficiency in the courts and in the prosecution and protection of IP behind the innovation.
+
+
+• | Be transparent with the intent in each discussion and articulate the cause and effect scenarios which would prompt a shift in communication and an escalation of each discussion.
+
+
+• | Provide useful facts to prospective licensees and defendants to foster productive business discussions early and often to aid in informed decision-making.
+
+
+• | Offer fair value licenses or settlements based on legitimate factors and considerations.
+
+
+• | Commit to keeping lines of communications open between the patent owner and prospective licensee to preserve a path for the parties to find an amicable solution or resolution for their respective businesses.
+
+In some cases, notwithstanding our pursuit of negotiated license transactions based on our Licensing Best Practices, unlicensed users of our technologies may be unwilling, at least initially, to negotiate or pay reasonable royalties for their use (i.e. infringement) of our patented technologies and often dispute any allegations of patent infringement.  If we believe a party is infringing one or more of our patents and such party refuses to take a license, we may institute legal action against such party. In a patent infringement lawsuit, we typically seek damages for past infringement and an injunction against future infringement. We evaluate, on a case-by-case basis, whether to commence litigation to preserve our patent rights, the value of our portfolio and the value of the licenses to our existing licensees.  Even if litigation is commenced, however, we endeavor to keep the option for early resolution of the dispute between the parties available to the extent practicable.
+Licensing and Enforcement – Legacy Activities, Prior to 2013
+On June 24, 2005, Finjan’s then parent, FSL, entered into a patent license agreement with Microsoft Corporation for $8 million in cash as well as other valuable financial and non-financial consideration.  The license grant includes, among other things, a worldwide, non-exclusive, nontransferable royalty-free license for Microsoft and its affiliates to make, have made, use, sell, offer for sale, import and distribute licensed products, among other rights.
+In June 2006, Finjan, as successor to its parent FSI, filed a patent infringement lawsuit against Secure Computing Corp. ("Secure") and its subsidiaries in the United States District Court for the District of Delaware, resulting in a judgment of approximately $37.3 million, including interest and enhancements.  In September 2011, Finjan received proceeds of approximately $28.0 million, net of $9.3 million contingency legal fees, from Secure including $3.1 million of interest, in satisfaction of the judgment. In July 2010, Finjan filed a patent infringement lawsuit against five additional software and technology companies in the U.S. District Court of Delaware, which we refer to as the “2010 Litigation.”  In April 2012, Finjan entered into a binding memorandum of understanding with one of the parties to the 2010 Litigation pursuant to which Finjan agreed to withdraw its claims against such party and grant it a license to use Finjan’s patents in exchange for equity in such party and other consideration. The license is fully paid up unless the holder of the license has aggregate annual net sales to third-party distributors or re-sellers in excess of $10 million (which has not been achieved to date). In addition, Finjan signed a confidential settlement, release and license agreement with another party to the 2010 Litigation in November 2012.  Pursuant to such agreement, Finjan received $85 million in exchange for a one-time fully paid-up license, comprising a perpetual, non-exclusive worldwide license to Finjan’s patent portfolio as of the date of such 
+ 6
+
+agreement and patents with a first effective priority date occurring at any time prior to November 2022 that Finjan or its affiliates may own or control after the date of such agreement.
+Licensing and Enforcement – Current Activities, Post 2013
+Since completing the merger in June 2013, we have commenced preliminary discussions with numerous potential licensees and have filed a number of patent infringement lawsuits in the Northern District of California, where such lawsuits were warranted.  In each case, we endeavor to adhere to our high standards and stated Licensing Best Practices. For additional information regarding pending litigation, see “Item 3. Legal Proceedings.”
+During 2014, Finjan entered into a license agreement: 
+
+• | With a confidential third party against whom Finjan had filed a patent infringement lawsuit in the Northern District of California, in settlement of such suit. Pursuant to this agreement, the parties mutually agreed to dismiss the infringement litigation, and each party gave the other a general release for all claims that it might have against the other, known or unknown, based on the actions of either party on or before the date of the settlement. Under the license agreement, the third party agreed to pay Finjan a license fee of $8 million. 
+
+During 2015, Finjan entered into three license agreements:
+
+• | A Confidential Asset Purchase and Patent License Agreement, with F-Secure Corporation, a company incorporated in Finland (“F-Secure”). The agreement provides for F-Secure to pay Finjan the sum of $1.0 million in cash and the assignment by F-Secure to Finjan of two patents, U.S. Patent Nos. 8,474,048 and 7,769,991, including among other things, all progeny applications or patents, foreign counterparts and reissues (the “F-Secure Patents”). 
+
+
+• | A license agreement with Avast Software s.r.o., a company organized under the laws of the Czech Republic ("Avast") entered into a Confidential Patent License, Settlement and Release Agreement, under which Avast licenses from Finjan a worldwide, fully-paid up, non-exclusive, perpetual, irrevocable license under the identified Finjan patents and related patent rights to use, make, have made, sell, offer to sell, import, export, and/or otherwise distribute Avast covered products through multiple tiers of distribution. In consideration of the agreement, Avast agreed to pay Finjan $2.975 million in cash.
+
+
+• | A Confidential Patent License, Settlement and Release Agreement with a network security company ("Licensee") under which Licensee received from Finjan a worldwide, non-exclusive, irrevocable license under the identified Finjan patents and related patent rights to use, make, have made, sell, offer to sell, import and otherwise dispose of any and all Licensee products or services, alone or in combination with other Licensee products and services. In consideration for the license, Licensee agreed to pay Finjan $3.65 million.
+
+During 2016, Finjan entered into three license agreements:
+
+• | A Confidential Patent License, Settlement and Release Agreement (“June 2016 License”) with Proofpoint, Inc. (“Proofpoint”) and Armorize Technologies, Inc. The June 2016 License provides for Proofpoint to pay Finjan the sum of $10.9 million in cash. Certain portions of the June 2016 License are subject to Confidential Treatment pursuant to a Confidential Treatment request filed with the Securities and Exchange Commission (“SEC”).
+
+
+• | A Confidential Patent License Agreement (the “June 30, 2016 License”) with a European cloud-based network security firm (the “2016 European Licensee”). The June 30, 2016 License provides for the 2016 European Licensee to pay Finjan $565,000 in cash.
+
+
+• | A Confidential Patent License Agreement (the “December 2016 License”) with F5 Networks, Inc. (“F5”). The December 2016 License provides for F5 to pay a license fee of $4.0 million in cash. In exchange for the foregoing and other valuable consideration, Finjan agreed to, subject to certain restrictions, limits and other conditions, grant F5 a nonexclusive, irrevocable, worldwide paid-up license under Finjan’s patents as specified in the December 2016 License.
+
+During 2017, Finjan entered into five license agreements:
+
+• | A Confidential Patent License Agreement (the “Veracode Agreement”) with Veracode, Inc., a Delaware corporation (“Veracode”). Pursuant to the Veracode Agreement, Veracode obtained a license to the Finjan patent portfolio and agreed to pay a license fee of $2.0 million in cash. Such license does not grant Veracode any right to transfer, sublicense or grant 
+
+ 7
+
+any rights under the Veracode Agreement to a third party except as specifically provided under the Veracode Agreement.  Such license also has certain provisions relating to certain unlicensed products of any company that acquires Veracode, or is acquired by Veracode or its affiliates, in which case additional license fees may apply. The specific terms of the Veracode Agreement are confidential.
+
+• | Subsequent to the Avast license agreement entered into during 2015, in March 2017, Finjan and Avast entered into an amendment to the license agreement whereupon Finjan dismissed its breach of contract and patent infringement claims against Avast and AVG with prejudice in exchange for a payment by Avast to Finjan of $7.745 million.
+
+
+• | A Confidential Agreement with Sophos and certain of its affiliated companies providing for full releases by the parties and covenant not to sue and a Confidential Patent License Agreement between Finjan and Sophos Limited where Sophos Limited and its affiliates obtained a fully paid up license to the Finjan patent portfolio for a license fee of $15.0 million in cash. Additionally, Finjan Mobile entered into a Confidential Patent Cross License Agreement with Sophos Limited pursuant to which the parties granted patent cross licenses in which Sophos agreed to pay Finjan Mobile $2.5 million in cash.
+
+
+• | A Confidential Patent License Agreement (the “EU Agreement”) with a European corporation ("EU Licensee"). Pursuant to the EU Agreement, EU Licensee obtained a license to our patent portfolio and agreed to pay Finjan $4.9 million cash. Such license also has certain provisions relating to certain unlicensed products of any company that acquires EU Licensee, or is acquired by EU Licensee or its affiliates, in which case additional license fees may apply. The specific terms of the EU Agreement are confidential.
+
+
+• | A Confidential Patent License and Settlement Agreement (the “Finjan License”) with FireEye, Inc. whereby the companies resolved all pending litigation matters and together with a contemporaneous license agreement from FireEye to Finjan and its affiliates (the “FireEye License” and collectively with the Finjan License, the “Agreements”), the parties granted each other cross-licenses going forward. Under the terms of the Finjan License, FireEye agreed to pay Finjan $17.5 million in license fees, detailed as follows: (a) $12.5 million in cash, and (b) $5.0 million offset by $5 million in license fees from Finjan to FireEye under the FireEye License, granting a perpetual license for the use of FireEye's patents. The FireEye License was determined not to be an intangible asset since it had no defined future benefit. Therefore, the FireEye License was expensed under SG&A. 
+
+During 2018, Finjan entered into three license agreements:
+
+• | Finjan and collectively with the Company and its affiliated companies, (the “Finjan Parties”), announced that the Finjan Parties and the Symantec Corporation (“Symantec”) and its subsidiary, Blue Coat Systems, LLC (“Blue Coat”) (collectively, the “Symantec Parties”) entered into a Confidential Patent License and Settlement Agreement (the “License and Settlement Agreement”) effective February 28, 2018. Specifically, the parties have resolved and settled all claims between them. As part of the settlement, the Symantec Parties will obtain a license to, among others, the Finjan patents and pay the Finjan Parties $65.0 million in cash. Further, if Symantec acquires certain entities within four years from February 28, 2018, the Symantec Parties will pay additional license fees of up to $45.0 million to the Finjan Parties, unless otherwise mutually agreed to by the Company and Symantec. The remaining terms of the License and Settlement Agreement are confidential.
+
+
+• | A Confidential Patent License and Settlement Agreement (the “2018 Finjan License”) with Carbon Black, Inc., a Delaware corporation (“Carbon Black”), whereby the companies have resolved all pending litigation matters. In addition, Finjan Mobile, a wholly-owned subsidiary of the Company and Carbon Black have entered into a separate Confidential Patent Cross License Agreement (the “Cross License”), which serves to ensure the parties’ freedom to operate under the other’s patent portfolio. The terms of each agreement are confidential. Under the terms of the 2018 Finjan License, Carbon Black agreed to pay Finjan $3.9 million in license fees. Further, upon acquisition of Carbon Black or acquisitions by Carbon Black, additional one-time license fees will be due to Finjan equal to eight percent (8%) of the gross revenues of certain qualifying products and services for the four (4) concluded quarters immediately preceding the acquisition.
+
+
+• | A Confidential Patent License Agreement (the “June 2018 License Agreement”) with Trend Micro Incorporated (K.K.), a Japanese corporation (“Trend Micro Japan”) and Trend Micro, Inc., a California corporation (“Trend Micro U.S. and collectively with Trend Micro Japan, the “Trend Micro Parties”). The June 2018 License Agreement provides that the Trend Micro Parties will obtain a license to, among others, the Finjan patents and pay the Finjan parties $13.4 million in cash. Further, upon acquisition by the Trend Micro Parties of certain entities, the Trend Micro Parties will pay additional license fees to Finjan, unless otherwise mutually agreed to by the Company and the Trend Micro Parties. Further, the June 2018 License Agreement has additional provisions relating to certain unlicensed products of any company that
+
+ 8
+
+acquires a Trend Micro Party, in which case additional license fees may apply. The parties also entered into related agreements with respect to their respective patents, including the transfer of 18 select issued security-related patent assets from the Trend Micro Parties to the Finjan Parties. In accordance with ASC-845-10-30, the Company determined that the acquired assets are non-monetary with no defined future benefit, resulting in the conclusion that they are not assets. The remaining terms of the June 2018 License Agreement are confidential.
+Future Growth Strategy
+Our mission, for the foreseeable future, is to build a diversified cybersecurity company benefiting from historical investments in technology and patents while expanding into new product and service offerings. We believe our patented technologies continue to hold significant value and we intend to vigorously protect our investment, the value of our existing licensees’ investments, and the value that technology and intellectual property represents for our shareholders. We are pursuing and will continue to pursue our growth through the following strategies:
+
+• | Expand our IP Assets through Acquisitions and Strategic Partnerships - We intend to acquire and develop new patents, technologies or other business assets or companies and invest in intellectual property through strategic partnerships, acquisitions of technology-focused companies, IP portfolios or other assets and other initiatives. We endeavor to identify relevant security technologies and patents that have been, or are anticipated to be, widely adopted by third parties in connection with the manufacture or sale of products and services, and to which we can bring enforcement actions (i.e., licensing or litigation) and other expertise. We may also broaden our technology and patent holdings by working with inventors and universities, acquiring technology companies, investing in research laboratories, start-ups, and by creating strategic partnerships with companies, large and small, seeking to effectively and efficiently monetize their technology and patent assets. Our experience with monetizing both technologies and patents may be considered valuable by potential acquisition candidates and strategic partners who may lack resources or know-how to effectively and efficiently generate a return for those investments.
+
+Through Finjan Blue, we entered into a Patent Assignment and Support Agreement with International Business Machines Corporation, a New York corporation (“IBM”), effective August 24, 2017 ("Patent Assignment Agreement"). Pursuant to the Patent Assignment Agreement, Finjan Blue acquired 41 select issued and pending IBM patents in the security sector in exchange for $8.5 million cash, payable as follows: (i) $2.0 million upon execution of the Patent Assignment Agreement and (ii) $6.5 million over the subsequent four years, with a final payment due August 24, 2021. IBM will support Finjan Blue in its development and licensing of the IBM Security Patents and provide assistance for such efforts as needed for the term of the Agreement and Finjan Blue will reimburse IBM for reasonable time and out of pocket costs for such assistance, however IBM will not receive further proceeds from such efforts. IBM has reservation of rights with respect to the IBM Security Patents for its current licensees and open source initiatives. Finjan Blue and IBM also agreed to explore further development and licensing opportunities.
+The relationship with IBM was further expanded on May 15, 2018 with a second Patent Assignment and Support Agreement (the “May 2018 Patent Assignment Agreement”). Pursuant to the May 2018 Patent Assignment Agreement, Finjan Blue acquired 56 select issued and pending IBM patents in the security sector. The terms of the May 2018 Patent Assignment Agreement are confidential.
+On June 29, 2018, the Company including its wholly-owned subsidiaries, entered into the June 2018 License Agreement with Trend Micro Japan and Trend Micro Parties. The June 2018 License Agreement provides that the Trend Micro Parties will obtain a license to, among others, the Finjan patents and pay Finjan $13.4 million. Further, upon acquisition by the Trend Micro Parties of certain entities, the Trend Micro Parties will pay additional license fees to Finjan, unless otherwise mutually agreed to by the Company and the Trend Micro Parties. Further, the June 2018 License Agreement has additional provisions relating to certain unlicensed products of any company that acquires a Trend Micro Party, in which case additional license fees may apply. The parties also entered into related agreements with respect to their respective patents, including the transfer of 18 select issued security-related patent assets from the Trend Micro Parties to Finjan. The remaining terms of the June 2018 License Agreement are confidential.
+
+• | Develop and Expand Existing Patent Portfolio - We have obtained and continue our efforts to obtain new patents relating to security technologies through research and development and/or acquisition in the cybersecurity space.
+
+
+• | Continue to Demonstrate Best Practices in Pursuing Licensing Relationships and Enforcing our Patent Rights - In March 2014, we adopted Best Practices to demonstrate our commitment to ethical, transparent and consistent business practices for intellectual property licensing. We called upon and continue to promote industry-wide adoption of a set
+
+ 9
+
+of best practices through leadership organizations such as the Licensing Executive Society (LES) and the Open Register of Patent Owners that support technological advancements, investments in innovation, and continued job creation while protected by a robust patent system. In February of 2017, the American National Standards Institute or ANSI had approved LES' application to receive accreditation to become a Standards Development Organization or SDO. With this new endorsement and governance from ANSI, Finjan is moving swiftly to build industry consensus for IP and patent related matters in a number of disciplines. We intend to continue pursuing a proactive campaign that adheres to our best practices guidelines while rigorously protecting our intellectual property rights. We have entered into preliminary discussions with numerous potential licensees in accordance with these Best Practices but acknowledge that it takes many discussions and many months for preliminary discussions to culminate in a license agreement, if at all.  While it is our preference to resolve our patent-related disputes through amicable business solutions, protecting the value of our patented technology is paramount and enforcement actions are sometimes required.
+
+• | Invest in Internal Research & Development through Finjan Mobile - We continue to pursue internal research and development of security technologies that both relate to Finjan's existing patented inventions as well as new concepts to meet an ever-expanding market need. Since we do not yet have sufficient internal personnel to engage in large-scale research and development, we currently operate this business with limited internal staff focused on strategy and market development while software development is completed under contract with external developers. Products currently available include our Finjan Mobile Secure Browser and a Virtual Private Network (VPN), recently re-branded as InvinciBull, which can be used within the Finjan Browser or separately to encrypt data and keep consumers secure. 
+
+Finjan Mobile released InvinciBull VPN in September of 2018. The new and improved VPN is available for use on Apple and Android mobile platforms and Mac and Windows desktop applications. The InvinciBull VPN sits in the VitalSecurity family of products and builds upon the incorporation of Finjan's core security patented technology.
+InvinciBull VPN is available for download on the Apple and Android platforms in the iTunes and Google Play stores and desktop versions for Mac and Windows can be downloaded from InvinciBull.io.
+The Company continues to explore inorganic growth and acquisition opportunities along with additional marketing efforts to complement the vision for Finjan Mobile.
+Although we currently pursue growth initiatives through the above strategies, unforeseen market and industry conditions and new developments may necessitate changes in our strategies. We intend to remain resilient, flexible, and open to new opportunities that benefit our shareholders.
+Competition
+One of our strategic goals is to leverage the operational platform we have built to realize value inherent in not only our existing patent portfolio and cybersecurity technologies, but also technologies and other assets to be developed and acquired in the future.  We expect, however, to encounter significant competition in the area of technology and intellectual property acquisitions given the highly competitive nature of the cybersecurity sector. In certain cases, we may partner with venture capital firms, strategic corporate buyers and various industry leaders to effectuate a technology acquisition or realize new licensing opportunities.  In other situations, these same venture capital firms, corporate buyers and industry players may be our direct competitors for the technology and intellectual property assets.  
+We also face competitive pressures in the sense that companies may develop competing technologies that offer better or less expensive alternatives to our patented technologies (i.e. “design arounds”). Technological advances or entirely different approaches developed by one or more of our competitors could render certain of the technologies owned or controlled by our operating subsidiaries obsolete and/or materially reduce their value.
+ 10
+
+Patented Technologies
+Through Finjan and Finjan Blue, we currently have 31 and 72 issued U.S. patents, respectively, and Finjan Mobile has 5 issued U.S. patents. Finjan’s current U.S. issued patents began expiring in 2017. Finjan also has 2 U.S. patent applications pending, 38 international issued patents, and one international patent application pending. Finjan Blue has 39 pending and issued international patents and applications. Finjan Mobile has 4 U.S. patent applications pending, and has 6 international patents pending as of the date of this report. Although we may, from time to time, focus on monetizing certain of these patents, we consider all of our patents to be “core” patents for our business.
+The following tables set forth a brief description of issued and pending U.S. patents, including their respective titles:
+FINJAN'S ISSUED U.S. PATENTS
+
+U.S. Patent No. | Title 
+6,092,194 * | System and Method for Protecting a Computer and a Network from Hostile Downloadables
+6,154,844 * | System and Method for Attaching a Downloadable Security Profile to a Downloadable 
+6,167,520* | System and Method for Protecting A Client During Runtime from Hostile Downloadables 
+6,480,962* | System and Method for Protecting A Client During Runtime from Hostile Downloadables 
+6,804,780 * | System and Method for Protecting a Computer and a Network from Hostile Downloadables
+6,965,968 | Policy-Based Caching 
+7,058,822 | Malicious Mobile Code Runtime Monitoring System and Methods 
+7,418,731 | Method and System for Caching at Secure Gateways 
+7,613,918 * | System and Method for Enforcing a Security Context on a Downloadable 
+7,613,926 * | Method and System for Protecting a Computer and a Network from Hostile Downloadables
+7,647,633 | Malicious Mobile Code Runtime Monitoring System and Methods 
+7,756,996 | Embedding Management Data Within HTTP Messages 
+7,757,289 | System and Method for Inspecting Dynamically Generated Executable Code 
+7,769,991 | Automatically Executing an Anti-Virus Application on a Mobile Communication Device 
+7,930,299 | System and Method for Appending Security Information to Search Engine Results 
+7,975,305 | Method and System for Adaptive Rule-Based Content Scanners for Desktop Computers 
+8,015,182 | System and Method for Appending Security Information to Search Engine Results 
+8,079,086 * | Malicious Mobile Code Runtime Monitoring System and Methods 
+8,087,079 | Byte-Distribution Analysis of File Security 
+8,141,154 | System and Method for Inspecting Dynamically Generated Executable Code 
+8,225,408 | Method and System for Adaptive Rule-Based Content Scanners 
+8,474,048 | Website Content Regulation 
+8,566,580 | Splitting an SSL Connection Between Gateways 
+8,677,494 * | Malicious Mobile Code Runtime Monitoring System and Methods 
+9,141,786 * | Malicious Mobile Code Runtime Monitoring System and Methods 
+9,189,621 * | Malicious Mobile Code Runtime Monitoring System and Methods 
+9,219,755 * | Malicious Mobile Code Runtime Monitoring System and Methods 
+9,294,493 | Computer Security Method and System with Input Parameter Validation 
+9,444,844* | Malicious Mobile Code Runtime Monitoring System and Methods 
+9,525,680 | Splitting an SSL Connection Between Gateways 
+9,800,553 | Splitting an SSL Connection Between Gateways 
+* Indicates that such patent has expired.
+
+FINJAN'S PENDING U.S. PATENT APPLICATIONS
+
+Application No. | Title 
+14/941,911 | Malicious Mobile Code Runtime Monitoring System and Methods
+15/708,719 | Splitting an SSL Connection Between Gateways 
+
+ 11
+
+FINJAN BLUE'S ISSUED U.S. PATENTS
+U.S. Patent No. | Title 
+6,199,204* | Distribution of Software Updates via a Computer Network 
+6,202,207* | Method and a Mechanism for Synchronized Updating of Interoperating Software 
+6,314,428* | Method and Apparatus for Application Management in Computer Networks 
+6,584,569 | System for Determining Web Application Vulnerabilities 
+6,779,021 | Method and System for Predicting and Managing Undesirable Electronic Mail 
+6,785,732 | Web Server Apparatus and Method for Virus Checking 
+6,826,716 | Test Programs for Enterprise Web Applications 
+6,907,531 | Method and Systems for Identifying, Fixing and Updating Security Vulnerabilities 
+7,084,760 | System, Method and Program Product for Managing an Intrusion Detection System 
+7,140,041 | Detecting Dissemination of Malicious Programs 
+7,177,937 | Web Server Apparatus And Method For Virus Checking 
+7,237,265 | System for Determining Web Application Vulnerabilities 
+7,340,776 | Method and System for Configuring And Scheduling Security Audits of a Computer Network 
+7,346,929 | Method and Apparatus for Auditing Network Security 
+7,437,760 | Antiviral Network System 
+7,475,427 | Apparatus, Methods and Computer Programs for Identifying or Managing Vulnerabilities Within a Data Processing Network 
+7,487,543 | Method and Apparatus For The Automatic Determination of Potentially Worm-Like Behavior of a Program 
+7,490,354 | Virus Detection in a Network 
+7,739,739 | Antiviral Network System 
+7,770,225 | Method and Apparatus for Auditing Network Security 
+7,779,474 | Virus Detection in a Network 
+7,895,340 | Web Server Apparatus and Method for Virus Checking 
+7,945,957 | Antiviral Network System 
+7,996,905 | Method and Apparatus for the Automatic Determination of Potentially Worm-Like Behavior of a Program 
+8,006,289 | Method And System For Extending Authentication Methods 
+8,261,354 | System, Method and Program Product for Dynamically Performing an Audit and Security Compliance Validation in an Operating Environment 
+8,381,242 | Static Analysis for Verification of Software Program Access to Secure Resources for Computer Systems 
+8,458,793 | Methods, Computer Program Products and Data Structures for Intrusion Detection, Intrusion Response and Vulnerability Remediation Across Target Computer Systems
+8,495,357 | Data Security Policy Enforcement 
+8,510,842 | Pinpointing Security Vulnerabilities in Computer Software Applications 
+8,572,750 | Web Application Exploit Mitigation in an Information Technology Environment 
+8,640,252 | Obfuscating Entry of Sensitive Information 
+8,646,086 | Image Vulnerability Repair in a Networked Computing Environment 
+8,683,599 | Static Analysis for Verification of Software Program Access to Secure Resources for Computer Systems 
+8,694,786 | Virtual Machine Images Encryption Using Trusted Computing Group Sealing 
+8,695,098 | Detecting Security Vulnerabilities in Web Applications 
+8,752,182 | Pinpointing Security Vulnerabilities in Computer Software Applications 
+8,782,351 | Protecting Memory of a Virtual Guest 
+8,788,763 | Protecting Memory of a Virtual Guest 
+8,793,800 | Static Analysis for Verification of Software Program Access to Secure Resources for Computer Systems 
+8,800,047 | System, Method and Program Product for Dynamically Performing an Audit and Security Compliance Validation in an Operating Environment 
+
+ 12
+
+
+8,910,291 | Black-Box Testing of Web Applications with Client-Side Code Evaluation 
+8,935,794 | Verifying Applications Security Vulnerabilities 
+8,943,599 | Certifying Server Side Web Applications Against Security Vulnerabilities 
+8,949,995 | Certifying Server Side Web Applications Against Security Vulnerabilities 
+8,955,094 | User Session Management for Web Applications 
+8,984,642 | Detecting Security Vulnerabilities in Web Applications 
+9,003,480 | Classifying Files on a Mobile Computer Device 
+9,032,528 | Black-Box Testing of Web Applications With Client-Side Code Evaluation 
+9,032,529 | Detecting Vulnerabilities in Web Applications 
+9,094,446 | Image Vulnerability Repair in a Networked Computing Environment 
+9,124,624 | Detecting Vulnerabilities in Web Applications 
+9,160,756 | Method and Apparatus for Protecting Markup Language Document Against Cross-Site Scripting Attack 
+9,160,762 | Verifying Applications Security Vulnerabilities 
+9,172,717 | Security-Aware Admission Control of Requests in a Distributed System 
+9,189,625 | Data Management of Potentially Malicious Content 
+9,231,970 | Security-Aware Admission Control of Requests in a Distributed System 
+9,256,511 | Computer Software Application Self-Testing 
+9,264,443 | Browser Based Method of Assessing Web Application Vulnerability 
+9,271,146 | Mobile Privacy Information Proxy 
+9,317,697 | Processing of Restricted Access Data 
+9,460,291 | Detecting Stored Cross-Site Scripting Vulnerabilities in Web Applications 
+9,471,787 | Detecting Stored Cross-Site Scripting Vulnerabilities in Web Applications 
+9,497,209 | Image Vulnerability Repair in a Networked Computing Environment 
+9,530,016 | Using Source Taint Analysis to Reduce False Positives in an Advanced Persistent Threat (Apt) Protection Solution
+9,536,085 | Data Management of Potentially Malicious Content 
+9,544,327 | Prioritizing Security Findings in a SAS Tool Based on Historical Security Analysis 
+9,679,159 | Mobile Privacy Information Proxy 
+9,762,606 | Image Vulnerability Repair in a Networked Computing Environment 
+9,838,412 | Computer Software Application Self-Testing 
+9,876,816 | Detecting Stored Cross-Site Scripting Vulnerabilities in Web Applications 
+9,882,926 | Detecting Stored Cross-Site Scripting Vulnerabilities in Web Applications 
+* Indicates that such patent has expired.
+
+FINJAN MOBILE'S ISSUED U.S. PATENTS
+
+U.S. Patent No. | Title 
+9,554,279 | Authorized Areas Of Authentication 
+9,749,867 | Authorized Areas Of Authentication 
+10,003,975 | Authorized Areas Of Authentication 
+10,069,858 | Secure And Private Mobile Web Browser
+10,091,214 | Malware Warning 
+
+FINJAN MOBILE'S PENDING U.S. PATENT APPLICATIONS
+
+Application No. | Title 
+15/784,139 | Detection and Blocking of Web Trackers for Mobile Browsers
+16/012,044 | Authorized Areas of Authentication 
+16/111,143 | Secure and Private Mobile Web Browser 
+16/149,080 | Malware Warning 
+
+ 13
+
+Employees
+As of December 31, 2018, we had 10 full-time employees, on a consolidated basis and across all of our business lines.  We have budgeted to hire additional full-time employees (not including additional consultants or independent contractors) in the near future to expand our licensing and enforcement, mobile security and advisory services businesses. Personnel in our licensing and enforcement business are responsible for the execution of our licensing and enforcement strategy, including analyzing licensing opportunities and enforcement requirements, making tactical decisions related to our strategy, identifying new applications for our existing technologies and pursuing opportunities to invest in new technologies through strategic partnerships and acquisitions. Although our management dictates and controls our overall litigation strategy for each case we litigate (or settle), we use outside legal counsel to execute certain aspects of our strategies. We also use consultants, including Finjan’s founder and former Chief Technology Officer, Shlomo Touboul, to assess opportunities related to our technologies and additional technologies we may pursue in the future. We also expect to hire additional full-time employees into Finjan Blue to support our development and licensing efforts of the patents obtained through our Patent Assignment Agreement and our mobile security business, operated through our subsidiary Finjan Mobile. We do not expect to hire any full-time employees to manage our investment in the JVP innovation fund.
+Neither we nor any of our subsidiaries is a party to any collective bargaining agreement. We consider our employee relations to be good.
+Corporate Information
+Our principal executive offices are located at 2000 University Avenue, Suite 600, East Palo Alto, CA 94303. Our telephone number is (650) 282-3228 and our web address is www.finjan.com. Financial and other information can be accessed on the “Investors” section of our website. We make available through our website, free of charge, copies of our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after filing such material electronically or otherwise furnishing it to the Securities and Exchange Commission (the “SEC”). Also posted on our website are certain corporate governance documents, including our Code of Business Conduct and Ethics. The reference to our website is textual in reference only, and the information included or referred to on, or accessible through, our website does not constitute part of, and is not incorporated by reference into, this report or any other filing.
+We also file periodic reports, proxy statements and other information with the SEC. The SEC maintains an internet site at http://www.sec.gov that contains reports, proxy and information statements and other information regarding us and other issuers that file electronically with the SEC.

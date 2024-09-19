@@ -1,0 +1,189 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1.    BUSINESS
+Overview
+For more than 40 years, National Instruments Corporation (the “Company”, “NI”, “we”, “us” or “our”) has enabled engineers and scientists around the world to accelerate productivity, innovation and discovery. Our software-centric platform provides an advanced approach through integration of software and modular hardware to create automated test and automated measurement systems. We believe our long-term track record for innovation and our differentiated platform helps support the success of our customers, employees, suppliers, and stockholders.
+NI pioneered a software-based approach more than three decades ago that enables our customers to build systems that meet the unique test and measurement requirements for their applications. The differentiation of our software-based platform helps customers accelerate the design and testing of their next generation products. This delivers critical business value to our customers, such as helping them reduce cost and time to market in the validation and production testing of semiconductor technology, enable real-time simulation to accelerate the development of autonomous and electric vehicles, and create long life cycle test systems to support the development and operation of complex, systems in aerospace and defense. 
+Our overarching goal, which we call our core strategic vision, is to be the leader in software-defined automated test and automated measurement systems. This vision provides a framework to help us achieve our goals of strong profitability and revenue growth. In pursuing our vision, we have empowered our team to be deliberate about the market opportunities we pursue to fuel growth and provide significant value to our target customers.
+NI is headquartered in Austin, Texas. We were incorporated under the laws of the State of Texas in May 1976 and were reincorporated in Delaware in June 1994. In March 1995, we completed an initial public offering of our common stock. Our common stock, $0.01 par value, is quoted on the NASDAQ Stock Market under the trading symbol NATI.
+Our Approach to Automated Test and Automated Measurement Systems
+Our differentiated platform is a combination of software and modular hardware designed with an open infrastructure to enable connectivity and flexibility. NI’s open platform allows our customers to define systems needed to help them accelerate their application development, innovate faster, and continually integrate new technologies. Openness has been a hallmark of our approach to the market; evident in our integration with third-party hardware using technologies like instrument drivers to connect other common instruments in test and measurement, including open software interfaces for web and cloud connectivity as well as integration with Microsoft Visual Studio .NET languages, The MathWorks, Inc. MATLAB and Simulink software, and Python. 
+We have an expansive ecosystem of developers, partners, and third-party products that helps ensure that our customers have the tools, systems and expertise needed to build their automated test or automated measurement systems. The NI ecosystem includes an active community of software developers, over 8000 universities worldwide, support for over 10,000 third-party hardware devices, and over 1,000 Alliance Partners that provide integration services and consulting. NI’s support and services are an integral part of this ecosystem. With direct operations in approximately 50 countries, NI has local expertise, on-site services, and technical support to enable customer success.
+Our goal is to help our customers achieve a competitive advantage by using our platform to shorten their time to market and reduce their total cost of test system ownership.
+3
+
+Products, Technology, and Services
+Our commitment to innovation and continuous improvement has been a core value for us for over 40 years. Below is an overview of our products, technology and services. 
+Software
+
+NI software is the key differentiator of our platform. We have empowered hundreds of thousands of loyal application software developers through LabVIEW, a graphical application software package optimized for engineers. We have consistently invested to maintain and strengthen our software platform to provide a simplified user interface, faster time-to-test, modern web - and cloud-enabled capabilities, and the ability to quickly create application-specific software tools. 
+The NI software platform spans the full range of customer needs, from high-performance driver software for NI hardware to general-purpose development tools that allow customers to create their own IP to higher-level software products that directly meet targeted customer applications. A hallmark of the NI software platform is the integration of NI and third-party software and hardware. We recently demonstrated our commitment and discipline to software excellence by a major investment to modernize our software platform, which resulted in a refresh of our flagship software, LabVIEW, as well as a series of new software products that address higher-level customer needs.
+NI provides a wide variety of software tools for programming automated test and automated measurement applications. This software offering includes, but is not limited to: 
+Programming Environments
+
+• | NI LabVIEW - a graphical programming approach that helps visualize every aspect of the application, including hardware configuration, measurement data, and debugging. This visualization makes it simple to integrate measurement hardware from various vendors, represent complex logic on the diagram, develop data analysis algorithms, and design custom engineering user interfaces.
+
+
+• | NI LabWindows/CVI - an ANSI C integrated development environment and engineering toolbox with built-in libraries for measurement, analysis, and engineering UI design.
+
+
+• | NI Measurement Studio - a suite of .NET tools designed for building engineering applications in Microsoft Visual Studio to acquire, analyze, and display measurement data.
+
+Application Software
+
+• | NI TestStand - application software targeted for automated test and automated measurement applications in a manufacturing environment.
+
+
+• | NI VeriStand - a ready-to-use software environment for configuring real-time testing applications, including hardware-in-the-loop test systems. 
+
+
+• | Flexlogger - application software optimized for quick sensor configuration and data logging of mixed signals to verify electromechanical systems.
+
+
+• | NI InsightCM Enterprise - a software solution with tightly integrated hardware options for monitoring ancillary rotating equipment.
+
+Systems and Data Management
+
+• | NI DIAdem - configuration-based technical data management, analysis, and report generation tools to interactively mine and analyze engineering and measurement data.
+
+
+• | NI SystemLink - systems management software that enables the mass coordination of connected devices, software deployments, and data communications throughout a distributed system.
+
+4
+
+Modular Hardware 
+We provide modular instrumentation that offers our customers the ability to create their own unique programmable, flexible and low-cost solutions. We believe our modular instrument approach enables us to grow our sales in the automated validation and automated production test market by delivering more test coverage and a lower-cost alternative for our customers. We offer two primary hardware form factors, PXI and NI C-series, both with a modular input/output ("I/O") approach in addition to industry standard PCI form factors. The NI PXI modular instrument platform, introduced in 1997, is a standard PC architecture in a rugged form factor with expansion slots and instrumentation extensions for timing, triggering and signal sharing. PXI combines mainstream PC software and PCI hardware with advanced instrumentation capabilities. The NI C-series platform, used in our CompactRIO and CompactDAQ products, is a rugged, high-performance I/O and processing platform used in a wide variety of data acquisition applications. We believe our C-series data acquisition and control products provide unique value where diverse I/O is needed, and we believe that we can expand our user base through new distributed and rugged products. The NI PXI and C-series platforms include field programmable gate array ("FPGA") technology, giving customers programmable hardware capability that provides high performance and is user-customizable with NI LabVIEW software. 
+Increasingly, our customers’ applications demand more system capabilities that more closely match their application needs. We have continually evolved our offering to include highly innovative products and application-specific systems. One example in the semiconductor industry is our NI Semiconductor Test System ("STS") which combines NI modular instrumentation with NI software for RF and mixed-signal production testing. NI STS features fully production-ready test systems that use NI technology in a form factor suitable for a semiconductor production test environment. The STS combines the NI PXI hardware, TestStand test management software, and LabVIEW graphical programming software inside a fully enclosed test head. The compact STS design houses all the key components of a production tester while using a fraction of the floor space, power, and maintenance typically required by traditional automated test equipment. With the open, modular design, engineers can take advantage of the latest industry-standard PXI modules for more instrumentation and computing power. 
+Services
+We provide global services and support as part of our commitment to our customers’ success.
+Software Maintenance Services
+Software Services for End Users: Our Standard Service Program provides our end users with support services through a software maintenance contract. The Standard Service Program is designed to help ensure that our end users are successful with our products by providing the end user with regular product upgrades and service packs, professional technical support from local engineers, 24-hour-a-day access to self-paced online product training, and access to older versions of their licensed NI software.
+Volume Licensing for Account-Level Services: Our NI Volume License Program (“VLP”) and Enterprise Agreements (“EAs”) are designed to meet the needs of the business in addition to the needs of each end user. In addition to access to the Standard Service Program for each end user, businesses that take advantage of the VLP and EAs receive account-level benefits designed to help effectively manage their software assets and lower their total cost of ownership.
+Hardware Services and Maintenance
+Warranty and Repair. We offer standard and extended warranties to help meet project life-cycle requirements and provide repair services for our products, express repair, and advance replacement services.
+
+Calibration. To help our customers’ calibration needs, NI provides calibration solutions, including recalibration services, manual calibration procedures, and automated calibration software. In 2011, the American Association for Laboratory Accreditation accredited NI Calibration Services Austin to one of the highest international calibration standards in the industry, ISO/IEC 17025:2005 (“17025”). We now offer 17025 calibration services for original equipment manufacturers ("OEMs") and other organizations seeking to maintain their compliance with governmental, medical, transportation and electronics regulations. The 17025-calibration service offering is designed for companies standardizing their automated test and measurement systems on PXI modular instrumentation, which provides some of the most advanced technology for addressing the latest engineering challenges.
+
+System Configuration and Deployment: Our NI System Assurance Program provides a fast, easy way to get our customers' new NI systems up and running. Our trained technicians install software and hardware and configure our customers’ PXI, and NI CompactRIO system to their specifications.
+5
+
+Training and Certification
+NI Training Program. NI training helps the customer build the skills to more efficiently develop robust, maintainable applications. We offer fee-based training classes and self-paced online training for many of our software and hardware products. On-site courses are quoted per customer requests and we include on-line course offerings with live teachers.
+NI Certification Program. We offer programs to certify programmers and instructors for our products. Our certification program demonstrates our customers have the skills needed to create high-quality applications with NI software.
+Markets and Applications
+We believe the NI platform increasingly offers more value to our customers through system-level offerings especially in the semiconductor, transportation and aerospace, defense, and government ("ADG") industries. We believe our business continues to benefit from our innovative general-purpose platform investments and is focused on engineers and scientists in areas such as academia, electronics and manufacturing. 
+Semiconductor
+Within the semiconductor industry, customers are facing a rapid increase in complexity and intense time to market pressures. NI platform advantages, including high-speed PXI data busses and high-performance computing technologies such as FPGAs, as well as semiconductor-specific test software and multi-core computing, help deliver faster test times and lower test cost.  NI pioneered the use of user-programmable FPGAs to prototype the next generation of communications systems in 5G wireless.  In the validation lab, NI’s modular instruments feature a unique combination of best-in-class analog performance and high-performance computing capabilities. In production test applications, NI utilizes the same software and PXI instrumentation packaged within our innovative STS, a factory-ready, commercial automated test equipment ("ATE"), offering test throughput advantages to the production test floor.
+For the semiconductor industry, the NI platform provides the following features:
+
+• | Common software and hardware from the laboratory to fabrication
+
+
+• | Helps users achieve faster measurement time
+
+
+• | Ability to add new measurements as requirements change
+
+NI’s focus applications in the semiconductor industry include:
+
+• | RF/wireless including 5G
+
+
+• | Analog/mixed signal
+
+
+• | Optoelectronics/sensors/Microelectromechanical systems ("MEMs")
+
+Transportation
+Vehicles of today are growing more and more complex as their electronic content increases. The electrification of vehicles and driver assist technologies, including automated driver assist systems ("ADAS"), has introduced more challenging test requirements​ than ever before. The NI platform delivers key differentiation to address the growing needs in transportation. Specifically, we believe the NI platform provides diversity in I/O connectivity, real-time software performance, and user-defined, open software programmability. 
+For the transportation industry, the NI platform provides the following features:
+
+• | Real-time software performance
+
+
+• | Ability to connect to many diverse I/O types and sensors (vision, LIDAR, ultrasonic and others)
+
+
+• | Flexibility to update the system quickly as requirements change
+
+NI’s focus applications in the transportation industry include: 
+
+• | ADAS
+
+
+• | Electrification
+
+
+• | Hardware-in-the-loop testing
+
+
+• | Electromechanic tests
+
+
+• | End of line vehicle tests
+
+6
+
+Aerospace, Defense and Government
+The NI platform has delivered significant value to its customers in the aerospace, defense and government industry for decades.  ​The high density of test given the nature of the systems, need for highly iterative development, unique protocols, long product lifecycles, and proprietary algorithms that engineers in aerospace, defense, and government build​ makes the NI software-centric and modular hardware approach well suited for such markets. 
+For the aerospace, defense and government industry, the NI platform provides the following:
+
+• | Complete software tools for automated test
+
+
+• | Real-time software, FPGAs, software defined radio
+
+
+• | Broad measurement capabilities from electrical to physical, communications, actuation and more
+
+NI’s focus applications in the aerospace, defense and government industry include:
+
+• | Radar and spectrum record/playback
+
+
+• | Software-defined radios & transponders
+
+
+• | Production and maintenance ATE
+
+
+• | Embedded software and hardware-in-the-loop test
+
+Customers
+NI has a broad, diverse set of over 35,000 customer accounts worldwide, with no customer accounting for more than 3% of our revenues in any of 2018, 2017 or 2016. The NI offering serves a broad range of customers from small, innovative start-ups and individual engineers to large, multinational accounts. Any engineer or scientist looking to innovate, research, or reduce test time to get to market faster, could be a potential customer. 
+Sales and Distribution
+We distribute and sell our products primarily through a direct sales organization. We also use independent distributors, OEMs, value-added resellers ("VARs"), system integrators and consultants to market and sell our products. We have sales and support offices in approximately 50 countries including markets such as the U.S., Germany and China. Sales outside of the U.S. accounted for approximately 63% of our revenues in 2018, 2017, and 2016. We believe the ability to provide comprehensive service and support to our customers is an important factor in our business. We generally permit customers to return products within 30 days from receipt for a refund of the purchase price less a restocking charge. Our hardware products are generally warranted against defects in materials and workmanship for one year from the date we ship the products to our customers. Historically, warranty costs and returns have not been material. 
+Our foreign operations are subject to certain risks set forth under Item 1A, Risk Factors, We are Subject to Various Risks Associated with International Operations and Foreign Economies
+See discussion regarding fluctuations in our quarterly results and seasonality in Item 1A, Risk Factors, Our Revenues are Subject to Seasonal Variations.
+We have one operating segment and one reporting unit. For information regarding revenue, results of operations, and total assets for each of our last three fiscal years, please refer to our financial statements included in this Form 10-K and Management’s Discussion and Analysis of Financial Condition and Results of Operations included in Item 7 of this Form 10-K.
+Marketing
+We strive to educate engineers and scientists about the benefits of our platform-based approach, products and technology, highlighting the performance and cost advantages of our products. We reach our broad audience through scalable, digital tactics on our website at ni.com as well as through the wide distribution of content, including demonstration versions of our software, online webcasts, blogs, social media, participation in tradeshows, technical conferences, training and user seminars.
+Competition
+The markets in which we operate are characterized by competition from numerous competitors, some of which are divisions of large corporations. Several competitors offer box instrument hardware and software products that provide solutions that directly compete with modular hardware products, including PXI-based hardware and systems software. Key competitors include Advantest, Anritsu, Fortive, Keysight, Rohde & Schwarz, and Teradyne.
+7
+
+See further discussion regarding risks associated with our competitive environment in ITEM 1A, Risk Factors, We Operate in Intensely Competitive Markets.
+Research and Development
+We believe that our long-term growth and success depends on delivering high quality software and hardware products on a timely basis. We focus our research and development efforts on enhancing existing products and developing new products that incorporate appropriate features and functionality to be competitive with respect to technology and price/performance characteristics. Our research and development staff strive to build quality into our products at the design stage. We believe this “quality first” mindset helps to reduce overall development and manufacturing costs and provide reliability in our end products. 
+Our research and development expenses were $261 million, $232 million and $236 million in 2018, 2017, and 2016, respectively.
+Intellectual Property
+We rely on a combination of patent, trade secret, copyright and trademark law, contracts and technical measures to establish and protect our proprietary rights in our products. As of December 31, 2018, we held 862 U.S. patents (860 utility patents and 2 design patents) and 88 patents in foreign countries (77 patents registered in Europe, 5 patents in China, 5 patents in Japan, and 1 patent in Mexico), and had 60 patent applications pending in the U.S. and foreign countries. 257 of our issued U.S. patents are software patents related to LabVIEW, and cover fundamental aspects of the graphical programming approach used in LabVIEW. Our patents expire from 2019 to 2037. The expiration of any particular patent in the short term is not expected to have any significant negative impact on our business. No assurance can be given that our pending patent applications will result in the issuance of patents. We also own certain registered trademarks in the United States and abroad. See further discussion regarding risks associated with our patents in Item 1A, Risk Factors, Our Business Depends on Our Proprietary Rights and We Have Been Subject to Intellectual Property Litigation.
+Manufacturing and Suppliers
+We manufacture substantially all of our product volume at our facilities in Debrecen, Hungary and Penang, Malaysia. Our product manufacturing operations can be divided into four areas: electronic circuit card and module assembly; chassis and cable assembly; technical manuals and product support documentation; and software duplication. Most of our electronic circuit card assemblies, modules and chassis are manufactured in house, although contractors are used from time to time. The majority of our electronic cable assemblies are produced by contractors; however, we do manufacture some on an exception basis. Our software duplication, technical manuals and product support documentation are primarily produced by contractors. 
+Our manufacturing processes use large volumes of high-quality components and subassemblies supplied by outside sources. Several of these components are only available through limited sources. Limited source items purchased include custom application specific integrated circuits ("ASICs"), chassis and other items. We have in the past experienced delays and quality problems in connection with limited source items, and there can be no assurance that these problems will not recur in the future. Accordingly, our failure to receive items from limited source item suppliers could result in a material adverse effect on our net sales and operating results. See “Our Business is Dependent on Key Suppliers” at page 15 for additional discussion of the risks associated with limited source suppliers.
+We must comply with many different governmental regulations related to the use, storage, discharge, and disposal of toxic, volatile or otherwise hazardous chemicals used in our operations in the U.S., Hungary, and Malaysia. See Item 1A, Risk Factors, Our Operations are Subject to a Variety of Environmental Regulations and Costs at page 17 for further discussion of environmental matters as they may affect our business.
+Backlog
+Backlog is a measure of orders that are received but that are not shipped to customers at the end of a quarter. We typically ship products shortly following the receipt of an order. Accordingly, our backlog typically represents less than 5 days sales. Backlog should not be viewed as an indicator of our future sales.
+Employees
+As of December 31, 2018, we had 7,263 employees worldwide. None of our employees are represented by a labor union and we have never experienced a work stoppage. We consider our employee relations to be good.
+8
+
+Corporate Responsibility 
+
+Our global employees embody the culture and the value of our brand by doing what we do best - accelerating productivity, discovery, and innovation for engineers and scientists. From inspiring future STEM leaders to reducing environmental impact, corporate responsibility is engrained in NI's company culture, goals, and business practices from product development to employee engagement. 
+At NI, we take our responsibility seriously. For more than four decades, we have worked together with our innovative customers to empower them with our platform to solve problems and improve everyday life around the globe. Our corporate social responsibility programs support this work. Through aligning our investments in academia, our employee mentor program, and our giving programs to further STEM education, we are investing in future discovery and innovation as well as a pipeline of diverse talent for STEM fields. Supporting our employees and our communities on a regular basis shows the true value of corporate responsibility and its central importance to the future of our business. 
+Available Information 
+
+Our website is www.ni.com. Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act and every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T are available through our Internet website as soon as reasonably practicable after we electronically file such materials with, or furnish them to, the SEC, or upon written request without charge. Our website and the information contained therein or connected thereto are not intended to be incorporated into this Annual Report on Form 10-K. The SEC maintains a website, www.sec.gov, which contains these reports and other information regarding issuers that file electronically. 
+9
+

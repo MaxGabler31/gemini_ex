@@ -1,0 +1,312 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business
+--------+---------
+
+ Certain statements in this Annual Report on Form 10-K are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the Securities Act), and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act). These statements involve a number of risks, uncertainties and other factors that could cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by these forward-looking statements. Factors which could materially affect such forward-looking statements can be found in the section entitled Risk Factors in Part 1, Item 1A in this Annual Report on Form 10-K. Investors are urged to consider these factors carefully in evaluating the forward-looking statements and are cautioned not to place undue reliance on such forward-looking statements. The forward-looking statements made herein are only made as of the date hereof and we will undertake no obligation to publicly update such forward-looking statements to reflect subsequent events or circumstances. 
+ Overview 
+ Monotype is a leading global provider of design assets, technology and expertise for creative minds and content creators across the globe. We support people from global enterprise organizations to agencies to individual designers, by providing them solutions that drive brand expression, technology that cultivates meaningful engagement with customers, and expertise that drives better design and improved marketing outcomes. 
+ At the highest level, we organize our business operations into two areas: 
+ Creative ProfessionalOur Creative Professional business offers solutions that include type intellectual property (IP), enterprise software for visual content marketing and custom type design services. We market these solutions through our direct sales channel, e-commerce and partner platforms. We work with a wide range of customers worldwide, including brands, agencies, publishers and individuals. 
+ OEMOur OEM business provides software technology and type IP solutions to device manufacturers and independent software vendors, or ISVs, that ensure a consistent, compelling user experience across a myriad of digital devices and display applications. These technologies are typically purchased and used by leading makers of a wide range of devices, including laser printers, digital copiers, automotive displays, mobile phones, navigation devices, e-book readers, tablets, digital cameras, digital televisions, set-top boxes, consumer appliances and Internet of Things devices. These solutions also provide a high-quality text experience in numerous software applications and operating systems. 
+ Our principal office is located in Woburn, Massachusetts, with regional offices in San Francisco, Los Altos and Los Angeles, California; Boulder, Colorado; Chicago, Illinois; New York, New York; Cordoba, Argentina; Salfords and London, United Kingdom; Bad Homburg and Berlin, Germany; Noida, India; Shanghai and Hong Kong, China; Seoul, Republic of Korea; and Tokyo, Japan. 
+ Industry Overview and Market Opportunity 
+ Digital transformation continues to advance the way individuals and businesses interact, and has had a sweeping impact on the markets and industries we serve. This transformation 
+ 
+2 
+
+
+  has introduced new distribution channels for marketers to reach their audiences, heightened the need for large amounts of personalized content, and amplified the requirement for a brand to stand out among its competitors. As brands distribute their content across a complex ecosystem of devices, screens, and online and offline operating platforms, organizations continue to modernize their technology solutions, seek support from trusted vendors, and increase the level of digital expertise and security across the entire organization. 
+ Todays creative professionals have a far better understanding of the customer today than a decade ago. This has been fueled by advancements in technologies such as artificial intelligence, or AI, and by greater access to data than ever before. A continued challenge for creative professionals, however, is finding balance between data, technologies and their ability to deliver content that is engaging, on brand and relevant to the intended audience, seamlessly across online and offline platforms. For device manufacturers, the challenge is ensuring both the brand assets and designs deployed everywhere have the look and feel that the author intended. 
+ Content Creators 
+ Content creators who produce digital or printed material seek creative ways to convey meaning and differentiate a brands identity. Fonts are an important tool for this differentiation. For example, creative professionals at multinational corporations are increasingly tasked with creating solutions that extend their brand into new markets and onto new devices and operating platforms. The challenge is to ensure that branding efforts are reflected consistently in every communication, regardless of media. In addition, creative professionals need design tools that integrate seamlessly into their workflows, making them more efficient. Web fonts, which travel with the content to a users connected device for consistent viewing regardless of the environment, are an example of a solution that addresses the needs of creative professional customers. 
+Marketers 
+ As marketers leverage new digital media channels to reach their audience, they are forced to alter business and marketing strategies to better serve a mobile-first, multi-screen marketing landscape. Marketers need to have compelling content in order to participate in these channels without being viewed as intrusive or inauthentic. Two positive aspects of the changing landscape have emerged. First, consumers are actively seeking to align with brands that they view as reflecting their values and second, these media platforms (including social and messaging platforms) are offering more direct data on users and their interaction with the content. Marketers now have an opportunity to turn their best customers into advocates of the brand and creators of content. With the right technology platforms, marketers can leverage data generated from these interactions to refine programming. 
+Consumer Device Manufacturers 
+ Consumer devices require extensive multimedia functionality so that users can view, create and share videos, animations and other rich-media and interactive content across various mobile devices. Consumer device manufacturers must display multimedia content, including text, from these different sources. They must also provide a consistent look and feel across devices, supporting worldwide languages and, in many cases, supporting enhanced personalization. As technologies enable media to move seamlessly from one device 
+ 
+3 
+
+
+  to another, its critical that the devices access scalable, multilingual type and related display solutions that are optimized for these devices. For example: 
+ 
+
+ | The automotive industry uses digital displays with complex, worldwide language requirements. As these manufacturers add more screens to automobiles, the demands for maintaining brand integrity increases.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Digital TVs incorporate scalable text for menu navigation, content delivery and connectivity.
+--+----------------------------------------------------------------------------------------------
+
+
+ | Rich media functionality has moved to mobile platforms, driving the adoption of scalable text on phones, tablets and similar devices.
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Makers of augmented reality and virtual reality, or AR/VR, devices that serve consumer, enterprise and government applications used text stabilization and display technology to reduce the physical discomfort some experience in these immersive environments.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Printer manufacturers are under cost pressure as consumers and businesses print less and store content digitally. Manufacturers of laser printers, typically those found in office environments, are responding by increasing the functionality of their products with new points of value such as a larger number of embedded fonts, expanded global language coverage and enhanced control panel functionality to create new printing paradigms and service offerings as well as lower costs. However, comprehensive global text solutions and related technologies continue to be an important part of printing platforms today and vital to the value manufacturers provide to their customers. 
+ Independent Software Vendors and Developers 
+ Independent software vendors, or ISVs, require multilingual text solutions for product user interfaces as well as a range of type to add functionality to applications. Mobile device game developers want a distinctive and consistent typeface for their games, especially when the game is designed to run on multiple devices and consoles. In addition, developers want to customize their offerings with fonts specific to their vertical market or geographic regions to ensure that text is displayed correctly on each device even when they have little control over how the content is consumed on the end device. 
+ ISVs and platform developers are increasingly distributing their solutions through software-as-a-service (SaaS), cloud-based models and to multiple devices including PCs, mobile phones, game consoles, tablets and other devices. As a result, developers require font technologies that allow products to maintain a consistent, high-quality user experience regardless of the delivery model and device and its screen resolution. 
+Our Products 
+ Monotypes product offerings, primarily delivered through a term-based license or SaaS subscription, allow content creators and marketers to produce beautiful, authentic and impactful brands on any screen, in print or across the web. 
+Design Assets and Related Technology Solutions 
+ 
+
+ | The core of our business, the Monotype® Libraries, comprises some of the largest and most trusted inventories of typefaces. The library is made up of more than 13,000 typefaces, including some of the worlds most well-known designs, such as the Times New Roman®, Helvetica®, Frutiger®, ITC Franklin Gothic, FF® Meta® and Droid typefaces.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+4 
+
+
+ 
+ | Mosaic, our subscription-based enterprise software offering for global enterprises and agencies, is a platform for users to explore, use and license our entire Monotype Library through a central, web-based portal. Through the use of AI and machine learning, Mosaic aids users in identifying the right font for their particular project or need. Users can collaborate with teammates across their organization and with agency partners on projects, sharing fonts for use on any project worldwide.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Our e-commerce websites including myfonts.com, fonts.com, linotype.com and fontshop.com offer thousands of high-quality font products, including our own libraries as well as fonts from third parties. In 2018, our sites attracted about 50 million visitors from over 200 countries and territories.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | FontExplorer® X Pro and FontExplorer X Server font management solutions provide powerful, flexible and easy-to-use capabilities for managing and accessing fonts.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Screen Imaging Technologies 
+ 
+
+ | iType® font scaling engine renders high-quality display of text in every major language and in any size on memory-constrained devices, including, but not limited to, automotive displays, AR/VR, mobile phones, e-readers, tablets, set-top boxes and digital cameras, and is fully compatible with the industry-standard TrueType® and OpenType® font formats.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | M-Kit brings our expert text rendering add-on modules, Edge and FontLinker, to open-source font rendering and layout technologies such as FreeType, HarfBuzz and Pango. Designers and engineers are not constrained by the underlying development environments and can deliver crisp, dynamic text and anti-aliasing with our edge-tuning, hinting and grayscale rendering technology in 2D and 3D environmentsand enhance responsiveness to viewing conditionsin real time.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | iType Connects streamlines the development process by providing a pre-integrated solution for common consumer device platforms, such as FreeTypeTM.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | WorldType® Layout Engine enables consumer devices to accurately compose, position and render multilingual text, including text composed in complex writing systems such as Indic, Arabic and Hebrew scripts.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | WorldType Shaper product provides customers with existing layout systems the ability to integrate intelligent shaping and bidirectional capabilities to support complex scripts.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Monotype® Spark software is a powerful type and technology solution for developing high-quality, scalable text interfaces in low-end platforms with limited run-time memory. Designers and engineers use the Monotype Spark software to create flexible, scalable text displays in low and mid-end devices like wearables, medical devices and low-to-mid-end automotive clusters, without investing a substantial amount of work or money in additional hardware or memory. Monotype Spark software makes the type on these devices more beautiful and enables product manufacturers to keep development costs low and create an easy path to scale devices to support new languages and character sets in the future.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Edge rendering technologies preserve the look of high-quality text on a wide range of displays, even at small text sizes. Resolution and display technologies such as LCD or e-paper can significantly affect the visual display of rendered text. Edge technology encompasses Edge Tuner, the ability to tune the rendered output, and Edge Hinting, a method for fine-tuning individual characters. Edge Tuning and Edge
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+5 
+
+
+ 
+Hinting help customers achieve superior visual results using scalable fonts in a low memory footprint.
+------------------------------------------------------------------------------------------------------
+
+
+ | Edge360 technology brings advanced textual effects to 2D and 3D user interfaces, applications and games. For example, text can be zoomed in and out very quickly without having to re-render the text at the end of the zoom process. Text can be rotated in three dimensionsall while retaining clarity throughout the process.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | FlipFont mobile font download solution allows users to personalize and enhance the user interface and menus of their Android phones, making them more appealing and fun to use. Android handset manufacturers can enable FlipFont so users easily connect to an online selection of fonts, choose a new typeface, purchase the font, and safely download and install it.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Printer Imaging Technologies 
+ 
+
+ | Universal Font Scaling Technology, or UFST® font scaling engine, and our MicroType® font compression technology, are our primary solutions for laser printer manufacturers. These technologies are compatible with virtually all font formats and industry standards, including the PostScript and PCL printing languages.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | SmartHintTM enables precise pixel adjustments to enable fonts to display with optimal quality in challenging display environments.
+--+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Printer driver kits enable printer manufacturers to create customized laser printer drivers that allow applications to print as intended.
+--+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Our core sets of fonts for printer manufacturers consist of the PCL® (Printer Command Language) 6 and PostScript® 3 font collections. These fonts are designed for compatibility with HP and Adobe Systems Incorporated, or Adobe, font specifications.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Marketing Solutions 
+ 
+
+ | Olapics Content Engine amplifies engagement and performance in every channel with curated, high-converting images and videos taken by a particular brands actual customers. Olapic helps marketers solve the lack of high quality, high-performing content and the associated cost to create valuable content, commonly referred to as the content crunch, by tapping into the brand loyalists to provide high performing visual assets.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Olapics Content in Motion platform turns existing images into short-form video content, increasing efficiency and extending the value of a brands visual asset library. With both custom motion graphic or branded on-demand templates available, Content in Motion provides a video solution that scales across teams and brand needs.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Olapics Creator Platform is an influencer- and professionally-generated content platform that manages a private network of influencers, ambassadors and creators who source visual assets for a brand. The Creator Platform helps remove the manual work from these processes using a customer relationship management (CRM) and logistics engine to centralize influencer relationships, contributed content, and performance reporting.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+6 
+
+
+ Custom Design, Brand Consultation, and Technology Expertise 
+ 
+
+ | Our Studio Team, supported by a global network of talented font designers, provide expert consultation and custom type design services to help customers articulate their distinctive brand value through type. Working directly with clients and through branding agencies, our type design experts have developed the branding fonts used by many of Fortunes Global 2000 companies.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Our engineers provide technology support and professional services to make the most of our display and printing technologies. We help a wide range of companies from start-ups to Fortunes Global 2000 companies get their products to market quickly with less risk by using proven, high-quality, scalable solutions.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Competitive Strengths 
+ Design Assets. Our design assets serve varying needs within diverse organizations. Our rich, multi-language font IP and embedded font technology are crucial to our OEM customers who manufacture high-volume consumer devices that require superior multilingual legibility in support of multimedia functionality and multinational distribution. That same font IP is used to build a brands identityat a corporate or product level. Our Monotype Libraries, comprised of the Monotype, Linotype, ITC, Ascender, FontFont and Bitstream type collections, are some of the worlds best known inventories of type. Our selection is continuously expanding, adding even more fonts from some of the worlds best type designers, featuring a rich blend of timeless classics and cutting-edge designs, which support approximately 250 Latin and non-Latin languages. Our visual content tools, including our user-generated content (UGC) and short-form video, enable brands to extract highly authentic content in the form of photos and videos from users on social media platforms at scale. This content can be used in marketing programs to better connect with intended audiences and improve marketing outcomes. 
+ Expertise, Experienced Leadership and Employee Base. Our expertise in software engineering and font design gives us a strong foundation to meet the challenges of todays consumer environments. We are home to some of the worlds top type designers who provide expert consultation and custom design services to help customers articulate their distinctive brand values. We have deep domain expertise and engineering skills in fonts and font software as well as in visual content marketing through our acquisition of Olapic. 
+ Established Relationships with Market Leaders. Several of our customer relationships date back 25 years or more. Our OEM customers are many of the largest and most successful companies in each of the markets they serve. In the consumer device space, we provide solutions to market leaders like Google, Apple and Microsoft. In the laser printer market, our customers include eight of the top ten laser printer manufacturers based on the volume of units shipped worldwide. Our Creative Professional customers include major international retail, consumer packaged goods, financial services, media, publishing and marketing solutions companies, such as Hearst Magazines and Pearson, as well as major design firms. 
+ Global and Multi-Channel Presence. Our customers are located throughout the world and with our enterprise sales associates covering North America, EMEA, and APAC coupled with our websites, including myfonts.com, fonts.com, fontshop.com and linotype.com, we provide a footprint and sales channel designed to fit any customers needs. We support all of the worlds major languages and have specifically designed our solutions for displaying rich content in Asian and other non-Latin languages. We enable OEM customers to engineer a common platform supporting multiple languages, reducing costs and time to market, and 
+ 
+7 
+
+
+  increasing product flexibility. China, Japan and Korea are increasingly becoming centers of design, manufacturing and consumers of consumer devices, and we have more than 25 years of experience partnering with leading Asian companies such as Kyocera Mita. 
+ Attractive Business Model. We have a significant, predictable base of licensing revenue that is based, in part, on multi-year financial commitments by our customers, mainly due to our established relationships with OEMs, the high volume of web transactions, recurring direct sales business and enterprise software through the sale of Mosaic. Other revenue contracts have renewable term licenses, and in Creative Professional, our Olapic offering is a subscription-based model that provides a recurring stream of revenue. Our business model produces an overall recurring and predictable revenue base of over approximately 85% of our total revenue. 
+ Technological and Intellectual Property Leadership. Our technologies are key to providing unique, flexible and comprehensive solutions for content creation, distribution and consumption, and we continue to invest in extending our technology and market leadership positions. For example, the flexibility of our offerings enables us to provide tailored, comprehensive solutions for specific industries, such as the automotive industry. In addition, our Olapic technology platform for gathering, moderating, distributing and measuring user-generated content and other types of branded content, when utilized with our traditional offerings, provides our customers a unique solution for designing content and using that content for marketing purposes. 
+ Our Strategy 
+ Monotype empowers brand expression and engagement for creatives, designers, marketers and engineers whose three primary needs are to: 
+ 
+
+ | Produce compelling content that drives brand expression
+--+--------------------------------------------------------
+
+
+ | Activate that content everywhere
+--+---------------------------------
+
+
+ | Understand the impact of that content to drive improvement over time
+--+---------------------------------------------------------------------
+
+ To serve these needs, Monotype provides design assets such as fonts and visual content tools to manage photos, videos and text. We provide technologies that aid in the discovery, management and activation of those visual assets, as well as custom design and brand advisory services. Through our technology offerings and an assortment of licensing models available, Monotype enables brands to activate their design assets throughout the globe across any environment, both in print and in digital formats. 
+ From creating compelling brand experiences to cultivating engaging relationships between brands and their best customers, we strive to be the first place to turn for the design assets, technology and expertise that empower brand engagement and the best user experiences. The following are the key components of our strategy: 
+ Creative Professional 
+ Empower the Creative Process. Our focus is to help designers and other creative professionals succeed as workflows and publishing environments become more complex. Our customers are creating content that is distributed through a broad range of publishing environments, including the web, mobile devices, applications as well as print. We provide a comprehensive selection of typeface designs, custom typefaces, worldwide language support 
+ 
+8 
+
+
+  and fonts that are tuned to display in the highest quality, regardless of the output medium. Our licensing options provide flexible coverage to meet our customers evolving requirements. A key component of our strategy is offering simplified, flexible subscriptions to large portions of our font library, which is increasingly delivered through an enterprise software product offering, with the goal of making it easier for creative professionals to access and use any font. 
+ Our customers creative needs are not limited to fonts. Just as distribution environments have grown in complexity, so too have the forms of content to which consumers respond. Consumers find content that they view as authentic (as opposed to staged) as more attractive. To that end, our strategy includes offering design assets and other types of content that meet this requirement. User-generated photos and videos, which reflect consumers interpretation of the brand, and branded assets, which allow consumers to express themselves using a brands imagery, are examples of how Monotype is expanding its offering to meet these broader creative requirements. 
+ Cultivate Meaningful Digital Engagement. Our strategy now extends beyond the creation of content to marketers use of this content to communicate with their best customers. Monotype enables activation of branded user experiences to attract, acquire and engage our customers consumers. The goal is to provide content that resonates with these consumers through an authentic representation of the brand. Through our Olapic offerings, we offer a platform for gathering and moderating user-generated and influencer-generated content. The Content Engine platform allows brands to develop meaningful content, activate the content across myriad of distribution channels, and then measure response rates to determine what designs are most effective, which contributors offer the best content and what programs are most successful. 
+ OEM 
+ Display Imaging 
+ Increase Penetration of our Technologies and Fonts into a Wide Range of Device Categories. Our technologies and fonts play an important role in the mass-market success of device categories such as automotive displays, smart TVs, wearables, mobile devices and e-book readers and tablets. We have an established base of customers in these categories, and we will seek to expand within existing accounts as new models are added, or as new product lines are introduced. We intend to continue to pursue new design wins such as next-generation in-vehicle displays, and help customers meet key requirements including brand integrity, high legibility and worldwide language support. We also seek to expand our value proposition to device manufacturers by providing a more holistic solution that serves both product experience and branding needs. Our offering is an important component of the user experience on consumer devices. Yet the user experience is only one manifestation of a manufacturers brand communication. As an example, a mobile smartphone manufacturer utilizes our font IP and embedded technology to optimize the user experience of the device. That same manufacturer uses our font IP and UGC technology to develop a brands identity and influence purchase decisions of its target audience in leading channels. Our strategy includes introducing a licensing model that meets not only the device-side needs of device engineers but also the design and marketing needs of creative professionals within these large organizations. 
+ 
+9 
+
+
+ Printer Imaging 
+ Leverage Our Long-Term Relationships. We constantly strive to strengthen our long-term relationships by working closely with OEMs to fulfill evolving requirements, such as providing value-added solutions that differentiate offerings, reduce cost or capitalize on new technology paradigms. For example, we offer printer manufacturers flexible, high-performance printer driver tool kits that support popular operating systems. OEMs are able to integrate and customize robust printing capabilities to gain a competitive edge. Our flexible architecture, support for multiple print languages and extensive use of common code enables printer manufacturers to speed products to market while reducing development time and costs. Using our solution to support multiple page description languages, in combination with our fonts and drivers, provides a more complete offering. In addition, we offer licensing models that make deploying our fonts and technologies broadly within a printer manufacturers offering easy for the long term. 
+Independent Software Vendors and Developers 
+ Expand Support of ISVs to All Deployment Environments. Our ISV strategy is focused on licensing fonts and tools to provide the flexibility ISVs need to create compelling offerings for devices like tablets, smartphones and medical devices. Our core offering to ISVs and developers consists of fonts, custom typefaces and rendering technologies for language coverage, platform compatibility, user experience enhancement and creative expression. Options for accessing and deploying our software and applications have expanded from on-device to secure cloud-based services and combinations of the two. New environments such as AR/VR require our customers to display content in ways not envisioned previously. Our AR/VR solution enables ISVs to create a robust text experience within these applications. 
+Overall, We Seek to: 
+ Expand and Deepen our Global Presence. We intend to drive revenue growth by leveraging our knowledge of global markets and through global operations. Our strategy focuses on countries and regions where our target Creative Professional and OEM customers and prospects are concentrated. Our approach includes expanding our presence in key countries and developing a direct or indirect presence in countries that we evaluate as having strong potential for growth. Through this organic expansion and possible acquisitions, we intend to increase our ability to service consumer device manufacturers and creative professionals throughout the world. 
+ Selectively Pursue Complementary Acquisitions, Strategic Partnerships and Third-Party Intellectual Property. We intend to continue to selectively pursue acquisitions, strategic partnerships and third-party intellectual property to accelerate our speed to market with complementary solutions, penetrate new geographies and enhance our intellectual property portfolio of fonts and technologies. We believe that the market for our solutions is still fragmented which presents opportunity for building out our global offerings. In markets and industries that are still developing or are undergoing significant change, we will continue to seek out strategic partnerships to help us evaluate the attractiveness of the segment and our ability to support solutions to those customers. 
+ 
+10 
+
+
+ Our Customers 
+ We are committed to serving the design and marketing needs of our customers. Our technologies and services are sold to customers in two principal markets: Creative Professional and OEM. In 2018, 2017 and 2016 our revenue in these two markets was as follows (in thousands): 
+
+ | 2018 | | 2017 | | 2016 
+Principal Markets | Revenue | | Percentage ofTotal Revenue | | Revenue | | Percentage ofTotal Revenue | Revenue | | | Percentage ofTotal Revenue | 
+Creative Professional | $ | 159,119 | | 64 | % | $ | 130,595 | | 55 | % | | $ | 102,381 | 50 | %
+OEM | | 87,618 | | 36 | % | | 105,194 | | 45 | % | | | 101,060 | 50 | %
+Total | $ | 246,737 | | 100 | % | $ | 235,789 | | 100 | % | | $ | 203,441 | 100 | %
+
+ Our customers are among the worlds leading consumer device manufacturers and most well-known brands, including: 
+ 
+
+ | seven of the top ten laser printer manufacturers based on the volume of units shipped worldwide;
+--+-------------------------------------------------------------------------------------------------
+
+
+ | enterprise customers including Hilton, Pepsi and Slack;
+--+--------------------------------------------------------
+
+
+ | major software companies including Microsoft, Google and Apple;
+--+----------------------------------------------------------------
+
+
+ | e-book readers/tablets, including Amazon and Kobo;
+--+---------------------------------------------------
+
+
+ | other multinational corporations such as Condé Nast, Lloyds TSB, Panasonic, Pearson, Sony Computer Entertainment of America, Ubisoft, Tencent and Nike;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | major international media and marketing solutions companies such as Hearst Magazines and MRM McCann;
+--+-----------------------------------------------------------------------------------------------------
+
+
+ | many of the top automotive brands and manufacturers including Audi, Chrysler, Fiat, Ford, Honda, Great Wall Motors, Jaguar Land Rover and Mazda;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | digital television and set-top box manufacturers including TTE Technology, Toshiba, Sharp and Samsung Electronics; and
+--+-----------------------------------------------------------------------------------------------------------------------
+
+
+ | major consumer-packaged goods, apparel, travel and leisure, beauty, housewares and home furnishings, jewelry and retail companies, such as Calvin Klein, Dubai Tourism, eBay, Fitbit, Four Seasons Hotel, Garmin, Home Depot, Intercontinental Hotel Group, REI, Sepura, Urban Outfitters and West Elm.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ In 2018, 2017 and 2016, our top ten licensees by revenue accounted for approximately 24.2%, 27.3% and 30.3% of our total revenue, respectively. For the years ended December 31, 2018, 2017 and 2016, no customer individually accounted for more than 10% of our total revenue. For the quarters ended December 31, 2018, 2017 and 2016, no customer individually accounted for more than 10% of our total revenue. 
+ Our solutions are embedded in a broad range of consumer devices and are compatible with major operating environments. We partner with operating system and software application vendors such as Google, Apple, Microsoft, Oracle and Access. Additionally, we are an active participant in the development of industry standards which pave the way for support of advanced typographic capabilities across multiple devices. We are active in the development of various technology standards, including the ISO/IEC core font technology 
+ 
+11 
+
+
+  standardization work through our participation in the ISO MPEG Committee; various projects coordinated by W3C that include Web Fonts Working Group, CSS Working Group and Publishing Working Group; and Interactive Advertising Bureau as an active participant in multiple IAB Working Groups contributing to the development of various standards and industry guidelines. We have also joined the Virtual Reality Industry Forum as a contributing member in developing industry guidelines for text and font technology in AR/VR applications, and we are now a member of the ECMA Technical Committee 53 contributing to the development of JavaScript environment for Internet of Things devices. We serve as a chair of the W3C Web Fonts Working Group demonstrating our commitment to ensuring that web clients and applications effectively support fonts and font technologies, ultimately bringing to web developers and end users the highest level of text quality, performance and flexibility. In the past, we also contributed to a wide variety of standardization activities including the developments of hardware-accelerated vector graphics APIs (The Khronos Group), Java ME platforms for mobile devices (Java Community Project), DVB Multimedia Home Platform, and IDPF EPUB e-book standards and OMA Rich Media Environment. 
+ Marketing and Selling 
+ Our sales representatives directly target prospective clients with design, marketing and engineering requirements, focusing primarily on establishing long-term relationships. In addition, our renewals team maintains ongoing relationships with existing customers and focuses on renewing specific contracts and engagements with those customers. Our e-commerce websitesmyfonts.com, fonts.com, fontshop.com and linotype.comdrive sales from professional and casual users. 
+ Our marketing organization works to deliver a consistent message detailing our capabilities and to develop new avenues for presenting our solutions. We promote our solutions through a combination of digital marketing, social media engagement, public relations and media activities, editorial articles, innovative content, blogs, brochures, print advertising, case studies, collateral, speaking engagements, special events, exhibitions, educational programs, and attendance and participation at industry conferences and trade shows. We promote our e-commerce websites through a combination of affiliate programs, search engine optimization and e-mail marketing. 
+Research and Development 
+ We have a strong commitment to research and development for core technology programs directed at creating new products, product enhancements and new applications for existing products, as well as funding research into future market opportunities. Each of the markets we serve is generally characterized by rapid technological change and product innovation. We believe that continued timely development of new products and product enhancements to serve existing and new markets is necessary to remain competitive. Further, we continue to advance our machine learning capabilities across the business. At Olapic, we leverage machine learning to streamline moderation of UGC for our clients by processing over 100 million images in 2018, training the Olapic platform to sort through images that are unfit for use. In type, we use machine learning to improve search and discovery of font IP for our customers that access our libraries via our e-commerce sites and applications. This aids the users in finding the right IP for their specific needs quickly and more accurately. Our research and development operations are located in Woburn, Massachusetts; Los Altos, California; Boulder, Colorado; Chicago, Illinois; New York, New York; Cordoba, Argentina; Salfords, United Kingdom; Bad Homburg and Berlin, Germany; Noida, India; and Hong Kong, China. 
+ 
+12 
+
+
+ In 2018, 2017 and 2016, we incurred research and development expenses of $33.4 million, or 13.6% of sales, $37.0 million, or 15.8% of sales, and $28.9 million, or 14.2% of sales, respectively. Further information on research and development expenses may be found in Item 7, Managements Discussion and Analysis of Financial Condition and Results of Operations. 
+ Intellectual Property 
+ We rely on a combination of copyright, patent and trademark laws, and on contractual restrictions to establish and protect proprietary rights in our technologies and fonts. Whenever possible, we enter into non-disclosure agreements with our suppliers, partners and others to limit access to and disclosure of our proprietary information. 
+ We apply for U.S. and international patents with respect to our technologies, and seek copyright registration of our software and U.S. and international trademark registration in those instances which we determine are competitively advantageous and cost effective to do so. We have been granted a total of 25 patents and have 7 patents pending with the U.S. Patent and Trademark Office with many also filed in foreign jurisdictions. Some of our most important patents are related to our dynamic sub-setting, font compression and machine learning technologies. We have unregistered trademarks and, where appropriate, registered trademarks on the key fonts in our Monotype Libraries. We intend to continue our policy of taking all measures we deem necessary to protect our patent, copyright, trade secret and trademark rights. 
+ Some of our fonts are owned by third parties that we license under exclusive or non-exclusive agreements. We have also collaborated with third parties in the production and development of fonts. 
+Competition 
+ Our solutions compete with those offered by a variety of companies, including vendors of print and screen imaging technologies, printer drivers and design tools, as well as designers and distributors of fonts. We compete principally on the basis of our technical innovation, engineering and customer support expertise, the breadth of our font offerings and the overall performance of our solutions, including reliability and timely delivery. Competition with our solutions comes from a variety of sources, including companies that license technologies and fonts, such as Adobe, and local providers of solutions that are specific to a particular countrys language requirements, such as Morisawa in Japan. We also compete with open source fonts and technologies, including the FreeType text renderer, a product of an open source collaborative organization that provides its Linux font rendering code for free, and Google, which provides open source fonts. In addition, we compete with several small players in the emergent components of the visual content marketing space in which we participate, such as, but not limited to, Bazaarvoice, Curalate and Pixlee. The competition for our custom font design services generally comes from companies offering their own type libraries and custom type services, including boutique font foundries and independent professionals. 
+ 
+13 
+
+
+ Employees and Consultants 
+ At December 31, 2018, we employed 696 persons. The table below provides our employees by functional area. 
+ 
+
+ | Number ofEmployees | | Percentage
+Marketing and selling | | 292 | | 42 | %
+Research and development | | 275 | | 39 | %
+General and administration | | 129 | | 19 | %
+Total | | 696 | | 100 | %
+
+ None of our employees or consultants is represented by a union or covered by a collective bargaining agreement. Our German employees are represented by works councils in Berlin and Bad Homburg. These works councils have the right to participate in certain decisions by Monotype GmbH, including operational changes, such as relocation of the business or change of control transactions, and social matters such as wages and salaries and working hours. We believe that our relations with our employees and consultants are good. 
+ Corporate and Investor Information 
+ We maintain a website at monotype.com. We make available on our website documents describing our corporate governance and our Code of Business Conduct and Ethics. We are not including the information contained on our website as a part of, or incorporating it by reference into, this Annual Report on Form 10-K. We make available free of charge through our website our proxy statements, registration statements, annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K, and amendments to these reports, as soon as reasonably practicable after we electronically file such material with, or furnish such material to, the Securities and Exchange Commission, or the SEC. The SEC also maintains an internet site that contains reports, proxy and information statements and other information regarding our filings at www.sec.gov. Our SEC reports and other information may also be inspected at the offices of the Financial Industry Regulatory Authority, 1735 K Street, N.W., Washington, D.C. 20006. 

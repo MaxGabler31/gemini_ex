@@ -1,0 +1,510 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business.
+
+What We Are
+Switch is a technology infrastructure company powering the sustainable growth of the connected world and the Internet of Everything. Our mission is to enable the advancement of humanity by creating smart, resilient and sustainable infrastructure solutions that support the most innovative technology ecosystems.
+Company Overview
+We believe the future of the connected world depends on the sustainable and cost-effective growth of the internet and the services it enables. Using our technology platform, we provide solutions to help enable that growth. We believe we are a pioneer in the design, construction and operation of some of the world’s most reliable, secure, resilient and sustainable data centers. Our advanced data centers reside at the center of our platform and provide power densities that exceed industry averages with efficient cooling, while being powered by 100% renewable energy. Two of our data centers are the only carrier-neutral colocation facilities in the world to be certified Tier IV Design, Tier IV Facility and Tier IV Gold in Operational Excellence. While these certifications have been the highest classifications available in the industry, we are building our current facilities to our proprietary Tier 5® Platinum standards, which exceed and are more comprehensive than Tier IV standards. Our platform has powerful network effects and nurtures a rich technology ecosystem that benefits its participants. We further enhance these benefits as we innovate and expand our platform ecosystem. We currently have more than 850 customers, including some of the world’s largest technology and digital media companies, cloud and managed service providers, financial institutions and telecommunications providers.
+The growing nexus between internet connectivity, internet-based services, data and analytics, and the advancement of computational processing power is rapidly expanding the amount of data that enterprises can access and manage. At the same time, the Internet of Everything is exponentially expanding the available data sources, as utility grids, automobiles, aircraft, home appliances, wearable devices and numerous other sources are all connecting to the internet. The compute capacity necessary to manage and analyze this data is also advancing and demanding increasing amounts of power to operate. We believe that traditional technology infrastructure is not capable of supporting the growing wave of mission critical data and increasingly powerful IT equipment.
+The vast majority of our data centers are greenfield construction, and our critical infrastructure components are purpose-built to satisfy customers’ needs, drive efficiency and enable the deployment of highly advanced computing technologies. We build our facilities using Switch Modularly Optimized Designs, or Switch MODs. These designs allow us to rapidly deploy or replace infrastructure to meet our customers’ current and future data storage and compute requirements. Additionally, our patented designs have redefined traditional data center space and cooling, allowing our customers to achieve significantly higher power densities than are available in traditional data centers. We believe the combination of these design elements reduces our operational costs, minimizes investment risk and positions us to adapt as the Internet of Everything continues to evolve. Our technologies were all designed and invented by our founder, Rob Roy, and are protected by over 550 issued and pending patent claims. Since the opening of our first colocation facility, we have delivered 100% uptime across all of our facilities.
+We presently operate three primary campus locations, called Primes, which encompass 11 colocation facilities with an aggregate of up to 4.4 million gross square feet, or GSF, of space. These facilities have up to 455 megawatts, or MW, of power available to them. Our Primes consist of The Core Campus in Las Vegas, Nevada; The Citadel Campus near Reno, Nevada; and The Pyramid Campus in Grand Rapids, Michigan. In addition, we are currently constructing a fourth Prime, The Keep Campus, in Atlanta, Georgia. Our Primes are strategically located in geographies that combine a low risk of natural disaster, favorable tax policies for customers deploying computing infrastructure and low latency connectivity to major metropolitan markets, such as Los Angeles, San Francisco, Silicon Valley, Chicago, New York, Northern Virginia and Miami. As a result, customers in these metropolitan markets can access our advanced colocation facilities while reducing exposure to the higher taxes, higher cost of power and higher risk of natural disaster that might be prevalent in other markets. In addition to our Primes, SUPERNAP International, S.A., or SUPERNAP International, our international joint venture, has deployed facilities in Italy and Thailand that collectively provide up to 904,200 GSF of space, with up to 100 MW of power available to these facilities. We can also use our Switch MOD technology to build single-user facilities, and we are considering opportunities to deploy this technology in a build-to-suit offering for our enterprise customers.
+Switch, Inc. | 2018 Form 10-K | 5
+
+We have fostered the development of a robust technology ecosystem around our platform that consists of enterprises and service providers that include cloud and managed services providers and telecommunications carriers. Both our platform and our ecosystem have self-reinforcing network effects that benefit participants as both our platform and our ecosystem grows. As our platform and customer base expands, we continue to realize growing efficiencies of scale, which allows us to provide higher value services to our customers.
+We believe our advanced platform, high level of service and competitive pricing create a disruptive offering with a powerful customer value proposition that differentiates us from many other existing solutions. Our advanced data centers are designed for efficiency and allow our customers to achieve higher than average power densities per cabinet with appropriate cooling, which we believe improves the performance and increases the life of our customers’ equipment. We located our data centers in areas with tax benefits, such as low or no sales tax on equipment, and access to competitively priced renewable power, both of which help further lower our customers’ total cost of ownership. Finally, our Combined Ordering Retail Ecosystem, or CORE, service aggregates our customers’ buying power, and can significantly lower many of our customers’ connectivity costs. We believe the power of our customer value proposition is evidenced by our customer loyalty and low annual churn rate, which we define as the reduction in recurring revenue attributed to customer terminations or non-renewal of expired contracts, divided by revenue at the beginning of the period. Our average annual churn rate was 0.7% over the three years ended December 31, 2018 and 0.5% for the year ended December 31, 2018.
+We believe that our technologies enable attractive cash flow yields on invested capital. Our modular expansion and vertically integrated development approach allows us to deploy capital efficiently, which further increases our yields. Across our current facilities, we generated on average a 16.3% cash flow yield on invested capital in 2018. We define cash flow yield on invested capital as Adjusted EBITDA less income taxes and maintenance capital expenditures, divided by property and equipment, net, less construction in progress.
+Our revenue has grown from $207.3 million in 2014 to $405.9 million in 2018, representing a compound annual growth rate, or CAGR, of 18.3%. Our net income for the years ended December 31, 2014, 2015 and 2016 was $56.5 million, $73.5 million and $31.4 million, respectively. Our net loss for the year ended December 31, 2017 was $8.6 million and included a charge of $71.3 million in non-recurring equity-based compensation expense related to the accelerated vesting of certain incentive units upon our IPO and fully vested awards granted under our 2017 Incentive Award Plan. Our net income for the year ended December 31, 2018 was $29.3 million. From 2014 to 2018, our Adjusted EBITDA grew from $112.2 million to $201.7 million, representing a CAGR of 15.8%. For the definition and reconciliation of net income (loss) to Adjusted EBITDA, a non-GAAP financial measure, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations—Key Metrics and Non-GAAP Financial Measures” within Part II, Item 7 of this Form 10-K.
+Our Opportunity
+Industry Background
+Computational processing power continues to advance, and the amount of data that enterprises must manage, analyze and monitor is dramatically increasing. The rapid rise in data traffic and the world’s reliance on the internet to deliver services and information is making the collection, storage and transfer of data one of the largest challenges created by the internet. The power requirements and financial costs to support this growth in data, traffic and storage are massive and growing. At the same time, service provider data centers are only beginning to penetrate the data center market. 
+Industry Limitations
+Despite the continued growth of traditional data center infrastructure and the continued demand for the public cloud due to its cost-effectiveness and pay-as-you-go scalability, we believe that traditional data center infrastructure and the public cloud are not optimally suited to support the growing wave of mission critical enterprise data applications and increasingly powerful IT equipment for several reasons, including the following:
+First, we believe that increases in server density are beginning to strain the current power and cooling capacity of traditional colocation data centers. As IT hardware advances, servers increase in power but decrease in size, generating more heat and requiring more cooling per cabinet. Chip feature sizes have been repeatedly scaled down to fit more transistors in smaller chips. The nodes on a chip shrank from 30,000 nanometers, or nm, in 1963 to 14 nm in 2016, and are expected to reach 5 nm by 2026. We expect these trends will require many traditional data center companies and enterprise-built data center facilities to attempt to retrofit their existing infrastructure to 
+Switch, Inc. | 2018 Form 10-K | 6
+
+accommodate the additional weight of denser cabinets and the additional equipment necessary to power and cool those cabinets. Current designs typically include raised floors and cooling equipment installed on the ceiling or roof. Retrofitting these designs, even if possible, would be time-consuming, expensive and highly disruptive to existing customers, and may still not allow a data center to keep pace with technological advances.
+Second, we believe that the public cloud is not an ideal solution for certain business critical data storage and computing needs. Large or sophisticated workloads may be expensive to run in the public cloud or may require higher availability and reliability than the public cloud provides. Enterprises with sensitive or regulated data, such as financial institutions and healthcare companies, may be unwilling or unable to use the public cloud for security-related or compliance reasons. In addition, some workloads require an active-active environment, which necessitates two physical environments in close proximity to each other. Further, the public cloud’s shared servers are not an efficient computing environment to run analytics such as advanced machine-learning algorithms, analyze sensitive medical device data or manage autonomous vehicle networks.
+Third, given the limitations of both the public cloud and the enterprise-built facilities, we expect enterprises to increasingly deploy IT equipment across hybrid cloud and colocation environments, with mission critical data stored at a colocation facility. As a result, the resiliency and security of the colocation facilities will take on even greater importance. There are significant business risks and potential costs associated with running mission-critical applications in a physical environment that is not 100% resilient and secure. These costs include lost revenue, damage to mission critical data, damage to equipment, legal and regulatory impact, and decline in brand value and reputation. In some instances, the costs can be significantly higher. 
+Finally, we believe that enterprises are beginning to recognize significant value from environments that encourage and facilitate interaction among their various constituents. The deeper and broader the participation that occurs within the environment, the greater the value to the various participants. As a result, data centers can add significant additional value by bringing together enterprises, cloud and managed services providers and telecommunications carriers in an environment that fosters communication, collaboration and innovation. We believe these elements will be difficult to find among traditional colocation data centers.
+We believe a significant opportunity exists for data centers that can address the shortcomings of traditional colocation facilities, enterprise-built facilities and public cloud offerings.
+Our Competitive Strengths
+We believe we distinguish ourselves from typical colocation providers and other technology infrastructure companies through our competitive strengths, which include:
+Purpose-Built, Highly-Resilient, Patented Solutions
+Our critical infrastructure components are purpose-built to satisfy customers’ needs, drive efficiency and enable the deployment of highly advanced computing technologies, and our designs are protected by over 550 issued and pending patent claims. Our Switch MODs allow us to rapidly deploy or replace infrastructure as our customers’ needs evolve. We believe this reduces operational costs, minimizes investment risk and facilitates our ability to adapt as the Internet of Everything continues to evolve.
+We have redefined data center space and cooling, allowing our customers to achieve higher power densities than they can in traditional data centers. Our power densities enable our customers to include more IT equipment per cabinet than in typical data center environments, which can reduce space requirements and the associated monthly costs and set-up costs and drive down in-cabinet latency. Additionally, we believe our ability to run more powerful cabinets at the appropriate temperature improves performance and extends the life of our customers’ equipment. This results in lower total cost of ownership for our customers.
+We have the only carrier-neutral colocation facilities in the world to be certified Tier IV Design, Tier IV Facility and Tier IV Gold in Operational Excellence, all of which were among the highest classifications available in the industry at the time. This requires fully redundant systems and total fault tolerance. We utilize the most stringent operational protocols to ensure our customers’ infrastructure is always on. As such, we have delivered 100% uptime across all of our facilities since the opening of our first colocation facility. In an effort to increase transparency and enhance the reliability of data center rating standards, we also introduced a proprietary Tier 5® Platinum standard. This standard exceeds the Tier IV Gold certifications and incorporates more than 30 additional elements critical to data center design and constant operation. These elements include even more stringent parameters regarding long-
+Switch, Inc. | 2018 Form 10-K | 7
+
+term power system capabilities, the number of available carriers, zero roof penetrations, the location of cooling system lines in or above the data center, physical and network security and 100% use of renewable energy. We currently build our facilities to this Tier 5® Platinum standard.
+Differentiated Technology Ecosystem Underscored by Powerful Network Effects
+We operate a dynamic technology ecosystem that brings together a wide variety of parties. Many of the participants in our ecosystem collaborate and engage in commerce with one another to enhance their own businesses. As we continue to innovate, we believe our customer value proposition strengthens, attracting new customers and encouraging existing customers to grow with us. This expanding, diverse mix of enterprise customers attracts cloud service providers, managed services providers and telecommunications carriers. This growing base of service providers, in turn, attracts other new enterprise customers seeking an environment with diverse, high-quality service providers and other innovative companies with which to collaborate.
+The powerful Switch technology ecosystem creates value for our enterprise customers in the form of telecommunications purchasing, robust service provider access, private interconnection alternatives among enterprise customers and the opportunity to collaborate with other participants in our ecosystem. For example, our CORE service aggregates our customers’ buying power and can significantly lower customers’ connectivity costs. The ecosystem yields intrinsic value for us by lowering our customer acquisition costs and enhancing our customer value proposition, which we believe drives further customer loyalty. In addition, because many of our customers choose to run mission-critical and advanced applications within our facilities, we gain exposure to emerging technologies. We believe this provides us with unique visibility into future trends and bolsters our ability to plan for evolving needs.
+Commitment to Sustainability
+We believe that while data runs the planet, it should not ruin the planet. We were the only company recognized by Greenpeace in its most recent Clicking Clean report (2017) as having a 100% clean energy index. Our energy index was higher than every other technology company identified in the report, including Apple, Facebook, Google, Microsoft and Salesforce. Additionally, we were the only company in the report to receive an “A” grade in all five categories measured by Greenpeace, and our overall “A” grade outperformed all of the other data center operators, including Equinix, which received a clean energy index of 20% and a “B” grade, Digital Realty Trust, which received a clean energy index of 21% and a “C” grade, and DuPont Fabros, which received a clean energy index of 7% and an “F” grade. We believe that many technology and infrastructure companies, as well as their customers and clients, evaluate progress towards achieving clean energy goals by reference to the company scorecards included in the Greenpeace report.
+Through technological innovation, industry partnerships and public advocacy, we also support renewable energy production facilities. While we are proud of our achievements in safeguarding the future of our planet, we believe our achievements in sustainability also drive customer demand. More than ever, enterprises are searching for solutions to address their own clean energy goals. Deploying IT equipment within a Switch data center helps our customers achieve their green energy objectives and reduce their carbon footprint.
+Our Strong and Trusted Brand
+Trust, innovation and perfection are hallmarks of the Switch brand.
+We recognize the level of trust customers place in us to house and protect their IT equipment. We operate under the slogan “Truth in Technology,” which embodies the notion that the product should be so amazing that nothing more than the truth is necessary to sell it. We endeavor to further safeguard our customers’ trust by striving to deliver perfection in all that we do, and we are proud to have delivered 100% uptime across all of our facilities. However, we are never satisfied, and we continually strive to innovate and deliver novel solutions for the emerging challenges our customers face as technology and business needs evolve.
+We have grown our customer base primarily through industry and customer referrals, and our customers tend to increase their spending with us over time, demonstrating the power of our brand and the quality of our solutions.
+Switch, Inc. | 2018 Form 10-K | 8
+
+Visionary and Experienced Leadership Underscored by a Culture of Innovation and Execution
+Our Founder, Chief Executive Officer and Chairman, Rob Roy, is a serial “inventrepreneur” who is a recognized expert in advanced end-to-end solutions for mission-critical facilities. Rob Roy first invented his design for the Switch MOD more than a decade ago and since then has added numerous inventions and corresponding patent claims to the Switch portfolio. The designs of our data center facilities are protected by over 550 issued and pending patent claims documenting inventions by Rob Roy.
+Rob Roy has instilled in us the practice of “Switchful Thinking”— the state of constant willingness to change and adapt and to produce the best solutions through innovation and invention. We were built and are led by a management team of technology futurists who believe that everything is possible through listening, intellectualizing, forming a plan and executing.
+We have a deep and experienced senior management team who collectively have over 150 years of experience at Switch and a majority of whom have been with Switch for more than five years.
+
+Our goal is to enable the current and future compute needs of our customers and to facilitate technological advancement through smart and sustainable infrastructure solutions designed to support the most innovative technology ecosystems in the world. To accomplish this, we plan to:
+
+• | Continue to Grow Our Existing Prime Campus Locations. We currently operate The Core Campus, The Citadel Campus and The Pyramid Campus in or near Las Vegas, Reno and Grand Rapids, respectively, and have begun development for The Keep Campus in Atlanta. These Primes currently encompass 11 data centers with an aggregate of up to 4.4 million GSF of space and up to 455 MW of power available to these facilities. We plan to continue to expand these Primes and actively pursue additional customers with strategic fit for our ecosystem, as well as sell additional solutions to existing customers. Each of our Primes has room for expansion. 
+
+
+• | Expand into New Geographies in the United States. We recently secured land and began development for The Keep Campus to expand geographically into the southeast and mid-Atlantic United States. We believe this approach, combined with our ability to deploy capital efficiently through our modular design, reduces the risks associated with our geographic expansion and enhances the strategic value of our new locations. 
+
+
+• | Leverage Our Unique Technology Ecosystem to Drive Interconnection Growth. Our ecosystem connects more than 850 customers, including over 250 cloud, IT and software providers and 80 network and telecommunications providers, which creates an important hub for the Internet of Everything. We plan to support our customers’ interconnection needs by continuing to increase our cross connect and external broadband offerings. 
+
+
+• | Maintain and Extend Our Technological Leadership. We have a long history of innovation and, led by Rob Roy, we are a dynamically inventive organization. We plan to continue to invest in the development of new technologies in order to continue improving our standards for security, availability and scalability. Additionally, we intend to leverage our patented technologies and designs to strategically pursue new, adjacent market opportunities outside our core business. By leveraging our technology and leadership in data center design, we believe we can solve new problems created by the rapid expansion of the internet, data storage and analytics. 
+
+
+• | Pursue Strategic Partnerships. We may enter into strategic relationships with a variety of partners that contribute to our business. For example, rather than simply offering our customers connectivity to public cloud environments, frequently referred to as being an “on ramp” to the cloud, we may partner with public cloud providers to address that portion of their customers’ needs that require higher density and reliability than is typically available from public cloud offerings. To facilitate these potential partnerships, we plan to expand in locations alongside hyperscale cloud deployments enabling us to provide colocation for cloud customers’ mission critical needs. 
+
+Switch, Inc. | 2018 Form 10-K | 9
+
+Our Technology
+Our Solution
+We design, construct and operate hyperscale data centers that address the growing challenges facing the data center industry. Key elements of our data centers include:
+Modularly Optimized Design
+The modular design of our data centers is enabled by our patented Switch MOD products. The Switch MOD architecture allows us to build colocation data centers of various sizes by combining multiple Switch MODs into a single structure. For example, at The Core Campus, each of our LAS VEGAS 8, LAS VEGAS 9, LAS VEGAS 10 and LAS VEGAS 11 facilities were constructed by combining multiple Switch MODs. Combining Switch MODs allows for shared power sources and increased operational efficiency.
+We can also build any of our Switch MODs in a single-user configuration. This provides an alternative to traditional colocation for customers with large, dedicated compute and data storage needs. Regardless of whether they are used for colocation or single-user purposes, we design, manufacture and operate our Switch MODs to meet our proprietary Tier 5® Platinum standard.
+The Switch POWER SPINE is an innovative adaptation allowing increased modularity in data center architecture. The Switch POWER SPINE provides the structure and pathway to provision power from any power room to any cabinet within the data center. This allows for the delivery of additional circuits to any cabinet over many years in an efficient and organized fashion. The POWER SPINE also reduces construction costs by placing the overhead weight of the heavy power conduits on the concrete steel-reinforced slab on grade floor, reducing the roof load and infrastructure needed to support that load. Placing the POWER SPINE on the grade floor also increases the seismic integrity of the facility.
+The Switch Power Distribution Units, or PDUs, are part of our system-plus-system color-coded power components, which provide modular power and allow the data center to deliver 100% power uptime.
+Power Density and Cooling Capacity
+One of the most significant challenges faced by traditional colocation facilities is the need to increase their power density and cooling capacity to keep pace with the increases in IT equipment power requirements and heat exhaustion. Traditional data centers are designed with a raised floor and internal Computer Room Air Conditioner, or CRAC, units that take up valuable floor space. In these traditional environments, the hot air exhausted by IT equipment blends with the cold air provided by the CRAC units, which causes the temperature to rise. As customers add more equipment, the data center operator must install additional internal CRAC units. Customers in these traditional data centers are required to leave portions of the cabinets empty to reduce the amount of heat coming out of the cabinet, which forces the customer to buy additional space for their equipment to accommodate these cooling restrictions. We expect many traditional colocation facilities will be required to attempt to retrofit their infrastructure, if possible, to accommodate the additional weight of denser cabinets and the additional equipment necessary to power and cool those cabinets. Without these retrofitting changes, we believe these traditional colocation facilities will not be able to accommodate the newer servers or the higher densities required by customers who want to run them.
+We have developed patented technologies that have redefined data center space and cooling, allowing customers to deploy high density and scalable IT architectures to support demanding and mission critical workloads. Our data centers are designed to enable us to adapt to customers’ needs for increased power and densities without retrofitting our existing facilities. These technologies include:
+
+• | 100% Hot Aisle Containment Rows. We refer to our patented 100% Hot Aisle Containment Row technology as the Switch T-SCIF, or Thermal Separate Compartment in Facility, or the Chimney Pod. As depicted in the figure below, the T-SCIF (Chimney Pod) creates a fully contained hot aisle between parallel rows of cabinets. The heat from the customers’ equipment exhausts into the hot aisle, where it vents up into a hot-air plenum and out of the data center via extraction fans. Simultaneously, cold air is released from the overhead vents in the cold room into the intakes of the IT equipment in the cabinets, which cools the equipment. The exhausted hot air is never allowed to blend back into the cold room, which helps ensure that our customers’ IT equipment operates in the correct environmental conditions. Using this cooling method, we are able to cool power levels that significantly exceed those of traditional data centers. Our ability to support these increased densities enables our customers to use and buy 
+
+Switch, Inc. | 2018 Form 10-K | 10
+
+less cabinet space to house their equipment, which reduces the cost of their deployment. Similarly, the ability to handle these increased densities allows us to deploy more power on less space, driving a higher return on capital.
+
+• | Exterior Wall Penetrating Multi-Mode HVAC Units. We provide cooling to the T-SCIFs using our patented Exterior Wall Penetrating Multi-Mode heating, ventilation and air conditioning, or HVAC, units that we refer to as the TSC 500, TSC 600 and TSC 1000. The units are attached to the exterior wall of the Switch MOD, which alleviates the cost of reinforcing the data center floor or roof to support the weight of HVAC equipment, while also enabling complete segregation of hot and cold air in the data center. The exterior location of our TSC units eliminates the need to bring water into the data center, frees up valuable IT space for cabinet deployments and allows us to repair or replace any single TSC without disrupting the data center environment. Each of our TSC 500, TSC 600 and TSC 1000 units can take advantage of multiple modes of cooling depending on the environment, which enables us to construct facilities that can be cooled entirely without water. We believe this combination of cooling methods makes our facilities the most efficient and resilient large-scale commercial data centers ever constructed. 
+
+Switch, Inc. | 2018 Form 10-K | 11
+
+
+• | Hot and Cold Containment Segregation Structure. The Switch BLACK IRON FOREST is the framework that supports the weight of the 100% Hot Aisle Containment Rows within a T-SCIF, the ceiling for the heat containment chamber, the power delivery pathways for each uninterruptible power system, or UPS, and cabinet system-plus-system PDU. This increases the stability and integrity of our facilities by distributing all overhead weight to a concrete steel-reinforced slab on grade floor. This structure is also connected horizontally across the facility, which increases the physical stability of the facility. In addition, this structure’s thermal qualities help efficiently maintain the temperature within the data center because all of this metal gets cold from all the cold air blowing on it all the time, and stays cold, radiating cold air through the room and helping to keep the room cold. 
+
+Resiliency
+Another challenge faced by all data centers is the ability to assure customers that their IT equipment remains operational despite utility power outages or other unplanned occurrences. Since the opening of our first colocation facility, we have delivered 100% uptime to our customers. To accomplish this, we have implemented a tri-redundant design, consisting of three separate power systems with no single points of failure. Additionally, each power system contains its own generators and UPSs. Effectively, one entire system can experience a failure without our customers experiencing any downtime. Other proprietary elements that contribute to our resiliency include:
+
+• | Redundant Data Center Roofing System. Switch SHIELD is a patented system consisting of an inner roof and outer roof that are separated by nine feet. Both roofs are solid steel, unpenetrated, watertight, airtight, and rated to withstand winds up to 200 miles per hour. If the outer roof is damaged, the inner roof still protects our customers’ IT equipment. Switch SHIELD mitigates extreme weather conditions and, with its dual-roof architecture, allows the maintenance, repair or replacement of the roof components while protecting the critical system operations of the data center below, even during a full roof replacement. 
+
+
+• | Multi-System Power Containers. The Switch POD, or Power Optimized Delivery, consists of a separate, color-coded, tri-redundant system in a system-plus-system configuration. This tri-redundant design reinforces our mission-critical focus on delivering 100% power uptime. 
+
+Switch, Inc. | 2018 Form 10-K | 12
+
+
+• | Data Center Infrastructure Management System (DCIM). The advanced infrastructure solutions that power, cool, connect and protect our data centers are monitored and optimized with our Living Data Center, or LDC, software. This Switch-developed and supported software monitors all the critical infrastructure of the data center macro-environment and the micro-environments for each customer. Our customers can securely access data pertaining to each of their deployments on a real-time basis as LDC dynamically updates and displays information synthesized from thousands of sensors deployed throughout each facility. 
+
+Our Campus Locations
+As of December 31, 2018, we had the following Prime Campuses operating or under development at strategic locations in the United States, encompassing 11 data centers and 4.4 million GSF of space: 
+
+• | The Core Campus. The Core Campus in Las Vegas, Nevada, currently encompasses nine separate data centers with up to approximately 2.3 million GSF of space and up to 315 MW of 100% renewable power available to these facilities. In the fourth quarter of 2018, we opened one additional data center at The Core Campus, providing up to 340,000 GSF of additional space and have up to 40 MW of 100% renewable power available to the facility. The Core Campus location offers approximately 5- and 6-millisecond latencies to Southern California and Phoenix, respectively. 
+
+
+• | The Citadel Campus. The Citadel Campus near Reno, Nevada, is designed to be the world’s largest data center campus. Our first data center in The Citadel Campus, which we believe will be the largest data center in the world upon completion, opened in November 2016. This data center is designed to include up to approximately 1.4 million GSF of space and have up to 130 MW of 100% renewable power available to the facility. We have plans to build seven additional data centers at The Citadel Campus that will provide up to 5.9 million GSF of additional space and have up to 520 MW of 100% renewable power available to the facilities. The Citadel Campus location offers approximately 4-millisecond latency to Northern California. 
+
+
+• | The Pyramid Campus. The Pyramid Campus is our Northeastern Prime and is located in Grand Rapids, Michigan. It was designed to be the largest data center campus in the eastern United States. The first data center space became available in the Switch Pyramid, an adaptive reuse of the former Steelcase Pyramid, in June 2016. The Switch Pyramid is designed to include up to 220,000 GSF of data center floorspace and have up to 10 MW of 100% renewable power available to the facility. The Pyramid Campus is planned to include up to two additional data centers that will provide up to approximately 940,000 GSF of additional space and have up to 100 MW of 100% renewable power available to the facilities. We expect to construct these facilities as necessary to meet customer demand. In addition to serving the Michigan market, The Pyramid Campus location offers approximately 4-millisecond latency to Chicago. 
+
+
+• | The Keep Campus. The Keep Campus is our Southeastern Prime under development and located in Atlanta, Georgia. We began developing the campus in June 2017 and began construction in the fourth quarter of 2017, with data center space currently planned to be available in late 2019. 
+
+The Core Campus and The Citadel Campus are connected through a fiber network known as the Switch SUPERLOOP. The Switch SUPERLOOP gives customers the advantages of a highly available yet low latency fiber network in close proximity to the major markets of California, but without the high taxes, the high cost of power or the high risk of natural disasters associated with California. The latency between The Core Campus and The Citadel Campus locations is approximately 7 milliseconds using the Nevada portion of the SUPERLOOP. This connectivity enables customers to deploy mission-critical infrastructure and workloads in a large active-active data center configuration. It also provides geographical redundancy of data center deployments while staying within Nevada’s tax-advantaged business climate. Through our carrier partners, the Switch SUPERLOOP location also provides approximately 4-millisecond connectivity from The Citadel Campus to the Bay Area and approximately 5-millisecond connectivity from The Core Campus to Southern California (round trip).
+We carefully chose the locations of our U.S. campuses based on characteristics that we believed would help drive resiliency, performance and cost efficiencies for our customers. Our Prime campus locations are located in areas with low natural disaster risk. For example, the State of Nevada boasts the lowest natural disaster rating in the Western United States. Additionally, each of these locations offers favorable tax and economic development policies that provide zero or low-tax environments for our customers to deploy IT equipment. While all of our locations offer a lower-cost source of 100% renewable power, there are additional efficiency advantages. For 
+Switch, Inc. | 2018 Form 10-K | 13
+
+example, the Nevada climate is characterized by low humidity and relatively stable temperatures for most of the year. This improves cooling efficiencies and reduces power consumption. We own most of our facilities, and where the land and shell are not owned, we hold long-term leases on those assets.
+In addition to our Primes, SUPERNAP International has deployed facilities in Italy and Thailand that collectively provide up to 904,200 GSF of space, with up to 100 MW of power available to the facilities.
+Our Platform Has Powerful Network Effects and Nurtures a Rich Technology Ecosystem
+Our technology infrastructure platform supports a dynamic technology ecosystem bringing together enterprises and service providers, including cloud and managed services providers and telecommunications carriers. Participants benefit from the proximity to these service providers, customers and collaborators. Our platform and our ecosystem have independent but synergistic self-proliferating network effects that benefit participants as we continue to innovate, our platform evolves and our ecosystem grows.
+As we continue to improve and enhance our technology, we believe our customer value proposition grows stronger. In turn, our ability to deliver increasing value to our customers attracts new customers and encourages existing customers to grow with us.
+Our Technology Ecosystem Creates Significant Value and Has Powerful Network Effects
+Our hyperscale data centers are akin to a large and dynamic digital city, which is home to a wide variety of technology citizens. These citizens engage in commerce with each other and collaborate to enhance their offerings to the world in general. All benefit from the density of our facilities, the proximity to each other and the opportunity to interact in a safe, secure and stable environment. Our ecosystem includes numerous enterprises from a wide variety of business segments, many of which are operating their most dense deployments and hosting mission-critical data and applications. These enterprises attract other participants within the ecosystem, such as cloud platform providers, managed services providers and telecommunications carriers that we refer to collectively as ecosystem service providers.
+In turn, the presence of these ecosystem service providers attracts other new enterprise customers seeking to collaborate with our ecosystem service providers. This further differentiates our ecosystem by increasing customer diversity and the range of mission-critical applications run within a single campus. We proactively foster an environment where technology companies can connect and innovate on various projects, which further increases participation in the ecosystem.
+The powerful Switch technology ecosystem envisioned by Rob Roy creates value for our enterprise customers, such as:
+
+• | Telecommunications Purchasing. The scale of our campuses attracts a robust network of telecommunications carriers to our facilities that is mutually beneficial to our customers and the carriers. The size and diversity of customers in our campuses generate significant demand for connectivity, while at the same time providing a cost effective entry point for carriers. Because of Rob Roy’s inventions, Switch can fit a significantly larger number of customers into each data center campus, therefore on-net telecommunications carriers can sell large quantities of services to this ecosystem of customers. Our CORE purchasing cooperative aggregates the buying power of our customers, enabling us to provide significant cost-savings on connectivity, while also maintaining a flexible and expansive carrier partner ecosystem from which our customers can choose. Customers can use CORE to acquire connectivity services outside of our campuses. 
+
+
+• | Service Provider Access. Our Switch CLOUD ecosystem provides our customers with direct access to more than 250 cloud and managed services providers and the flexibility to leverage the right mix of on- and off-premise public and private cloud services. By establishing these connections within our facility, our customers enjoy low-latency, highly secure and flexible access to multiple cloud providers to meet their unique business requirements. 
+
+
+• | Interconnectivity. Our ecosystem connects more than 850 customers, including over 250 cloud, IT and software providers and more than 80 network and telecommunications providers, which enhances our customers’ ability to inter- and cross-connect. The ability for customers to privately interconnect has many benefits including reducing costs, optimizing performance and satisfying regulatory requirements. Interconnecting within our data center allows customers to avoid the expense associated with long-haul 
+
+Switch, Inc. | 2018 Form 10-K | 14
+
+dedicated connectivity and provides reduced latency and higher availability. By cross-connecting within our facilities, regulated entities can avoid the need to exchange traffic over the internet, thereby satisfying regulatory security requirements in a more cost-efficient manner.
+
+• | Collaborative Innovation. Our dedicated sales team is driven to help our customers connect, innovate and develop technologies of the future and actively works to foster collaboration amongst our ecosystem participants. Our sales force is empowered and encouraged to build positive relationships and foster interaction between our customers on a platform grounded in truth. This is part of our Truth in Technology commitment. 
+
+Our technology ecosystem also creates intrinsic value for Switch, such as:
+
+• | Visibility into Future Technologies. Our customers run some of their most mission-critical and advanced applications in our hyperscale facilities and our exposure to that technology gives us unique visibility into future trends and allows us to plan for future needs. 
+
+
+• | Lower Customer Acquisition Costs. Our ecosystem attracts customers. This natural and self-reinforcing phenomenon results in less time and money spent acquiring customers. 
+
+
+• | Customer Loyalty. Our ecosystem helps support our strong customer value proposition, which in turn creates customer loyalty. We believe this loyalty is evidenced by our low annual churn rate, which averaged approximately 0.7% over the three years ended December 31, 2018 and 0.5% for the year ended December 31, 2018. Additionally, our customers regularly expand their deployments within our facilities. For example, approximately 70% of the increase in revenue for the year ended December 31, 2018 was attributable to growth from existing customers, while the remaining 30% of the increase in revenue was attributable to new customers initiating service after December 31, 2017. 
+
+Our Customer Scale and Density allows us to offer Collaborative Services
+As our platform and customer base continues to expand, we continue to realize growing efficiencies and benefits of scale at each of our Primes. Our large and growing customer base within each Prime has provided us with the economies of scale necessary to provide our customers valuable ancillary services, such as Switch CONNECT and Switch SAFE.
+
+• | Switch CONNECT. Switch CONNECT provides telecommunications audit and agency services that help our customers evaluate network needs and purchase substantially discounted telecommunications services through CORE, our purchasing cooperative. CORE aggregates the buying power of the over $6 trillion combined market capitalization of the customers in our ecosystem. Our Switch CONNECT team has achieved savings in excess of 50% for our customers compared with their previous telecommunications spend. 
+
+
+• | Switch SAFE. Switch SAFE provides our customers with a large scale, always-on distributed denial of service (D/DoS) attack mitigation platform. We work with customers to understand attack profiles and configure networks to respond to the evolving threat landscape. Switch SAFE is capable of managing attacks of up to 300 gigabits-per-second and 220 million packets-per-second from a single device, allowing our customers to keep their mission critical services up and running. 
+
+Our customer density results in a multiplicity of technology enterprises in the same location, which creates a powerful environment for both our enterprise customers and our ecosystem service providers. We believe these customer densities and volumes enable our ecosystem service providers to earn a desirable return on their capital investment, even with the discounted rates we negotiate on behalf of our customers.
+These collaborative services create even greater value for our customers and ecosystem service providers alike, creating a self-reinforcing feedback loop.
+Our Customers
+We have more than 850 customers, including some of the world’s largest technology and digital media companies, cloud, IT and software providers, financial institutions and network and telecommunications providers. Our customer base is meaningfully diversified across key industries, including approximately 24% in cloud, IT and software, 17% in digital media and entertainment, 18% in retail and consumer goods, 12% in financial and 10% in 
+Switch, Inc. | 2018 Form 10-K | 15
+
+network and telecommunications as of December 31, 2018. In each of these industries we have marquee customers who have grown with us over time. We believe that we have a significant opportunity to both grow penetration of existing customers as well as attract new customers. For the years ended December 31, 2018 and 2017, our top 10 customers accounted for approximately 36.3% and 38.5% of revenue, respectively, and only one customer, eBay, Inc. and its affiliates, accounted for more than 10% of revenue during each year.
+We provide our customers with a consistent experience and high level of service at low cost, which enables us to maintain one of the lowest churn rates in the industry and the lowest of any publicly reporting data center company that reports churn rate metrics. From 2016 to 2018, our annual churn rate averaged 0.7%. Our early customers remain loyal to us today.
+Sustainability
+Since January 1, 2016, we have powered all of our U.S. data centers with 100% clean and renewable energy. We are the largest data center operator in the United States to be 100% renewably powered, and we support local and new renewable facilities. We have successfully accomplished this goal through a combination of technological innovation, capital investment, industry partnerships and public advocacy. Many of our customers and potential customers are looking for ways to achieve their “green” goals and reach desired levels of sustainability, which other colocation solutions cannot provide. By locating their IT equipment with us, they are able to advance on those goals and improve on their current level of sustainability. Elements of our sustainability efforts include the following:
+
+• | Clicking Clean Scorecard. In recognition of our efforts, Greenpeace awarded us “A” grades in all five categories measured by Greenpeace in its most recent Clicking Clean Company Scorecard (2017). We were the only company in the United States that received all “A” grades, and we were recognized as the leader among colocation data centers evaluated in the study. We believe that many technology and infrastructure companies, as well as their customers and clients, evaluate progress towards achieving “clean energy” goals by reference to the company scorecards included in this report. 
+
+
+• | Leading Power and Cooling Efficiency. Our technology results in significant efficiencies enabling annual Power Usage Effectiveness, or PUE, of 1.28. We do not believe other colocation data center providers are able to maintain such a low PUE while simultaneously allowing customers to operate at very high power densities. We accomplish all of this without compromising our adherence to industry best standards. Our facilities are 100% green and operate at a level that exceeds the standards of IEEE, ANSI, ASHRAE, 24/7, ISO 9001, SAS 70/SSAE-16, BICSI and the Green Grid Association. 
+
+
+• | Supporting New and Local Solar. In 2016, we partnered with the local Nevada utility to construct Switch Station 1 and Switch Station 2, which are two solar power stations in Las Vegas, Nevada having a combined 179 MW of nameplate capacity. 
+
+
+• | Energy Market Direct Access. We were the first entity since 2005 to seek the right to unbundle from the electric monopoly in Nevada. By leaving the monopoly and being able to purchase power from the broader electric market, we have greater freedom to control the energy we use, including the ability to lock in our commodity pricing for longer periods, purchase renewable energy from economical resources and effectuate broader national policy change. We received Nevada regulatory approval in December 2016, and since June 1, 2017, we have been buying our power directly from the national market, as opposed to buying it from the incumbent electrical power utility. We have seen savings from this direct national energy market participation. 
+
+Our Values
+Our core values govern how every Switch employee executes on our mission to power the sustainable growth of the connected world and include:
+
+• | Truth in Technology. Our customers place a significant level of trust in us to provide them the best technology solutions for their business. Our sales professionals are not incentivized in any way to promote any particular configuration, product or business solutions pathway to our customers. 
+
+
+• | Sustainable by Design. Sustainably running the internet has been a core value since our founding. Our commitment does not stop there. We thoughtfully pursue the advancement of new, innovative policies that expand access to smart water, clean energy and the technological advances that are changing the way the world is powered. We focus on sustainability on multiple levels and have adopted 
+
+Switch, Inc. | 2018 Form 10-K | 16
+
+internal policies focused on reducing plastic bottle waste, utilizing biodegradable tableware and recycling.
+
+• | Committing to Our Communities through Economic Development. We believe in building strong communities wherever we operate. We drive and will continue to push economic development through the creation of Rob Roy’s InNEVation Centers. The centers were created by Rob Roy to support the New Nevada Initiative. We like to say that we take the “no” out of innovation. These economic hubs support startups, growups and our customers in collaborating with non-profits, educators, community and thought leaders and “inNEVators” of all shapes and sizes to engage with each other and drive economic results in the communities in which we operate. 
+
+
+• | Leading the Industry and beyond in Gender Equality and Veteran Placement. We believe our workforce is richly diverse in its total composition at all levels and outpaces our industry in the number of women executives. Women hold high-level technical positions throughout our company, including chief responsibility for construction, information and solutions architecture, branding and customer operations. Veterans provide another critical backbone of our workforce. We honor their service and actively recruit veterans to our mission-critical environment. Through our Switch University, we have pioneered strategic partnerships with community colleges to develop a work force that is prepared for the careers that run the Internet of Everything in our data centers. 
+
+
+• | Supporting Interdisciplinary Education Blending Technology and the Arts. We believe that combining education, technology and the arts creates a powerful platform for the future of our country and its market competitiveness. We have collaborated with universities to bring about improvements in research through our donations of supercomputers and connectivity to help accelerate their standing in the critical world of higher education research. We are also passionate about funding programs that build school gardens to connect youth to science through hands-on experiential learning. We bring financial commitment and thought leadership to preparing the next generation of whole-mind thinkers through an unwavering commitment to interdisciplinary Science, Technology, Engineering, the Arts and Mathematics (STEAM) education programs in Nevada, Michigan, Georgia and in any state where we operate. Switch proudly supports First Robotics winning teams in Nevada and Michigan, the STEAM Education Village at Art Prize in Grand Rapids, the Nevada Museum of the Arts STEAM School, and the Smith Center for Performing Arts STEAM Programs. We believe that the best creative problem solvers who can integrate form and function with equal mastery through science, technology, engineering, arts and math education platforms will run the internet of absolutely everything with both form and function in mind. 
+
+
+• | Karma: Our culture is grounded in the philosophy of doing the right thing. Innovation, detail and excellence drives everything from the interior architecture of our environments to our delivery of 100% uptime. We do it all with dedication to providing world-renowned facilities, superior service for our customers, the best working experience in the industry, true technology leadership and deep caring for the communities where we operate and the planet where we live. Our logo mark was personally designed by Rob Roy to put the power of karma at the center of our company. We believe that if you put good energy out, you will get good energy back. 
+
+Sales and Marketing
+Our sales strategy is built around “Truth in Technology.” Our team works closely with each customer to identify that customer’s needs and to design a solution tailored to meet those needs. They also help to integrate each customer into our ecosystem, which provides access to Switch Connect and Switch Cloud and potentially the ability to connect directly with their existing and potential customers. Many of our customers encourage their customers, suppliers and business partners to place IT equipment in our data centers, which has created a network effect resulting in additional customer acquisitions. In addition, large network providers, cloud providers or managed services providers may refer customers to us as part of their total customer solution. These processes have resulted in significant customer growth with limited spend on sales and marketing. Selling and marketing expenses include sales and marketing labor costs, direct branding and selling expenses, as well as administrative and travel and entertainment expenses for our marketing and sales departments. Selling and marketing expenses exclude sponsorships, contributions and lobbying expenses.
+We use a direct sales force and selected partner relationships to market our offerings to global enterprises, content providers, financial companies and mobile and network service providers. We have a robust colocation sales team who combined offer nearly 50 years of experience as members of our team. Our culture is one which 
+Switch, Inc. | 2018 Form 10-K | 17
+
+fosters a team environment and allows our sales representatives to offer the customer the solution they need without artificial sales pressure. We believe that the strength of our product and market reputation are the biggest reasons for increased sales activity.
+To support our sales efforts and to promote our brand proactively, we have active and experienced branding and marketing teams. Our marketing strategies include active public relations and ongoing customer communications programs. We also regularly measure customer satisfaction levels and host key customer forums to identify and address customer needs. We believe our brand is one of our most valuable assets, and we strive to build recognition through our website, external blog and social media channels, by sponsoring or leading industry technical forums, by participating in internet industry standard-setting bodies and through advertising and online campaigns.
+Competition
+We offer a broad range of data center services and, as a result, we may compete with a wide range of data center service providers for some or all of the services we offer. We face competition from numerous developers, owners and operators in the data center industry, including managed services providers and real estate investment trusts, or REITs, such as CoreSite Realty Corporation, CyrusOne Inc., Digital Realty Trust, Inc., Equinix, Inc. and QTS Realty Trust, Inc., some of which own or lease data centers, or may do so in the future, in markets in which our properties are located. Additionally, we are aware of other companies that may compete against us in various geographies or that may be developing additional data center capabilities to compete with us. Our current and future competitors may vary by size and service offerings and geographic presence.
+Competition is primarily centered on reputation and track record, quality and availability of data center space, quality of service, technical expertise, security, reliability, functionality, geographic coverage, financial strength and price. Some of our current and future competitors may have greater brand recognition, longer operating histories, stronger marketing, technical and financial resources and access to less expensive power than we do. As a result, some of our competitors may be able to:
+
+• | offer space at prices below current market rates or below the prices we currently charge our customers;
+
+
+• | bundle colocation services with other services or equipment they provide at reduced prices;
+
+
+• | develop superior products or services, gain greater market acceptance and expand their service offerings more efficiently or rapidly;
+
+
+• | adapt to new or emerging technologies and changes in customer requirements more quickly;
+
+
+• | take advantage of acquisition and other opportunities more readily; and
+
+
+• | adopt more aggressive pricing policies and devote greater resources to the promotion, marketing and sales of their services.
+
+We operate in a competitive market and we face pricing pressure for our services. Prices for our services are affected by a variety of factors, including supply and demand conditions and pricing pressures from our competitors. We may be required to lower our prices to remain competitive, which may decrease our margins and adversely affect our business prospects, financial condition and results of operations.
+Employees
+As of December 31, 2018, we had 731 employees. We collaborate with the local unions where applicable, such as construction and the trades; however, none of our direct employees are represented by a labor union or covered by a collective bargaining agreement. We believe our employee relations are good and we have not experienced any work stoppages.
+Regulation
+General
+Data centers in our markets are subject to various laws, ordinances and regulations. We believe that each of our properties has the necessary permits and approvals for us to operate our business.
+Switch, Inc. | 2018 Form 10-K | 18
+
+Americans with Disabilities Act
+Our properties must comply with Title III of the Americans with Disabilities Act of 1990, or the ADA, to the extent that such properties are “public accommodations” or “commercial facilities” as defined by the ADA. The ADA may require, for example, removal of structural barriers to access by persons with disabilities in certain public areas of our properties where such removal is readily achievable. We believe that our properties are in substantial compliance with the ADA and that we will not be required to make substantial capital expenditures to address the requirements of the ADA. However, noncompliance with the ADA could result in imposition of fines or an award of damages to private litigants. The obligation to make readily achievable accommodations is an ongoing one, and we will continue to assess our properties and to make alterations as appropriate in this respect.
+Environmental Matters
+We are required to obtain a number of permits from various government agencies to construct a data center facility, including the customary zoning, land use and related permits, and are also subject to laws and regulations relating to the protection of the environment, the storage, management and disposal of hazardous materials, emissions to air and discharges to water, the cleanup of contaminated sites and health and safety matters. These include various regulations promulgated by the Environmental Protection Agency and other federal, state and local regulatory agencies and legislative bodies relating to our operations, including those involving power generators, batteries, and fuel storage to support colocation infrastructure. While we believe that our operations are in substantial compliance with environmental, health and human safety laws and regulations, as an owner or operator of property and in connection with the current and historical use of hazardous materials and other operations at its sites, we could incur significant costs, including fines, penalties and other sanctions, cleanup costs and third-party claims for property damages or personal injuries, as a result of violations of or liabilities under environmental laws and regulations. Fuel storage tanks are present at many of our properties, and if releases were to occur, we may be liable for the costs of cleaning up resulting contamination. Some of our sites also have a history of previous commercial operations, including past underground storage tanks.
+Some of the properties may contain asbestos-containing building materials. Environmental laws require that asbestos-containing building materials be properly managed and maintained, and may impose fines and penalties on building owners or operators for failure to comply with these requirements.
+Environmental consultants have conducted, as appropriate, Phase I or similar non-intrusive environmental site assessments on recently acquired properties and if appropriate, additional environmental inquiries and assessments on recently acquired properties. Nonetheless, we may acquire or develop sites in the future with unknown environmental conditions from historical operations. Although we are not aware of any sites at which we currently have material remedial obligations, the imposition of remedial obligations as a result of spill or the discovery of contaminants in the future could result in significant additional costs to us.
+Our operations also require us to obtain permits and/or other governmental approvals and to develop response plans in connection with the use of our generators or other operations. These requirements could restrict our operations or delay the development of data centers in the future. In addition, from time to time, federal, state or local government regulators enact new or revise existing legislation or regulations that could affect us, either beneficially or adversely. As a result, we could incur significant costs in complying with environmental laws or regulations that are promulgated in the future.
+Intellectual Property
+Intellectual property is an important aspect of our business, and we actively seek protection for our intellectual property. To establish and protect our proprietary rights, we rely upon a combination of patent, trade secret, trademark and copyright laws. We also utilize contractual means such as confidentiality agreements, licenses and intellectual property assignment agreements. We maintain a robust policy requiring our employees, contractors, consultants and other third parties to enter into confidentiality and proprietary rights agreements to control access to our proprietary information. These laws, procedures and restrictions provide only limited protection, and any of our intellectual property rights may be challenged, invalidated, circumvented, infringed or misappropriated. Furthermore, the laws of certain countries do not protect proprietary rights to the same extent as the laws of the United States, and we therefore may be unable to protect our proprietary technology in certain jurisdictions.
+As of December 31, 2018, we have 17 granted or allowed U.S. patents and patent applications by the USPTO comprising 333 granted or allowed claims. We also have 17 pending U.S. patent applications comprising 248 patent pending claims. The first of our patents begin expiring on or around June 13, 2028 subject to our ability 
+Switch, Inc. | 2018 Form 10-K | 19
+
+to extend the term under applicable law. In addition to capturing additional innovations and inventions generated by Switch and its founder Rob Roy, we continually review our development efforts to assess the existence and patentability of new intellectual property. We actively pursue the registration of our domain names, trademarks and service marks in the United States, including new generic top-level domains, and in certain locations outside the United States. To protect our brand, we file trademark registrations in some international jurisdictions, and actively monitor online activities of others. As of December 31, 2018, we also had more than 165 trademark class registrations and pending applications for more than 270 trademark class registrations in the United States and foreign countries. We have also registered more than 750 domain names, including www.switch.com, www.switch.net, www.switch.org.
+We have engaged in limited licensing of our intellectual property and there is the potential to further monetize our intellectual property in this manner in the future. Currently, we deploy our intellectual property for our own benefit and leverage our registrations to prevent mimicry by others.
+Our Portfolio
+
+The following chart provides various metrics relative to our portfolio as of December 31, 2018:
+
+Campus(1) | Year Operational | Gross Square Feet (up to)(2) | Utilization % - By Campus(3) | Utilization % - By Open Sector(3) | Power Capacity (up to)(4)
+The Core Campus(5) | | | | | 
+Current: 9 Facilities(6) | 2003-2018 | 2,340,000 | 78% | 91% | 315 MW 
+The Citadel Campus | | | | | 
+Current: TAHOE RENO 1 | 2016 | 1,360,000 | 30% | 58% | 130 MW 
+Future: 7 Facilities | 2020+ | 5,890,000 | | | 520 MW 
+The Pyramid Campus | | | | | 
+Current: Switch PYRAMID | 2016 | 430,000 | | | 
+ | | (Office) | | | 
+ | | 220,000 | 52% | 88% | 10 MW 
+ | | (Data Center) | | | 
+Future: 2 Facilities | 2020+ | 940,000 | | | 100 MW 
+The Keep Campus | | | | | 
+Future | 2019 | 1,100,000 | | | 110 MW 
+U.S. Total (Current) | | 4,350,000 | | | 455 MW 
+U.S. Total (Future) | | 7,930,000 | | | 730 MW 
+
+________________________________________
+
+(1) | SUPERNAP International has also deployed two additional data centers in Milan, Italy and Bangkok, Thailand that collectively provide up to 904,200 GSF of space, with up to 100 MW of power available to these facilities. We hold a 50% ownership interest in SUPERNAP International.
+
+
+(2) | Estimated square footage of all enclosed space at full build out.
+
+
+(3) | Utilization numbers are based on available cabinets. The Citadel Campus and The Pyramid Campus opened in the second half of 2016 and are in the first phase of development. Additional capital investment will be required to reach full build out.
+
+
+(4) | Defined as total power delivered to the data center at full build out.
+
+
+(5) | We lease a data center building and the underlying land for three of our data centers at The Core Campus that have non-cancellable terms expiring through 2066.
+
+
+(6) | Current facilities at The Core Campus include LAS VEGAS 2, LAS VEGAS 4, LAS VEGAS 5, LAS VEGAS 7, LAS VEGAS 8, LAS VEGAS 9, LAS VEGAS 10, LAS VEGAS 11 and LAS VEGAS 12.
+
+Organizational Structure and Corporate Information
+Switch, Inc. is a Nevada corporation formed on June 13, 2017 in connection with our IPO. We are a holding company and our principal asset is our equity interest in Switch, Ltd. Our principal executive offices are located at 7135 S. Decatur Boulevard, Las Vegas, Nevada 89118, and our telephone number is (702) 444-4111. Our website address is www.switch.com.
+Switch, Inc. | 2018 Form 10-K | 20
+
+Initial Public Offering
+On October 11, 2017, we completed our IPO of 35,937,500 shares of Class A common stock at a public offering price of$17.00 per share, which includes 4,687,500 shares issued pursuant to the underwriters’ option to purchase additional shares. We received approximately $577.3 million in proceeds, net of underwriting discounts and commissions and before offering expenses of $4.9 million, which we used to purchase newly issued Common Units from Switch, Ltd. at a price per Common Unit equal to the IPO price per share of our Class A common stock. 
+In connection with the IPO, we completed a series of organizational transactions, including the following:
+
+• | we amended and restated Switch, Ltd.’s existing operating agreement to, among other things, convert all of the Former Incentive Unit Holders’ incentive units into Common Units and appoint Switch, Inc. as the manager of Switch, Ltd.;
+
+
+• | we amended and restated our articles of incorporation to, among other things, provide for Class A common stock, Class B common stock and Class C common stock; and
+
+
+• | we issued shares of Class B common stock to the Non-Founder Members on a one-to-one basis with the number of Common Units they owned, for nominal consideration, and shares of Class C common stock to the Founder Members on a one-to-one basis with the number of Common Units they owned, for nominal consideration.
+
+See Note 1 to the consolidated financial statements included in Part II, Item 8 for more information about the above-mentioned transactions as well as the other transactions completed in connection with the IPO. As of December 31, 2018, we owned 22.7% of Switch, Ltd. and the noncontrolling interest holders owned the remaining 77.3% of Switch, Ltd.
+Although we have a minority economic interest in Switch, Ltd., we have the sole voting interest in, and control the management of, Switch, Ltd. Accordingly, we consolidate the financial results of Switch, Ltd. and report a noncontrolling interest on our consolidated statements of operations and comprehensive income (loss), representing the portion of net income or loss and comprehensive income or loss attributable to the other members of Switch, Ltd. 
+Additional Information
+All reports we file with the SEC are available free of charge via EDGAR through the SEC website at www.sec.gov. We also provide copies of our Forms 8‑K, 10‑K and 10‑Q, Proxy Statement, Annual Report and amendments to those documents at no charge to investors upon request and make electronic copies of such reports available through our website at investors.switch.com as soon as reasonably practicable after filing such material with the SEC. The information found on, or otherwise accessible through, our website is not incorporated by reference into, nor does it form a part of, this Form 10‑K, or any other document that we file with the SEC.
+Cautionary Note Regarding Forward-Looking Statements
+This Form 10-K contains forward-looking statements within the meaning of the federal securities laws, which statements involve substantial risks and uncertainties. Forward-looking statements generally relate to future events or our future financial or operating performance. In some cases, you can identify forward-looking statements because they contain word such as “may,” “will,” “should,” “expects,” “plans,” “anticipates,” “could,” “intends,” “target,” “projects,” “contemplates,” “believes,” “estimates,” “predicts,” “potential” or “continue” or the negative of these words or other similar terms or expressions that concern our expectations, strategy, plans or intentions. Forward-looking statements contained in this Form 10-K include, but are not limited to, statements about:
+
+• | our goals and strategies;
+
+
+• | our expansion plans, including timing for such plans;
+
+
+• | our future business development, financial condition and results of operations;
+
+
+• | the expected growth of the data center market;
+
+
+• | our beliefs regarding our design technology and its advantages to our business and financial results;
+
+
+• | our beliefs regarding opportunities that exist in the data center market due to current industry limitations;
+
+
+• | our expectations regarding opportunities to grow penetration of existing customers and attract new customers;
+
+
+• | our beliefs regarding our competitive strengths and the value of our brand;
+
+Switch, Inc. | 2018 Form 10-K | 21
+
+
+• | our expectations regarding our revenue streams and drivers of future revenue;
+
+
+• | our expectations regarding our future expenses, including anticipated increases;
+
+
+• | our expectations regarding demand for, and market acceptance of, our services;
+
+
+• | our expectations regarding our customer growth rate;
+
+
+• | our beliefs regarding the sufficiency of our cash and access to liquidity, and cash generated from operating activities, to satisfy our working capital and capital expenditures for at least the next 12 months;
+
+
+• | our intentions regarding sources of financing for our operations and capital expenditures;
+
+
+• | the network effects associated with our business;
+
+
+• | our plans to further invest in and grow our business, and our ability to effectively manage our growth and associated investments;
+
+
+• | our ability to timely and effectively scale and adapt our existing technology;
+
+
+• | our ability to successfully enter new markets;
+
+
+• | our expectations to enter into joint ventures, strategic collaborations and other similar arrangements;
+
+
+• | our beliefs regarding our ability to achieve reduced variability of power costs as an unbundled purchaser of energy;
+
+
+• | our beliefs that we have the necessary permits and approvals to operate our business and that our properties are in substantial compliance with applicable laws;
+
+
+• | our ability to maintain, protect and enhance our intellectual property and not infringe upon others’ intellectual property;
+
+
+• | our beliefs regarding the adequacy of our insurance coverage;
+
+
+• | our beliefs regarding the effectiveness of efforts to improve our internal control over financial reporting;
+
+
+• | our plans regarding our Common Unit repurchase program;
+
+
+• | our expectations regarding payment of dividends; and
+
+
+• | our expectations regarding payments under the Tax Receivable Agreement, contingent upon our taxable income and the applicable tax rate.
+
+We qualify all of our forward-looking statements by these cautionary statements. The forward-looking statements in this Form 10-K are only predictions. We have based these forward-looking statements largely on our current expectations and projections about future events and financial trends that we believe may affect our business, financial condition and results of operations. Because forward-looking statements are inherently subject to risks and uncertainties, some of which cannot be predicted or quantified, you should not rely on these forward-looking statements as predictions of future events. The events and circumstances reflected in our forward-looking statements may not be achieved or occur and actual results could differ materially from those projected in the forward-looking statements. The most important factors that could prevent us from achieving our goals and cause the assumptions underlying forward-looking statements and the actual results to differ materially from those expressed in or implied by the forward-looking statements include, but are not limited to, the following: 
+
+• | our ability to successfully implement our business strategies;
+
+
+• | our ability to effectively manage our growth and expansion plans;
+
+
+• | delays or unexpected costs in development and opening of data center facilities;
+
+
+• | any slowdown in demand for our existing data center resources;
+
+
+• | our ability to attract new customers and achieve sufficient customer demand to realize future expected returns on our investments;
+
+
+• | our ability to license space in our existing data centers;
+
+
+• | the geographic concentration of our data centers in certain markets;
+
+
+• | local economic, credit and market conditions that impact our customers in these markets;
+
+
+• | the impact of delays or disruptions in third-party network connectivity;
+
+
+• | developments in the technology and data center industries in general that negatively impact us, including development of new technologies, adoption of new industry standards, declines in the technology industry or slowdown in the growth of the Internet;
+
+
+• | our ability to adapt to evolving technologies and customer demands in a timely and cost-effective manner;
+
+
+• | financial market fluctuations;
+
+
+• | our ability to obtain necessary capital to fund our capital requirements and our ability to continue to comply with covenants and terms in our credit instruments;
+
+
+• | our ability to generate sufficient cash flow to meet our debt service and working capital requirements;
+
+
+• | our ability to collect revenues on a timely basis;
+
+
+• | fluctuations in interest rates and increased operating costs, including power costs;
+
+
+• | significant disruptions, security breaches, including cyber security breaches, or system failures at any of our data center facilities;
+
+
+• | our ability to effectively compete in the data center market;
+
+Switch, Inc. | 2018 Form 10-K | 22
+
+
+• | our ability to protect our intellectual property rights and not infringe upon others’ intellectual property rights;
+
+
+• | loss of significant customers or key personnel;
+
+
+• | losses in excess of our insurance coverage, including due to natural disasters and other unforeseen damage;
+
+
+• | impact of the outcome of pending or future litigation;
+
+
+• | the impact of future changes in legislation and regulations, including changes in real estate and zoning laws, ABA, environmental and other laws that impact our business and industry;
+
+
+• | future increases in real estate taxes;
+
+
+• | early termination of data center leases or inability to renew on commercially acceptable terms;
+
+
+• | our ability to successfully identity and consummate future joint ventures, acquisitions or other strategic transactions;
+
+
+• | our realization of any benefit from the Tax Receivable Agreement, our Common Unit repurchase plan and our organizational structure;
+
+
+• | our ability to sufficiently remediate the material weaknesses identified in our internal control over financial reporting;
+
+
+• | volatility of our stock price, including due to future issuances of our Class A common stock upon redemption or exchange of Common Units; and
+
+
+• | our ability to successfully estimate the impact of certain accounting and tax matters, including the effect on our company of adopting certain accounting pronouncements.
+
+The foregoing list of important factors does not include all such factors, nor necessarily present them in order of importance. In addition, you should consult other disclosures made by us (such as in our other filings with the SEC or in company press releases) for other factors that may cause actual results to differ materially from those projected by us. For a further discussion of the risks relating to our business, see “Item 1A—Risk Factors” in Part I of this Form 10-K.
+Except as required by applicable law, we do not plan to publicly update or revise any forward-looking statements contained herein, whether as a result of any new information, future events, changed circumstances or otherwise. 
+Switch, Inc. | 2018 Form 10-K | 23
+

@@ -1,0 +1,788 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1.  Business General
+ MutualFirst Financial, Inc., a Maryland corporation (“MutualFirst” or the “Company”), is the sole owner of MutualBank (“MutualBank” or the “Bank”). The Bank is an Indiana commercial bank regulated by the Indiana Department of Financial Institutions (“IDFI”) and the Federal Deposit Insurance Corporation (“FDIC”). MutualFirst is a bank holding company subject to regulation by the Board of Governors of the Federal Reserve System (“FRB”). The words “we,” “our” and “us” in this Form 10‑K refer to MutualFirst and MutualBank on a consolidated basis, unless indicated otherwise herein.
+ At December 31, 2018, we had total assets of $2.0 billion, loans of $1.5 billion, deposits of $1.5 billion and stockholders’ equity of $202.4 million. Our executive offices are located at 110 E. Charles Street, Muncie, Indiana 47305‑2400. Our common stock is traded on the Nasdaq Global Market under the symbol “MFSF.”  For more general information about our business, and other 2018 material transactions and results, see “Item 7 - Management’s Discussion and Analysis of Financial Condition and Results of Operation - Overview and Significant Events in 2018.”
+ Forward-Looking Statements
+ This Form 10‑K contains, and our future filings with the SEC, Company press releases, other public pronouncements, stockholder communications and oral statements made by or with the approval of an authorized executive officer will contain, “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. You can identify these forward-looking statements through our use of words such as “may,” “will,” “anticipate,” “assume,” “should,” “indicate,” “would,” “believe,” “contemplate,” “expect,” “estimate,” “continue,” “plan,” “project,” “could,” “intend,” “target” and other similar words and expressions of the future. These forward-looking statements include, but are not limited to:
+
+· | statements of our goals, intentions and expectations;
+--+------------------------------------------------------
+
+
+· | statements regarding our business plans, prospects, growth and operating strategies;
+--+-------------------------------------------------------------------------------------
+
+
+· | statements regarding the asset quality of our loan and investment portfolios; and
+--+----------------------------------------------------------------------------------
+
+
+· | estimates of our risks and future costs and benefits.
+--+------------------------------------------------------
+
+  These forward-looking statements are based on current beliefs and expectations of our management and are inherently subject to significant business, economic and competitive uncertainties and contingencies, many of which are beyond our control. In addition, these forward-looking statements are subject to assumptions with respect to future business strategies and decisions that are subject to change.
+ The following factors, among others, could cause actual results to differ materially from the anticipated results or other expectations expressed in the forward-looking statements:
+
+· | the credit risks of lending activities, including changes in the level and trend of loan delinquencies and write-offs and changes in our allowance for loan losses and provision for loan losses that may be impacted by deterioration in the housing and commercial real estate markets;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | changes in general economic conditions, either nationally or in our market areas;
+--+----------------------------------------------------------------------------------
+
+
+· | changes in the monetary and fiscal policies of the U.S. Government, including policies of the Treasury and the FRB;
+--+--------------------------------------------------------------------------------------------------------------------
+
+
+· | changes in the levels of general interest rates and the relative differences between short- and long-term interest rates, deposit interest rates, our net interest margin and funding sources;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | fluctuations in the demand for loans, the number of unsold homes, land and other properties and fluctuations in real estate values in our market areas;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | expected cost savings, synergies and other benefits from our merger and acquisition activities, including the merger with Universal, might not be realized within the anticipated time frames or at
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+  3
+
+ 
+
+all, and costs or difficulties relating to integration matters, including but not limited to customer and employee retention, might be greater than expected;
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | decreases in the secondary market for the sale of loans that we originate;
+--+---------------------------------------------------------------------------
+
+
+· | results of examinations of us by the IDFI, FDIC, FRB or other regulatory authorities, including the possibility that any such regulatory authority may, among other things, require us to increase our allowance for loan losses, write-down assets, change our regulatory capital position or affect our ability to borrow funds or maintain or increase deposits, which could adversely affect our liquidity and earnings;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | legislative or regulatory changes that adversely affect our business, including the effect of Dodd-Frank Wall Street Reform and Consumer Protection Act (the “Dodd-Frank Act”), changes in regulatory policies and principles, changes in regulatory capital requirements or the interpretation of regulatory capital or other rules;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | our ability to attract and retain deposits;
+--+--------------------------------------------
+
+
+· | increases in premiums for deposit insurance;
+--+---------------------------------------------
+
+
+· | management’s assumptions in determining the adequacy of the allowance for loan losses;
+--+---------------------------------------------------------------------------------------
+
+
+· | our ability to control operating costs and expenses;
+--+-----------------------------------------------------
+
+
+· | the use of estimates in determining fair value of certain assets, which estimates may prove to be incorrect and result in significant losses due to declines in valuation;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | difficulties in reducing risks associated with the loans on our balance sheet;
+--+-------------------------------------------------------------------------------
+
+
+· | staffing fluctuations in response to product demand or the implementation of corporate strategies that affect our workforce and potential associated charges;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | a failure or security breach in the computer systems (or the third-party vendors who provide such services) on which we depend;
+--+--------------------------------------------------------------------------------------------------------------------------------
+
+
+· | our ability to retain members of our senior management team;
+--+-------------------------------------------------------------
+
+
+· | costs and effects of litigation, including settlements and judgments;
+--+----------------------------------------------------------------------
+
+
+· | increased competitive pressures among financial services companies;
+--+--------------------------------------------------------------------
+
+
+· | changes in consumer spending, borrowing and savings habits;
+--+------------------------------------------------------------
+
+
+· | the availability of resources to address changes in laws, rules, or regulations or to respond to regulatory actions;
+--+---------------------------------------------------------------------------------------------------------------------
+
+
+· | adverse changes in the securities markets;
+--+-------------------------------------------
+
+
+· | changes in our ability and the cost to access the capital markets;
+--+-------------------------------------------------------------------
+
+
+· | inability of key third-party providers to perform their obligations to us;
+--+---------------------------------------------------------------------------
+
+
+· | changes in tax legislation and accounting policies and practices, as may be adopted by the financial institution regulatory agencies, the Public Company Accounting Oversight Board or the Financial Accounting Standards Board; and
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | other economic, competitive, governmental, regulatory, and technological factors affecting our operations, pricing, products and services and the other risks described elsewhere in this Form 10‑K.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  Some of these and other factors are discussed in “Item 1A-Risk Factors” and elsewhere in this Form 10‑K. Certain of these developments could have an adverse impact on our financial position and results of operations.
+ Any of these forward-looking statements are based upon management’s beliefs and assumptions at the time they are made. We undertake no obligation to publicly update or revise any forward-looking statements included in this Form 10‑K or to update the reasons why actual results could differ from those contained in such statements, whether as a result of new information, future events or otherwise. In light of these risks, uncertainties and assumptions, the forward-looking statements discussed in this Form 10‑K might not occur, and you should not put undue reliance on any forward-looking statements.
+ The Company does not undertake and specifically declines any obligation to publicly release the result of any revisions that may be made to any forward-looking statements to reflect events or circumstances after the date of such statements or to reflect the occurrence of unanticipated events.
+
+ 
+  4
+
+ 
+
+ Market Area
+ We are a community-oriented bank offering a variety of financial services to meet the needs of the communities we serve. We are headquartered in Muncie, Indiana and offer our financial services through 39 full service retail financial center offices in Allen, Delaware, Elkhart, Grant, Greene, Hamilton, Jackson, Johnson, Knox, Kosciusko, Lawrence, Monroe, Randolph, St. Joseph and Wabash counties in Indiana. MutualBank also has wealth management offices in Fishers and Crawfordsville, Indiana and a loan origination office in New Buffalo, Michigan. The Bank has a subsidiary, Summit Mortgage, Inc., that operates a mortgage banking firm in Fort Wayne, Indiana. In addition, we originate residential mortgage and commercial loans in the counties contiguous to those counties. We also originate indirect consumer loans throughout Indiana and contiguous states as described in “Lending Activities - Other Consumer Lending.”
+ The market areas where MutualBank operates in Indiana have historically experienced an unemployment rate that exceeded the federal and state unemployment rates, however in last three years the rate in our market areas was reduced to below the state and federal rates. At the end of 2018, the unemployment rate (not seasonally adjusted) was 3.7% at the federal level and 3.4% at the state level, compared to 3.9% and 3.1% at the end of 2017 at the federal and state level, respectively. Our footprint had an unemployment rate of 3.1% and 2.8% at year-end 2018 and 2017, respectively.
+ Competition
+ We face strong competition from other banks, credit unions, mortgage bankers and finance companies in originating commercial, real estate and other loans and in attracting deposits. Our wealth management division faces strong competition from other banks, brokerage firms, financial advisers and trust companies. We attract deposits primarily through our financial center network. Competition for deposits comes principally from local banks and credit unions, but also comes from the availability of other investment opportunities, including mutual funds. We compete for deposits by offering superior service and a variety of deposit accounts at competitive rates. We also offer alternative investment products through a broker/dealer. Internet Website and Information
+ The Company maintains a website at www.bankwithmutual.com - “About Us – Investor Relations.”  The information contained on that website is not included as part of or incorporated by reference into this Form 10‑K. The Company’s filings with the SEC are available on that website and also are available on the SEC website at sec.gov - “Search for Company Filings.” Lending Activities
+ General. Our loans carry either a fixed- or an adjustable-rate of interest. At December 31, 2018, our net loan portfolio totaled $1.5 billion, which constituted 72.3% of our total assets. Our net loan portfolio, excluding loans held for sale, increased by 27.0% in 2018, primarily due to the Universal acquisition in the first quarter of 2018 along with indirect consumer loan and commercial loan growth in 2018.
+ Aggregate credit exposures to borrowers of up to $1.0 million may be approved by certain individual commercial loan officers. Aggregate exposures in excess of $1.0 million, but not in excess of $3.0 million, may be approved by the combined authority of officers that have loan authority up to $1.0 million individually. Aggregate exposures between $2.0 million, but no more than $8.0 million, may be approved by a majority vote of the Loan Committee. All aggregate exposures in excess of $8.0 million must be approved by the Board of Directors. Commercial Banking Officers may advance additional credit exposure for a commercial loan relationship requiring Board approval up to the lesser of: 10% of the existing previously approved credit exposure to the client, or $100,000. Any additional exposure approved under the 10% Rule must be approved by the Senior Vice President of Commercial Banking, or his designee, and reported to the appropriate Loan Committee during the next meeting.
+
+ 
+  5
+
+ 
+
+ Major Loan Customers. At December 31, 2018, the maximum amount that we could lend to any one borrower and the borrower’s related entities was approximately $29.8 million. At December 31, 2018, our five largest lending relationships were with commercial borrowers and constituted an aggregate of $66.7 million in loans and commitments issued, or 4.4% of our $1.5 billion gross loan portfolio, with $62.2 million in loans outstanding. As of December 31, 2018, our largest lending relationship to a single borrower or group of related borrowers consisted of five loans with a total commitment of $18.7 million, with a $18.3 million outstanding balance at year-end. These loans are secured primarily by commercial real estate and were in compliance with loan terms as of December 31, 2018.
+ Our next four largest relationships consist of $12.8 million in loans and commitments secured primarily by commercial real estate with $12.0 million outstanding; $12.0 million in loans and commitments issued and outstanding which is secured by commercial real estate; $11.8 million in loans and commitments issued primarily secured by commercial business collateral with $8.5 million outstanding; and $11.4 million in loans and commitments issued and outstanding which is secured by commercial real estate. As of December 31, 2018, all loans within these relationships were performing as agreed.
+
+
+ 
+  6
+
+ 
+
+ The following table presents information concerning the composition of our loan portfolio in dollar amounts and in percentages as of the dates indicated. On February 28, 2018, $257.0 million of loans with a fair value discount of $4.6 million were acquired in the Universal acquisition. 
+    
+ | | | December 31, | 
+ | | | 2018 | | | 2017 | | 2016 | | | 2015 | | | 2014 | 
+ | | | Amount | | Percent | | Amount | | Percent | | | Amount | | Percent | | | Amount | Percent | | | Amount | | Percent | 
+ | | | (Dollars in thousands) | 
+Real estate | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+Commercial | | $ | 485,808 | | 32.36 | % | $ | 318,684 | | 26.75 | % | | $ | 302,577 | | 25.71 | % | $ | 236,895 | | 21.75 | % | | $ | 198,019 | | 19.25 | %
+Commercial construction and development | | | 53,310 | | 3.55 | | | 28,164 | | 2.36 | | | | 22,453 | | 1.91 | | | 15,744 | | 1.45 | | | | 33,102 | | 3.22 | 
+Consumer closed end first mortgage | | | 468,526 | (1) | 31.21 | | | 448,820 | (2) | 37.68 | | | | 482,911 | (3) | 41.04 | | | 497,442 | (4) | 45.66 | | | | 523,203 | (5) | 50.87 | 
+Consumer open end and junior liens | | | 77,072 | | 5.13 | | | 69,477 | | 5.83 | | | | 71,222 | | 6.05 | | | 70,990 | | 6.52 | | | | 71,073 | | 6.91 | 
+Total real estate loans | | | 1,084,716 | | 72.25 | | | 865,145 | | 72.62 | | | | 879,163 | | 74.71 | | | 821,071 | | 75.38 | | | | 825,397 | | 80.25 | 
+Other loans | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+Consumer loans | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+Auto | | | 43,667 | | 2.91 | | | 19,640 | | 1.65 | | | | 18,939 | | 1.61 | | | 15,480 | | 1.42 | | | | 14,712 | | 1.43 | 
+Boat/RV | | | 216,608 | | 14.43 | | | 169,238 | | 14.21 | | | | 141,602 | | 12.03 | | | 123,621 | | 11.35 | | | | 94,761 | | 9.21 | 
+Other consumer loans | | | 6,893 | | 0.46 | | | 6,188 | | 0.52 | | | | 5,892 | | 0.51 | | | 6,171 | | 0.56 | | | | 5,184 | | 0.51 | 
+Total consumer other | | | 267,168 | | 17.80 | | | 195,066 | | 16.38 | | | | 166,433 | | 14.15 | | | 145,272 | | 13.33 | | | | 114,657 | | 11.15 | 
+Commercial and industrial | | | 149,359 | | 9.95 | | | 131,079 | | 11.00 | | | | 131,103 | | 11.14 | | | 123,043 | | 11.29 | | | | 88,474 | | 8.60 | 
+Total other loans | | | 416,527 | | 27.75 | | | 326,145 | | 27.38 | | | | 297,536 | | 25.29 | | | 268,315 | | 24.62 | | | | 203,131 | | 19.75 | 
+Total loans receivable, gross | | $ | 1,501,243 | | 100.00 | % | | 1,191,290 | | 100.00 | % | | | 1,176,699 | | 100.00 | % | | 1,089,386 | | 100.00 | % | | | 1,028,528 | | 100.00 | %
+Undisbursed loans in process | | | (10,096) | | | | | (13,071) | | | | | | (8,691) | | | | | (7,432) | | | | | | (9,285) | | | 
+Unamortized deferred loan costs, net | | | 8,783 | | | | | 6,503 | | | | | | 5,557 | | | | | 4,882 | | | | | | 3,583 | | | 
+Allowance for loan losses | | | (13,281) | | | | | (12,387) | | | | | | (12,382) | | | | | (12,641) | | | | | | (13,168) | | | 
+Total loans receivable, net | | $ | 1,486,649 | | | | $ | 1,172,335 | | | | | $ | 1,161,183 | | | | $ | 1,074,195 | | | | | $ | 1,009,658 | | | 
+(1) | Includes loans held for sale of $4.0 million. | 
+(2) | Includes loans held for sale of $4.6 million. | 
+(3) | Includes loans held for sale of $4.1 million. | 
+(4) | Includes loans held for sale of $6.0 million. | 
+(5) | Includes loans held for sale of $6.1 million. | 
+
+     
+
+ 
+  7
+
+ 
+
+ The following table shows the composition of our loan portfolio by fixed- and adjustable-rate at the dates indicated.
+
+ | | | December 31, | 
+ | | | 2018 | | | 2017 | | 2016 | | | 2015 | | | 2014 | 
+ | | | Amount | | Percent | | Amount | | Percent | | | Amount | | Percent | | | Amount | Percent | | | Amount | | Percent | 
+ | | | (Dollars in thousands) | 
+Fixed-Rate Loans | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+Real estate | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+Commercial | | $ | 53,055 | | 3.53 | % | $ | 44,896 | | 3.77 | % | | $ | 66,898 | | 5.69 | % | $ | 72,263 | | 6.63 | % | | $ | 85,230 | | 8.29 | %
+Commercial construction and development | | | 8,759 | | 0.58 | | | 1,709 | | 0.14 | | | | 1,962 | | 0.17 | | | 4,732 | | 0.43 | | | | 3,941 | | 0.38 | 
+Consumer closed end first mortgage | | | 368,794 | (1) | 24.57 | | | 347,514 | (2) | 29.17 | | | | 371,111 | (3) | 31.54 | | | 381,372 | (4) | 35.01 | | | | 392,441 | (5) | 38.16 | 
+Consumer open end and junior liens | | | 20,090 | | 1.34 | | | 19,939 | | 1.67 | | | | 22,116 | | 1.88 | | | 17,106 | | 1.57 | | | | 19,479 | | 1.89 | 
+Total real estate loans | | | 450,698 | | 30.02 | | | 414,058 | | 34.75 | | | | 462,087 | | 39.28 | | | 475,473 | | 43.64 | | | | 501,091 | | 48.72 | 
+Consumer | | | 265,482 | | 17.68 | | | 193,281 | | 16.23 | | | | 164,483 | | 13.98 | | | 143,171 | | 13.14 | | | | 112,295 | | 10.92 | 
+Commercial and industrial | | | 41,172 | | 2.74 | | | 48,253 | | 4.05 | | | | 52,932 | | 4.50 | | | 61,702 | | 5.66 | | | | 43,378 | | 4.22 | 
+Total fixed-rate loans | | | 757,352 | | 50.44 | | | 655,592 | | 55.03 | | | | 679,502 | | 57.76 | | | 680,346 | | 62.44 | | | | 656,764 | | 63.86 | 
+Adjustable-Rate Loans | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+Real estate | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+Commercial | | | 432,753 | | 28.83 | | | 273,788 | | 22.98 | | | | 235,679 | | 20.03 | | | 164,632 | | 15.12 | | | | 112,789 | | 10.97 | 
+Commercial construction and development | | | 44,551 | | 2.97 | | | 26,455 | | 2.22 | | | | 20,491 | | 1.73 | | | 11,012 | | 1.02 | | | | 29,161 | | 2.83 | 
+Consumer closed end first mortgage | | | 99,732 | | 6.64 | | | 101,306 | | 8.51 | | | | 111,800 | | 9.50 | | | 116,070 | | 10.65 | | | | 130,762 | | 12.71 | 
+Consumer open end and junior liens | | | 56,982 | | 3.80 | | | 49,538 | | 4.16 | | | | 49,106 | | 4.17 | | | 53,884 | | 4.95 | | | | 51,594 | | 5.02 | 
+Total real estate loans | | | 634,018 | | 42.24 | | | 451,087 | | 37.87 | | | | 417,076 | | 35.43 | | | 345,598 | | 31.74 | | | | 324,306 | | 31.53 | 
+Consumer | | | 1,686 | | 0.11 | | | 1,785 | | 0.15 | | | | 1,950 | | 0.17 | | | 2,101 | | 0.19 | | | | 2,362 | | 0.23 | 
+Commercial and industrial | | | 108,187 | | 7.21 | | | 82,826 | | 6.95 | | | | 78,171 | | 6.64 | | | 61,341 | | 5.63 | | | | 45,096 | | 4.38 | 
+Total adjustable-rate loans | | | 743,891 | | 49.56 | | | 535,698 | | 44.97 | | | | 497,197 | | 42.24 | | | 409,040 | | 37.56 | | | | 371,764 | | 36.14 | 
+Total loans receivable, gross | | | 1,501,243 | | 100.00 | % | | 1,191,290 | | 100.00 | % | | | 1,176,699 | | 100.00 | % | | 1,089,386 | | 100.00 | % | | | 1,028,528 | | 100.00 | %
+Undisbursed loans in process | | | (10,096) | | | | | (13,071) | | | | | | (8,691) | | | | | (7,432) | | | | | | (9,285) | | | 
+Unamortized deferred loan costs, net | | | 8,783 | | | | | 6,503 | | | | | | 5,557 | | | | | 4,882 | | | | | | 3,583 | | | 
+Allowance for loan losses | | | (13,281) | | | | | (12,387) | | | | | | (12,382) | | | | | (12,641) | | | | | | (13,168) | | | 
+Total loans receivable, net | | $ | 1,486,649 | | | | $ | 1,172,335 | | | | | $ | 1,161,183 | | | | $ | 1,074,195 | | | | | $ | 1,009,658 | | | 
+(1) | Includes loans held for sale of $4.0 million. | 
+(2) | Includes loans held for sale of $4.6 million. | 
+(3) | Includes loans held for sale of $4.1 million. | 
+(4) | Includes loans held for sale of $6.0 million. | 
+(5) | Includes loans held for sale of $6.1 million. | 
+
+ 
+
+ 
+  8
+
+ 
+
+ The following schedule illustrates the contractual maturity of our loan portfolio at December 31, 2018. Mortgages that have adjustable or renegotiable interest rates are shown as maturing in the period during which the contract is due. The total amount of loans due after December 31, 2019 that have predetermined interest rates is $721.2 million, and the total amount of loans due after such date which have floating or adjustable interest rates is $603.2 million. The schedule does not reflect the effects of possible prepayments or enforcement of due-on-sale clauses.
+
+ | | | | Real Estate | | | | | | | | | | | | | | | | | | | 
+ | | | | Consumer Closed | | | Consumer Open | | | | | | | | | Construction | | | | | | | | | | | | | | | | | | | 
+ | | | | End First | | | End | | | | | | | | | and | | | | | | | | | Commercial | | | | | | | 
+ | | | | Mortgage(1) | | | and Junior Liens | | | Commercial | | | Development | | | Consumer | | | Business | | | Total | 
+ | | | | Amount | | WAR(3) | | | Amount | | WAR(3) | | | Amount | | WAR(3) | | | Amount | | WAR(3) | | | Amount | | WAR(3) | | | Amount | | WAR(3) | | | Amount | | WAR(3) | 
+ | | | | (Dollars in thousands) | 
+Due During Years Ending December 31, | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+2019 | (2) | | $ | 3,509 | | 5.56 | % | | $ | 511 | | 6.10 | % | | $ | 52,174 | | 5.58 | % | | $ | 33,683 | | 5.94 | % | | $ | 2,544 | | 7.49 | % | | $ | 80,504 | | 5.73 | % | | $ | 172,925 | | 5.75 | %
+2020 | | | | 1,698 | | 4.11 | | | | 199 | | 7.05 | | | | 4,352 | | 5.13 | | | | 4,600 | | 5.35 | | | | 3,184 | | 6.27 | | | | 8,181 | | 4.22 | | | | 22,214 | | 4.94 | 
+2021 | | | | 2,593 | | 3.93 | | | | 974 | | 6.66 | | | | 8,988 | | 5.34 | | | | 769 | | 5.21 | | | | 6,774 | | 5.51 | | | | 9,033 | | 4.14 | | | | 29,131 | | 4.92 | 
+2022 & 2023 | | | 10,992 | | 3.64 | | | | 3,940 | | 6.28 | | | | 24,068 | | 4.84 | | | | 6,341 | | 5.56 | | | | 32,421 | | 5.06 | | | | 19,033 | | 4.99 | | | | 96,795 | | 4.91 | 
+2024 & 2025 | | | 9,646 | | 4.05 | | | | 2,938 | | 6.09 | | | | 20,171 | | 5.01 | | | | 110 | | 5.93 | | | | 23,306 | | 4.80 | | | | 10,364 | | 4.88 | | | | 66,535 | | 4.83 | 
+2026 & 2040 | | | 256,087 | | 4.04 | | | | 68,510 | | 5.59 | | | | 338,184 | | 4.87 | | | | 7,807 | | 4.70 | | | | 198,939 | | 5.83 | | | | 22,244 | | 5.53 | | | | 891,771 | | 4.92 | 
+2041 & after | | | 180,014 | | 4.20 | | | | - | | - | | | | 37,871 | | 4.43 | | | | - | | - | | | | - | | - | | | | - | | - | | | | 217,885 | | 4.24 | 
+Total | | $ | 464,539 | | 4.10 | % | | $ | 77,072 | | 5.67 | % | | $ | 485,808 | | 4.93 | % | | $ | 53,310 | | 5.65 | % | | $ | 267,168 | | 5.66 | % | | $ | 149,359 | | 5.37 | % | | $ | 1,497,256 | | 4.91 | % 
+(1) | Does not include mortgage loans held for sale. | 
+(2) | Includes demand loans, loans having no stated maturity and overdraft loans. | 
+(3) | Weighted Average Rate | 
+
+     
+
+ 
+  9
+
+ 
+
+ Consumer Closed End First Mortgages. We originate loans secured by first mortgages on owner-occupied, one-to-four family residences in our market areas for purchase, refinance, home equity and construction purposes. At December 31, 2018, these loans, including loans held for sale, totaled $468.5 million, or 31.2% of our gross loan portfolio.
+ We generally underwrite and document our one-to-four family loans based on the loan applicant’s employment and credit history and the appraised value of the subject property, consistent with secondary market standards or other prudent underwriting guidelines. For loans with a loan-to-value ratio in excess of 80%, we generally require private mortgage insurance to reduce our exposure to 80%. Properties securing our one-to-four family loans are appraised or evaluated consistent with regulatory requirements and prudent lending principles. Origination and servicing practices include perfection of our lien position and appropriate monitoring of insurance and tax payments.
+ We generally underwrite and document our one-to-four family first lien position home equity loans based on the loan applicant’s employment, credit history and the appraised value of the subject property, consistent with prudent underwriting guidelines. Nearly all first lien home equity loans have a maximum loan-to-value of 80% at origination. Properties securing our one-to-four family loans are appraised or evaluated consistent with regulatory requirements and prudent lending principles.
+ We originate consumer first mortgage one-to-four family loans on either a fixed- or adjustable-rate basis, and generally maintain a tax or insurance escrow account for these loans. Our pricing strategy for mortgage loans includes setting interest rates that are competitive with the secondary market and other local financial institutions and are consistent with our internal needs. Adjustable-rate mortgage or ARM loans are offered with initial fixed rate terms between one and 10 years. After the initial period, the interest rate for each ARM loan adjusts annually for the remainder of the term of the loan using a margin over the standard one-year treasury index. During fiscal year 2018, we originated $10.8 million of one-to-four family ARM loans and $176.2 million of one-to-four family fixed-rate mortgage loans. By way of comparison, during fiscal year 2017, we originated $10.8 million of one-to-four family ARM loans and $176.4 million of one-to-four family fixed-rate mortgage loans.
+ Fixed-rate loans secured by one-to-four family residences have contractual maturities of up to 30 years and are generally fully amortizing, with payments due monthly. A majority of loans with fixed-rate maturities in excess of 15 years are sold on the secondary market. Some loans are retained if their terms meet current portfolio needs consistent with balance sheet objectives. These retained loans normally remain outstanding, however, for a substantially shorter period of time because of home sales, refinancing and other prepayments. A significant change in interest rates could alter considerably the average life of a residential loan in our portfolio. Our one-to-four family loans are generally not assumable, do not contain prepayment penalties and do not permit negative amortization of principal. Most are written using underwriting guidelines that make them readily saleable in the secondary market. At December 31, 2018, our fixed-rate one-to-four family mortgage loan portfolio totaled $368.8 million, or 24.6% of our gross loan portfolio.
+ Our one-to-four family residential ARM loans are fully amortizing loans with contractual maturities of up to 30 years, with payments due monthly. Our ARM loans generally provide for specific minimum and maximum interest rates, with a lifetime cap and floor, and a periodic adjustment on the interest rate over the rate in effect on the date of origination. As a consequence of using caps, the interest rates on these loans may not be as rate sensitive as our cost of funds. In order to remain competitive in our market areas, we sometimes originate ARM loans at initial rates below the fully indexed rate. ARM loans generally pose different credit risks than fixed-rate loans, primarily because as interest rates rise, the borrower’s required payments increase, which may increase the potential for default. Our payment history for ARM loans has not been substantially different from fixed rate loans. See “Asset Quality - Non-performing Assets” and “Classified Assets.”  At December 31, 2018, our one-to-four family ARM loan portfolio totaled $99.7 million, or 6.6% of our gross loan portfolio.
+
+ 
+  10
+
+ 
+
+ Construction-permanent loans on one-to-four family residential properties are obtained through referral business with builders, from walk-in customers and through referrals from realtors and architects. The applicant must submit complete plans, specifications and costs of the project to be constructed, which, along with an independent appraisal, are used to determine the value of the subject property. Loans are based on the lesser of the current appraised value and/or the cost of construction, including the land and the building. We generally conduct regular inspections of the construction project being financed. Residential construction loans are done with one closing for both the construction period and the long-term financing. Loans are generally granted with a construction period between six and 12 months. During the construction phase, the borrower generally pays interest only on a monthly basis, and the loan is automatically converted to amortizing payments upon completion of the construction. Single family construction loans with loan-to-value ratios over 80% usually require private mortgage insurance.
+ Consumer Open End and Junior Liens. At December 31, 2018, our consumer loans on residential properties, including home equity lines of credit and subordinate home improvement loans, totaled $77.1 million, or 5.1% of our gross loan portfolio. Unused home equity lines of credit totaled $97.2 million at December 31, 2018. These loans may be originated in amounts, together with the amount of the existing first mortgage, of up to 100% of the value of the property securing the loan. The term to maturity on our home equity and home improvement loans may be up to 15 years. Most home equity lines of credit have a maximum term to maturity of 20 years and require a minimum monthly payment based on the outstanding loan balance per month, which amount may be re-borrowed at any time during the first ten years. A limited number of home equity lines of credit are approved with monthly payments of accrued interest only. Other consumer loan terms vary according to the type of collateral, length of contract and creditworthiness of the borrower.
+ Commercial Real Estate Lending. We offer a variety of commercial real estate (“CRE”) loans for acquisition and renovation. These loans are secured by the real estate and improvements financed, and the collateral ranges from industrial and commercial buildings to churches, office buildings and multi-family housing complexes. We also have a limited amount of farm loans. At December 31, 2018, commercial real estate loans, including multi-family, totaled $485.8 million, or 32.4% of our gross loan portfolio. During fiscal year 2018, we increased commercial real estate loan originations 59.4% to $75.3 million from $47.3 million in 2017.
+ Our loans secured by commercial real estate are originated with either a fixed or adjustable interest rate. The interest rate on adjustable-rate loans is based on a variety of indices, generally determined through negotiation with the borrower. Loan-to-value ratios on our commercial real estate loans typically do not exceed 80% of the appraised value, as of origination, of the property securing the loan. These loans typically require monthly payments, are fully amortizing and generally have maximum amortizations of 20 years. Loans with amortizations over 20 years require a loan-to-value ratio of 75% or less.
+ Loans secured by commercial real estate are underwritten based on the income-producing potential of the property and the financial strength of the borrower. For income-producing properties, net operating income must be sufficient to cover the payments related to the outstanding debt. Owner-occupied CRE loans are underwritten based on the borrower’s ability to generate cash flow sufficient to repay the loan. We may require personal guarantees of the borrowers in addition to the real estate as collateral for such loans. We also generally require an assignment of rents or leases in order to be assured that the cash flow from the real estate can be used to repay the debt. Appraisals on properties securing commercial real estate loans are performed by qualified independent appraisers approved by MutualBank’s Board of Directors, consistent with regulatory requirements. See “Loan Originations, Purchases, Sales and Repayments” in this Item 1. In order to monitor the adequacy of cash flows on CRE loans, the borrower is required to provide periodic financial information for loans in excess of $350,000.
+ Loans secured by commercial real estate are generally larger and involve a greater degree of credit risk than one-to-four family residential mortgage loans. Commercial real estate loans typically involve large balances to single borrowers or groups of related borrowers. Because payments on loans secured by commercial real 
+
+ 
+  11
+
+ 
+estate are often dependent on the successful operation or management of the properties, repayment of such loans may be subject to adverse conditions in the real estate market or the economy. If the cash flow from the project is reduced, or if leases are not obtained or renewed, the borrower’s ability to repay the loan may be impaired. See “Asset Quality - Non-performing Assets” in this Item 1.
+ Construction and Development Lending. MutualBank makes a variety of commercial loans for the purpose of construction or development of commercial real estate.
+ Existing residential development loans are typically provided on property located within our market areas and are granted to developers and builders with previous borrowing experience with MutualBank. Financing of a development may include funding of land acquisition and development costs for lots as well as individual construction loans for speculative or pre-sold homes. New activity in residential development and construction lending has been limited by economic conditions for the past several years. We also provide construction-permanent financing for owner-occupied commercial properties for our business customers in our market areas as well as some income-producing property to established borrowers. We have a limited number of commercial real estate development loans. At December 31, 2018, we had $53.3 million in construction and development loans outstanding, representing 3.6% of our gross loan portfolio.
+ Loans financing land development may include funding the acquisition of the land, the infrastructure and lot sales. Development loans are secured by real estate and repaid through proceeds from the sale of lots. The maximum loan amount should not exceed 75% of the appraised value and projected lot sales should show full payout within 24‑36 months of each phase being financed. Where the development loan is to be repaid through lot sales to third parties, the loan should be paid in full when no more than 80% of the lots in the phase or development are sold. Release payments should not be less than 85% of the net sales proceeds, or 125% of the original committed amount per lot, whichever is greater.
+ Construction financing must be supported by prints and specs, and an appraisal by an approved appraiser. Construction draws must be supported by a detailed list of work completed, and where appropriate, lien waivers from all contractors. All construction loans should have a maturity date with a written end financing commitment. We also provide end financing to qualified borrowers. Our maximum advance on residential pre-sold and owner occupied commercial loans is 80% of appraised value.
+ Because of the uncertainties inherent in estimating construction and development costs and the market for the project upon completion, there is risk inherent in the accuracy of estimated total loan funds required to complete a project, the related loan-to-value ratios and the likelihood of ultimate success of the project. These loans also involve many of the same risks discussed above regarding commercial real estate loans and tend to be more sensitive to general economic conditions than many other types of loans. Economic conditions in our market could cause borrowers to be unable to repay development loans due to reduced ability to market the properties consistent with original pro-forma estimates. 
+ Other Consumer Lending. Consumer loans, other than those secured by real estate, generally have shorter terms to maturity and carry higher rates of interest than residential mortgage loans. This reduces our exposure to interest rate risk on these loans. In addition, consumer loan products help to expand and create stronger ties to our customer base by increasing the number of customer relationships and providing cross-marketing opportunities. We offer a variety of secured consumer loans, including auto, boat and recreational vehicle loans, and loans secured by savings deposits. We also offer credit cards and unsecured consumer loans. We originate consumer loans both in our market area through our financial centers and throughout Indiana as well as making consumer loans to customers residing in contiguous states through our indirect lending program. We employ credit scoring models for these types of consumer loan applications. These models evaluate credit and application attributes, with a review of the borrower’s employment and credit history and an assessment of the borrower’s ability to repay the loan. Consumer loans may entail greater risk than one-to-four family residential mortgage loans, especially consumer loans secured by rapidly depreciable assets, such as automobiles, boats and recreational vehicles. In these cases, any repossessed collateral for a defaulted loan may not provide an adequate source of repayment of the outstanding loan balance. As a 
+
+ 
+  12
+
+ 
+result, consumer loan collections are dependent on the borrower’s continuing financial stability and, thus, are more likely to be adversely affected by economic downturn, job loss, divorce, illness or personal bankruptcy. At December 31, 2018, our consumer loan portfolio, excluding real estate secured loans, totaled $267.2 million, or 17.8% of our gross loan portfolio.
+ At December 31, 2018, auto loans totaled $43.7 million, or 2.9% of our gross loan portfolio. Auto loans may be written for up to six years and usually have a fixed rate of interest. Loan-to-value ratios are up to 100% of the MSRP or 120% of invoice for new autos and 110% of value on used cars, based on valuation from official used car guides. Loans for boats and recreational vehicles totaled $216.6 million at December 31, 2018, or 14.4% of our gross loan portfolio. Approximately $107.6 million of auto, boat and recreational vehicle loans originated during 2018 were originated indirectly through dealers and retailers. At December 31, 2018, auto, boat and recreational vehicle loans originated indirectly through dealers and retailers were $224.9 million compared to $162.4 at December 31, 2017, an increase of 38.5%. We generally buy indirect auto, boat and recreational vehicle loans on a rate basis, paying the dealer a cash payment for loans with an interest rate in excess of the rate we require. This premium is amortized over the remaining life of the loan. As specified in written agreements with these dealers, if a loan prepays or is charged-off within the first six months, the remaining premium is charged to future amounts owed to that dealer. If the dealer stops doing business with us, there is no longer a dealer reserve or other guarantee of payment required.
+ Commercial Business Lending. At December 31, 2018, commercial business loans totaled $149.4 million, or 10.0% of our gross loan portfolio. Most of our commercial business loans have been extended to finance businesses in our market area. Credit accommodations extended include lines of credit for working capital needs, term loans to purchase capital goods and real estate, development lending to foster residential, business and community growth and agricultural lending for inventory and equipment financing.
+ Our commercial business lending policy includes credit file documentation and analysis of the borrower’s background, capacity to repay the loan, the adequacy of the borrower’s capital and collateral as well as an evaluation of other conditions affecting the borrower. Analysis of the borrower’s past, present and future cash flows also is an important aspect of our credit analysis. We may obtain personal guarantees on our commercial business loans. Nonetheless, these loans are believed to carry higher credit risk than residential loans. Unlike residential mortgage loans, commercial business loans are typically made on the basis of the borrower’s ability to make repayment from the cash flow of the borrower’s business. As a result, the availability of funds for the repayment of commercial business loans may substantially depend on the success of the business itself (which, in turn, often depends in part upon general economic conditions). Our commercial business loans are usually secured by business assets. However, the collateral securing the loans may depreciate over time, may be difficult to appraise and may fluctuate in value based on the success of the business.
+ The terms of loans extended on the security of machinery and equipment are based on the projected useful life of the machinery and equipment, generally not to exceed seven years. Lines of credit generally are available to borrowers for up to 12 months and may be renewed by us after an annual review of current financial information.
+ We issue a few financial-based standby letters of credit which are offered at competitive rates and terms and are generally on a secured basis. We continue to expand our volume of commercial business loans.
+ Loan Originations, Purchases, Sales and Repayments. We originate loans through referrals from real estate brokers and builders, our marketing efforts, our existing and walk-in customers, and through our subsidiary, Summit Mortgage, Inc. Historically, we have originated many of our non-real estate consumer loans through relationships with dealerships in Indiana. While we originate adjustable-rate and fixed-rate loans, our ability to originate loans depends upon customer demand for loans in our market areas. Demand is affected by local competition, interest rate environment and general market conditions. During the last several years, due to low market rates of interest, our dollar volume of fixed-rate, one-to-four family loans has exceeded the dollar volume of the same type of adjustable-rate loans. As part of our interest rate risk 
+
+ 
+  13
+
+ 
+management efforts, we typically sell our fixed rate, one-to-four family residential loans, with terms equal to or greater than 15 years, on the secondary market. In periods of economic uncertainty, the ability of financial institutions, including us, to originate or purchase large dollar volumes of loans may be substantially reduced or restricted, with a resultant decrease in interest income.
+ The Company originates consumer loans, other than loans secured by real estate, in Indiana and contiguous states through our indirect lending program. The indirect lending consumer portfolio consists of loans for autos, boats and recreational vehicles.
+ During the year ended December 31, 2018, we sold $122.3 million of one-to-four family mortgage loans on the secondary market to Freddie Mac (“FHLMC”), Federal Home Loan Bank of Indianapolis (“FHLBI”) and other investors. As part of our interest rate risk management, the Company chose to sell these loans and recognized a gain on sale of $3.1 million. Servicing was retained on all loans originated through MutualBank but not through our subsidiary, Summit Mortgage.
+
+ 
+  14
+
+ 
+
+ The following table shows our loan origination, purchase, sale and repayment activities for the years indicated.
+
+ | Year Ended December 31,
+ | 2018 | | 2017 | | 2016 
+ | (Dollars in thousands) 
+Originations by type | | | | | | | 
+Adjustable rate | | | | | | | 
+Real estate | | | | | | | 
+Commercial | $ | 71,029 | | $ | 43,783 | $ | 57,026 
+Commercial construction and development | | 3,587 | | | 1,827 | | 190 
+Consumer closed end first mortgage | | 10,763 | | | 10,833 | | 14,790 
+Consumer open end and junior liens | | 14,413 | | | 15,002 | | 16,732 
+Non-real estate | | | | | | | 
+Consumer | | 233 | | | 143 | | 266 
+Commercial and industrial | | 11,042 | | | 3,629 | | 6,609 
+Total adjustable-rate | | 111,067 | | | 75,217 | | 95,613 
+Fixed Rate | | | | | | | 
+Real estate | | | | | | | 
+Commercial | | 4,320 | | | 3,488 | | 13,412 
+Commercial construction and development | | 277 | | | 171 | | 10 
+Consumer closed end first mortgage | | 176,151 | | | 176,414 | | 219,714
+Consumer open end and junior liens | | 4,479 | | | 3,536 | | 3,263 
+Non-real estate | | | | | | | 
+Consumer | | 131,431 | | | 75,750 | | 64,446 
+Commercial and industrial | | 11,686 | | | 11,413 | | 11,163 
+Total fixed-rate | | 328,344 | | | 270,772 | | 312,008
+Total loans originated | | 439,411 | | | 345,989 | | 407,621
+Purchases | | | | | | | 
+Real estate | | | | | | | 
+Consumer closed end first mortgage | | 155 | | | 225 | | 183 
+Total loans purchased | | 155 | | | 225 | | 183 
+Loans acquired in Universal acquisition | | 252,431 | | | - | | - 
+Total additions | | 691,997 | | | 346,214 | | 407,804
+Sales and Repayments | | | | | | | 
+Sales | | | | | | | 
+Real estate | | | | | | | 
+Consumer closed end first mortgage | | 122,324 | | | 134,367 | | 152,067
+Total loans sold | | 122,324 | | | 134,367 | | 152,067
+Principal repayments | | 261,672 | | | 195,457 | | 168,956
+Total reductions | | 383,996 | | | 329,824 | | 321,023
+Increase (decrease) in other items, net | | 6,903 | | | (5,752) | | 2,135 
+Net increase | $ | 314,904 | | $ | 10,638 | $ | 88,916 
+
+      Asset Quality
+ Collection Procedures. When a borrower fails to make a payment on a mortgage loan on or before the default date, a late charge and delinquency notice is mailed. All delinquent accounts are reviewed by a loss mitigation counselor, who attempts to cure the delinquency by contacting the borrower once the loan is 30 days past due. If the loan becomes 30 days delinquent, the loss mitigation counselor will generally contact the borrower by phone or send a letter to the borrower in order to identify the reason for the delinquency. Once the loan becomes 60 days delinquent, the borrower is asked to pay the delinquent amount in full or establish an acceptable repayment plan to bring the loan current. Prior to foreclosure, a drive-by inspection is made to determine the condition of the property. If the account becomes 120 days delinquent, and an acceptable repayment plan has not been agreed upon, a collection officer will generally refer the account to 
+
+ 
+  15
+
+ 
+legal counsel, with instructions to prepare a notice of intent to foreclose. The notice of intent to foreclose allows the borrower up to 30 days to bring the account current. During this 30‑day period, the loss mitigation counselor may accept a repayment plan from the borrower that would bring the account current prior to foreclosure.
+ For consumer loans, a similar collection process is followed, with the initial written contact being made once the loan is 20 days past due.
+ Commercial loan relationships exceeding $350,000 are reviewed on a regular basis by the commercial credit department. Larger relationships are monitored through a system of internal and external loan review. All relationships that are deemed to warrant special attention are monitored at least quarterly. Individual commercial officers maintain communication with borrowers and recommend action plans to a Loan Quality Review committee which meets monthly to discuss credits graded Special Mention or worse. The Asset Classification committee meets quarterly and establishes specific allocations, based on appraisals or discounted cash flow analysis, for relationships that are deemed to be under-collateralized and at risk of non-payment. Collection and loss mitigation efforts are a cooperative effort between the Commercial Loan Department and the Risk Management Division.
+ Delinquent Loans. The following table sets forth, as of December 31, 2018, the amounts and categories of delinquent loans less than 90 days delinquent that were still accruing interest.
+
+ | Accruing Loans Delinquent For | 
+ | 30 to 59 Days | | 60 to 89 Days | 
+ | (Dollars in thousands) | 
+Real estate | | | | | | 
+Commercial | $ | 1,145 | | $ | 536 | 
+Commercial construction and development | | 4,633 | | | - | 
+Consumer closed end first mortgage | | 7,626 | | | 1,294 | 
+Consumer open end and junior liens | | 309 | | | 106 | 
+Consumer loans | | 2,435 | | | 571 | 
+Commercial and industrial | | 617 | | | 93 | 
+Total | $ | 16,765 | | $ | 2,600 | 
+Total as a percent of total loans | | 1.1 | % | | 0.2 | %
+
+      See Note 6 of the Notes to Consolidated Financial Statements in Item 8 of this Form 10‑K for additional information about our past due loans.
+
+
+ 
+  16
+
+ 
+
+ Non-performing Assets. The table below sets forth the amounts and categories of non-performing assets at the dates indicated. Generally, loans are placed on non-accrual status when the loan becomes more than 90 days delinquent or sooner when collection of interest becomes doubtful. At December 31, 2018, we had troubled debt restructurings totaling $3.3 million, $694,000 of which were included in non-accruing loans. Troubled debt restructurings involve forgiving a portion of interest or principal or making other adjustments to assist a borrower who is unable to meet the original terms of the loan. These restructurings are included in non-accruing loans until they perform according to the modified terms for six months. Then, if continued payments under the modified terms are deemed probable, and it is anticipated all principal will be recovered, they are removed from non-accrual status. Foreclosed assets include assets acquired in settlement of loans.
+
+ | December 31, | 
+ | 2018 | | 2017 | | 2016 | | 2015 | | 2014 | 
+ | (Dollars in thousands) | 
+Non-accruing loans(1): | | | | | | | | | | | | | | | 
+Real estate: | | | | | | | | | | | | | | | 
+Commercial real estate | $ | 4,782 | | $ | 1,107 | | $ | 912 | | $ | 2,356 | | $ | 2,023 | 
+Commercial construction and development | | 62 | | | - | | | - | | | - | | | 209 | 
+Consumer closed end first mortgage | | 2,777 | | | 3,409 | | | 3,626 | | | 3,592 | | | 3,499 | 
+Consumer open end and junior liens | | 273 | | | 309 | | | 335 | | | 783 | | | 658 | 
+Total real estate loans | | 7,894 | | | 4,825 | | | 4,873 | | | 6,731 | | | 6,389 | 
+Other loans: | | | | | | | | | | | | | | | 
+Consumer | | 604 | | | 236 | | | 253 | | | 148 | | | 218 | 
+Commercial and industrial | | 91 | | | 159 | | | 18 | | | 25 | | | 605 | 
+Total other loans | | 695 | | | 395 | | | 271 | | | 173 | | | 823 | 
+Total non-accruing loans | | 8,589 | | | 5,220 | | | 5,144 | | | 6,904 | | | 7,212 | 
+Accruing loans delinquent 90 days or more: | | | | | | | | | | | | | | | 
+Real estate: | | | | | | | | | | | | | | | 
+Consumer closed end first mortgage | | 517 | | | 31 | | | 237 | | | 267 | | | 226 | 
+Consumer open end and junior liens | | - | | | - | | | - | | | - | | | - | 
+Total | | 517 | | | 31 | | | 237 | | | 267 | | | 226 | 
+Total nonperforming loans | | 9,106 | | | 5,251 | | | 5,381 | | | 7,171 | | | 7,438 | 
+Other real estate owned and repossessed assets: | | | | | | | | | | | | | | | 
+Real estate: | | | | | | | | | | | | | | | 
+Commercial real estate | | 682 | | | - | | | 215 | | | 62 | | | 1,366 | 
+Construction and development | | - | | | - | | | - | | | 974 | | | 34 | 
+Consumer closed end first mortgage | | 541 | | | 251 | | | 502 | | | 906 | | | 1,429 | 
+Other loans: | | | | | | | | | | | | | | | 
+Consumer | | 790 | | | 331 | | | 481 | | | 513 | | | 476 | 
+Commercial business | | - | | | 151 | | | - | | | - | | | - | 
+Total | | 2,013 | | | 733 | | | 1,198 | | | 2,455 | | | 3,305 | 
+Total non-performing assets | $ | 11,119 | | $ | 5,984 | | $ | 6,579 | | $ | 9,626 | | $ | 10,743 | 
+Total as a percentage of total assets | | 0.54 | % | | 0.38 | % | | 0.42 | % | | 0.65 | % | | 0.75 | %
+(1) Includes non-performing troubled debt restructurings.
+
+      For the year ended December 31, 2018, gross interest income that would have been recorded had these non-accruing loans been current in accordance with their original terms amounted to $422,000. The amount included in interest income on these loans for the year ended December 31, 2018, was $270,000.
+ See Item 7 – “Management’s Discussion and Analysis of Financial Condition and Results of Operation - Financial Condition at December 31, 2018 Compared to December 31, 2017 - Delinquencies and Non-performing Assets” for more information on our nonperforming assets.
+
+
+ 
+  17
+
+ 
+
+ Classified Assets. Our regulators require that we classify loans and other assets, such as debt and equity securities considered to be of lesser quality, as “substandard,” “doubtful” or “loss.”  An asset is considered “substandard” if it is inadequately protected by the current net worth and paying capacity of the obligor or of the collateral pledged, if any. “Substandard” assets include those characterized by the “distinct possibility” that the insured institution will sustain “some loss” if the deficiencies are not corrected. Assets classified as “doubtful” have all of the weaknesses inherent in those classified “substandard,” with the added characteristic that the weaknesses present make “collection or liquidation in full,” on the basis of currently existing facts, conditions, and values, “highly questionable and improbable.”  Assets classified as “loss” are those considered “uncollectible” and of such little value that their continuance as assets without the establishment of a specific loss reserve is not warranted.
+ When an insured institution classifies problem assets as either substandard or doubtful, it may establish general allowances for loan losses in an amount deemed prudent by management and approved by the board of directors. General allowances represent loss allowances that have been established to recognize the inherent risk associated with lending activities, but which, unlike specific allowances, have not been allocated to particular problem assets. When an insured institution classifies problem assets as “loss,” it is required either to establish a specific allowance for losses equal to 100% of that portion of the asset so classified or to charge off such amount. Our determination as to the classification of our assets and the amount of our valuation allowances is subject to review by our regulators, which may order the establishment of additional general or specific loss allowances.
+ In connection with the filing of the Bank’s periodic reports in accordance with our classification of assets policy, we regularly review the problem assets in our portfolio to determine whether any assets require classification in accordance with applicable regulations. On the basis of management’s review, at December 31, 2018, we had classified $22.6 million of the Bank’s assets as substandard or doubtful; $2.0 million in other real estate owned and repossessed assets and $20.6 million in substandard loans. The total amount classified represented 11.2% of our stockholders’ equity and 1.1% of our assets at December 31, 2018, compared to 11.5% and 1.1%, respectively, at December 31, 2017. See Note 6 of the Notes to Consolidated Financial Statements in Item 8 of this Form 10‑K for additional information about our classified assets and credit risk profile of our loan portfolio.
+ Provision for Loan Losses. We recorded a provision for loan losses during the year ended December 31, 2018 of $2.1 million, compared to $1.2 million for the year ended December 31, 2017 and $850,000 for the year ended December 31, 2016. The provision for loan losses increased in 2018 primarily due to an increase in the loan portfolio of $137.7 million or 11.8% over the last year, excluding loans held for sale and $177.2 million acquired loans from the Universal acquisition as of December 31, 2018. The loan mix has contributed to the increase in provision with commercial and non-real estate consumer loans making up 63.8% of the loan portfolio at the end of 2018 compared to 57.0% as of the end of 2017. Net charge-offs for both 2018 and 2017 equaled $1.2 million, or 0.09% of total average loans in 2018 compared to 0.10% of total average loans in 2017. The provision for loan losses is charged to income to bring our allowance for loan losses to a level deemed appropriate by management based on the factors discussed below under “Allowance for Loan Losses.”
+ Allowance for Loan Losses. We maintain an allowance for loan losses to absorb losses inherent in the loan portfolio. The allowance is based on ongoing, quarterly assessments of the estimated losses inherent in the loan portfolio. Our methodology for assessing the appropriateness of the allowance consists of several key elements, including the general allowance and specific allowances for identified problem loans and portfolio segments. In addition, the allowance incorporates the results of measuring impaired loans as provided in FASB ASC 310, Receivables. These accounting standards prescribe the measurement methods, income recognition and disclosures related to impaired loans. See Note 6 of the Notes to Consolidated Financial Statements contained in Item 8 of this Form 10‑K.
+ The general allowance is calculated by applying loss factors to outstanding loans based on the internal risk evaluation of such loans or pools of loans. Changes in risk evaluations of both performing and nonperforming 
+
+ 
+  18
+
+ 
+loans affect the amount of the general allowance. Loss factors are based on our historical loss experience as well as on significant factors that, in management’s judgment, affect the collectability of the portfolio as of the evaluation date.
+ The appropriateness of the allowance is reviewed by management based upon its evaluation of then-existing economic and business conditions affecting our key lending areas and other conditions, such as credit quality trends (including trends in non-performing loans expected to result from existing conditions), collateral values, loan volumes and concentrations, specific industry conditions within portfolio segments and recent loss experience in particular segments of the portfolio that existed as of the balance sheet date and the impact that such conditions were believed to have had on the collectability of the loan. Senior management reviews these conditions quarterly in discussions with our senior credit officers. To the extent that any of these conditions is evidenced by a specifically identifiable problem credit or portfolio segment as of the evaluation date, management’s estimate of the effect of such condition may be reflected as a specific allowance applicable to such credit or portfolio segment. Where any of these conditions is not evidenced by a specifically identifiable problem credit or portfolio segment as of the evaluation date, management’s evaluation of the loss related to this condition is reflected in the general allowance for loan losses. The evaluation of the inherent loss with respect to these conditions is subject to a higher degree of uncertainty because they are not identified with specific problem credits or portfolio segments.
+ The allowance for loan losses is based on estimates of losses inherent in the loan portfolio. Actual losses can vary significantly from the estimated amounts. Our methodology, as described, permits adjustments to any loss factor used in the computation of the general allowance in the event that, in management’s judgment, significant factors which affect the collectability of the portfolio as of the evaluation date are not reflected in the loss factors. By assessing the probable incurred losses inherent in the loan portfolio on a quarterly basis, we are able to adjust specific and inherent loss estimates based upon any more recent information that has become available. Although the economy is stabilizing in the communities we serve and unemployment rates have improved compared to recent years, management has concluded that our allowance for loan losses should be greater than historical loss experience and specifically identified losses might otherwise indicate. This is due to the increase in higher risk loans like consumer and commercial, as a percentage of total loans.
+ At December 31, 2018, our allowance for loan losses was $13.3 million, or 0.89% of the total loan portfolio, and approximately 145.9% of total non-performing loans. Our allowance for loan losses balance increased 7.2% from December 31, 2017. Assessing the adequacy of the allowance for loan losses is inherently subjective as it requires making material estimates, including the amount and timing of future cash flows expected to be received on impaired loans that are susceptible to significant change. In the opinion of management, the allowance, when taken as a whole, is adequate to absorb reasonable estimated loan losses inherent in our loan portfolio.
+
+ 
+  19
+
+ 
+
+ The following table sets forth an analysis of our allowance for loan losses.
+
+ | December 31, | 
+ | 2018 | | | 2017 | | | 2016 | | 2015 | | 2014 | 
+ | (Dollars in thousands) | 
+Balance at beginning of period | $ | 12,387 | | | $ | 12,382 | | $ | 12,641 | | $ | 13,168 | | $ | 13,412 | 
+Charge-offs: | | | | | | | | | | | | | | | | 
+Commercial | | 204 | | | | 161 | | | 274 | | | 104 | | | 289 | 
+Mortgage | | 174 | | | | 284 | | | 420 | | | 643 | | | 572 | 
+Consumer | | 1,088 | | | | 967 | | | 788 | | | 640 | | | 1,021 | 
+Total charge-offs | | 1,466 | | | | 1,412 | | | 1,482 | | | 1,387 | | | 1,882 | 
+Recoveries: | | | | | | | | | | | | | | | | 
+Commercial | | 12 | | | | 24 | | | 85 | | | 498 | | | 499 | 
+Mortgage | | 18 | | | | 13 | | | 25 | | | 34 | | | 31 | 
+Consumer | | 210 | | | | 160 | | | 263 | | | 203 | | | 258 | 
+Total recoveries | | 240 | | | | 197 | | | 373 | | | 735 | | | 788 | 
+Net charge-offs | | 1,226 | | | | 1,215 | | | 1,109 | | | 652 | | | 1,094 | 
+Provisions charged to operations | | 2,120 | | | | 1,220 | | | 850 | | | 125 | | | 850 | 
+Balance at end of period | $ | 13,281 | | | $ | 12,387 | | $ | 12,382 | | $ | 12,641 | | $ | 13,168 | 
+Ratio of net charge-offs during the period to average loans outstanding during the period | | 0.09 | % | | | 0.10 | % | | 0.10 | % | | 0.06 | % | | 0.11 | %
+Allowance as a percentage of non-performing loans | | 145.85 | % | | | 235.90 | % | | 230.99 | % | | 176.28 | % | | 177.04 | %
+Allowance as a percentage of total loans (end of period) | | 0.89 | % | | | 1.05 | % | | 1.06 | % | | 1.17 | % | | 1.30 | %
+
+      Investment Activities
+ MutualBank may invest in various types of liquid assets, including United States Treasury obligations, securities of various federal agencies, including callable agency securities, securities of state and political subdivisions, certain certificates of deposit of insured banks and savings institutions, certain bankers’ acceptances, repurchase agreements and federal funds. It also may invest in investment grade commercial paper and corporate debt securities and certain mutual funds.
+ The Chief Financial Officer is responsible for the management of our investment portfolio, subject to the direction and guidance of the Asset and Liability Management Committee and the Board of Directors. The Chief Financial Officer considers various factors when making decisions, including the marketability, maturity and tax consequences of the proposed investment. The maturity structure of investments will be affected by various market conditions, including the current and anticipated slope of the yield curve, the level of interest rates, the trend of new deposit inflows, and the anticipated demand for funds via deposit withdrawals and loan originations and purchases.
+ The objectives of our investment portfolio are to provide liquidity when loan demand is high, to assist in maintaining earnings when loan demand is low and to maximize earnings while satisfactorily managing risk, including credit risk, reinvestment risk, liquidity risk and interest rate risk. See “Item 7A - Quantitative and Qualitative Disclosures About Market Risk”.
+ Our investment securities currently consist of U.S. Agency securities, mortgage-backed securities, collateralized mortgage obligations, municipal securities and corporate obligations. Our mortgage-backed securities portfolio currently consists of securities issued under government-sponsored agency programs. See Note 5 of the Notes to Consolidated Financial Statements contained in Item 8 of this Form 10‑K.
+
+ 
+  20
+
+ 
+
+ While mortgage-backed securities carry a reduced credit risk as compared to whole loans, these securities remain subject to the risk that a fluctuating interest rate environment, along with other factors like the geographic distribution of the underlying mortgage loans, may alter the prepayment rate of the mortgage loans and affect both the prepayment speed and value of the securities.
+ Although the Bank has not had a trading portfolio in recent history, we are permitted by the Board of Directors to have a trading portfolio of up to $5.0 million and to trade up to $2.0 million in these securities at any one time. At December 31, 2018, however, we did not have a trading portfolio. See Note 5 of the Notes to Consolidated Financial Statements contained in Item 8 of this Form 10‑K.
+ A majority of MutualBank’s investment portfolio is under the management of its wholly owned subsidiary, Mutual Federal Investment Company. Mutual Federal Investment Company, a Nevada corporation, holds, services, manages and invests that portion of the Bank’s investment portfolio as may be transferred from time to time by the Bank to Mutual Federal Investment Company. Mutual Federal Investment Company’s investment policy, for the most part, mirrors that of the Bank’s. Mutual Federal Investment Company has hired a third-party investment advisor to manage its securities portfolio, subject to the oversight of its Board of Directors. At December 31, 2018, the Company had $370.9 million in consolidated investment securities carried at fair value. The portfolio is comprised of available for sale securities. At that date, Mutual Federal Investment Company managed $355.7 million of the total available for sale portfolio.
+ The following table sets forth the composition of our investment and mortgage-related securities portfolio and our other investments at the dates indicated. The 2018 acquisition of Universal contributed to increases in our investment and mortgage-related securities portfolio and other investments. The acquisition accounted for an increase in investment securities available for sale of $87.8 million and Federal Home Loan Bank stock of $1.6 million. Details regarding the acquisition are discussed in Note 2 of these Notes to Consolidated Financial Statements contained in Item 8 of this Form 10-K.
+  As of December 31, 2018, our investment securities portfolio did not contain securities of any issuer with an aggregate book value in excess of 10% of our equity capital, excluding those issued by the United States Government, its agencies or government sponsored entities.
+
+ | December 31, 
+ | 2018 | | 2017 | | 2016 
+ | Amortized | | Fair | | Amortized | Fair | | Amortized | | Fair 
+ | Cost | | Value | | Cost | Value | | Cost | | Value 
+ | (Dollars in thousands)
+Investment securities available for sale: | | | | | | | | | | | | | | 
+Mortgage-backed securities | $ | 106,094 | | $ | 104,343 | $ | 68,335 | | $ | 67,798 | $ | 92,871 | $ | 92,517 
+Collateralized mortgage obligations | | 110,994 | | | 109,281 | | 88,488 | | | 87,250 | | 68,621 | | 68,047 
+Municipal obligations | | 153,976 | | | 154,896 | | 107,060 | | | 110,495 | | 77,474 | | 77,682 
+Corporate obligations | | 2,998 | | | 2,355 | | 12,966 | | | 11,835 | | 12,822 | | 11,667 
+Total securities available for sale | | 374,062 | | | 370,875 | | 276,849 | | | 277,378 | | 251,788 | | 249,913
+Investment in limited partnerships | | 127 | | | N/A | | 227 | | | N/A | | 327 | | N/A 
+Federal Home Loan Bank stock | | 13,034 | | | N/A | | 11,183 | | | N/A | | 10,925 | | N/A 
+Total investments | $ | 387,223 | | $ | 370,875 | $ | 288,259 | | $ | 277,378 | $ | 263,040 | $ | 249,913
+
+     
+ 
+  21
+
+ 
+
+ The following table indicates, as of December 31, 2018, the composition and contractual maturities of our investment securities, excluding Federal Home Loan Bank (“FHLB”) stock.
+
+ | Due In | | | | | | 
+ | Less Than | | 1 to 5 | | 5 to 10 | | Over | | Total 
+ | 1 year | | Years | | Years | | 10 Years | | Investment Securities
+ | Amortized | | Amortized | | Amortized | | Amortized | | Amortized | | Fair 
+ | Cost | | Cost | | Cost | | Cost | | Cost | | Value 
+ | (Dollars in thousands)
+Available for sale: | | | | | | | | | | | | | | | | | 
+Mortgage-backed securities | $ | - | | $ | 842 | | $ | 5,817 | | $ | 99,435 | | $ | 106,094 | | $ | 104,343
+Collateralized mortgage obligations | | - | | | - | | | 5,110 | | | 105,884 | | | 110,994 | | | 109,281
+Municipal obligations | | 500 | | | 390 | | | 21,734 | | | 131,352 | | | 153,976 | | | 154,896
+Corporate obligations | | - | | | - | | | - | | | 2,998 | | | 2,998 | | | 2,355 
+ | $ | 500 | | $ | 1,232 | | $ | 32,661 | | $ | 339,669 | | $ | 374,062 | | $ | 370,875
+Weighted average yield | | 4.85 | % | | 3.74 | % | | 3.03 | % | | 3.00 | % | | 3.01 | % | | 
+
+      MutualBank conducts periodic reviews to identify and evaluate each investment security to determine whether an other-than-temporary impairment (“OTTI”) has occurred. Economic models are used to determine whether an other-than-temporary impairment has occurred on these securities. While all securities are considered, the securities primarily impacted by other-than-temporary impairment testing are private-label mortgage-backed securities and trust preferred securities. During the years ended December 31, 2018, 2017 and 2016 we did not recognize any OTTI on our investments. No securities in the portfolio were non-performing as of December 31, 2018. The remaining trust preferred security was priced using a discounted cash flow analysis as of December 31, 2018.
+ The Bank’s trust preferred security valuation was prepared by an independent third party. Their approach for determining fair value involved several steps including: (1) a detailed credit and structural evaluation of each piece of collateral in the trust preferred security; (2) collateral performance projections for each piece of collateral in the trust preferred security; (3) terms of the trust preferred structure, as laid out in the indenture; and (4) discounted cash flow modeling.
+ MutualFirst Financial uses market-based yield indicators as a baseline for determining appropriate discount rates, and then adjusts the resulting discount rates on the basis of its credit and structural analysis of specific trust preferred securities. The primary focus is on the returns a fixed income investor would require in order to allocate capital on a risk adjusted basis. There is currently little demand for pooled trust preferred securities; however, the Company looks principally to market yields for stand-alone trust preferred securities issued by banks, thrifts and insurance companies for which there is an active and liquid market. The next step is to make a series of adjustments to reflect the differences that exist between these products (both credit and structural) and, most importantly, to reflect idiosyncratic credit performance differences (both actual and projected) between these products and the underlying collateral in the specific trust preferred security. Importantly, as part of the analysis described above, MutualFirst considers the fact that structured instruments frequently exhibit leverage not present in stand-alone instruments, and makes adjustments as necessary to reflect this additional risk.
+ The default and recovery probabilities for each piece of collateral were formed based on the evaluation of the collateral credit and a review of historical industry default data and current/near-term operating conditions. For collateral that has already defaulted, the Company assumed no recovery. For collateral that was in deferral, the Company assumed a recovery of 10% of par for banks, thrifts or other depository institutions, and 15% of par for insurance companies. Although the Company conservatively assumed that the majority of the deferring collateral continues to defer and eventually defaults, we also recognize there is a possibility that some deferring collateral may become current at some point in the future.
+
+
+
+ 
+  22
+
+ 
+
+ Pooled Trust Preferred Securities. The Bank has invested in a pooled trust preferred security. At December 31, 2018, the current book value of our pooled trust preferred security was $3.0 million. The original par value of these securities was $3.0 million. The pooled trust preferred security owned was performing as agreed during 2018. As of December 2018, current Moody’s ratings for this bond was B3. The pooled trust preferred security owned by the Bank is exempt from the Volcker Rule.
+ The following table provides additional information related to the Bank’s investment in a pooled trust preferred security as of December 31, 2018.
+
+ | | | | | | | | | | | | | | | | | | | Total | | | | | | Excess | 
+ | | | | | | | | | | | | | | | | | | | Number | | | | | | subordination | 
+ | | | | | | | | | | | | | | | | | Number of | | of Banks | | Actual | | Total | | (after taking | 
+ | | | | | | | | | | | | | | | | | Banks / | | and | | Deferrals/ | | Projected | | into account | 
+ | | | | | | | | | | | | | | | | | Insurance | | Insurance | | Defaults | | Defaults | | best estimate | 
+ | | | | | | | | | | | | Realized | | | | Cos. | | Cos. In | | (as a % of | | (as a % of | | of future | 
+ | | Original | | Book | | Fair | Unrealized | | Losses | | Lowest | Currently | | Issuance | | original | | performing | | deferrals/ | 
+Deal Name | Class | Par | | Value | | Value | Loss | | 2018 | | Ratings | Performing | | (Unique) | | collateral) | | collateral) (1) | | defaults) (2) | 
+ | (Dollars in Thousands)
+U.S. Capital Funding I | B1 | $ | 3,000 | | $ | 2,998 | $ | 2,355 | | $ | (643) | $ | - | | Caa1 | | 24 | | 26 | | 7.95 | % | 5.78 | % | 6.69 | %
+(1) A 10% recovery is applied to all projected defaults by depository institutions. A 15% recovery is applied to all projected defaults by insurance companies. 
+No recovery is applied to current defaults. 
+(2) Excess subordination represents the additional defaults in excess of both current and projected defaults that the collateralized debt obligation can absorb 
+before the bond experiences any credit impairment. Excess subordinated percentage is calculated by (a) determining what percentage of defaults a pool 
+can experience before the bond has credit impairment, and (b) subtracting from this default breakage percentage both total current and expected future 
+default percentages. | | | | | | | | | | | | | | | | | | | | | | | | | | 
+
+ 
+
+ 
+  23
+
+ 
+
+ Sources of Funds
+ General. Our sources of funds are deposits, borrowings, payment of principal and interest on loans, interest earned on or maturation of other investment securities and funds provided from operations.
+ Deposits. We offer deposit accounts to consumers and businesses having a wide range of interest rates and terms. Our deposits consist of savings deposit accounts, NOW and demand accounts and certificates of deposit. We solicit deposits in our market areas as well as online through our internet banking product. The Bank participates in services through the Certificate of Deposit Account Registry Service (“CDARS”) and Insured Cash Sweep (“ICS”) deposit services. Reciprocal ICS and CDARs deposit accounts are no longer classified as brokered deposits as of 2018. The Bank both purchases CDARS and ICS deposits and participates in reciprocal CDARS and ICS deposit services for our customers. We primarily rely on competitive pricing policies, marketing and customer service to attract and retain these deposits. Occasionally we will accept brokered deposits from a deposit broker. At December 31, 2018, our brokered deposits totaled $120.5 million, or 7.9% of total deposits, with an average interest rate of 2.29% and a 0.56 year weighted-average maturity.
+ The flow of deposits is influenced significantly by general economic conditions, changes in money market and prevailing interest rates, and competition. The variety of our deposit accounts has allowed us to be competitive in obtaining funds and to respond to changes in consumer demand. We have become more susceptible to short-term fluctuations in deposit flows, as customers have continued to deposit in short-term products while rates remain low. We try to manage the pricing of our deposits in keeping with our asset/liability management, liquidity and profitability objectives, subject to competitive factors. Based on our experience, we believe that our deposits are relatively stable sources of funds. Our ability to attract and maintain these deposits and the rates paid on those deposits has been and will continue to be affected significantly by economic and market conditions.
+ The FRB requires all depository institutions to maintain non-interest bearing reserves at specified levels against their transaction accounts, primarily checking, NOW and Super NOW checking accounts. At December 31, 2018, we were in compliance with these reserve requirements.
+ The following table sets forth the dollar amount of deposits in the various types of deposit programs we offered at the dates indicated. The 2018 acquisition of Universal contributed to increases in our deposits, resulting in an increase in deposits of $315.2 million. Details regarding the acquisition are discussed in Note 2 of these Notes to Consolidated Financial Statements contained in Item 8 of this Form 10-K.
+
+ | December 31, | 
+ | 2018 | | | 2017 | | | 2016 | 
+ | | | | Percent | | | | | Percent | | | | Percent | 
+ | Amount | | of Total | | | Amount | | of Total | | Amount | of Total | 
+ | (Dollars in thousands) | 
+Transactions and savings deposits: | | | | | | | | | | | | | | 
+Noninterest bearing accounts | $ | 259,909 | | 17.11 | % | | $ | 194,134 | 16.15 | % | $ | 178,046 | 15.44 | %
+Interest-bearing NOW and demand accounts | | 408,135 | | 26.86 | | | | 330,821 | 27.52 | | | 292,977 | 25.40 | 
+Savings accounts | | 182,346 | | 12.00 | | | | 138,348 | 11.51 | | | 136,314 | 11.82 | 
+Money market accounts | | 180,395 | | 11.88 | | | | 167,574 | 13.94 | | | 173,305 | 15.03 | 
+Total non-certificates | | 1,030,785 | | 67.85 | | | | 830,877 | 69.12 | | | 780,642 | 67.69 | 
+Certificates: | | | | | | | | | | | | | | 
+0.00 - 1.99% | | 250,358 | | 16.48 | | | | 302,734 | 25.19 | | | 312,498 | 27.09 | 
+2.00 - 3.99% | | 238,082 | | 15.67 | | | | 68,423 | 5.69 | | | 60,240 | 5.22 | 
+4.00 - 5.99% | | - | | 0.00 | | | | - | 0.00 | | | 2 | 0.00 | 
+Total certificates | | 488,440 | | 32.15 | | | | 371,157 | 30.88 | | | 372,740 | 32.31 | 
+Total deposits | $ | 1,519,225 | | 100.00 | % | | $ | 1,202,034 | 100.00 | % | $ | 1,153,382 | 100.00 | %
+
+     
+ 
+  24
+
+ 
+
+ The following table shows rate and maturity information for our certificates of deposit as of December 31, 2018.
+
+ | 0.00 - | | 2.00 - | | 4.00 - | | | | | Percent | 
+ | 1.99% | | 3.99% | | 5.99% | | Total | | of Total | 
+ | (Dollars in thousands) | 
+Certificate accounts maturing in quarter ending: | | | | | | | | | | | | | | 
+March 31, 2019 | $ | 47,979 | | $ | 47,774 | | $ | - | | $ | 95,753 | | 19.60 | %
+June 30, 2019 | | 55,812 | | | 23,959 | | | - | | | 79,771 | | 16.33 | 
+September 30, 2019 | | 28,263 | | | 13,593 | | | - | | | 41,856 | | 8.57 | 
+December 31, 2019 | | 23,011 | | | 35,996 | | | - | | | 59,007 | | 12.08 | 
+March 31, 2020 | | 22,442 | | | 10,244 | | | - | | | 32,686 | | 6.69 | 
+June 30, 2020 | | 26,291 | | | 11,964 | | | - | | | 38,255 | | 7.83 | 
+September 30, 2020 | | 8,676 | | | 15,720 | | | - | | | 24,396 | | 4.99 | 
+December 31, 2020 | | 6,070 | | | 19,577 | | | - | | | 25,647 | | 5.25 | 
+March 31, 2021 | | 2,713 | | | 11,020 | | | - | | | 13,733 | | 2.81 | 
+June 30, 2021 | | 3,194 | | | 491 | | | - | | | 3,685 | | 0.75 | 
+September 30, 2021 | | 2,756 | | | 6,474 | | | - | | | 9,230 | | 1.89 | 
+December 31, 2021 | | 2,634 | | | 6,362 | | | - | | | 8,996 | | 1.84 | 
+Thereafter | | 20,517 | | | 34,908 | | | - | | | 55,425 | | 11.35 | 
+Total | $ | 250,358 | | $ | 238,082 | | $ | - | | $ | 488,440 | | 100.00 | %
+Percent of total | | 51.26 | % | | 48.74 | % | | - | % | | 100.00 | % | | 
+
+      The following table indicates, as of December 31, 2018, the amount of our certificates of deposit by time remaining until maturity.
+
+ | | | Maturity 
+ | | | 3 Months | Over 3 to | | Over 6 to | | Over | | 
+ | | | or Less | 6 Months | | 12 Months | | 12 Months | Total
+ | | | (Dollars in thousands)
+Certificates of deposit less than $100,000 | | $ | 20,712 | $ | 30,162 | | $ | 40,768 | $ | 100,847 | $ | 192,489
+Certificates of deposit of $100,000 or more | | | 15,246 | | 23,823 | | | 41,025 | | 75,410 | | 155,504
+Brokered deposits | | | 49,339 | | 13,609 | | | 17,251 | | 30,291 | | 110,490
+Public Funds (1) | | | 10,456 | | 12,177 | | | 1,819 | | 5,505 | | 29,957 
+Total certificates of deposit | | $ | 95,753 | $ | 79,771 | | $ | 100,863 | $ | 212,053 | $ | 488,440
+(1) | Deposits from governmental and other public entities.
+
+      Borrowings. We also utilize borrowings as a source of funds, especially when they are less costly than deposits and can be invested at a positive interest rate spread, when we desire additional capacity to fund loan demand or when they meet our asset/liability management goals. Our borrowings historically have consisted of advances from the FHLBI. See Notes 14 and 15 of the Notes to Consolidated Financial Statements contained in Item 8 of this Form 10‑K.
+ We may obtain advances from the FHLBI upon the pledging of certain collateral. These advances may be made pursuant to several different credit programs, each of which has its own interest rate, range of maturities and call features. At December 31, 2018 we had $292.5 million in FHLB advances outstanding. Based on current collateral levels, we could borrow an additional $11.0 million from the FHLB at prevailing interest rates. Additional assets were available to collateralize if the need would have arisen. In order to have access to FHLB advances, we are required to own stock in the FHLBI. At December 31, 2018, we had $13.0 million in FHLB stock.
+ We also are authorized to borrow from the Federal Reserve Bank of Chicago’s “discount window.”  We have never borrowed from the Federal Reserve Bank and currently do not have any assets pledged to them for borrowing.
+
+ 
+  25
+
+ 
+
+ The Bank also has four fed fund lines totaling $65.0 million. There was no outstanding balance on any of these lines as of December 31, 2018.
+ The Company acquired $5.0 million of subordinated debentures in the 2008 acquisition of another financial institution. The net balance of these securities as of December 31, 2018 was $4.2 million due to the purchase accounting adjustment made at the time of the acquisition. The securities bear the prevailing three-month LIBOR rate plus 170 basis points. The Company has the right to redeem the trust preferred securities, in whole or in part, without penalty. These securities mature on September 15, 2035.
+ The Company also acquired $5.0 million of subordinated debentures in the acquisition of Universal during 2018. The net balance of these securities as of December 31, 2018 was $4.0 million due to the purchase accounting adjustment made at the time of the acquisition. The securities bear the prevailing three-month interest rate of LIBOR plus 169 basis points. The Company has the right to redeem the trust preferred securities, in whole or in part, without penalty. These securities mature on October 7, 2035.
+ The Company borrowed $10.0 million in two $5.0 million term notes from First Tennessee Bank, N.A. to use in the acquisition of Universal. These loans had a combined balance of $9.7 million at December 31, 2018. The fixed rate term note had a balance of $4.7 million and matures 5 years from the date of issuance, or February 28, 2023. This term note bears a fixed rate of interest of 4.99% per annum and requires quarterly principal payments, which began March 31, 2018. The variable rate term note matures 5 years from the date of issuance, or February 28, 2023. This term note bears a rate of interest of the prevailing three-month LIBOR rate plus 195 basis points, which was 4.35% at December 31, 2018. The Company has the right to redeem either note at any time, in whole or in part, without penalty.
+ The following table sets forth, for the years indicated, the maximum month-end balance and average balance of FHLB advances and other borrowings.
+
+ | Year Ended December 31,
+ | 2018 | | 2017 | | 2016 
+ | (Dollars in thousands) 
+Maximum Balance: | | | | | | | 
+FHLB advances | $ | 292,731 | | $ | 240,591 | $ | 243,817
+Other borrowings | | 20,000 | | | 4,232 | | 10,312 
+Average Balance: | | | | | | | 
+FHLB advances | $ | 248,759 | | $ | 221,932 | $ | 230,329
+Other borrowings | | 17,503 | | | 4,211 | | 8,421 
+
+          The following table sets forth certain information as to our borrowings at the dates indicated.
+
+ | | | December 31, | 
+ | | | 2018 | | 2017 | | 2016 | 
+ | | | (Dollars in thousands) | 
+FHLB advances | | $ | 292,497 | | $ | 217,163 | | $ | 240,591 | 
+Other borrowings | | | 17,988 | | | 4,232 | | | 4,189 | 
+Total borrowings | | $ | 310,485 | | $ | 221,395 | | $ | 244,780 | 
+Weighted average interest rate of FHLB advances | | | 2.13 | % | | 1.72 | % | | 1.53 | %
+Weighted average interest rate of other borrowings(1) | | | 4.58 | % | | 3.29 | % | | 2.66 | %
+(1) | Our other borrowings include subordinated debtentures as of December 31, 2018. | 
+
+     
+
+ 
+  26
+
+ 
+
+ Trust and Financial Services
+ MutualWealth and MutualFinancial are the wealth management and investment services divisions of the Bank that provide a variety of fee-based financial services, including trust and estate administration, investment management services, life insurance, broker advisory services, retirement plan administration and private banking services, in our market areas. Trust services are provided to both individual and corporate customers, including personal trust and agency accounts, employee benefit plans and corporate bond trustee accounts. The market value of managed and non-managed fiduciary assets at December 31, 2018 were $361.5 million and $133.5 million, respectively. These activities provide a significant source of fee income to the Company and in 2018 constituted 24.9% of the Company’s non-interest income. Subsidiary and Other Activities
+ The Company, as a bank holding company that has elected to be treated as a financial holding company, is allowed to engage in activities and invest in subsidiaries as authorized by Federal law and the regulations of the FRB. At December 31, 2018, the Company had an active captive insurance company, MutualFirst Risk Management, Inc. and another subsidiary, Mutual Risk Advisors, an information security consulting firm.
+ As an Indiana commercial bank, MutualBank is allowed to invest in subsidiaries as authorized by Indiana law and the IDFI. Under federal law and FDIC regulations, those subsidiaries generally may engage as principal only in activities that are permissible for national bank subsidiaries, unless the Bank receives FDIC approval to engage in other activities permitted by Indiana law and the IDFI. Activities engaged in as agent, including insurance agency activities, are not subject to this limitation.
+ At December 31, 2018, MutualBank had an active investment subsidiary, Mutual Federal Investment Company, which is a Nevada corporation that holds and manages a portion of MutualBank’s investment portfolio. As of December 31, 2018, the market value of securities managed was $355.7 million. Mutual Federal Investment Company has one active subsidiary, Mutual Federal REIT, Inc., which is a Maryland corporation holding approximately $48.1 million in consumer closed end first mortgage loans.
+ The Bank had one other active subsidiary as of December 31, 2018. Summit Service Corporation which controls the 100% wholly owned active subsidiary, Summit Mortgage, Inc., which is an Indiana corporation that originates and sells consumer closed end first mortgage loans. As of December 31, 2018, Summit Mortgage had $3.1 million in loans held for sale.
+ Employees
+ At December 31, 2018, we had a total of 485 full-time and 43 part-time employees. Our employees are not represented by any collective bargaining group. Management considers its employee relations to be good. How We Are Regulated
+ MutualFirst Financial is a financial holding company subject to FRB regulation, and MutualBank is an Indiana commercial bank subject to regulation by the IDFI and the FDIC. The Dodd-Frank Act created the Consumer Financial Protection Bureau (“CFPB”), which has authority to promulgate regulations intended to protect consumers with respect to financial products and services, including those provided by the Bank, and to restrict unfair, deceptive or abusive conduct by providers of consumer financial products and services. The FDIC examines the Bank for compliance with these regulations. As a public company, the Company is subject to the regulation and reporting requirements of the SEC.
+
+ 
+  27
+
+ 
+
+ Set forth below is a brief description of certain laws and regulations that apply to us. This description, as well as other descriptions of laws and regulations contained in this Form 10‑K, is not complete and is qualified in its entirety by reference to the applicable laws and regulations.
+ Legislation is introduced from time to time in the United States Congress and the Indiana General Assembly that may affect our operations. In addition, the regulations governing the Company and the Bank may be amended from time to time by the IDFI, FDIC, CFPB, FRB or SEC, as appropriate. Legislation enacted in 2018 and summarized below may reduce some of the burden’s associated with the implementation of the Dodd-Frank Act, but the actual impact of the policies related to the Dodd Frank Act reforms is impossible to predict with any certainty.
+ 2018 Regulatory Reform.  In May 2018 the Economic Growth, Regulatory Relief and Consumer Protection Act (the “Act”) was enacted to modify or remove certain financial reform rules and regulations, including some of those implemented under the Dodd-Frank Act.  While the Act maintains most of the regulatory structure established by the Dodd-Frank Act, it amends certain aspects of the regulatory framework for small depository institutions with assets of less than $10 billion and for large banks with assets of more than $50 billion.  Many of these changes could result in meaningful regulatory relief for community banks such as MutualBank.  
+     The Act, among other matters, expands the definition of qualified mortgages which may be held by a financial institution and simplifies the regulatory capital rules for financial institutions and their holding companies with total consolidated assets of less than $10 billion by instructing the federal banking regulators to establish a single “Community Bank Leverage Ratio” of between 8 and 10 percent to replace the leverage and risk-based regulatory capital ratios.  The Act also expands the category of holding companies that may rely on the “Small Bank Holding Company and Savings and Loan Holding Company Policy statement” by raising the maximum amount of assets a qualifying holding company may have from $1.0 billion to $3.0 billion.  This expansion also excludes such holding companies from the minimum capital requirement of the Dodd-Frank Act.  In addition, the Act includes regulatory relief for community banks regarding regulatory examination cycles, call reports, the Volcker Rule (proprietary trading prohibitions), mortgage disclosures and risk weights for certain high-risk commercial real estate loans.
+     It is difficult at this time to predict when or how any new standards under the Act will ultimately be applied to us or what specific impact the Act and the yet to be written implementing rules and regulations will have on community banks.
+ MutualFirst Financial. MutualFirst Financial is a bank holding company that has elected to be treated as a financial holding company. MutualFirst is required to register and file reports with the FRB and is subject to regulation and examination by the FRB, including requirements that the Company serve as a source of financial and managerial strength for the Bank, particularly if the Bank is in financial distress. In addition, the FRB has enforcement authority over the Company and any of its non-bank subsidiaries. The Company’s direct activities and those of its non-bank subsidiaries are subject to FRB regulation and must be activities permissible for a bank holding company, or for a financial holding company (generally securities and insurance activities). The Company must obtain FRB approval to acquire substantially all the assets of another bank or bank holding company or to merge with another bank holding company. In addition, the Company must obtain FRB authorization to control more than 5% of the shares of any other bank or bank holding company and may not own more than 5% of any other entity engaged in activities not permitted for the Company. The IDFI also has certain oversight authority over the Company, including acquisitions of banks and bank holding companies. The FRB imposes consolidated capital requirements on the Company. See “- Regulatory Capital Requirements.”
+ MutualBank. As an Indiana commercial bank, MutualBank is subject to regulation, examination and supervision by the IDFI. Indiana and Federal laws regulate many aspects of the Bank’s operations including branching, dividends, interest and fees collected, anti-money laundering activities, confidentiality 
+
+ 
+  28
+
+ 
+of customer information, credit card operations, corporate governance, mergers and purchase and assumption transactions, insurance activities, securities investments, real estate investments, trust operations, lending activities, subsidiary operations and required capital levels. Under Indiana law, Indiana banks may have parity authority with national banks.
+ To fund its operations, the IDFI has established a schedule for the assessment of supervisory fees for all Indiana financial institutions. These supervisory fees are computed based on the Bank’s total assets and trust assets and increase if the Bank experiences financial distress. The IDFI also charges fees for certain applications and other filings.
+ FDIC Regulation and Insurance of Accounts. As a state-chartered, non-member bank, MutualBank is subject to regulation, examination and supervision by the FDIC. The FDIC does not assess fees for its examination and supervision of the Bank. The FDIC oversees the Bank’s operations under federal law, regulations and policies, including consumer compliance laws, and ensures that the Bank operates in a safe and sound manner. It regulates the Bank’s branching, transactions with affiliates (including the Company) and loans to insiders. Under FDIC regulations, the Bank generally is prohibited from acquiring or owning any equity investments impermissible for national banks and from engaging as principal in activities that are not permitted for national banks without FDIC approval. During examinations, the FDIC may require the Bank to establish additional reserves for loan losses, which would decrease the Company’s net income. The FDIC has adopted guidelines establishing safety and soundness standards on such matters as loan underwriting and documentation, asset quality, earnings standards, internal controls and audit systems, interest rate risk exposure and compensation and other employee benefits. Any institution that fails to comply with these standards must submit a compliance plan.
+ The Bank’s deposits are insured up to the applicable limits by the FDIC, and such insurance is backed by the full faith and credit of the United States Government. The basic deposit insurance level is $250,000 per each separately insured depositor, as defined in FDIC regulations. As insurer, the FDIC imposes deposit insurance premiums and is authorized to conduct examinations of and to require reporting by FDIC-insured institutions. Our deposit insurance premiums for the year ended December 31, 2018 were $898,000. The FDIC’s premiums may increase if the Bank’s regulatory capital or supervisory ratings deteriorate.
+ In accordance with the Dodd-Frank Act, the FDIC has issued regulations setting insurance premium assessments based on an institution’s total assets minus its Tier 1 capital instead of its deposits. The Bank’s FDIC premiums are based on its supervisory ratings and certain financial ratios. Federal law requires that the reserve ratio of the FDIC deposit insurance fund be at least 1.35% by September 2020. On September 30, 2018, the Deposit Insurance Fund Reserve Ratio reached 1.36%, exceeding the required minimum reserve ratio. This provides for depository institutions with total consolidated assets of $10 billion or less to receive assessment credits for the portion of their assessments that contributed to the growth in the reserve ratio from between 1.15% and 1.35%, to be applied when the reserve ratio is at or above 1.38%.
+ The FDIC may prohibit the Bank from engaging in any activity that it determines by regulation or order to pose a serious risk to the deposit insurance fund and may terminate our deposit insurance if it determines that we have engaged in unsafe or unsound practices or are in an unsafe or unsound condition.
+ Regulatory Capital Requirements. MutualBank is required to maintain a minimum level of regulatory capital. The FDIC has established capital standards for the Bank. The FDIC also may impose capital requirements in excess of these standards on individual institutions on a case-by-case basis. Financial institutions are expected to maintain a level of capital adequate with the risk profile assigned to their assets in accordance with the guidelines. See “Item 7 - Management’s Discussion and Analysis of Financial Condition and Results of Operation - Capital Resources” for information on the Bank’s compliance with these capital requirements.
+
+ 
+  29
+
+ 
+
+ The current capital regulations of the FDIC became effective at the beginning of 2015 (with some changes phased in over several years). The capital regulations establish required minimum ratio for common equity Tier 1 (“CET1”) capital, Tier 1 capital and total capital and the minimum leverage ratio; establish risk-weightings for assets and certain off-balance sheet items for purposes of the risk-based capital ratios; require an additional capital conservation buffer over the minimum risk-based capital ratios; and define what qualifies as capital for purposes of meeting the capital requirements.
+ The minimum capital ratios are: (1) a CET1 capital ratio of 4.5% of risk-weighted assets; (2) a Tier 1 capital ratio of 6.0% of risk-weighted assets; (3) a total capital ratio of 8.0% of risk-weighted assets; and (4) a leverage ratio (the ratio of Tier 1 capital to average total adjusted assets) of 4.0%. CET1 generally consists of common stock; retained earnings; accumulated other comprehensive income (“AOCI”) except in the case of banking organizations that have elected to exclude AOCI from regulatory capital, as discussed below; and certain minority interests; all subject to applicable regulatory adjustments and deductions.
+ There are a number of changes in what constitutes regulatory capital compared to earlier regulations, subject to transition periods. These changes include the phasing-out of certain instruments as qualifying capital. Mortgage servicing and deferred tax assets over designated percentages of CET1 are deducted from capital. In addition, Tier 1 capital includes AOCI, which includes all unrealized gains and losses on available for sale debt and equity securities. Because of our asset size, we had the one-time option of deciding in the first quarter of 2015 whether to permanently opt-out of the inclusion of unrealized gains and losses on available for sale debt and equity securities in our capital calculations. We made the decision to opt out.
+ The capital regulations changed in the risk-weighting of certain assets to better reflect credit risk and other risk exposure compared to earlier regulations. These changes include a 150% risk weight (up from 100%) for certain high volatility commercial real estate acquisition, development and construction loans and for non-residential mortgage loans that are 90 days past due or otherwise in nonaccrual status; a 20% (up from 0%) credit conversion factor for the unused portion of a commitment with an original maturity of one year or less that is not unconditionally cancellable (set at 0%); and a 250% risk weight (up from 100%) for mortgage servicing and deferred tax assets that are not deducted from capital.
+ In addition to the minimum CET1, Tier 1 and total capital ratios, the capital regulations require a capital conservation buffer consisting of additional CET1 capital greater than 2.5% of risk-weighted assets above the required minimum risk-based in order to avoid limitations on paying dividends, engaging in share repurchases and paying discretionary bonuses. The phase-in of the capital conservation buffer requirement began on January 1, 2016, when a buffer greater than 0.625% of risk-weighted assets was required, which amount increases each year until the buffer requirement is fully implemented on January 1, 2019.
+ Under the FDIC’s prompt corrective action standards, in order to be considered well-capitalized, the Bank must have a ratio of CET1 capital to risk-weighted assets of 6.5%, a ratio of Tier 1 capital to risk-weighted assets of 8%, a ratio of total capital to risk-weighted assets of 10%, and a leverage ratio of 5%; and in order to be considered adequately capitalized, it must have the minimum capital ratios described above. To be considered well-capitalized a bank holding company must have, on a consolidated basis, at least a Tier 1 risk-based capital ratio of 8% and a total risk-based capital ratio of 10% and not be subject to a higher enforceable individualized capital requirement.
+ Section 201 of the Act requires the Federal banking agencies to promulgate a rule establishing a new “Community Bank Leverage Ratio” of 8%-10% for depository institutions and depository institution holding companies, with less than $10 billion in total consolidated assets. If such a depository institution or holding company maintains tangible equity in excess of this leverage ratio, it would be deemed to be in compliance with (1) the leverage and risk-based capital requirements promulgated by the Federal 
+
+ 
+  30
+
+ 
+banking agencies; (2) in the case of a depository institution, the capital ratio requirements to be considered “well capitalized” under the Federal banking agencies’ “prompt corrective action” regime; and (3) “any other capital or leverage requirements to which the depository institution or holding company is subject, in each case unless the appropriate Federal banking agency determines otherwise based on the particular institution’s risk profile. In carrying out these requirements, the Federal banking agencies are required to consult with State banking regulators and notify the applicable State banking regulator of any qualifying community bank that exceeds or no longer exceeds the Community Bank Leverage Ratio. 
+ Limitations on Dividends and Other Capital Distributions. The Company’s major source of funds consists of dividends from the Bank. The ability of the Bank to pay dividends depends on its earnings and capital levels and may be limited by FDIC or IDFI regulations, directives or orders, or by the capital conservation buffer requirements. In addition, under Indiana law, the Bank may pay dividends from undivided profits; however, in some circumstances it may be required to obtain IDFI approval of a dividend if the total dividends declared during the current year, including the proposed dividend, exceeds net income for the current year and retained net income for the prior two years, which excludes dividends paid during those years. The approval from IDFI is not required if the Bank meets exemption guidelines that mandate minimums for examination ratings and the Tier 1 leverage capital ratio, and the Bank is not subject to corrective action or supervisory order agreements. Since the Bank became regulated by the IDFI, it has been exempt from the pre-approval requirements. It is the Bank’s policy to maintain a strong capital position, so, in times of financial or economic distress, the Bank will be less likely to pay dividends to the Company.
+ The ability of the Company to pay dividends to its stockholders is primarily dependent on the receipt of dividends from the Bank. Under Maryland law, the Company cannot pay cash dividends if it would render the Company unable to pay its debts or would be insolvent (unless they are paid from recent earnings).
+ The FRB has issued a policy statement on the payment of cash dividends by bank holding companies, which expresses the FRB’s view that a bank holding company should pay cash dividends only to the extent that its net income for the past year is sufficient to cover both the cash dividends and a rate of earnings retention that is consistent with the holding company’s capital needs, asset quality and overall financial condition. The FRB also indicated that it would be inappropriate for a company experiencing serious financial problems to borrow funds to pay dividends. Furthermore, a bank holding company may be prohibited from paying any dividends if the holding company’s bank subsidiary is not adequately capitalized. The payment of dividends by a bank or a bank holding company can also be restricted under the capital conversation buffer requirements in the capital regulations.
+ A bank holding company is required to give the FRB prior written notice of any purchase or redemption of its outstanding equity securities if the gross consideration for the purchase or redemption, when combined with the net consideration paid for all such purchases or redemptions during the preceding 12 months, is equal to 10% or more of the company’s consolidated net worth. The FRB may disapprove such a purchase or redemption if it determines that the proposal would constitute an unsafe or unsound practice or would violate any law, regulation, FRB order, or any condition imposed by, or written agreement with, the FRB. This notification requirement does not apply to any company that meets the well-capitalized standard for bank holding companies, is well-managed, and is not subject to any unresolved supervisory issues.
+ Federal Securities Laws. The common stock of the Company is registered with the SEC under the Securities Exchange Act of 1934, as amended (the “Exchange Act”). Therefore, the Company is subject to the reporting, information disclosure, proxy solicitation, insider trading limits and other requirements imposed on public companies by the SEC under the Exchange Act. This includes limits on sales of stock by certain insiders and the filing of insider ownership reports with the SEC. The SEC and Nasdaq have adopted regulations under the Sarbanes-Oxley Act of 2002 that apply to the Company as a Nasdaq-
+
+ 
+  31
+
+ 
+traded, public company, which seek to improve corporate governance, provide enhanced penalties for financial reporting improprieties and improve the reliability of disclosures in SEC filings.
+ Federal Taxation
+ General. We are subject to federal income taxation in the same general manner as other corporations, with some exceptions discussed below. The following discussion of federal taxation is intended only to summarize certain pertinent federal income tax matters and is not a comprehensive description of the tax rules applicable to us. MutualFirst’s federal income tax returns have been closed without audit by the IRS through its year ended December 31, 2014. MutualFirst and MutualBank will file a consolidated federal income tax return for fiscal year 2018.
+ Tax Cuts and Jobs Act (“Tax Act”). The Tax Act was enacted on December 22, 2017 reducing the Company’s federal corporate tax rate from 34% to 21%, effective January 1, 2018. For deferred tax assets and liabilities, amounts were remeasured based on the rates expected to reverse in the future, which is now 21%. Based on this new law, we recorded an additional tax expense of $2.0 million due to the revaluation of the company’s deferred tax asset in 2017. The Tax Act repealed the corporate Alternative Minimum Tax (“AMT”) and as a result a portion of the Company’s AMT credit carryover from prior years will be refundable beginning in 2018. The effective tax rate for 2018 was 13.6% compared to 35.6% for 2017 primarily due to the reduction of the corporate tax rate to 21% and the one-time deferred tax revaluation.
+ Taxable Distributions and Recapture. Prior to 1998, bad debt reserves created prior to the year ended December 31, 1997 were subject to recapture into taxable income if MutualBank failed to meet certain thrift asset and definitional tests. Federal legislation eliminated these thrift recapture rules. However, under current law, pre‑1988 reserves remain subject to recapture should MutualBank make certain non-dividend distributions or cease to maintain a bank charter.
+ Minimum Tax. For tax years beginning after December 31, 2018, corporate alternative minimum tax is repealed. The prior year minimum tax credit is allowed to continue to offset the taxpayer’s regular tax liability for any tax year. For tax years beginning after 2017 and before 2022, the prior year minimum tax credit would be refundable in an amount equal to 50% (100% for tax years beginning in 2021) of the excess of the credit for the tax year over the amount of the credit allowable for the year against regular tax liability. MutualBank has $505,000 available as minimum tax credits for carryover, as of December 31, 2018.
+ Corporate Dividends-Received Deduction. MutualFirst may eliminate from its income dividends received from MutualBank as a wholly owned subsidiary of MutualFirst if it elects to file a consolidated return with MutualBank. The corporate dividends-received deduction is 100% or 80%, in the case of dividends received from corporations with which a corporate recipient does not file a consolidated tax return, depending on the level of stock ownership of the payer of the dividend. Corporations which own less than 20% of the stock of a corporation distributing a dividend may deduct 50% of dividends received or accrued on their behalf.
+ State Taxation
+ MutualBank is subject to Indiana’s financial institutions tax, which is imposed at a flat rate as of December 31, 2018, of 6.5% on “adjusted gross income” apportioned to Indiana. “Adjusted gross income,” for purposes of the financial institutions tax, begins with taxable income as defined by Section 63 of the Internal Revenue Code and incorporates federal tax law to the extent that it affects the computation of taxable income. Federal taxable income is then adjusted by several Indiana modifications including only considering members of the combined group which have Indiana nexus. Indiana legislature started reducing the financial institutions tax from 8.5% to 6.5% in 0.5% increments over a four year 
+
+ 
+  32
+
+ 
+period that commenced in 2014. The financial institutions tax rate will decrease from 6.5% to 6.0% in 0.25% increments over a two year period that commenced beginning in 2019. The full rate reduction to 4.9% will be phased in fully by 2023.
+ Other applicable state taxes include generally applicable sales and use taxes plus real and personal property taxes. The Company is subject to a Michigan business tax on apportioned capital employed in the state of Michigan. The Company also files the Pennsylvania Bank & Trust Company shares and loans tax report. Ultimately, this tax is based on apportioned adjusted capital in the state of Pennsylvania. The Company evaluates potential tax liabilities in other states, as well.
+ Internet Website
+ We maintain a website with the address of www.bankwithmutual.com. The information contained on our website is not included as a part of, or incorporated by reference into, this Annual Report on Form 10‑K. This Annual Report on Form 10‑K and our other reports, proxy statements and other information, including earnings press releases, filed with the SEC are available on that website through a link to the SEC’s website at “About Us - Investor Relations - SEC Filings.”  For more information regarding access to these filings on our website, please contact our Corporate Secretary, MutualFirst Financial, Inc., 110 E. Charles Street, Muncie, Indiana, 47305‑2400; telephone number (765) 747‑2800.

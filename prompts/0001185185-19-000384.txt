@@ -1,0 +1,538 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1.     Business
+Company Overview
+ 
+GlobalSCAPE was incorporated in Delaware in 1996. We develop and sell computer software that provides secure information exchange, data transfer and sharing capabilities for enterprises and consumers. We have been in business for more than twenty years having sold our products to thousands of enterprises and individual consumers globally. 
+ 
+Our primary business is selling and supporting managed file transfer software for enterprises. MFT software facilitates the transfer of data from one location to another across a computer network within a single enterprise or between multiple computer networks in multiple enterprises.
+ 
+Our MFT products are based upon our Enhanced File Transfer (“EFT”) platform. This on-premise and cloud-based delivery platform emphasizes secure and efficient data exchange for organizations. It enables business partners, customers and employees to share information safely and securely. The EFT platform provides enterprise-level security while automating the integration of back-end systems which are features often missing from traditional file transfer software. The EFT platform features built-in regulatory compliance, governance, and visibility controls to maintain data safety and security. It can replace legacy systems, homegrown servers, expensive leased lines and virtual area networks. The EFT platform promotes ease of administration while providing the detailed capabilities necessary for complete control of a file transfer system.
+ 
+We earn most of our revenue from the sale of products and services that are part of our EFT platform. Our customers can purchase the capabilities of our EFT platform in two ways:
+ 
+
+● | Under a perpetual software license for which they pay a one-time fee and under which they typically install our product on computers they own and/or manage. Our brand name for this product is EFT. Almost every customer who purchases EFT also purchases a maintenance and support (“M&S”), contract for which they pay us an annual recurring fee. Most of the revenue we have earned from our EFT platform products has been from sales of perpetual software licenses and related M&S.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | As a software-as-a-service, or SaaS, under which they pay us ongoing fees to access the capabilities of the EFT platform in the cloud. In January 2018, we introduced EFT Arcus, our SaaS offering of the EFT platform for which users pay a base monthly subscription fee plus an additional variable amount determined based upon their metered usage of EFT Arcus resources.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We sell other products that are synergistic to our EFT platform including Mail Express, WAFS, and CuteFTP. Collectively, these products constituted less than 4% of our total revenue in 2018. Customers pay a one-time fee to purchase these products under a perpetual software license. Some customers also purchase an M&S contract. We do not offer a SaaS version of these products and have no plans to do so. We plan to phase out Mail Express and WAFS in 2019.
+ 
+We also earn revenue from professional services we provide to assist our customers in configuring and integrating our EFT platform products into their environments.
+ 
+We focus on selling our EFT platform products in a business-to-business environment. The majority of the resources we will expend in the future for product research, development, marketing and sales will focus on this product line. We expect to expend minimal resources developing and selling other products. We believe our EFT platform products and business capabilities are well-positioned to compete effectively in the market for these products.
+ 
+ 2
+
+
+For a more comprehensive discussion of the products we sell and the services we offer, see “Software Products and Services” below.
+ 
+We have won multiple awards for performance and reputation, including:
+ 
+
+● | In 2018:
+--+---------
+
+
+- | Named to The Channel Company’s list of CRN Channel Chiefs as top leaders in the IT channel for the 5th consecutive year.
+--+-------------------------------------------------------------------------------------------------------------------------
+
+
+- | Awarded a 5-star rating in The Channel Company’s 2018 CRN Partner Program Guide for the 4th consecutive year.
+--+--------------------------------------------------------------------------------------------------------------
+
+
+● | In 2017:
+--+---------
+
+
+- | Named to the CRN 2017 Cloud Partner Program Guide which recognizes partner programs with distinguished margins, sales support and cloud resources
+--+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- | Received three awards from the 2017 Golden Bridge Awards for distinguished technology achievements which included:
+--+-------------------------------------------------------------------------------------------------------------------
+
+
+■ | Cloud/SaaS Innovations (Gold Winner) – EFT on Amazon Web Services or Microsoft Azure.
+--+--------------------------------------------------------------------------------------
+
+
+■ | Managed File Transfer Innovations (Gold Winner) – The EFT Accelerate module.
+--+-----------------------------------------------------------------------------
+
+
+■ | Governance, Risk and Compliance Innovations (Bronze Winner) – EFT platform.
+--+----------------------------------------------------------------------------
+
+
+- | Received two awards from the Network Product Guide 2017 IT World Awards for achievements in product excellence that included:
+--+------------------------------------------------------------------------------------------------------------------------------
+
+
+■ | Governance, Risk and Compliance (Gold Winner) – EFT.
+--+-----------------------------------------------------
+
+
+■ | Cloud Security (Silver Winner) – EFT Cloud Services.
+--+-----------------------------------------------------
+
+
+- | Recognized as a Best Place to Work in IT by Computerworld for the fourth consecutive year and sixth time overall.
+--+------------------------------------------------------------------------------------------------------------------
+
+
+- | Recognized for three Info Security Products Guide 2017 Global Excellence Awards for distinguished achievements in product innovation in categories that included:
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+■ | Innovation in Compliance (Gold Winner) – Enhanced File Transfer.
+--+-----------------------------------------------------------------
+
+
+■ | Cloud/SaaS Solutions (Gold Winner) – EFT Cloud Services.
+--+---------------------------------------------------------
+
+
+■ | BYOD Security (Bronze Winner) – EFT Workspaces.
+--+------------------------------------------------
+
+
+- | Honored as a Best Company to Work for in Texas by Best Companies Group (BCG), Texas Monthly, the Texas Association of Businesses (TAB), and Texas SHRM.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- | Received a 5-Star rating in The Channel Company’s CRN 2017 Partner Program Guide for the third year in a row.
+--+--------------------------------------------------------------------------------------------------------------
+
+
+- | Honored with the 2017 Total Rewards & Benefits Excellence Award by the HRO Today Services and Technology Association.
+--+----------------------------------------------------------------------------------------------------------------------
+
+
+- | Selected as a finalist in the 2017 Cybersecurity Product Awards Secure File Transfer: EFT Enterprise.
+--+------------------------------------------------------------------------------------------------------
+
+ 
+ 3
+
+
+Industry Background
+ 
+Communication across computer networks that facilitates the movement and sharing of information between central and remote locations and with associates, employees, partners, suppliers, and customers is an integral part of daily operations for enterprises of all sizes. Corporate information technology (IT) managers must protect business assets, follow strict regulatory and compliance guidelines and ensure that the right people have access to the right information, at the right place and at the right time. Global operations, diverse business partners and networks further emphasize the need for software applications that ensure compatibility, scalability, privacy, and security. These requirements have created the need for maintaining the security of data and information in motion and at rest.
+ 
+The increase in high-profile and large scale data breaches in corporate enterprises and government agencies involving access to information in an unauthorized manner have created a heightened awareness of the vulnerability of critical and confidential data. As a result, attention at an unprecedented level is being paid to the security and integrity of systems that store and transfer data electronically. In many cases, this emphasis involves assessing the adequacy of the security, reliability and visibility provided by existing MFT systems.
+ 
+The need for secure MFT solutions is particularly strong for organizations faced with a daunting array of privacy, security, and remote accessibility challenges stemming from various regulatory and business requirements for data privacy and confidentiality. Regulatory requirements regarding privacy and security include federal legislation and regulations such as the Health Insurance Portability and Accountability Act (HIPAA), the Gramm-Leach-Bliley Act (GLBA) and the Federal Trade Commission Red Flags Rules. In the European Union, the General Data Protection Regulation (GDPR) also places requirements on organizations who will have a need for our solutions. Some of these statutes and regulations impose severe penalties for improper disclosure of confidential information. In addition to legal obligations, industry best-practices such as the Payment Card Industry Data Security Standard (PCI DSS) and self-imposed business requirements lead to the need to secure and protect consumer information, intellectual property and trade secrets. Use of secure MFT solutions offers protection against disclosure of proprietary information and also reduces corporate risks associated with the potentially devastating consequences of security breaches.
+ 
+Our industry is known as managed file transfer. The MFT industry has its technical origin in the file transfer protocol, or FTP. FTP dates back to 1980. The use of file transfer protocols increased dramatically with the explosive growth of the Internet during the 1990s. The MFT industry arose from recognition that FTP alone does not provide adequate security and management capabilities for file transfers. MFT solutions offer a greater degree of security and control than FTP. Features available in MFT solutions include integrated security, auditing capabilities, performance monitoring, and reporting. The MFT industry includes low cost, or even free, solutions that offer basic capabilities. However, we believe businesses and even individuals require more advanced solutions that provide scalability, enhanced security options, automated workflow and dedicated maintenance and support.
+ 
+Cloud computing is a model for enabling convenient, on-demand network access to a shared pool of configurable computing resources that can be rapidly provisioned, released, and scaled to meet requirements.  We believe the continuing movement to cloud services is a favorable trend that offers us increased opportunities to win customers and expand our market presence.
+ 
+Strategy 
+ 
+We intend to build upon our leadership position in the MFT market to provide organizations and individual users with the solutions necessary to meet their growing need for secure information exchange.
+ 
+As we evolve our solution portfolio, we intend to maintain an appropriate balance between legacy and new solutions, including making choices about transitioning, sustaining, or retiring solutions as necessary to best operate under prevailing business conditions. Transitioning or sustaining solutions may involve consolidating capabilities within our solution portfolio, releasing upgrades in response to market or customer needs, or making bug fixes. We also may phase out solutions and earlier versions of our solutions periodically in accordance with our end-of-life, or EOL, policy.
+ 
+ 4
+
+
+In addition to expanding our products into areas adjacent to MFT, we also believe that we need to continue to expand the means of delivering our MFT products. To that end, we intend to continue expanding our capability to deliver our EFT platform through our EFT Arcus SaaS delivery model. EFT Arcus provides organizations the flexibility of deploying on-premises, in the cloud or in a hybrid cloud environment with all of the security, compliance, scalability, and visibility features of an on-premises managed file transfer solution. Our strategic focus consists of: 
+ 
+
+● | Continuing innovation of our EFT platform to address the expanding needs of our existing customers and to enhance our products’ appeal to new customers.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Enhancing sales and marketing programs to improve identification of demand for our products and to increase revenue.
+--+---------------------------------------------------------------------------------------------------------------------
+
+
+● | Licensing, developing and/or acquiring technologies with features and functions that are complementary to and synergistic with our EFT platform.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Continuing Innovation of Our EFT Platform to Address the Expanding Needs of Our Existing Customers and to Enhance Our Products’ Appeal to New Customers.
+ 
+We seek to continue to improve and enhance our core technology, especially as it relates to existing customers. This may require new product features to be released. We believe that by adding new features and product functionality, we will increase sales to existing customers by helping them solve additional problems within their organizations. It will also position us to attract new customers.
+ 
+We believe customers in the markets we serve will increasingly begin assessing the viability of accessing and using MFT capabilities through cloud-based, SaaS offerings. EFT Arcus is designed to meet the needs of customers who wish to access MFT through a cloud delivery model.
+ 
+Enhancing Sales and Marketing Programs to Improve Identification of Demand for Our Products and to Increase Revenue
+ 
+Sales and marketing efforts will continue to focus on enabling our sales people and channel partners to successfully engage customers and prospects. We believe that much of our new business will be attributable to current customer relationships and we intend to continue to deepen these relationships. As we deepen our customer relationships, we will seek to identify opportunities for additional deployments of our products and services.
+ 
+We provide solutions to some of the world’s largest brokerage firms, manufacturers, oil companies, banks, insurance companies, healthcare providers, airlines, cruise ship operators and technology providers. Given the breadth and depth of these market opportunities, we believe the effectiveness of a direct sales approach using only our in-house personnel to sell our products is limited by the number of qualified sales people we can hire and the number of prospective clients to whom they can present our products. As a result, we plan to continue emphasizing our third-party sales channel relationships.
+ 
+We believe our channel sales program helps us establish and maintain a lower-touch delivery model through which we train these partners to sell and distribute our solutions and provide them sales and marketing tools to support that effort. We utilize this approach to reduce the overall cost of marketing and selling our solutions in areas where it would be costly to establish a presence with our own employees.
+ 
+Licensing, Developing and/or Acquiring Technologies With Features and Functions that are Complementary to and Synergistic with Our EFT Platform.
+ 
+Another area of strategic focus continues with product innovation but extends beyond pure MFT into adjacent segments and technologies such as data movement and data security. We intend to continue to focus on determining which areas of our business will contribute to our future growth in their current state, need additional investment to contribute in the desired manner, or require further analysis to determine their future strategy.
+ 
+ 5
+
+
+Our solution portfolio may evolve over time, for example, through development of new offerings in adjacent markets or through acquisitions of technologies by licensing, partnering or by acquiring companies which own such technologies. We also maintain a research and development program and work closely with partners and others in the industry to identify new solution opportunities. We also intend to remain alert for attractive opportunities to collaborate with others or perhaps combine other revenue-producing technologies with ours to expand our product offerings and reach.
+ 
+As we evolve our solution portfolio, we intend to maintain an appropriate balance between legacy and new solutions, including making choices about transitioning, sustaining, or retiring solutions as necessary to best operate under prevailing business conditions. Transitioning or sustaining solutions may involve consolidating capabilities within our solution portfolio, releasing upgrades in response to market or customer needs, making bug fixes, or phasing-out solutions periodically pursuant to our EOL policy.
+ 
+Software Products and Services
+ 
+Our primary business is selling and supporting MFT software for enterprises. MFT software facilitates the transfer of data from one location to another across a computer network within a single enterprise or between multiple computer networks in multiple enterprises. These transfers may be ongoing, repetitive activities executed by automated software routines that occur without human intervention, or they may be transfers that people create and complete in the absence of automated routines or as a result of ad-hoc, special situations that arise from time-to-time. Examples of enterprise-level activities that rely on MFT software include:
+
+● | Transfer of transactional information within an enterprise on a repetitive basis from one geographic location to another, such as a transfer of deposit and withdrawal information throughout the day from a branch of a bank to a central data processing center at another location.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Movement of accumulated information within an enterprise from one data processing application to another on a periodic basis, such as a transfer of bi-weekly payroll information from a payroll system that is used to pay employees to a job cost system that is used to manage the cost of a project.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Exchange of information between enterprises to facilitate the completion of one or more business transactions, such as a retailer transmitting inventory purchasing requirements produced by its material requirements planning system to an order entry system at a supplying vendor.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We earn over 96% of our revenue from the sale of MFT products and services that are part of our EFT platform. We have multiple revenue streams from the EFT platform that include:
+ 
+
+● | Perpetual software licenses under which customers pay us a one-time fee for the right to install our products in their information systems environment on computers they manage and either own or otherwise procure from a cloud services provider, including deploying our products at a cloud services provider in a bring-your-own-license, or BYOL, environment. Our brand name for this product is EFT. Historically, most of the revenue we have earned from our EFT platform products has been from sales of EFT perpetual software licenses and related M&S.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Cloud-based, SaaS solutions that we sell on an ongoing subscription basis. In January 2018, we introduced EFT Arcus, our SaaS offering of the EFT platform for which users pay a base monthly subscription fee plus an additional variable amount based upon their metered usage of EFT Arcus resources.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Maintenance and Support
+--+------------------------
+
+
+● | Professional services for product installation, integration and training
+--+-------------------------------------------------------------------------
+
+ 
+We focus on selling our EFT platform products in a business-to-business environment. The majority of the resources we will expend in the future for product research, development, marketing and sales will focus on this product line. We expect to expend minimal resources developing and selling our other products. We believe our EFT platform products and business capabilities are well-positioned to compete effectively in the market for these products. For a more comprehensive discussion of the products we sell and the services we offer, see below.
+ 
+ 6
+
+
+We earn less than 4% of our revenue from selling other products that can be synergistic to our EFT platform. These products have capabilities that:
+ 
+
+● | Support information sharing and exchange capabilities using traditional email systems.
+--+---------------------------------------------------------------------------------------
+
+
+● | Enable enterprise file synchronization and sharing.
+--+----------------------------------------------------
+
+
+● | Enhance the ability to replicate, share and backup files within a wide area network or local area network, thereby allowing users to access their data at higher speeds than possible with most alternate approaches.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Support file transfers by individuals and small businesses.
+--+------------------------------------------------------------
+
+ 
+Some of our products support consumer-oriented file transfers and file sharing. Even though these products are profitable on an overall basis, we anticipate the future resources we will expend related to products sold to consumers and the associated revenue we earn from those products will continue to be a minor part of our business.
+ 
+The following discussion presents a summary description of our specific products and solutions.
+ 
+Managed File Transfer–EFT Platform
+ 
+Enhanced File Transfer, or EFT, is the brand name of our core MFT product platform.
+ 
+The EFT platform provides users the ability to securely transmit data from one location to another using any number of files of any size or configuration. It facilitates management, monitoring, and reporting on file transfers and delivers advanced data transfer workflow capabilities to move data and information into, out of, and throughout an enterprise.
+ 
+The EFT platform provides a common, scalable MFT environment that accommodates a broad family of accompanying modules to provide enterprises with increased security, automation, and performance when compared to traditional FTP-based and email delivery systems. Various optional modules allow users to select the solution configuration most applicable to their requirements for auditing and reporting, encryption, file transfers, operability in or through a DMZ network, and integration with back-end business processes, including workflow automation capabilities.
+ 
+General features and capabilities of the EFT platform include:
+ 
+
+● | State-of-the-art, enterprise-level security when transferring information within or between computer networks as well as for collaboration with business partners, customers, and employees. EFT provides automation that supports effective integration of back-end systems. It has built-in regulatory compliance, governance, and visibility controls to provide a means of safely maintaining information. EFT offers a high level of performance and scalability to support operational efficiency and maintain business continuity. Administrative tools are provided at various levels of granularity to allow for complete control and monitoring of file transfer activities.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Transmission of critical information such as financial data, medical records, customer files, vendor files, personnel files, transaction activity, and other similar documents between diverse and geographically separated network infrastructures while supporting a range of information protection approaches to meet privacy and other security requirements. In addition to enabling the secure, flexible transmission of critical information, our products also provide customers with the ability to monitor and audit file transfer activities.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Compliance with government regulations and industry standards relating to the protection of information while allowing users to reduce costs, increase efficiency, track and audit transactions, and automate processes. Our solutions also provide data replication, acceleration of file transfer, sharing and collaboration, and continuous data backup and recovery.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We expect to continue enhancing the EFT platform with capabilities that meet the needs of customers and enhance our market position.
+ 
+ 7
+
+
+EFT Platform – Delivery Offerings
+ 
+Our customers can purchase the capabilities of our EFT platform in two ways:
+ 
+
+● | Under a perpetual software license for which they pay a one-time fee and under which they typically install our product on computers they own and/or manage. The EFT platform purchased in this manner can also be used in a bring-your-own-license environment hosted by major cloud providers such as Amazon Web Services or Microsoft Azure. Almost all customers who purchase a perpetual license to use the EFT platform also purchase an M&S contract for which they pay us a recurring fee that is typically 20% to 30% of the perpetual license fee per year.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | As a software-as-a-service, or SaaS, under which the customer pays us monthly subscription and usage fees to access the capabilities of the EFT platform in the cloud. Our brand name for this product is EFT Arcus. We introduced this product in January 2018. We have not yet earned significant revenue from the SaaS offering of our EFT platform.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+EFT Arcus
+ 
+While we currently earn most of our EFT platform revenue from sales of perpetual licenses combined with an M&S contract, we recognize that a major shift toward a SaaS environment is underway in the marketplace. Key features of EFT Arcus include:
+ 
+
+● | Consumption-based pricing that allows customers to pay only for the capacity and throughput they use.
+--+------------------------------------------------------------------------------------------------------
+
+
+● | No long-term contractual commitment.
+--+-------------------------------------
+
+
+● | Automatic scalability to accommodate varying workloads to mitigate concerns about capacity planning.
+--+-----------------------------------------------------------------------------------------------------
+
+
+● | A single tenant environment that allows each customer to have a private deployment.
+--+------------------------------------------------------------------------------------
+
+
+● | On-the-fly upgrades.
+--+---------------------
+
+
+● | Data encrypted while at rest.
+--+------------------------------
+
+
+● | A minimum service level commitment of 99.9%.
+--+---------------------------------------------
+
+ 
+The features and functions of EFT Arcus are similar to those of our EFT Product delivered for on-premise installation.
+ 
+We host and deploy EFT Arcus on Microsoft Azure. It provides customers with a global platform on which to use EFT Arcus and provides infrastructure security, compliance and redundancy features. Microsoft Azure provides customers with geo-redundant storage which replicates data to a secondary region that is geographically distant from the primary region.
+ 
+For the first 24 to 36 months that a customer subscribes to EFT Arcus, we believe that the cumulative cost of ownership will typically be less than the total cost of purchasing an EFT platform perpetual license combined with an M&S contract. Accordingly, we expect the revenue we earn during that period from an EFT Arcus customer will be less than the revenue we would have earned from that same customer during that same period if the customer had purchased a perpetual license with an M&S contract. However, we believe thereafter and over the long term, the cumulative, recurring revenue stream we will earn from an EFT Arcus customer will exceed what we would have otherwise earned from the sale of a perpetual license combined with an M&S contract.
+ 
+ 8
+
+
+Customers subscribing to EFT Arcus may deem that controls pertaining to EFT Arcus are relevant to their internal control over financial reporting. In that case, a customer may request us to provide them our management description of a service organization’s system and a service auditor’s report on that description and on the suitability of the design and operating effectiveness of controls (commonly referred to as a SOC Type 1 or SOC Type 2 report prescribed under SSAE 18 issued by the American Institute of Certified Public Accountants). Currently, we rely on our third-party service provider who hosts EFT Arcus for that report as it pertains to controls they have in place. We do not presently have this report in place with respect to controls that we design, implement and manage at GlobalSCAPE. We are currently assessing the work necessary to provide such a report. The absence of this report could cause certain potential customers to choose not to subscribe to EFT Arcus.
+ 
+Secure Information Sharing and Exchange Solution – Mail Express
+ 
+Mail Express provides secure information sharing and exchange capabilities leveraging traditional email workflow. It is a stand-alone product installed in a client-server environment that allows users to send and receive secure, encrypted email and attachments of virtually unlimited size. In 2019, Mail Express will no longer be offered for sale, however we will continue to offer product support.
+Wide Area File Services Solution - WAFS
+ 
+WAFS uses data synchronization to further enhance the ability to replicate, share and backup files within a wide area network or local area network, thereby allowing users to access their data at higher speeds than possible with most alternate approaches. The software uses byte-level differencing technology to update changes to files with minimal impact on network bandwidth while also ensuring that files are never overwritten, even if opened by other remote users. Other key features of WAFS include native file locking, replication to multiple locations simultaneously, adherence to access control list file permissions, and full UTF-8 support. In 2019, WAFS will no longer be offered for sale, however we will continue to offer product support.
+File Transfer Solution for Consumers - CuteFTP
+
+CuteFTP is our original product introduced in 1996. It is a file transfer program generally used by individuals and small businesses. It generates incremental revenue for us at a relatively low cost.
+ 
+We will continue selling CuteFTP as a stand-alone product and providing M&S services to customers who purchased CuteFTP in the past and who purchase it in the future but we will not invest significantly in marketing the product. We do not expect to expend significant resources in the future expanding the features and capabilities of CuteFTP.
+ 
+Professional Services
+ 
+We offer a range of professional services to complement our solutions. These professional services include product configuration and system integration, solution “quickstart” implementations, business process and workflow refinement, policy development, education and training, and solution health checks. In addition, we may provide longer-term engineering services, including supporting multi-year contracts, if necessary, to support certain solution implementations and integrations. 
+Maintenance and Support
+ 
+We offer M&S contracts to licensees of all of our software products. These M&S contracts entitle the licensee to software upgrades and technical support services in accordance with the contract terms. Standard technical support services are provided via email and telephone during our regular business hours. For certain of our products, we offer a Premier M&S contract which provides access to emergency technical assistance 24 hours per day, 7 days a week.
+ 
+Most of our M&S contracts are for one year although we also sell multi-year contracts. M&S is purchased by substantially all buyers of our EFT platform products as well as by many customers who purchase our other products. Customers pay an annual amount that is typically 20% to 30% of the software license price. A majority of our customers with M&S contracts renew them each year.
+ 
+ 9
+
+
+In 2018, we earned 63% of our revenue from M&S contracts. Sustaining that revenue stream is dependent upon our ability to continue selling new licenses for which customers purchase M&S services and to sustain a high renewal rate for existing M&S contracts.
+ 
+Customers
+ 
+We have sold our solutions throughout the world to individuals and enterprises ranging from SMBs to Fortune 100 companies. In order to leverage the resources of third parties, we make our products available for purchase by end users through third-party, channel resellers even though end users can also purchase those products directly from us. During 2018 and 2017, we earned a total of 35% and 29%, respectively, from resellers and approximately 14% of our revenue from such sales through our largest, third-party channel reseller. Although we believe that we are not substantially dependent on this distributor, if it were to experience a significant disruption of its business or if our relationship with it were to significantly deteriorate, it is possible that our ability to sell to end users would be, at least temporarily, negatively impacted. We believe that such termination would not have a material adverse effect on us because we have engaged, or believe that we would be able to engage, alternative distributors, resellers and other distribution channels to deliver our products to end-customers shortly following the termination of any agreement with any distributor.
+ 
+We derive a significant portion of our revenue from risk averse and/or regulated commercial customers in North America and throughout the world. Our primary commercial vertical markets include finance, health care, energy, retail, manufacturing, and engineering. We also have a customer base in the local, state, and federal government spaces. We continue to pursue additional government business by leveraging our certifications and industry validations.
+ 
+Seasonality
+ 
+Our products are marketed to individuals, SMBs and large organizations. As a result of this mix within our customer base, we typically have not experienced significant seasonality in our sales other than a typical modest decline from time-to-time in first quarter sales as compared to sales in the preceding fourth quarter.
+ 
+As a result of customer buying patterns and the efforts of our sales force and channel partners to meet or exceed their sales objectives, we have historically received a substantial portion of orders from our customers and generated a substantial portion of revenue during the last few weeks of each quarter. If a delay in an expected order for our products occurs near the end of a quarter this could result in revenue we expected to earn in that period being delayed until a subsequent quarter.
+ 
+Network and Equipment
+ 
+We conduct business through various Tier 1 Internet services providers. Our arrangements provide for redundancy in the event of a failure and for expansion of available bandwidth in the event there is a dramatic increase in demand. To protect critical customer data, our online shopping cart utilizes SSL encryption. We maintain technical and physical measures and procedures compliant with the PCI DSS. We use a certified Approved Scanning Vendor for security scans and PCI scan attestation.
+ 
+We have dedicated servers on and off site and expansion plans in place to allow rapid and cost effective scalability. Our offsite servers and data backup procedures provide a warm backup to our onsite servers for contingency purposes. The backups are performed in accordance with our disaster recovery plan.
+ 
+We rely on unrelated third parties to host on their computers our EFT Arcus product. We have contracts and/or service agreements in place with those third parties that we believe provide us the ability to continue delivering those products without interruption.
+ 
+ 10
+
+
+Research and Development
+ 
+To keep pace with customer and market demand, we maintain an ongoing program of new product development.
+ 
+Our software engineers are responsible for creating and building our software products. They do so by combining their expertise with input from our sales, marketing and product management groups as to market trends and needs. Our software engineers design and write software and manage its testing and quality assurance. We utilize third-party software developers both domestically and overseas working under our supervision to supplement our software engineers. Using these external software developers in a strategic manner allows us to access highly-skilled labor pools, maintain a 24-hour development schedule, decrease time to market, and minimize programming costs.
+ 
+All phases of research and development, or R&D, including scope approval, functional and implementation design, object modeling and programming, are subject to extensive internal quality assurance testing. We maintain an ongoing focus on improving our quality assurance testing infrastructure and practices. Technical reporting and customer support feedback from customers confirm the continuing positive effect of our ongoing enhancement of research and development and quality assurance processes.
+ 
+Our EFT Arcus product is hosted by third-party cloud services providers. We are reliant upon those third parties, such as Microsoft Azure, for the continued development and enhancement of their cloud services infrastructures on which our products are hosted. We do not perform significant research and development of cloud services infrastructures using our own personnel.
+ 
+Our R&D expenditures profile has been as follows ($ in thousands):
+ 
+
+ | Year ending December 31, | 
+-----------------------------+--------------------------+------
+ | 2018 | | 2017 | 
+R&D expenditures expensed | $ | 1,883 | | $ | 3,128
+R&D expenditures capitalized | | 1,276 | | | 1,926
+Total R&D expenditures | $ | 3,159 | | $ | 5,054
+
+ 
+Our total R&D expenditures decreased 37% in 2018 as compared to 2017 primarily due to fewer employed software engineers and technical personnel in addition to lower third-party expenses.
+ 
+Total resources expended for R&D (set forth above as total R&D expenditures) illustrate our total corporate efforts to improve our existing products and to develop new products regardless of whether our expenditures for those efforts were expensed or capitalized. Total resources expended for R&D is not a measure of financial performance under United States generally accepted accounting principles, or GAAP, and should not be considered a substitute for R&D expense (set forth above as R&D expenditures expensed) and capitalized software development costs (set forth above as R&D expenditures capitalized) individually. While we believe the non-GAAP, total resources expended for R&D amount provides useful supplemental information regarding our overall corporate product improvement and new product creation activities, there are limitations associated with the use of this non-GAAP measurement. Total resources expended for R&D is a non-GAAP measurement not prepared in accordance with GAAP and may not be comparable to similarly titled measures of other companies since there is no standard for preparing this non-GAAP measurement. As a result, this non-GAAP measurement of total resources expended for R&D has limitations and should not be considered in isolation from, or as a substitute for, R&D expense and capitalized software development cost individually.
+ 
+Substantially all of our R&D expenditures relate to our EFT platform products with a relatively minor level of these expenditures being related to our other products. We expect to carefully manage our research and development activities in future years as we focus on improving our current products and introduce new products.
+ 
+ 11
+
+
+Competition
+ 
+The managed file transfer software market sector is highly competitive, subject to rapid change, and significantly affected by new product introductions and other activities of market participants.
+ 
+Some of our competitors in certain markets have greater financial, technical, sales, marketing and other resources than we do. Because of these and other factors, competitive conditions in these industries are likely to continue to intensify in the future. Increased competition could result in price reductions, reduced net revenue and profit margins and loss of market share, any of which could harm our business. See “Risk Factors – Risks Related to Our Operations” for further discussion of risks regarding competition.
+ 
+We believe that our future results depend largely upon our ability to better serve customers and by offering new product enhancements whether by internal development or acquisition. We also believe we must continue to provide existing product offerings that compete favorably with respect to ease of use, reliability, performance, range of useful features, reputation, and price.
+ 
+There is limited information regarding the market shares of our solutions in their respective categories. Some of our competitors have substantially greater financial, technical, sales, marketing, personnel, and other resources, as well as greater name recognition and a larger customer base than we do. Significant competition characterizes the markets for our traditional MFT products. We anticipate we will continue to face increasing pricing pressures from competitors in the future. Given that there are low barriers to entry into the software market and that the market is subject to rapid technological change, we believe that competition will persist and intensify in the future. For more discussion on the risks associated with our competition, see “Risk Factors — Risks Related to Our Operations”.
+ 
+EFT Platform Products. Our EFT Enterprise and EFT Arcus products compete against a number of secure, Windows-based FTP servers. We believe our primary competitors are IBM, Axway, Accellion, Ipswitch, BMC, Cleo, Acronis, Signiant, Serv-U, and JSCAPE. We believe the features and functions of our products are competitive with those of other MFT providers. In particular, we believe the ease of installation and use of our products combined with a competitive price position us to compete effectively.
+ 
+We do not offer a Linux version of our EFT platform. Accordingly, we do not compete in environments in which the customer needs an MFT product that operates in a Linux operating system environment.
+ 
+Delivering MFT products through a cloud-based, SaaS offering is a rapidly evolving sector of the markets in which we compete. Many of our MFT competitors are also introducing SaaS products. The nature of the SaaS delivery model lowers the barriers to entry into this market such that we expect competition in this area to intensify in the future.
+ 
+CuteFTP. CuteFTP exists in a highly competitive environment with numerous FTP software utilities available on the Internet for both the personal and professional user. CuteFTP is positioned as one of the only secure FTP client programs that support a wide range of security standards related to the FTP protocol. We believe our primary competitors are consumer file transfer solutions sold by Ipswitch, Serv-U and Van Dyke Software, Inc. CuteFTP was an early Windows-based FTP client to market and historically has been among the most frequently downloaded FTP clients on popular download sites.
+ 
+WAFS. WAFS competes in the wide area file services/storage market. We believe our primary competitors are Panzura and Peer Sync, each of which is delivering proprietary appliances.  In 2019, WAFS will no longer be offered for sale, however we will continue to offer product support.
+Mail Express. Mail Express competes in areas of the file transfer market associated with email attachment offloading. We believe our primary competitors are Leapfile, Zix, and Biscom.  In 2019, Mail Express will no longer be offered for sale, however we will continue to offer product support.
+ 
+ 12
+
+
+Governmental Regulation
+ 
+Export Control Regulations. All of our products are subject to U.S. export control laws and applicable foreign government import, export and/or use requirements. The level of control generally depends on the nature of the goods and services in question. For example, the level of control is impacted by the nature of the software and encryption incorporated into our products. Where controls apply, the export of our products may require an export license or authorization or that the transaction qualifies for a license exception or the equivalent, and may also be subject to corresponding reporting requirements. For the export of some of our products, we may be subject to various post-shipment reporting requirements. Minimal U.S. export restrictions apply to all of our products, whether or not they perform encryption functions. Additionally, because we are a Department of Defense contractor, there are certain registration requirements that may be triggered by our sales. In addition, certain of our items and/or transactions may be subject to the International Traffic in Arms Regulations (ITAR) if our software or services are specifically designed or modified for defense purposes. Companies engaged in manufacturing or exporting ITAR-controlled goods and services (even if these companies do not export such items) are required to register with the U.S. State Department.
+ 
+Enhancements to existing products may, and new products will, be subject to review under the Export Administration Act to determine what export classification they will receive. In light of the ongoing discussions regarding anti-terrorism legislation in the U.S. Congress, there continues to be discussions regarding the correct level of export control. Export regulations may be modified at any time. Modifications to the export regulations could reduce or eliminate our ability to export some or all of our products from the U.S. without a license in the future, which could put us at a disadvantage in competing for international sales compared to companies located outside of the U.S. that would not be subject to these restrictions. Modifications to the export regulations could prevent us from exporting our existing and future products in an unrestricted manner without a license or make it more difficult to receive the desired classification. If export regulations were to be modified in such a way, we may be put at a competitive disadvantage with respect to selling our products internationally. We will complete technical reviews on any new products that we acquire or develop that may be subject to these regulations before we can export them.
+ 
+Privacy Laws. As our business evolves to incorporate more cloud and SaaS solutions, we will receive, transmit, and store a greater volume and diversity of information. As a result, we may be subject to various international, federal and state regulations regarding the treatment and protection of personally identifying and other regulated information. Applicable laws may include, without limitation, U.S. federal laws and implementing regulations such as the GLBA and HIPAA, as well as state laws and regulations, and international laws and regulations including the European Union General Data Protection Regulation, or the GDPR, which replaced the European Union Data Protection Directive in May 2018. Additionally, some of these laws have requirements on the transmittal of data from one jurisdiction to another. In the event our systems are compromised by an unauthorized party, many of these privacy laws require that we provide notices to our customers whose personally identifiable data we reasonably believe may have been compromised. Additionally, if we transfer data in violation of these laws, we could be subjected to substantial fines. To mitigate the risk of compromised information, we use encryption and other security to protect our databases. We also have adopted policies to comply with the GDPR in the European Union.
+Intellectual Property
+ 
+We regard some of the features of our internal operations, our software, our brands and marketing message, and our documentation as proprietary and rely on copyright, patent, and trademark and service mark laws and trade secret protection, such as confidentiality procedures, contractual arrangements, non-disclosure agreements and other measures to protect our proprietary information. Our intellectual property is an important and valuable asset that enables us to gain recognition for our products, services, and technology and enhance our competitive position and market value.
+ 
+As part of our confidentiality procedures, we enter into non-disclosure agreements with our employees and independent contractors, resellers, and corporate partners. We enter into license or subscription services agreements with respect to our software, documentation, and other proprietary information. Our standard license agreements are transferable only in limited circumstances and have a perpetual term. Our subscription services agreements for our hosted and managed solutions restrict access and have a definite term. We also educate our employees on trade secret protection and employ measures to protect our facilities, equipment, and networks.
+ 
+ 13
+
+
+Our trademarks and copyrights are central to our business. We have the following trademarks in the United States:
+ 
+
+● | GlobalSCAPE®, CuteFTP®, CuteFTP Pro®, DMZ Gateway®, EFT Cloud Services ®, GlobalSCAPE Securely Connected®, and Mail Express® are registered trademarks of GlobalSCAPE
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Secure FTP Server™, Wide Area File Services™, WAFS™, CDP™, Advanced Workflow Engine™, AWE™, EFT Server™, EFT Workspaces™, EFT Insight™, Enhanced File Transfer™, Enhanced File Transfer Server™, Secure Ad Hoc Transfer™, SAT™, EFT Server Enterprise™, Enhanced File Transfer Server Enterprise ™, Desktop Transfer Client™, DTC™, Mobile Transfer Client™, MTC™, Web Transfer Client™, Workspaces™, Accelerate™, WTC™, Content Integrity Control™, Advanced Authentication™, AAM™, and scConnect™ are trademarks of GlobalSCAPE.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | TappIn® and design are registered trademarks of TappIn, Inc.
+--+-------------------------------------------------------------
+
+
+● | TappIn Secure Share ™, Social Share ™, Now Playing ™, and Enhanced A La Carte Playlist™ are trademarks of TappIn, Inc.
+--+-----------------------------------------------------------------------------------------------------------------------
+
+ 
+In addition to the United States trademarks listed above, we have trademarks registered in Canada and the European Union for GlobalSCAPE. We have obtained United States copyright registrations for all but the most recent versions of our software applications. We have two patents in the United States.
+ 
+Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to copy aspects of our products or to obtain and use information that we regard as proprietary. Policing unauthorized use of our products, which are licensed by the thousands and sold world-wide, is difficult. While we are unable to determine the extent to which piracy of our software products exists, software piracy is a persistent problem. In selling our products, we rely primarily on click-wrap licenses which are not signed in writing by licensees and may be unenforceable under the laws of certain jurisdictions. Additionally, our new offerings through Microsoft Azure require the platform to present the applicable licensing terms and if we cannot prove that a licensee received the intended notice of the license terms, we may have difficulty enforcing the applicable agreements. The laws of some foreign countries do not protect our proprietary rights to as great an extent as do the laws of the United States. Companies in the software industry, and other patent and trademark holders seeking to profit from royalties in connection with grants of licenses, own large numbers of patents, copyrights, trademarks, service marks, and trade secrets and frequently enter into litigation based on allegations of infringement or other violations of intellectual property rights. We have received, and may receive in the future, communications from third parties asserting that our products infringe, or may infringe, the proprietary rights of third parties, seeking damages resulting from such infringement or indicating that we may be required to obtain a license from or pay a royalty to, such third parties. For more discussion on the risks associated with our intellectual property, you should read the information under the caption “Risk Factors,” especially “Risks Related to Intellectual Property.”
+ 
+Employees
+ 
+Our number of employees is as follows:
+ 
+
+ | March 1, | 
+------------------------------+----------+---
+Department | 2019 | | 2018
+Sales and Marketing | | 38 | | 60 
+Engineering | | 9 | | 28 
+Professional Services | | 6 | | 6 
+Customer Support | | 22 | | 23 
+Management and Administration | | 17 | | 20 
+Total | | 92 | | 137
+
+ 
+ 14
+
+
+On August 3, 2018, we implemented a plan to restructure our organization, which included a reduction in workforce of approximately 40 employees, representing approximately 30% of the Company’s total pre-restructuring workforce. We recorded a charge of $381,000 in the third quarter of 2018 relating to this reduction in force, consisting primarily of one-time severance payments and termination benefits. The Company’s goal in the restructuring is to better focus our workforce on retaining current customers, gaining incremental business from current customers, and winning new business in the market segments where we can leverage our expertise and long history as an EFT pioneer.
+ 
+The Company expects for the realignment to result in a significant reduction in total expenses. Furthermore, to the extent that it can be successfully implemented without negatively impacting revenues or growth opportunities, the realignment offers an opportunity for the Company to realize significant increases in operating earnings in future periods, although there can be no assurance that any such increase will occur.
+ 
+Investigation
+ 
+On August 7, 2017, GlobalSCAPE announced that the Audit Committee of our Board of Directors, assisted by outside legal counsel and independent forensic accountants, had been conducting an investigation (the “Investigation”) into certain transactions in the fourth quarter of 2016. We have since publicly disclosed multiple updates regarding the Investigation. The Investigation, which is now complete, identified transactions which were recorded inconsistently with the Company’s stated revenue recognition policies and criteria.
+ 
+Subsequent to the announcement of the Investigation on August 7, 2017, the Audit Committee and management identified additional transactions which occurred during fiscal year 2016 in which revenue was recorded inconsistently with the Company’s stated revenue recognition policies and criteria including:
+ 
+
+● | Transactions in which license activation keys did not appear to have been delivered to the customer in the period in which the sale was recorded;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Transactions appearing to contain side deal terms negotiated with customers but not reflected in the underlying sales documentation;
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Transactions in which a sale was recorded although the customer had not yet responded to the Company’s request to provide a commitment to purchase;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Transactions in which a sale was made to a reseller whereby collection was not reasonably assured due to payment or other nonstandard terms not consistent with the Company’s revenue recognition policy;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Transactions in which there was either no purchase order or a purchase order dated after the date of the end of the period for which revenue had been previously recognized; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | One transaction which included incorrect vendor specific objective evidence allocation.
+--+----------------------------------------------------------------------------------------
+
+ 
+Additionally, management adjusted our consolidated financial statements as of and for the years ended December 31, 2016 and 2015 to account for immaterial misstatements. These changes in our consolidated financial statements as of and for the year ended December 31, 2015 were in addition to the changes previously disclosed in our original Annual Report on Form 10-K for the year ended December 31, 2016, filed March 27, 2017, as a result of changes in accounting methods and in the classification and presentation of our business activities in our consolidated financial statements.
+ 
+As a result of the Investigation and management’s analysis, we restated (the “Restatement”) (i) our consolidated financial statements as of and for the years ended December 31, 2016 and 2015 and (ii) our condensed consolidated financial statements as of and for the three months ended March 31, 2017.
+ 
+
+ 15
+
+
+Available Information
+ 
+We file annual, quarterly and current reports, proxy statements and other information with the SEC. You may read and copy any document we file with the SEC at the SEC’s public reference room at 100 F Street, NE, Room 1580, Washington, D.C. 20549. Please call the SEC at 1-800-SEC-0330 for information on the public reference room. The SEC maintains an Internet web site that contains annual, quarterly and current reports, proxy statements and other information that issuers (including GlobalSCAPE) file electronically with the SEC. The SEC’s web site is www.sec.gov. Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and other reports and amendments filed with the SEC are available free of charge on our web site at www.globalscape.com in the Investor Relations section as soon as practicable after such reports are filed. Information on our website is not incorporated by reference into this Annual Report and should not be considered part of this Annual Report or any other filing that we make with the SEC.

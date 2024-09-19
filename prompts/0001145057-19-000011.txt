@@ -1,0 +1,190 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS 
+Overview
+Forescout Technologies, Inc. (“Forescout”) is the leading provider of device visibility and control solutions. We have pioneered an agentless approach to device visibility and control that provides one of the most comprehensive, real-time identification, classification, assessment and continuous control over the devices, that collectively, comprise an organization’s network. This network extends across the campus information technology (“IT”) devices, the campus Internet of Things (“IoT”) devices, operational technology (“OT”) devices, the data center, and within the third-party cloud. The devices that comprise this vastly heterogeneous and flat (non-segmented) network are continuously monitored for purposes of taking real-time control action when those devices behave in a manner outside of established policies. Through continuous visibility and control over the devices, each of which is an entry point for malware to enter and for corporate and customer information to exit, we protect organizations against the emerging threats that exploit the billions of devices connected to organizations’ networks. Over 30 billion devices will be connected to the Internet by 2022, according to data published by ABI Research*, and a growing percentage of them will be used for business purposes through Enterprise IoT initiatives. In addition, in its Top Strategic IoT Trends and Technologies Through 2023 report (September 2018), Gartner, Inc. estimates that, by 2023, the average CIO will be responsible for more than three times the devices they managed in 2018.**
+IoT devices often bring tremendous value to an organization and OT devices are fundamental to an organizations’ infrastructure and revenue generation. As such, the percentage of the network that is comprised of these devices will continue to increase, and, as evidenced by trends emerging in many of our end-customers’ organizations, will actually surpass, in quantity, the number of devices that are secured using the traditional approach of relying on a corporate-installed security software agent. Given that IoT devices, OT devices, and virtual devices within a third-party cloud provider cannot be adequately secured with the traditional approach of relying on a corporate-installed security software agent on those devices, organizations are faced with a major gap in device visibility and lack of control over a significant portion of their network. Also contributing to that gap are the wide varieties of platforms and operating systems on these devices that are something other than Microsoft Windows, UNIX or LINUX operating systems commonly found on traditional corporate-owned, IT managed devices. 
+The threat landscape is rapidly evolving, and attackers are now leveraging the gap in device visibility to gain access to organizations. New attacks are stealthy, targeted, and pervasive and can target known and unknown software vulnerabilities that can persist undetected inside a network for months. As organizations invest billions of dollars to protect their traditional devices, servers, network infrastructure, mobile systems, and personal computers, attackers are shifting their focus to the less secure IoT and OT devices, which have increased the attack surface within organizations. Attackers use these unsecured devices and a lack of IT control to enter a network and traverse through systems, gathering information before executing an attack. The response to such attacks is often both uncoordinated and manual because existing security systems operate in silos and security teams often lack the ability to share information and coordinate an attack response. Further compounding this issue is the continued trend of IT/OT network convergence, in which previously air-gapped OT networks are physically connected to traditional IT networks, exposing operational technologies and critical infrastructure to potential threats.
+Organizations need a new approach to security that gives them the ability to see and control the devices connected to their extended networks. Over the past ten years, Forescout has developed proprietary agentless technology that discovers and classifies IP-based devices in real time as they connect to the network and continuously monitors and assesses their security posture. Our solution supports heterogeneous wired and wireless networks, typically without requiring network modification or upgrades, as well as both virtual and cloud infrastructures, while scaling to meet the needs of globally distributed organizations. We have built an extensive repository of policies that control how devices are expected to behave on the network. When a device deviates from a policy, we can immediately take action. Additionally, we offer integrations with third-party systems that expand upon our visibility and control capabilities and allow us to share contextual device data and deliver automatic policy enforcement between our system and the third-party systems. This is enforcement that neither our solution nor the third-party solution could do individually. Collectively, we refer to this as our orchestration capabilities. 
+Our solution is sold across two product groups: (i) products for visibility and control capabilities, and (ii) products for orchestration capabilities. Typically, end-customers initially deploy our solution in a portion of their campus IT and IoT network or in a portion of their OT network. Because our solution is agentless and supports heterogeneous network infrastructure, end-
+6
+*ABI Research, Internet of Everything Market Tracker, QTR 3, 2108. 
+**Gartner, Inc., Top Strategic IoT Trends and Technologies Through 2023, Nick Jones, September 2018. The Gartner Report(s) described herein, (the "Gartner Report(s)") represent(s) research opinion or viewpoints published, as part of a syndicated subscription service, by Gartner, Inc. ("Gartner"), and are not representations of fact. Each Gartner Report speaks as of its original publication date (and not as of the date of the Filing and the opinions expressed in the Gartner Report(s) are subject to change without notice.
+
+customers experience rapid deployment of the Forescout platform including compliance assessment of their devices within days. They then apply these detailed visibility insights to various access control policies. Anecdotally, an end-customer might begin in a specific region in their wired or wireless network within their campus IT and IoT network, for example - then expand their usage to cover additional regions and other portions of their network. After end-customers achieve enhanced visibility of and control over their devices, and before they have completed their wall-to-wall deployment in any specific portion of the network, they can deploy new use cases that often leverage our orchestration capabilities on that portion of the network. 
+We sell into organizations of all sizes, with a focus on those with a large footprint of devices. Our end-customers represent a broad range of industries, including financial services, government, healthcare, technology, manufacturing, services, energy, entertainment, and retail. We target the largest accounts in each industry first to establish reference accounts for that sector. As of December 31, 2018, we have sold to nearly 3,300 end-customers in over 80 countries, including 21% of the Global 2000, since our inception, with nearly 65 million devices under management. We utilize a high-touch direct sales force with deep security expertise and strong industry relationships. We sell our products predominantly through a network of value added resellers and systems integrators that provide a broad reach into various segments of the market across geographies.
+We have experienced rapid growth in recent periods. For the years ended December 31, 2018, 2017, and 2016, our revenue was $297.7 million, $224.4 million, and $167.5 million, respectively, representing year-over-year growth of 33% and 34%, respectively. For the years ended December 31, 2018, 2017, and 2016, our net loss was $74.8 million, $80.7 million, and $65.5 million, respectively. 
+Our Growth Strategy
+We intend to execute on the following growth strategies:
+
+• | Expand within our existing end-customers as more devices enter the enterprise and as we expand to new parts of their network. We expect to grow within our end-customer base as more devices come online within the enterprise. Our product revenue is directly tied to the number of licensed devices managed by our solution; therefore, we sell more product as more devices come online. As of December 31, 2018, we had sold products with licenses covering nearly 65 million devices. End-customers often expand usage of our products as they realize the value and applicability to other areas within an organization. We expect to grow as our end-customers extend their use of our solution across campus IT and IoT portions of the network which are characterized as wired networks and wireless networks (remote and visitor devices), the operational technology portion of the network, the on-premise data center portion of the network, and the portion of their network that is now hosted by a third-party cloud provider. As of December 31, 2018, we had sold products with licenses covering nearly 65 million devices, 23% (or approximately 15 million) of those device licenses were purchased during the year ended December 31, 2018.
+
+
+• | Grow global end-customer base. We have invested significantly, and plan to continue to invest, in our sales organization to drive new end-customer growth. During the year ended December 31, 2018, we added more than 500 new customers, of which more than 60 are identified in the list of Global 2000. We now count six of the top 10 financial services companies, five of the top 10 manufacturing companies, numerous large healthcare companies and 11 of the 14 civilian cabinets within the United States federal government as customers that are standardizing with Forescout for device visibility and control.
+
+
+• | Increase sales of our Extended Modules. We are seeing strong demand for our Extended Modules as end-customers are realizing the value of the orchestration capabilities enabled with these integration modules. As of December 31, 2018, 27% of our end-customers have purchased at least one Extended Module, up from 23% as of December 31, 2017. During the year ended December 31, 2018, approximately one-third of product deals included at least one Extended Module, up from one-fourth of product deals during the year ended December 31, 2017. As of December 31, 2018, we had a portfolio of over 20 Extended Modules. We have also established an Alliance Partner program that allows us to productize these integrations and leverage joint go-to-market efforts. 
+
+
+• | Expand our presence in the market by leveraging our ecosystem of channel partners. We will continue to broaden and invest in our value added and system integrator channel partner relationships to increase distribution of our products. We are focused on educating existing partners and investing in sales enablement to expand our market reach through our channel partner network, particularly into mid-market enterprises.
+
+7
+
+Our Products
+We offer our solution across two product groups: (i) products for visibility and control capabilities and (ii) products for orchestration capabilities.
+
+• | Our products for visibility and control capabilities are comprised of CounterACT and SilentDefense. Our CounterACT product provides for visibility and control capabilities across campus IT and IoT devices, OT devices, data center physical and virtual devices and cloud virtual devices. Our SilentDefense product provides for visibility and control capabilities deeper within the OT portion of the network. On February 20, 2019, we announced that, in March 2019, our products for the visibility and control capabilities of CounterACT will be offered as Forescout eyeSight and Forescout eyeControl, respectively. In addition, we expect to rename and rebrand the SilentDefense product line in 2019. This is a simple rebranding and renaming of our products and we do not believe this exercise will have a material impact on our consolidated financial statements. Our agentless technology discovers, classifies, and assesses IP-based devices. It interrogates the network infrastructure to discover devices immediately as they attempt to connect to the network. Since it does not rely on agents, our end-customers have reported seeing up to 60% more devices on their networks than previously known. After discovering a device, our solution uses a combination of active and non-disruptive passive methods to classify the device based on its type and ownership. Based on its classification, our solution then assesses the device security posture and allows organizations to set policies that establish the specific behavior the device is allowed to have while connected to a network. The connected devices on these vastly heterogeneous and flat (non-segmented) networks are continuously monitored for purposes of taking real-time control action when those devices behave in a manner outside of established policies. Control actions vary, based on our customers’ preferences, and include blocking a device from accessing the network, establishing a Virtual Local Area Network (“VLAN”) that limits access on the network, and sending alerts of non-compliance. 
+
+
+• | Our products for orchestration capabilities are comprised of our portfolio of over 20 Extended Modules. On February 20, 2019, we announced that, in March 2019, our products for the orchestration capabilities of the Forescout platform will be offered under the Forescout eyeExtend family of products. This is a simple rebranding and renaming of our products and we do not believe this exercise will have a material impact on our consolidated financial statements. Our Extended Modules represent integrations with vendors across nine categories: advanced threat detection, client management tools, enterprise mobility management, endpoint protection, detection and response, IT Systems Management, next-generation firewall, privileged access management, security information and event management and vulnerability assessment. Additionally, end-customers can create their own integrations using our Open Integration Module or utilize our Advanced Compliance Module for security content automation protocol. 
+
+
+• | Advanced Threat Detection (“ATD”): The combined solution automatically detects indicators of compromise (“IOCs”) and quarantines infected devices, thereby limiting malware propagation and breaking the cyber kill chain. 
+
+
+• | Client Management Tools (“CMT”): The combined solution provides visibility and control of devices while they’re off the enterprise network. 
+
+
+• | Enterprise Mobility Management (“EMM”): The combined solution facilitates unified security policy management for mobile devices. 
+
+
+• | Endpoint Protection, Detection and Response (“EPP/EDR”): The combined solution verifies device compliance for functional antivirus, up-to-date signatures, encryption and other endpoint policies and facilitates remediation actions. 
+
+
+• | IT Service Management (“ITSM”): The combined solution provides up-to-date device properties, classification, configuration and network context to help true-up assets in a configuration management database (“CMDB”), improve asset compliance, and maintain a trusted single-source-of-truth repository for better decision-making. 
+
+
+• | Next Generation Firewall (“NGFW”): The combined solution uses real-time situational awareness about devices to implement dynamic network segmentation, automate controls for secure access to critical resources and create context-aware security policies within industry-leading next-generation firewalls.
+
+8
+
+
+• | Privileged Access Management (“PAM”): The combined solution provides real-time agentless visibility into undiscovered local privileged accounts and automated responses to threats based on holistic visibility into user activity, device security posture, incident severity, and overall threat exposure. 
+
+
+• | Security Incidence and Event Management (“SIEM”): The combined solution improves situational awareness and mitigates risks using advanced analytics and comprehensive device information, including IoT classification and assessment context for correlation and incident prioritization.
+
+
+• | Vulnerability Assessment (“VA”): The combined solution ensures devices be added to the network for the first time or ones rejoining the network (such as mobile devices) meet defined vulnerability compliance thresholds. Additionally, the solution automates policy-based enforcement actions. 
+
+
+• | Open Integration Module (“OIM”): Allows end-customers, systems integrators and technology vendors to integrate custom applications, security tools and management systems with our platform. 
+
+
+• | Advanced Compliance Module for Security Content Automation Protocol (“SCAP”): Automates on-connect and continuous device configuration assessment to comply with standards-based security benchmarks and content published in the SCAP format. 
+
+We offer our solution across two product types: software products and hardware products
+
+• | Our software products include CounterACT, Extended Modules, CounterACT Virtual Appliance, CounterACT Enterprise Manager Virtual Appliances, SilentDefense and SilentDefense Command Center.
+
+
+• | Our hardware products include hardware that is sold separately for use with CounterACT or SilentDefense, CounterACT Appliances (hardware appliances that are embedded with CounterACT), and CounterACT Enterprise Manager Appliances.
+
+ We offer our solution across license types and increments
+
+• | Our products are sold with a perpetual license, with the exception of our SilentDefense products, which are sold with either a perpetual license or a subscription license.
+
+
+• | End-customers can purchase in license increments of 100 devices, with hardware sold separately based on customer deployment requirements. End-customers can manage their deployments of our products in various options that can scale and manage deployments of up to 2,000,000 devices under a single console. End-customers can purchase our SilentDefense products in license increments that are on a per site basis. 
+
+Our Technology
+The key technologies underlying our platform have been built from the ground up to address the device visibility and control challenges of today. Our foundational technologies are: (i) agentless data collection, (ii) an adaptive abstraction layer, (iii) a real time and continuous policy engine, and (iv) distributed and scalable architecture. We have invested over ten years of research and development into our technology and believe it represents a significant competitive advantage for us.
+Agentless data collection. Our software uses a combination of both active and passive methods to discover, classify, and assess devices in an organization’s network. Utilizing active discovery methods, we can poll switches, VPN concentrators, and wireless controllers for a list of connected devices. Using NBT scans and NMAP, or via WMI for deeper inspection of corporate-managed devices, we can inspect workstations running Windows, Mac, or Linux, without the use of agents. We also deploy passive inspection methods that allow our appliances to receive SNMP traps from switches and wireless controllers, monitor a network SPAN port to see network traffic, and leverage information such as TCP window sizes, session information, HTTP traffic, and DHCP information banners as well as NetFlow traffic data. If 802.1x is implemented, our technology can authenticate 802.1x requests to a built-in or external RADIUS server, and authorize network access. In addition, our technology can import external MAC classification data or request LDAP data. Power over Ethernet (PoE) is an additional method available. 
+Adaptive abstraction layer. Our abstraction layer is able to ingest billions of packets of raw data across a wide array of heterogeneous network systems. We then consolidate this data into a single pane of glass showing our end-customers a real-
+9
+
+time depiction of the devices on their networks by type. Our solution does not require vendor-specific network equipment, upgrades of existing infrastructure, or reconfiguration of each switch and switch port to support 802.1x. As organizations adopt virtual and cloud environments, our technology has the flexibility to integrate with hypervisor technologies and cloud platforms. 
+The abstraction layer adapts to the IT enterprise environment and continuously enriches its information as organizations make more data available. As an example, organizations can choose to consume only NetFlow data, which is only the metadata of the actual network traffic. With this information, our solutions expedite detection of new devices, collects device properties such as IP address and session protocols, and understands which devices are talking to each other. If organizations choose to give our technology full access to their network traffic through a SPAN port, we can build on this and provide very granular information such as MAC address, HTTP user agent, device type, applications in use, and the ability to identify malicious traffic.
+Real-time and continuous policy engine. Our policy engine continuously checks devices against a set of policies that control how devices are expected to behave on the network. While other vendor technologies rely on periodic checks, or queries from an operator, our policy engine can do this continuously and in real-time for over two million devices. Our policies are triggered in real-time based on events occurring on a specific device. These can be network admission events, such as plugging into a switch port or change of IP address, authentication events like those received by RADIUS servers or detected by network traffic, changes in device attributes like user, opening/closing of ports, and specific traffic behavior such as how the device is communicating and what protocol it is using. 
+The policy engine leverages both infrastructure and host-based controls. At the network switch, our technology can change a Virtual Local Area Network (“VLAN”), add an Access Control List (“ACL”), or disable a switch port. At a wireless controller, we can blacklist a MAC address or change the role of a user. In addition, our technology can restrict remote VPN users. At the host, our technology can start and stop applications, update anti-virus security agents, disable peripheral devices, and request end-user acknowledgment. The policy engine applies these policies automatically regardless of a device’s location. As the device moves, the policy engine can follow it within the corporate network, cloud, or data center. We determine the type of infrastructure and, based on policy, apply the appropriate control actions.
+Distributed, scalable architecture. Our console uses distributed computing algorithms to virtually consolidate the device information into a single pane of a glass view for the administrator. The algorithms allow the administrator to search for security related information such as users, processes, and services across the entire deployment in real time, and retrieve it in seconds.
+Our Services
+End-customers typically purchase maintenance and professional services when they purchase one or more of our products. Our support and maintenance contracts typically have a one-year or three-year term. We offer a portfolio of professional services and extended support contract options to assist with additional deployment and ongoing advanced technical support. 
+Maintenance and Support Services
+We offer technical maintenance and support for our solution to our end-customers. We provide two levels of maintenance and support, including premium-level support for coverage 24 hours a day, seven days a week on a global basis. Our end-customers receive post-sale support through online portals, email and telephone, managed by a single point of contact. 
+Professional Services 
+We offer professional services to end-customers to help them design, plan, deploy, and optimize our solution. We also provide training on solution administration and emerging security best practices. We also provide professional services through our channel partners.
+Our Customers 
+Since our inception, we have sold to nearly 3,300 end-customers in over 80 countries, including 21% of the Global 2000, with nearly 65 million devices under management. We sell into all industries and into organizations of all sizes, including corporations and government agencies. Our end-customers generally purchase from distributors and/or VARs.
+10
+
+Sales and Marketing
+Sales
+We deploy a direct-touch channel-fulfilled strategy. Our customer acquisition sales cycle is typically nine to 24 months, depending on the industry and size and scope of deployment. Our expansion sales cycle is typically three to 12 months, as our customers buy more licenses to cover the additional devices that enter their network after their initial purchase and as we expand into other parts of their network, generally into their other campus environments or beyond campus and into OT, data center and cloud. We have a direct field sales team and a dedicated team focused on managing relationships with our channel partners and working with our channel partners to support our end-customers. We expect to continue to grow our sales headcount in areas of highest demand for our solution. Generally, our sales representatives become more productive the longer they are with us, with limited productivity in their first few quarters as they learn to sell our products and participate in field training, but with increasing productivity as they acquire accounts and as those accounts begin their expansion purchases for additional devices, additional parts of their network and orchestration capabilities. Our sales representatives’ annual productivity historical trends indicate, as a cohort, that their productivity in their second full year is more than double their productivity in their first full year and that their productivity in years after their second full year are more than 50% higher than their productivity in their second year. As of December 31, 2018, 50% of our sales representatives have been with us for more than two years, up from 35% as of December 31, 2017. For the year ended December 31, 2018, each of the sales representatives’ annual cohorts are producing at levels at or better than in their prior year. 
+Our sales team is supported by sales engineers with deep technical expertise who are responsible for pre-sales technical support, solutions engineering for our end-customers, proof of concept work and technical training for our channel partners.
+Marketing
+Our marketing efforts are focused on building brand reputation and awareness to generate customer demand and build a strong sales pipeline, working in conjunction with our channel partners around the globe. Our team consists of corporate marketing, product marketing, partner marketing, field and digital marketing, account and lead development, operations, social media, public relations, and corporate communications. Marketing activities include demand generation, managing our corporate website and partner portal, trade shows and conferences, press, and analyst relations. Our sales development representatives also qualify sales leads and facilitate face-to-face meetings with potential customers. We actively drive thought leadership and tell our technology story by engaging industry analysts and top journalists at business and trade publications, as well as direct to customers via social media and other digital marketing channels.
+Partner Ecosystem
+We actively foster and develop our partner ecosystem to find and work with high quality partners who provide our solution to end-customers. Our sales force and strategic alliance group are responsible for cultivating these partnerships to establish new opportunities for delivering our solution to new and existing end-customers.
+Channel Partners
+We leverage the global breadth and reach of the channel ecosystem, including value-added resellers and distributors, to fulfill orders and sell to our mid-market end-customers. We dedicate significant resources to building in-depth relationships with our channel partners, including marketing, technical, and sales support to assist in jointly sourcing and closing sales opportunities. 
+Alliances Partners
+We have established an Alliance Partner program that allows us to productize technical integrations with third-party security vendors and leverage joint go-to-market efforts.
+Research and Development
+We invest substantial resources in research and development to consistently enhance features and capabilities of our solution. Our research and development teams are located in Tel Aviv, Israel; San Jose, California; Eindhoven, The Netherlands; and Dallas, Texas. We plan to continue to significantly invest in resources to conduct our research and development effort.
+11
+
+Competition
+We operate in the intensely competitive security market that is characterized by constant change and innovation. The threat landscape is growing faster than the security market, drawing new providers and new functionality from existing providers to address dynamic threat vectors. We compete with security providers in the following categories: 
+
+• | the large networking vendors, Cisco and HP Enterprise Company; and
+
+
+• | independent security vendors that offer products that perform some of the functions of our solution.
+
+The principal competitive factors in our market include:
+
+• | effectiveness;
+
+
+• | features and functionality;
+
+
+• | global support capabilities;
+
+
+• | scalability and overall performance;
+
+
+• | time to value;
+
+
+• | integration capabilities with heterogeneous network infrastructure and security tools;
+
+
+• | brand awareness and reputation;
+
+
+• | strength of sales and marketing efforts;
+
+
+• | size and scale of organization;
+
+
+• | price and total cost of ownership; and
+
+
+• | customer return on investment.
+
+We believe we compete favorably with our competitors on the basis of these factors as a result of the features and performance of our solution, the ease of integration of our products with network infrastructure, and the breadth of our capabilities. However, many of our competitors have substantially greater financial, technical and other resources, greater name recognition, larger sales and marketing budgets, deeper customer relationships, broader distribution, and larger and more mature intellectual property portfolios.
+Manufacturing
+We outsource the final assembly of the off-the-shelf-Dell-components that comprise the hardware that is sold separately along with our software, or which has our software embedded, to a single third-party contract manufacturer, Arrow Electronics, Inc. (“Arrow”). This approach allows us to reduce our costs by decreasing our manufacturing overhead and inventory and also allows us to adjust more quickly to changing end-customer demand. Arrow assembles our product using design specifications, quality assurance programs and standards that we establish, and it procures components and assembles our products based on our demand forecasts. These forecasts represent our estimates of future demand for our products based on historical trends and analysis from our sales and product management functions as adjusted for overall market conditions.
+We have entered into a written agreement with Arrow pursuant to which Arrow provides its contract manufacturing services. This agreement continues in effect until either party terminates, with or without cause, by giving 90 days prior written notice. 
+Seasonality and Backlog 
+We experience seasonality in our business, with sales generally stronger in our third and fourth fiscal quarters. For this reason, we do not believe that our product backlog at any particular time is meaningful because it is not necessarily indicative of future revenue in any given period as such orders may be rescheduled by our partners without penalty or delayed due to inventory constraints.
+12
+
+Intellectual Property
+Our success depends in part upon our ability to protect our core technology and intellectual property. We rely on, among other things, patents, trademarks, copyrights, and trade secret laws, confidentiality safeguards and procedures, and employee non-disclosure and invention assignment agreements to protect our intellectual property rights. We have seven U.S-issued patents, which expire between November 24, 2019 and October 29, 2035, 20 patent applications pending in the United States, and 18 pending foreign counterpart patent applications in a non-U.S. jurisdiction. We also have 14 issued foreign counterparts of these patents. We also license software from third parties for integration into our products, including open source software and other software available on commercially reasonable terms.
+We control access to and use of our proprietary software, technology and other proprietary information through the use of internal and external controls, including contractual protections with employees, contractors, end-customers, and partners, and our software is protected by U.S. and international copyright, patent, and trade secret laws. In addition, we intend to expand our international operations and effective patent, copyright, trademark, and trade secret protection may not be available or may be limited in foreign countries.
+See the section titled “Risk Factors—Failure to protect our proprietary technology and intellectual property rights could substantially harm our business and results of operations” for additional information.
+Employees
+As of December 31, 2018, we had 1,116 employees, including 1,098 full-time employees. 
+None of our employees are represented by a labor organization or are a party to any collective bargaining arrangement. None of our employees located in France, Spain, Germany and The Netherlands are currently covered by industry-wide collective bargaining agreements. We have never had a work stoppage, and we consider our relationship with our employees to be good.
+Corporate Information
+We were incorporated in Delaware in April 2000. We completed our initial public offering (“IPO”) in October 2017 and our common stock is listed on The NASDAQ Global Market. Our principal executive offices are located at 190 West Tasman Drive, San Jose, California 95134. Our main telephone number is (408) 213-3191.
+Several trademarks and trade names appear in this prospectus. “Forescout” and “CounterACT” are the exclusive properties of Forescout Technologies, Inc., are registered with the U.S. Patent and Trademark Office, and may be registered or pending registration in other countries. Other trademarks, service marks, or trade names appearing in this Annual Report on Form 10-K are the property of their respective owners.
+Our website address is located at www.forescout.com, and our investor relations website is located at http://investors.forescout.com/investor-relations. Copies of our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to these reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, or the Exchange Act, are available, free of charge, on our investor relations website as soon as reasonably practicable after we file such material electronically with or furnish it to the Securities and Exchange Commission (the “SEC”). The SEC also maintains a website that contains our SEC filings. The address of the site is www.sec.gov. 
+We also use our website and the investor relations page on our website as channels of distribution for important company information. Important information, including press releases, analyst presentations and financial information regarding us, as well as corporate governance information, is routinely posted and accessible on our investor relations website and social media. It is possible that the information that we post on social media could be deemed to be material information. Therefore, we encourage investors, the media and others interested in us to review the information we post on U.S. social media channels listed on the investor relations page on our website. Information contained on, or that can be accessed through, our website or social medial sites does not constitute part of this Annual Report on Form 10-K or any other report or document we file with the SEC, and any references to our website and social media sits are intended to be inactive textual references only.
+13
+
