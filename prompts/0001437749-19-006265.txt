@@ -1,0 +1,145 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1 - Business. 
+ 
+Towerstream Corporation (“Towerstream”, “we”, “us”, “our” or the “Company”) is primarily a provider of fixed wireless services to businesses in twelve major urban markets across the U.S. During its first decade of operations, the Company's business activities were focused on delivering fixed wireless broadband services to commercial customers over a wireless network transmitting over both regulated and unregulated radio spectrum. Our fixed wireless service supports bandwidth on demand, wireless redundancy, virtual private networks, disaster recovery, bundled data and video services. We provide services to business customers in New York City, Boston, Chicago, Los Angeles, San Francisco, Seattle, Miami, Dallas-Fort Worth, Houston, Philadelphia, Las Vegas-Reno and Providence-Newport. Our "Fixed Wireless Services Business" ("Fixed Wireless" or "FW") has historically grown both organically and through the acquisition of five other fixed wireless broadband providers in various markets.
+ 
+We offer fixed wireless business internet service in three product categories: Business Class Internet, Temporary Internet Solutions, and Wholesale Internet Service. This unique portfolio of bandwidth services is able to scale our existing target markets, from small businesses to Fortune 500 companies. Such service is as fast as fiber and equally as stable.
+ 
+Under the Business Class Internet category, we offer two types of service: Single Tenant Service and On-Net Service. Under the Single Tenant Service offering, we deliver fixed wireless broadband to a single client through a radio receiver/transmitter on the client’s building dedicated solely to that client. We estimate an addressable market opportunity of approximately 392,000 buildings within four miles of the 175 Points-of-Presence (“PoP”) located within the twelve major markets in which we provide service. Currently, we are offering bandwidth speeds ranging from 5Mbps (Megabits per second) to 10Gbps (Gigabits per second) in the Single Tenant Internet Service category with an increased focus on bandwidth speeds of 100Mbps or greater.
+ 
+Under the On-Net Internet Service offering, we are able to connect, or “light”, an entire building at once and at a cost similar to what was traditionally required for one high bandwidth customer requiring point-to-point equipment. This can be accomplished, in part, because the capabilities of the equipment installed by us have improved even as the costs of the equipment have decreased. As a result, we are able to leverage the initial installation cost to serve an entire building’s tenant base. In place of a wireless install for every single customer in the building, we now only have to install the wireless portion of the install once. Subsequent customers are connected by simply running a wire to the common space in the building where the wireless service terminates. Additionally, instead of having multiple antennas on both the customer building and the PoP, there generally needs to be only one antenna on each location. We are offering 20Mbps to 1.5Gbps in this product category with an increased focus on bandwidth speeds of 100Mbps or greater.
+ 
+Under the Temporary Internet Service offering, we are able to provide solutions for a client’s short-term connection requirements in locations where fiber, copper, and cable infrastructure does not exist or is cost prohibitive. With connections available for days, weeks, or months, this solution is ideal for concerts, special events, conferences, trade shows, television and movie productions, construction projects and more.
+ 
+In August 2017, the Company created a new wholesale division that provides last-mile services to telecommunications carriers in North America. Under the Wholesale Internet Service offering, we are able to deliver both Dedicated Internet Access (DIA) and Point-to-Point Transport solutions with bandwidth options from 5Mbps to 10Gbps. By using our fixed wireless network, our wholesale partners bypass the extensive installation times of our fiber competitors. Our competitive advantages enable our partners to provide solutions their customers need quickly, reliably and cost effectively. Sales and marketing efforts have been restructured to create a more disciplined approach to identify and target prospective customers. By leveraging existing software tools, our sales and marketing organization can identify 392,000 buildings within four miles of our PoPs that house customers with the highest propensity to buy our services. This focused approach allows our sales force to target the subset of buildings that have confirmed line-of-sight and also lack fiber. This segmentation of our prospect database enables us to focus on prospects that align with prospective customers that are most likely to need and buy our services and continues to assist our sales professionals to shorten the sales cycle and achieve volume and velocity.
+ 
+In March 2018, the Company announced that its Board of Directors commenced an evaluation of strategic repositioning of the Company as it moves to leverage its existing key assets in major U.S. markets. In conjunction with such announcement, the Company began to focus on indirect and wholesale channels and retained Bank Street Group LLC as its independent financial advisor to explore strategic alternatives, including the sale of some or all of the Company’s business or assets.  The Company has not set a definitive timetable for the completion of its review of strategic alternatives and there can be no assurances that the process will result in a transaction. Any potential strategic alternative will be evaluated by the board. The Company does not intend to discuss developments with respect to the evaluation process unless a transaction is approved, or further disclosure becomes appropriate.
+ 
+ 2
+
+
+
+Our Network
+ 
+The foundation of our network consists of PoPs which are generally located on very tall buildings in each urban market. We enter into long-term lease agreements with the owners of these buildings which provide us with the right to install communications equipment on the rooftop. We deploy this equipment in order to connect customers to the Internet. Each PoP is "linked" to one or more other PoPs to enhance redundancy and ensure that there is no single point of failure in the network. One or more of our PoPs are located in buildings where national Internet service providers such as Cogent or Level 3 are located, and we enter into IP transit or peering arrangements with these organizations in order to connect to the Internet. We refer to the core connectivity of all of our PoPs as a “Wireless Ring in the Sky.” Each PoP has a coverage area averaging approximately six miles although the distance can be affected by numerous factors, most significantly, how clear the line of sight is between the PoP and a customer location.
+ 
+Our network does not depend on traditional copper wire or fiber connections which are the backbone of many of our competitors' networks. We believe this provides us with an advantage because we may not be significantly affected by events such as natural disasters and power outages. Conversely, our competitors are at greater risk as copper and fiber connections are typically installed at or below ground level and more susceptible to network service issues during disasters and outages.
+ 
+Markets
+ 
+We launched our fixed wireless business in April 2001 in the Boston and Providence markets. In June 2003, we launched service in New York City and followed that with our entry into the Chicago, Los Angeles, San Francisco, Miami and Dallas-Fort Worth markets at various times through April 2008. Philadelphia was our last market launch in November 2009. We entered the Seattle, Las Vegas-Reno, and Houston markets through acquisitions of service providers based in those markets. We also expanded our market coverage and presence in Boston, Providence, and Los Angeles through acquisitions.
+ 
+We determine which geographic markets to enter by assessing criteria in four broad categories. First, we evaluate our ability to deploy our service in a given market after taking into consideration our spectrum position, the availability of towers and other mounting structures. Second, we assess the market by evaluating the number of competitors, existing price points, demographic characteristics and distribution channels. Third, we evaluate the economic potential of the market, focusing on our forecasts of revenue opportunities and capital requirements. Finally, we look at market clustering opportunities and other cost efficiencies that might be realized. Based on this approach, as of December 31, 2018, we offer wireless broadband connectivity in 12 markets, of which 10 are in the top 20 metropolitan areas in the United States based on the number of small to medium businesses in each market. These 10 markets cover approximately 28% of small and medium businesses (5 to 249 employees) in the United States based on information obtained from AtoZDatabases.com.
+ 
+We believe there are market opportunities beyond the 12 markets in which we are currently offering our services. Our long-term plan is to expand nationally into other top metropolitan markets in the United States. We believe that acquisitions represent a more cost effective manner to expand into new markets rather than to build our own infrastructure. Since 2010, we have completed five acquisitions, of which two were in new markets and three expanded our presence in existing markets. We have paid for these acquisitions through a combination of cash and equity, and believe that future acquisitions will be paid in a similar manner. Our decision to expand into new markets will depend upon many factors including the availability of financing, the timing and frequency of acquisitions, national and local economic conditions, and the opportunity to leverage existing customer relationships in new markets.
+ 
+Sales and Marketing
+ 
+We employ an inside direct sales force model to sell our services to business customers. As of December 31, 2018, we employed two direct sales people. We generally compensate these employees on a salary plus commission basis.
+ 
+Sales through indirect channels comprised 34% of our total revenues during the year ended December 31, 2018 compared with 35% during the year ended December 31, 2017. Our channel program provides for recurring monthly residual payments ranging from 8% to 25%.
+ 
+In 2017, the Company began to implement new sales and marketing strategies to leverage the Company’s state-of-the-art fixed wireless network to serve both enterprise and service providers. The three main pillars of this strategy are price, speed to market, and reliability.
+ 
+ 3
+
+
+
+Competition
+ 
+The market for broadband services is highly competitive and includes companies that offer a variety of services using a number of different technology platforms, including cable networks, digital subscriber lines (“DSL”), fiber Internet service providers, third, fourth, and fifth-generation cellular, satellite, wireless Internet service and other emerging technologies. We compete with these companies on the basis of portability, ease of use, speed of installation and price. Competitors to our wireless broadband services include:
+Incumbent Local Exchange Carriers and Competitive Local Exchange Carriers
+ 
+We face competition from traditional wireline operators in terms of price, performance, discounted rates for bundles of services, breadth of service, reliability, network security, and ease of access and use. In particular, we face competition from Verizon Communications Inc. and AT&T Inc., which are referred to as “incumbent local exchange carriers”, as well as competitive local exchange carriers.
+Cable Modem, DSL, and Fiber Services
+ 
+We compete with companies that provide Internet connectivity through cable modems, DSL, and fiber services. Principal competitors include cable companies, such as Comcast Corporation (including their Xfinity product), Spectrum Communications (previously known as Charter Communications), Cox Communications and incumbent telecommunications companies, such as AT&T Inc. or Verizon Communications Inc. Both the cable and telecommunications companies deploy their services over wired networks initially designed for voice and one-way data transmission that have subsequently been upgraded to provide for additional two-way voice, video and broadband services.
+ 
+Cellular and CMRS Services
+ 
+Cellular and other Commercial Mobile Radio Service (“CMRS”) carriers are seeking to expand their capacity to provide data and voice services that are superior to ours. These providers have substantially broader geographic coverage than we have and, for the foreseeable future, than we expect to have. If one or more of these providers can deploy technologies that compete effectively with our services, the mobility and coverage offered by these carriers will provide even greater competition than we currently face. Moreover, more advanced cellular and CMRS technologies, such as fourth generation Long Term Evolution (“LTE”) mobile technologies, and fifth generation millimeter wave technology currently offer broadband service with packet data transfer speeds of up to 2,000,000 bits per second for fixed applications, and slower speeds for mobile applications. We expect that LTE technology will be improved to increase connectivity speeds to make it more suitable for a range of advanced applications.
+ 
+Wireless Broadband Service Providers
+ 
+We also face competition from other wireless broadband service providers that use licensed and unlicensed spectrum. In connection with our merger and acquisition activities, we have determined that most of our current and planned markets already have one or more locally based companies providing wireless broadband Internet services. In addition, many local governments, universities and other related entities are providing or subsidizing Wi-Fi networks over unlicensed spectrum, in some cases at no cost to the user. There exist numerous small urban and rural wireless operations offering local services that could compete with us in our present or planned geographic markets.
+Satellite 
+
+Satellite providers, such as Hughes Network Systems, LLC, offer broadband data services that address a niche market, mainly less densely populated areas that are unserved or underserved by competing service providers. Although satellite offers service to a large geographic area, latency caused by the time it takes for the signal to travel to and from the satellite may challenge a satellite provider’s ability to provide some services, such as Voice over Internet Protocol (“VoIP”), which reduces the size of the addressable market. Satellite providers are currently seeking additional frequencies from the FCC that would enable them to provide more robust fixed wireless services.
+Other 
+
+We believe other emerging technologies may also seek to enter the broadband services market. For example, we are aware that several power generation and distribution companies are seeking to develop or have already offered commercial broadband Internet services over existing electric power lines.
+
+ 4
+
+
+
+Competitive Strengths
+ 
+Even though we face substantial existing and prospective competition, we believe that we have a number of competitive advantages that will allow us to retain existing customers and attract new customers over time.
+Reliability
+
+Our network was designed specifically to support wireless broadband services. The networks of cellular, cable and DSL companies rely on infrastructure that was originally designed for non-broadband purposes. We also connect our customers to our Wireless Ring in the Sky, which has no single point of failure. This ring is fed by multiple national Internet providers located at opposite ends of our service cities and connected to our national ring which is fed by multiple leading carriers. We believe that we are the only wireless broadband provider that offers true separate egress for true redundancy. With DSL and cable offerings, the wireline connection can be terminated by one backhoe swipe or switch failure. Our Wireless Ring in the Sky is not likely to be affected by backhoe or other below-ground accidents or severe weather. As a result, our network has historically experienced reliability rates of approximately 99%.
+Flexibility
+ 
+Our wireless infrastructure and service delivery enables us to respond quickly to changes in a customer’s broadband requirements. We offer bandwidth options ranging from 5 Mbps to 10 Gbps. We can usually adjust a customer’s bandwidth remotely and without having to visit the customer location to modify or install new equipment. Changes can often be made on a same-day basis.
+Timeliness
+ 
+We have demonstrated the capability to install approximately 20% of our services within 7 days and approximately 75% of our services within 30 days from the customer contract date. Many of the larger telecommunications companies can take 30 to 60 days to complete an installation. The timeliness of service delivery has become more important as businesses conduct more of their business operations through the Internet.
+Value
+
+We own our entire network which enables us to price our services lower than most of our competitors. Specifically, we are able to offer competitive prices because we do not have to buy a local loop charge from the telephone company.
+Efficient Economic Model
+ 
+We believe our economic model is characterized by low fixed capital and operating expenditures relative to other wireless and wireline broadband service providers. We own our entire network, which eliminates costs involved with using leased lines owned by telephone or cable companies. Our network is modular. Coverage is directly related to various factors, including the height of the facility we are on and the frequencies we utilize. The average area covered by a PoP is a six-mile radius.
+Prime Real Estate Locations
+ 
+We have secured long term lease agreements for prime real estate locations in the 12 markets in which we have built our fixed wireless network. These locations are some of the tallest buildings in each city, which facilitates our ability to deliver Internet connectivity to customer locations where line of sight is not available to our competitors.
+ 
+ 5
+
+
+
+Regulatory Matters 
+ 
+The Communications Act of 1934, as amended (the “Communications Act”), and the regulations and policies of the Federal Communications Commission (“FCC”) impact significant aspects of our wireless Internet service business, which is also subject to other regulation by federal, state and local authorities under applicable laws and regulations.
+Spectrum Regulation
+ 
+We provide wireless broadband Internet access services using both licensed and unlicensed fixed point-to-point systems. The FCC has jurisdiction over the management and licensing of the electromagnetic spectrum for all commercial users. The FCC routinely reviews its spectrum policies and may change its position on spectrum use and allocations from time to time. We believe that the FCC is committed to allocating spectrum to support wireless broadband deployment throughout the United States and will continue to modify its regulations to foster such deployment, which will help us implement our existing and future business plans.
+Broadband Internet Service Regulation
+ 
+Our wireless broadband network can be used to provide Internet access service and Virtual Private Networks (“VPNs”). On May 23, 2017, the FCC issued a notice of proposed rulemaking, the intention of which is to repeal the net neutrality protections adopted in the 2015 Open Internet Order and reclassify fixed and mobile broadband services as information services governed by Title I of the Communications Act. On December 14, 2017, the FCC released its Restoring Internet Freedom Report and Order, which reclassified Internet access service as an information and not a telecommunications service and removed all Title II obligations from Internet traffic arrangements. On June 11, 2018, the FCC adopted final rules repealing net neutrality protections. In response, a number of states have issued executive orders or proposed legislation requiring net neutrality. The impact of this Report and Order, final FCC rules and any state orders or legislation on the industry and competition is still unknown at this time.
+ 
+In addition, Internet service providers are subject to a wide range of other federal regulations and statutes some of which are regulated by the Federal Trade Commission, including, for example, regulations and policies relating to low-income subsidies, consumer protection, consumer privacy, and copyright protections. State and local government authorities may also regulate limited aspects of our business by, for example, imposing consumer protection and consumer privacy regulations, zoning requirements, and requiring installation permits.
+ 
+Regulatory Issues
+ 
+Our antennas and equipment used to provide wireless broadband service are regulated by the FCC. As such, any changes in FCC regulations involving the use or deployment of wireless broadband service could have a positive or negative impact on our business.
+ 
+ 6
+
+
+
+Rights Plan
+ 
+In November 2010, we adopted a rights plan (the “Rights Plan”) and declared a dividend distribution of one preferred share purchase right for each outstanding share of common stock as of the record date on November 14, 2010. Each right, when exercisable, entitles the registered holder to purchase one-hundredth (1/100th) of a share of Series A Preferred Stock, par value $0.001 per share of the Company at a purchase price of $18.00 per one-hundredth (1/100th) of a share of the Series A Preferred Stock, subject to certain adjustments. The rights will generally separate from the common stock and become exercisable if any person or group acquires or announces a tender offer to acquire 15% or more of our outstanding common stock without the consent of our Board of Directors. Because the rights may substantially dilute the stock ownership of a person or group attempting to take us over without the approval of our Board of Directors, our Rights Plan could make it more difficult for a third party to acquire us (or a significant percentage of our outstanding capital stock) without first negotiating with our Board of Directors. In addition, we are governed by provisions of Delaware law that may prohibit large stockholders, in particular those owning 15% or more of our outstanding voting stock, from merging or combining with us.
+ 
+The provisions in our charter, bylaws, Rights Plan and under Delaware law, related to the foregoing, could discourage takeover attempts that our stockholders would otherwise favor, or otherwise reduce the price that investors might be willing to pay for our common stock in the future.
+ 
+Employees
+ 
+As of December 31, 2018, we had 48 employees, of whom 44 were full-time employees and 4 were part-time employees. As of March 25, 2019, we had 50 employees, of whom 46 were full-time employees and 4 were part-time employees. We believe our employee relations are good. Three employees are considered members of executive management.
+Reverse Split
+ 
+On September 29, 2017, the Company effected a 1-for-75 reverse stock split of its common stock. Consequently, all earnings per share and other share related amounts and disclosures in this report have been retroactively adjusted for all applicable 2017 periods presented for the split.
+Corporate History
+ 
+We were organized in the State of Nevada in June 2005. In January 2007, we merged with and into a wholly-owned Delaware subsidiary for the sole purpose of changing our state of incorporation to Delaware. In January 2007, a wholly-owned subsidiary of ours merged with and into a private company formed in 1999, Towerstream Corporation, with Towerstream Corporation being the surviving company. Upon closing of the merger, we discontinued our former business and succeeded to the business of Towerstream Corporation as our sole line of business. At the same time, we also changed our name to Towerstream Corporation and our subsidiary, Towerstream Corporation, changed its name to Towerstream I, Inc.
+Our Corporate Information
+ 
+Our principal executive offices are located at 76 Hammarlund Way, Middletown, Rhode Island, 02842.  Our telephone number is (401) 848-5848. The Company’s website address is http://www.towerstream.com. Information contained on the Company’s website is not incorporated into this Annual Report on Form 10-K.  Annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and all amendments to those reports are available free of charge through the SEC website at http://www.sec.gov as soon as reasonably practicable after those reports are electronically filed with or furnished to the SEC. These reports are also available on the Company’s website.
+ 
+ 7
+
+
+

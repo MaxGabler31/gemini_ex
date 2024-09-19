@@ -1,0 +1,377 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business
+FORWARD LOOKING STATEMENTS
+ 
+This annual report on Form 10-K (the “Annual Report”) contains certain forward-looking statements. All statements other than statements of historical fact are “forward-looking statements” for purposes of these provisions, including any projections of earnings, revenues, or other financial items; any statements of the plans, strategies, and objectives of management for future operation; any statements concerning proposed new products, services, or developments; any statements regarding future economic conditions or performance; statements of belief; and any statement of assumptions underlying any of the foregoing. Such forward-looking statements are subject to inherent risks and uncertainties, and actual results could differ materially from those anticipated by the forward-looking statements.
+ 
+These forward-looking statements involve significant risks and uncertainties, including, but not limited to, the following: competition, promotional costs and the risk of declining revenues. Our actual results could differ materially from those anticipated in such forward- looking statements as a result of a number of factors. These forward-looking statements are made as of the date of this filing, and we assume no obligation to update such forward-looking statements. The following discusses our financial condition and results of operations based upon our audited financial statements which have been prepared in conformity with accounting principles generally accepted in the United States. It should be read in conjunction with our financial statements and the notes thereto included elsewhere herein.
+ 
+Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. Except as required by applicable law, including the securities laws of the United States, we do not intend to update any of the forward-looking statements to conform these statements to actual results.
+ 
+Our consolidated financial statements are stated in United States Dollars (US$) and are prepared in accordance with United States Generally Accepted Accounting Principles.
+ 
+In this annual report, unless otherwise specified, all dollar amounts are expressed in United States Dollars (US$) and all references to “common shares” refer to the common shares in our capital stock.
+ 
+As used in this Annual report, the terms “we,” “us,” “our,” the “Company,” “OneLife” and “our company” mean OneLife Technologies Corp. and its consolidated subsidiaries, unless otherwise indicated.
+ 
+Corporate Background
+ 
+Our Corporate History and Background
+ 
+We were incorporated on January 9, 2014 under the laws of the State of Nevada. We have predominately been involved in administrative activities such as marketing, establishing relationships with service providers and establishing our office facilities.
+ 
+We were previously in the business of selling and providing services for GPS Tracking Devices. Our previous product, called the AnyTrack GPS, was a next generation remote personal locator device used to primarily locate and aid in the timely rescue of missing children, the elderly and pets. In addition, our devices were to have additional functionalities, such as keeping track of heart rates, with data being sent remotely and, in the future, we would add additional functionalities such as keeping track of blood alcohol content, which would be useful for parolees or anyone that has been convicted of a DUI. In addition to selling these devices, we planned to offer monthly services, such as tracking and data collection at a monthly fee.
+ 
+On April 21, 2017, Robert J. Wagner acquired 35,000,000 shares (pre-split) of the Company’s issued and outstanding common stock, representing approximately 75.5% of the Company’s total issued and outstanding common stock, from Leon Henry in accordance with a stock purchase agreement by and between Mr. Henry and Mr. Wagner. Pursuant to the agreement, Mr. Wagner paid an aggregate purchase price of $20,000 to Mr. Henry in exchange for the shares. Thereafter, on May 31, 2017, a 2-for-1 forward split was effectuated, which resulted in Mr. Wagner holding 70,000,000 shares. Upon the closing of the share exchange agreement (described below), Mr. Wagner returned the 70,000,000 shares to the Company and a new certificate for 40,000,000 shares was issued to him.
+ 
+As of April 21, 2017, Leon Henry resigned from all positions with the Company, including but not limited to those of President, Chief Executive Officer, Chief Financial Officer, Treasurer and Sole-Director. The resignation was not the result of any disagreement with the Company on any matter relating to the Company’s operations, policies or practices.
+
+4
+
+As of April 21, 2017, Robert J. Wagner was appointed as the sole member of the Company’s Board of Directors and as the Company’s President, Chief Executive Officer, Chief Financial Officer, Treasurer, and Secretary.
+ 
+On May 8, 2017, the Company entered into a share exchange agreement with One Media Enterprises Limited, an England and Wales corporation (“OME”), and the controlling stockholders of OME (the “OME Shareholders”). Pursuant to the agreement, the Company acquired 100% of the issued and outstanding equity of OME from the OME shareholders (the “OME Shares”) and in exchange, the Company issued to OME an aggregate of 40,000,000 shares of common stock and 5,000,000 shares of Series A Preferred. As a result of the share exchange agreement, OME became a wholly owned subsidiary of the Company. The share exchange agreement contains customary representations and warranties. Further, the share exchange agreement contains the following conditions to closing and the closing of the share exchange shall only occur once the following conditions have been satisfied: (i) the Company completes a name change to more accurately reflect the post transaction of the business; (ii) the Company completes a two-for-one forward split of its common stock; (iii) the Company increases its authorized shares of common stock from 200,000,000 to 500,000,000; (iv) the Company facilitates the cancellation of 70,000,000 shares of its restricted common stock and such stock is returned to the Company’s treasury; and, (v) OME provides the Company with audited financial statements, with such financial statements being audited by an independent accounting firm registered with the Public Company Accounting Oversight Board (PCAOB). On December 4, 2017, the transaction closed.
+ 
+On June 1, 2017, the Company amended its Articles of Incorporation with the State of Nevada in order to (i) change its name to OneLife Technologies Corp., (ii) effectuate a 2 for 1 forward stock split and (iii) increase the authorized shares of common stock to 500,000,000. The Board of Directors of the Company approved the Amendments on May 31, 2017. The shareholders of the Company approved of the Amendment by written consent on May 31, 2017. FINRA declared that the forward split and the new name of OneLife Technologies Corp. be effective on June 13, 2017, and the new ticker symbol of “OLMM,” became effective on July 11, 2017. Other than noted, all numbers of shares presented in this report have been retroactively adjusted for the 2 for 1 forward stock split. Upon the closing of the share exchange agreement, Mr. Wagner returned the 70,000,000 shares to the Company for cancellation and OME provided the Company with its audited financial statements.
+ 
+Upon entering into the share exchange agreement with OME, we believe we are now able to fully exploit our intended business model. We intend to meet our cash requirements for the next 12 months through a combination of debt financing and equity financing by way of private placements. We currently do not have any arrangements or commitments in place to complete any private placement financings in an amount sufficient to further our business plan and there is no assurance that we will be successful in completing any such financings on terms that will be acceptable to us. We are actively seeking additional funding.
+ 
+Our Business Who are we?
+ 
+We’re OneLife: a mobile medical hardware, software and data collection company and the creators of a suite of propriety, patented, medical grade monitoring and tracking technologies that will eventually:
+ 
+
+Be FDA approved, 
+ 
+Be HIPAA compliant, 
+ 
+Utilize an open API for easy data communication to any existing system, 
+ 
+Provide the user with their own, personal and comprehensive health data account, and 
+ 
+Be backed by an artificial intelligence technology which can make expert suggestions to users for health and lifestyle improvement, and predictions as to health issues on a global basis. 
+ 
+All of these things together are designed to become the central health hub of an individual’s life.
+ 
+Prior to August 23, 2018, we shared intellectual property rights to the following patents and copyrights, related to monitoring and tracking technology, per our IP Sharing Agreement with Yinuo Technologies, LTD. (“Yinuo”), dated October 22, 2015, filed herewith as Exhibit 10.3:
+ 
+Patent One
+ 
+
+Received. “ID Design For A Sensor Watch” 
+ 
+For Enhanced Sensation for the ID and MD 
+
+5
+
+Patent Two
+ 
+
+Submitted And In Process. “A Method of Sensor Watch For Remote Acquisition And Monitoring Of Physiological Signs And States” 
+ 
+For the system which includes our sensor watch, server and app 
+ 
+Copyright One
+ 
+
+Received. Source Codes And Architecture For Mobile Healthcare Server 
+ 
+Copyright Two
+ 
+
+Received. Source Codes And Architecture For Mobile Healthcare Apps (Smartphone Clients: iOS and Android System) 
+ 
+As of August 23, 2018, through an Asset Purchase Agreement with Yinuo, filed as Exhibit 10.1 to a current report on Form 8-K, dated August 23, 2018, we own the following patents, copyrights and trademarks:
+ 
+
+Invention Patents (two patents in publicity): 
+ 
+o
+“A Method of Sensor Watch For Remote Acquisition” No. 2013107475948; 7/29/2016 
+ o
+“Monitoring Of Physiological Signs And States For Children”. No. 201310748019X; 7/29/2016 
+ 
+
+Appearance Patents (two): 
+ 
+o
+“ID Design For A Sensor Watch”. No.: ZL.2016.303155226.9 (W03/3G design); 1/4/2017 
+ o
+“ID Design For A Sensor Watch”. No.: 201830333195.0 (R03/4G LTE-M design); 6/26/2018 
+ 
+
+Multiple Copyrights (mobile medical cloud server system and etc.): 
+ 
+o
+Copyright 1: No. 2016SR248143, Mobile healthcare management platform.; 5/13/2016 
+ (Source codes and architecture for mobile and healthcare server)
+ 
+o
+Copyright 2: No. 2016SR250197, Source codes and architecture for Mobile Healthcare Apps 
+ (Smartphone Clients: IOS and Android System); 4/18/2016
+ 
+o
+Copyright 3: No.2016SR271904, Embedded software for multi-parameter monitor.; 7/11/2016 
+ 
+The Company has two main products that includes, or will include, the proprietary, patented (as discussed above), medical grade monitoring and tracking technologies. The two products, as more fully described below, are the “Sensation” and the “Tricorder.” The Sensation, also known as the OnePulse, was granted FCC certification on November, 28, 2018, received PTCRB approval on December 3, 2018 and AT&T Network Compatibility Certification on January 4, 2019 with the new 4G LTE-M model in the United States. With the certifications and approvals completed, the Company will commence the manufacture and distribution of its products. Since 2015, Yinuo has sold over 150,000 2G/3G Sensations in China and Israel. The 3G Sensation is available in any market that supports 3G cellular service. The Tricorder is finished and currently available to be both in the U.S. and outside of the U.S.
+
+6
+
+Why this product? Why now?
+ 
+The healthcare market is rife with inefficient processes, aging systems that do not communicate with each other, tremendous financial waste, and stunning difficulty in getting anything done. Combine that with:
+ 
+
+A worldwide explosion in an aging population (this is fast becoming a crisis globally), 
+ 
+A desire of insurance companies to decrease patient time spent in a hospital (to decrease their costs), 
+ 
+A desire by hospitals to decrease hospital readmissions (this has been a difficult issue for hospitals to control and costs dearly when it does), 
+ 
+An ‘aging in home’ push (to keep people active and away from expense care scenarios), 
+ 
+Increasing levels of cognitive health issues (part of the ‘aging in home’ issues), and 
+ 
+A need for a higher level of ‘touch’ between patient and health care provider (telemedicine has been shown to be increasingly effective across a range of issues). 
+ 
+OneLife believes it will address all of these issues.
+ 
+What we’re planning on delivering
+ 
+
+A medical grade wearable designed specifically for the health market and a specific type of user, 
+ 
+A mobile health kit designed to take more advanced vitals readings, 
+ 
+A personal health data account for each user that centralizes a user’s health records, 
+ 
+An application management system that can link all this technology together for a hospital, and 
+ 
+Artificial intelligence that will not only be the user’s personal healthcare consultant, but will be on guard to detect developing health issues on a global scale. 
+ 
+THE PRODUCTS
+ 
+
+OneLife Technologies delivers a health care ecosystem that is optimized to capture data, store or transport it, and assist in the analyzation so that actionable feedback can be provided. And it all starts with the Sensation/OnePulse Untethered! On Guard! Always Connected!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Sensation/OnePulse
+ 
+The Sensation/OnePulse is a wearable designed for the health and medical markets as its feature set is aimed squarely at users (or the health care providers or family members of users) who want, or need, to track aspects of their physical health (heart rate, activity, sleep patterns, location). Powered by our telco partner, AT&T, and with an AT&T SIM card inside, the Sensation/OnePulse is always connected. Whether the user is in their home, out to dinner at a restaurant, or halfway around the globe, their lifeline to those who care about them is always in place, and their lifestyle is uninterrupted.
+ 
+The Sensation/OnePulse has been designed with two overriding principals in mind.
+ 
+Simplicity. The Sensation/OnePulse has been created for a user who:
+ 
+
+Has a health problem, 
+ 
+Is aging or elderly, 
+ 
+Has cognitive disabilities, and 
+ 
+Generally, is not interested in, or is incapable of, fiddling with an electronic device. 
+ 
+Reliability. The Sensation/OnePulse must:
+ 
+
+Deliver continued health monitoring/transmission of data, 
+ 
+Have an ‘always on’ data stream no matter where the user is or what they are doing, 
+ 
+Be as bullet-proof in construction as can possibly be made. 
+
+7
+
+In accomplishing these two things, we see some immediate practical applications.
+ 
+
+If a user is elderly and falls, the Sensation/OnePulse immediately dials 911 while also alerting three family members. 
+ 
+If they’re a cardiac patient and their heart rate climbs too high or low, their physician gets an alert and can call them on the Sensation/OnePulse to check their condition. 
+ 
+If they suffer from cognitive decline, the Sensation/OnePulse can geofence a user and alert family members should they wander off preset boundaries. 
+ 
+For the medical market, OneLife is working to have the Sensation/OnePulse achieve an FDA approved medical device status. At that point, it can be covered by insurance and possibly a user tax deduction for the numerous, strictly medical scenarios that it can participate in.
+ 
+It is the Company’s intent to have the Sensation/OnePulse fully FDA approved. Currently, the Sensation/OnePulse has been submitted for FDA clearance. 
+ 
+
+
+Tricorder
+ 
+
+
+A physician requires a standard set of ‘vitals’ information from a patient. Because the current state of technology is not sufficient to allow this be achieved with a wearable, OneLife has created the Tricorder. Delivering medical grade information, the Tricorder captures blood pressure, heart rate, ECG/EKG, SpO2, and temperature. Designed for mobility, the $2,000 Tricorder takes the place of current hospital machines with an aggregate value between $4,000 and $8,000, and provides needed portability and simplicity. Finally, the Tricorder comes with a Bluetooth connection that makes communication with the Sensation/OnePulse automatic and easy. As technology becomes reliably created, Tricorder applications will be pushed to the Sensation/OnePulse.
+
+8
+
+Personal Data Vault
+ 
+
+
+As opposed to today’s method in which various pieces of a person’s health information is being held in disparate systems that do not communicate, OneLife has a different idea. Each user has a data vault which is the central repository of all of their health data. Whether the data is gathered by the Sensation/OnePulse, the Tricorder, a smart weight scale (or other Bluetooth medical devices), a hospital, or a doctor, the vault will be the central depository.
+ 
+The Company intends to file the Tricorder for FDA approval, following FDA approval of the Sensation/OnePulse. Due to the extremely high legal costs to accomplish this, and that fact that we are a smaller reporting company, we will take small steps forward in the approval process, as funds become available.
+ 
+The graphics above are actual representations of our products and processes. 
+ 
+Artificial Intelligence (“AI”)
+ 
+Always working in the background, our AI is designed to collect information by population location (ex. A zip code in the U.S.) and population type (ex. White males, 40-50 years old). On an individual basis, it can then use this information, apply it against their current state of health and activity, and make suggestions as to future scenarios if they continue their current life-style practices without change, or change by following suggested practices given to them by the AI, which have proved successful for their population type in bringing about beneficial health results.
+
+9
+
+THE MARKET
+ 
+There exists today, the opportunity to make an impact in the medical market on a global scale. The Company believes that OneLife’s technology could increase efficiency; decrease costs; allow for meaningful telemedicine to take place; extend ‘aging in place’ time; and, following launch, impact several meaningful health issues in the U.S. and beyond. Finally, in the not-too-distant future, we believe we can impact such world-threatening diseases as Ebola and Zika. This belief is based on the fact that it is not well understood what a human body looks like as it starts to contract a disease such as Ebola or Zika at this time. With the advent of humans wearing sophisticated sensors, monitoring various vitals and activities, it is hopeful that they will be able to detect subtle changes in a user who is at the onset of contracting an illness, such as Ebola or Zika. This is not new science as there are multiple companies working on this type of analysis using all types of sensors from monitors in your home to the sensors in your phone. The Company is working towards the same goal with wearable sensors that could have a better chance of achieving earlier detection.
+ 
+How does OneLife fit into this space?
+ 
+
+Health & Fitness: From a ‘device’ perspective, this is the main category you have to put us in because no more accurate category exists. 
+ 
+
+Remote Monitoring: From a ‘what we actually do’ perspective, you would place us here. This is our raison d’etre. To keep a person with a health condition, which would benefit from monitoring, in touch with their health care provider and family. 
+ 
+
+Medical Big Data: We play in this field and believe it will become a very large, if not the largest revenue stream for our company. By having a device on a person which is continually monitoring them, the implications for learning about how our bodies actually work through big data are nothing less than staggering. 
+ 
+
+Mobile Fitness / Health Apps: While our initial App’s purpose will largely be about databasing continual results sent from the Sensation/OnePulse, we next plan to show patterns, and provide suggestions. From here it’s easy to get into more of the ‘fitness’ kind of information. 
+ 
+
+Digital Medical Devices: We are certainly part of this space with our Tricorder. 
+ 
+
+EHR / EMR: These electronic records systems currently contain (at least the better ones do), the various medical records of a patient; from multiple doctors and hospitals. We feed these systems information which they are currently not able to get actual, real-time data after the patient has left the hospital or doctor visit. We continue to feed the system so it can keep track and monitor the patient. 
+ 
+
+Patient Engagement: Many healthcare providers we have consulted with are right now crafting ways of staying in contact with their patients through specialized videos and other learning/informational programs. The Sensation/OnePulse is the perfect focal point and can deliver this content providing for more intimate contact. Also through the App, we plan on having direct consultation with your physician and video conferencing over the Sensation/OnePulse. 
+ 
+
+Healthcare Mobile Communications and TeleHealth: We do participate in these spaces. 
+ 
+
+And finally, in looking towards the future: Genomics: Imagine if we offer a free DNA testing for everyone who purchases a Sensation/OnePulse. That information goes into your health database. We then use this against actual results being sent from the Sensation/OnePulse for ‘big data’ analysis. The potential of what we will learn here is staggering. 
+
+10
+
+Typical User Demographic
+ 
+
+50+ years of age, 
+ 
+Have a medical problem that would benefit from monitoring, 
+ 
+Are generally not interested in complicated electronic devices, or may actually be incapable of working such devices due to their age, cognitive impairment, or impairment due to medications, 
+ 
+And perhaps most importantly, they are feeling their mortality. They may even have had a brush with death. These issues make them highly motivated purchasers and users of OneLife technology as they see it as extending their life span. 
+ 
+Target Customers
+ 
+
+Individuals 
+ o
+We start here. They may see our advertising or have been recommended by their physician. 
+ 
+
+Nursing Homes 
+ o
+Easily track residents, 
+ o
+Increase level of care, and 
+ o
+Reduce personnel costs. 
+ 
+
+Hospitals 
+ o
+Easy ID/tracking of patients, and 
+ o
+Patient care extends outside of hospital as patient leaves wearing Sensation/OnePulse. 
+ 
+
+Anywhere healthcare is provided. 
+ 
+STRATEGY FOR GROWTH
+ 
+Now that the Sensation/OnePulse has received network certification, we intend to begin by selling hardware (the Sensation/OnePulse and the Tricorder), along with services in those areas where we are strong and can gain immediate revenue streams.
+ 
+
+The “I’ve fallen and can’t get up” customers, 
+ 
+Heart patient monitoring, and 
+ 
+Geofencing for users with cognitive decline issues. 
+ 
+From here we intend to move into institutional sales with nursing homes and then hospitals. We currently have several hospitals in que where comprehensive tests can begin. The premise of these tests is to be able to have every patient in the hospital wearing a Sensation/OnePulse. Once a strong presence in the overall medical market is created, OneLife migrates from a model where hardware has been generating a majority of the revenue to a software/recurring revenue model. Here, we can license our software to power wearable devices developed by other electronics manufacturers.
+
+11
+
+Strategic Partners
+ 
+
+Yinuo: | 2016 winner of the China Ministry of Science “Entrepreneur of the Year” award. Yinuo is a technology and manufacturing partner, who we have worked with since 2013 to develop OneLife’s current product offering. We had an executed IP Sharing Agreement, which has been replaced by an Asset Purchase Agreement with Yinuo, giving us control over the technology and manufacturing abilities of Yinuo. The Asset Purchase Agreement was filed as an Exhibit to a current report Form 8-K dated August 23, 2018. The IP Sharing Agreement is filed as an Exhibit hereto. Furthermore, we continue to contemplate the acquisition agreement with Yinuo, whereby Yinuo could become a wholly-owned subsidiary of the Company if we determine that such acquisition is in the best interest of our shareholders, after the completion of the asset purchase on August 23, 2018. One of the remaining conditions precedent is the completion of a two-year audit of Yinuo audit. The audit of a Chinese company is time-consuming and costly and OneLife must balance this with limited resources. We cannot guarantee with certainty, at this time, that the planned acquisition of Yinuo will take place. However, the current financial statements are for U.S. activity only. Therefore, should the acquisition of Yinuo not take place or occur later than planned, it will have no effect on the financial statements, as currently disclosed. Furthermore, should the planned acquisition of Yinuo not take place or occur later than planned, it would have no impact on the product offerings of the Company due to the Yinuo asset purchase dated August 23, 2018.
+------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AT&T: | One of the most valuable brands and largest companies in the world, it is with AT&T that OneLife hopes to gain a critical advantage over other players in this market with its mobile connectivity. We have an existing Master Services Agreement with AT&T, which has been previously filed in a current report on Form 8-K, dated December 29, 2017 and received Network Compatibility Certification on January 4, 2019. 
+CDW: | A primary sales channel for enterprise applications. CDW provides distribution services through its distribution partner A.B. Distribution Inc. Previous 2G/3G models have an approved CDW EDC inventory number and the new 4G LTE-M model is planned to be made available for distribution thru CDW. The Distribution Agreement is executed with CDW’s distribution partner, A.B. Distributing Inc., and dated October 24, 2012. 
+TiaTech: | A healthcare IT company specializing in building efficient, innovative, patent pending software and hardware solutions to help healthcare providers achieve maximum clinical outcomes. The initial integration of OneLife’s technologies and TiaTech’s technologies (electronic health records system) has been performed in a testing environment in India. Once the new 4G LTE-M Sensation/OnePulse is launched and tested, OneLife intends to continue its relationship with TiaTech, and hopes to enter into a material definitive agreement with TiaTech. This partnership could provide a turn-key mobile electronic health records management, monitoring and analysis system to the rapidly growing middle class of India. 
+Armor Grid: | A fall detection and geolocation technology company. The Company intends to have Armour Grid’s leading fall-detection technology implemented in the Sensation/OnePulse. While we currently have no formal agreement with Armour Grid, they have informed the Company that they will test their technology on our 4G LTE-M model device. Armour Grid has indicated that we will move to a definitive agreement once their technology proves successful. 
+
+Marketing Strategy
+ 
+Management anticipates that for the first two years of operation, sales will be generated through our Strategic Partners. Our Strategic Partners, have taken on the responsibility for generating these sales to both individuals and institutions.
+Monetization Strategy
+ 
+Initially, sales of the Sensation/OnePulse and Tricorder will drive revenue production. Within a short period of time, service sales will begin to take place and add to revenue production. Services such as 1) fall detection, 2) geofencing, 3) heart monitoring, and 4) health data accounts will account for the initial offerings.
+ 
+With respect to the hardware, we anticipate that it may be purchased outright, or it may be rented on a periodic basis.
+
+12
+
+Sales Strategy
+ 
+Our Strategic Partners have budgeted to use and sell our technology. For the medical markets, now that the Sensation/OnePulse has received network compatibility certification, our technology will be sold by our Strategic Partners national sales force. Our products may be the only wearable medical technology carried by most of our Strategic Partners.
+Intellectual Property
+ 
+As of the date of this filing, we have a 100% percent ownership interest in any and all, current and future, intellectual property developed by Yinuo Technologies, Ltd, our Chinese partner, in regards to its wearable and tricorder technologies. In addition to this, OneLife will continually enhance the current software/wearables thereby creating further OneLife-owned IP. 
+Emerging Growth Company Status
+ 
+We are an “emerging growth company” as defined under the Jumpstart our Business Startups Act (the “JOBS Act”). We expect to remain an “emerging growth company” for up to five years. As an “emerging growth company”, we may take advantage of certain exemptions from various reporting requirements that are applicable to other public companies that are not “emerging growth companies”, including, but not limited to:
+ 
+
+not being required to comply with the auditor attestation requirements of Section 404(b) of the Sarbanes- Oxley Act (we also will not be subject to the auditor attestation requirements of Section 404(b) as long as we are a “non-accelerated filer”, which includes issuers that had a public float of less than $75 million as of the last business day of their most recently completed second fiscal quarter); 
+ 
+
+reduced disclosure obligations regarding executive compensation in our periodic reports and proxy statements; and 
+ 
+
+exemptions from the requirements of holding a non-binding advisory vote on executive compensation and shareholder approval of any golden parachute payments not previously approved. 
+ 
+Employees
+ 
+Currently, we have three employees, Robert Wagner, John R. Muchnicki and Anthony Driscoll. We do expect that we will further add to the number of employees over the next 12-month period. We do and will continue to outsource contract employment as needed.
+ 
+We engage contractors from time to time to consult with us on specific corporate affairs or to perform specific tasks in connection with our development programs.
+ 
+Description of Property and Facilities
+ 
+As of the date of this report, our executive, administrative, and operating offices are located at 5005 Newport Dr., Rolling Meadows, IL 60008. We believe these facilities are adequate for our current needs. The offices are currently provided to us at no cost by our sole director. We believe that our office space and facilities are sufficient to meet our present needs and do not anticipate any difficulty securing alternative or additional space, as needed, on terms acceptable to us.
+ 
+Compliance with Government Regulation
+ 
+We are subject to a number of foreign and domestic laws and regulations that could affect companies conducting our business, many of which are still evolving and could be interpreted in ways that could harm our business.
+ 
+The Sensation/OnePulse has been submitted for FDA clearance and received a response regarding the next steps in an FDA approval process. The Company is now gathering further information to determine the capital needs to complete the next stage of the process. The Company intends to follow with the Tricorder. Due to the extremely high legal costs to accomplish this, and that fact that we are a smaller reporting company, we will take small steps forward as funds become available. Regarding HIPAA, our servers, which will store our users’ data, are located in a Tier 4 secure facility, Tulix, which is fully HIPAA-compliant. 
+
+13
+
+Subsidiaries
+ 
+The Company has the following wholly-owned subsidiaries: (i) One Media Enterprises Limited, a company incorporated in England and Wales; and (ii) One Media Partners Inc., a company incorporated in the State of Delaware, U.S.A.
+Intellectual Property
+ 
+The Company currently owns 100% of the intellectual property of the wearable and tricorder technologies developed by Yinuo Technologies Ltd. which it acquired in an asset purchase agreement dated August 23, 2018, which is being amortized over an estimated useful life of five years.

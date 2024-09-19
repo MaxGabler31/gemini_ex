@@ -1,0 +1,385 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS
+General
+ 
+The Company and its subsidiaries provide an array of actionable clinical services to health care professionals through its wholly-owned AEON subsidiary. Following the full consummation of the AEON Acquisition, the business conducted by AEON became the primary the business conducted by the Company.
+ 
+AEON's services encompass medical tests used for: (1) monitoring both therapeutic drugs and drugs of abuse; (2) the ability of an individual to metabolize or potentially have an adverse reaction to a number of drugs and other compounds; (3) the potential risk of an individual to develop certain cancers based on genetics; and (3) various other specialized tests.
+ 
+The Company continues to provide its legacy (AHC) secure web-based revenue cycle management applications; and, telehealth products and services that enable health care clinical testing organizations to increase revenues, improve productivity, reduce costs, coordinate care for patients, enhance related administrative and clinical workflows and compliance with regulatory requirements. Web-based services are delivered as Software as a Service (SaaS) to customers interfacing seamlessly with billing, information and records management systems.
+  
+The AEON Business
+ 
+AEON's primary focus is on the production of actionable medical information for value-based medicine. This includes the testing of patients’ urine or saliva for the presence of drugs or chemicals in addition to determining and analyzing patients’ DNA profiles.
+ 
+ 5
+
+
+AEON is an innovator in the genomic testing market segment with a comprehensive menu of genetic tests to include pharmacogenomics, cancer genetic and molecular microbiology testing already available and a strong pipeline of genetic test platforms in development capable of being brought to market over the next year. AEON continually invests in advancing and broadening its testing capabilities to remain at the forefront of creating genetic profiles to address the rising demand for personalized and value-based medical care to assist in guiding the medical decisions-making process for the pro-active prevention, diagnosis, and treatment of diseases. AEON strives to offer unique core competencies in support of personalized medicine with superior service levels. Genomic testing is more complex than conventional toxicology testing requiring both a unique knowledge and much more sophisticated laboratory science minimizing the competitive landscape.
+ 
+Toxicology remains the majority of AEON's testing volume and will continue to play an important role in AEON's business strategy. AEON's toxicology testing provides information about medications and other substances in the patients’ systems. Information derived from typical urine or oral fluid samples help guide clinician’s treatment of patients. Similarly, toxicological testing ensures the safe use of medical prescriptions and is designed to help doctors provide the highest level of care. AEON offers a comprehensive spectrum of toxicology tests to produce results under quality assurance standards consistent with those required by regulatory bodies.
+ 
+AEON supports its national client base from its Gainesville, Georgia headquarters. AEON is focused on technological innovation and efficiency, utilizing state of the art testing equipment and proprietary methodologies to provide some of the fastest and most reliable test results in the nation. AEON focuses on a service model that emphasizes the importance of the test result for both client and patient. By focusing on fast, accurate turnaround of test results and the ability to integrate directly with electronic medical records, AEON believes it is able to provide clients a unique service that unmatched by larger clinical laboratories. With a greater emphasis on its service model, AEON is ideally positioned to be a preferred lab provider for personalized medicine.
+ 
+A more specific summary of AEON's principle testing services include:
+ 
+
+• | Medical Toxicology. Utilizes HPLC-Tandem Mass Spectrometry testing and provides information about medications and other substances in the patient's system from either urine or oral fluid samples with a rapid 48 to 72-hour turnaround time. This information helps guide a clinician's treatment of a patient and helps to ensure the safe use of prescription and other medications in pain management, substance abuse, hospital, and other clinical applications and is also routinely used in employment screening and law enforcement. Media outlets have reported multiple stories detailing the growing crisis that has resulted from the abuse of prescription and illegal drugs. AEON uses the latest innovations in mass spectrometry technology to identify individual drugs in patient specimens. AEON provides confirmatory testing to identify and quantify the levels of these drugs. AEON's drug testing technology can identify more than 70 drugs and metabolites in urine and oral fluid samples. This information helps physicians determine whether their patients are compliant with their prescription regimens as well as whether they may be abusing illegal drugs.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | DNA Pharmacogenomics. Applies the field of genomics to improve the efficacy and safety of therapeutics. Pharmacogenomics is genetic-based testing to determine patient therapy. Pharmacogenomics testing provides a "personalized" comprehensive report based on DNA profiles that indicate metabolic rates for defined medications. This information helps guide physician's medication selections including dosages, leading to targeted and personalized therapy to enable the efficient selection of medications and therapies while reducing side effects and the use of ineffective medication regimens. Such testing may be of substantial value to accountable care organizations and employer-based health plans as it may be able to help identify those individuals whose genetic makeup might impact how they react to certain medications.
+• | Cancer Genetic Testing. Provides testing for hereditary cancer markers, offering multiple BRCA testing options including comprehensive sequencing and deletion/duplication analyses of BRCA1 and BRCA2 and numerous multigene panels. The BRCA gene test is a saliva-based test that uses DNA analysis to identify harmful mutations in either one of these two highly penetrant genes which increase the chance for cancer of the breast, ovaries and fallopian tubes. 
+• | Molecular Microbiology. Identifies microorganisms including viruses, bacteria and parasites through amplified DNA or RNA detection versus traditional microbiology procedures using culture to grow potential microorganisms. This technique is rapid and highly sensitive, eliminating the need for culturing. Results can be obtained for a variety of pathogens within hours instead of days, creating a powerful diagnostic tool for physicians. AEON's women's health infectious disease panel, for example, tests for the presence of more than 30 different organisms from a single swab obtained during a doctor's visit. 
+
+ 
+ 6
+
+
+AEON’s Cancer Detect Profile test provides information on a range of hereditary cancers detailing the connection between a patient’s unique DNA profile and their risk of developing certain prevalent cancers. AEON provides high quality, cost-effective genetic testing for hereditary cancer markers using highly advanced nucleic acid extraction, next-generation sequencing and bioinformatics technologies.
+ 
+AEON’s highly qualified scientists, along with certified genetic counselors are analyze and interpret our reports and are available to provide consultation. These results help health care professionals, patients, and their families make future medical care decisions depending on the genomic mutations and associated cancers risks.
+ 
+AEON offers the analysis of 38 genes covering 18 different cancers as outlined below:
+ 
+
+GENE(S) | ASSOCIATED CANCER(S) / TUMORS 
+----------------------+-----------------------------------------------------------------------------------------------------------------------------
+APC | Colorectal, central nervous system, thyroid, liver, duodenal, pancreatic 
+ATM | Breast, pancreatic 
+NBN | Breast, prostrate, possibly ovarian 
+BRCA1, BRCA2 | Breast, ovarian, prostrate, pancreatic, male breast 
+BRIP1, RAD51C, RAD51D | Breast, ovarian 
+BMPR1A, SMAD4 | Stomach, colorectal, pancreatic 
+CDH1 | Breast, colorectal, gastric 
+CDK4 | Melanoma 
+CDKN2A | Melanoma, pancreatic 
+CHEK2 | Breast, colorectal 
+FH | Kidney, leiomyomas 
+FLCN | Kidney 
+MAX | Pheochromocytoma 
+MET | Kidney 
+MLH1, MLH2, MSH6, | Ovarian, colorectal, uterine, stomach, small bowel, hepatobiliary, brain 
+PMS2, EPCAM | Pancreatic, sebaceous, urinary tract 
+MUTYH | Breast, colorectal 
+NF1 | Optic glioma, gastrointestinal stromal tumor, paraganglioma/ pheochromocytoma, neurofibromas, breast, central nervous system
+PALB2 | Breast, pancreatic 
+PTEN | Breast, uterine, thyroid, colorectal, kidney 
+RET | Thyroid (medullary), pheochromocytoma 
+SDHAF2, SDHB, SDHC, | Kidney, paraganglioma/pheochromocytoma, gastrointestinal 
+SDHD | stromal tumor 
+TSC1, TSC2 | Kidney, cardiac rhabdomyomas, central nervous system 
+STK11 | Colorectal, small bowel, pancreatic, breast, ovarian 
+TMEM127 | Paraganglioma/pheochromocytoma 
+TP53 | Brain, leukemia, breast sarcoma, adrenocortical, gastrointestinal, Genitourinary 
+VHL | Kidney, pheochromocytoma, central nervous system 
+
+Scientific Core Competencies
+ 
+AEON success has been driven by its strong scientific team which has extensive experience. The more than 30 members of AEON's scientific team are involved in the operations of its laboratory continually working on research and development activities to expand the scope of testing offered. Eight members of the scientific team have advanced degrees including three with Doctoral degrees. AEON's utilizes proprietary sample preparation methods to achieve the most accurate results.
+ 
+ 7
+
+
+Revenue & Operations
+ 
+AEON provides testing services to a broad range of health care providers and other customers. The primary client groups serviced by AEON include:
+ 
+● | Physicians
+--+-----------
+
+
+● | Clinics
+--+--------
+
+
+● | Medical Centers
+--+----------------
+
+
+● | Hospitals
+--+----------
+
+
+● | Accountable Care Organizations (ACOs)
+--+--------------------------------------
+
+
+● | Rehabilitation Centers or Intensive Outpatient Care Centers
+--+------------------------------------------------------------
+
+
+● | Employer Health Programs
+--+-------------------------
+
+ 
+Billing for laboratory services is complex involving many payors to include: managed care organizations ("MCOs"), Medicare, Medicaid, physicians and physician groups, hospitals, patients and employer groups. All have different billing requirements. Billing process arrangements with third-party administrators also add to the complexity of the billing process and tests ordered by physicians may be billed to different payors, depending on the varying medical benefits of their patients.
+ 
+The delivery of, and reimbursement for, health care continues to change, impacting all stakeholders, including the clinical laboratory business. Medicare, Medicaid and insurers continue to increase their cost control parameters, utilization and delivery of health care services. Measures to regulate health care delivery in general and clinical laboratories in particular have resulted in reduced prices, added costs and decreased utilization of clinical laboratories by increasing complexity and adding new regulatory and administrative requirements. The Company expects the continuing pressure in the reduction of government reimbursements.
+ 
+AEON is working pro-actively to become an in-network provider under contract with all its private health insurance payors. This will result in higher volumes and greater collections. AEON has a dedicated staff focused on contracting with private health insurance payors and receiving the credentialing required to be an in-network provider.
+ 
+AEON markets its services across to a wide range of physician specialties, physician organizations, behavioral and mental health rehabilitation groups, third-party administrators ("TPAs"), pharmacy benefit managers ("PBMs"), small-medium-large health care systems accountable care organizations ("ACOs"), employer health programs and hospitals utilizing multiple channels including direct marketing, independent agents and distributors.
+ 
+AEON's three principal marketing channels include:
+ 
+1. | Direct Marketing - AEON employees call direct on accounts ranging from large, national payors to individual physicians.
+---+------------------------------------------------------------------------------------------------------------------------
+
+
+2. | Independent Agents - AEON has relationships with independent agents calling on doctors and selling AEON's multiple products and services.
+---+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3. | Distributors - AEON maintains relationships with organizations selling/promoting other medical-related products offering AEON's testing services as add-on services to their own value propositions.
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+AEON's early marketing strategy involved a direct field salesforce and independent agents calling on individual/independent physicians. AEON's sales and marketing strategy was to leverage AEON's service-oriented approach. AEON's primary differentiator is its willingness to develop a strong interface with medical providers’ electronic medical records (EMR) systems creating "stickier" relationships resulting in higher retention due to higher switching costs. To date, AEON maintains connectivity with numerous EMR vendors.
+ 
+AEON continues to refining its marketing strategy placing a greater emphasis on identifying new revenue streams to include large national payors, national management companies, ACOs, hospital systems, treatment centers, specialized physician practices, employer health programs and developing relationships with other clinical labs.
+ AEON focus on larger accounts increases will result in a reduction in independent agents resulting in improved control and a lower per test costs. However, in the near-term, the volume of independent agent-driven testing will remain a significant source of revenue.
+  
+ 8
+
+
+Market Landscape & Competition
+ 
+The clinical laboratory market segment is inherently competitive. AEON competes with laboratories owned by hospitals, independent clinical and anatomical pathology laboratories, and physician office laboratories. Based on industry data, it is estimated that in 2017, the U.S. clinical laboratory testing market size was approximately $59.6 billion. AEON estimates the clinical laboratory market to maintain a 2.5% to 3% annual growth rate resulting in a market size of approximately $69.0 billion by 2023. Results of clinical laboratory tests drive 70% of all treatment decisions. Demand for clinical laboratory services is expected to continue due to: (1) a continued trend towards preventative care, (2) the aging population, (3) higher illicit drug use, and (3) the increasing trend towards personalized and value-based medicine. AEON management believes that large health care organizations including payors, providers and administrative service providers will drive increasing testing volumes as they strive to guide the treatment of patients, ensure safe use of prescriptions and help doctors provide the highest level of care.
+ 
+AEON believes that its primary differentiators and competitive advantage include:
+ 
+● | Solutions - AEON provides a full suite of medical testing solutions with rapid reporting.
+--+------------------------------------------------------------------------------------------
+
+
+● | Processes - AEON complements its skilled medical and analytical staff with the use of robotic testing systems for precision and speed; each step is automated to avoid human error. This approach enables AEON to provide the fastest, most-reliable turn-around times in the industry for each professional test.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Reviews - AEON reviews every test result multiple times for complete confidence. Testing outcomes are reviewed by two professionals (with degrees in biology, chemistry or related sciences), then the final report undergoes a third review by a senior scientist before being released. Human touch provides oversight that cannot be achieved by fully-automated reporting processes.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Reports - Testing reports are comprehensive and easy-to-understand. In each testing protocol, the outcomes are produced in formats for a physician’s ease of comprehension, and subsequently delivered via secured portal, fax or electronic medical record ("EMR").
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Assistance - AEON provides professional assistance in the interpretation of results. Trained scientists and/or genetic counselors are on-hand to help physicians understand results for integration into patient treatment plans.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Retention - AEON has performed validation studies to allow it to retain tested specimens internally for four months to allow for re-testing if required. This provides an additional level of confidence to referring physicians.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Compliance - AEON employs full-time staff focused on compliance and regulation. All employees adhere strictly to AEON's compliance program through continuous training, education and AEON's Medical Testing Marketing Platform ("MTMP"). Employees are held to the highest regulatory and ethical standards while retaining a focus on customer satisfaction.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Training - Training is provided regularly to AEON customers by integrating medical testing into the protocols of a customer's practice and ensuring proper testing is always followed.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Collaboration - AEON employees are hands-on partners with their customers, providing proactive support, patient education and long-term integration of medical testing within the practice or clinic.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Toxicology laboratories test an individual's blood, urine or saliva for the presence of drugs or chemicals. Hospitals, physicians and other health care providers, commercial clients and law enforcement use the test results to assist in the detection of medication and other substances. Healthcare providers use this information to guide the treatment of patients and ensure safe use of prescriptions providing for the highest level of care. Employers use the information to screen potential employees or for on-going testing of personnel for the identification of illicit drug use. Typically, industry operators examine immunoassay, gas chromatography or liquid chromatography/mass spectrometry ("LC/MS") to detect broad-based drug groups such as opiates, benzodiazepines or barbiturates.
+ 
+Increasing illicit drug use is the primary driver of employers’ demand for toxicology tests. According to recent industry data, approximately 56% of U.S. business require employees to submit to drug tests. The Substance Abuse and Mental Health Services Administration's ("SAMHSA") 2016 National Survey on Drug Use and Health estimates that 27.8 million Americans aged 12 and older had recently used illicit drugs, up from 24.6 million in 2013.
+ 
+Technological advances in toxicology testing have increased dramatically allowing for greater accuracy and cost-effectiveness, and the testing of a broader array of substances. As a result of the Patient Protection and Affordable Care Act (the "Affordable Care Act" or "ACA"), the population of individuals with health insurance has increased, encouraging visits to physicians thus increasing the demand for toxicology labs to test for abnormalities or substances.
+ 
+ 9
+
+
+Pharmacogenomics testing services provide doctors and health care providers insight into the genetic makeup of patients and how their bodies metabolize and respond to different medications and therapeutic regimens. The information in comprehensive pharmacogenomics testing reports give doctors the ability to better prescribe medications tuned to patients’ genetics.
+ 
+Due to genetic variations, many patients experience adverse drug reactions ("ADRs") from drugs that may be relatively safe for others. ADRs are a significant contributor to mortality rates. A Harvard University study published in 2014, cites that prescription drugs resulted in approximately 2,700,000 serious ADRs and that 128,000 patients had fatal ADRs, making ADRs the fourth highest cause of death. In addition, the study estimated that 200,000 Europeans died from ADRs. A Brazilian study published in 2018 showed that the incidence of ADRs increased by 10% for each additional drug prescribed to a given patient. The Centers for Disease Control and Prevention ("CDC") estimates that ADRs contribute in an additional $3.5 billion in medical costs annually.
+ 
+AEON competes in a market space that is highly fragmented with many small toxicology laboratories that primarily cater to regional demand, such as the local law enforcement. However, large-scale companies have entered the market and have provided toxicology testing services to select markets (e.g. employers that have a large regional, mega-regional and national presence). Over the past five years, market share concentrations have increased due to consolidation through mergers and acquisitions. Key industry competitors include, Aegis Sciences, Dominion Diagnostics, Laboratory Corporation of America, Millennium Health and Quest Diagnostics. Laboratory Corporation of America Holdings and Quest Diagnostics, Inc. control approximately 40% of the market. AEON believes that ongoing consolidation in the clinical laboratory testing business will continue. AEON believes that it (and the other large independent clinical laboratory testing companies) are able to increase their respective market shares through: (1) improved economies of scale, (2) large-scale automated testing, (3) reimbursement reductions and managed health care entities that require cost efficient testing services, and (4) large service networks. Also, legal restrictions on physician referrals and their ownership of laboratories, as well as increased regulation of laboratories, are expected to contribute to continued industry consolidation.
+ 
+The AHC Business
+ 
+The Company's legacy AHC business provides secure web-based revenue cycle management applications and telehealth products and services that are designed to enable health care organizations to increase revenues, improve productivity, reduce costs, coordinate care for patients and enhance related administrative and clinical workflows and compliance with regulatory requirements. Web-based services are delivered as Software as a Service (SaaS) to its customers interfacing seamlessly with billing, information and document management systems. These solutions incorporate multiple features and security technologies such as business-rules based electronic forms, intelligent routing, transaction management, electronic signatures, identity credentialing, content authentication, automated audit trails and remote patient management capabilities. Web, fax-based and EMR communications are integrated into automated, secure and trusted workflow solutions.
+ 
+AHC's Inscrybe® Healthcare is a secure web-based revenue cycle management workflow automation solution that enables health care industry participants to securely exchange and track a variety of documents, certificates, and other information over different modes of communication, including electronic delivery. Inscrybe® Healthcare incorporates electronic signatures, business-rules based electronic forms, content authentication, workflow intelligence for routing and transaction management, and identity credentialing and verification. The Company intends to continue its efforts to market these web-based services and related products in its target markets.
+ 
+Sales, Marketing and Suppliers
+ 
+The Company's web-based services and telehealth products and services are sold through direct sales efforts, reseller arrangements and group purchasing organizations ("GPOs"). Resellers and GPOs typically receive a commission based on a percentage of the value of customer agreements executed through their efforts. In cases where our contracts have a term exceeding one year, we generally defer service revenue derived from these contracts and recognize it over the life of the contract. The Company has also retained professional consultants to support its marketing and sales efforts by providing it with expertise in specific markets. The markets for health care devices and solutions include integrated delivery networks, physician groups and networks, managed and accountable care organizations, hospitals, medical centers, home health agencies, pharmacies, government entities and public health organizations. The Company has historically contracted with third parties for the provision of hosting services to support its web-based services. The Company believes there are sufficient alternative suppliers of these services. The Company augments its own staff from time-to-time by using third-party consultants and its software and services incorporate products and services which it licenses from unaffiliated third parties. The Company has utilized the services of a contract manufacturer to assemble telehealth devices and several suppliers for its tablets, peripherals and various component parts and services. The Company believes that adequate alternative suppliers of these products and services exist on commercially reasonable terms to mitigate any adverse impacts caused by the termination of any of its existing relationships.
+ 
+ 10
+
+
+Competition
+ 
+The Company competes in markets for its web-based services and its telehealth products and services that are highly competitive and rapidly changing. The Company believes that the principal competitive factors affecting the market for the telehealth and web-based services and solutions include features such as ease of use, quality/reliability of our offerings, scalability, features and functionality, customer service and support and price. Competitors to the legacy telehealth services and solutions offer products, web-based processing of medical forms, signature solutions and patient monitoring products and services that compete with those we have offered. Most of these competitors are substantially larger or have more experience and market share than we do in their respective markets. In addition, companies which we do not presently directly compete with may become competitors in the future through their product development of secure online services and telehealth services and such companies may have greater financial, technological, and marketing resources than we do. Therefore, these competitors may be able to respond more quickly than we can to new or changing opportunities, technologies, standards and customer requirements. Many of these competitors also have broader and more established distribution channels that may be used to deliver competing products or services directly to customers through bundling or other means. Due to the foregoing and other factors, we may not be able to compete effectively with current or future competitors, and competitive pressures that we face could materially harm our business.
+Intellectual Property, Patents and Trademarks
+ 
+AEON has registered the trademarks "AEON Global Health", "AEON Clinical Laboratories", "Trust....But Verify", "Tox Advantage", "CGX Advantage" and "Prescribe with Confidence" in the United States in connection with its laboratory testing business.
+ 
+In connection with the web-based services and telehealth business, AHC has one issued U.S. patent and one pending patent application. The Company has registered the trademarks "Authentidate", "Inscrybe", "InscrybeMD", "AuthentiProof" and "Inscrybe Office" in the U.S., the trademark "Authentidate" in the European Community and Canada, "AuthentiProof" in Canada, Mexico and the European Community, "Inscrybe" in the European Community and Canada "Inscrybe Office," and a number of other trademarks as Madrid Protocol international registration
+ 
+The Company has also been granted a license to one issued U.S. patent by Authentidate International AG, two issued U.S. patents by its former joint venture partner and its affiliate and one issued U.S. patent by a third party.  The Company's right to utilize any such intellectual property is subject to the terms of this agreement.  There can be no assurance that the intellectual property to the Company will be effective to protect its products and services from duplication by other manufacturers or developers or to prevent competitors from offering similar products and services. 
+ 
+Other companies operating in similar markets may independently develop substantially equivalent proprietary information or otherwise obtain access to the Company's knowledge and expertise. There can be no assurance that the Company will be able to afford the expense of any litigation which may be necessary to enforce or defend the rights under any patent. Although the Company believes that the products or services offered do not and will not infringe upon the patents or violate the proprietary rights of others, it is possible that such infringement or violation has occurred or may occur. If any of the services or products offered is deemed to infringe upon the patents or proprietary rights of others, the Company could be required to modify its offerings or obtain a license for the use and/or sale of such products and services. There can be no assurance that, in such an event, the Company would be able to do so in a timely manner, upon acceptable terms and conditions, or at all, and the failure to do any of the foregoing could have a material adverse effect upon its business. If the Company's current or proposed offerings are deemed to infringe upon the patents or proprietary rights of others, it could, under certain circumstances, become liable for damages or subject to an injunction, which could also have a material adverse effect. It is the Company's policy to investigate allegations of third-party intellectual property rights to the extent that they are brought to the Company's attention or to the extent that the Company becomes independently aware of such third-party intellectual property rights to ensure that current and proposed products and services do not infringe on any such rights. The Company cannot provide any assurances that its products or services do not infringe upon any other patents, including the patents that the Company has investigated.
+  
+ 11
+
+
+Quality Assurance
+ 
+AEON maintains a well-structured and vigorous quality assurance program to provide accurate and precise clinical information to physicians. AEON holds the required federal and state licenses necessary for the operation of a clinical laboratory at its facilities and must submit to vigorous proficiency tests (or surveys) for all tests that it performs. AEON is also subject to unannounced inspections from the various state and federal licensing agencies.
+ 
+The Company has a Quality Assurance Committee (the "Committee"), headed by a Quality Assurance Coordinator and composed of supervisors from all of the Company's departments. The Committee meets monthly to assess and evaluate laboratory quality. Based on the information received from the Committee, recommendations are made to correct conditions that have led to errors. Management, department supervisors and members of the Committee continually monitor laboratory quality. Depending on the test, two or three levels of quality control materials are run in each analytical assay to enhance precision and accuracy. Patient population statistics are evaluated each day. Testing of highly abnormal samples is repeated to maximize accuracy. The Company participates in numerous externally-administered quality surveillance programs, including the College of American Pathology (“CAP”) program.
+ 
+The Company believes that these procedures are necessary, not only in maintaining federal and state licensing, but also in assuring a quality product. The Company believes that high standards of quality are an important factor in differentiating it from the competition.
+ 
+Regulation – Medicare and Private Reimbursement Policies
+ 
+The Company’s business is impacted by extensive and frequently changing laws and regulations in the United States (at both, the federal and state levels), and the other jurisdictions in which it conducts business. These laws and regulations include regulations particular to both segments of the Company’s business, and laws and regulations relating to conducting business. The Company is also subject to inspections and audits by governmental agencies.
+Privacy and Security Regulations
+ 
+The Company is required to comply with laws and regulations in the United States (at the federal and state levels), and jurisdictions outside the United States in which it conducts business, including the European Union, regarding protecting the security and privacy of certain health care are and personal information. These privacy and security laws include the federal Health Insurance Portability and Accountability Act, as amended, and the regulations thereunder (collectively, "HIPAA"). The HIPAA security regulations establish requirements for safeguarding protected health information. The HIPAA privacy regulations establish comprehensive federal standards regarding the uses and disclosures of protected patient health information. It also sets forth certain rights that an individual has with respect to his or her protected health information ("PHI") maintained by a covered entity, such as the right to access or amend certain records or to request restrictions on the use or disclosure of PHI. The privacy regulations require covered entities to contractually bind third parties, known as business associates, if they perform an activity or service for or on behalf of the covered entity that involves access to PHI. 
+
+HIPAA regulations encompass how certain health care information, including claims and remittance advice, is transmitted through the Transactions and Code Sets Rule. The Company believes that it is in compliance in all material respects with the current Transactions and Code Sets Rule. However, the failure of the Company, third-party payors or physicians to apply the new code set could have had an adverse impact on reimbursement, days sales outstanding and cash collections. The U.S. Health Information Technology for Economic and Clinical Health Act ("HITECH") strengthens and expands the HIPAA privacy and security rules and their restrictions on use and disclosure of PHI. HITECH includes, but is not limited to, prohibitions on exchanging PHI for remuneration and additional restrictions on the use of PHI for marketing. HITECH also changed a business associate's obligations by imposing privacy and security requirements directly on business associates that were previously only directly applicable to covered entities. Moreover, HITECH requires covered entities to provide notice to individuals, the U.S. Department of Health and Human Services ("HHS"), and, as applicable, the media when unsecured PHI is breached, as that term is defined by HITECH. Business associates are similarly required to notify covered entities of a breach.
+ 
+ 12
+
+
+As well as the HIPAA regulations described above, there are other national, state and foreign laws regarding the confidentiality and security of medical information, some of which apply to clinical laboratories. These laws vary widely but they most commonly regulate or restrict the collection, use and disclosure of medical and financial information and other personal information. In some cases, state laws are more restrictive and are not preempted by HIPAA. Penalties for violation of these laws may include sanctions against a laboratory's licensure, as well as civil and/or criminal penalties. Violations of the HIPAA provisions could result in civil and/or criminal penalties, including significant fines and up to 10 years in prison. HITECH also significantly strengthened HIPAA enforcement by increasing the civil penalty amounts that may be imposed, requiring HHS to conduct periodic audits to confirm compliance and authorizing state attorneys general to bring civil actions seeking either injunctions or damages in response to violations of the HIPAA privacy and security regulations that affect the privacy of state residents. Together, these laws and regulations establish a complex regulatory framework, and may require a health care provider to notify individuals or the government if the provider discovers certain breaches of personal information or protected health information. The Company maintains policies and practices in place, designed to meet all applicable requirements.
+ 
+Laws Governing Laboratory Testing Businesses
+ 
+All U.S. laboratories that perform drug testing for certain public-sector employees and employees of certain federally regulated businesses are required to be certified as meeting the detailed performance and quality standards of the Substance Abuse and Mental Health Services Administration. To obtain access to controlled substances used to perform drugs-of-abuse testing in the United States, laboratories must be licensed by the Drug Enforcement Administration. AEON's laboratories, which perform the type of testing described in this paragraph are certified and licensed as required.
+ 
+The Center for Medicaid and Medicare Services regulate all laboratory testing performed on humans through the Clinical Laboratory Improvements Amendment of 1988 ("CLIA"). CLIA extends federal oversight to virtually all clinical laboratories by requiring that they be certified by the federal government or by a federally-approved accreditation agency. CLIA requires that all clinical laboratories meet quality assurance, quality control, and personnel standards. Laboratories also must undergo proficiency testing and are subject to inspections.
+ 
+Standards for testing under CLIA is based on the complexity of the tests performed by the laboratory, with tests classified as "high complexity," "moderate complexity," or "waived." Laboratories performing high complexity testing are required to meet more stringent requirements than moderate complexity laboratories. Laboratories performing only waived tests, which are tests determined by the Food and Drug Administration to have a low potential for error and requiring little oversight, may apply for a certificate of waiver exempting them from most of the requirements of CLIA. The sanctions for failure to comply with CLIA requirements include suspension, revocation or limitation of a laboratory's CLIA certificate, which is necessary to conduct business; cancellation or suspension of the laboratory's approval to receive Medicare and/or Medicaid reimbursement, as well as significant fines and/or criminal penalties. The loss or suspension of a CLIA certification, imposition of a fine, or other penalties, or future changes in the CLIA law or regulations (or interpretation of the law or regulations) could have a material adverse effect on AEON.
+ 
+AEON is also subject to state and local laboratory regulation. CLIA provides that a state may adopt laboratory regulations different from, or more stringent than those under federal law, and numerous states have implemented their own laboratory regulatory requirements. State laws may require that laboratory personnel meet certain qualifications, specify certain quality controls, or require maintenance of certain records.
+  
+Fraud and Abuse Laws
+ 
+Existing federal laws governing federal health care programs, including Medicare and Medicaid, as well as similar state laws, impose a variety of broadly described fraud and abuse prohibitions on health care providers, including clinical laboratories. These laws are interpreted liberally, and enforced aggressively by multiple government agencies, including the U.S. Department of Justice, Health and Human Services Office of Inspector General ("OIG"), and various state agencies. Historically, the clinical laboratory industry has been the focus of major governmental enforcement initiatives. The federal government's enforcement efforts have been increasing over the past decade, in part due to the enactment of HIPAA, which included several provisions related to fraud and abuse enforcement, including the establishment of a program to coordinate and fund federal, state and local law enforcement efforts. The Deficit Reduction Act of 2005 also included new requirements directed at Medicaid fraud, including increased spending on enforcement and financial incentives for states to adopt false claims act provisions similar to the federal False Claims Act. Recent amendments to the False Claims Act, as well as other enhancements to the federal fraud and abuse laws enacted as part of the ACA, are widely expected to further increase fraud and abuse enforcement efforts. For example, the ACA established an obligation to report and refund overpayments from Medicare within 60 days of identification; failure to comply with this new requirement can give rise to additional liability under the False Claims Act and Civil Monetary Penalties statute. On February 16, 2012, CMS issued a proposed rule to establish regulations addressing the reporting and returning of overpayments. Although the rule has not been finalized, cases have started to emerge with potential False Claims Act liability for retaining an overpayment beyond the 60-day deadline and the necessity to act quickly once an overpayment has been identified.
+ 
+ 13
+
+
+The federal health care programs' anti-kickback law (the "Anti-Kickback Law") prohibits knowingly providing anything of value in return for, or to induce, the referral of Medicare, Medicaid or other federal health care program business. Violations can result in imprisonment, fines, penalties, and/or exclusion from participation in federal health care programs. The OIG has published "safe harbor" regulations which specify certain arrangements that are protected from prosecution under the Anti-Kickback Law if all conditions of the relevant safe harbor are met. Failure to fit within a safe harbor does not necessarily constitute a violation of the Anti-Kickback Law, although the arrangement would be subject to scrutiny by regulators and prosecutors and would be evaluated on a case-by-case basis. Many states have their own Medicaid anti-kickback laws and several states also have anti-kickback laws that apply to all payors (i.e., not just government health care programs).
+ 
+From time-to-time, the OIG issues alerts and other guidance on certain practices in the health care industry that implicate the Anti-Kickback Law or other federal fraud and abuse laws. Violations of other fraud and abuse laws also can result in exclusion from participation in federal health care programs, including Medicare and Medicaid. One basis for such exclusion is an individual or entity's submission of claims to Medicare or Medicaid that are substantially in excess of that individual or entity's usual charges for like items or services. In 2003, the OIG issued a notice of proposed rulemaking that would have defined the terms "usual charges" and "substantially in excess" in ways that might have required providers, including the Company, to either lower their charges to Medicare and Medicaid or increase charges to certain other payors to avoid the risk of exclusion. On June 18, 2007, the OIG withdrew the proposed rule, saying it preferred to continue evaluating billing patterns on a case-by-case basis. In its withdrawal notice, the OIG also said it "remains concerned about disparities in the amounts charged to Medicare and Medicaid when compared to private payors," that it continues to believe its exclusion authority for excess charges "provides useful backstop protection for the public fiscal from providers that routinely charge Medicare or Medicaid substantially more than their other customers" and that it will continue to use "all tools available … to address instances where Medicare or Medicaid are charged substantially more than other payors." Thus, although the OIG did not proceed with its rulemaking, an enforcement action under this statutory exclusion basis is possible and, if pursued, could have an adverse effect on the Company. The enforcement by Medicaid officials of similar state law restrictions also could have a material adverse effect on the Company.
+ 
+Under another federal statute, known as the "Stark Law" or "self-referral" prohibition, physicians who have a financial or a compensation relationship with a clinical laboratory may not, unless an exception applies, refer Medicare patients for testing to the laboratory, regardless of the intent of the parties. Similarly, laboratories may not bill Medicare for services furnished pursuant to a prohibited self-referral. There are several Stark Law exceptions that are relevant to arrangements involving clinical laboratories, including: 1) fair market value compensation for the provision of items or services; 2) payments by physicians to a laboratory for clinical laboratory services; 3) an exception for certain ancillary services (including laboratory services) provided within the referring physician's own office, if certain criteria are satisfied; 4) physician investment in a company whose stock is traded on a public exchange and; 5) certain space and equipment rental arrangements that are set at a fair market value rate and satisfy other requirements. The requirements of a Stark Law exception must be met for the exception to apply. Many states have their own self-referral laws, which in some cases apply to all patient referrals, not just Medicare.
+ 
+There are a variety of other types of federal and state fraud and abuse laws, including laws prohibiting submission of false or fraudulent claims. The Company takes all laws and regulations applicable to its industry very seriously and conducts its business in compliance with all applicable federal and state fraud and abuse laws. The Company is unable to predict how these laws will be applied in the future, and as such, the Company gives no assurances that its arrangements will not be subject to scrutiny under such laws. Sanctions for violations of these laws may include exclusion from participation in Medicare, Medicaid and other federal or state health care programs, significant criminal and civil fines and penalties, and loss of licensure. Any exclusion from participation in a federal health care program, or any loss of licensure, arising from any action by any federal or state regulatory or enforcement authority, would likely have a material adverse effect on the Company's business. Any significant criminal or civil penalty resulting from such proceedings could also have a material adverse effect on the Company's business.
+ 
+ 14
+
+
+Reimbursement Laws
+ 
+Medicare reimbursements currently account for 19.6% of industry revenue and is expected to increase. Medicare beneficiaries' access to laboratory testing will be integral to the industry's growth over the next five years. In April 2014, the Protecting Access to Medicare Act of 2014 was enacted into law, which will significantly affect the Clinical Laboratory Fee Schedule ("CLFS"). Most diagnostic services are assigned a code under the Current Procedural Terminology ("CPT") coding system created by the American Medical Association in 1966. Typically, the CPT code is a five-digit number assigned to an item or service with genetic tests billed using CPT laboratory and pathology codes. In 1984, Congress authorized the creation of the Medicare CLFS for clinical laboratory services. The CLFS represents many fee schedules, as each carrier is required to establish its own schedule. Payments allowable under the CLFS were to be adjusted annually based on the Consumer Price Index, an index that grew at a rate below the rate of inflation for medical goods and services. One year later, Congress established a National Limitation Amount ("NLA") to establish a cap on fees for laboratory services. Following establishment of the NLA, the maximum allowable charge for laboratory services covered by Medicare was the lesser of the provider's charge for the service, the applicable carrier's fee schedule amount, or the NLA. Starting in 2017, Medicare payments for clinical diagnostic laboratory tests were determined by a market-based payment system, effectively basing Medicare payments on the weighted median of private payors' payment rates for each test. Overall, the Congressional Budget Office ("CBO") projects that these reforms to the CLFS will cut Medicare spending by $1.0 billion between 2014 and 2019 and an additional $2.5 billion from 2020 to 2024. Overall, this legislation will require laboratories to report variations in payment rates, such as varying payments across payors, thus likely translating to fewer discrepancies in payments. Diagnostic and medical laboratories will likely contend with increasingly competitive reimbursement rates. Laboratories can be fined up to $10,000 per day for failing to report or misrepresenting laboratory payments.
+ 
+The Company's telehealth products are used for medical purposes generally covered by government or private health plans. In general, a third-party payor only covers a medical product or procedure when the plan administrator is satisfied that the product or procedure improves health outcomes, including quality of life or functional ability, in a safe and cost-effective manner. Even if a device has received clearance or approval for marketing by the FDA, there is no assurance that third-party payors will cover the cost of the device and related procedures. In many instances, third-party payors use price schedules that do not vary to reflect the cost of the products and equipment used in performing those procedures. In other instances, payment or reimbursement is separately available for the products and equipment used, in addition to payment or reimbursement for the procedure itself. Even if coverage is available, third-party payors may place restrictions on the circumstances where they provide coverage or may offer reimbursement that is not sufficient to cover the cost of the Company's products. Third-party payors who cover the cost of medical products or equipment who allow a general charge for the procedure, often maintain lists of exclusive suppliers or approved lists of products deemed to be cost-effective. Authorization from those third-party payors is required prior to using products that are not on these lists as a condition of reimbursement. If the Company's products are not on the approved lists, health care providers must determine if the additional cost and effort required for prior authorization, and the uncertainty of actually obtaining coverage, is justified by any perceived clinical benefits from using these products. If hospitals and physicians cannot obtain adequate reimbursement for the Company's products or the procedures utilized, the Company's business, financial condition, results of operations, and cash flows could suffer a material adverse impact.
+ 
+The Medicaid program is a joint state-federal medical assistance program established and governed by Title XIX of the Social Security Act. The program provides assistance to more than 50 million Americans, approximately half of whom are children. The federal government has established broad guidelines for the program. States are free to administer their programs and to establish their own eligibility standards, type and scope of services, and payment rates. States must provide Medicaid benefits to certain individuals who are deemed "categorically needy;" most of which are indigent women and children, and people receiving Social Security disability benefits. States may also provide benefits to individuals who are not "categorically needy" but who are deemed to be in need of assistance. Children who do not qualify for benefits under Medicaid may be eligible to participate in the State Children's Health Insurance Program ("SCHIP") under Title XIX of the Social Security Act. Medicaid programs also are substantial payors for care provided in skilled nursing facilities. Given this mix of beneficiaries, Medicaid programs are important payors for items and services that are needed by women, children and nursing home residents.
+ 
+ 15
+
+
+Under the Medicaid program states are required to cover inpatient and outpatient hospital services, physician services, childhood vaccines, and certain laboratory and imaging services. Each state has its own drug testing laws, which limits the extent to which large-scale toxicology laboratories can enter the market.
+ 
+The Early and Periodic Screening, Diagnostic and Treatment ("EPSDT") benefit provides comprehensive and preventive health care services for children under the age of 21 who are enrolled in Medicaid. States are required to provide comprehensive services and furnish all Medicaid coverable, appropriate, and medically necessary services, including laboratory testing, needed to correct and ameliorate health conditions. States are required to provide any additional health care services that are coverable under the Federal Medicaid program and found to be medically necessary to treat, correct or reduce illnesses and conditions discovered regardless of whether the service is covered in a state's Medicaid plan. It is the responsibility of states to determine medical necessity on a case-by-case basis. Private payors are likely to consider the following in making coverage decisions regarding genetic tests: current signs and symptoms of the disease the test is intended to diagnose or rule out; personal or family history or risk factors for the disease; whether the test is considered to be investigational or experimental; the site at which the test will be performed; and whether the test will influence management or treatment of the disease.
+ 
+Like Medicare, private insurers are beginning to show interest in the use of scientific or medical evidence as a basis for coverage decisions. Some private payors are using a formalized technology assessment process to evaluate new tests and treatments. For example, Blue Cross Blue Shield employs a Technology Evaluation Center, the function and goals of which closely resemble Medicare's Technology Assessment process.
+ 
+Many private payors have adopted the use of CPT codes and a laboratory fee schedule, making their processes similar to what Medicare employs. Some payors adopt the Medicare approach on an almost wholesale basis, agreeing to pay providers an agreed upon percentage of the Medicare Fee Schedule."
+ 
+The Toxicology Laboratories industry is subject to a heavy level of federal, state and local regulation. The Centers for Medicare and Medicaid Services ("CMS") regulates all laboratory testing (except research) performed on humans in the United States through the CLIA, which extends federal oversight to virtually all clinical laboratories by requiring that they be certified by the federal government or federally approved accreditation agency. CLIA approved clinical laboratories must meet quantifiable quality assurance, quality control and personnel standards. Labs must also undergo proficiency testing by the College of American Pathologists and are subject to inspections. All clinical laboratories must be properly certified to receive Medicare or Medicaid payments. Drug testing for public-sector employees, a staple of the Toxicology Laboratories industry, is regulated by the Substance Abuse and Mental Health Services Administration, which has established detailed performance and quality standards that laboratories must meet in order to be approved to perform drug testing on employees of federal government contractors and certain other entities.
+ 
+Management believes that the regulatory landscape, particularly reimbursement rates set by the laboratory fee schedule, will likely become more stringent over the next five years. Medicare's fee schedule is now expected to be determined by private payor rates, with more favorable reimbursements for single-source proprietary tests. This recent change is anticipated to lower the incidence of pain physicians demanding a multitude of high-tech tests for detecting whether or not Medicare beneficiaries use specific drugs. As a result, there will likely be rising demand for proprietary toxicology tests that test for numerous drugs simultaneously.
+ 
+Health Care Reform
+ 
+In March 2010, the Patient Protection and Affordable Care Act ("PPACA") and the Health Care and Education Reconciliation Act of 2010 were signed into law. Together, the two made fundamental changes to the U.S. health care system. These laws included a large number of provisions that significantly altered the health care industry to address fraud and abuse, including expanding Medicaid eligibility, requiring most individuals to have health insurance, establishing new regulations on health plans, establishing health insurance exchanges, requiring manufacturers to report payments or other transfers of value made to physicians and teaching hospitals, and modifying certain payment systems to encourage more cost-effective care and a reduction of inefficiencies and waste.
+ 
+ 16
+
+
+While the laboratory industry agreed to a five-year annual rate reduction of 1.75% to the Medicare clinical lab fee schedule under health care reform, the long-term positives are expected to outweigh this reduction. Health care coverage has been mandated since 2010, which has stimulated laboratory testing. The PPACA's inclusion of laboratory services as part of the basic coverage for those currently uninsured will increase the number of patients with access to industry services. Under the PPACA, Medicare will cover the entire cost of preventive services, such as screening tests. All private health plans must also provide coverage for preventive services. As administrative rules implementing health care reform under the legislation are not yet finalized, have been modified, or have become subject to further administrative action, the impact of the health care reform legislation on the Company is unknown, and there can be no assurances that health care reform legislation will not adversely impact either the operational results or the manner in which the Company operates the business. Health care industry participants may respond by reducing their investments or postponing investment decisions, including investments in our solutions and services.
+ 
+Various health care reform proposals have also emerged at the state level. The Company cannot predict the exact effect of newly enacted laws or any future legislation or regulation will have on us. However, the implementation of new legislation and regulation may lower reimbursements for the Company's products, reduce medical procedure volumes and adversely affect the business, possibly materially.
+ 
+Regulation of Medical Devices
+ 
+Government authorities in the United States at the federal, state and local levels and foreign countries extensively regulate the research, development, testing, manufacture, labeling, promotion, advertising, distribution, sampling, marketing, and import and exporting of medical devices. Various federal, state, local and foreign statutes and regulations also govern testing, manufacturing, safety, labeling, storage, distribution and record-keeping related to such products and their marketing. The process of obtaining these approvals and clearances, and the subsequent process of maintaining substantial compliance with appropriate federal, state, local, and foreign statutes and regulations can require substantial time and financial resources. Statutes, rules, regulations and policies may change, and new legislation or regulations may be issued that could delay such approvals.
+ 
+Under the Federal Food Drug and Cosmetic Act, medical devices are classified into one of three classes labeled: I, II or III. The classification of a device into one of these three classes generally depends on the degree of risk associated with the medical device and the extent of control needed to ensure safety and effectiveness. Class I and II devices must be able to demonstrate safety and efficacy by adhering to a set of general controls, including compliance with the applicable portions of the FDA's Quality System Regulation, which sets forth good manufacturing practice requirements: facility registration, device listing and product reporting of adverse medical events, truthful and non-misleading labeling, and promotion of the device only for its cleared or approved intended uses. Class II devices are also subject to these general controls and any other special controls as deemed necessary by the FDA to ensure the safety and effectiveness of the device. Review and clearance by the FDA for these devices is typically accomplished through the 510(k)pre-market notification procedure. When 510(k) clearances are sought, a sponsor must submit a pre-market notification demonstrating that the proposed device is substantially equivalent to a legally marketed Class II device (for example, a device previously cleared through the 510(k)pre-market notification process). If the FDA agrees that the proposed device is substantially equivalent to the predicate device, then 510(k) clearances to market will be granted. After a device receives 510(k) clearances, any modification that could significantly affect its safety or effectiveness, or that would constitute a major change in its intended use, requires a new 510(k) clearances or could require pre-market approval, or PMA. The FDA has categorized the AHC telehealth product as a Class II device.
+ 
+Both before and after a medical device is commercially distributed, manufacturers and marketers of the device have ongoing responsibilities under FDA regulations. The FDA reviews design and manufacturing practices, labeling and record keeping, and manufacturers' required reports of adverse experiences and other information to identify potential problems with marketed medical devices. Device manufacturers are subject to periodic and unannounced inspection by the FDA for compliance with the Quality System Regulation, which sets forth the current good manufacturing practice requirements that govern the methods used in, and the facilities and controls used for, the design, manufacture, packaging, servicing, labeling, storage, installation and distribution of all finished medical devices intended for human use. FDA regulations prohibit the advertising and promotion of a medical device for any use outside the scope of a 510(k) clearance or PMA approval or for unsupported safety or effectiveness claims. Although the FDA does not regulate physicians' practice of medicine, the FDA does regulate manufacturer communications with respect to off-label use. If the FDA finds that a manufacturer has failed to comply with FDA laws and regulations or that a medical device is ineffective or poses an unreasonable health risk, it can institute or seek a wide variety of enforcement actions and remedies, ranging from a public warning letter to more severe actions such as:
+ 
+● | fines, injunctions and civil penalties;
+--+----------------------------------------
+
+
+● | recall or seizure of products;
+--+-------------------------------
+
+
+● | operating restrictions, partial suspension or total shutdown of production;
+--+----------------------------------------------------------------------------
+
+ 
+ 17
+
+
+
+● | refusing requests for 510(k) clearance or PMA approval of new products;
+--+------------------------------------------------------------------------
+
+
+● | withdrawing 510(k) clearance or PMA approvals already granted; and
+--+-------------------------------------------------------------------
+
+
+● | criminal prosecution.
+--+----------------------
+
+ 
+The FDA also has the authority to require repair, replacement or refund of the cost of any medical device.
+ 
+Health and Environmental Laws
+ 
+AEON's testing business is subject to laws and regulations related to the protection of the environment, the health and safety of employees and the handling, transportation and disposal of medical specimens, infectious and hazardous waste and radioactive materials. For example, OSHA has established extensive requirements relating specifically to workplace safety for health care employers in the U.S. This includes requirements to develop and implement multi-faceted programs to protect workers from exposure to blood-borne pathogens, including preventing or minimizing any exposure through needlestick injuries. For purposes of transportation, some biological materials and laboratory supplies are classified as hazardous materials and are subject to regulation by one or more of the following agencies: the U.S. Department of Transportation, the U.S. Public Health Service, the U.S. Postal Service and the International Air Transport Association. AEON generally uses third-party vendors to dispose of regulated medical waste, hazardous waste and radioactive materials, and contractually requires them to comply with applicable laws and regulations.
+Principal Executive Officers
+ 
+Our principal executive officers, as of the filing date, are:
+ 
+Hanif A. (“Sonny”) Roshan, 56, Chairman, Chief Executive Officer and Director
+ 
+Sonny Roshan co-founded AEON in June 2010 and has served as its Chairman since that time. He has served as the Chairman of the Board since January 27, 2016, as Chief Executive Officer since August 7, 2016 and as a director since February 15, 2016. Mr. Roshan was appointed as the Company's interim Principal Accounting Officer on January 31, 2017 and served in that capacity until September 2017. From January 2000 to August 2010, Mr. Roshan served as the Chief Executive Officer of Universal Medical Services, LLC. In 2008, Mr. Roshan founded a chain of retail primary care clinics. Mr. Roshan also co-founded Palms Recovery Corporation, a provider of treatment for addiction, alcoholism, and dual diagnosis. Mr. Roshan also served as the Chief Financial Officer of Aeon Foundation from August 2013 to January 2015.
+Peter M. Hellwig, 53, Chief Financial Officer
+
+Peter Hellwig has over 30 years of experience providing financial management, operations management, strategic planning and corporate/business development functions to Fortune 1000 clients, small/medium size business enterprises and start-up operations. Mr. Hellwig’s skills span both the public and private sectors. For the past 15 years, Mr. Hellwig has specialized in serving as the internal and outsourced CFO and COO for publicly companies for proper fiscal management, financial reporting, and disclosure for full compliance with all aspects of the Securities & Exchange Commission (“SEC”).
+Corporate Offices & Employees
+ 
+The Company's corporate offices are located at 2225 Centennial Drive, Gainesville, Georgia 30504.
+ 
+The Company's telephone number is (678)276-8412 and its corporate website can be accessed at www.aeonglobalhealth.com. The information contained in or that can be accessed through the Company's website is not part of, and is not incorporated in, this Annual Report.
+ 
+As of the date of this Annual Report the Company has approximately 52 employees.
+ 
+ 18
+
+
+Available Information
+ 
+The Company files Annual Reports on Form 10-K and Quarterly Reports on Form 10-Q files or furnishes Current Reports on Form 8-K, files or furnishes amendments to those reports, and files proxy and information statements with the SEC. These reports and statements may be read and copied at the SEC's Public Reference Room at 100 F Street, N.E., Room 1580, Washington, DC 20549. You may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330.
+ 
+ 19
+
+

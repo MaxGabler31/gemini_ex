@@ -1,0 +1,133 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+ITEM 1: | BUSINESS
+--------+---------
+
+General
+ Perceptron, Inc. (“Perceptron”, “we”, “us” or “our”) develops, produces and sells a comprehensive range of automated industrial metrology products and solutions to manufacturing organizations for dimensional gauging, dimensional inspection and 3D scanning.  Products include 3D machine vision solutions, robot guidance, coordinate measuring machines, laser scanning and advanced analysis software.  Our customers, which include global automotive, aerospace and other manufacturing companies, rely on Perceptron's metrology solutions to assist in managing their complex manufacturing processes to improve quality, shorten product launch times and reduce costs.  Headquartered in Plymouth, Michigan, Perceptron has subsidiary operations in Brazil, China, Czech Republic, France, Germany, India, Italy, Japan, Slovakia, Spain and the United Kingdom.
+ Our products are categorized as follows:
+ In-Line, Near-Line and Off-Line Measurement Solutions (“Measurement Solutions”).  Sales of these products involve the development, manufacture and installation of:
+  
+• | In-Line fixed and robot-mounted laser-based, non-contact dimensional gauging systems used in original equipment manufacturing plants and component supplier plants;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | In-Line laser-based, non-contact systems that perform gauging for and intelligent guidance of industrial robots in the performance of a variety of complex automated assembly operations;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Near-Line robot-mounted laser-based, non-contact dimensional gauging systems used in original equipment manufacturing plants and component supplier plants; and
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Off-Line inspection and gauging cells comprising Coordinate Measuring Machines (“CMM”) or industrial and collaborative robotic solutions integrated with laser-based non-contact scanning sensors.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 3D Scanning Solutions.  Sales of these products involve the development, manufacture and marketing of laser-based sensors and software for the following applications:
+  
+• | Laser scanning sensors and metrology software for three-dimensional measurement on CMM for the reverse engineering and automated component inspection markets; and
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Laser scanning sensors integrated into vehicle wheel-alignment machines installed in automotive assembly plants.
+--+-----------------------------------------------------------------------------------------------------------------
+
+ Value Added Services.  Perceptron offers the following value added services to customers: 
+  
+• | Training;
+--+----------
+
+
+• | Field Service and Calibration;
+--+-------------------------------
+
+
+• | Launch Support Services;
+--+-------------------------
+
+
+• | Consulting Services; and
+--+-------------------------
+
+
+• | Equipment and Software Maintenance Agreements.
+--+-----------------------------------------------
+
+Markets
+ Perceptron has a long history serving the global automotive manufacturing market with advanced technology.  In fiscal 2019, 2018 and 2017, automotive sales represented approximately 80%, 82% and 85% of our Net Sales on our Consolidated Statement of Operations (“Net Sales”), respectively.  We have product offerings encompassing numerous manufacturing processes, including complex part assembly, automotive body construction, industrial robotic guidance for complex assembly applications, gauging cells, coordinate measuring solutions and reverse engineering. 
+Products and Applications
+ Measurement Solutions
+ Perceptron’s In-Line and Near-Line Measurement Solutions are based on a combination of our non-contact Helix® sensor technology and Vector software. Our Off-Line Measurement Solutions are based on our full line of Coord3® CMMs, V7 3D Laser Scanner, plus TouchDMIS™ measuring software. Measurement Solutions in our fiscal year 2019, 2018 and 2017 represented 91%, 91% and 90% of our Net Sales, respectively.
+ In-Line and Near-Line
+ AutoGauge®: Our automated metrology systems are used in assembly and fabrication plants to contain, correct, and improve the quality of complex assemblies. AutoGauge® systems are placed directly in the manufacturing line or near the line to automatically measure critical dimensional characteristics.  
+ 2
+
+AutoGauge®ACF: Our turnkey near-line robotic systems are used in assembly and manufacturing facilities to replace traditional checking fixtures. Virtually everything about AutoGauge®ACF is automatic – from high speed data collection, to real-time reporting and analysis.  AutoGauge®ACF measures parts within minutes, greatly increasing inspection throughput compared to CMMs, ring gauges, manual tools, and other optical metrology systems.
+ AutoFit®: Our gap and flush systems are used in automotive manufacturing plants to contain, correct, and control the fit of exterior body components. These systems automatically measure, record and display the gap and flushness of every vehicle. They can be installed at multiple locations in the manufacturing process, including in the body shop just after the door load process and in the final assembly area after the vehicle has been painted and completely assembled.  AutoFit® can measure vehicles while in motion along the assembly line or in a stationary position.  During our fiscal year ending June 30, 2019, we made significant advancements in our measurement algorithms and our sensor technology enabling accurate measurement on translucent head lamps and tail lamps. Customers receive critical fit and finish data on the four corners of the fully assembled vehicle, such as tail lamp fit to the quarter panel and decklid; head lamp fit to the hood, fender, and bumper assemblies.
+ AutoGuide®:  Our robot guidance systems are used by manufacturing companies to automate assembly operations – improving productivity and quality at the same time.  These systems utilize Perceptron sensors and software to guide and control robots for numerous assembly applications, including automotive windshield insertion, roof loading, hinge mounting, door attachment, and sealant dispensing.  During our fiscal year ending June 30, 2019, we modified and optimized our robot guidance platform for the requirements of de-racking, seam sealing, and glue bead applications. The large-field-of-view Helix®evo X300 sensor, as well as the one-glance dashboard, eliminate the customers’ need for precision fixtures, large conveyors, station operators and part handlers. With our streamlined interface for these specific applications, station setup time is now completed in a fraction of the time.
+ AccuSite®:  Our optical tracking technology tracks production robots and/or sensors and actively corrects for robot drift, and eliminates the need for expensive, time consuming CMM comparison activities. AccuSite® can be used with our AutoGauge®, AutoGauge®ACF, and AutoGuide® solutions.
+ Helix®evo:  Our Helix®evo sensor family improves 3D Scanning performance through faster measuring and increased overall system robustness. Helix®evo utilizes a green laser to measure the multitude of materials used in today’s manufacturing, such as chrome, aluminum, sheet metal and painted surfaces. Its scan acquisition provides accurate feature extraction along with the pristine scan quality required for form analysis. Helix®evo also uses a single power-over-ethernet cable which reduces the number of auxiliary components required and is designed for fast and accurate measurement on the plant floor. 
+ Helix®solo:  Our Helix®solo family of contour and surface sensors are a cost-effective option for single feature measurements. Helix®solo utilizes a high-resolution camera and multiple laser color options offering unparalleled return images on challenging materials without applying sprays, stickers, or additional part preparation.
+ Off-Line 
+ Coord3®:   The Coord3® CMM product line includes bridge, gantry and horizontal style machines.  Bench-top CMMs are used for small part inspection while very large CMMs are used in aerospace, defense and heavy equipment industries.  Coord3® CMMs can be equipped with tactile scanning probes, V7 3D laser scanner, and TouchDMIS™ measuring software.  
+ V7: Our V7 3D laser scanner offers high quality scanning at an affordable price to maximize the value of Coord3® CMMs. This versatile scanning tool improves part inspection throughput with high speed measurement. The V7 generated point clouds also enables reverse engineering, cloud-to-CAD comparison, and 3D visualization.  
+ TouchDMISTM :   TouchDMIS™ measuring software simplifies CMM measurement by incorporating a 100% touch interface with the TouchCADTM quick programming module.  TouchDMIS™ is the world’s first all-touch CMM software.  
+ 3D Scanning Solutions
+ 3D Scanning Solutions in our fiscal year 2019, 2018 and 2017 represented 4%, 3% and 7% of our Net Sales, respectively.
+ WheelWorks®:  WheelWorks® software and sensors offer a fast, accurate, non-contact method of measuring wheel position for use in automated or manual wheel alignment machines in automotive assembly plants.  We supply sensors and software to a number of wheel alignment equipment manufacturers in Europe, Asia and North America who in turn sell alignment systems to automotive manufacturers.
+Value Added Services
+ Value Added Services: Value Added Services sales in our fiscal year 2019, 2018 and 2017 represented 5%, 6% and 3% of our Net Sales, respectively.  Value Added Services include training, field service, calibration, launch support services, consulting services, maintenance agreements and repairs.
+ 3
+
+Sales and Marketing
+ We market our in-line and near-line products directly to end-user Original Equipment Manufacturer (“OEM”) customers and through manufacturing line builders and system integrators. We market our Coord3 CMM product line through both direct sales and value added resellers.
+ Our principal customers for Measurement Solution products have historically been automotive manufacturing companies that we either sell to directly or through manufacturing line builders, system integrators or assembly equipment manufacturers.  These products are typically purchased for installation in connection with retooling programs undertaken by these companies.  Because sales are dependent on the timing of customers’ retooling programs, sales by customer vary significantly from year to year.  For our fiscal years 2019, 2018 and 2017, approximately 32%, 41% and 36%, respectively, of our Net Sales were derived from sales directly to our four largest automotive end-user customers.  We also sell to manufacturing line builders, system integrators and assembly equipment manufacturers, who in turn sell to our automotive customers.  For our fiscal years 2019, 2018 and 2017, approximately 9%, 7% and 11%, respectively, of our Net Sales were to manufacturing line builders, system integrators and original equipment manufacturers for the benefit of the same four largest automotive end-user customers in each respective year.  During our fiscal years 2019, 2018 and 2017, direct sales to Volkswagen Group accounted for approximately 13%, 15% and 16%, respectively, and direct sales to General Motors Company accounted for approximately 11%, 17% and 14%, respectively, of our Net Sales.  
+Manufacturing and Suppliers
+ Our manufacturing operations consist primarily of final assembly and calibration of hardware components and the development, testing and integration of our software with these hardware components.  We build our products from a combination of commercially available parts and uniquely designed and manufactured parts.  The components are primarily manufactured by third parties.  Individual components such as printed circuit boards are manufactured and supplied by third parties.  We believe a low level of vertical integration gives us significant manufacturing and inventory flexibility and minimizes total product costs.  
+ We purchase certain component parts and assemblies from single and multi-source suppliers.  With respect to the majority of our components, we believe that alternative suppliers could be found if existing suppliers could not ship to us.  Many of our components are customized for our specific manufacturing needs.  Due to these specifications, various lead times would be required, based on the specific component that needed to be re-sourced.  Component supply shortages in certain industries, including the electronics industry, have occurred in the past and are possible in the future due to imbalances in supply and demand.  We use global purchasing sources to minimize the risk of part shortages.  We have not experienced significant component supply shortages from single source suppliers in recent years. Significant delays or interruptions in the delivery of components, assemblies or products by suppliers, or difficulties or delays in shifting manufacturing capacity to new suppliers, could have a material adverse effect on us.  
+ Competition
+ We believe our products provide cost-efficient and complete solutions for our customers in terms of system capabilities, level of support and competitive pricing for the value provided, which we believe are the principal competitive factors in our markets. We also believe the technology within our products is more advanced than our competition.
+ There are a number of companies that sell similar and/or alternative technologies and methods into the same markets and regions as Perceptron. We believe there may be entities, some of which may be larger and have greater resources than our resources, that could develop technology and products which could prove to be competitive with us.   We also believe that certain existing or potential customers may be capable of internally developing their own technology.  See Item 1A: “Risk Factors” titled “There are a number of companies offering competitive products in our markets, or developing products to compete with our products, which could result in a reduction in our revenues through lost sales or a reduction in prices”.
+ 
+Backlog
+ Backlog represents orders or bookings we have received but have not yet been filled, that is, our unsatisfied performance obligations.  As of June 30, 2019, we had a backlog of $38.4 million, compared to $47.5 million at June 30, 2018.  As a result of our adoption of Accounting Standards Codification (“ASC”) 606, Revenue from Contracts with Customers, as of July 1, 2018, our total backlog decreased by $3.8 million as of that date.  Most of our backlog is subject to cancellation or delay by the customer, often with limited or no penalties.  Historically, cancellations of orders once they have been booked have been very infrequent although several cancellations have occurred during the last two fiscal years.  The level of our backlog at any particular time is not necessarily indicative of our future operating performance.  We expect to be able to fill substantially all of the orders in our backlog by June 30, 2020.  See Note 3, of the Notes to the Consolidated Financial Statements, “Revenue from Contracts with Customers”, contained in Item 8 of this Annual Report on Form 10-K for our current expectation on the timing of the revenue recognition for our current backlog level.
+ 
+4
+
+Research and Development
+ During fiscal year 2019, our research and development efforts focused on developing new and improved hardware and software subsystems to support the range of our industry-proven solutions. Product development accomplishments during this period included the completion and release of the following: 
+
+• | A complete family of multi-color, single laser line sensors called Helix®solo that provides a low-cost, state of the art replacement for the TriCam sensor family that has been in productive use for nearly two decades; this development includes an entirely new suite of powerful image processing algorithms;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | An auxiliary zoom light to support speed improvement for Helix®evo and surface feature measurements for the new Helix®solo sensor family;
+--+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | A family of gap and flush sensors incorporating new laser colors, plus a new algorithm suite to allow accurate measurement of the fit quality of the entire finished vehicle including all painted red and clear acrylic and glass auto body components;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | A highly accurate, fast and cost-effective WheelWorks®NCAsolo sensor, plus software to perform non-contact wheel alignment during automotive final assembly; and
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The V7 blue-light laser line scanner with enhanced TouchDMIS™ software for use on CMMs for accurately scanning part surfaces.
+--+------------------------------------------------------------------------------------------------------------------------------
+
+ We continue to focus on value engineering our hardware and software solutions to remove costs from all phases of our product lifecycle. We believe this investment in our products provides ongoing competitive advantages in all our markets.
+ Patents, Trade Secrets and Confidentiality Agreements 
+ As of June 30, 2019, we own 12 U.S. patents that have been granted to us which relate to various products and processes manufactured, used, and/or sold.  One additional U.S. patent is pending. We also own 5 foreign patents that have been granted to us in Europe, China and Japan and we have 3 patent applications pending in foreign locations.  The U.S. and foreign patents expire from 2019 through 2031.  In addition, we hold perpetual licenses to more than 35 other U.S. patents including rights to practice 7 U.S. patents for non-forest product related applications that were assigned in conjunction with the sale of a previous business unit in 2002, and rights to practice 9 U.S. patents that were sold in conjunction with the sale of another prior business line in August 2012.  The expiration dates for these licensed patents range from 2019 to 2031.
+ Perceptron has registered, and continues to register, various trade names and trademarks including Perceptron®, Powered by Perceptron®, AutoGauge®, AutoFit®, AutoGuide®, AutoScan®, AccuSite®, Contour Probe®, ScanWorks®, TriCam®, WheelWorks®, Visual Fixturing®, Helix®, Intelligent Illumination®, TouchDMIS™ and Coord3™, among others, which are used in connection with the conduct of our business.  
+ Our software products are copyrighted and generally licensed to our customers pursuant to license agreements that restrict the use of the products to the customer’s own internal purposes on designated Perceptron equipment.
+ We also use proprietary information and invention agreements and non-disclosure agreements with employees, consultants and other parties to protect our intellectual property.
+ There can be no assurance that any of the above measures will be adequate to protect our intellectual property or other proprietary rights.  Effective patent, trademark, copyright and trade secret protection may be unavailable in certain foreign countries. 
+ Employees
+ As of June 30, 2019, we have 327 employees worldwide. In Italy, we have 51 employees covered by Italy’s National Collective Bargaining Agreement for employees in the mechanical engineering industry.  The agreement was signed in November 2016 and is valid for 3 years. None of our other employees are covered by a collective bargaining agreement.  We believe our relations with our employees are good. 
+Available Information
+ Perceptron’s Internet address is www.perceptron.com.  On our website, we make available, free of charge, our Annual Report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and any amendments to those reports, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission (“SEC”).  These reports can be accessed through the “Investor Relations” section of our website under “SEC Filings”.  The information found on our website is not part of this or any report we file with, or furnish to, the SEC.   
+ 5
+
+ 

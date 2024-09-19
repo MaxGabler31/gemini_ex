@@ -1,0 +1,278 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS
+  
+  Forward-Looking Statements
+  
+ This Annual Report on Form 10-K includes a number of forward-looking statements that reflect management's current views with respect to future events and financial performance. Forward-looking statements are projections in respect of future events or our future financial performance. In some cases, you can identify forward-looking statements by terminology such as “may,” “should,” “expects,” “plans,” “anticipates,” “believes,” “estimates,” “predicts,” “potential” or “continue” or the negative of these terms or other comparable terminology. Those statements include statements regarding the intent, belief or current expectations of us and members of our management team, as well as the assumptions on which such statements are based. Current and prospective investors are cautioned that any such forward-looking statements are not guarantees of future performance and involve risk and uncertainties, and that actual results may differ materially from those contemplated by such forward-looking statements. These statements are only predictions and involve known and unknown risks, uncertainties and other factors, including the risks in the section entitled “Risk Factors” set forth in this Annual Report on Form 10-K for the fiscal year ended May 31, 2019, any of which may cause our company’s or our industry’s actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by these forward-looking statements. These risks include, by way of example and without limitation:
+   
+ 
+   ●
+ our ability to successfully implement our business plan;
+
+   ●
+ our need to raise additional funds in the future;
+
+   ●
+ our ability to continue as a going concern;
+
+   ●
+ our ability to successfully recruit and retain qualified personnel;
+
+   ●
+ our ability to successfully acquire FCC-regulated spectrum licenses and expand nation-wide;
+
+   ●
+ our ability to attract and retain business partners in the acquisition and construction of nation-wide FCC-licensed spectrum network;
+
+   ●
+ our ability to successfully build proprietary technologies to serve the Internet of Things;
+
+   ●
+ our ability to successfully commercialize our products and services on a large enough scale to generate profitable operations;
+
+   ●
+ our ability to maintain and develop relationships with customers and suppliers;
+
+   ●
+ the impact of competitive products and pricing;
+
+   ●
+ supply constraints or difficulties;
+
+   ●
+ general economic and business conditions;
+
+   ●
+ intellectual property claims brought by third parties; and
+
+   ●
+ the impact of any changes to industry regulations.
+
+       Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, or performance. Readers are urged to carefully review and consider the various disclosures made by us in this report and in our other reports filed with the Securities and Exchange Commission (the “SEC”). We undertake no obligation to update or revise forward-looking statements to reflect changed assumptions, the occurrence of unanticipated events or changes in the future operating results over time except as required by law. We believe that our assumptions are based upon reasonable data derived from and known about our business and operations. No assurances are made that actual results of operations or the results of our future activities will not differ materially from our assumptions.
+  
+ As used in this Annual Report on Form 10-K and unless otherwise indicated, the terms “Registrant,” “Company,” “we,” “us,” “our,” “Iota,” or “Iota Communications” refer to Iota Communications, Inc., a Delaware corporation (formerly known as Solbright Group, Inc.), and its wholly-owned subsidiaries, Iota Networks, LLC , an Arizona limited liability company (formerly known as M2M Spectrum Networks, LLC (“M2M”)) (“Iota Networks”), Iota Commercial Solutions, LLC, a Delaware limited liability company (formerly known as Solbright Energy Solutions, LLC) (“ICS”), Iota Spectrum Holdings, LLC, an Arizona limited liability company (“Iota Holdings”), Iota Spectrum Holdings, LLC., an Arizona limited liability company ("GP"), and Iota Spectrum Partners, LP, an Arizona Limited partnership ("LP").
+  
+  Corporate History
+  
+ The Company was initially formed in the State of Delaware on May 7, 1998 under the name Arkados Group, Inc. On October 30, 2017, the Company changed its name to Solbright Group, Inc. and, on November 26, 2018, then changed its name to Iota Communications, Inc. in connection with the Merger described below.
+  
+ On May 1, 2017, the Company acquired substantially all of the assets and certain liabilities of Solbright Renewable Energy, LLC, a South Carolina limited liability company.
+  
+   
+3
+
+
+  
+ On July 30, 2018, Iota Communications entered into an Agreement and Plan of Merger and Reorganization (“Merger Agreement”), subsequently amended on September 5, 2018, with a newly-formed , wholly-owned Arizona limited liability company subsidiary (“Merger Sub”), Iota Networks, and Spectrum Networks Group, LLC, an Arizona limited liability company and the majority member of M2M. Upon closing, Merger Sub merged into and with Iota Networks, with Iota Networks continuing as the surviving entity and the wholly-owned subsidiary of Iota Communications (the “Merger”).
+  
+ Additionally, in July 2018, Iota Networks converted $5,038,712 of convertible debt and accrued interest into 5,038,712 shares of Iota Communications’ common stock prior to the Merger.
+  
+ As of November 28, 2018, our trading symbol changed from “SBRT” to “IOTC”.
+  
+ Pursuant to the Merger Agreement at the effective time of the Merger:
+   
+ 
+   ●
+ Iota Networks’ outstanding 90,925,518 common equity units were exchanged for an aggregate of 129,671,679 shares of the Company’s common stock, $0.0001 par value per share (“Common Stock”);
+
+   ●
+ Iota Networks’ outstanding 14,559,737 profit participation units were exchanged for an aggregate of 15,824,972 shares of Common Stock;
+
+   ●
+ Warrants to purchase 1,372,252 common equity units of Iota Networks were exchanged for five-year warrants to purchase an aggregate of 18,281,494 shares of Common Stock at an exercise price of $0.3753 per share (the “Pre-Merger Warrants”); and
+
+   ●
+ A total of $2,392,441 of advance payments from an investor were converted into 7,266,499 common equity units prior to the Merger.
+
+       Immediately following the Merger, the Company had 196,279,076 shares of Common Stock issued and outstanding. The pre-Merger stockholders of the Company retained an aggregate of 43,434,034 shares of Common Stock of the Company, representing approximately 22.1% ownership of the post-Merger Company. Therefore, upon consummation of the Merger, there was a change in control of the Company, with the former owners of Iota Networks effectively acquiring control of the Company. The Merger was treated as a recapitalization and reverse acquisition of the Company for financial accounting purposes. Iota Networks is considered the acquirer for accounting purposes, and the Company’s historical financial statements before the Merger have been replaced with the historical financial statements of Iota Networks before the Merger.
+  
+ In connection with a tender offer the Company closed on January 11, 2019 (the “Tender Offer”), the Company raised approximately $4,625,000 from the exercise of Pre-Merger Warrants to purchase 12,322,368 shares of Common Stock which were amended, to extend the dates on (i) the Form of Election to Participate and Exercise Warrant and (ii) the Form of Notice and Withdrawal by two days, and exercised in connection with the Tender Offer. Participating investors received 14,708,125 shares of Common Stock in addition to credits for 14,351,047 MHz-Pops (the amount of megahertz of wireless spectrum covered by an exclusive Federal Communications Commission (“FCC”) radio frequency license, multiplied by the population in the Economic Area (as defined by the FCC) covered by such FCC license) to be used to acquire new spectrum licenses. Following the Tender Offer, 6,024,725 of the Pre-Merger Warrants remain outstanding pursuant to the Merger.
+  
+ On April 17, 2019, Iota Holdings, a wholly owned subsidiary of the Company, was formed in the State of Arizona.
+  
+  Business Overview
+  
+ We are a wireless network carrier and software-as-a-service (SaaS) company dedicated to the Internet of Things (“IoT”). We combine long range wireless connectivity with software applications to provide commercial customers with turn-key services to optimize energy efficiency, sustainability and operations for their facilities.
+  
+ IoT is the extension of internet connectivity to physical devices and everyday objects. Embedded with electronics, internet connectivity, and other forms of hardware (such as sensors), these devices can communicate and interact with other devices over the internet and be remotely monitored and controlled. According to a McKinsey Global Institute report published in June 2015, globally, an estimated 127 new devices connect to the Internet every second and IoT could have an annual economic impact of $3.9 trillion to $11.1 trillion by 2025 across many different settings, including factories, cities, and retail environments. Early adopters of IoT among commercial customers have spent recent years implementing use cases with IoT solution providers to seek energy-saving solutions and achieve other commercial innovations in their organizations. An IoT customer survey released by Bain & Company in 2018 has shown that the aggregate spending on IoT-related solutions among enterprises reached $235 billion in 2017 globally, with this figure expected to grow to about $520 billion in 2021.
+  
+ We believe, a significant amount of use cases around IoT has emerged in recent years in both the business-to-business and business-to-consumer segments. IoT service and product providers continue to search for the most optimal solutions for their target customers to create productivity and efficiency. Our target commercial customers are primarily commercial facility and building managers. We believe that such customer’s main concern is how to effectively manage their long-term assets, particularly machinery and real estate, to save energy, reduce spending, mitigate operational risks, and maximize value of investment. Our value proposition is to provide turn-key services to our commercial customers, focusing on the development of IoT solutions around smart buildings, and related services including energy management, asset tracking, and predictive maintenance. In order to be turn-key, our business strategy aims to develop solutions throughout all the stages within the IoT value chain in the smart building arena.
+  
+ 
+   
+4
+
+
+  
+ The following diagram depicts how we plan to integrate connectivity, data collection, date analytics, and operations optimization within a typical IoT value chain and to create turn-key services to our target customers:
+  
+
+ 
+   ●
+ Connectivity: our carrier-grade proprietary wireless network is purpose-built for the IoT, we believe offering optimized building penetration, reliable long-range coverage, secure data transmission, and endpoint device connectivity, requiring low energy usage;
+
+   ●
+ Data Collection: our easy-to-install wireless sensors, meters and devices unlock valuable data from existing commercial infrastructure, providing granular visibility into the facilities’ operations. This data is combined with external sources of data including weather and atmospheric conditions;
+
+   ●
+ Data Analytics: we believe our BrightAI platform will perform advanced analytics to provide insights to facility management and identify opportunities for performance improvement and sustainability; and
+
+   ●
+ Operations Optimization: empowered by data and analytics, we design and implement customized solutions for commercial facilities to achieve efficiency, thereby cutting costs. The BrightAI platform provides continuous feedback to enable on-going optimization and response to changes in commercial settings.
+
+  
+  Business Segments
+  
+ We operate our business across three segments: (1) Iota Networks, (2) Iota Commercial Solutions and (3) Iota Communications.
+  
+  Iota Networks
+  
+ The Company re-organized its operating segments in July 2018 in conjunction with the Merger with Iota Networks. The restructured business segment focuses on the first two stages of the IoT value chain, connectivity and data collection.
+  
+   
+5
+
+
+  
+  FCC-licensed Spectrum
+  
+ We believe that reliable, scalable and secure internet connectivity is the backbone and enabler of our IoT solutions. Purposely built for IoT, our network employs our own licensed spectrum by the FCC. This means that our sensors and devices operate within the portion of the radio spectrum reserved for entities that have been granted FCC licenses and generally operate without interference or spectrum crowding. Additionally, the FCC provides legal protection and enforcement to prevent other operators from transmitting over the same frequency in the same geographic area.
+  
+ 
+ Radio spectrum has a limited digital real estate. Only a small, finite quantity of spectrum, which are measured in Hertz (Hz), are in prime locations. Only 3% of all spectrum is usable for wireless telecommunications, including cellular and IoT, and is referred to as the permeable zone. Iota Networks’ business model calls for building a nationwide wireless network by utilizing 800-MHz-licensed FCC spectrum. 800-MHz spectrum is located in the permeable zone. It transmits data up to 30 miles between two tower sites and enables full structural and basement penetration. In comparison to Wi-Fi/Bluetooth or cellular network, connectivity established using the 800-MHz spectrum is less costly, with better distance coverage and building penetration. Using the exclusively-leased spectrum to build our proprietary network in the permeable zone we believe, allows us to provide superior, secure and inexpensive connectivity for IoT compared to Wi-Fi/Bluetooth or cellular
+  
+  Spectrum Partners Program
+  
+ The Spectrum Partners Program is designed to help the Company strategically expand its FCC-licensed spectrum coverage in the 800MHz range nation-wide. The FCC regulates the airwaves at different frequencies (MHz and GHz) above the United States and licenses bandwidth at different spectrum frequencies using either an auction or application system. To date, Iota Networks has licensed bandwidth by using the FCC’s application system. The FCC releases available licenses within the 800MHz range periodically to the public for application. Each license typically has a term of ten years. The Company applies for the available licenses directly or on behalf of our Spectrum Partners. Our Spectrum Partners are third-parties interested in becoming spectrum license holders of particular locations. We provide application services to our Spectrum Partners for a service fee.
+  
+ The FCC issues construction permits to spectrum license applicants once applications are filed and approved. We provide construction services to our Spectrum Partners and other third-party spectrum license holders who are granted licenses that are not yet operational. The license holders pay an upfront fee to the Company to construct facilities and activate licenses operationally, thereby converting the customers’ FCC construction permits into FCC license authorizations. The Company charges Spectrum Partners and other license holders a yearly license and equipment administration fee. Taken together, the application services, facility construction and license management services constitute what the Company refers to as Network Hosting Services.
+  
+ In order to expand our exclusive wireless network coverage in the 800MHz range strategically and quickly, the Company may enter into separate lease agreements with its Spectrum Partners and other third-party licensees to build its proprietary wireless network for IoT. The Company aggregates all the licenses in its Spectrum Partners Program and uses their available frequencies onto a single, purpose-built, national network. The Spectrum Partners, in exchange, will receive quarterly, revenue-based lease payments from the Company.
+  
+ Subsequent to the Merger, the Company has been actively seeking scalable strategies to upgrade its current Spectrum Partners Program and increase the size of its nation-wide spectrum portfolio. As of the fiscal year ended May 31, 2019, the Company controls approximately 439 million MHz-Pops of spectrum in the 800MHz range through direct ownership and through leases from its Spectrum Partners and third-party licensees.
+  
+  IotaLink
+  
+ IotaLink is a proprietary over-the-air communication protocol that is currently under development by the Company. It is a low power wide area wireless technology aimed to enable a wide range of narrowband IoT devices and services. In comparison to other available wireless technology in the market such as LoRaWan, which provides wireless communication technology to unlicensed network in the 900MHz spectrum, IotaLink is designed to enable and improve data transmission within the 800MHz spectrum that we license and specifically built for the types of IoT solutions we provide to our commercial customers. We believe that building proprietary wireless technology that adapts to the connectivity profile of our licensed spectrum and our targeted IoT applications brings value to commercial customers by reducing the upfront cost of technology infrastructure. The Company has created an alpha version of IotaLink for internal testing and currently expects to release a beta version by the end of 2019.
+  
+ 
+   
+6
+
+
+  
+  Iota Commercial Solutions (ICS)
+  
+ With the technological backbone developed in the Iota Networks segment, the ICS business segment can then focus on the commercialization of such technologies with applications based on data analytics and operations optimization within the IoT value chain. We believe that data collected from sensors and other advanced end point devices, transmitted via our proprietary network using the FCC-licensed spectrum and IotaLink, will be translated into actionable insights for our commercial customers in the focused IoT verticals of Smart Buildings.
+  
+  BrightAI
+  
+ BrightAI is a cloud-based software platform which we are developing that aims to receive data from energy, mechanical and environmental sensors and organizes, stores and analyzes this data to provide insights to drive energy efficiency and create optimization plans for commercial facility managers. BrightAI serves as a data analytics engine which gathers data from end point devices such as sensors and thermostats using wireless connectivity and produces analysis reports to reflect useful information on energy consumption. We expect to release a prototype version of the software in fiscal third quarter of 2020. The anticipated version will include features such as machine learning and data visualization. It will also provide several key functionalities to customers, including real-time data access, visual intelligence, event notification, predicative analytics and performance reporting. The BrightAI dashboard will provide a comprehensive overview of energy usage, environmental conditions and sustainability metrics. In addition, we also plan to include built-in application programming interface to enable third-party application and ERP system integration and promote customization based on our customers’ existing IT infrastructure. When our proprietary network in the 800MHz spectrum range is commercialized, we currently expect to expand the network connection capabilities of BrightAI to a combination of Wi-Fi, Bluetooth and IotaLink. By providing multiple connectivity options, we believe that BrightAI will be able to attract a broader user base both from our proprietary network and other wireless networks.
+  
+ We expect the BrightAI software platform to provide the following use cases in the future.
+  
+  ●
+  Remote monitoring: BrightAI collects data transmitted from sensors and IoT devices and captures this high-resolution data in real-time, enabling users to understand building conditions remotely and immediately. Some key building conditions include equipment operations, building occupancy and environmental conditions;
+
+  ●
+  Demand response: BrightAI applies a programmatic approach to energy curtailment during peak hours. BrightAI analyzes a building or facility’s current energy consumption pattern and identifies opportunities to cut peak hour energy costs;
+
+  ●
+  Demand control ventilation: BrightAI collects real-time data on building occupancy and weather condition. Data collected allows the ventilation system to directly respond to occupancy rate and deliver the right amount of fresh air to occupants; and
+
+  ●
+  Fault detection and threshold alerts: based on data collected from buildings and facilities, BrightAI analyzes real-time data and detects faults and anomalies so that users can better manage risks and avoid energy repairs.
+
+ 
+  Smart Buildings
+  
+ With valuable data organized and analyzed in BrightAI, we then can curate customized energy management solutions to our commercial customers. A Smart Building uses automated processes to automatically control the building’s operations including heating, ventilation, lighting, air conditioning, security and other systems. We leverage our connectivity solutions, easy-to-install wireless sensor technology, and cloud-based software BrightAI, to unlock the value of IoT in the application of Smart Buildings. The widely used wireless networks today including Wi-Fi, Bluetooth and LTE may incur expensive infrastructure cost and produce over-abundant data capacity and speed which may be unnecessary for certain commercial uses such as buildings and facility management. In addition, some networks feature short-range coverages which are unsuitable for IoT applications. We believe that our competitive edge in connectivity and data analytics will allow us to revamp the traditional building and energy management service model in today’s digitized world. Our Smart Buildings solutions include energy management, asset tracking and predictive maintenance.
+  
+ We provide energy management services to our commercial customers. Energy management of heating, ventilation, air-conditioning (“HVAC”) systems and LED lighting is high priority for building managers to be able to manage energy consumption and enhance sustainability. Currently, our in-house professionals provide LED retrofit services to buildings and commercial facilities, helping customers to improve system control and ambiance, reduce lighting energy consumption and maintenance costs. Once our 800MHz network and BrightAI software are perfected, we expect to provide IoT-enabled smart lighting solutions to our customers. Smart IoT lighting with wireless switches connects to a network, allowing them to be monitored and controlled from the cloud using the web or mobile devices. We believe that Smart LED lighting will also have wide industrial applications in commercial settings such as warehouses, indoor farm facilities, commercial parking areas and healthcare facilities.
+  
+ We currently provide solar energy system installation services to our commercial customers. With federal and state initiatives, we help our customers to produce sustainable energy on site, reduce operational expenses and maximize return on investment. Extending the connectivity of BrightAI to a facility’s solar generation plant can help to optimize the use of this energy and increase the return on investment for this system.
+  
+ Once the BrightAI software platform is upgraded to include more powerful features such as visualization and machine learning, we expect to expand our Smart Buildings solutions to include other applications such as asset tracking and predicative maintenance.
+  
+   
+7
+
+
+  
+  Energy-as-a-Service
+  
+ We intend to expand the application of Software-as-a-Service model into the energy management sector. Empowered by advanced technologies such as wireless network and data analytics, we hope to be able to integrate online devices and data with offline energy procurement services, and realize the commercial value of IoT. We hope to adopt the Energy-as-a-Service (“EaaS”) model into all of our IoT solutions and other energy conservation services. The EaaS business model allows businesses to procure energy management products and technologies as part of a service or subscription agreement instead of the old model of upfront purchase, own and maintain. Our EaaS service package model includes our BrightAI data analytics platform and a wide variety of energy conservation measures, including our LED lighting and solar services, all combined into a monthly subscription. This model helps simplify the process of implementing an optimization strategy and reduce operational risks. With the aid of BrightAI, we expect to enable our customers to quantify and visualize energy savings real-time and also get the benefit of leveraging our energy conservation expertise early in the project. Additionally, we expect the EaaS model to reduce upfront capital investment into any energy project which may allow for scalability and protection from obsolescence.
+  
+  Competition and Competitive Advantage
+  
+ In the Iota Networks business segment, we compete with individuals and organizations that are interested in leasing FCC-licensed spectrum in the range of 800MHz, for the use of IoT development or for other business and recreational purposes. We recognize that spectrum is a scarce resource. Our ability to attract Spectrum Partners and maximize the quantity of spectrum that we control directly impacts our business strategy to build proprietary networks to cover as many geographical locations as possible at an affordable cost. We believe that our Merger with Iota Networks in July 2018 and our currently expected launch of the upgraded Spectrum Partners Programs in 2020 will give us the first-mover advantage in the acquisition of frequency leasehold in order to reduce cost of data transmission.
+  
+ IotaLink will compete with other available over-the-air communication technologies in establishing low-cost, efficient and reliable connectivity for IoT. Notable technologies in the market include LoRaWan offered by LoRa, Sigfox, NB-IoT, RPMA offered by Ingenu, Weightless-P offered by Weightness, and Symphony Link offered by Link Labs. These technologies have garnered support from companies including IBM, Cisco, Texas Instruments, Huawei, Qualcomm, and other major cellular companies in the United States and globally. Compared to the more established competitors, IotaLink positions itself as a purpose-built wireless technology dedicated to IoT, in particular in the application of Smart Building and energy management. Our technology is among the only technologies that operates on a dedicated proprietary network with licensed spectrum. It offers competitive coverage range in both the rural and urban areas and supports a wide variety of endpoint devices with low power consumption at an affordable cost. IotaLink also features comparable level of security similar to our larger competitors. By developing a proprietary over-the-air communication technology that is purpose-built for the 800MHz spectrum, we believe that we can achieve seamless and cost-effective data transmission to facilitate data analytics and energy management services.
+  
+ BrightAI will compete with other SaaS providers in the application of Smart Building and energy management. Some notable competitors include Artis Energy, Actility, Aquicore, Carbon Lighthouse, Urban Volt, Relayr, Enertiv, BuildingIQ, and C3IoT. The thesis behind BrightAI is to provide a low-cost, open, scalable and easy-to-use solution to the Smart Building and energy management service customers. Therefore, we plan to incorporate certain important features including building management system integration, third party application connection, data analytics and an environmental control and monitoring system all in one software platform. To our knowledge, no other major software platform in the market has achieved this. Despite intense competition in SaaS, we believe that our turnkey bundled service, which includes connectivity, data transmission, data analytics and service, will deliver more cost-effective solutions to our customers.
+  
+ In the ICS business segment, we face competition in the IoT market for smart building/smart grid industries segments from multiple companies. There are several large players within the smart building market including, but not limited to, Johnson Controls, Siemens, Honeywell International and General Electric. These companies provide sophisticated building management systems for large commercial facilities and have essentially dominated the market for many years. We believe the landscape, however, is changing as technology advances and legacy systems become outdated and expensive to maintain. As the paradigm shifts to open and scalable solutions for building management, we believe that we can gain a competitive advantage over time. Initially, we seek to integrate our systems as a value-added upgrade or enhancement to existing management systems. In the future, depending on conditions, we may seek to expand our offerings to compete with the larger providers.
+  
+ Additionally, there are early stage technology companies that represent direct competition to BrightAI, including Optimum Energy and Enertiv. These companies are focused on data gathering and analytics to improve building efficiency and ultimately save money. We believe that our business model will gain competitive advantage over time, largely due to our dedicated investment in the full IoT value chain. As we continue to expand our network capability on the FCC-licensed spectrum, we hope to bring down the cost of data transmission significantly and allow seamless integration of data with the BrightAI platform. Our turn-key solutions are less reliant on any external services and allow customization throughout the entire IoT value chain based on any specific customer needs. Over time, we currently plan to pass down cost savings to our customers.
+  
+ The market for energy conservation service, LED lighting and building automation solutions is highly competitive. Large LED lighting companies such as General Electric, Phillips and Cree, as well as a large number of China-based manufacturers, represent significant competition for LED lighting. In addition, companies such as Johnson Controls, Rockwell Automation and Schneider Electric represent significant competition for building automation solutions. While these companies potentially represent sources of product for us as a system integrator, there are situations where these companies are competing directly with our service, particularly for large commercial customer opportunities. We believe that our ability to provide turn-key solutions and introduce the EaaS model to our customers is the key to enhance value and save cost for our customers. In addition, our data-driven energy management solutions are highly customized to serve different customer needs.
+  
+ 
+   
+8
+
+
+  
+ The market of solar engineering, procurement and construction (“EPC”) is highly competitive. Large companies such as SolarCity, SunPower, Vivint Solar and others represent significant competition to us as fully-integrated solar companies. While these companies potentially represent sources of product for us as an EPC company, there are situations where these companies are competing directly with us, particularly for large commercial or utility-grade solar installations. We believe our competitive advantage lies in the ability to provide service in a full spectrum including project development, project management, technology expertise, utility compliance, contract administration, procurement and integration expertise to the emerging field of solar energy. We have skills, manpower and experience supporting the government, military, industrial and commercial building spaces, and we service customers throughout the Southeast, Mid-Atlantic, New England and military sites nationwide.
+ 
+  Sales and Marketing
+  
+ Currently we are in the introductory phase of our BrightAI platform. Once the prototype version of the software is released with more features, we will initiate sales and marketing efforts to sell the software as part of the EaaS subscription package.
+  
+ Currently we market our Smart Buildings and energy conservation services nation-wide using both in-bound and out-bound marketing strategies. Our in-bound marketing strategy includes web presence on social media and content publishing. Our out-bound marketing strategy includes email campaign and LinkedIn outreach. Our target audience includes commercial facilities owners and managers of virtually all kinds such as commercial office buildings, hospitals, schools, warehouses and hotels. We also have three dedicated salespeople making out-bound sales calls and expanding business referrals.
+  
+ We anticipate supplementing our direct sales force with other representatives and channel partners. The scope and development of our sales and marketing organization will depend, among other things, on the amount of capital available to us in the future.
+  
+ During the fiscal years ended May 31, 2019 and 2018, we spent approximately $170,895 and $446,872, respectively, on sales and marketing.
+  
+  Research and Development
+  
+ Technologies around the IoT ecosystem have been evolving significantly in the recent decade. Because the industries in which the Company competes are characterized by rapid technological advances, the Company’s ability to compete successfully depends heavily upon its ability to ensure a continual and timely flow of competitive products, services and technologies to the marketplace.
+  
+ Our research and development team is located at our office in New Hope, Pennsylvania. We hired in-house and contracted third-party data scientists and software engineers to accomplish our product development needs. IotaLink, the proprietary wireless technology currently under development, is currently in its alpha version for internal testing and we expect to release a beta version by the end of 2019. BrightAI currently serves as a basic data analytics tool that generates energy usage reports for our customers. We expect to launch the prototype version of the software in late 2019 including advanced features such as machine learning and visualization.
+  
+ During the fiscal years ended May 31, 2019 and 2018, we spent approximately $4,100,000 and $540,000, respectively, on research and development.
+  
+  Intellectual Property
+  
+ Currently we do not own any patents, licenses or trademarks related to the core services and products. We currently plan to apply for trademarks for IotaLink and BrightAI in the future.
+ Government Approvals and Regulations
+  
+ Our spectrum licensing business is regulated primarily by the FCC pursuant to the Communications Act of 1934 (the “Communications Act”) and the Telecommunications Act of 1996 (the “Telecommunications Act”) (collectively, the “Acts”). In addition, the installation of solar energy systems is subject to oversight and regulation in accordance with national, state, and local laws and ordinances relating to building, fire and electrical codes, safety, environmental protection, utility interconnection and metering, and related matters.
+  
+ We are subject to various governmental approvals and regulations as follows:
+  
+  Renewal and Construction Requirements of Spectrum Licenses
+  
+ Spectrum licenses have a ten-year term, after which they must be renewed with the FCC. The renewal generally will be granted to a spectrum licensee that has: (1) provided substantial service during its past spectrum license term and (2) substantially complied with applicable FCC rules and policies and the Acts. The FCC also mandates that spectrum licensees construct facilities that provide adequate service to a certain percentage of the population of their spectrum licensed service areas within five, and in some cases, ten years of the initial spectrum license grant. Failure to meet these construction deadlines may result in forfeiture of the spectrum license.
+  
+   
+9
+
+
+  
+  Foreign Ownership
+  
+ The Communications Act limits direct foreign ownership in an FCC spectrum license to twenty percent. The Communications Act also mandates that no more than twenty-five percent of an FCC spectrum licensee’s capital stock may be indirectly owned or voted by non-United States citizens or their representatives, by a foreign government, or by a foreign corporation, absent an FCC finding that a higher level of foreign ownership is not inconsistent with the public interest. Indirect ownership in excess of twenty-five percent by persons or entities from countries that are signatories to the World Trade Basic Telecom Organization Agreement are presumed to be in the public interest. However, the FCC has the right to attach additional conditions to a grant of authority, and, in the exceptional case in which an application poses a very high risk to competition.
+ Leasing of Spectrum
+  
+ The FCC allows the leasing of spectrum to third parties either on a temporary or long-term. Wireless spectrum licensees may enter into a variety of arrangements with third parties assigning or transferring control of a spectrum license, such as through sale or lease which require the FCC's approval.
+  
+ Our energy management and conservation services are subject to regulations of United States Department of Labor Occupational Safety and Health Administration (“OSHA”) and equivalent state laws. Our services conducted in commercial facilities and buildings involve installation, modification, and re-construction of some potentially hazardous electrical systems and large machinery. We ensure that our in-house professionals and sub-contractors are properly trained and insured to conduct the services in compliance with OSHA rules.
+  
+  Employees
+  
+ As of September 11, 2019, we had 30 full-time and 10 part-time employees. None of our employees are covered by a collective bargaining agreement.
+  
+  

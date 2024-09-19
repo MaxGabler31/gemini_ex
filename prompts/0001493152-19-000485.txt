@@ -1,0 +1,67 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1 - BUSINESS
+General
+ 
+Vicon Industries, Inc. (the “Company”), incorporated in 1967, markets video management and access control software along with a wide range of video and access control system components, comprised principally of cameras, network video servers/recorders, encoders and mass storage units, used in security, surveillance, safety and control applications by a broad group of end users. A video system is typically a private network that can transmit and receive video, audio and data signals in accordance with the operational needs of the user. An access control system provides security control and management of door access points within a facility. The Company’s primary business focus is the design of network video and access control systems that it produces and sells worldwide, primarily to authorized dealers, system integrators, government entities and security products distributors.
+ 
+The Company operates within the electronic protection segment of the security industry. The U.S. security industry consists of thousands of individuals and businesses (exclusive of public sector law enforcement) that provide products and services for the protection and monitoring of people, property and information. The security industry includes fire and detection systems, access control, video surveillance, asset protection, guard services and equipment, locks, safes, armored vehicles, perimeter protection, private investigations, biometric systems, software and network security, among others. The Company’s products are typically used for crime deterrence, visual documentation, observation of inaccessible or hazardous areas, enhancing safety, mitigating liability, obtaining cost savings (such as lower insurance premiums), accumulating command and control data, managing control systems and improving the efficiency and effectiveness of personnel. The Company’s products are used in, among others, office buildings, manufacturing plants, apartment complexes, retail stores, government facilities, airports, highways, transportation operations, prisons, casinos, hotels, sports arenas, health care facilities and financial institutions.
+ 
+Products
+ 
+The Company’s product line consists of various elements of a video and access control system, including cameras for image capture, stand-alone network video management system (VMS) software and various video recording, storage, management and output devices, door controllers and peripherals. The Company’s VMS software is sold either separately or configured in a Network Video Recording (“NVR”) or Digital Video Recording (“DVR”) device. Video capture offerings include a range of analog, digital and high definition (HD) megapixel cameras for both fixed and robotic positioning applications, along with associated housing options to perform in a broad range of climatic and operating environments. The Company also sells and/or produces other video system components such as video encoders decoders and monitors, camera lenses, housings and mounts, matrix video switchers and controls and various video transmission devices. The Company’s access control offering consists of electronic door controllers and communication panels, managed by network access control software.
+ 
+The Company’s products range from a simple camera mounting bracket to a large IP based video camera control, transmission, recording, storage, virtual matrix switching and access control system. The Company’s sales are concentrated principally among its network video products and cameras.
+ 
+
+2
+-
+
+Marketing
+ 
+The Company’s marketing emphasizes video and access control system solution capability which includes system and network design, pre-ship configuration, project management, technical training and pre and post-sales support. The Company promotes and markets its products through industry trade shows worldwide, product brochures, catalogs, direct marketing and electronic mailings to existing and prospective customers, webinars, technical seminars for system designers, customers and end users, road shows which preview new systems and system components, and advertising through trade and end user magazines and the Company’s web site (www.vicon-security.com). The Company’s products are sold principally to independent dealers, system integrators and security products distributors. Sales are made principally by Company field sales engineers supported by inside customer service representatives. The Company’s sales effort is supported by field or in-house professional and technical services staff who provide product information, system and network design, project management, and hardware and software pre-configuration and support.
+ 
+The Company’s products are utilized in video surveillance and access control applications by: (1) commercial and industrial users, such as office buildings, manufacturing plants, warehouses, apartment complexes, shopping malls and retail stores; (2) federal, state, and local governments for national security purposes, agency facilities, prisons, and military installations; (3) financial institutions, such as banks, clearing houses, brokerage firms and depositories, for security purposes; (4) transportation departments for highway traffic control, bridge and tunnel monitoring, and airport, subway, bus and seaport security and surveillance; (5) gaming casinos, where video surveillance is often mandated by regulatory authorities; (6) health care facilities, such as hospitals; and (7) institutions of education, such as schools and universities.
+ 
+The Company’s principal sales offices are located in Hauppauge, New York and Fareham, England.
+ 
+International Sales
+ 
+The Company sells its products in Europe, the Middle East and Africa (EMEA) through its European based subsidiary and elsewhere outside the U.S. principally by direct export from its U.S. headquarters. The Company primarily uses a wide range of installation companies and security product distributors in international markets.
+ 
+Export sales and sales from the Company’s foreign subsidiaries amounted to $8.1 million and $8.3 million, or 29% and 31% of consolidated net sales in fiscal years 2018 and 2017, respectively. The Company’s principal foreign markets are the U.K., Europe, Middle East and the Pacific Rim, which together accounted for approximately 70% of international sales in fiscal 2018.
+ 
+Competition
+ 
+The Company operates in a highly competitive marketplace both domestically and internationally. The Company competes by providing a value added video system solution combined with a high level of professional and technical support. The Company is also well known in the security field having specialized in video security applications since its founding in 1967. Generally, the Company does not compete based on price alone.
+ 
+Many of the Company’s principal competitors are larger companies whose financial resources and scope of operations are substantially greater than the Company’s. Such competitors include security divisions of the Bosch Group, Honeywell International, Schneider Electric, Tyco International, Samsung Group and United Technologies, among others. The Company also competes with many VMS producers such as Avigilon Corporation, Exacq Technologies, Genetec Inc. and Milestone Systems and for cameras with companies such as Axis Communications, Hikvision Digital Technology, Panasonic Corporation and Hanwha, among others. Many additional companies, both domestic and international, produce products that compete against one or more of the Company’s product lines.
+ 
+Engineering and Development
+ 
+The Company’s principal software development activities are currently conducted by a related party outsourced team located in India. The trend of product development and demand within the video security and surveillance market has been toward enhanced software applications involving the compression, analysis, transmission, storage, manipulation, imaging and display of digital video over IP networks. Since the Company’s target market segment (enterprise applications) requires it to keep pace with changes in technology, the Company has focused its engineering effort in these developing areas. Development projects are chosen and prioritized based on competitor threats, the Company’s analysis as to the needs of the marketplace, anticipated technological advances and market research.
+ 
+Engineering and development expenses amounted to approximately $4.1 million and $4.8 million, or 15% and 18% of net sales, in fiscal years 2018 and 2017, respectively.
+ 
+
+3
+-
+
+Source and Availability of Raw Materials
+ 
+The Company has relied upon independent contract manufacturers and suppliers to produce and assemble a majority of its hardware related products. In fiscal 2017, the Company commenced an outsourcing plan of its production to turnkey OEM suppliers. The Company’s relationships with its independent manufacturers, assemblers and suppliers are not covered by formal contractual agreements allowing it to move freely to wherever the best quality and price can be obtained.
+ 
+Raw materials and components purchased by the Company and its suppliers are generally readily available in the market, subject to market lead times at the time of order. The Company is generally not dependent upon any single source for a significant amount of its raw materials or components.
+ 
+Intellectual Property
+ 
+The Company owns a very limited number of patents and trademarks. Most of the Company’s key products utilize proprietary software which is protected by copyright. The Company considers its software to be unique and is a principal element in the differentiation of the Company’s products from its competition. However, the laws of certain foreign countries do not protect intellectual property rights to the same extent or in the same manner as the laws of the U.S. The Company has no significant licenses, franchises or concessions with respect to any of its products or business dealings.
+Inventories
+ 
+The Company generally maintains sufficient finished goods inventory levels to respond to customer demand, since most sales are to security dealers and system integrators who normally do not carry any significant inventory. The Company principally builds inventory to known or anticipated customer demand. In addition to normal safety stock levels, certain additional inventory levels may be maintained for products with long purchase and manufacturing lead times. The Company believes that it is important to carry adequate inventory levels of parts, components and products to avoid production and delivery delays that may detract from its sales efforts.
+Backlog
+ 
+The backlog of orders believed to be firm as of September 30, 2018 and 2017 was approximately $1.1 million and $2.2 million, respectively. Orders are generally cancelable without penalty at the option of the customer. The Company prefers that its backlog of orders not exceed its ability to fulfill such orders on a timely basis, since experience shows that long delivery schedules only encourage the Company’s customers to look elsewhere for product availability.
+Employees
+ 
+At September 30, 2018, the Company employed 85 full-time employees and there are no collective bargaining agreements with any of the Company’s employees. The Company considers its relations with its employees to be good.

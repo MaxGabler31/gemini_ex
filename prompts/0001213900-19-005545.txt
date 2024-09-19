@@ -1,0 +1,256 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. DESCRIPTION OF BUSINESS
+ 
+We harness our proprietary location-based marketing intelligence platform to provide advertisement delivery, measurement and attribution services (“Ad Placement”) and consumer insights (“Insights”) to brands, advertising agencies, out-of-home advertisers, media companies and non-media companies that utilize consumer insights for strategic decision-making purposes. Our products, fueled by our robust locational data, allow marketers and executive decision makers to better understand the movement and behaviors of their existing and prospective customers. For our marketing-based customers, we use our data to run highly-targeted media campaigns through our in-house, end-to-end Ad Placement platform. The majority of our revenue comes from Ad Placement services, which typically include a market analysis, the delivery of advertisements to applications on mobile devices and the production of measurement and attribution reports that highlight the effectiveness of the campaign.
+ 
+By identifying and reaching our customers’ most likely consumers with digital customized product offers, our customers can more efficiently and effectively run marketing campaigns, thereby increasing their in-store sales and reducing wasted marketing expenditures associated with traditional approaches.
+ 
+Our Principal Products and Services
+ 
+Ad Placement
+ 
+We deliver advertisements on behalf of our customers to highly-targeted audiences of existing and prospective consumers in a privacy compliant manner. The majority of our revenue comes from the placement of advertisements embedded in applications (including web browsers) on users’ mobile devices. The type of advertisement that we deliver will vary depending on the campaign and available inventory, typically including display, native, video and rich media. In addition to our mobile advertisement placement capabilities, we deliver advertisements across television, desktop, social media and digital out-of-home platforms.
+ 
+We produce measurement and attribution reports that highlight the effectiveness of our customers’ advertising campaigns. Our measurement reports, which provide our customers with key performance indicators (“KPIs”) of the advertising campaign, are typically provided during or at the conclusion of a campaign. KPIs include (but are not limited to) the number of impressions delivered, consumer click-through rates, video completion rates and rich-media engagements. Our attribution reports further highlight the impact the campaign has on the customer receiving the advertisement. These reports are outlined below under “Measurement and Attribution Products”.
+ 
+Revenue from the delivery of advertisements is based on the same key media metrics as Internet advertising, which are the number of audience impressions and the cost per thousand impressions (“CPM”) to reach that audience. Our measurement and attribution reports are considered premium products and typically add to our advertisement delivery revenue. These reports will be added to the delivery CPM or sold individually on a per report basis.
+ 
+We employ sales staff across several regions along with our account management team to sell and manage our Ad Placement and Insights products. The regional nature of these employees allows us to maintain a presence in key advertising and technology hubs in the United States, including New York/New Jersey, Los Angeles, Chicago and San Francisco. The majority of our sales force and account management team is trained to sell both Ad Placement and Insights products.
+ 
+Advertisement Delivery Methods
+ 
+
+● | In-Store Targeting – The delivery of advertisements at the point of purchase when the consumer is potentially making a purchase decision.
+--+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Proximity Targeting – In real time we deliver advertisements to consumers’ mobile devices to drive consumers in-store from any distance.
+--+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Geo-Conquesting – While our customers’ existing consumers are in our competitors’ locations, we deliver advertisements to influence purchase decisions.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Behavioral Targeting – The targeting of a customer’s existing or potential consumers based on previous locations visited, demographics, consumer relationship management (“CRM”) data, purchase history and interests.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Retargeting – The continued engagement with a customer’s existing or potential consumers with multiple touch points based on interactions with previous ad impressions.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Cross-Device Audience Targeting – We unify and amplify a customer’s audience for existing and prospective consumers by reaching consumers on their desktops and mobile devices.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+1
+
+ 
+
+Measurement and Attribution Products
+ 
+
+● | Real-time Verified Walk-In (“VWI”) – We provide a platform built in-house working in tandem with a data management platform (“DMP”) and demand side platform (“DSP”) that offers real-time, closed-loop attribution identifying devices that have been used to interact with an advertisement on any advertising medium and carried into a physical location.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Location, Audience and Behavior Sciences (“LABS”) – LABS reports provide a transparent, in-depth analysis of a customer’s audience, breaking down location, purchase and demographic data against multiple control groups for selected targeted audiences in real time.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Purchase Science Reports – Provides transaction data to make marketing campaigns more relevant and measurable.
+--+---------------------------------------------------------------------------------------------------------------
+
+Insights
+ 
+Our Insights products allow marketers and executive decision makers to better understand the movement and behavior of their audience of existing and prospective consumers. Through our Consumer Behavior and Location Sciences™, we explore the movement and behavior of consumers and present information and actionable insights for the executives and strategic decision makers of our customers, who are looking to understand and influence consumer behaviors.
+ 
+We have broken down our Insights offerings into the following four categories: Enrichment, Research, Audience, and Measurement & Attribution:
+ 
+
+● | Enrichment – We refine our customers’ consumer data to seek to identify new actionable insights. Our customers can visualize any dataset to learn about real-time and historical location and behavior patterns through access to our data. By ingesting and enriching our customer’s data across various platforms and datasets, our customers can better understand their audience of existing and potential consumers in real-time through one platform, showing how media, content and business decisions are influencing real-world consumer behavior.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Research – We provide data visualization that offers deep insights and reports on any audience, location or prospective consumer profile while using de-identification techniques such as pseudonymous identifiers associated with mobile devices to help safeguard privacy. These detailed and anonymous data visualizations show what type of interests, demographics, locations and purchases define a customer’s audience of current or potential consumers allowing them to better understand who and where to target. Research includes our SITO LABS products, which are custom audience insights provided in real-time. These customized research reports allow our customers to investigate aggregate consumer visitation trends, journey data and behavioral data, and compare such trends and data against customized control groups and consumer averages, which enables our customers to make more informed business decisions and reduce ineffective marketing expenditures.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Audience – We provide proprietary data segments built and customized to fit our customers’ measurement and media needs. We segment device-based data points by grouping them according to locations visited, frequency of visits, demographics and other behaviors in order to properly target and plan for media campaigns. We also model and create audiences based on the attributes of populations of current and prospective consumers which, in turn, is based on CRM data, location visits or visits from digital properties.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Measurement & Attribution – We provide real-time attribution and visualization to measure in-store foot traffic, behavior and purchases of any audience, even if we did not deliver the advertisement. We also allow our customers to observe real-time store traffic and purchases to trigger promotions and real-time optimizations to increase media performance based on real world KPIs, which frequently leads to increased return on investment for advertising expenditures and incremental sales for our customers. Our VWI and Purchase Science Reports are sold separately from advertisement delivery under our Insights Products.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+2
+
+ 
+
+Our Industry 
+ 
+According to industry reports including surveys and reports from Emarketer, International Data Corporation (IDC), and WARC, U.S. mobile advertising expenditures were approximately $76 billion in 2018, and such expenditures are expected to continue to grow at an annual double-digit rate through 2022. We believe this growth is largely being driven by growth in mobile Internet usage and the mobile advertising industry’s ability to effectively measure campaigns, which allows marketers to see that they are receiving an attractive return on investment for their advertising expenditures.
+ 
+According to industry reports including surveys and reports from Emarketer, IDC, and WARC, the average mobile Internet user spent three hours and thirty-seven minutes per day in 2018 on the mobile Internet, an increase of 9% over 2016, and this growth is expected to continue at an annual rate of more than 2% through 2020. According to certain industry reports, adults spend more time online and on mobile devices than on any other form of media, including television.
+ 
+According to industry reports including surveys and reports from Emarketer, IDC, and WARC the global market for large data sets and business analytics is estimated to reach $260 billion by 2022, reflecting an annual growth rate of nearly 12% from 2018. Additionally, an industry survey in October of 2017 indicated that spending on data will be a prime area of focus for brands and advertising agencies in the coming years. Of those agencies and brands surveyed, 59% of agencies and 55% of brands said accumulating consumer data will be an important area for their business. Given the growth potential of the marketplace, the focus on data from our core customers and our attractive product offering, we expect to be able to grow our Insights revenue going forward, although no assurances can be given in this regard.
+ 
+Competition
+ 
+The mobile media and data communications market for products and services is competitive with the rapid growth and adoption of mobile data services, along with the increased demand for mobile marketing and advertising solutions. We expect new market entrants, existing competitors and non-traditional participants to introduce new products and services that compete with our products. Additionally, we face the risk that our customers may seek to develop in-house products as an alternative to those currently being provided by us.
+ 
+Our competition varies across our different product lines. For advertisement delivery, measurement and attribution and insights, we will typically face different competitors, with some competitors overlapping into multiple product lines. Companies such as ArcGIS, CARTO, Cuebiq, Facebook, Foursquare, Google, GroundTruth, Mapbox, NinthDecimal, Placed (part of SNAP), PlaceIQ, ThinkNear and Verve, among others, compete with us in one or more of our product or service offerings.
+ 
+Business Seasonality
+ 
+Our revenue, cash flow from operations, earnings, operating results, and other key operating and financial measures may vary from quarter to quarter due to the seasonal nature of our clients’ advertising expenditures. For example, many purchasers of advertising devote a disproportionate amount of their advertising budgets to the fourth quarter of the calendar year to coincide with increased holiday purchasing. We expect our revenue, cash flow, from operations, earnings, operating results, and other key operating and financial measures to fluctuate based on seasonal factors from period to period.
+ 
+3
+
+ 
+
+Working Capital Requirements
+ 
+The majority of our revenue is generated from the sale of our Ad Placement products. While we attempt to coordinate collections from our customers (brands, advertising agencies, out-of-home advertisers, and other non-media companies) to fund our payment obligations to our sellers (ad exchanges, ad networks and publishers), we will typically purchase and pay for our ad inventory before we receive payment from our customers. We believe that competitive pressure in the digital advertising industry has allowed customers to slow the timing of their payments to us. As a result of these dynamics, our cash flow may be adversely affected as we will likely continue to use working capital to fund our accounts payable pending collection from our customers. This may result in additional cash expenditures and cause us to forego or defer other more productive uses of our working capital. Also, there can be no assurances that we will not experience bad debt in the future. Any such write-offs for bad debt may have a materially adverse effect on our results of operations for the periods in which such write-offs occur.
+Certain Agreements
+ 
+Our business agreements consist primarily of customer agreements and inventory purchase agreements. Customer agreements are typically agreements with agencies that have sales relationships with the end users of the media content, service application or data transactions. These agreements typically involve a division of the fees received between the brand owner and us or a fixed fee per transaction. Inventory purchase agreements are vendor relationships from whom we purchase the space to deliver the transacted media content.
+ 
+Approximately 13% of our total revenue during the year ended December 31, 2018 was generated from contracts with one specific advertising agency.
+ 
+Our Ability to Continue as a Going Concern
+ 
+The notes contained in this Annual Report on Form 10-K for the period ended December 31, 2018 include a disclosure describing the existence of conditions that raise substantial doubt about our ability to continue as a going concern. Our ability to continue as a going concern is dependent upon our ability to obtain substantial additional financing to fund our operations. Adequate additional financing may not be available to us on acceptable terms, or at all. If we are unable to raise additional capital and/or enter into large-scale, multiyear, significant contracts when needed or on attractive terms, we would be forced to reduce overhead or administrative expenditures and delay our research and development programs. Our financial statements as of December 31, 2018 have been prepared under the assumption that we will continue as a going concern. If we are not able to continue as a going concern, it is likely that holders of our common stock will lose their entire investment in the Company. Our accompanying financial statements do not include any adjustments that may result from the outcome of this uncertainty.
+ 
+At December 31, 2018, the Company had cash and cash equivalents of $2.6 million, as compared to cash and cash equivalents totaling $3.6 million at December 31, 2017. During the year ended December 31, 2018, the Company used $15.5 million of cash in operating activities, as compared to $3.4 million for the year ended December 31, 2017. The $12.1 million increase is primarily driven by payment of the TAR settlement, as discussed in Note 11 – Note Payable, and an increase in our overhead and administrative expenditures as a result of our growth initiatives.
+ 
+Our future results are subject to substantial risks and uncertainties. We anticipate incurring additional losses until such time, if ever, that it can generate significant additional sales. There can be no assurance that we will ever generate significant revenues and achieve profitability. We expect to use cash, cash equivalents, and stock sale proceeds to fund our operating activities. Our future liquidity and capital requirements will depend on numerous factors, including our ability to secure debt or equity financing, reduce or delay expenditures and secure material additional assignments
+ from our customers.
+ 
+4
+
+ 
+
+We have historically funded our operations through a combination of debt financing and equity offerings. At December 31, 2018, we do not have any outstanding debt or notes payable. We recently obtained a line of credit, secured by our accounts receivable, with Fast Pay Partners LLC. We have historically raised funds through a combination of private placements and public offerings of our securities, and we will consider raising additional capital in the future through additional equity offerings, subject to market conditions and other factors.
+ 
+On March 20, 2019, we entered into a sales contract in the amount of $10 million to deliver advertising and related campaign analytics. The campaign is scheduled to run from March 23 to April 14, 2019 and relates to an upcoming release of the film. In addition to mobile media, the advertising will be placed across omni-channel platforms. It is these types of contracts that will allow us to consider an additional capital raise in the future since the revenue increase together with increased margins will better improve the financial results of the company.
+ 
+Our revenues, earnings and financial position may improve if we are able to secure the significant new, multi-year client customer contracts that we have been seeking, although no assurances can be given that we will be able to secure these new customer contracts. In addition, our management is assessing the impact of reducing overhead and administrative expenses, postponing research and development projects and seeking better payment terms from our suppliers.
+ 
+Intellectual Property Development
+ 
+Patents and Licenses for Operations
+ 
+We currently hold rights to multiple purchased and developed patents relating to certain aspects of accessing information on a mobile device, sending information to and between mobile devices, advertising and media streaming. We believe the ownership of such patents is an important factor in our existing and future business. We have 40 patents in the United States and Canada issued from May 2006 to December 2018.
+ 
+We regularly file patent applications to protect innovations arising from our research, development and design, and are currently pursuing multiple patent applications. Over time, we have accumulated a portfolio of issued patents, primarily in the U.S. No single patent is solely responsible for protecting our systems and services. We believe the duration of our patents is adequate relative to the expected lives of our systems and services.
+ 
+Because of technological changes in the industries in which we compete, current extensive patent coverage and the rapid rate of issuance of new patents, it is possible that certain components of our systems and services may unknowingly infringe existing patents or other intellectual property rights of others. We have not received any notice from third parties that we are infringing on their patents or other intellectual property rights.
+ 
+Patent Portfolio Development, Protection and Licensing
+ 
+Our portfolio of intellectual property represents our many years of innovation in the wireless industry through patented technology developed by us, including patents granted to us by the U.S. Patent and Trademark Office, as well as patented technology we purchased from Microsoft and others.
+ 
+We established a separate subsidiary, SITO Mobile R&D IP, LLC, which is dedicated to the monetization of our intellectual property through licensing and other transactions.
+ 
+Our existing patents cover three broad categories:
+ 
+
+● | Digital Video and Audio Streaming and Advertising - these patents relate to Over the Top (“OTT”) streaming services and protocols (e.g. HLS, MPEG DASH), dynamic advertising insertion into these streaming services and protocols and the billing and tracking of the related advertising revenues.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Sending Information to and Between Mobile Devices - these patents relate to over-the-air provisioning of smartphones and mobile devices such that the customer, when transitioning over to new telephones or modifying existing telephones, can highly customize their telephones, from carrier plan to interface to smartphone design features to content and form of delivery. While still an emerging market, carriers are unlocking carrier plans and it is expected in the short-term that consumers will be able to go online and pick their carrier plan of choice. We have patents in this area as well as smartphone back-up and synchronization patents that make up our mobility portfolio.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Accessing Information on a Mobile Device - this group of patents relates to features that offer users improved effectiveness in accessing information on a mobile device, including content, services and advertising solutions. This includes technology from abbreviated dial codes for rapid access to services and providing advertisements and coupons to these links to access efficient user interface features.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+5
+
+ 
+
+In October 2014, we borrowed $10 million from Fortress Credit Co. LLC (“Fortress”), under and pursuant to that certain Revenue Sharing and Note Purchase Agreement (the “Note Purchase Agreement”) by and among us, our wholly-owned subsidiaries SITO Mobile Solutions, Inc. and SITO Mobile R&D IP, LLC, Fortress and CF DB EZ LLC, which we refer to as the “Fortress Loan.” Pursuant to the Note Purchase Agreement, we issued a senior secured note (the “Note”) to Fortress and granted Fortress a security interest in our portfolio of patents. The Note Purchase Agreement also provided for an intellectual property revenue sharing arrangement, pursuant to which we were required to direct a portion of the proceeds from any monetization of our patents to reduce the outstanding indebtedness under the Note. Under Note Purchase Agreement, following the repayment of the Note, we would remain obligated to pay a portion of the proceeds from any monetization of our patents (the “Revenue Stream Obligation”) to the counterparty under the Revenue Stream.
+ 
+On August 1, 2017, we paid the entire principal amount of, and all accrued and unpaid interest and required termination fees under, the Note. As of December 31, 2017, we had no further obligations under the Note, but remained subject to the Revenue Stream Obligation. On February 20, 2018, we terminated the Note Purchase Agreement (and the entire Revenue Stream Obligation) in exchange for a one-time payment of $3.5 million (refer to Note 11 to the financial statements). There are current liens on our patent portfolio due to the newly entered factoring arrangement.
+ 
+Government Regulation
+ 
+Our Insights and Ad Placement products feature relevance-based advertising, or the use of data to draw inferences about a user’s interests and deliver relevant advertising to that user. This type of advertising and/or analysis related thereto to advertisers and their agencies has come under increasing scrutiny by legislative, regulatory, and self-regulatory bodies in the United States and abroad that focuses on consumer protection and data privacy. In particular, this scrutiny is increasingly focusing on the use of data not only directly related to a particular user but also to that related to devices. Because we and our clients rely upon large volumes of such data collected from various sources, it is essential that we monitor both domestic and global developments in this area, and engage in, and deal with data providers that engage in, responsible privacy practices, including providing consumers with notice of the types of data collected and ensuring we have the necessary rights to use that data in ways necessary to provide our services and conduct our business. Therefore, our platform and business practices must be assessed regularly in each country in which we do, or anticipate doing, business, as definitions of personal data as well as the rights and obligations related thereto vary from country to country.
+ 
+We provide this notice through our privacy policy, which can be found on our website at https://www.sitomobile.com. As stated in our privacy policy, we do not collect any personally identifiable information (“PII”) via our technology that allows us to identify an individual directly such as name, email address or telephone number. In addition, our technology uses de-identification techniques such as pseudonymous identifiers associated with mobile devices to help safeguard privacy. If we combine information collected via our technology with information we receive from third parties, we do not use any PII, such as address or name, directly for ad delivery and targeting purposes, although it may be provided to us by third-parties in connection with such uses. We do not store any PII we receive from third parties.
+ 
+Domestically, applicable regulations include those adopted by the Federal Communications Commission as relating to the operations policies and procedures of wireless communications carriers, known as the Telephone Consumer Protection Act, and the Privacy Rule of the Health Insurance Portability and Accountability Act, relating to the safeguarding of personal health information, among others. Additionally, our compliance with our privacy policy and our general consumer privacy practices are also subject to review by the Federal Trade Commission, which may bring enforcement actions to challenge allegedly unfair and deceptive trade practices, including the violation of privacy policies and representations therein. Certain State Attorneys General may also bring enforcement actions based on comparable state laws or federal laws that permit state-level enforcement. The state of California recently enacted the California Consumer Privacy Act, which goes into effect January 1, 2020, and creates new privacy rights to California residents. Other states may enact similar legislations in the near future.
+ 
+6
+
+ 
+
+Although we currently do not have any business in Europe, we desire to begin operating in Europe at an appropriate time. Internationally, and prior to May 25, 2018, the use and transfer of personal data in EU member states was governed under the EU Data Protection Directive. As of May 25, 2018, the EU General Data Protection Regulation (“GDPR”) went into effect. The GDPR sets out higher potential liabilities for certain data protection violations, as well as a greater compliance burden for us in the course of delivering our products in Europe. Among other requirements, the GDPR obligates companies that process large amounts of personal data related to EU residents to implement a number of formal processes and policies including the reviewing and documenting the acquisition, handling and use of such data. As the GDPR ushers in sweeping new legislation, ensuring compliance with untested and uninterpreted legislation is not without risk and may be subject to legal challenge and/or the subject of regulatory investigations. Each such investigation may cost us significant time and resources, and may potentially result in fines, criminal prosecution, or other penalties. Further, the implementation of new compliance measures may take us significant time, resources, and effort to restructure our business practices. Further, the European Union is expected to replace the EU Cookie Directive governing the use of technologies to collect consumer information with the ePrivacy Regulation. Current drafts of the ePrivacy Regulation propose burdensome requirements around obtaining consent and impose fines for violations that are materially higher than those imposed under the current Cookie Directive.
+ 
+The UK’s decision to leave the European Union may add cost and complexity to our compliance efforts. The UK may become an important geography for us. If UK and EU privacy and data protection laws and regulations diverge, we will be required to implement alternative EU compliance measures and adapt separately to any new UK requirements.
+ 
+Beyond laws and regulations, we are also members of self-regulatory bodies that impose additional requirements related to the collection, use, and disclosure of consumer data, including the Internet Advertising Bureau, the Digital Advertising Alliance, the Network Advertising Initiative, and the Europe Interactive Digital Advertising Alliance. Some of these self-regulatory bodies have the ability to discipline members or participants, which may result in fines, penalties, and/or public censure (which may in turn cause reputational harm). Additionally, some of these self-regulatory bodies might refer violations of their requirements to the Federal Trade Commission or other regulatory bodies.
+ 
+Corporate Overview
+ 
+We were incorporated in Delaware on May 31, 2000, under our original name, Hosting Site Network, Inc. On May 12, 2008, we changed our name to Single Touch Systems Inc. and on September 26, 2014, we changed our name to SITO Mobile, Ltd.
+Employees
+ 
+We currently have 65 full-time employees, 12 employees serving as programmers and data analysts, 45 employees in sales and account management, 5 employees in administration and the executive team consisting of 3 employees. We expect to increase our future employee levels on an as-needed basis in connection with our expected growth.
+ 
+7
+
+ 
+
+Changes in Our Board of Directors and Executive Officers
+ 
+Over the course of 2017 and 2018, we underwent fundamental changes and substantial turnover with respect to our board of directors (the “Board”) and management.
+ 
+The table and timeline below summarize the changes in the composition of our Board and our management team during this transition period.
+ 
+
+Fiscal Year 2017 | | 
+-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+First Quarter | | ● February: Jerry Hug resigns as Chief Executive Officer. Director Richard O’Connell is appointed as Interim Chief Executive Officer. ● March: Kurt Streams resigns as Chief Financial Officer and Chief Operating Officer. Lawrence Firestone appointed to serve as Interim Chief Financial Officer. 
+Second Quarter | ● April: The Board appoints Lowell W. Robinson to serve as a director of the Company. ● April: The Board appoints Jon Lowen to serve as Chief Operating Officer, Michael Blanche to serve as Chief Technology Officer and Adam Meshekow to serve as Chief Revenue Officer. ● June: Following a successful stockholder consent solicitation, Betsy J. Bernard, Joseph A. Beatty, Lowell W. Robinson, Richard J. O’Connell, Jr., and Jonathan E. Sandelman are removed from the Board and replaced with Michael Durden, Itzhak Fisher, Thomas J. Pallack, Matthew Stecker and Thomas Thekkethala. ● June: The newly-constituted Board replaces Richard O’Connell, Jr. and Lawrence Firestone as Interim Chief Executive Officer and Interim Chief Financial Officer, with Thomas J. Pallack and Mark Del Priore, respectively. ● June: The newly-constituted Board elects Brent Rosenthal as the Chairman of the Board and appoints Thomas J. Pallack, Mark Del Priore as Chief Financial Officer and Secretary, William Seagrave as Chief Operating Officer, and Chet Petrow as Chief Revenue Officer. 
+Third Quarter | ● September: Matthew Stecker and Thomas Thekkethala resign from the Board and are replaced by Karen Seminara Patton and Steven Bornstein, respectively. 
+
+ 
+8
+
+ 
+
+
+Fiscal Year 2018 | 
+-----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Third Quarter | · July: o Mark Del Priore resigns as Chief Financial Officer and William A. Seagrave and Aaron Tam are appointed Interim Co-Chief Financial Officers. o Brett O’Brien is elected to the Board of Directors. o Karen Seminara, Brent Rosenthal, and Itzhak Fisher resign as Board members. o Steven Felsher, Bonin Bough, and Jonathan Bond join the Board of Directors. · August: Mr. Bond is elected Chairman of the Board. · September: SITO enters into a separation agreement with Mark Del Priore. · October: Chester Petrow resigns as Chief Revenue Officer. 
+Fourth Quarter | · November: Michael Durden does not stand for re-election to the Board. 
+Fiscal Year 2019 | 
+First Quarter | · January: Aaron Tam resigns as Interim Co-Chief Financial Officer and leaves SITO. · February: Terry Lynn is hired as Chief Financial Officer. 
+
+
+
+Biographies for each of our current directors and executive officers will be included in our 2019 Proxy Statement and are incorporated herein by reference.
+
+
+Recent Developments
+ 
+On January 14, 2019, Aaron Tam resigned as our Interim Co-Chief Financial Officer.
+ 
+We hired Terry Lynn as our Chief Financial Officer effective February 19, 2019.
+ 
+On February 11, 2019, we and our wholly-owned subsidiaries entered into a Financing and Security Agreement (“Financing Agreement”) with Fast Pay Partners LLC (“Fast Pay”). Pursuant to the terms of the Financing Agreement, Fast Pay will finance up to $9.5 million of our accounts receivable. This $9.5 million limit may increase to $15 million after March 31, 2019 upon our request, subject to Fast Pay’s approval, as to which no assurances can be given. The term of the Financing Agreement is two years with automatic two year renewals, subject to a 2% pre-payment penalty. The financing fee on advances is the three-month London Interbank Offered Rate, known as “LIBOR,” plus 7% per annum. The facility is secured by a first priority lien on all of our assets, including patents.
+Available Information 
+ 
+We maintain a website located at http://www.sitomobile.com. The contents of our website are not intended to be incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the SEC and any references to our website are intended to be inactive textual references only. The following filings are available for download free of charge through our website as soon as reasonably practicable after we file them, or furnish, as applicable, with the SEC: Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, as well as any amendments to such reports and all other filings pursuant to Section 13(a) or 15(d) of the Securities Act. Additionally, copies of materials filed or furnished by us, as applicable, with the SEC may be accessed at the SEC’s Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549 or at www.sec.gov. For information about the SEC’s Public Reference Room, contact 1-800-SEC-0330.
+ 
+9
+
+ 
+

@@ -1,0 +1,254 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1.  BUSINESS
+COMPANY BACKGROUND
+
+Plantronics, Inc. (“Poly,” “Company,” “we,” “our,” or “us”) is a leading global designer, manufacturer, and marketer of integrated communications and collaboration solutions that span headsets, Open SIP desktop phones, audio and video conferencing, cloud management and analytics software solutions, and services.  On July 2, 2018, we completed our acquisition (the “Acquisition”) of all the issued and outstanding shares of capital stock of Polycom, Inc. (“Polycom”), see "ACQUISITION" section for further details.
+Our major product categories are Enterprise Headsets, which includes corded and cordless communication headsets; Consumer Headsets, which includes Bluetooth and corded products for mobile device applications, personal computer ("PC") and gaming; Voice, Video, and Content Sharing Solutions, which includes Open SIP desktop phones, conference room phones, and video endpoints, including cameras, speakers, and microphones. Our solutions are designed to work in a wide range of Unified Communications & Collaboration ("UC&C"), Unified Communication as a Service ("UCaaS"), and Video as a Service ("VaaS") 
+ 1
+
+environments. Our RealPresence collaboration solutions range from infrastructure to endpoints and allow people to connect and collaborate globally and naturally. In addition, we have comprehensive Support Services including support on our solutions and hardware devices, as well as professional, hosted, and managed services.
+We sell our Enterprise products through a high-touch sales team and a well-developed global network of distributors and channel partners including value-added resellers (VARs), integrators, direct marketing resellers (DMRs), service providers, and resellers. We sell our Consumer products through both traditional and online consumer electronics retailers, consumer product retailers, office supply distributors, wireless carriers, catalog and mail order companies, and mass merchants.  We have well-established distribution channels in the Americas, Europe, Middle East, Africa, and Asia Pacific where use of our products is widespread. 
+The Company was originally founded and incorporated as Plantronics in 1961 and became a public company in 1994. In March 2019, the Company changed the name under which it markets itself to Poly. Poly is incorporated in the State of Delaware under the name Plantronics, Inc. and is listed on the New York Stock Exchange ("NYSE") under the ticker symbol "PLT". We operate our business as one segment.
+Our principal executive office is located at 345 Encinal Street, Santa Cruz, California.  Our telephone number is (831) 426-5858.  Our Company website is www.poly.com.
+In the Investor Relations section of our website, we provide free access to the following filings: Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and all amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act. This access is provided directly or through a link on our website, shortly after these documents are electronically filed with, or furnished to, the Securities and Exchange Commission. In addition, documents regarding our corporate governance, code of conduct, and the charters of the standing committees of our Board of Directors are also accessible in the Investor Relations section of our website.
+ACQUISITION
+On July 2, 2018, we completed our acquisition of all the issued and outstanding shares of capital stock of Polycom for approximately $2.2 billion in stock and cash. As a result, on that date we became a leading global provider of open, standards-based UC&C endpoints for voice, video and content sharing solutions, as well as a comprehensive line of support and services for the workplace under the Polycom brand.
+The Acquisition was consummated in accordance with the terms and conditions of the Stock Purchase Agreement (the “Purchase Agreement”), dated March 28, 2018, among the Company, Triangle Private Holdings II, LLC (“Triangle”), and Polycom. The Acquisition supports the Company's long-term strategic vision of becoming a global leader in communications and collaboration endpoints and allows us to capture additional opportunities through data analytics and insight services across a broad portfolio of communications endpoints. As such, we believe the Acquisition better positions us with our channel partners, customers, and strategic alliance partners to pursue comprehensive solutions to communication challenges in the marketplace.
+Our consolidated financial results for the Fiscal Year ended March 31, 2019, include the financial results of Polycom from July 2, 2018. For more information regarding the Acquisition, refer to Note 4, Acquisition, of the accompanying Notes to Consolidated Financial Statements.
+MARKET INFORMATION 
+General Industry Background
+
+Poly operates predominantly in the unified communications industry and focuses on the design, manufacture, and distribution of headsets, voice, video and content sharing solutions as well as a comprehensive line of support and service solutions to ensure customer success. We develop enhanced communication products for offices and contact centers, mobile devices, Open SIP desktop phones, PCs and gaming consoles. Currently, we offer our services under the Poly, Plantronics and Polycom brands, and also offer select products under the brand Poly. Our Consumer gaming headsets are sold under the sub-brand RIG.
+We believe the proliferation of communications and collaboration applications across much of people's daily lives makes efficiency, ergonomic comfort, ease of use, interoperability, and safety key factors for our customers' purchasing decisions. We believe important drivers for the adoption of our solutions include:
+
+• | expansion of business applications and ecosystems with integrated web-based video and content collaboration that demand interoperability;
+
+ 2
+
+
+• | virtualization and accelerated adoption of private, public, and hybrid clouds and the resulting customer desire for cloud management tools;
+
+
+• | ease of use and ease of deployment;
+
+
+• | global growth of open office environments, small conference and huddle rooms, and the number of mobile and remote workers, with video as a preferred method of communication;
+
+
+• | adoption of UC&C by small and medium-sized business (SMBs); and
+
+
+• | continued commitment by organizations and individuals to reduce their expenses and carbon footprint by choosing voice, video and content collaboration over travel.
+
+We believe we are uniquely positioned as the UC&C ecosystem partner of choice through our strategic partnerships, support of open standards, innovative technology, multiple delivery modes, and customer-centric go-to-market capabilities.
+We leverage state-of-the-art technologies in our solutions that can be easily used in conjunction with our strategic partners' tools and common communication platforms in both personal and enterprise settings. The increased adoption of technologies such as UC&C, Bluetooth, Voice over Internet Protocol ("VoIP"), Digital Signal Processing ("DSP"), Digital Enhanced Cordless Telecommunications (“DECT™”), and Video-as-a-Service ("VaaS"), each of which is described below, has contributed to increased demand for our solutions:
+
+• | UC&C is the integration of voice, data, chat, and video-based communications systems enhanced with software applications and Internet Protocol (IP) networks. It includes more traditional unified communications consisting of on-premise IP telephony, such as e-mail, instant messaging, presence information, audio and video conferencing, and unified messaging; and more modern team collaboration consisting of cloud-based persistent chat and team workspaces, integrated UC and application integrations; as well as browser-based online meetings consisting of integrated audio, video, and web conferencing. UC&C seeks to provide seamless connectivity and user experience for enterprise workers regardless of their location and environment, improving overall business efficiency and providing more effective collaboration among an increasingly distributed workforce. 
+
+
+• | Bluetooth wireless technology is a short-range communications protocol intended to replace the cables connecting portable and fixed devices while maintaining high levels of security. The key features of Bluetooth technology are ubiquity, low power, and low cost. The Bluetooth specification defines a uniform structure for a wide range of devices to connect and communicate with each other. Bluetooth standard has achieved global acceptance such that any Bluetooth enabled device, almost anywhere in the world, can connect to other Bluetooth enabled devices in proximity. 
+
+
+• | VoIP is a technology that allows a person to communicate using a broadband internet connection instead of a regular (or analog) telephone line. VoIP converts the voice signal into a digital signal that travels over the internet or other packet-switched networks and then converts it back at the other end so that the caller can speak to anyone with another VoIP connection or a regular (or analog) phone line. 
+
+
+• | DSP is a technology that delivers acoustic protection and optimal sound quality through noise reduction, echo cancellation, and other algorithms which improve transmission quality.
+
+
+• | DECT is a wireless communications technology that optimizes audio quality, lowers interference with other wireless devices, and digitally encrypts communication for heightened call security.
+
+
+• | Video-as-a-Service (VaaS) is the delivery of multiparty or point-to-point videoconferencing capabilities over an IP network by a managed service provider.
+
+ 3
+
+Solutions 
+UC&C audio and video solutions continue to represent our primary focus area. We believe our portfolio of solutions, which combines hardware with highly innovative sensor technology and software functionality, provides the ability to reach people using the mode of communication that is most effective, on the device that is most convenient, and with control over when and how people can be reached. In addition, we recognize the importance of supporting increasingly popular remote and mobile work styles that are more prevalent in UC&C environments and the trend toward open plan offices which causes unique noise challenges for office-based work styles. We believe we are still early in the UC&C solutions market adoption cycle and that UC&C systems will become more commonly adopted by enterprises to reduce costs and improve collaboration. We believe our solutions will be an important part of the UC&C environment through the offering of contextual intelligence, a full portfolio of products designed according to quantitatively researched global work styles, and a unique software-as-a-service solutions such as Plantronics Manager Pro and Polycom Device Management Service (PDMS).
+Our products enhance communications by providing the following benefits:
+
+• | Smarter Working capability through seamless communications and high-quality audio across a mobile device, desk phone, and PC with a single audio endpoint which allows users to communicate from a wide array of physical locations and increases productivity when away from a traditional office environment
+
+
+• | Face-to-face communication over high quality video devices that bring people together to share ideas and make decisions in a low-cost and highly efficient manner
+
+
+• | Devices that are not dependent on a specific platform but can easily connect to the majority of UC&C platforms in the market today, giving customers peace of mind and investment protection for the future
+
+
+• | Sensor technology that allows calls to be answered automatically when the user wears the headset, switches the audio from the headset to a mobile device when the user removes the headset and, with some softphone applications, updates the user's presence
+
+
+• | A convenient means for connecting various applications and voice networks, whether between land lines and mobile devices, or between PC-based communications and other networks
+
+
+• | Best-in-class audio quality that provides clearer conversations on both ends of a call through a variety of features and technologies, including noise-canceling microphones, DSP, HD Voice, acoustic fencing and more
+
+
+• | Simple user interfaces which enable rapid user adoption and drives product loyalty and differentiation
+
+
+• | Wireless freedom and multi-tasking benefits, allowing people to be on calls without cords or cables, and to easily switch from public to private spaces, and to use computers and mobile devices, including smartphones or other devices, while talking hands-free
+
+
+• | UC integration of telephony, mobile technologies, cloud-based communications, and PC applications, while providing greater privacy than traditional speakerphones
+
+
+• | Cloud-based management for service providers to remotely monitor and maintain equipment thus reducing support times and costs for their customers
+
+
+• | Generating analytics related to headset and desk phone usage, communications quality, conversational dynamics, and other similar data our customers desire
+
+
+• | Voice command and control that allow people to take advantage of voice dialing and/or other voice-based features to make communications and the human/electronic interface more natural and convenient
+
+ 4
+
+Product Categories
+Our audio and video solutions are designed to meet the needs of open offices (such as cubicles for knowledge workers and contact centers), meeting rooms (from huddle rooms to boardrooms), mobile workers (using laptops, mobile phones, and tablets in or out of the office), back-offices (for management, monitoring and analytics of our systems), PC and gaming, residential, and other specialty applications.  We serve these markets through our product categories listed below.
+Enterprise Headsets
+Within our Enterprise Headsets product category, we offer a broad range of communications audio solutions, including high-end, ergonomically designed headsets, audio processors, and other contact center systems.  Our end-users are comprised of enterprise employees and small office, home office, contact center, and remote workers. Growth in this market comes from increasing deployment of UC&C solutions and growing awareness of the benefits of using headsets and wireless solutions. 
+Contact centers are some of our most mature customers and have begun to adopt cloud applications and services as an enabler for digital transformation to support an omni-channel model for customer interaction that can also include the deployments of softphones and web-based UC&C capabilities to help improve productivity and reduce costs.  
+Consumer Headsets
+We believe the mobile headset category will continue to grow as individuals use the technology for both communications and entertainment.
+Revenues from our Consumer Headsets product category are seasonal and typically strongest in our third fiscal quarter, which includes the holiday shopping season. Other factors that directly impact performance in the product category include product life cycles (including the introduction and pace of adoption of new technology), market acceptance of new product introductions, consumer preferences and the competitive retail environment, changes in consumer confidence and other macroeconomic factors. 
+We also sell gaming and computer audio headsets, sold under our RIG sub-brand, used for interactive on-line and console gaming, that allow users to switch between music and phone calls for multi-functional devices.
+In an effort to align our strategy and focus on our core enterprise markets, we announced on May 7, 2019 that we intend to evaluate strategic alternatives for our Consumer Headset products. We have not yet determined the timing, structure, or financial impact of any potential transaction.
+Voice, Video, and Content Sharing Solutions
+Our Voice products include Open SIP Desktop Phones, which aid both traditional and diverse small-to-medium business and enterprise environments in their UC&C transitions, and conference phones, such as the Polycom Trio line of conference phones. Our Desktop Phone devices extend clear HD voice to desktops, home offices, mobile users, and branch sites. Sales of our Desktop Phones are largely driven from a growing cloud Service Provider channel and strategic partnerships with ecosystem and platform partners seeking to add familiar, but evolved telephony offerings, to meet a wide range of hardware-based voice and video demands. The Polycom Trio line of conference phones is a collaboration hub that has a modular approach to high quality audio, video and content sharing solution for rooms of all sizes. Audio only versions of the Polycom Trio are available in multiple sizes and price points. Trio supports native Microsoft Teams and Skype for Business interfaces as well as connectivity to multiple popular voice and video platforms.
+Our Video products consist of The RealPresence Group Series solutions, which comprises a portfolio of high-performance, integrator-ready, and easy-to-use room and immersive telepresence video conferencing systems, as well as the Polycom Studio, our new plug and play video bar and first product in the rapidly growing huddle room video market. Customers have multiple options to incorporate HD data sharing and collaboration into a video conference. 
+For customers that prefer an on-premises video infrastructure solution, our RealPresence Clariti solution offers a powerful collaboration software platform through which customers can create audio, video, and content collaboration sessions that can connect with any device from anywhere. The platform also provides best in class interoperability that allows any standards-based endpoint to connect into Microsoft Skype or Teams platforms without having to replace their endpoint investments. We also offer a suite of complementary cloud services that aid management of collaboration endpoints and enable third party cloud services on our devices.
+ 5
+
+Services Solutions 
+We offer a full range of support, professional, managed and cloud services and solutions to customers on a global basis. We provide these services directly, as well as through our worldwide ecosystem of channel partners. We believe our service and support are critical components of customer success and create a platform for stronger customer relationships. We offer a full suite of professional services that allow customers to plan, deploy, and optimize solutions in a UC&C environment. By engaging at all points in this process, we and our partners help customers accelerate deployment, adoption, of UC&C and maximize their Return-On-Investment (ROI). For the ongoing support of end-user customers, we provide maintenance services that include Technical Assistance Center support, software upgrades and updates, parts exchange, on-site assistance, and direct access to engineers for real-time resolution. We also offer an online support portal for customers and a support community where customers can share information and access support 24 hours a day.
+FOREIGN OPERATIONS
+
+In Fiscal Years 2017, 2018, and 2019, net revenues outside the U.S. accounted for approximately 45%, 49%, and 53%, respectively, of our total net revenues.  Revenues derived from foreign sales are generally subject to additional risks, such as fluctuations in exchange rates, increased tariffs, the imposition of other trade restrictions or barriers, adverse global economic conditions, and potential currency restrictions.  The impact to consolidated net revenues resulting from changes in foreign exchange rates was not material in Fiscal Year 2019.
+We continue to engage in hedging activities to limit our transaction and economic exposures, and to mitigate our exchange rate risks.  We manage our economic exposure by hedging a portion of our anticipated Euro ("EUR") and British Pound Sterling ("GBP") denominated sales and our Mexican Peso ("MXN") denominated expenditures, which together constitute the most significant portion of our currency exposure.  In addition, we manage our balance sheet exposure by hedging EUR, GBP, and Australian Dollar ("AUD") denominated cash, accounts receivable, and accounts payable balances. Excess foreign currencies not required for local operations are converted into U.S. Dollars ("USD"). While our existing hedges cover a certain amount of exposure for Fiscal Year 2020, long-term strengthening of the USD relative to the currencies of other countries in which we sell may have a material adverse impact on our financial results. In addition, our results may be adversely impacted by future changes in foreign currency exchange rates relative to original hedging contracts generally secured 12 months prior. See further discussion on our business risks associated with foreign operations under the risk titled, "We are exposed to differences and frequent fluctuations in foreign currency exchange rates, which may adversely affect our revenues, gross profit, and profitability" within Item 1A Risk Factors in this Form 10-K.
+Further information regarding our foreign operations, as required by Item 101(d) of Regulation S-K, can be found in Note 18, Geographic Information, of our Notes to Consolidated Financial Statements in this Form 10-K.
+COMPETITION
+
+The market for our products is competitive and some of our competitors have greater financial resources than we do, as well as more substantial production, marketing, engineering and other capabilities to develop, manufacture, market, and sell their products.
+
+We compete broadly in the UC&C market, where we have multiple competitors (depending on the product line) on a global basis. These competitors include, Cisco Systems, Inc., Avaya Inc., ClearOne Communications, Inc., Huawei Technologies Co., Ltd., Logitech International S.A., GN Netcom, LifeSize Inc., Snom Technology GmbH, Vidyo, Inc., Yamaha Corporation/Revolabs, Inc., Yealink Network Technology Co., Ltd., ZTE Corporation, Grandstream Networks, Aver Information, Inc., Sennheiser Communications and others. In some cases, we also cooperate and partner with these companies in programs and various industry initiatives.
+
+One of our primary competitors in the Enterprise Headsets and Consumer Headsets areas and, to a lesser extent, in the gaming and PC audio areas is GN Netcom, a subsidiary of GN Store Nord A/S., a Danish telecommunications conglomerate.  In addition, Motorola, Samsung, and LG are significant competitors in the consumer mono Bluetooth headset category. Sennheiser Communications and regional companies are competitors in the computer, office, and contact center categories, while Apple, Skullcandy, Logitech, Bose, and LG are competitors in the stereo Bluetooth headset category.  In addition, Turtle Beach, Skullcandy, Logitech, and Razer are competitors in the gaming category.
+ 6
+
+Our main competitors in the Voice and Video categories consists of both larger companies, such as Cisco Systems, with substantial financial resources and more sizable sales, marketing, engineering and other capabilities with which to develop, manufacture, market, and sell their solutions, and smaller niche competitors. Our strategy of offering a best-in-class complete portfolio of UC voice and video endpoints faces challenges from competitors, who create end-to-end service and endpoint solutions, as well as low cost competitors in specific categories, or other industry players, who are potentially able to develop unique technology or compete in a specific geography.
+For Services, some of our partners resell our maintenance and support services, while others sell their own branded services. To the extent that channel partners sell their own services, these partners compete with us; however, they typically purchase maintenance contracts from us to support these services. As we expand our professional services offering, we may compete more directly with partners in the future.
+We believe the principal factors to be successful and competitive in each of the markets we serve are as follows:
+
+• | Understanding emerging trends and new communication technologies, such as UC&C and VaaS, and our ability to react quickly to the opportunities they provide
+
+
+• | Alliances and integration/compatibility with major UC&C vendors
+
+
+• | Ability to design, manufacture, and sell products that deliver on performance, style, ease-of-use, comfort, features, sound quality, interoperability, simplicity, price, and reliability
+
+
+• | Ability to create and monetize software solutions that provide management and analytics and allow business to improve IT and employee performance through insights derived from our analytics.
+
+
+• | Brand name recognition and reputation
+
+
+• | Superior global customer service, support, and warranty terms
+
+
+• | Global reach, including effective and efficient distribution channels
+
+We believe our products and strategy enable us to compete effectively based on these factors.
+RESEARCH AND DEVELOPMENT 
+
+The success of our new products is dependent on several factors, including identifying and designing products that meet anticipated market demand before it has developed and as it matures, timely development and introduction of these products, cost-effective manufacturing, quality and durability, acceptance of new technologies, and general market acceptance of the products we develop.  See further discussion regarding our business risks associated with our manufacturers under the risk titled, "We face risks associated with developing and marketing our products, including new product development and new product line" within Item 1A Risk Factors in this Form 10-K. 
+Historically, we have conducted most of our research, development, and engineering with an in-house staff and a limited use of contractors.  Key locations for our research, development, and engineering staff are in the U.S., Mexico, China, and India.
+During Fiscal Year 2019, we developed and introduced innovative products that enabled us to better address changing customer demands and emerging trends.  Our goal is to bring the right products to customers at the right time utilizing best-in-class development processes.
+
+The products we develop require significant technological knowledge and the ability to rapidly develop the products in intensely competitive and transforming markets. We believe our extensive technological knowledge and portfolio of intellectual property gives us a competitive advantage. We furthermore continually strive to improve the efficiency of our development processes through, among other things, strategic architecting, common platforms, and increased use of software and test tools.
+SALES AND DISTRIBUTION 
+
+We maintain a worldwide sales force to provide ongoing global customer support and service.  To support our partners in the Enterprise market and their customers' needs, we have a well-established, two-tiered distribution network in the Americas, Europe, Middle East and Africa, and Asia Pacific regions and, in select markets, direct resellers. 
+Our global channel network includes enterprise distributors, direct and indirect resellers, retailers, network and systems integrators, service providers, traditional and online consumer electronics retailers, consumer product retailers, office supply distributors, wireless carriers, catalog and mail order companies, and mass merchants.  
+ 7
+
+Our distributors, direct and indirect resellers, system integrators, managed service providers, e-commerce partners, telephony and computer equipment providers resell our commercial headsets and endpoint products. Wireless carriers, retailers, and e-commerce partners also sell our consumer headsets as Plantronics branded products. As we expand into new markets and product categories, we expect to build relationships in new distribution and marketing models.
+In addition, we have built a strong foundation of alliance partners, which allow existing and future distribution and reseller partners to sell into Microsoft, Zoom, Google and other service provider environments. Our commercial distribution channel maintains an inventory of our products.  Our distribution of specialty products includes retail, government programs, customer service, hospitality and healthcare professionals. Plantronics branded consumer headsets are sold through retailers to corporate customers, small businesses, and individuals who use them for a variety of personal and professional purposes.  Revenues from this channel are seasonal, with our third fiscal quarter typically being the strongest quarter due to holiday seasonality.
+Our commercial distributors and retailers represent our first and second largest sales channels in terms of net revenues, respectively. Two customers, ScanSource and Ingram Micro Group, accounted for 16.0% and 11.4%, respectively, of consolidated net revenues in Fiscal Year 2019. One customer, Ingram Micro Group, accounted for 10.9% of consolidated net revenues in Fiscal Years 2018 and 2017. 
+Some of our products may also be purchased directly from our website at www.poly.com.
+We continue to evaluate our logistics processes and implement new strategies to further reduce our transportation costs and improve lead-times to customers. Currently, we have distribution centers in the following locations:
+
+• | Tijuana, Mexico, which provides logistics services for products destined for customers in the U.S., Canada, Asia Pacific, Middle East, and Latin America regions
+
+
+• | Laem Chabang, Thailand, which provides logistics services for products shipped to customers in our Asia Pacific regions
+
+
+• | Moerdijk, Netherlands, which provides logistics services for products shipped to customers in our Europe and Africa regions
+
+
+• | Prague, Czech Republic, which provides logistics services for products shipped to customers in our Europe and Africa regions
+
+
+• | Beijing and Suzhou, China, which provide logistics services for products shipped to customers in Mainland China
+
+
+• | Melbourne, Australia, which provides logistics services for products shipped to the retail channel in Australia and New Zealand
+
+
+• | San Diego, United States, which provides logistics services for products shipped to customers in the Americas Region
+
+With respect to the above locations, we use third party warehouses in the Czech Republic, Thailand, Netherlands, Beijing, and
+Australia. We operate warehouse facilities in Mexico, San Diego and Suzhou.
+BACKLOG
+
+We have a “book and ship” business model whereby we fulfill most orders within 48 hours of receipt. As a result, our net revenues in any fiscal year depend primarily on orders booked and shipped in that year. In addition, our backlog is occasionally subject to cancellation or rescheduling by customers on short notice with little or no penalty.  Therefore, there is a lack of meaningful correlation between backlog at the end of a fiscal year and the following fiscal year's net revenues. Similarly, there is a lack of meaningful correlation between year-over-year changes in backlog as compared with year-over-year changes in net revenues. Consequently, we do not believe that backlog information is material to an understanding of our overall business. 
+
+ 8
+
+MANUFACTURING AND SOURCES OF MATERIALS
+
+Our manufacturing operations consist primarily of assembly, testing, and packaging, which are performed in our facility in Tijuana, Mexico.  We outsource the manufacturing of most of our Bluetooth products to third party manufacturers in China. We also outsource the manufacturing of a number of our other products to third parties, typically in China and other countries in Asia.  For a further discussion of the business risks associated with our manufacturers see the risk titled, “We have significant manufacturing, assembly and packaging operations in Mexico and rely on third party manufacturers located outside of U.S. which creates manufacturing and management risks that may limit our ability to timely and cost effectively deliver products to customers and thereby adversely impact our revenues or profitability” within Item 1A Risk Factors in this Annual Report on Form 10-K.
+We purchase the components for our Headset products primarily from suppliers in Asia, Mexico, and the U.S., including proprietary custom integrated circuits, electrical and mechanical components, and sub-assemblies.  A majority of the components and sub-assemblies used in our manufacturing operations are obtained, or are reasonably available, from dual-source suppliers, although we do have a number of sole-source suppliers.
+We subcontract the manufacturing of most of our voice and video products to Celestica Inc. (“Celestica”), Askey Computer Corporation (“Askey”), Foxconn Technology Group (“Foxconn”), Pegatron Corporation (“Pegatron”), and VTech Holdings Ltd (“VTech”). These companies are all third-party electronic manufacturing service providers. We use Celestica’s facilities in Thailand and Laos, and Askey’s, Foxconn’s, Pegatron’s, and VTech’s facilities in China. At the conclusion of the manufacturing process, these products are distributed to channel partners and end users through warehouses located in Thailand, the Netherlands, and the United States, and in some cases, direct to channel partners. The key components of our UC Platform products are manufactured by third parties in China, Taiwan, and Israel. Final system assembly, testing and configuration is performed by Celestica China and Celestica Thailand. These UC Platform products are distributed directly to end users from these manufacturing locations.
+We procure materials to meet forecasted customer requirements.  Special products and certain large orders are quoted for delivery after receipt of orders at specific lead time.  We maintain a minimum level of finished goods based on estimated market demand, in addition to inventories of raw materials, work in process, sub-assemblies, and components.  In addition, a substantial portion of the raw materials, components, and sub-assemblies used in our products are provided by our suppliers on a consignment basis.  Refer to “Off Balance Sheet Arrangements and Contractual Obligations”, within Item 7, Management's Discussion and Analysis, in this Annual Report on Form 10-K for additional details regarding consigned inventories. We write down inventory items determined to be either excess or obsolete to their net realizable value.
+ENVIRONMENTAL MATTERS
+
+We are subject to various federal, state, local, and foreign environmental laws and regulations, including those governing the use, discharge, and disposal of hazardous substances in the ordinary course of our manufacturing process.  We believe that our current manufacturing and other operations comply, in all material respects with applicable environmental laws and regulations. We are required to comply, and we believe we are currently in compliance with the European Union (“EU”) and other Directives on the Restrictions of the use of Certain Hazardous Substances in Electrical and Electronic Equipment (“RoHS”) and on Waste Electrical and Electronic Equipment (“WEEE”) requirements.  Additionally, we believe we are compliant with the RoHS initiatives in China and Korea; however, it is possible that future environmental legislation may be enacted, or current environmental legislation may be interpreted to create an environmental liability with respect to our facilities, operations, or products. See further discussion of our business risks associated with environmental legislation under the risk titled, "We are subject to environmental laws and regulations that expose us to a number of risks and could result in significant liabilities and costs" within Item 1A Risk Factors of this Form 10-K. 
+INTELLECTUAL PROPERTY
+
+We obtain patent protection for our technologies when we believe it is commercially appropriate.  As of March 31, 2019, we had approximately 1,450 worldwide utility and design patents in force, expiring between calendar years 2019 and 2044.
+We intend to continue seeking patents on our inventions when commercially appropriate. Our success will depend in part on our ability to obtain patents and preserve other intellectual property rights covering the design and operation of our products.  See further discussion of our business risks associated with our intellectual property under the risk titled, "Our intellectual property rights could be infringed on by others, and we may infringe on the intellectual property rights of others resulting in claims or lawsuits. Even if we prevail, claims and lawsuits are costly and time consuming to pursue or defend and may divert management's time from our business" within Item 1A Risk Factors of this Form 10-K.
+
+ 9
+
+We own trademark registrations in the U.S. and in a number of other countries, as well as the names of many of our products and product features.  We currently have pending U.S. and foreign trademark applications in connection with our Poly brand name and certain new products and product features, and we may seek copyright protection when and where we believe appropriate.  We also own a number of domain name registrations and intend to seek more as appropriate.  We furthermore attempt to protect our trade secrets and other proprietary information through comprehensive security measures, including agreements with our employees, consultants, customers, and suppliers. See further discussion of our business risks associated with intellectual property under the risk titled "Our intellectual property rights could be infringed on by others, and we may infringe on the intellectual property rights of others resulting in claims or lawsuits. Even if we prevail, claims and lawsuits are costly and time consuming to pursue or defend and may divert management’s time from our business."
+EMPLOYEES
+
+On March 31, 2019, we employed approximately 7,490 people worldwide, including approximately 3,005 employees at our shared services facility in Tijuana, Mexico.
+EXECUTIVE OFFICERS OF THE REGISTRANT
+Set forth in the table below is certain information regarding the executive team of the Company:
+
+NAME | AGE | POSITION 
+Joe Burton | 54 | President and Chief Executive Officer 
+Charles D. Boynton | 51 | Executive Vice President, Chief Financial Officer 
+Mary Huser | 55 | Executive Vice President and Chief Legal and Compliance Officer
+Jeff Loebbaka | 57 | Executive Vice President, Global Sales 
+Tom Puorro | 45 | Executive Vice President, General Manager Products 
+
+
+Mr. Burton joined the Company in 2011 as Senior Vice President of Engineering and Development and Chief Technology Officer and was promoted to various positions including Executive Vice President and Chief Commercial Officer before being named President and Chief Executive Officer and appointed to our Board of Directors in 2016. Prior to joining the Company, Mr. Burton held various executive management, engineering leadership, strategy, and architecture-level positions. From 2010 to 2011, Mr. Burton was employed by Polycom most recently as Executive Vice President, Chief Strategy and Technology Officer and, for a period of time, as General Manager, Service Provider concurrently with his technology leadership role. From 2001 to 2010, Mr. Burton was employed by Cisco Systems, Inc., a global provider of networking equipment, and served in various roles with increasing responsibility including Vice President and Chief Technology Officer for Unified Communications and Vice President, SaaS Platform Engineering, Collaboration Software Group. He holds a Bachelor of Science degree in Computer Information Systems from Excelsior College (formerly Regents College) and attended the Stanford Executive Program.
+Mr. Boynton joined the Company in 2019 as Executive Vice President, Chief Financial Officer.  Prior to joining the Company, Mr. Boynton served as Executive Vice President and Chief Financial Officer of SunPower Corporation, a global energy company and provider of solar power solutions, from March 2012 to May 2018 and continued as an Executive Vice President until July 2018. Mr. Boynton also served as the Chairman and Chief Executive Officer of 8point3 General Partner LLC, the general partner of 8point3 Energy Partners LP, from March 2015 to June 2018. He also served as SunPower’s Principal Accounting Officer from October 2016 to March 2018. In March 2012, Mr. Boynton served as SunPower’s Acting Chief Financial Officer and from June 2010 to March 2012 he served as SunPower’s Vice President, Finance and Corporate Development, where he drove strategic investments, joint ventures, mergers and acquisitions, field finance and financial planning and analysis. Before joining SunPower in June 2010, Mr. Boynton was the Chief Financial Officer for ServiceSource, LLC from April 2008 to June 2010. Earlier in his career, Mr. Boynton held key financial positions at Intelliden, Commerce One, Inc., Kraft Foods, Inc., and Grant Thornton, LLP. Mr. Boynton is a Member FEI, Silicon Valley Chapter. Mr. Boynton earned his master’s degree in business administration at the Kellogg School of Management at Northwestern University and holds a Bachelor of Science degree in Accounting from the Kelley School of Business at Indiana University Bloomington.
+
+Ms. Huser joined the Company in March 2017 as Senior Vice President, General Counsel and Corporate Secretary and was promoted to Executive Vice President and Chief Legal and Compliance Officer in July 2018. Prior to joining the Company, Ms. Huser served as Vice President, Deputy General Counsel at BlackBerry, a mobile-native security software and services company, and General Counsel of its Technology Solutions division from 2013 to 2014 and again during 2016 until she joined the Company. Before BlackBerry, during 2015, Ms. Huser was Senior Vice President, Legal for McKesson Corporation, a global healthcare supply chain, retail pharmacy, specialty care and information technology company. Prior to that time, she was a partner, office managing partner and practice group leader at Bingham McCutchen LLP, an international law firm, from 1988 to 2007 and again 
+ 10
+
+from 2010 to 2013. Ms. Huser also served as Vice President, Deputy General Counsel of eBay, Inc., an online global commerce leader, from 2008 to 2010. Ms. Huser graduated from the University of Wisconsin - Madison, with a Bachelor of Business Administration, Accounting and Marketing and holds a Juris Doctorate from Stanford Law School.
+Mr. Loebbaka joined Plantronics in October 2017 as Senior Vice President, Global Sales and was promoted to Executive Vice President Global Sales in July 2018. Prior to joining Plantronics, from March 2016 to June 2017, Mr. Loebbaka served as Chief Commercial Officer at Spruce Finance, Inc., a consumer finance company. Before Spruce Finance, he served as Senior Vice President, Global Sales, Marketing and Service, at Enphase Energy, an energy management and solutions technology company, from 2010 to 2015. Previously, he held roles of ever increasing responsibility in sales and marketing at Seagate Technology, PLC, an industry leading company focused on core elements of data storage in the enterprise and consumer markets, including Senior Vice President of Europe, Middle East and Africa and earlier as a Senior Vice President of Global Channel Sales and Corporate Marketing. Mr. Loebbaka has also held General Manager and other senior sales and marketing management roles at Adaptec, a computer storage products company, Brunswick Corporation, a leading global designer, manufacturer and marketer of recreation products company, and Apple, Inc., a multinational technology company. Mr. Loebbaka holds an MBA from The Kellogg School of Management at Northwestern University and a Bachelor of Science degree in Mechanical Engineering from the University of Illinois at Urbana-Champaign.
+Mr. Puorro joined the Company as Executive Vice President, General Manager Group Systems in December 2018 and in May 2019 was promoted to his current position. Prior to joining the Company, Mr. Puorro served in a variety of ever increasing roles at Cisco Systems, Inc., a global provider of networking equipment, during two separate periods from 2000 to 2007 and thereafter from September 2009 to December 2018. During his most recent employment ending in 2018, Mr. Puorro was employed as Vice President and General Manager of Unified Communications Technology Group from October 2014 to December 2018, Senior Director of Engineering from August 2011 to September 2014, and Senior Director, Product Management/Development from October 2009 to July 2011.  Mr. Puorro has also worked at Microsoft Corporation, a developer of computer software, consumer electronics, personal computers, and related services from August 2007 to September 2009.
+Executive officers serve at the discretion of the Board of Directors.  There are no family relationships between any of the directors and executive officers of the Company.
+
+ 11
+

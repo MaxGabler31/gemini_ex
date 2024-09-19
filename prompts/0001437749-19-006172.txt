@@ -1,0 +1,123 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS.
+ 
+Mikros Systems Corporation (the “Company”, “we”, “Mikros” or “us”) designs and manufactures software, hardware and electronic systems used to maintain complex distributed systems. Examples of such systems include defense equipment such as radars and combat systems, and commercial and industrial applications such as printing presses, power distribution, and utility systems, and Federal Aviation Administration (“FAA”) systems.
+ 
+Over the past decade, our principal customer has been the U.S. Department of Defense (“DoD”), primarily the U.S. Navy (“Navy”). We provide the following two key systems to the Navy for maintenance of radars and combat systems:
+ 
+
+● | ADEPT®, the Adaptive Diagnostic Electronic Portable Testset, is a PC-based maintenance automation workstation used to maintain the Navy’s premier AN/SPY-1 phased array radar on Cruisers (CG) and Destroyers (DDG).
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | ADSSS®, the ADEPT Distance Support Sensor Suite, is a Condition-Based Maintenance (CBM) system used to monitor Combat System Elements (CSEs) onboard the Littoral Combat Ship (LCS). 
+
+ 
+More recently, we have developed and marketed software products to analyze maintenance data collected from target systems, optimize maintenance procedures, and predict failures. Our Prognostics Framework® (PF) and Diagnostic Profiler® (DP) products provide software capabilities which complement our maintenance hardware products (ADEPT and ADSSS) and allow us to provide complete hardware/software solutions for advanced maintenance, particularly of complex distributed systems. Now that we have a complete hardware/software solution for advanced maintenance, we are expanding into commercial and industrial markets.
+ 
+Our Products
+ 
+Adaptive Diagnostic Electronic Portable Testset. ADEPT, also known as the AN/PSM-132, is an automated maintenance workstation designed to significantly reduce the time required to align all variants of the AN/SPY1 Radar System aboard U.S. Navy AEGIS cruisers and destroyers while optimizing system performance and readiness. ADEPT systems are currently deploying on all AEGIS CG and DDG platforms to support the AN/SPY1 radar system. Since the system uses commercial instrument case and modules, ADEPT units can be modified to support both preventative maintenance and condition-based maintenance of other radars and complex electronic systems in military or commercial applications such as the AN/SPQ-9B. ADEPT represents an innovative approach to Navy shipboard maintenance, integrating modular instrumentation cards in a rugged enclosure with an onboard computer, input and output devices, networking hardware, removable hard drives, and a touch-screen display. A custom software application provides the user interface and integrates the hardware with a database that stores user information, instrument readings, maintenance requirements, and training aids. ADEPT is designed to be adapted to other complex shipboard systems, and provide integrated distance support capabilities for remote diagnostics and troubleshooting by shore-based Navy experts.
+ 
+Key benefits of ADEPT include:
+ 
+
+• | Distance support capability enabling remote (shore based) system support by subject matter experts and fleet-wide system analysis; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• | Reduction in the amount of electronic test equipment required for organizational level support; 
+• | Modularity and programmability to overcome obsolescence issues encountered with current test equipment and support capability enhancements in future systems; and 
+• | Elimination of the need for traditional manuals, paper documentation and discreet test equipment thereby easing the maintenance burden by integrating the required test equipment functionality and automated testing process and storing all necessary documentation within the ADEPT system.
+
+ 
+ 1
+
+
+
+As of December 31, 2018, we have delivered a total of 226 ADEPT units to our Navy customers.
+ 
+A further goal for ADEPT has been to expand the capabilities to other radar systems. In January 2014, we were awarded a $0.5 million service contract by the U.S. Navy to extend ADEPT to a second U.S. Navy radar system, the AN/SPS-49. These services are expected to assist in optimizing performance for the Ballistic Missile Defense Mission.
+ 
+ADEPT Distance Support Sensor Suite. In 2013, we started development of ADSSS for the Navy’s LCS. Our system has now matured and has earned Nomenclature AN/SYM-3 from the Navy. The LCS is the U.S. Navy’s latest combat warship. ADSSS is a network-enabled system that can be configured to monitor multiple shipboard systems and report maintenance data onshore for further analysis to detect trends and predict failures. AN/SYM-3 provides an open architecture approach with industry-standard hardware, and cybersecurity compliant software to acquire and process system operational and maintenance data. The AN/SYM-3 system fully automates the capture of system operation, environment and maintenance data to provide unattended operation. The system monitors key parameters and sends alert notifications when parameters move out of tolerance.
+ 
+The first full AN/SYM-3 system was successfully completed on LCS 2 and shore installation of Prognostics has been completed at Port Hueneme Division. We expect that ADSSS will be on both variants of the LCS, currently planned to be at least 32 ships. In 2019, we will be installing on four more LCS ships that are moving to deployment and this will allow for data collection while operational at sea. Another delivery order is currently being developed to allow for more installations and development. AN/SYM-3, with its remote monitoring and prognostics capabilities, has also generated interest in other systems within LCS and in other ship classes, including AEGIS and NATO SS, and we are currently pursuing several related opportunities.
+ 
+Diagnostic Profiler. The Diagnostic Profiler is an integrated development environment for developing diagnostic capabilities used in maintenance, embedded diagnostics, and troubleshooting applications. The software provides diagnostic services to its host application, including fault call-outs, suggested “next best” test to further isolate faults, and direct maintenance actions. When additional faults are identified, the software prioritizes the fault callouts by probability. The use of the diagnostic profiler eliminates the need for the development and maintenance of diagnostic flow charts and hard-coded text sequences. This reduces the effort required to correct bugs and design changes. Over the life of the system, this could result in significant cost savings. This system is used by clients and has also generated yearly support contracts for service. We are under contract with Northrup Grumman to provide more capabilities to this system and onsite support.
+ 
+Prognostics Framework. Prognostics Framework is an analytic software framework for implementing real-time prognostics, diagnostics, and status monitoring to support embedded prognostic applications, health management systems and condition-based maintenance applications. The Prognostics Framework software institutes an information framework that organizes relevant data related to: (i) the condition of the system; (ii) the system’s ability to perform required functions over specific time intervals; and (iii) the need for maintenance actions and repair parts. The Prognostics Framework has been used to implement a complete health management system on one of the first radar systems to require prognostics as a key element of its overall solutions. Other potential applications include complex computer networks, power generators, power supply, cooling, C4I (Command, Control, Communications, Computers & Intelligence), environmental and imaging systems.
+Government Contracts
+ 
+In April 2016, we received three contracts to continue logistics support of the ADEPT maintenance automation workstation. A contract valued at approximately $0.3 million to provide ADEPT General Engineering and Support was awarded, along with two other logistics contracts to perform necessary updates, repair and calibration on the ADEPT units, totaling $0.25 million. Along with the contracts received for our ADEPT product, we received a follow on contract in the amount of $0.1 million, for technical support on the USS Fort Worth (LCS3) using the latest version of our ADSSS.
+ 
+In September 2016, we were awarded and entered into a multi-year IDIQ contract with the Naval Surface Warfare Center, Port Hueneme Division, relating to our ADSSS product. The contract has a term of five years and provides for the purchase and sale of up to $48 million of ADSSS units and related engineering and logistics support. The IDIQ contract covers the first eight ships of the 28 ship program. Since the award, we have received multiple delivery awards, some of which are described below.
+ 
+In February 2017, we were awarded a follow-on multi-year Small Business Innovation Research (SBIR) Phase III IDIQ contract with the Naval Surface Warfare Center, Crane Division, for our ADEPT program. The contract provides for the purchase and sale of up to $35.1 million of ADEPT units and related engineering, such as calibration, repair, training and other logistics services. Since the award, we have received multiple delivery orders, some of which are described below.
+ 
+In March and April 2017, we were awarded the second, third and fourth delivery orders under the ADEPT IDIQ Contract. The second delivery order covers engineering services in the amount of $11.5 million which will be funded incrementally and facilitate the engineering and technical support for the ADEPT program during the next three years. The third delivery order contract for $0.6 million is to provide sustainment services, such as calibration, repair, evaluations, and screenings of ADEPT units to be performed in our Manufacturing and Depot Center (‘M&D Center”) in Largo, Florida. The fourth delivery order for $0.1 million is to provide training to sailors in the fleet to operate the ADEPT maintenance automation workstation.
+ 
+ 2
+
+
+
+In April 2017, we received contract awards totaling $2.0 million from the U.S. Navy to extend the capabilities of the ADSSS Condition-Based Maintenance (CBM) system to support a fourth Navy radar system, the MK 99. The SBIR office in Dahlgren, VA provided $0.5 million of the total funding to support this effort.
+ 
+In July 2017 and November 2017, we received modifications which added funding to our ADEPT IDIQ Contract, for engineering services in the amounts of $0.4 million and $0.1 million, respectively. These awards will allow us to continue to support the ADEPT product line in the fleet, implement necessary software enhancements, and provide general support of the program.
+ 
+In August 2017, we received a modification to our ADEPT sustainment delivery order, adding $0.5 million to allow our M&D Center in Largo, Florida to continue to provide bi-annual sustainment services for units from the fleet cycling through our M&D Center.
+ 
+In September 2017, we received a delivery order in the amount of $2.4 million for the production and delivery of additional ADEPT units. These new units will continue our fleet support on Aegis cruisers and destroyers in the U.S. Navy. In 2018, we received additional modifications to our ADEPT IDIQ Contract and incremental awards for continued engineering services in the aggregate amount of $0.42 million. This funding will support necessary software enhancements to sustainment services for the ADEPT product out of our M&D Center.
+ 
+In February and March 2018, we received modifications to our ADEPT sustainment delivery orders, adding $0.25 million to allow us to continue to provide bi-annual sustainment services for units from the fleet cycling through the M&D Center. In addition to those sustainment services, it allows our team at the M&D Center to provide training to sailors in the fleet to operate the ADEPT maintenance automation workstation.
+ 
+Between January 2018 and April 2018, we received multiple contract awards which increased funding on our ADEPT IDIQ Contract for Engineering Services. The total amount awarded in the first quarter of 2018 was $0.5 million and an additional $1.6 million was awarded in April 2018. This funding will allow us to continue supporting the ADEPT product line in the fleet and implementing necessary software enhancements to increase readiness.
+ 
+In June 2018, we received the second delivery order on our current multi-year IDIQ contract with the Naval Surface Warfare Center, Port Hueneme Division, relating to our ADSSS product. The award totaling $2.5 million will support the MK 99 FCS development, test and installation.
+ 
+In August 2018, we received a contract modification to add funding to our ADEPT IDIQ Contract for engineering services in the amount of $1.3 million. This additional funding will support the ADEPT product line in the fleet, implement necessary software enhancements and provide general support.
+ 
+In September 2018, we received modifications to our ADEPT sustainment delivery orders, adding $0.25 million. This funding allows the M&D Center in Largo, Florida to provide bi-annual sustainment services for units from the fleet.
+ 
+In November 2018, we received a contract modification to add funding to our ADEPT IDIQ Contract for engineering services in the amount of $0.2 million. This additional funding will support the ADEPT product line in the fleet, implement necessary software enhancements and provide general support.
+ 
+Manufacturing and Depot Center
+ 
+We operate a Manufacturing and Depot Center in Largo, Florida which has been manufacturing our AN/PSM-132 and AN/SYM-3 systems for our DoD customers since 2010. Our center is American National Standards Institute (ANSI) ISO 9001:2015 certified for manufacturing, distribution and support of electronic systems for military and commercial applications and products. The facility is supported by our Research and Development center in Fort Washington, PA which is ISO 9001:2015 certified for design and development of electronic systems for military and commercial applications and products. Our quality management system complies with Naval Sea Systems Command Standard Item 009-04. In addition to facility certifications, we have personnel trained and certified in numerous IPC – Association Connecting Electronics Industries, Lean Six Sigma (LSS), and Manufacturing Skill Standards Council (MSSC) specialties. We offer light manufacturing, integration, kitting, build-to-print, and box-build with testing services to commercial customers and DoD contractors. In September 2017, we received our first commercial full-rate order for integration services in which we delivered 2,650 units. Expanding the Largo facility’s light manufacturing and integration services for commercial customers and other DoD contractors is a key component of our long-term growth strategy.
+Corporate Growth & Strategy
+ 
+Our strategy for continued growth is based on continuing expansion of our defense business and executing new initiatives to apply our advanced maintenance technology in commercial markets. With regard to the defense industry, we expect to continue expanding our technology base, backlog and revenue by continuing our active participation in the DoD SBIR program and bidding on projects that fall within our areas of expertise. These areas include electronic systems engineering and integration, radar systems engineering, combat/C4I (Command, Control, Communications, Computers & Intelligence) systems engineering, and communications engineering. We believe that we can utilize the intellectual property developed under our various SBIR awards to develop proprietary products, such as ADEPT and ADSSS, with broad appeal in both the government and commercial marketplace. Our state-of-the-art test equipment can be used by many commercial and governmental customers such as the FAA, radio and television stations, cell phone stations, and airlines. Second, we will continue to pursue SBIR projects with the Department of Homeland Security, the U.S. Navy, and other government agencies. Third, we believe that through our marketing of products, such as ADEPT, we will develop key relationships with prime defense contractors. Our strategy is to develop these relationships into long-term, key subcontractor roles on future major defense programs awarded to these prime contractors.
+ 
+ 3
+
+
+
+With regard to commercial markets, our Diagnostics Profiler and Prognostics Framework software offerings complement our hardware products and allow us to provide complete hardware/software solutions for advanced maintenance applications. Current customers for these systems include major multinational corporations such as HP, which recently extended our Diagnostic Profiler software support for a sixth year. We continue to receive repeat orders from these customers to support their applications. We plan to provide “condition-based maintenance” systems for “complex distributed systems” to commercial customers. In that regard, we are currently developing a condition-based maintenance solution for industrial equipment based on our proprietary Prognostics Framework solution. We have deployed two active pilot systems that are providing key maintenance data on a daily basis to service technicians. We are also in discussion with additional commercial companies regarding the use of our condition based maintenance applications.
+ 
+In 2019, our primary strategic focus is to continue as a premium provider of R&D and product development services to the defense industry, generate multiple task orders under our two IDIQ contracts and, expand our commercial business through marketing and sales of our Prognostics Framework and Diagnostic Profiler software products. In furtherance of this strategy, we have made material investments in our engineering and technical staffs to provide broader and deeper expertise to our customers. We will also seek to generate incremental revenue through providing light assembly and production services to commercial customers at our M&D Center in Largo, Florida.
+ 
+Over the longer term, we intend to further develop advanced maintenance technologies and implement these technologies in products for deployment in defense applications and to expand into more commercial applications. We believe that many of our core capabilities, remote monitoring, rugged systems, predictive maintenance and communications expertise, are applicable to other industries that work with complex distributed systems, such as utilities, communications and transportation systems. We are currently in discussions with certain industry participants regarding this initiative.
+ 
+During recent years, the combination of spending caps, discretionary spending cuts, sequestration and reductions in defense spending has caused, and may in the future continue to cause, delays in funding certain projects. This may negatively impact our revenues and profits.
+ 
+Competition
+ 
+The SBIR arena is highly competitive and we compete against numerous small businesses for SBIR awards. In our general business area of electronic defense systems and products, we also compete against many larger companies that have greater financial and human resources. We believe that the primary competitive factors in obtaining SBIR contracts are technical expertise, prior relevant experience, and cost. We believe that our history of completing projects in a timely and efficient manner, along with the experience of our management and technical personnel, enables us to compete effectively for SBIR grants.
+Intellectual Property
+ 
+Under SBIR data rights, we are protected from unauthorized use of SBIR-developed technology and data for a period of five years after acceptance of all items to be delivered under a particular SBIR contract or any follow-on contract.
+Customer Concentration and Dependence on Federal Government
+ 
+Substantially all of our revenue is derived from SBIR and IDIQ contracts with the U.S. Federal government. In 2018, approximately 98% of our revenues were realized in connection with government contracts. In 2017, approximately 99% of our revenues were realized in connection with task orders under the IDIQ contract for ADEPT units and development of the ADSSS system. Although our operations are not subject to any particular government approval or regulations, we are dependent upon funding being made available to the DoD in amounts sufficient to cover the SBIR grants and other DoD contracts for which we compete.
+Research and Development
+ 
+We specialize in the development of electronic systems technology for military and commercial applications. All of our research and development costs in 2018 and 2017 were for the benefit of our customers, who are agencies of the federal government. The customer- sponsored research and development projects are performed under contracts and are accounted for as contract costs as the work is performed. In future periods, we may engage in company-sponsored research and development projects which would be expensed as incurred.
+ 
+In 2018, we accelerated our commitment to expanding our technical expertise and strengthening our research and development capabilities. These efforts included hiring eight additional employees, implementing policies and procedures required to earn and maintain important certifications, including ISO 9001:2015 quality certifications and Naval Sea Systems Quality Standard 009-004. We believe these investments will make us more competitive and generate new opportunities for us in both government and commercial markets.
+ 
+ 4
+
+
+
+Backlog
+ 
+Backlog represents the estimated amount of future revenues to be recognized under negotiated contracts as work is performed. Our backlog consists of (i) ADEPT units to be developed and delivered to the federal government together with continued development and testing and (ii) ADSSS systems to be developed and derived together with related engineering and logistics support. At December 31, 2018, our backlog was $4.8 million.
+Employees
+ 
+As of December 31, 2018, we had 35 full-time employees of which 27 work at our Fort Washington, Pennsylvania, Research & Development Center, one works at our Princeton, New Jersey corporate headquarters, one works at our Washington, DC office, and six work at our Largo, Florida M&D Center. None of our employees belong to a labor union. We believe relations with our employees are good. We also use the services of subcontractors and consultants as necessary to aid in software and hardware development and for the manufacture of products.

@@ -1,0 +1,271 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+     Item 1. Business.
+     General
+     TESSCO Technologies Incorporated (which we sometimes refer to as “Tessco”, “we”, or the “Company”) is a value-added technology distributor, manufacturer, and solutions provider serving commercial and retail customers in the wireless infrastructure and mobile device accessories markets. The company was founded more than 30 years ago with a commitment to deliver industry-leading products, knowledge, solutions, and customer service. Tessco supplies over 48,000 products from more than 400 of the industry’s top manufacturers in mobile communications, Wi-Fi, Internet of Things, wireless backhaul, and more. Tessco is a single source for outstanding customer experience, expert knowledge, and complete end-to-end solutions for the wireless industry. 
+     Our customers include a diversified mix of carrier and public network operators, tower owners, program managers, contractors, integrators, private system operators (including railroads, utilities, mining operators and oil and gas operators), federal, state and local governments, manufacturers, value-added resellers, retail carrier stores and their independent agents, as well as other local and national retailers. We currently serve an average of approximately 10,500 different customers per month.
+     We provide our customers with products, services, and solutions to help them support these primary applications:
+    
+· | Broadband
+--+----------
+
+
+· | DAS for In-Building Cellular and Public Safety Coverage
+--+--------------------------------------------------------
+
+
+· | First Responder Communications and FirstNet™
+--+---------------------------------------------
+
+
+· | IoT (Internet of Things)
+--+-------------------------
+
+
+· | Microwave
+--+----------
+
+
+· | Power Systems
+--+--------------
+
+
+· | Small Cell and Macro Cell Wireless Base Station Infrastructure
+--+---------------------------------------------------------------
+
+
+· | In-Vehicle and Mobile Communications
+--+-------------------------------------
+
+
+· | Wi-Fi Networks
+--+---------------
+
+
+· | Test and Maintenance
+--+---------------------
+
+
+· | Wireless Backhaul
+--+------------------
+
+
+· | Mobile Devices and Accessories
+--+-------------------------------
+
+      We source and develop our product offering from leading manufacturers throughout the world, and also offer products developed and manufactured under our own proprietary brand, Ventev®.
+     Our operational platform removes complexity for customers and suppliers by streamlining the management of the supply chain and lowering total inventory and cost by providing guaranteed availability and complete, on-time delivery to the point of use.
+     We began our “total source” operations in 1982, reincorporated as a Delaware corporation in 1987, and have been listed on the Nasdaq Market (currently, Nasdaq Global Select) (symbol: TESS), since 1994. We operate under ISO 9001:2015 and TL 9000:2016 R(6) registrations. 
+     For information regarding our website address and regarding material available free of charge through the website, see the information appearing under the heading “Available Information” included in Item 7 to this Annual Report on Form 10-K for the fiscal year ended March 31, 2019. 
+    
+ 
+  3
+ 
+
+ Customers
+    
+The Company evaluates its business within two segments: commercial and retail. The commercial segment consists of the following two customer markets: (1) public carriers that are generally responsible for building and maintaining the infrastructure system and provide airtime service to individual subscribers; and (2) value-added resellers and integrators, which results from the consolidation of our previously identified value-added resellers, government channels and private system operator markets, and reflects implementation over the 2019 fiscal year of an enhanced go-to-market strategy. This go-to-market strategy and the corresponding consolidation of these customer markets is designed to increase sales opportunities across the consolidated markets, as well as to provide better coverage to customers and to better align territories with supplier partners. In conjunction with our identification of the value-added resellers and integrators as a newly identified market, as described above, market revenue and gross profit as reported for the prior periods reflected in this Annual Report on Form 10-K have been reclassified accordingly. The retail segment includes retailers, independent dealer agents and carriers.  Retail inventory typically has a shorter more defined life cycle and is, typically, ultimately used by individual end users. Commercial inventory typically has a life cycle that tends to be tied to changes in regulation or technology and includes products typically used by business entities or governments. 
+     Sales to the public carrier market accounted for approximately 26% of our fiscal year 2019 revenues, sales to the value-added resellers and integrator market accounted for 43% of fiscal year 2019 revenues, and sales to our retail market accounted for 31% of fiscal year 2019 revenues.  
+     Our top ten customer relationships totaled 32% of our total revenue for fiscal year 2019, and no customer relationship accounted for more than 10% of our total revenues. 
+     Approximately 97% of our sales have been made to customers in the United States during each of the past three fiscal years, although we currently sell to customers in almost 100 countries. Due to our diverse product offering and our wide customer base, our business is not significantly affected by seasonality in the aggregate. However, sales to our retailers generally peak in conjunction with significant handset launches and the winter holiday season, and decline significantly in our fourth fiscal quarter. Also, our base station infrastructure sales are typically affected by weather conditions in the United States, especially in our fourth fiscal quarter.
+         Products and Services
+     We principally offer competitively priced, manufacturer branded products, ranging from simple hardware items to sophisticated test equipment, with per item prices ranging from less than $1 to over $50,000 and gross profit margins ranging from less than 5% to 99%. We offer products classified into our four business categories: base station infrastructure; network systems; installation, test and maintenance products; and mobile devices and accessories, which accounted for approximately 48%, 14%, 6%, and 32% of fiscal year 2019 revenues, respectively. Base station infrastructure products are used to build, repair and upgrade wireless broadband systems. These products include base station antennas, cable and transmission lines, small towers, lightning protection devices, connectors, power systems, enclosures, grounding, jumpers, miscellaneous hardware, and mobile antennas. Products include fixed and mobile broadband radio equipment, wireless networking filtering systems, distributed antenna systems, two-way radios and security and surveillance products. Installation, test and maintenance products are used to install, tune, and maintain wireless communications equipment. Products include sophisticated analysis equipment and various frequency-, voltage- and power-measuring devices, as well as an assortment of tools, hardware, GPS, safety, replacement and component parts and supplies required by service technicians.  Mobile devices and accessory products include cellular, smart phone and data device accessories such as power supplies, cases, screen protectors, speakers, mobile amplifiers, bluetooth and corded headsets, mounts, car antennas, music accessories and data and memory cards. 
+     While we principally provide manufacturer branded products, a variety of products are developed, manufactured and offered under Tessco-owned brand, Ventev. These products generally consist of mobile device accessories and network infrastructure products. Sales of these products were 13% of our total sales in fiscal year 2019. 
+     Tessco’s Technical Services and Solutions Development team is a key element of our offerings as a value-added 
+
+ 
+  4
+ 
+distributor. This team includes Sales Engineering, Solution Architects, System Designers and Customer Technical Support (“CTS”). The broad product and supplier knowledge along with the multiple supplier certifications has also been recognized as a great benefit by our supplier partners and customers. The Sales Engineers provide regional coverage supporting Tessco’s customers on the total Solution portfolio. Solution Architects are specialists in their area of expertise providing consultation and system design. The CTS team are product level experts ensuring the correct devices are specified based on the application. This team can also recommend additional ancillary products (antennas, cables, power, enclosures, etc.) needed to provide a complete solution for the customer’s application.
+     These teams provide customer support on over 40,000 calls and 22,000 support ticket-items per year. They have completed designs covering solutions for DAS (Distributed Antenna Systems), IOT (Internet of Things), WiFi, Networking, Wireless Broadband, Power Systems and Test Systems. These solutions teams support both existing and emerging markets, including Smart Cities, Smart Buildings, Small Cell, FirstNet, Utilities, Transportation, Network Service Providers (NSP) and fortune 500 companies. 
+     As part of our commitment to customer service, we typically allow most customers to return most products for any reason, for credit, within 30 days of the date of purchase. Total returns and credits have been less than 3% of revenues in each of the past three fiscal years. 
+     Revenues from sales of products purchased from our largest wireless infrastructure and mobile device and accessories suppliers accounted for 16% and 8%, respectively, of total fiscal year 2019 revenues. Sales of products purchased from our ten largest suppliers generated approximately 48% of our total fiscal year 2019 revenues. 
+     The amount of purchases we make from each of our approximately 400 suppliers may significantly increase or decrease over time.  As the level of business changes, we may request, or be requested by our suppliers, to adjust the terms of our relationships.  Therefore, our ability to purchase and re-sell products from each of our suppliers depends on being able to reach and maintain agreements with these suppliers on acceptable business terms.  In addition, the agreements and arrangements on which most of our larger supplier relationships are based are typically of limited duration and terminable for any or no reason by either party upon notice of varying lengths, usually between several months or otherwise short notice. Generally, we believe that alternative sources of supply are available for many of the product types we carry, although we may be unable, or find it more difficult, to source branded products from other than the manufacturer. 
+     The scope of products available for purchase from a given supplier may fluctuate and is generally limited only by the scope of the supplier’s catalog and available inventory. Therefore, we often source the same product type from multiple suppliers, although in some instances branded products are available only from the manufacturer or a particular supplier, and in some instances, customers might favor one supplier or brand over another. The terms of the supplier contract typically apply to all products purchased from a particular supplier, whether or not the item is specifically identified in the contract. 
+     When negotiating with suppliers, we seek the most favorable terms available under the circumstances. Our preferred terms include among others, terms that provide for product warranty and return rights, as well as product liability and intellectual property indemnification rights, in each case consistent with our preferred business methods and objectives. We have not been able, nor do we expect in the future to be able, to negotiate the inclusion of all our preferred terms, or our preferred language for those terms, in every supplier contract. The degree of our success in this regard is largely a function of the parties’ relative bargaining positions. 
+     We are dedicated to superior performance, quality and consistency of service in an effort to maintain and expand supplier relationships but there can be no assurance that we will continue to be successful in this regard in the future, or that competitive pressures or other events beyond our control will not have a negative impact on our ability to maintain these relationships or to continue to derive revenues from these relationships.
+        
+ 
+  5
+ 
+
+ Method of Operation
+     We believe that we have developed a highly integrated, technologically advanced and efficient method of operation based on the following key tenets: 
+    
+· | Understanding and anticipating customers' needs and building solutions by cultivating lasting relationships;
+--+-------------------------------------------------------------------------------------------------------------
+
+
+· | Providing customers with sales, service and technical support, 24 hours a day, 7 days a week, 365 days a year;
+--+---------------------------------------------------------------------------------------------------------------
+
+
+· | Providing customers what they need, when and where they need it by delivering integrated product and supply chain solutions; and
+--+---------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Helping customers enhance their operations by providing real-time order tracking and performance measurement.
+--+--------------------------------------------------------------------------------------------------------------
+
+          Market Development and Sales: In order to meet the needs of a dynamic and diverse marketplace, our sales and marketing activities are focused on our customers across three broad markets: 1) public carriers 2) value-added resellers and integrators, and 3) retailers.  This organization allows for the development of unique product and solution offerings to meet the needs of our diverse customer base.
+ We understand and anticipate our customers’ needs, resulting in comprehensive solutions and long-lasting relationships. Our customer base includes more than 150,000 contacts across the full breadth of the wireless industry, with 350,000 additional contacts in our database, representing potential new customers. We are able to identify each contact’s unique need for information and the way in which they wish to receive it.  This can include targeted marketing materials, including email marketing, web marketing, advertisements, direct mailers, and trade show marketing, to drive purchases and new business development. For instance, our email publication The Wireless Update® is sent to a targeted list of 107,000 contacts each week.
+ Our dedicated sales team provides customer service and maintains key information about every customer or potential customer utilizing our Customer Relationship Management (CRM) and marketing automation tools ensuring a positive experience at every interaction and allowing us to identify promising leads and allocate resources to convert them to customers. We serve more than 10,500 customers each month and our goal is to create an experience that nurtures loyalty among our customers and delivers mutually beneficial outcomes in every transaction.
+    
+
+ 
+  6
+ 
+
+ Solutions Development and Engineering and Product Management: We actively monitor advances in technologies and industry trends, through both market research and continual customer and manufacturer interaction to enhance our product offering as new wireless communications products and technologies are developed. To complement our broad product portfolio, we provide technical expertise and consultation to assist our customers in understanding technology and choosing the right products for their specific application. Our personnel, including those we refer to as “Solution Architects” offer applications engineering to market-specific needs such as:
+    
+· | DAS (Distributed Antennae Systems), Cellular and Public Safety
+--+---------------------------------------------------------------
+
+
+· | IoT (Internet of Things)
+--+-------------------------
+
+
+· | Networking
+--+-----------
+
+
+· | Power Systems
+--+--------------
+
+
+· | Test Systems
+--+-------------
+
+
+· | Broadband: microwave, backhaul, etc.
+--+-------------------------------------
+
+
+· | WiFi
+--+-----
+
+      These Solution Architects also offer design services such as:
+
+· | DAS
+--+----
+
+
+· | IoT
+--+----
+
+
+· | Power
+--+------
+
+
+· | Test
+--+-----
+
+
+· | WiFi
+--+-----
+
+
+· | Broadband
+--+----------
+
+
+· | Network systems including video surveillance, SCADA
+--+----------------------------------------------------
+
+
+· | Tower design/calculations
+--+--------------------------
+
+      In addition to determining the product offering, our Product and Solutions Development and Engineering Teams provide the technical foundation for both customers and our personnel. Our product management software is continually updated to add new products and additional technical information in response to manufacturer specification changes and customer inquiries. This system contains detailed information on each SKU offered, including full product descriptions, category classifications, technical specifications, illustrations, product cost, pricing and delivery information, alternative and associated products, and purchase and sales histories. This information is available on a real-time basis to all of our personnel for product development, procurement, technical support, cataloging and marketing. 
+     Strategic Marketing – As a thought leader in the wireless industry, Tessco’s marketing materials educate the industry and promote our services and unique value proposition. Through WirelessNow, our retail focused industry publication, we offer product recommendations, trend reports, and expert market analysis to help thousands of retail customers improve sell through, drive traffic and sales, and maximize their revenue. Our weekly commercial digital newsletter, The Wireless Update, keeps 107,000 of our customers informed on the latest news in the industry, new products and solutions from our manufacturers, upcoming events and training opportunities, and more.  In addition, strategic marketing supports the organization through the development of compelling original content, training programs, and other customer and manufacturer programs that solve business challenges and increase the value Tessco provides to the industry.
+     Tessco.com® is our e-commerce site and the digital gateway to our comprehensive industry expertise, products, and solutions for wireless. In addition to access to our inventory of products for every solution, Tessco.com features:
+    
+· | Powerful parametric product search capabilities;
+--+-------------------------------------------------
+
+
+· | Real-time product availability;
+--+--------------------------------
+
+
+· | Real-time customer-specific pricing;
+--+-------------------------------------
+
+
+· | Easy ordering capabilities that allow for the construction and configuration of complete, end-to-end solution that can be converted to an order, or saved, copied, shared, uploaded and emailed;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 
+  7
+ 
+
+
+· | A variety of customer service, financial and technical support pages, including account controls which include all of the tools necessary to track and manage orders, update an account, find the right support, review saved orders, handle warranty claims, and explore Tessco’s capabilities;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Order confirmation – specifying the contents, order status, delivery date, tracking number and total cost of an order;
+--+-----------------------------------------------------------------------------------------------------------------------
+
+
+· | Order reservations, order status, and order history; and
+--+---------------------------------------------------------
+
+
+· | Manufacturer portal pages designed to showcase each manufacturer partner’s offer in a custom fashion.
+--+------------------------------------------------------------------------------------------------------
+
+      Tessco.com empowers our customers to make better decisions by delivering product knowledge so they are fully informed. This destination also enables our manufacturers to reach a broad and diverse customer base with their product offer and brand features. 
+     Customer Support and Order Entry: Our customer support teams are responsible for delivering sales and customer support services through an effective and efficient transaction system. We also continually monitor our customer service performance through customer surveys and process auditing. By combining our broad product offering with a commitment to superior customer service, we seek to reduce a customer's overall procurement costs by enabling the customer to consolidate the number of suppliers from which it obtains products, while also reducing the customer's need to maintain high inventory levels. 
+     Our information technology system provides detailed information on every customer account, including recent inquiries, buying and credit histories, separate buying locations within a customer account and contact history for key personnel, as well as detailed product information, including technical, product availability and pricing information. The information technology system increases sales productivity by enabling any customer support representative to provide any customer with personalized service and also allows non-technical personnel to provide a high level of technical product information and order assistance. 
+     We believe that our commitment to providing prompt, professional and efficient customer service before, during and after the sale enables us to maximize sales, customer satisfaction and customer retention. The monthly average number of non-consumer customers decreased from approximately 11,600 for fiscal year 2018 to approximately 10,500 in fiscal year 2019, primarily due to consolidation in both commercial and retail markets. Due in part to this consolidation and the addition of several larger new relationships, the average monthly purchase per customer increased from $4,200 in fiscal year 2018 to $4,800 in fiscal year 2019.
+     Procurement and Inventory Management: Our product management and purchasing system provides customers with a total source of broad and deep product availability, while maximizing the return on our inventory investment. 
+     We use our information technology system to monitor and manage our inventory. Historical sales results, sales projections and information regarding supplier lead times are all used to determine appropriate inventory levels. The information technology system also provides early warning reports regarding upcoming inventory requirements. As of March 31, 2019, and April 1, 2018, we had an immaterial level of backlog orders. Most backlog orders as of March 31, 2019 are expected to be filled within 90 days of fiscal year-end. For fiscal years ended March 31, 2019 and April 1, 2018, inventory write-offs were 0.9% and 1.0% of total purchases, respectively. In many cases, we are able to return slow-moving inventory to our suppliers pursuant to stock rotation agreements. Inventory turns for fiscal years 2019 and 2018 were 6.7 and 6.8, respectively. 
+     Fulfillment and Distribution: Orders are received at our Timonium, Maryland, Reno, Nevada and San Antonio, Texas customer sales support centers. As orders are received, customer representatives have access to technical information, alternative and complementary product selections, product availability and pricing information, as well as customer purchasing and credit histories and recent inquiry summaries. An automated warehouse management system, which is integrated with the product planning and procurement system, allows us to ensure inventory control, to minimize multiple product shipments to complete an order and to limit inventory duplication. Bar-coded labels are used on every product, allowing distribution center personnel to utilize radio frequency scanners to locate products, fill orders and update 
+
+ 
+  8
+ 
+inventory records in real-time, thus reducing overhead associated with the distribution functions. We contract with a variety of freight line and parcel transportation carrier partners to deliver orders to customers. 
+     Performance and Delivery Guarantee (PDG) charges are generally calculated on the basis of the weight of the products ordered and on the delivery service requested, rather than on distance to the customer. We believe that this approach emphasizes on-time delivery instead of shipment dates, enabling customers to minimize their inventories and reduce their overall procurement costs while guaranteeing date specific delivery, thereby encouraging them to make us their total source supplier. 
+     Information Technology: Our information technology system is critical to the success of our operations. We have made and continue to make substantial investments in the development of this system, which integrates cataloging, marketing, sales, fulfillment, inventory control and purchasing, financial control and internal and external communications. The information technology system includes highly developed customer and product databases and is integrated with our Configuration, Fulfillment and Delivery system. The information contained in the system is available on a real-time basis to all of our employees as needed and is utilized in every area of our operations.
+     We believe that we have been successful to date in pursuing a highly integrated, technologically advanced and efficient method of operations; however, disruption to our day-to-day operations, including failure of our information technology or distribution systems, or freight carrier interruption, could impair our ability to receive and process orders or to ship products in a timely and cost-efficient manner. 
+     Competition
+     The wireless communications distribution industry is competitive and fragmented, and is comprised of distributors such as Brightstar, D&H, Superior Communications and VoiceComm in our retail segment and Alliance Corporation, Anixter, Comstor, Graybar, KGPCo Logistics, Ingram Micro, Talley Communications, Tech Data, Site Pro 1, VAV Wireless, Westcon and Winncom in our commercial markets. In addition, many manufacturers sell and fulfill directly to customers. Barriers to entry for distributors are relatively low, particularly in the mobile devices and accessory market, and the risk of new competitors entering the market is high. In addition, the agreements or arrangements with our customers or suppliers looking to us for product and supply chain solutions are typically of limited duration and are often terminable by either party upon several months or otherwise short notice. Accordingly, our ability to maintain these relationships is subject to competitive pressures and challenges. Some of our current competitors have substantially greater capital resources and sales and distribution capabilities than we do. In response to competitive pressures from any of our current or future competitors, we may be required to lower selling prices in order to maintain or increase market share, and such measures could adversely affect our operating results. We believe, however, that our strength in service, the breadth and depth of our product offering, our information technology system, our knowledge and expertise in wireless technologies and the wireless marketplace, and our large customer base and purchasing relationships with approximately 420 manufacturers, provide us with a significant competitive advantage over new entrants to the market. 
+     Continuing changes in the wireless communications industry, including risks associated with conflicting technology, changes in technology, inventory obsolescence, and consolidation among wireless carriers, could adversely affect future operating results. 
+     We believe that the principal competitive factors in supplying products to the wireless communications industry are the quality and consistency of customer service, particularly timely delivery of complete orders, breadth and quality of products offered and total procurement costs to the customer. We believe that we compete favorably with respect to each of these factors. In particular, we believe we differentiate ourselves from our competitors based on the breadth of our product offering, our ability to quickly provide products and supply chain solutions in response to customer demand and technological advances, our knowledge and expertise in wireless technologies and the wireless marketplace, the level of our customer service and the reliability of our order fulfillment process. 
+    
+ 
+  9
+ 
+
+ Intellectual Property
+     We seek to protect our intellectual property through a combination of trademarks, service marks, confidentiality agreements, trade secret protection and, if and when appropriate, patent protection. Thus far, we have generally sought to protect our intellectual property, including our product data and information, customer information and information technology systems, through trademark filings and nondisclosure, confidentiality and trade secret agreements. We typically require our employees, consultants, and others having access to our intellectual property, to sign confidentiality and nondisclosure agreements. There can be no assurance that these confidentiality and nondisclosure agreements will be honored, or whether they can be fully enforced, or that other entities may not independently develop systems, technologies or information similar to that on which we rely. 
+     TESSCO Communications Incorporated, a wholly-owned subsidiary of TESSCO Technologies Incorporated, maintains a number of registered trademarks and service marks in connection with our business activities, including: A Simple Way of Doing Business Better®, LinkUPS®, ORDERflow®, Solutions That Make Wireless Work®, TerraWave Solutions®, TESSCO®, TESSCO Making Wireless Work®, TESSCO Technologies®, Tessco.com®, Ventev®, The Vital Link to a Wireless World®, Wireless Now®, Wireless Solutions®, The Wireless Update®, Your Total Source®, Chargesync®, and Your Virtual Inventory®, among many others. Our general policy is to file for trademark and service mark protection for each of our trademarks and trade names and to enforce our rights against any infringement. 
+     We currently hold one patent related to our online order entry system and seven patents related to our Ventev® products. We intend, if and when appropriate, to seek patent protection for any additional patentable technology. The ability to obtain patent protection involves complex legal and factual questions. Others may obtain patent protection for technologies that are important to our business, and as a result, our business may be adversely affected. In response to patents of others, we may need to license the right to use technology patented by others, or in the event that a license cannot be obtained, to design our systems around the patents of others.            Environmental Regulation
+     We are subject to various laws and governmental regulations concerning environmental matters and employee safety and health in the United States. We are also subject to regulation by the Occupational Safety and Health Administration concerning employee safety and health matters. Compliance with these federal, state and local laws and regulations related to protection of the environment and employee safety and health has had no material effect on our business. There were no material capital expenditures for environmental projects in fiscal year 2019, and there are no material expenditures planned for such purposes in fiscal year 2020.
+     Employees
+     As of March 31, 2019, we had 796 full-time equivalent employees. Of our full-time equivalent employees, 360 were engaged in customer and supplier service, marketing, sales and product management, 327 were engaged in fulfillment and distribution operations and 109 were engaged in administration and technology systems services. No employees are covered by collective bargaining agreements. We consider our employee relations to be excellent. 
+    
+ 
+  10
+ 
+
+ Executive Officers
+     Executive officers are appointed annually by the Board of Directors and, subject to the terms of any applicable employment agreement, serve at the discretion of the Board of Directors. Information regarding our named executive officers is as follows: 
+Name | Age | Position | 
+Murray Wright | 63 | President and Chief Executive Officer | Murray Wright joined the Company in September 2016. Mr. Wright served as Chief Executive Officer of Zones, Inc. from 2013 to 2015. At Tech Data Corporation, Mr. Wright served as Senior Vice President, US Sales from 2006 to 2010 and as President, the Americas, from 2011 to 2013. 
+Aric M. Spitulnik | 47 | Senior Vice President, Secretary, and Chief Financial Officer | Aric Spitulnik joined the Company in 2000. Mr. Spitulnik was appointed Controller in 2005 and Vice President in 2006. In 2012, he was appointed Corporate Secretary, and in 2014 he was appointed Senior Vice President. Since October 2013, Mr. Spitulnik has served as the Company’s Chief Financial Officer. 
+Douglas A. Rein | 59 | Senior Vice President of Performance Systems and Operations | Douglas Rein joined the Company in July 1999 as Senior Vice President of Performance Systems and Operations. Previously, he was director of operations for Compaq Computer Corporation and Vice President, distribution and logistics operations for Intelligent Electronics. 
+Elizabeth S. Robinson | 52 | Senior Vice President, Retail Sales and Product Marketing | Elizabeth Robinson joined the Company in 1998. Ms. Robinson was appointed Director of Sales in 2001, and Vice President in 2004. In 2011, she was appointed Vice President of Mobile Devices and Accessories, and then for the Mobility Group in 2016. In 2017, she was appointed Senior Vice President, leading Retail Sales and Product Management. 
+Charles W. Kriete | 41 | Senior Vice President, Commercial Sales, Product Marketing and Supply Chain | Charles Kriete joined the company in January 2017. Mr. Kriete served as Chief Marketing Officer of Kore Wireless Group in 2016 and was Chief Revenue Officer of Wyless from 2013 to 2016. Previously, he served as Executive Vice President of TD Mobility at Tech Data from 2010 to 2013. 
+
+         
+
+ 
+  11
+ 
+

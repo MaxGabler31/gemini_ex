@@ -1,0 +1,390 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business.
+Overview
+ 
+Hash Labs Inc. is a Nevada corporation that was originally formed on November 1, 2005 when Bio-Solutions International, Inc. (“Bio-Solutions”) entered into an Agreement and Plan of Merger with OmniMed Acquisition Corp., a Nevada corporation and a wholly-owned subsidiary of Bio-Solutions, OmniMed International, Inc. (“OmniMed”) and the shareholders of OmniMed. On January 17, 2006, OmniMed changed its name to MedeFile International, Inc. The Company’s business following the closing of this agreement was the sale of an Internet-enabled Personal Health Record (iPHR) system for gathering, digitizing, maintaining, accessing and sharing an individual’s medical records, and in connection therewith, providing a professional service specializing in HIPAA compliant retrieval, reproduction and release of information. Under this service, Company personnel went onsite to physicians’ offices weekly to reproduce the records requested by third parties.
+ 
+In October 2017, the name of the Company was changed to Tech Town Holdings, Inc. to reflect a new business strategy centered on identifying and fostering new or early stage business opportunities being fueled by digital reinvention and innovation.
+ 
+Following close scrutiny of emerging business opportunities, coupled with evaluation of market trends, the Company narrowed its focus to financial technology, or Fintech, with an emphasis on emerging Blockchain or distributed ledger technology, or DLT. Effective March 2, 2018, the Company changed its name to Hash Labs Inc.
+ 
+Our Fintech development project is a digital gold payment platform program. The Company is completing development of a mobile application, that will convert gold into a price-stable, scalable digital currency, 100% backed by physical gold. The digital gold payment platform will operate on the world’s most advanced DLT, known as Hashgraph.
+
+
+1
+
+ 
+
+The payment platform we are developing will be called Coro and its digital gold unit of account will be CXAU. 1 CXAU will be equal to 1 Troy Ounce of physical gold. The Company anticipates that the Coro payment platform will operate on a mobile application referred to as a “digital vault.”
+
+
+These products are not yet operational and they have not yet generated any revenues.
+ 
+Coro Development Status
+ 
+The Company is developing Coro as a digital gold payment platform. The Company began development of the Coro mobile application, data base, infrastructure and the associated distributed private permissioned network in August of 2018. The Coro application has been developed on Azure’s cloud-based app development platform. The technology and network development process includes a series of 20 design and development stages, knowns as “sprints.” To date, 18 development sprints have been accomplished. Existing functionality includes: the onboarding and account activation process; identity verification; AML/KYC screening; login and change passcode process; digital account funding; conversion of USD to CXAU digital golds units; conversion of CXAU units to USD; and redemption of CXAU units for physical gold. The Coro / CXAU distributed ledger network has already been activated with an initial 12 nodes. We are conducting testing and quality assurance on the Coro mobile application and private permissioned node network. To date, the Company has paid more than $1,000,000 for the development of the Coro/CXAU digital gold payment platform and its private permissioned distributed ledger network. The Company paid such expenses from the Company’s working capital. The Company anticipates that, in April 2019, the Company will finalize testing and quality assurance in prelude to launching the mobile application and payment platform.
+
+
+We anticipate that we will incur additional expenses of approximately $500,000 to complete development of and launch Coro. We will need to obtain the funds for such additional expenses by raising additional capital. There is no assurance such additional capital will be available on acceptable terms, or at all.
+ 
+Subject to raising such additional capital, and subject to our determination, in consultation with legal counsel, that the launch of Coro, will be in compliance with applicable securities law, we anticipate that we will launch Coro / CXAU on or about June 1, 2019.
+
+
+The Company is relying upon both employees and contractors to design and develop the Coro / CXAU digital gold payment platform and distributed network. Coordination of the design and development has been led by the Company’s Chief Executive Officer, who has coordinated the Company’s technology development resources and team of consultants. The Company intends to increase its technology development team during 2019, as it continues to improve the functionality and performance of the Coro / CXAU digital payment platform, post-launch.
+ 
+The Company’s Planned Coro Digital Gold Platform--Overview
+ 
+The Company is developing Coro, its first Fintech solution using Hashgraph DLT. The Company anticipates that Coro will be a 100% gold-backed digital payment platform. We anticipate that the Coro mobile application will operate on Hashgraph, the world’s fastest and most secure form of distributed ledger technology. We anticipate that Coro account holders will be able to instantly and securely convert fiat currency to “CXAU,” a digital gold currency unit of exchange. CXAU digital gold units will be price-stable, and 100% backed by physical gold.
+ 
+The Company believes the cryptocurrency market, particularly in relation to Initial Coin Offerings (or ICOs), is volatile, with a high incidence of fraud and market manipulation. By comparison, there will never be a coin offering or token sale related to Coro or its CXAU digital gold units.
+
+
+The Coro community of users will operate on a permission-based peer to peer private network, with the highest level of security and compliance.
+ 
+2
+
+ 
+
+In order to join the Coro eco-system, users will need to pass an identity verification and stringent anti-money laundering/know-your customer (or AML/KYC) check, to prevent bad actors from joining and assist in ensuring regulatory compliance.
+ 
+The Company believes CXAU will solve the following two important problems:
+ 
+
+● | The need for a decentralized digital currency solution that offers true stability. The leading cryptocurrencies are wildly volatile with speculation driving wide swings in valuation. CXAU will offer a truly stable, asset-backed digital currency. The value of one CXAU unit will always correspond to the daily London spot price of 1 Troy Ounce of gold. Each CXAU unit will be 100% backed by physical gold, held by an independent custodian within an insured vault at the Royal Canadian Mint. Coro gold reserves will be confirmed daily by the Royal Canadian Mint and independently audited on a quarterly basis. The independent audit will be published for review by all CXAU members. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We anticipate that the Coro technology will allow for potentially tens of millions of global gold investors holding trillions of value in gold bars and coins to safely digitize their physical gold holdings. Under the Coro platform, global gold investors (individual, institutional and governmental) will have the opportunity to efficiently hold and transact with a 100% gold-backed digital currency. Owners of physical gold will be able to conveniently convert their gold into CXAU. If Coro members wish to liquidate their CXAU units, they will simply withdraw their CXAU balance via conversion to physical gold or CUSD. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The Company anticipates that CXAU will provide its users with the benefits of speed, security, transparency, and ease of use, as well as the opportunity to transact their digital gold on the fastest DLT on the market.
+ 
+The Company anticipates that, under the Coro platform, there will be two accounts to facilitate the flow of funds related to the Digital Vault. One account will be at the Royal Canadian Mint for storage of physical gold. This account will serve as a custody account on behalf of the individual CXAU customers. The second custody account will a cash account held at a bank. Members who download the app and pass the verification process will be able to:
+ 
+
+● | Convert physical gold into CXAU: Under this process, members could send physical gold to fund a CXAU account. Pursuant to our master services agreement with Dillon Gage (discussed below), Dillon Gage will coordinate and manage the deposit and transfer of CXAU users’ physical gold into digital / crypto gold. This will include the acceptance, testing and verification of the physical gold presented for conversion to CXAU units. Dillon Gage will coordinate delivery of the physical gold for storage at the Royal Canadian Mint, for reserve on behalf of the CXAU. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Convert US Dollars into CXAU within the Digital Vault: Under this process, Dillon Gage will coordinate and manage the acquisition and deposit of physical gold in direct proportion to the users’ CXAU digital vault capitalization, with fiat currency. Dillon Gage will coordinate purchase and delivery of physical gold to vaults operated by the Royal Canadian Mint, for reserve on behalf of the Coro members. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Convert CXAU into physical gold for redemption: From time to time users may wish to liquidate their Coro digital gold account. Once the redemption order is received, Dillon Gage will convert the CXAU unit value into physical gold. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Convert CXAU into fiat currency: Under this process, by way of example, a customer has $10,000 worth of CXAU and hits the ’Sell’ button within the app to convert the CXAU into $10,000 into the USD Digital Vault. Dillon Gage will receive the order to purchase $10,000 worth of physical gold and deliver $10,000 into the Coro Custody USD bank account. CXAU will allocate $10,000 worth of gold in the vault for Dillon Gage, and instantly the client will receive $10,000 into their CUSD Digital Vault. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+3
+
+ 
+
+Dillon Gage Collaboration
+ 
+On October 18, 2018, we entered into a master services agreement with Dillon Gage Incorporated of Dallas (“Dillon Gage”), a fully integrated precious metal wholesale company. Under the agreement, the Company and Dillon Gage agreed to collaborate on the launch, marketing and operation of the Coro platform.
+ 
+Pursuant to our agreement with Dillon Gage, upon the launch of the Coro platform, (i) Hash Labs will be responsible for the general management and operation of the CXAU Platform, except as otherwise set forth therein, and (ii) Dillon Gage will (a) coordinate and manage the deposit and transfer of CXAU users’ physical gold into digital/crypto gold, including, the acceptance, testing and verification of the physical gold presented for conversion to CXAU units, and coordination and delivery of the physical gold for storage at the Royal Canadian Mint, for reserve on behalf of the CXAU users, (b) coordinate and manage the acquisition and deposit of physical gold in direct proportion to the CXAU users’ digital vault conversion, with fiat currency, (c) coordinate purchase and delivery of physical gold to vaults operated by the Royal Canadian Mint, for reserve on behalf of the CXAU members, (d) coordinate the insurance, audit and storage of the CXAU physical gold reserves, and (e) upon any redemption/liquidation by a CXAU member, convert the CXAU unit value into physical gold, transfer the redemption gold.
+ 
+Dillon Gage also agreed to introduce and use commercially reasonable efforts to promote the Coro platform to its global network of bullion dealers.
+ 
+Revenue Model
+ 
+We anticipate that, under the Coro platform, members will be charged (i) a 0.5% annual storage, insurance and auditing fee, (ii) a 0.5% fee to covert fiat currency into CXAU units, and (iii) a 0.5% (plus shipping and insurance) redemption fee. We will collect and charge such fees from members, and Dillon Gage will be entitled to 50% of such fees for the services Dillon Gage will provide under the master service agreement.
+Objectives
+ 
+Our objectives are to:
+ 
+
+o | Successfully launch Coro Digital Vault, as a stable, transparent, immutable, scalable, secure and decentralized solution by June 1, 2019. We anticipate that, by this date, we will launch the fully functional application on the iPhone and Android app stores, including the following features: Enrollment, Login, Track the Current Price of Gold, Create and Capitalize the Wallet, History, News, Purchase CXAU, Sell CXAU, and Peer to Peer Transactions functions. As noted above, our launch of the Coro platform will be subject to raising additional capital and our determination, in consultation with legal counsel, that such launch will be in compliance with applicable securities laws.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Achieve Long-term growth through building an engaged user base, securing key strategic partnerships and creating institutional and governmental user networks. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+DLT and Stable-Coins
+ 
+We believe the global Fintech industry is experiencing disruption on an unprecedented scale due to the rapid emergence of distributed ledger technology (DLT), such as early generation Blockchain and the new generation Hashgraph.
+ 
+Under DLT technology, two or more parties can forge agreements, make transactions, build value, establish trust, and perform critical business logic, through using smart contracts, without relying on intermediaries to verify their identities. We believe that by reducing transaction costs among all participants in the economy, DLT protocol supports models of peer-to-peer mass collaboration that could make many of the existing financial organization forms redundant.
+ 
+4
+
+ 
+
+While Bitcoin, Etherum and other popular cryptocurrency trading platforms based on Blockchain technologies continue to grab headlines, we believe that it is the next generation DLT that will fully disrupt and transform how commerce and the Internet work together.
+ 
+Numerous crypto ventures promise to change the landscape of the global financial system and the way the world economy is organized. However, we believe most of their crypto products lack conditions to serve as a store of value and as a unit of account, precluding even the most basic financial contracts, such as loans, salaries, or any other contract, where participants care about value over time, to be upheld.
+ 
+The current cryptocurrency market is composed of ICOs and Token sales that are:
+ 
+
+● | Highly volatile; 
+--+----------------------------------------
+● | Speculation driven; 
+● | Have high incidence of fraud; 
+● | Void of inherent asset value; 
+● | Subject to market manipulation; and 
+● | Issued on non-compliant basis 
+
+ 
+At the same time we believe the global demand for DLT in finance and investing is greatly outpacing the supply. Thus, we believe growing acceptance of cryptocurrencies as a legitimate form of tender is fueling a need for user-friendly payment applications, Fintech solutions and specialty products and services to better support and secure the growing crypto ecosystem while reducing current valuation volatility and risks.
+ 
+We believe individuals, institutions and governments are in urgent need of truly stable cash alternatives to conduct transactions and store value.
+ 
+Stable-Coin Cryptocurrencies
+ 
+The Coro platform we are developing will be a fully compliant Digital Vault platform to hold, transact and transfer asset-backed, redeemable, stable and scalable Crypto-Gold.
+ 
+Stable-coins are a class of crypto currencies that seek to maintain price stability with respect to a value indicator. A stable-coin is supposed to provide price stability characteristics for purposes of avoiding volatility and acting as a better unit of account as well as a store of value.
+ 
+Several solutions claiming to be stable-coins are currently available on the market, but most of them do not actually hold physical assets or do not allow their users to redeem their holdings fully.
+ 
+5
+
+ 
+
+There are 3 common types of stable-coins:
+ 
+
+● | Fiat-collateralized: require users to trust a centralized third party to hold their fiat currency and also to trust the stability of the fiat in itself, which is inherently unstable 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Crypto-collateralized: create a dependency on the stability of the cryptocurrency on the other side of the equation, which is inherently unstable. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Non-collateralized: require continual network growth in the form of new investors who can provide capital to support a falling currency value, which is unsustainable. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+None of these 3 types of stable-coins are fully asset backed, redeemable, stable, or scalable
+ 
+We anticipate that CXAU will be different from other stable-coins in the following ways:
+ 
+
+● | Coro will be a decentralized, secure and easy to use digital currency 100% backed by physical gold. 
+--+--------------------------------------------------------------------------------------------------------
+
+
+● | Coro will operate on the world’s fastest and most scalable Hashgraph DLT. 
+--+------------------------------------------------------------------------------
+
+
+● | Each Coro user will have a 100% secure digital vault, 100% backed by physical gold. 
+--+----------------------------------------------------------------------------------------
+
+
+● | The value of the Coro account will not be correlated to equities, bonds, fiat currencies, supply and demand, or cryptocurrencies, but derived from the value of the physical gold that will secure it. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Coro account holders will be able to redeem their full account value for physical gold at any time. 
+--+--------------------------------------------------------------------------------------------------------
+
+
+● | Hash Labs will operate Coro on a fully compliant basis. 
+--+------------------------------------------------------------
+
+
+● | The highest standard of security will be applied to ensure that bad actors cannot use the Coro platform. 
+--+-------------------------------------------------------------------------------------------------------------
+
+
+● | Each digital vault will be activated only after a user has successfully completed full OFAC, KYC, AML screening, and identity verification. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | All physical gold assets will be held in fully licensed and insured physical vaults owned and protected by world-leading security storage companies. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | All gold assets on deposits will be audited on a quarterly basis. 
+--+----------------------------------------------------------------------
+
+ 
+We believe that with a more predictable value, Coro will contribute to a global digital currency economy capable of supporting credit and debt markets, trust-based peer to peer transactions and credible long-term investments.
+ 
+Use Cases
+ 
+We anticipate that uses for Coro will include the following:
+ 
+
+● | Global Payment Network: Since the key characteristics of price stability, liquidity, and scalability will be met, CXAU will have the potential to be foundational for global payments, serving as a unit of account, a store of value, and a medium of exchange. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Fueling Future Decentralized Applications: Price-stable CXAU units could be used as a payment for using different DLTs, instead of those applications creating their own native currencies. For example in insurance, and lending markets. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Lending: Coro can enable global access to secure and price-stable loans. 
+--+-----------------------------------------------------------------------------
+
+ 
+6
+
+ 
+
+Gold History & Present
+ 
+CXAU is derived from the letter “C,” the universal reference for Cryptocurrency, and the letters “XAU,” which is the symbol used under the ISO 4217 currency standard for one troy ounce of gold.
+ 
+Gold has managed to maintain its value through the ages and unlike paper currency, coins or other assets it has been a stable way to pass on and preserve the value of wealth from one generation to the next. A central bank or a nation often held gold reserves in order to store value as a guarantee to redeem promises to pay depositors or to secure a currency. The United States is one of the countries with the largest gold reserves amounting to over eight thousand tons.
+ 
+Historically gold has been an excellent hedge against inflation because of its tendency to increase in value when the cost of living increases. Because of its stability and the rate of return as an investment, it is an attractive commodity.
+ 
+Gold offers:
+ 
+
+● | Safety: As a high-quality, liquid asset, gold helps preserve capital, diversify portfolios, mitigate risks, and serves as valuable collateral. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Liquidity: Operating in large markets that rival those of major sovereign bonds, gold is one of the most highly traded financial assets, with low transactional costs and universal acceptance. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Return: Since 1997, the average annual return on gold, in US dollar terms, has consistently outperformed the average returns on US Treasuries, Eurobonds, Japanese government bonds, and UK gilts over 10-year, 5-year and 1-year time horizons. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Digital currencies, such as Bitcoin and Litecoin, have been successful at leveraging Blockchain technology for the transfer of value across borders. But the inherent volatility, lack of asset backing and low transaction speeds have made them a poor choice for real business to be executed through their networks.
+ 
+Hashgraph Partnership
+ 
+CXAU is being built on world’s next generation DLT solution Hashgraph Algorithm, which we believe is superior to the early generation Blockchain DLT. Hashgraph is owned by Swirlds, Inc., (“Swirlds”). In December 2018, we entered into a software license agreement with Swirlds to license Hashgraph for the Coro platform.
+ 
+DLT is disrupting and transforming existing markets in multiple industries. However, we believe there are five fundamental obstacles to be overcome before distributed ledgers can be widely accepted and adopted across every industry and geography. These obstacles are:
+ 
+Performance: The platform is built on the Hashgraph distributed consensus algorithm, which provides near-perfect efficiency in bandwidth usage and consequently can process hundreds of thousands of transactions per second in a single shard (a fully-connected, peer-to-peer mesh of nodes in a network). Consensus latency is measured in seconds, not minutes, hours, or days. (For example, HH’s 500,000 transactions per second vs. Blockchain’s 5-7 transactions per second)
+ 
+Security: Hashgraph achieves the gold standard for security in the field of distributed consensus: asynchronous Byzantine Fault Tolerance (aBFT). Other platforms that use coordinators, leaders, or communication timeouts tend to be vulnerable to Distributed Denial of Service (DDoS) attacks against those vulnerable areas. Hashgraph is resilient to these types of attacks and achieves the theoretical limits of security. Achieving this level of security at scale is a fundamental advance in the field of distributed systems as it is the gold standard for security in this category.
+ 
+7
+
+ 
+
+Stability: Hashgraph relies on both technical and legal controls to ensure the stability of the platform. This system prevents forking and illegal modifications of the algorithm.
+ 
+Regulatory Compliance: The Hashgraph technical framework includes an Opt-In Escrow Identity mechanism that gives users a choice to bind verified identities to otherwise anonymous cryptocurrency accounts, which is designed to provide governments with the oversight necessary to ensure regulatory compliance. This is optional, and each user will be able decide what kinds of credentials, if any, to reveal. Hashgraph intends to work with governments to provide the same level of protection in distributed public ledgers as is currently present in the financial system.
+ 
+The Hashgraph algorithm accomplishes being fair, fast, efficient, inexpensive, timestamped, and DoS resistant.
+ 
+Hashgraph private-permissioned ledger provides the strongest foundation for the CXAU protocol. We believe it will enable CXAU to achieve unprecedented speed with fractional cost per transaction, all while maintaining bank-grade security.
+ 
+Government regulation
+ 
+The Company has registered with Financial Crimes Enforcement Network (“FinCEN”) of the U.S. Department of the Treasury) as a Money Service Business. The Company is in the process of applying for the Money Transmitter License with State government regulators throughout the US.
+ 
+Blockchain and cryptocurrency regulations are in a nascent state with agencies investigating businesses and their practices, gathering information, and generally trying to understand the risks and uncertainties in order to protect investors in these businesses and in cryptocurrencies generally. Regulations will certainly increase, in many cases, although it is presently not possible to know how they will increase, how regulations will apply to our businesses, or when they will be effective. As the regulatory and legal environment evolves, we may become subject to new laws, and regulation by the SEC and other agencies.
+ 
+To prevent fraud and illegal activities on the Coro platform, the Company is developing a state of the art compliance on-boarding and transaction monitoring solution to:
+ 
+
+● | Ensure that no digital vaults issued to Coro customers are activated until each new customer has undergone comprehensive Know Your Customer/Anti-Money Laundering screening; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Monitor Coro transactions and report any suspicious activity 
+--+------------------------------------------------------------------------------------------------------
+● | Conduct routine security audits of its DLT environment; and 
+
+
+● | Implement other security measures, as necessary, to further support its diligence in this regard. 
+--+------------------------------------------------------------------------------------------------------
+
+ 
+The Company has hired a Chief Compliance Officer, who has developed the Company’s compliance program and manual. The CCO has been instrumental in the design and development of the compliance on-boarding and monitoring solution. The CCO is also in communication with State regulators, related to the Company’s Money Transmitter license applications.
+ 
+Marketing and Sales Strategy
+ 
+The Company’s target market for CXAU consists of three groups: individuals, institutions and governments.
+ 
+Initially, our marketing efforts will focus on individual gold investors and crypto enthusiasts needing access to an easy to use, secure, stable, and transparent digital currency. In this market, the Company will launch the CXAU mobile app and perfect its functionality.
+
+
+8
+
+ 
+
+Eventually we will expand such marketing efforts to include institutional and governmental markets. Currently, the Company is analyzing key trends and related secondary information that will compliment and aid defining its market opportunities and user needs.
+ 
+Using a combination of qualitative and quantitative methods, the Company is conducting extensive research and discovery to set success metrics, recognize future growth initiatives, develop audience profiles, and assess the competition landscape and market conditions.
+ 
+Under the Company’s marketing and sales strategy, the Company plans to take the following steps:
+ 
+
+● | Engage highly rated and specialized branding, media, web design, and digital marketing agencies to work in synchrony with the in-house marketing team 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Design a visual identity that can be easily activated across a variety of digital and media touchpoints; 
+--+-------------------------------------------------------------------------------------------------------------
+
+
+● | Design and develop a website to serve as an education resource for media, influencers and general public and as a point of entry for users; and 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Develop, activate and execute integrated launch and growth marketing campaigns to reach key audiences for awareness and demand for the product. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The Company’s integrated marketing and sales strategy is divided in 2 phases:
+ 
+Launch Strategy: This is currently being executed in anticipation of the April, 2019 Coro mobile app launch. This includes the following:
+ 
+August to September 2018:
+ 
+Brand strategy: Under this phase, which we completed, we sought to promote and develop our brand discovery, brand design including messaging and visual identity, and brand content creation.
+October to November 2018:
+ 
+Under this phase, which we completed, we built and developed our CXAU Website, including with respect to website discovery and content, website design, and website development, hosting trials, and website live launch.
+ 
+December 2018 to May 2019 (Marketing Activation, Execution and Launch) (currently in progress):
+ 
+Our goal in this phase is to create a “surround sound” marketing campaign to reach and engage the target audience, build the contact list, as well as generate excitement and brand awareness before the launch. We have and are utilizing:
+ 
+
+● | Paid media (search engine ads, social media ads, display ads, sponsored content, geo-fencing); 
+--+---------------------------------------------------------------------------------------------------
+
+
+● | Earned media (media, investor, blogger, influencer relations); 
+--+-------------------------------------------------------------------
+
+
+● | Shared media (advocates, partnerships, social media); and 
+--+--------------------------------------------------------------
+
+
+● | Owned media (proprietary content strategically created and distributed) 
+--+----------------------------------------------------------------------------
+
+ 
+We also plan to attend industry events, and to leverage key partnerships with Dillon Gage and Hashgraph.
+ 
+Growth Strategy: Our growth strategy in the development phase. Under our growth strategy, we will aim to secure sustainable growth of the CXAU user base through viral methods, paid, earned, shared and owned media, effective customer service management, and seamless application onboarding.
+ 
+9
+
+ 
+
+Competition
+ 
+We anticipate that the primary competition for Coro in the digital payment sector will include CashApp, Venmo, TransferWise and Circle. CashApp is a US based digital payment platform offering peer to peer payments. CashApp operates exclusively in the US offering digital payments in US Dollars. The CashApp platform operates on traditional centralized server technology, slower and less secure. Venmo is the US based digital payment platform, owned and operated by PayPal. Venmo operates in the US and offers users digital peer to peer payments in US Dollars. The Venmo platform also operates on a traditional centralized network. TransferWise is a UK based payment platform. The Company intends to operate on a global basis and offer payments in a variety of currencies. TransferWise also operates on a traditional centralized network. Circle is a US based digital platform offering payments in both US Dollars and British Pounds. The Circle platform operates on a form of Blockchain technology known as Ethereum.
+Employees
+ 
+As of the date of this filing, we have six employees all of whom are full-time. We consider our relationship with our employees to be good.
+Corporate Information
+ 
+Our principal executive offices are located at 78 SW 7th Street, Miami, FL 33130, and our telephone number is 888-879-8896. Our website address is https://hashlabs.net. Information on our website is not part of this report.
+ 

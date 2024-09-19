@@ -1,0 +1,426 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1 – BUSINESS
+The Company
+ 
+We were initially organized on November 18, 2013 as a Nevada limited liability company under the name Global Energy Express LLC by the filing of articles of organization with the Secretary of State of the State of Nevada. On December 18, 2015, the Company converted from a Nevada limited liability company under the name Global Energy Express LLC to a Nevada corporation under the name All Soft Gels Inc. by the filing of articles of conversion and articles of incorporation with the Secretary of State of the State of Nevada in accordance with Nevada Revised Statutes (“NRS”) 92A.205 and NRS Chapter 78. Prior to the Acquisition, on September 18, 2018, the Company changed its name from All Soft Gels Inc. to Brain Scientific Inc. and changed its ticker symbol on the OTC Pink market to “BRSF”.
+ 
+Prior to the Acquisition, the Company was engaged in marketing the sale of a soft gel liquid capsule named All Soft Gels Kre-Alkalyn Liquid Gels. As of immediately prior to the closing of the Acquisition, we entered into an Assignment and Assumption Agreement with Chromium 24 LLC, pursuant to which Chromium 24 LLC assumed all of our remaining assets and liabilities through the closing of the Acquisition. Accordingly, as of the closing of the Acquisition, we had no assets or liabilities. Following the Acquisition, the Company is now a neurodiagnostic and predictive technology platform company seeking to provide a centralized platform for data acquisition and analysis of electroencephalography (“EEG”) data that combines cutting-edge medical device technologies with cloud-based telehealth services. The Company is primarily focused on establishing diagnostic protocols to identify pathological risk factors involving the brain, and driving novel insights into cognitive health that support early treatment of neurological disorders.
+ 
+Our principal executive office is located at 205 East 42nd Street, 14th Floor, New York, New York 10017, and our telephone number is (646) 388-3788. Our website address is www.brainscientific.com. The information on our website is not part of this Annual Report on Form 10-K.
+ 
+Product and Services Pipeline
+ 
+The Company’s primary Products, which are in various stages of development, are as follows:
+ 
+NeuroEEG
+ 
+The NeuroEEG is a 16 channel, portable, data acquisition platform for EEG activity which acquires, displays, and securely stores the electrical activity of a patient’s brain on a computer in a non-invasive manner. This wireless system digitizes and records electrophysiological activity at 500Hz. The generated data then serves as a clinical assessment aid for the diagnosis of neurological disease. Key features of the NeuroEEG include its small size and weight, its portability, its wireless Bluetooth connectivity, and its real-time data processing and transmission.
+ 
+The software utilized by the NeuroEEG is designed to provide analytics capabilities for health practitioners to better manage EEG data acquisition and analysis. It allows the EEG signal to be recorded and displayed on a computer screen in accordance with the selected protocol scheme. The system also allows the user to annotate events, such as exhibited patient behavior, or unique occurrences, such as muscle contractions, involuntary patient movement, falls, and other events, while the EEG test is running. In addition, in-depth EEG assessment functions are expected to be available, including spectrum and correlation analysis, topographic mapping, pathological activity search by segments and video monitoring.
+ 
+The Company commenced pre-selling of the NeuroEEG and expects to deliver on its first purchase order by mid-2019. 
+ 
+NeuroCap
+ 
+The NeuroCap, to be used in conjunction with the NeuroEEG, is a 19 channel, 22 electrode disposable cap with fixed electrodes along the headpiece to ensure consistent placement. Key benefits of the NeuroCap include the elimination of the need for an EEG technician, rapid set-up (under five minutes) compared to existing products on the market, as well as superior infection control.
+ 
+We received our first purchaser order for the NeuroCap from a distributor of medical supplies for testing purposes and commenced shipping product in the fourth quarter of 2018 to several hospitals and other customers.
+ 
+ 1
+
+
+The MemoryMD Cloud AI Platform
+ 
+The Company is designing the MemoryMD Cloud AI Platform to provide artificial intelligence that performs automatic analysis of patient data. This infrastructure is expected to receive inputs from different sources such as medical databases, normative data sets, and other patient health information. By using machine-learning algorithms, the system is expected to improve in accuracy, providing for more advanced diagnostics as additional brain images are acquired.
+ 
+The Company expects to launch its Cloud AI Platform by March 31, 2020. 
+ 
+TeleNeurology Infrastructure
+ 
+The Company is developing a HIPAA-compliant data storage and patient management cloud infrastructure to provide teleneurology services. The infrastructure is being designed so neurologists will be able to remotely access patient EEG and clinical data to evaluate patient conditions. We believe that such an infrastructure removes the need for direct contact with the patient, opening up underserved geographic locations with an undersupply of physicians to meet growing demand for neurological care as aging patient populations continues to grow.
+ 
+The Company expects to launch its TeleNeurology Infrastructure by the end of 2019.
+ 
+Board-Certified Neurologist Network
+ 
+The Company is in the process of establishing a pool of state-licensed, board-certified neurologists who would be available at all times, to make an independent diagnosis, based on the data generated by the NeuroEEG and NeuroCap. This network is being designed to provide national coverage to the United States covering all 50 states.
+Intellectual Property
+ 
+Protection of our intellectual property is a strategic priority for our business. We rely on a combination of patents, trademarks, copyrights, trade secrets as well as nondisclosure and assignment of invention agreements, material transfer agreements, confidentiality agreements and other measures to protect our intellectual property and other proprietary rights.
+ 
+Patents and trademarks are significant to our business to the extent that a Product or an attribute of a Product represents a unique design or process. Patent protection of our Products restricts competitors from duplicating these unique designs and features. To protect our proprietary secrets and competitive technologies, we have obtained and are seeking to further obtain patent, trade secret, trademark and other intellectual property protection on our Products whenever appropriate. As of the date of this filing, the Company has applied for one international patent titled “Apparatus And Method For Conducting Electroencephalography” (Application No.: PCT/US18/18570), one U.S. nonprovisional patent titled “Apparatus And Method For Conducting Electroencephalography” (Application No.: 15/898,611), one Chinese patent titled “Apparatus and Method for Conducting Electroencephalography” (Application No.: 201880002338.7), and owns two United States trademarks.
+ 
+We have granted to Medical Computer Systems Ltd., an unaffiliated entity who also provides manufacturing services to us, a limited, royalty-free, fully paid-up, worldwide, nonexclusive license (without the right to sublicense or assign), to the patent, to practice, make and use the inventions, ideas and information embodied therein, and to make, use, offer to sell, sell, lease or import products, services, processes, methods and materials embodying or deriving from the inventions, ideas and information from the patent and any activities derived directly therefrom; provided, however, that if and upon FDA approval of a Product, Medical Computer Systems’ aforementioned rights shall be limited to manufacturing and sales solely to our Company or on our behalf provided that we purchase from Medical Computer Systems (and Medical Computer Systems makes available for sale) a minimum of 20,000 units of Products per calendar year on reasonable terms and conditions to be determined by the parties in good faith; provided further, however, that Medical Computer Systems can without any limitation sell products embodying or deriving from the inventions, ideas and information from the patent in (i) the territories that made up the former USSR (excluding the Baltic countries) and (ii) Japan. In furtherance of the foregoing first proviso, in the event we fail to purchase the annual minimum order for a particular calendar year, Medical Computer Systems’ limitation to manufacture and sell Products only to our Company pursuant to this proviso shall be suspended for the next calendar year.
+ 
+ 2
+
+
+Industry Overview
+ 
+MedTech Industry
+ 
+The Company competes within the domestic and global medical device industry, referred to as the “MedTech” industry, which industry, on a global scale, is expected to grow from its worldwide sales of $386.8 billion in 2016 to $521.9 billion in 2022. The MedTech industry is characterized by rapid change resulting from technological advances and scientific discoveries. U.S. medical device companies are highly regarded on a global scale for their innovations and high-technology products, which innovations and products are produced due to a significant investment in research and development. As of 2015, the U.S. MedTech industry was valued at more than $140 billion, which, at the time, accounted for approximately 45% of the global market, and the U.S. MedTech industry is projected to grow to $173 billion by the end of 2019. During the last decade, the U.S. MedTech industry experienced unprecedented advancement in innovative and developed technologies, leading to the birth of new therapies and overall growth in the broader healthcare industry. Investment in medical device research and development more than doubled in recent decades, and research and development investment in the domestic sector remains more than twice the average for all U.S. manufacturers. For the foreseeable future, the U.S. is expected to continue to play a leading role in medical device research and development. After declining in 2009, research and development spending rebounded to $2.9 billion in 2010 and $7.3 billion in 2011. From 2013 to 2020, larger medical device companies have and are expected to continue to increase their research and development budgets by approximately 3%, while the rest of the industry has and is expected to continue to increase spending for this element by more than 5%.
+ 
+The Company’s Specific SubSection in the MedTech Industry
+ 
+The Company seeks to operate within subsectors of the MedTech industry recognized as the diagnostic imagining subsector and the neurology subsector, which subsectors rank 3rd and 14th, respectively, of the top 15 MedTech subsectors measured by global sales. The Company believes that such statistics from 2016 - 2017 demonstrate the significant demand for medical device products in the MedTech sectors in which the Company seeks to operate in. By 2022, the subsectors of the MedTech industry which the Company expects to operate in, along with its anticipated direct competitors, the diagnostic imaging and the neurology subsectors, are expected to make up 11.4% of the entire MedTech industry which, by 2022, is expected to reach $521.9 billion in sales.
+ 
+The Global Telemedicine Market/Industry
+ 
+In addition to the MedTech industry, we are also seeking to participate within the rapidly expanding global telemedicine industry/market. This industry focuses on the delivery of healthcare services, consultations and advice to patients wherever they are through the means of technology, software mediated video and data portals. We believe that there is and will continue to be significant demand for such services given the need to match physicians with patients in remote areas or without having patients travel long distances to access the care they need. We also believe that there is a major need within this industry to also provide point of care diagnostic, which we are seeking to develop as a niche, especially within neurology. This industry is currently estimated to be approximately $22 billion but is projected to grow at approximately 15% CAGR to $45 billion by 2023. In addition, the sub-sector of teleneurology, of which we intend to participate, is the fastest growing sub-sector within telemedicine at an approximately 17% CAGR and currently is the 4th largest sub-sector overall within global telemedicine.
+Competition
+ 
+Our Products face a mixture of competitors ranging from large manufacturers with multiple business lines to small manufacturers offering a limited selection of products and services. Many of the competitors whom we directly compete with include companies who develop or intend to develop medical EEG products with FDA clearance to support clinical diagnosis of brain disorders. Our indirect competitors offer similar products and services, but target audiences in the clinical research and consumer solutions markets, as opposed to the medical solution market the Company targets. These indirect competitors are largely focused on the development of EEG products for research, consumer, and athletic application.
+ 
+ 3
+
+
+Major shifts in industry market share have occurred in connection with product problems, physician advisories, safety alerts, and publications about MedTech products, reflecting the importance of product quality, product efficacy, and quality systems in the medical device industry. In addition, in the current environment of managed care, economically motivated customers, consolidation among health care providers, increased competition, and declining reimbursement rates, the Company anticipates an increasing need to compete on the basis of price and quality. In order to continue to compete effectively, we must continue to create or acquire advanced technology, incorporate this technology into our current and future proprietary Products, obtain regulatory approvals in a timely manner, maintain high-quality manufacturing processes, and successfully market these Products. Some of these initiatives include, but are not limited to, creating integrated cloud solutions that connect specialists with generalists for simple data transfer and analysis, streamlining clinical diagnoses with new medical devices, and opening up revenue streams from secondary healthcare markets, such as primary care medical professionals who utilize EEG analyses in their practices.
+ 
+The major U.S. medical device companies who we deem as competitors include Baxter, Beckman Coulter, Becton Dickinson, Boston Scientific, GE Healthcare Technologies, Johnson & Johnson, St. Jude, Stryker Corporation, and Medtronic. Many of the companies against which we may compete in the future have significantly greater financial resources and expertise in research and development, manufacturing, preclinical testing, conducting clinical trials, obtaining regulatory approvals and marketing approved products than we do. Mergers and acquisitions in the pharmaceutical, biotechnology and diagnostic industries may result in even more resources being concentrated among a smaller number of our competitors. Smaller or early stage companies may also prove to be significant competitors, particularly through collaborative arrangements with large and established companies. These competitors also compete with us in recruiting and retaining qualified scientific and management personnel and establishing clinical trial sites and subject registration for clinical trials, as well as in acquiring technologies complementary to, or necessary for, our development.
+ 
+Sales and Marketing
+ 
+Our marketing and sales strategy is focused on rapid, cost-effective delivery of high-quality products into the U.S. and international healthcare market. The sales strategy is based on penetrating the neurology and diagnostic imaging subsectors of the MedTech industry market and expanding into nursing homes and primary care practices. Included amongst the customers whom we intend to market and sell our Products to are individual physicians, medical practices, urgent care facilities, physician associations, and other medical professionals and medical professional groups, hospitals, health clinics, nursing homes, physical rehabilitation centers, addiction rehabilitation centers and other medical institutions, athletic organizations, and colleges, universities, and other academic institutions.
+ 
+We intend for our Products’ initial entry into the market would be at emergency departments, ICU’s and other acute care settings in the United States.
+ 
+We are establishing non-exclusive distributor agreements with distributors who can independently implement the sale, marketing, shipping, support, demonstration and training of our Products to their clients and end-users in the applicable market. As of December 31, 2018, we have entered into one such non-exclusive distributor agreement.
+ 
+We will also be looking at forming partnerships with national and global telemedicine and teleneurology companies in order to leverage their relationships, to access our target end-users. This would allow our initial entry into the rapidly growing global telemedicine and teleneurology markets.
+ 
+As we grow, we intend to expand to global distributors, Group Purchasing Organizations (GPOs) of medical supplies, and Independent Physician Associations (IPAs) to scale business operations.
+ 
+We do not at this time have plans to have direct sales or hire a direct sales force.
+ 
+Reimbursement
+ 
+Coverage in the United States
+ 
+Reimbursement from private third-party healthcare payors and, to a lesser extent, Medicare will be an important element of our success. Although the Centers for Medicare and Medicaid, or CMS, and third-party payors have adopted coverage policies for our targeted indications, there is no guarantee this will continue at the same levels or at all in the future.
+ 
+ 4
+
+
+Regarding ICD-10 codes, the International Classification of Diseases, Tenth Edition (ICD-10) is a clinical cataloging system that went into effect for the U.S. healthcare industry on Oct. 1, 2015, after a series of lengthy delays. Accounting for modern advances in clinical treatment and medical devices, ICD-10 codes offer many more classification options compared to those found in its predecessor, ICD-9. Within the healthcare industry, providers, coders, IT professionals, insurance carriers, government agencies and others use ICD codes to properly note diseases on health records, to track epidemiological trends and to assist in medical reimbursement decisions.
+ 
+We believe that many of the indications we are pursuing with our technologies are currently reimbursed on a widespread basis by Medicare, Medicaid and private insurance companies.
+ 
+Medicare, Medicaid, health maintenance organizations and other third-party payors are increasingly attempting to contain healthcare costs by limiting both coverage and the level of reimbursement of new medical devices, and, as a result, their coverage policies may be restrictive, or they may not cover or provide adequate payment for our Products. In order to obtain reimbursement arrangements, we may have to agree to a net sales price lower than the net sales price we might charge in other sales channels. Our revenue may be limited by the continuing efforts of government and third-party payors to contain or reduce the costs of healthcare through various increasingly sophisticated means, such as requiring prospective reimbursement and second opinions, purchasing in groups, or redesigning benefits. Our future dependence on the commercial success of our technologies makes us particularly susceptible to any cost containment or reduction efforts. Accordingly, unless government and other third-party payors provide adequate coverage and reimbursement for our Products and the related insertion and removal procedures, our financial performance may be limited.
+ 
+Coverage Outside the United States
+ 
+If we seek to commercialize our Products in countries outside the United States, coverage may be available from certain governmental authorities, private health insurance plans, and labor unions. Coverage systems in international markets vary significantly by country and, within some countries, by region. If we seek to commercialize our technology, if approved, outside the U.S., coverage approvals must be obtained on a country-by-country, region-by-region or, in some instances, a case-by case basis. Based on our ongoing evaluation, certain countries reimburse more highly than others.
+Manufacturing, Supply and Quality Assurance
+ 
+We currently outsource the supply and manufacture of all components of our NeuroEEG and NeuroCap. We plan to continue with an outsourced manufacturing arrangement for the foreseeable future. We expect that our third-party manufacturers will be competent to manufacture our Products and have quality systems established that meet FDA requirements. We believe the manufacturers we currently utilize or that we may utilize in the future have sufficient capacity to meet our launch requirements if our technology under development is approved in the future and are able to scale up their capacity relatively quickly with minimal capital investment. We believe that, as we increase our demand in the future, our per unit costs will decrease materially. We have also identified capable second source manufacturers and suppliers in the event of disruption from any of our primary vendors.
+ 
+Our suppliers meet ISO 13485:2003 certification, which includes design control requirements. As a medical device developer, the facilities of our sterilization and other critical suppliers are subject to periodic inspection by the FDA and corresponding state and foreign agencies. We plan to audit our suppliers periodically to ensure conformity with the specifications, policies and procedures for our devices.
+ 
+Research and Development
+ 
+Our research and development programs are generally pursued by engineers and scientists employed by us on a full-time basis or hired as per diem consultants or through partnerships with industry leaders in manufacturing and design and researchers and academia. We are also working with subcontractors in developing specific components of our technologies.
+ 
+The primary objective of our research and development program is to advance the development of our existing and proposed Products, to enhance the commercial value of such Products.
+ 
+We have incurred research and development costs of $210,206 for the year ended December 31, 2018 and $289,586 for the year ended December 31, 2017.
+ 
+We also have formed a Medical Advisory Board. The current members are Dr. Alex Rottenberg, MD, PhD, Boston Children’s Hospital; Dr. John Gaitanis, MD, Tufts Medical Center; and Dr. John Hixson, MD, Associate Professor of Neurology, University of California San Francisco. We grant to such members from time to time equity for the services they provide to us.
+ 
+ 5
+
+
+Government Regulation
+ 
+Our NeuroEEG and NeuroCap are each a medical device subject to extensive and ongoing regulation by the FDA, the U.S. Centers for Medicare & Medicaid Services, or CMS, the European Commission, and regulatory bodies in other countries. Regulations cover virtually every critical aspect of a medical device company's business operations, including research activities, product development, quality and risk management, contracting, reimbursement, medical communications, and sales and marketing. In the United States, the Federal Food, Drug and Cosmetic Act, or FDCA, and the implementing regulations of the FDA govern product design and development, pre-clinical and clinical testing, premarket clearance or approval, product manufacturing, quality systems, import and export, product labeling, product storage, recalls and field safety corrective actions, advertising and promotion, product sales and distribution, and post-market clinical surveillance. Our business is subject to federal, state, local, and foreign regulations, such as ISO 13485, ISO 14971, FDA's Quality System Regulation, or QSR, contained in 21 CFR Part 820, and the European Commission's Directive 93/42/EEC concerning medical devices and its amendments.
+ 
+U.S. Regulation
+ 
+The FDA characterizes medical devices into one of three classes. Devices that are considered by the FDA to pose lower risk are classified as Class I or II. Class I devices and are subject to controls for labeling, pre-market notification and adherence to the FDA's QSR. This pertains to manufacturers' methods and documentation of the design, testing, production, control quality assurance, labeling, packaging, sterilization, storage and shipping of products, but are usually exempt from premarket notification requirements. Class II devices are subject to the same general controls but may be subject to special controls such as performance standards, post-market surveillance, FDA guidelines, or particularized labeling, and may also require clinical testing prior to clearance or approval. Class III devices are those for which insufficient information exists to assure safety and effectiveness solely through general or special controls, including devices that support or sustain human life, are of substantial importance in preventing impairment of human health, or which present a potential, unreasonable risk of illness or injury.
+ 
+Some Class I and Class II devices are exempted by regulation from the pre-market notification requirement under Section 510(k) of the FDCA, also referred to as a 510(k) clearance, and the requirement of compliance with substantially all of the QSR. However, a pre-market approval, or PMA application, is required for devices deemed by the FDA to pose the greatest risk, such as life-sustaining, life-supporting or certain implantable devices, or those that are "not substantially equivalent" either to a device previously cleared through the 510(k) process or to a "preamendment" Class III device in commercial distribution before May 28, 1976 when PMA applications were not required. The PMA approval process is more comprehensive than the 510(k) clearance process and typically takes several years to complete. Based on FDA definitions, we believe our NeuroEEG and NeuroCap each will be categorized by the FDA as a Class II device that does not require clinical testing and can be filed as a 510(k), similar to existing competitive technology. While the 510(k) process is typically shorter than a PMA process, both the 510(k) clearance and PMA processes can be expensive and lengthy.
+ 
+FDA review of a PMA application generally takes between one and three years, but may take significantly longer. The FDA can delay, limit or deny approval of a PMA application for many reasons, including:
+ 
+
+● | the device may not be safe, effective, reliable or accurate to the FDA's satisfaction;
+--+---------------------------------------------------------------------------------------
+
+
+● | the data from pre-clinical studies and clinical trials may be insufficient to support approval;
+--+------------------------------------------------------------------------------------------------
+
+
+● | the manufacturing process or facilities may not meet applicable requirements; and
+--+----------------------------------------------------------------------------------
+
+
+● | changes in FDA approval policies or adoption of new regulations may require additional data.
+--+---------------------------------------------------------------------------------------------
+
+ 
+If an FDA evaluation of a PMA application is favorable, the FDA will either issue an approval letter, or approvable letter, which usually contains a number of conditions that must be met in order to secure final approval of the PMA. When and if those conditions have been fulfilled to the satisfaction of the FDA, the agency will issue a PMA approval letter authorizing commercial marketing of a device, subject to the conditions of approval and the limitations established in the approval letter. If the FDA's evaluation of a PMA application or manufacturing facilities is not favorable, the FDA will deny approval of the PMA or issue a not approvable letter. The FDA also may determine that additional tests or clinical trials are necessary, in which case the PMA approval may be delayed for several months or years while the trials are conducted and data is submitted in an amendment to the PMA. The PMA process can be expensive, uncertain and lengthy and a number of devices for which FDA approval has been sought by other companies have never been approved by the FDA for marketing.
+ 
+ 6
+
+
+New PMA applications or PMA supplements may be required for modifications to the manufacturing process, labeling, device specifications, materials or design of a device that has been approved through the PMA process. PMA supplements often require submission of the same type of information as an initial PMA application, except that the supplement is limited to information needed to support any changes from the device covered by the approved PMA application and may or may not require as extensive technical or clinical data or the convening of an advisory panel.
+ 
+Clinical trials are typically required to support a PMA application and are sometimes required for a 510(k) clearance. These trials generally require submission of an application for an IDE, to the FDA. The IDE application must be supported by appropriate data, such as animal and laboratory testing results, showing that it is safe to test the device in humans and that the testing protocol is scientifically sound. The IDE application must be approved in advance by the FDA for a specified number of patients, unless the product is deemed a non-significant risk device and eligible for abbreviated IDE requirements. Generally, clinical trials for a significant risk device may begin once the IDE application is approved by the FDA and the study protocol and informed consent are approved by appropriate institutional review boards at the clinical trial sites. The FDA's approval of an IDE allows clinical testing to go forward, but it does not bind the FDA to accept the results of the trial as sufficient to prove the product's safety and efficacy, even if the trial meets its intended success criteria. All clinical trials must be conducted in accordance with the FDA's IDE regulations that govern investigational device labeling, prohibit promotion, and specify an array of recordkeeping, reporting and monitoring responsibilities of study sponsors and study investigators. Clinical trials must further comply with the FDA's regulations for institutional review board approval and for informed consent and other human subject protections. Required records and reports are subject to inspection by the FDA. The results of clinical testing may be unfavorable or, even if the intended safety and efficacy success criteria are achieved, may not be considered sufficient for the FDA to grant approval or clearance of a product. Clinical trials must be entered into the clinical trials registry at clintrials.gov.
+ 
+The commencement or completion of any clinical trial may be delayed or halted, or be inadequate to support approval of a PMA application, for numerous reasons, including, but not limited to, the following:
+ 
+
+● | the FDA or other regulatory authorities do not approve a clinical trial protocol or a clinical trial, or place a clinical trial on hold;
+--+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | patients do not enroll in clinical trials at the rate expected;
+--+----------------------------------------------------------------
+
+
+● | patients, sponsor or study sites do not comply with trial protocols;
+--+---------------------------------------------------------------------
+
+
+● | patient follow-up is not at the rate expected;
+--+-----------------------------------------------
+
+
+● | patients experience adverse side effects;
+--+------------------------------------------
+
+
+● | patients die during a clinical trial, even though their death may not be related to the products that are part of our trial;
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+
+● | institutional review boards and third-party clinical investigators may delay or reject the trial protocol;
+--+-----------------------------------------------------------------------------------------------------------
+
+
+● | third-party clinical investigators decline to participate in a trial or do not perform a trial on the anticipated schedule or consistent with the clinical trial protocol, good clinical practices or other FDA requirements;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | the sponsor or third-party organizations do not perform data collection, monitoring and analysis in a timely or accurate manner or consistent with the clinical trial protocol or investigational or statistical plans;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | third-party clinical investigators have significant financial interests related to the sponsor or the study that the FDA deems to make the study results unreliable, or the company or investigators fail to disclose such interests;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | regulatory inspections of our clinical trials or manufacturing facilities, which may, among other things, require us to undertake corrective action or suspend or terminate our clinical trials;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | changes in governmental regulations or administrative actions;
+--+---------------------------------------------------------------
+
+
+● | the interim or final results of the clinical trial are inconclusive or unfavorable as to safety or efficacy; and
+--+-----------------------------------------------------------------------------------------------------------------
+
+
+● | the FDA concludes that our trial design is inadequate to demonstrate safety and efficacy.
+--+------------------------------------------------------------------------------------------
+
+ 
+ 7
+
+
+International Regulation
+ 
+International sales of medical devices are subject to local government regulations, which may vary substantially from country to country. The time required to obtain approval in another country may be longer or shorter than that required for FDA approval, and the requirements may differ. There is a trend towards harmonization of quality system standards among the European Union, United States, Canada and various other industrialized countries.
+ 
+The primary regulatory body in Europe is that of the European Union, the European Commission, which includes most of the major countries in Europe. Other countries, such as Switzerland, have voluntarily adopted laws and regulations that mirror those of the European Union with respect to medical devices. The European Union has adopted numerous directives and standards regulating the design, manufacture, clinical trials, labeling and adverse event reporting for medical devices. Devices that comply with the requirements of these relevant directives will be entitled to bear the CE conformity marking, indicating that the device conforms to the essential requirements of the applicable directives and, accordingly, can be commercially distributed throughout Europe. The method of assessing conformity varies depending on the class of the product, but normally involves a combination of self-assessment by the manufacturer and a third party assessment by a "Notified Body." This third-party assessment may consist of an audit of the manufacturer's quality system and specific testing of the manufacturer's product. An assessment by a Notified Body of one country within the European Union is required in order for a manufacturer to commercially distribute the product throughout the European Union. Additional local requirements may apply on a country-by-country basis. Outside of the European Union, regulatory approval would need to be sought on a country-by-country basis in order for us to market our Products.
+ 
+Medical devices in Europe are classified into four primary categories. They are as follows:
+ 
+
+● | Non-invasive devices
+--+---------------------
+
+
+● | Invasive medical devices
+--+-------------------------
+
+
+● | Active medical devices
+--+-----------------------
+
+
+● | Special Rules (including contraceptive, disinfectant, and radiological diagnostic medical devices)
+--+---------------------------------------------------------------------------------------------------
+
+ 
+Devices are further segmented into the classes noted below. In Vitro Diagnostic devices (IVDs) have their own classification scheme and while active implantable devices do not follow the same classification system as provided by the Medical Device Directive (MDD), they are subject to similar requirements as Class III devices:
+ 
+
+● | Class I – Provided non-sterile or do not have a measuring function (low risk)
+--+------------------------------------------------------------------------------
+
+
+● | Class I – Provided sterile and/or have a measuring function (low/medium risk)
+--+------------------------------------------------------------------------------
+
+
+● | Class IIa (medium risk)
+--+------------------------
+
+
+● | Class IIb (medium/high risk)
+--+-----------------------------
+
+
+● | Class III (high risk)
+--+----------------------
+
+ 
+We are seeking to establish wholly-owned subsidiaries in Europe (Poland) and Russia for product distribution and certification.
+ 
+Other Regulatory Requirements
+ 
+Even after a device receives clearance or approval and is placed in commercial distribution, numerous regulatory requirements apply. These include:
+ 
+
+● | establishment registration and device listing;
+--+-----------------------------------------------
+
+
+● | QSR, which requires manufacturers, including third party manufacturers, to follow stringent design, testing, risk management, production, control, supplier/contractor selection, complaint handling, documentation and other quality assurance procedures during all aspects of the manufacturing process;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 8
+
+
+
+● | labeling regulations that prohibit the promotion of products for uncleared, unapproved or "off-label" uses, and impose other restrictions on labeling, advertising and promotion;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | MDR regulations, which require that manufacturers report to the FDA if their device may have caused or contributed to a death or serious injury or malfunctioned in a way that would likely cause or contribute to a death or serious injury if the malfunction were to recur;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | voluntary and mandatory device recalls to address problems when a device is defective and could be a risk to health; and
+--+-------------------------------------------------------------------------------------------------------------------------
+
+
+● | corrections and removals reporting regulations, which require that manufacturers report to the FDA field corrections and product recalls or removals if undertaken to reduce a risk to health posed by the device or to remedy a violation of the FDCA that may present a risk to health.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Also, the FDA may require us to conduct post-market surveillance studies or establish and maintain a system for tracking our Products through the chain of distribution to the patient level. The FDA enforces regulatory requirements by conducting periodic, unannounced inspections and market surveillance. Inspections may include the manufacturing facilities of our subcontractors.
+ 
+Failure to comply with applicable regulatory requirements can result in enforcement actions by the FDA and other regulatory agencies. These may include any of the following sanctions or consequences:
+ 
+
+● | warning letters or untitled letters that require corrective action;
+--+--------------------------------------------------------------------
+
+
+● | fines and civil penalties;
+--+---------------------------
+
+
+● | unanticipated expenditures;
+--+----------------------------
+
+
+● | delays in approving or refusal to approve future products;
+--+-----------------------------------------------------------
+
+
+● | FDA refusal to issue certificates to foreign governments needed to export products for sale in other countries;
+--+----------------------------------------------------------------------------------------------------------------
+
+
+● | suspension or withdrawal of FDA clearance or approval;
+--+-------------------------------------------------------
+
+
+● | product recall or seizure;
+--+---------------------------
+
+
+● | interruption of production;
+--+----------------------------
+
+
+● | operating restrictions;
+--+------------------------
+
+
+● | injunctions; and
+--+-----------------
+
+
+● | criminal prosecution.
+--+----------------------
+
+ 
+Our contract manufacturers, specification developers and some suppliers of components or device accessories, also are required to manufacture our Products in compliance with current good manufacturing practice requirements set forth in the QSR. The QSR requires a quality system for the design, manufacture, packaging, labeling, storage, installation and servicing of marketed devices, and it includes extensive requirements with respect to quality management and organization, device design, buildings, equipment, purchase and handling of components or services, production and process controls, packaging and labeling controls, device evaluation, distribution, installation, complaint handling, servicing, and record keeping. The FDA evaluates compliance with the QSR through periodic unannounced inspections that may include the manufacturing facilities of our subcontractors. If the FDA believes that any of our contract manufacturers or regulated suppliers are not in compliance with these requirements, it can shut down such manufacturing operations, require recall of our Products, refuse to approve new marketing applications, institute legal proceedings to detain or seize products, enjoin future violations or assess civil and criminal penalties against us or our officers or other employees.
+ 
+ 9
+
+
+Health Insurance Portability and Accountability Act of 1996 and Similar Foreign and State Laws and Regulations Affecting the Transmission, Security and Privacy of Health Information
+ 
+We may also be subject to data privacy and security regulation by both the federal government and the states in which we conduct our business. HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act, or HITECH, and their respective implementing regulations, imposes specified requirements relating to the privacy, security and transmission of individually identifiable health information. Among other things, HITECH makes HIPAA's security standards directly applicable to business associates, defined as service providers of covered entities that create, receive, maintain or transmit protected health information in connection with providing a service for or on behalf of a covered entity. HITECH also created four new tiers of civil monetary penalties and gave state attorneys general new authority to file civil actions for damages or injunctions in federal courts to enforce the federal HIPAA laws and seek attorneys' fees and costs associated with pursuing federal civil actions. In addition, many state laws govern the privacy and security of health information in certain circumstances, many of which differ from HIPAA and each other in significant ways and may not have the same effect.
+ 
+Foreign data privacy regulations, such as the EU Data Protection Directive (Directive 95/46/EC), the country-specific regulations that implement Directive 95/46/EC, and the EU General Data Protection Regulation (GDPR) also govern the processing of personally identifiable data, and may be stricter than U.S. laws.
+ 
+Fraud and Abuse Laws
+ 
+In addition to FDA restrictions, there are numerous U.S. federal and state laws pertaining to healthcare fraud and abuse, including anti-kickback laws and physician self-referral laws. Our relationships with healthcare providers and other third parties are subject to scrutiny under these laws. Violations of these laws are punishable by criminal and civil sanctions, including, in some instances, imprisonment and exclusion from participation in federal and state healthcare programs, including the Medicare, Medicaid and Veterans Administration health programs.
+ 
+Federal Anti-Kickback and Self-Referral Laws
+ 
+The federal Anti-Kickback Statute prohibits persons from knowingly and willfully soliciting, receiving, offering or providing remuneration (including any kickback, bribe or rebate), directly or indirectly, overtly or covertly, to induce either the referral of an individual, or the furnishing, recommending, or arranging of a good or service, for which payment may be made under a federal healthcare program such as Medicare and Medicaid or other federal healthcare programs. The term "remuneration" has been broadly interpreted to include anything of value, including such items as gifts, discounts, the furnishing of supplies or equipment, credit arrangements, waiver of payments and providing anything at less than its fair market value. Although there are a number of statutory exceptions and regulatory safe harbors protecting some common activities from prosecution, the exceptions and safe harbors are drawn narrowly. Practices that involve remuneration that may be alleged to be intended to induce prescribing, purchases or recommendations may be subject to scrutiny if they do not qualify for an exception or safe harbor. Failure to meet all of the requirements of a particular applicable statutory exception or regulatory safe harbor does not make the conduct per se illegal under the Anti-Kickback Statute. Instead, the legality of the arrangement will be evaluated on a case-by-case basis based on a review of all its relevant facts and circumstances. Several courts have interpreted the statute's intent requirement to mean that if any one purpose of an arrangement involving remuneration is to induce referrals of (or purchases, or recommendations related to) federal healthcare covered business, the Anti-Kickback Statute has been implicated and potentially violated.
+ 
+The penalties for violating the federal Anti-Kickback Statute include imprisonment for up to five years, fines of up to $25,000 per violation and possible exclusion from federal healthcare programs such as Medicare and Medicaid. Many states have adopted prohibitions similar to the federal Anti-Kickback Statute, some of which do not have the same exceptions and apply to the referral of patients for healthcare services reimbursed by any source, not only by the Medicare and Medicaid programs. Further, the Anti-Kickback Statute was amended by the Patient Protection and Affordable Care Act, or PPACA. Specifically, as noted above, under the Anti-Kickback Statute, the government must prove the defendant acted "knowingly" to prove a violation occurred. The PPACA added a provision to clarify that with respect to violations of the Anti-Kickback Statute, "a person need not have actual knowledge" of the statute or specific intent to commit a violation of the statute. This change effectively overturns case law interpretations that set a higher standard under which prosecutors had to prove the specific intent to violate the law. In addition, the PPACA codified case law that a claim including items or services resulting from a violation of the federal Anti-Kickback Statute constitutes a false or fraudulent claim for purposes of the federal civil False Claims Act.
+ 
+We plan to provide the initial training to providers and patients necessary for appropriate use of our technology either through our own educators or by contracting with outside educators that have completed an appropriate training course. Outside educators are reimbursed for their services at fair market value.
+ 
+ 10
+
+
+Noncompliance with the federal anti-kickback legislation could result in our exclusion from Medicare, Medicaid or other governmental programs, restrictions on our ability to operate in certain jurisdictions, and civil and criminal penalties.
+ 
+Federal law also includes a provision commonly known as the "Stark Law," which prohibits a physician from referring Medicare or Medicaid patients to an entity providing "designated health services," including a company that furnishes durable medical equipment, in which the physician has an ownership or investment interest or with which the physician has entered into a compensation arrangement. Violation of the Stark Law could result in denial of payment, disgorgement of reimbursements received under a noncompliant arrangement, civil penalties, and exclusion from Medicare, Medicaid or other governmental programs. We believe that we have structured our provider arrangements to comply with current Stark Law requirements.
+ 
+Nevertheless, a determination of liability under such laws could result in fines and penalties and restrictions on our ability to operate in these jurisdictions.
+ 
+Additionally, as some of these laws are still evolving, we lack definitive guidance as to the application of certain key aspects of these laws as they relate to our arrangements with providers with respect to patient training. We cannot predict the final form that these regulations will take or the effect that the final regulations will have on us. As a result, our provider and training arrangements may ultimately be found to be not in compliance with applicable federal law.
+ 
+Federal False Claims Act
+ 
+The Federal False Claims Act provides, in part, that the federal government may bring a lawsuit against any person whom it believes has knowingly presented, or caused to be presented, a false or fraudulent request for payment from the federal government, or who has made a false statement or used a false record to get a claim approved. In addition, amendments in 1986 to the Federal False Claims Act have made it easier for private parties to bring "qui tam" whistleblower lawsuits against companies under the Federal False Claims Act. Penalties include fines ranging from $5,500 to $11,000 for each false claim, plus three times the amount of damages that the federal government sustained because of the act of that person. Qui tam actions have increased significantly in recent years, causing greater numbers of healthcare companies to have to defend a false claim action, pay fines or be excluded from Medicare, Medicaid or other federal or state healthcare programs as a result of an investigation arising out of such action.
+ 
+There are other federal anti-fraud laws that that prohibit, among other actions, knowingly and willfully executing, or attempting to execute, a scheme to defraud any healthcare benefit program, including private third-party payors, knowingly and willfully embezzling or stealing from a healthcare benefit program, willfully obstructing a criminal investigation of a healthcare offense, and knowingly and willfully falsifying, concealing or covering up a material fact or making any materially false, fictitious or fraudulent statement in connection with the delivery of or payment for healthcare benefits, items or services.
+ 
+Additionally, HIPAA established two federal crimes in the healthcare fraud and false statements relating to healthcare matters. The healthcare fraud statute prohibits knowingly and willfully executing a scheme to defraud any healthcare benefit program, including private payors. A violation of this statute is a felony and may result in fines, imprisonment or exclusion from government sponsored programs. The false statements statute prohibits knowingly and willfully falsifying, concealing or covering up a material fact or making any materially false, fictitious or fraudulent statement in connection with the delivery of or payment for healthcare benefits, items or services. A violation of this statute is a felony and may result in fines or imprisonment.
+ 
+Civil Monetary Penalties Law
+ 
+In addition to the Anti-Kickback Statute and the civil and criminal False Claims Acts, the federal government has the authority to seek civil monetary penalties, or CMPs, assessments, and exclusion against an individual or entity based on a wide variety of prohibited conduct. For example, the Civil Monetary Penalties Law authorizes the imposition of substantial CMPs against an entity that engages in activities including, but not limited to: (1) knowingly presenting or causing to be presented, a claim for services not provided as claimed or which is otherwise false or fraudulent in any way; (2) knowingly giving or causing to be given false or misleading information reasonably expected to influence the decision to discharge a patient; (3) offering or giving remuneration to any beneficiary of a federal health care program likely to influence the receipt of reimbursable items or services; (4) arranging for reimbursable services with an entity which is excluded from participation from a federal health care program; (5) knowingly or willfully soliciting or receiving remuneration for a referral of a federal health care program beneficiary; or (6) using a payment intended for a federal health care program beneficiary for another use. Noncompliance can result in civil money penalties of up to $10,000 for each wrongful act, assessment of three times the amount claimed for each item or service and exclusion from the federal healthcare programs.
+ 
+ 11
+
+
+State Fraud and Abuse Provisions
+ 
+Many states have also adopted some form of anti-kickback and anti-referral laws and a false claims act. We believe that we are in conformance to such laws. Nevertheless, a determination of liability under such laws could result in fines and penalties and restrictions on our ability to operate in these jurisdictions.
+Physician Payment Sunshine Act
+ 
+Transparency laws regarding payments or other items of value provided to healthcare providers and teaching hospitals may also impact our business practices. The federal Physician Payment Sunshine Act requires most medical device manufacturers to report annually to the Secretary of Human Health Services financial arrangements, payments, or other transfers of value made by that entity to physicians and teaching hospitals. The payment information is made publicly available in a searchable format on a CMS website. Over the next several years, we will need to dedicate significant resources to establish and maintain systems and processes in order to comply with these regulations. Failure to comply with the reporting requirements can result in significant civil monetary penalties. Similar laws have been enacted or are under consideration in foreign jurisdictions.
+U.S. Foreign Corrupt Practices Act
+ 
+The U.S. Foreign Corrupt Practices Act, or FCPA, prohibits U.S. corporations and their representatives from offering, promising, authorizing or making corrupt payments, gifts or transfers to any foreign government official, government staff member, political party or political candidate in an attempt to obtain or retain business abroad. The FCPA also obligates companies whose securities are listed in the United States to comply with accounting provisions requiring the company to maintain books and records that accurately and fairly reflect all transactions of the corporation, including international subsidiaries, and to devise and maintain an adequate system of internal accounting controls for international operations. Activities that violate the FCPA, even if they occur wholly outside the United States, can result in criminal and civil fines, imprisonment, disgorgement, oversight, and debarment from government contracts.
+Employees
+ 
+As of April 1, 2019, we had five employee and thirteen consultants. None of our employees are represented by a labor union or covered by a collective bargaining agreement. We consider our relationship with our employees to be satisfactory.

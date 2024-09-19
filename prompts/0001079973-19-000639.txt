@@ -1,0 +1,13 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+ITEM 1. | BUSINESS | 5
+---------+---------------------------+--
+ITEM 1A. | RISK FACTORS | 6
+ITEM 1B. | UNRESOLVED STAFF COMMENTS | 6
+ITEM 2. | PROPERTIES | 6
+ITEM 3. | LEGAL PROCEEDINGS | 6
+ITEM 4. | MINE SAFETY DISCLOSURES | 6
+
+PART II
+ 

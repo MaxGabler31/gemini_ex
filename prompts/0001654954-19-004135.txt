@@ -1,0 +1,448 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+ITEM 1. | FINANCIAL STATEMENTS
+--------+---------------------
+
+ AZZURRA HOLDING CORPORATION BALANCE SHEETS
+   (In thousands, except share amounts)
+  
+ 
+ | December 31, 2018 | December 31, 2017 | December 31, 2016 | December 31, 2015
+--------------------------------------------------------------------------------------------------------------+-------------------+-------------------+-------------------+------------------
+ASSETS | | | | 
+Current assets: | | | | 
+Cash | $- | $- | $- | $1 
+Total current assets and total assets | $- | $- | $- | $1 
+LIABILITIES AND STOCKHOLDERS' DEFICIT | | | | 
+Current liabilities: | | | | 
+Accounts payable and accrued expenses | $- | $- | $- | $1 
+Total current liabilities and total liabilities | - | - | - | 1 
+Stockholders' deficit: | | | | 
+Common stock, par value $0.01 per share; 250,000 shares authorized; and 201,457 shares issued and outstanding | 2 | 2 | 2 | 2 
+Additional paid-in capital | 698 | 698 | 698 | 697 
+Accumulated deficit | (700) | (700) | (700) | (699) 
+Total stockholders' deficit | - | - | - | - 
+Total liabilities and stockholders' deficit | $- | $- | $- | $1 
+
+
+ 
+ The accompanying notes are an integral part of these financial statements.
+  
+ 
+   
+-3-
+
+
+
+ 
+ 
+
+  AZZURRA HOLDING CORPORATION
+   CONDENSED BALANCE SHEETS
+   (In thousands except share amounts)
+  
+ 
+ | September 30, 2018 (unaudited) | June 30, 2018 (unaudited) | March 31, 2018 (unaudited)
+--------------------------------------------------------------------------------------------------------------+--------------------------------+---------------------------+---------------------------
+ASSETS | | | 
+Current assets: | | | 
+Cash | $- | $- | $- 
+Total current assets and total assets | $- | $- | $- 
+LIABILITIES AND STOCKHOLDERS' DEFICIT | | | 
+Current liabilities: | | | 
+Accounts payable and accrued expenses | $- | $- | $1 
+Total current liabilities and total liabilities | - | - | 1 
+Stockholders' deficit: | | | 
+Common stock, par value $0.01 per share; 250,000 shares authorized; and 201,457 shares issued and outstanding | 2 | 2 | 2 
+Additional paid-in capital | 698 | 698 | 698 
+Accumulated deficit | (700) | (700) | (699) 
+Total stockholders' deficit | - | - | - 
+Total liabilities and stockholders' deficit | $- | $- | $- 
+
+
+ 
+ The accompanying notes are an integral part of these financial statements.
+  
+ 
+
+   
+-4-
+
+
+
+ 
+ 
+
+  AZZURRA HOLDING CORPORATION
+   CONDENSED BALANCE SHEETS
+   (In thousands,  except share amounts)
+  
+ 
+ | September 30, 2017 (unaudited) | June 30, 2017 (unaudited) | March 31, 2017 (unaudited)
+--------------------------------------------------------------------------------------------------------------+--------------------------------+---------------------------+---------------------------
+ASSETS | | | 
+Current assets: | | | 
+Cash | $- | $- | $- 
+Total current assets and total assets | $- | $- | $- 
+LIABILITIES AND STOCKHOLDERS' DEFICIT | | | 
+Current liabilities: | | | 
+Accounts payable and accrued expenses | - | - | 1 
+Total current liabilities and total liabilities | - | - | 1 
+Stockholders' deficit: | | | 
+Common stock, par value $0.01 per share; 250,000 shares authorized; and 201,457 shares issued and outstanding | 2 | 2 | 2 
+Additional paid-in capital | 698 | 698 | 698 
+Accumulated deficit | (700) | (700) | (699) 
+Total stockholders' deficit | - | - | - 
+Total liabilities and stockholders' deficit | $- | $- | $- 
+
+
+ 
+ The accompanying notes are an integral part of these financial statements.
+  
+ 
+
+   
+-5-
+
+
+
+ 
+ 
+
+  AZZURRA HOLDING CORPORATION
+   STATEMENTS OF OPERATIONS
+  (In thousands, except per share data)
+  
+ 
+ | Year Ended December 31, 2018 | Year Ended December 31, 2017 | Year Ended December 31, 2016 | Year Ended December 31, 2015
+-------------------------------------------------------+------------------------------+------------------------------+------------------------------+-----------------------------
+OPERATING EXPENSES: | | | | 
+General and administrative | $- | $- | $- | $31 
+Total operating expenses | - | - | - | 31 
+LOSS FROM OPERATIONS: | - | - | - | (31) 
+OTHER EXPENSE | - | - | - | (7) 
+Net loss | $- | $- | $- | $(38) 
+Basic and diluted loss per common share | $(0.00) | $(0.00) | $(0.00) | $(0.19) 
+Shares used in basic and diluted per share computation | 201,457 | 201,457 | 201,457 | 201,457 
+
+
+ 
+ The accompanying notes are an integral part of these financial statements.
+  
+ 
+ 
+   
+-6-
+
+
+
+ 
+ 
+  AZZURRA HOLDING CORPORATION
+   CONDENSED STATEMENTS OF OPERATIONS
+  (In thousands, except per share data)
+  
+ 
+ | Three Months Ended March 31, 2018 (unaudited) | Three Months Ended March 31, 2017 (unaudited)
+-------------------------------------------------------+-----------------------------------------------+----------------------------------------------
+OPERATING EXPENSES: | | 
+General and administrative | $- | $- 
+Total operating expenses | - | - 
+LOSS FROM OPERATIONS: | - | - 
+OTHER EXPENSE | - | - 
+Net loss | $- | $- 
+Basic and diluted loss per common share | $- | $- 
+Shares used in basic and diluted per share computation | 201,457 | 201,457 
+
+
+ 
+ The accompanying notes are an integral part of these financial statements.
+  
+ 
+   
+-7-
+
+
+
+ 
+ 
+
+  AZZURRA HOLDING CORPORATION
+   CONDENSED STATEMENTS OF OPERATIONS
+  (In thousands, except per share data)
+  
+
+ 
+ | Three Months Ended June 30, 2018 (unaudited) | Three Months Ended June 30, 2017 (unaudited) | Six Months Ended June 30, 2018 (unaudited) | Six Months Ended June 30, 2017 (unaudited)
+-------------------------------------------------------+----------------------------------------------+----------------------------------------------+--------------------------------------------+-------------------------------------------
+OPERATING EXPENSES: | | | | 
+General and administrative | $- | $- | $- | $- 
+Total operating expenses | - | - | - | - 
+LOSS FROM OPERATIONS: | - | - | - | - 
+OTHER EXPENSE | - | - | - | - 
+Net loss | $- | $- | $- | $- 
+Basic and diluted loss per common share | $- | $- | $- | $- 
+Shares used in basic and diluted per share computation | 201,457 | 201,457 | 201,457 | 201,457 
+
+
+ 
+ The accompanying notes are an integral part of these financial statements.
+  
+ 
+ | Three Months Ended September 30, 2018 (unaudited) | Three Months Ended September 30, 2017 (unaudited) | Nine Months Ended September 30, 2018 (unaudited) | Nine Months Ended September 30, 2017 (unaudited)
+-------------------------------------------------------+---------------------------------------------------+---------------------------------------------------+--------------------------------------------------+-------------------------------------------------
+OPERATING EXPENSES: | | | | 
+General and administrative | $- | $- | $- | $- 
+Total operating expenses | - | - | - | - 
+LOSS FROM OPERATIONS: | - | - | - | - 
+OTHER EXPENSE | - | - | - | - 
+Net loss | $- | $- | $- | $- 
+Basic and diluted loss per common share | $- | $- | $- | $- 
+Shares used in basic and diluted per share computation | 201,457 | 201,457 | 201,457 | 201,457 
+
+
+ 
+ The accompanying notes are an integral part of these financial statements.
+  
+   
+-8-
+
+
+
+ 
+ 
+
+  AZZURRA HOLDING CORPORATION
+   STATEMENTS STOCKHOLDERS' DEFICIT
+   FOR THE YEARS ENDED DECEMBER 31, 2018, 2017, 2016 AND 2015
+  (In thousands)
+  
+ 
+ | Common Shares | Common Stock | Additional Paid-in Capital | Accumulated Deficit | Total 
+-----------------------------------------------------------------------------------------+---------------+--------------+----------------------------+---------------------+-------
+Balance at January 1, 2015 | 187 | $2 | $553 | $(662) | $(107)
+Issuance of Common Stock for conversion of notes payable and accrued and unpaid interest | 12 | - | 122 | - | 122 
+Issuance of Common Stock for payment of accounts payable | 2 | - | 23 | - | 23 
+Net loss | - | - | | (38) | (38) 
+Balance at December 31, 2015, 2016, 2017, and 2018* | 201 | $2 | $698 | $(700) | $- 
+
+
+ 
+ * There was no activity from December 31, 2015 through December 31, 2018
+  
+ The accompanying notes are an integral part of these financial statements.
+  
+
+   
+-9-
+
+
+
+ 
+ 
+
+  AZZURRA HOLDING CORPORATION
+   STATEMENTS OF CASH FLOWS
+  (In thousands)
+  
+ 
+ | Year Ended December 31, 2018 | Year Ended December 31, 2017 | Year Ended December 31, 2016 | Year Ended December 31, 2015
+---------------------------------------------------------------------------------------------------+------------------------------+------------------------------+------------------------------+-----------------------------
+Cash flows from operating activities: | | | | 
+Net loss | $- | $- | $- | $(38) 
+Non-cash fair value of Common Stock issued in connection with notes payable | - | - | - | 13 
+Non-cash loss on the issuance of Common Stock in connection with accrued interest on notes payable | - | - | - | 7 
+Non-cash fair value of Common Stock issued in connection with accounts payable | - | - | - | 23 
+Changes in operating assets and liabilities: | | | | 
+Current liabilities | - | - | (1) | (20) 
+Net cash used in operating activities | - | - | | 
+ | | | (1) | (15) 
+Cash flows from financing activities: | | | | 
+Proceeds from shareholder loans | - | - | - | 13 
+Net cash provided by financing activities | - | - | - | 13 
+Net change in cash and cash equivalents | - | - | (1) | (2) 
+Cash and cash equivalents at beginning of the year | - | - | 1 | 3 
+Cash and cash equivalents at end of the year | $- | $- | $- | $1 
+
+
+ 
+ The accompanying notes are an integral part of these financial statements.
+  
+ 
+   AZZURRA HOLDING CORPORATION
+   CONDENSED STATEMENTS OF CASH FLOWS
+  (In thousands)
+ 
+ 
+ | Three Months Ended March 31, 2018 (unaudited) | Three Months Ended March 31, 2017 (unaudited) | Six Months Ended June 30, 2018 (unaudited) | Six Months Ended June 30, 2017 (unaudited) | Nine Months Ended September 30, 2018 (unaudited) | Nine Months Ended September 30, 2017 (unaudited)
+---------------------------------------------------+-----------------------------------------------+-----------------------------------------------+--------------------------------------------+--------------------------------------------+--------------------------------------------------+-------------------------------------------------
+Cash flows from operating activities: | | | | | | 
+Net loss | $- | $- | $- | $- | $- | $- 
+Changes in operating assets and liabilities: | | | | | | 
+Current liabilities | - | - | - | - | - | - 
+Net cash used in operating activities | - | - | - | - | - | - 
+Cash flows from financing activities: | - | - | - | - | - | - 
+Net cash provided by financing activities | | | - | - | - | - 
+Net change in cash and cash equivalents | | - | - | - | - | - 
+ | - | - | - | - | - | - 
+Cash and cash equivalents at beginning of the year | - | - | - | - | - | - 
+Cash and cash equivalents at end of the year | $- | $- | $- | $- | $- | $- 
+
+
+ 
+ The accompanying notes are an integral part of these financial statements.
+    
+-10-
+
+
+
+ 
+ 
+  AZZURRA HOLDING CORPORATION
+   NOTES TO THE FINANCIAL STATEMENTS
+  
+ 
+1. | BACKGROUND AND ORGANIZATION
+---+----------------------------
+
+ Azzurra Holding Corporation, formerly known as Wave Wireless Corporation (“Wave”), is a Delaware corporation.  Wave became Azzurra Holding Corporation (the “Company”) on June 28, 2007.
+  
+ The Company currently has no ongoing operations.   The Board of Directors has determined to maintain the Company as a public shell corporation, which will seek suitable business combination opportunities.  The Board believes that a business combination with an operating company has the potential to create greater value for the Company’s stockholders than a liquidation or similar distribution.
+
+2. | BASIS OF PRESENTATION SIGNIFICANT ACCOUNTING POLICIES
+---+------------------------------------------------------
+
+ SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+  
+  Basis of Presentation
+  
+ Since July 2007, the Company has been a non-operating shell company and its business operations were limited to sustaining the public shell.
+  
+  Accounting Estimates
+  
+ In preparing the financial statements in conformity with accounting principles generally accepted in the United States of America, management makes estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the financial statements, as well as the reported amounts of revenues and expense during the reporting period. Actual results could differ from those estimates.
+ Income Tax
+  
+ Deferred income tax assets and liabilities are computed annually for differences between the financial statement and federal income tax bases of assets and liabilities that will result in taxable or deductible amounts in the future, based on enacted tax laws and rates applicable to the periods in which the differences are expected to affect taxable income.  Valuation allowances are established when necessary to reduce deferred tax assets to the amount expected to be realized. See also Note 6.
+ Net Loss per Share
+  
+ Basic and diluted loss per common share are computed by dividing the net loss by the weighted average common shares outstanding.  No options or warrants were outstanding for any period.  
+ Recent Accounting Pronouncements
+  
+ In August 2014, the Financial Accounting Standards Board issued ASU No. 201415, “Presentation of Financial Statements Going Concern (Subtopic 20540): Disclosure of Uncertainties about an Entity’s Ability to Continue as a Going Concern” (“ASU 2014-15”) ASU 201415 is intended to define management’s responsibility to evaluate whether there is substantial doubt about an organization’s ability to continue as a going concern and to provide related footnote disclosure. This ASU provides guidance to an organization’s management, with principles and definitions that are intended to reduce diversity in the timing and content of disclosures that are commonly provided by organizations today in the financial statement footnotes. The amendments are effective for annual periods ending after December 15, 2016, and interim periods within annual periods beginning after December 15, 2016. Early adoption is permitted for annual or interim reporting periods for which the financial statements have not previously been issued. We evaluated the impact the revised guidance had on our financial statements and determined it had no significant impact.
+ 
+ 
+ 
+   
+-11-
+
+
+
+ 
+  
+ 
+ 
+3. | GOING CONCERN
+---+--------------
+
+
+ 
+ The accompanying financial statements have been prepared assuming the Company will continue as a going concern.
+  
+ The Company currently has no operations and intends to locate and combine with an existing, privately-held company that is profitable or which, in management's view, has growth potential, irrespective of the industry in which it is engaged.  However, the Company does not intend to combine with a private company, which may be deemed to be an investment company subject to the Investment Company Act of 1940. A combination may be structured as a merger, consolidation, exchange of the Company's common stock for stock or assets or any other from which will result in the combined enterprise's becoming a publicly-held corporation.
+  
+ Pending negotiation and consummation of a combination, the Company anticipates that it will have, aside from carrying on its search for a combination partner, no business activities, and, thus, will have no source of revenue.  To continue as a going concern, pending consummation of a transaction, the Company intends to either seek additional equity or debt financing.  No assurances can be given that such equity or debt financing will be available to the Company nor can there be any assurance that a combination transaction will be consummated.  Should the Company need to incur any significant liabilities prior to a combination transaction, including those associated with the current minimal level of general and administrative expenses, it may not be able to satisfy those liabilities in the event it was unable to obtain additional equity or debt financing.
+  
+ 
+4. | NOTES PAYABLE
+---+--------------
+
+
+ 
+ Prior to January 1, 2015, the Company issued promissory notes with an aggregate principal amount of $87,500.00. On March 17, 2015 and March 31, 2015, the Company issued additional promissory notes in the principal amount of $5,000.00 each, and on August 7, 2015, the Company issued an additional promissory note in the principal amount of $2,500.00 (collectively, the “Notes”).  Each of the Notes are payable on demand and accrue interest at the rate of 7% annually.  On December 31, 2015, the principal and accrued and unpaid interest on the Notes were converted into 12,157 shares of the Company’s Common Stock in full satisfaction of the Notes. Given the related-party nature of the transactions, no gain or loss was required upon conversion. As of the year ended December 31, 2015, the Company had no further obligation under the Notes.
+  
+ 
+5. | STOCKHOLDERS’ EQUITY
+---+---------------------
+
+
+ 
+ At December 31, 2018, 2017, 2016 and 2015, the authorized shares of the Company consisted of 250,000 shares of common stock, $0.01 par value, and 201,457 shares were issued and outstanding. 
+  
+ 
+6. | INCOME TAXES
+---+-------------
+
+
+ 
+ On December 22, 2017, the Tax Cuts and Jobs Act (the “Tax Act”) was enacted and implements comprehensive tax legislation which, among other changes, reduces the federal statutory corporate tax rate from 35% to 21%, requires companies to pay a one-time transition tax on earnings of certain foreign subsidiaries that were previously deferred, creates new provisions related to foreign sourced earnings, eliminates the domestic manufacturing deduction and moves to a territorial system.  Additionally, in December 2017, the Securities and Exchange Commission staff issued Staff Accounting Bulletin No. 118 (“SAB 118”), which addresses how a company recognizes provisional amounts when a company does not have the necessary information available, prepared or analyzed (including computations) in reasonable detail to complete its accounting for the effect of the changes in the Tax Act. The measurement period, as defined in SAB 118, ends when a company has obtained, prepared and analyzed the information necessary to finalize its accounting, but cannot extend beyond one year. During the measurement period, provisional amounts may also be adjusted for the effects, if any, of interpretative guidance issued after December 31, 2017, by U.S. regulatory and standard-setting bodies.
+  
+ Based on the provisions of the Tax Act, the Company re-measured its U.S. deferred tax assets and liabilities and adjusted its deferred tax balances to reflect the lower U.S. corporate income tax rate at December 31, 2018 and 2017.
+  
+ 
+ 
+   
+-12-
+
+
+
+ 
+  
+Deferred tax assets consist of the following (in thousands):
+  
+ | December 31, 2018 | December 31, 2017 | December 31, 2016 | December 31, 2015
+----------------------------------+-------------------+-------------------+-------------------+------------------
+Net operating loss carry-forwards | $77,211 | $77,140 | $132,300 | $133,844 
+Credit carry-forwards | 253 | 253 | 561 | 939 
+Reserves and other | 82 | 82 | 82 | 82 
+Total deferred tax assets | 77,545 | 77,475 | 132,942 | 134,865 
+Valuation allowance | (77,545) | (77,475) | (132,942) | (134,865) 
+Net deferred tax asset | $- | $- | $- | $- 
+
+
+   The Federal net operating loss carryforward for tax purposes and state net operating loss carryforward for tax purposes is approximately $370 million, $370 million, $441 million and $469 million, respectively, at December 31, 2018, 2017, 2016 and 2015, which expire in various amount annually through 2028.  The Company's ability to utilize these carryforwards may be severely limited or lost pursuant to Section 382 of the Internal Revenue Code as a result of the change in control of the Company on June 14, 2007.  Other limitations may apply as well.  The Company has made no determination as to what these limitations may be.
+  
+ Deferred income taxes reflect the tax consequences on future years of differences between the tax bases of assets and liabilities and their bases for financial reporting purposes. In addition, future tax benefits, such as net operating loss carry-forwards, are recognized to the extent that realization of such benefits is more likely than not. The Company has assessed its ability to realize future tax benefits, and concluded that as a result of the history of losses, it was more likely than not, that such benefits would not be realized. Accordingly, the Company has recorded a full valuation allowance against future tax benefits.
+  
+ Reconciliation of the statutory Federal income tax rate to its effective tax rate is as follows:
+
+ 
+ | December 31, 2018 | December 31, 2017 | December 31, 2016 | December 31, 2015
+---------------------------------------------+-------------------+-------------------+-------------------+------------------
+Income tax benefit at federal statutory rate | 21.00% | 35.00% | 35.0% | 35.0% 
+State income taxes net of federal benefit | 6.98% | 6.98% | 5.8% | 5.80% 
+Expiring credits and other | 0% | 0% | 0% | 467.30% 
+Change in valuation allowance | (27.98)% | (41.98)% | (41.98)% | (508.1)% 
+Total | 0.00% | 0.00% | 0.00% | 0.00% 
+
+
+7. | RELATED PARTY TRANSACTION
+---+--------------------------
+
+
+ 
+ During the years ended December 31, 2018, 2017, 2016 and 2015, we contracted with SEC Connect, whose principal is the Company’s Chief Executive Officer, to provide the Company with EDGAR filing services. For the years ended December 31, 2018, 2017, 2016 and 2015, we paid SEC Connect $0, $0, $1 and $3 in filing fees, respectively, which amounts included fees paid to comply with the requirement that the Company file its financial statements with the Securities and Exchange Commission in XBRL. We believe the terms of this agreement are no less favorable to us than we could have obtained from an unaffiliated party.
+  
+ On January 12, 2012, SDS Capital Group, SPC Ltd. (“SDS”) sold, transferred and assigned 80,000 shares of Common Stock held by it to Daniel W. Rumsey, an officer and director of the Company. Similarly, on December 31, 2015, SDS sold, transferred and assigned to Mr. Rumsey certain promissory notes issued by the Company to SDS totaling $73 as of such date, which amount was converted into 7,287 shares of the Company’s Common Stock on December 31, 2015. Also on December 31, 2015, the Company issued 2,300 shares of Common Stock to Disclosure Law Group, a sole proprietorship owned by Mr. Rumsey (“DLG”), for and in consideration for the cancellation of $23 of accounts payable to DLG. The shares of Common Stock issued to DLG were assigned to Mr. Rumsey on the date of issuance.
+  
+ 
+8. | SUBSEQUENT EVENTS
+---+------------------
+
+
+ 
+ On March 27, 2019, the Company filed an Amended and Restated Certificate of Incorporation to increase its authorized capital stock from 250 shares of Common Stock to 105,000,000 shares, of which 100,000,000 shall be Common Stock, and 5,000,000 shall be preferred stock. Also, on March 27, 2019, the Company issued 3,827,683 shares of Common Stock to Red Beard Holdings, LLC, for and in consideration for the payment to the Company of $50, or $0.013 per share.
+  
+ 
+ 
+ 
+ 
+   
+-13-
+
+
+
+ 
+ 
+
