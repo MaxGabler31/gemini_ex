@@ -24,9 +24,6 @@ Extrahiere außerdem folgende zusätzliche Informationen aus dem Text, falls ver
    - **Wiederverkaufswert bzw. Verlust dabei**: Der Wiederverkaufswert des Fahrzeugs oder der erlittene Verlust (z. B. Wiederverkaufswert: 12.500 EUR, Verlust: 8.000 EUR).  
 
 Gib das Ergebnis im folgenden Format zurück:  
-
-[
-  {
     'Gerichtstyp': 'Bestimmung des Gerichtstyps',
     'Urteil': 'Ergebnis der Bestimmung des Urteils',
     'Fahrzeugmodell': 'Modell des Fahrzeugs',
@@ -36,8 +33,6 @@ Gib das Ergebnis im folgenden Format zurück:
     'Bundesland': 'Bundesland des Gerichts',
     'Baujahr': 'Baujahr des Fahrzeugs',
     'Wiederverkaufswert/Verlust': 'Wiederverkaufswert oder Verlust in EUR'
-  }
-]
 
 Rechtsprechung
 						Aktuell
