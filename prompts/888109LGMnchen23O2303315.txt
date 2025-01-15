@@ -23,7 +23,7 @@ Extrahiere außerdem folgende zusätzliche Informationen aus dem Text, falls ver
    - **Baujahr**: Das Baujahr des Fahrzeugs (z. B. 2015).  
    - **Wiederverkaufswert bzw. Verlust dabei**: Der Wiederverkaufswert des Fahrzeugs oder der erlittene Verlust (z. B. Wiederverkaufswert: 12.500 EUR, Verlust: 8.000 EUR).  
 
-Gib das Ergebnis so zurück, dass es in R einfach einzulesen ist
+Könntest du mir die Ergebnisse in einer JSON-Datei wie dieser zurückgeben. Diese soll folgende Struktur haben:'[{'Gerichtstyp':'Bestimmung des Gerichtstyps'; 'Urteil':'Ergebnis der Bestimmung des Urteils'    'Fahrzeugmodell': 'Modell des Fahrzeugs', 'Streitwert/Klageforderung': 'Streitwert oder Klageforderung in EUR', 'Kaufdatum': 'Datum des Kaufs (TT.MM.JJJJ)', 'Gericht': 'Name des Gerichts', 'Bundesland': 'Bundesland des Gerichts', 'Baujahr': 'Baujahr des Fahrzeugs', 'Wiederverkaufswert/Verlust': 'Wiederverkaufswert oder Verlust in EUR'}]'. Es soll immer nur der Gerichtstyp und das Ergebnis des Urteils ausgegegeben werden. (z.B. Gerichtstyp: OLG, Urteil: 23.522,43 EUR). Und die Tabelle soll nur einen Eintrag haben.
 
 Rechtsprechung
 						Aktuell
