@@ -20,10 +20,11 @@ Extrahiere außerdem folgende zusätzliche Informationen aus dem Text, falls ver
    - **Kaufdatum**: Das Datum, an dem das Fahrzeug gekauft wurde (z. B. 15.07.2019).  
    - **Gericht**: Das genaue Gericht, das den Fall behandelt (z. B. Landgericht Stuttgart, Oberlandesgericht München).  
    - **Bundesland**: Das Bundesland, in dem das Gericht liegt (z. B. Baden-Württemberg, Bayern).  
-   - **Baujahr**: Das Baujahr des Fahrzeugs (z. B. 2015).  
-   - **Wiederverkaufswert bzw. Verlust dabei**: Der Wiederverkaufswert des Fahrzeugs oder der erlittene Verlust (z. B. Wiederverkaufswert: 12.500 EUR, Verlust: 8.000 EUR).  
+   - **Baujahr**: Suche gezielt nach Hinweisen auf das Baujahr des Fahrzeugs. Das Baujahr wird oft in Form einer Jahreszahl (z. B. 2015) angegeben, die sich auf das Fahrzeug bezieht. Ignoriere Jahreszahlen, die keinen Bezug zum Fahrzeug haben.  
+   - **Wiederverkaufswert bzw. Verlust dabei**: Suche nach Hinweisen auf den Wiederverkaufswert oder den Verlust im Zusammenhang mit dem Fahrzeug. Diese Informationen könnten explizit als 'Wiederverkaufswert', 'Restwert' oder als Differenz zwischen Kaufpreis und Verkaufspreis angegeben sein. Wenn der Text nur auf einen Wert hinweist, gib ihn direkt aus. Wenn kein Wert gefunden wird, gib 'Nicht angegeben' zurück.  
+ 
 
-Könntest du mir die Ergebnisse in einer JSON-Datei wie dieser zurückgeben. Diese soll folgende Struktur haben:'[{'Gerichtstyp':'Bestimmung des Gerichtstyps'; 'Urteil':'Ergebnis der Bestimmung des Urteils'    'Fahrzeugmodell': 'Modell des Fahrzeugs', 'Streitwert/Klageforderung': 'Streitwert oder Klageforderung in EUR', 'Kaufdatum': 'Datum des Kaufs (TT.MM.JJJJ)', 'Gericht': 'Name des Gerichts', 'Bundesland': 'Bundesland des Gerichts', 'Baujahr': 'Baujahr des Fahrzeugs', 'Wiederverkaufswert/Verlust': 'Wiederverkaufswert oder Verlust in EUR'}]'. Es soll immer nur der Gerichtstyp und das Ergebnis des Urteils ausgegegeben werden. (z.B. Gerichtstyp: OLG, Urteil: 23.522,43 EUR). Und die Tabelle soll nur einen Eintrag haben.
+Könntest du mir die Ergebnisse in einer JSON-Datei wie dieser zurückgeben. Diese soll folgende Struktur haben:'[{'Gerichtstyp':'Bestimmung des Gerichtstyps'; 'Urteil':'Ergebnis der Bestimmung des Urteils'    'Fahrzeugmodell': 'Modell des Fahrzeugs', 'Streitwert/Klageforderung': 'Streitwert oder Klageforderung in EUR', 'Kaufdatum': 'Datum des Kaufs (TT.MM.JJJJ)', 'Gericht': 'Name des Gerichts', 'Bundesland': 'Bundesland des Gerichts', 'Baujahr': 'Baujahr des Fahrzeugs', 'Wiederverkaufswert/Verlust': 'Wiederverkaufswert oder Verlust in EUR'}]'. Es soll immer nur das jeweilige Ergebnis des Urteils ausgegegeben werden. (z.B. Gerichtstyp: OLG, Urteil: 23.522,43 EUR usw.). Und die Tabelle soll nur einen Eintrag haben.
 
 Rechtsprechung
 						Aktuell
